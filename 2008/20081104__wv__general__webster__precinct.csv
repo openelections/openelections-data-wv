@@ -1,0 +1,361 @@
+county,precinct,office,district,party,candidate,votes
+Webster,Total,Attorney General,,REP,Daniel W.Greear,960
+Webster,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",2022
+Webster,10,Attorney General,,REP,Daniel W.Greear,14
+Webster,15,Attorney General,,REP,Daniel W.Greear,116
+Webster,18,Attorney General,,REP,Daniel W.Greear,47
+Webster,2,Attorney General,,REP,Daniel W.Greear,106
+Webster,21,Attorney General,,REP,Daniel W.Greear,74
+Webster,22,Attorney General,,REP,Daniel W.Greear,74
+Webster,23,Attorney General,,REP,Daniel W.Greear,104
+Webster,24,Attorney General,,REP,Daniel W.Greear,80
+Webster,27,Attorney General,,REP,Daniel W.Greear,45
+Webster,29,Attorney General,,REP,Daniel W.Greear,31
+Webster,3,Attorney General,,REP,Daniel W.Greear,57
+Webster,4,Attorney General,,REP,Daniel W.Greear,62
+Webster,5,Attorney General,,REP,Daniel W.Greear,68
+Webster,8,Attorney General,,REP,Daniel W.Greear,82
+Webster,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",32
+Webster,15,Attorney General,,DEM,"Darrell V. McGraw, Jr.",223
+Webster,18,Attorney General,,DEM,"Darrell V. McGraw, Jr.",77
+Webster,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",196
+Webster,21,Attorney General,,DEM,"Darrell V. McGraw, Jr.",123
+Webster,22,Attorney General,,DEM,"Darrell V. McGraw, Jr.",158
+Webster,23,Attorney General,,DEM,"Darrell V. McGraw, Jr.",193
+Webster,24,Attorney General,,DEM,"Darrell V. McGraw, Jr.",144
+Webster,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",114
+Webster,29,Attorney General,,DEM,"Darrell V. McGraw, Jr.",66
+Webster,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",188
+Webster,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",160
+Webster,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",119
+Webster,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",229
+Webster,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,2097
+Webster,Total,Commissioner of Agriculture,,REP,James Michael Teets,827
+Webster,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,29
+Webster,15,Commissioner of Agriculture,,DEM,Gus R. Douglass,243
+Webster,18,Commissioner of Agriculture,,DEM,Gus R. Douglass,67
+Webster,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,206
+Webster,21,Commissioner of Agriculture,,DEM,Gus R. Douglass,130
+Webster,22,Commissioner of Agriculture,,DEM,Gus R. Douglass,157
+Webster,23,Commissioner of Agriculture,,DEM,Gus R. Douglass,213
+Webster,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,155
+Webster,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,114
+Webster,29,Commissioner of Agriculture,,DEM,Gus R. Douglass,75
+Webster,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,186
+Webster,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,165
+Webster,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,129
+Webster,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,228
+Webster,10,Commissioner of Agriculture,,REP,James Michael Teets,14
+Webster,15,Commissioner of Agriculture,,REP,James Michael Teets,95
+Webster,18,Commissioner of Agriculture,,REP,James Michael Teets,47
+Webster,2,Commissioner of Agriculture,,REP,James Michael Teets,83
+Webster,21,Commissioner of Agriculture,,REP,James Michael Teets,54
+Webster,22,Commissioner of Agriculture,,REP,James Michael Teets,76
+Webster,23,Commissioner of Agriculture,,REP,James Michael Teets,90
+Webster,24,Commissioner of Agriculture,,REP,James Michael Teets,69
+Webster,27,Commissioner of Agriculture,,REP,James Michael Teets,39
+Webster,29,Commissioner of Agriculture,,REP,James Michael Teets,18
+Webster,3,Commissioner of Agriculture,,REP,James Michael Teets,57
+Webster,4,Commissioner of Agriculture,,REP,James Michael Teets,58
+Webster,5,Commissioner of Agriculture,,REP,James Michael Teets,58
+Webster,8,Commissioner of Agriculture,,REP,James Michael Teets,69
+Webster,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",161
+Webster,Total,Governor,,DEM,"Joe Manchin, III",2361
+Webster,Total,Governor,,REP,Russell E. Weeks Jr,555
+Webster,10,Governor,,MTN,"Jesse C. Johnson, Jr.",0
+Webster,15,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Webster,18,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Webster,2,Governor,,MTN,"Jesse C. Johnson, Jr.",13
+Webster,21,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Webster,22,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Webster,23,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Webster,24,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Webster,27,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Webster,29,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Webster,3,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Webster,4,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Webster,5,Governor,,MTN,"Jesse C. Johnson, Jr.",13
+Webster,8,Governor,,MTN,"Jesse C. Johnson, Jr.",17
+Webster,10,Governor,,DEM,"Joe Manchin, III",41
+Webster,15,Governor,,DEM,"Joe Manchin, III",264
+Webster,18,Governor,,DEM,"Joe Manchin, III",93
+Webster,2,Governor,,DEM,"Joe Manchin, III",233
+Webster,21,Governor,,DEM,"Joe Manchin, III",156
+Webster,22,Governor,,DEM,"Joe Manchin, III",176
+Webster,23,Governor,,DEM,"Joe Manchin, III",244
+Webster,24,Governor,,DEM,"Joe Manchin, III",158
+Webster,27,Governor,,DEM,"Joe Manchin, III",121
+Webster,29,Governor,,DEM,"Joe Manchin, III",80
+Webster,3,Governor,,DEM,"Joe Manchin, III",213
+Webster,4,Governor,,DEM,"Joe Manchin, III",180
+Webster,5,Governor,,DEM,"Joe Manchin, III",145
+Webster,8,Governor,,DEM,"Joe Manchin, III",257
+Webster,10,Governor,,REP,Russell E. Weeks Jr,7
+Webster,15,Governor,,REP,Russell E. Weeks Jr,70
+Webster,18,Governor,,REP,Russell E. Weeks Jr,24
+Webster,2,Governor,,REP,Russell E. Weeks Jr,59
+Webster,21,Governor,,REP,Russell E. Weeks Jr,31
+Webster,22,Governor,,REP,Russell E. Weeks Jr,50
+Webster,23,Governor,,REP,Russell E. Weeks Jr,49
+Webster,24,Governor,,REP,Russell E. Weeks Jr,67
+Webster,27,Governor,,REP,Russell E. Weeks Jr,26
+Webster,29,Governor,,REP,Russell E. Weeks Jr,11
+Webster,3,Governor,,REP,Russell E. Weeks Jr,28
+Webster,4,Governor,,REP,Russell E. Weeks Jr,40
+Webster,5,Governor,,REP,Russell E. Weeks Jr,38
+Webster,8,Governor,,REP,Russell E. Weeks Jr,55
+Webster,Total,President,,DEM,Barack Hussein Obama,1552
+Webster,Total,President,,CON,Charles Obadiah Baldwin,37
+Webster,Total,President,,MTN,Cynthia Ann McKinney,22
+Webster,Total,President,,REP,John Sidney McCain III,1386
+Webster,Total,President,,,Ralph Nader,55
+Webster,10,President,,DEM,Barack Hussein Obama,22
+Webster,15,President,,DEM,Barack Hussein Obama,176
+Webster,18,President,,DEM,Barack Hussein Obama,52
+Webster,2,President,,DEM,Barack Hussein Obama,135
+Webster,21,President,,DEM,Barack Hussein Obama,90
+Webster,22,President,,DEM,Barack Hussein Obama,110
+Webster,23,President,,DEM,Barack Hussein Obama,169
+Webster,24,President,,DEM,Barack Hussein Obama,111
+Webster,27,President,,DEM,Barack Hussein Obama,91
+Webster,29,President,,DEM,Barack Hussein Obama,52
+Webster,3,President,,DEM,Barack Hussein Obama,132
+Webster,4,President,,DEM,Barack Hussein Obama,148
+Webster,5,President,,DEM,Barack Hussein Obama,95
+Webster,8,President,,DEM,Barack Hussein Obama,169
+Webster,10,President,,CON,Charles Obadiah Baldwin,0
+Webster,15,President,,CON,Charles Obadiah Baldwin,4
+Webster,18,President,,CON,Charles Obadiah Baldwin,1
+Webster,2,President,,CON,Charles Obadiah Baldwin,8
+Webster,21,President,,CON,Charles Obadiah Baldwin,3
+Webster,22,President,,CON,Charles Obadiah Baldwin,4
+Webster,23,President,,CON,Charles Obadiah Baldwin,2
+Webster,24,President,,CON,Charles Obadiah Baldwin,0
+Webster,27,President,,CON,Charles Obadiah Baldwin,1
+Webster,29,President,,CON,Charles Obadiah Baldwin,3
+Webster,3,President,,CON,Charles Obadiah Baldwin,2
+Webster,4,President,,CON,Charles Obadiah Baldwin,2
+Webster,5,President,,CON,Charles Obadiah Baldwin,3
+Webster,8,President,,CON,Charles Obadiah Baldwin,4
+Webster,10,President,,MTN,Cynthia Ann McKinney,0
+Webster,15,President,,MTN,Cynthia Ann McKinney,1
+Webster,18,President,,MTN,Cynthia Ann McKinney,0
+Webster,2,President,,MTN,Cynthia Ann McKinney,1
+Webster,21,President,,MTN,Cynthia Ann McKinney,3
+Webster,22,President,,MTN,Cynthia Ann McKinney,1
+Webster,23,President,,MTN,Cynthia Ann McKinney,2
+Webster,24,President,,MTN,Cynthia Ann McKinney,0
+Webster,27,President,,MTN,Cynthia Ann McKinney,1
+Webster,29,President,,MTN,Cynthia Ann McKinney,1
+Webster,3,President,,MTN,Cynthia Ann McKinney,2
+Webster,4,President,,MTN,Cynthia Ann McKinney,2
+Webster,5,President,,MTN,Cynthia Ann McKinney,3
+Webster,8,President,,MTN,Cynthia Ann McKinney,5
+Webster,10,President,,REP,John Sidney McCain III,24
+Webster,15,President,,REP,John Sidney McCain III,157
+Webster,18,President,,REP,John Sidney McCain III,70
+Webster,2,President,,REP,John Sidney McCain III,156
+Webster,21,President,,REP,John Sidney McCain III,96
+Webster,22,President,,REP,John Sidney McCain III,118
+Webster,23,President,,REP,John Sidney McCain III,129
+Webster,24,President,,REP,John Sidney McCain III,115
+Webster,27,President,,REP,John Sidney McCain III,62
+Webster,29,President,,REP,John Sidney McCain III,39
+Webster,3,President,,REP,John Sidney McCain III,111
+Webster,4,President,,REP,John Sidney McCain III,87
+Webster,5,President,,REP,John Sidney McCain III,92
+Webster,8,President,,REP,John Sidney McCain III,130
+Webster,10,President,,,Ralph Nader,0
+Webster,15,President,,,Ralph Nader,6
+Webster,18,President,,,Ralph Nader,1
+Webster,2,President,,,Ralph Nader,4
+Webster,21,President,,,Ralph Nader,4
+Webster,22,President,,,Ralph Nader,1
+Webster,23,President,,,Ralph Nader,6
+Webster,24,President,,,Ralph Nader,3
+Webster,27,President,,,Ralph Nader,3
+Webster,29,President,,,Ralph Nader,4
+Webster,3,President,,,Ralph Nader,4
+Webster,4,President,,,Ralph Nader,5
+Webster,5,President,,,Ralph Nader,4
+Webster,8,President,,,Ralph Nader,10
+Webster,Total,Secretary of State,,REP,Charles Theophilus Minimah,568
+Webster,Total,Secretary of State,,DEM,Natalie Tennant,2410
+Webster,10,Secretary of State,,REP,Charles Theophilus Minimah,11
+Webster,15,Secretary of State,,REP,Charles Theophilus Minimah,67
+Webster,18,Secretary of State,,REP,Charles Theophilus Minimah,38
+Webster,2,Secretary of State,,REP,Charles Theophilus Minimah,48
+Webster,21,Secretary of State,,REP,Charles Theophilus Minimah,23
+Webster,22,Secretary of State,,REP,Charles Theophilus Minimah,52
+Webster,23,Secretary of State,,REP,Charles Theophilus Minimah,64
+Webster,24,Secretary of State,,REP,Charles Theophilus Minimah,68
+Webster,27,Secretary of State,,REP,Charles Theophilus Minimah,34
+Webster,29,Secretary of State,,REP,Charles Theophilus Minimah,12
+Webster,3,Secretary of State,,REP,Charles Theophilus Minimah,46
+Webster,4,Secretary of State,,REP,Charles Theophilus Minimah,23
+Webster,5,Secretary of State,,REP,Charles Theophilus Minimah,36
+Webster,8,Secretary of State,,REP,Charles Theophilus Minimah,46
+Webster,10,Secretary of State,,DEM,Natalie Tennant,32
+Webster,15,Secretary of State,,DEM,Natalie Tennant,272
+Webster,18,Secretary of State,,DEM,Natalie Tennant,80
+Webster,2,Secretary of State,,DEM,Natalie Tennant,256
+Webster,21,Secretary of State,,DEM,Natalie Tennant,167
+Webster,22,Secretary of State,,DEM,Natalie Tennant,182
+Webster,23,Secretary of State,,DEM,Natalie Tennant,237
+Webster,24,Secretary of State,,DEM,Natalie Tennant,146
+Webster,27,Secretary of State,,DEM,Natalie Tennant,118
+Webster,29,Secretary of State,,DEM,Natalie Tennant,83
+Webster,3,Secretary of State,,DEM,Natalie Tennant,204
+Webster,4,Secretary of State,,DEM,Natalie Tennant,214
+Webster,5,Secretary of State,,DEM,Natalie Tennant,154
+Webster,8,Secretary of State,,DEM,Natalie Tennant,265
+Webster,Total,State Auditor,,DEM,Glen B. Gainer III,2435
+Webster,10,State Auditor,,DEM,Glen B. Gainer III,35
+Webster,15,State Auditor,,DEM,Glen B. Gainer III,291
+Webster,18,State Auditor,,DEM,Glen B. Gainer III,101
+Webster,2,State Auditor,,DEM,Glen B. Gainer III,241
+Webster,21,State Auditor,,DEM,Glen B. Gainer III,167
+Webster,22,State Auditor,,DEM,Glen B. Gainer III,186
+Webster,23,State Auditor,,DEM,Glen B. Gainer III,262
+Webster,24,State Auditor,,DEM,Glen B. Gainer III,158
+Webster,27,State Auditor,,DEM,Glen B. Gainer III,122
+Webster,29,State Auditor,,DEM,Glen B. Gainer III,77
+Webster,3,State Auditor,,DEM,Glen B. Gainer III,213
+Webster,4,State Auditor,,DEM,Glen B. Gainer III,177
+Webster,5,State Auditor,,DEM,Glen B. Gainer III,148
+Webster,8,State Auditor,,DEM,Glen B. Gainer III,257
+Webster,Total,State House,,DEM,Joseph B. Talbott,2495
+Webster,10,State House,,DEM,Joseph B. Talbott,37
+Webster,15,State House,,DEM,Joseph B. Talbott,292
+Webster,18,State House,,DEM,Joseph B. Talbott,100
+Webster,2,State House,,DEM,Joseph B. Talbott,248
+Webster,21,State House,,DEM,Joseph B. Talbott,156
+Webster,22,State House,,DEM,Joseph B. Talbott,193
+Webster,23,State House,,DEM,Joseph B. Talbott,257
+Webster,24,State House,,DEM,Joseph B. Talbott,182
+Webster,27,State House,,DEM,Joseph B. Talbott,133
+Webster,29,State House,,DEM,Joseph B. Talbott,84
+Webster,3,State House,,DEM,Joseph B. Talbott,213
+Webster,4,State House,,DEM,Joseph B. Talbott,184
+Webster,5,State House,,DEM,Joseph B. Talbott,145
+Webster,8,State House,,DEM,Joseph B. Talbott,271
+Webster,Total,State Senate,,REP,Aubry Angell Wilson,881
+Webster,Total,State Senate,,MTN,James Andrew Waddell,210
+Webster,Total,State Senate,,DEM,William Ramsey Laird IV,1750
+Webster,10,State Senate,,REP,Aubry Angell Wilson,13
+Webster,15,State Senate,,REP,Aubry Angell Wilson,103
+Webster,18,State Senate,,REP,Aubry Angell Wilson,35
+Webster,2,State Senate,,REP,Aubry Angell Wilson,80
+Webster,21,State Senate,,REP,Aubry Angell Wilson,49
+Webster,22,State Senate,,REP,Aubry Angell Wilson,72
+Webster,23,State Senate,,REP,Aubry Angell Wilson,81
+Webster,24,State Senate,,REP,Aubry Angell Wilson,107
+Webster,27,State Senate,,REP,Aubry Angell Wilson,42
+Webster,29,State Senate,,REP,Aubry Angell Wilson,23
+Webster,3,State Senate,,REP,Aubry Angell Wilson,62
+Webster,4,State Senate,,REP,Aubry Angell Wilson,62
+Webster,5,State Senate,,REP,Aubry Angell Wilson,73
+Webster,8,State Senate,,REP,Aubry Angell Wilson,79
+Webster,10,State Senate,,MTN,James Andrew Waddell,2
+Webster,15,State Senate,,MTN,James Andrew Waddell,16
+Webster,18,State Senate,,MTN,James Andrew Waddell,19
+Webster,2,State Senate,,MTN,James Andrew Waddell,21
+Webster,21,State Senate,,MTN,James Andrew Waddell,11
+Webster,22,State Senate,,MTN,James Andrew Waddell,18
+Webster,23,State Senate,,MTN,James Andrew Waddell,29
+Webster,24,State Senate,,MTN,James Andrew Waddell,7
+Webster,27,State Senate,,MTN,James Andrew Waddell,12
+Webster,29,State Senate,,MTN,James Andrew Waddell,6
+Webster,3,State Senate,,MTN,James Andrew Waddell,19
+Webster,4,State Senate,,MTN,James Andrew Waddell,15
+Webster,5,State Senate,,MTN,James Andrew Waddell,8
+Webster,8,State Senate,,MTN,James Andrew Waddell,27
+Webster,10,State Senate,,DEM,William Ramsey Laird IV,27
+Webster,15,State Senate,,DEM,William Ramsey Laird IV,211
+Webster,18,State Senate,,DEM,William Ramsey Laird IV,61
+Webster,2,State Senate,,DEM,William Ramsey Laird IV,180
+Webster,21,State Senate,,DEM,William Ramsey Laird IV,127
+Webster,22,State Senate,,DEM,William Ramsey Laird IV,136
+Webster,23,State Senate,,DEM,William Ramsey Laird IV,178
+Webster,24,State Senate,,DEM,William Ramsey Laird IV,101
+Webster,27,State Senate,,DEM,William Ramsey Laird IV,94
+Webster,29,State Senate,,DEM,William Ramsey Laird IV,60
+Webster,3,State Senate,,DEM,William Ramsey Laird IV,157
+Webster,4,State Senate,,DEM,William Ramsey Laird IV,132
+Webster,5,State Senate,,DEM,William Ramsey Laird IV,101
+Webster,8,State Senate,,DEM,William Ramsey Laird IV,185
+Webster,Total,State Treasurer,,DEM,John D. Perdue,2459
+Webster,10,State Treasurer,,DEM,John D. Perdue,35
+Webster,15,State Treasurer,,DEM,John D. Perdue,300
+Webster,18,State Treasurer,,DEM,John D. Perdue,100
+Webster,2,State Treasurer,,DEM,John D. Perdue,237
+Webster,21,State Treasurer,,DEM,John D. Perdue,167
+Webster,22,State Treasurer,,DEM,John D. Perdue,195
+Webster,23,State Treasurer,,DEM,John D. Perdue,266
+Webster,24,State Treasurer,,DEM,John D. Perdue,154
+Webster,27,State Treasurer,,DEM,John D. Perdue,120
+Webster,29,State Treasurer,,DEM,John D. Perdue,82
+Webster,3,State Treasurer,,DEM,John D. Perdue,215
+Webster,4,State Treasurer,,DEM,John D. Perdue,175
+Webster,5,State Treasurer,,DEM,John D. Perdue,150
+Webster,8,State Treasurer,,DEM,John D. Perdue,263
+Webster,Total,U.S. House,3,REP,Gary Martin Gearheart,613
+Webster,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",2372
+Webster,10,U.S. House,3,REP,Gary Martin Gearheart,6
+Webster,15,U.S. House,3,REP,Gary Martin Gearheart,76
+Webster,18,U.S. House,3,REP,Gary Martin Gearheart,36
+Webster,2,U.S. House,3,REP,Gary Martin Gearheart,59
+Webster,21,U.S. House,3,REP,Gary Martin Gearheart,44
+Webster,22,U.S. House,3,REP,Gary Martin Gearheart,55
+Webster,23,U.S. House,3,REP,Gary Martin Gearheart,63
+Webster,24,U.S. House,3,REP,Gary Martin Gearheart,56
+Webster,27,U.S. House,3,REP,Gary Martin Gearheart,35
+Webster,29,U.S. House,3,REP,Gary Martin Gearheart,18
+Webster,3,U.S. House,3,REP,Gary Martin Gearheart,41
+Webster,4,U.S. House,3,REP,Gary Martin Gearheart,38
+Webster,5,U.S. House,3,REP,Gary Martin Gearheart,37
+Webster,8,U.S. House,3,REP,Gary Martin Gearheart,49
+Webster,10,U.S. House,3,DEM,"Nick Joe Rahall, II",39
+Webster,15,U.S. House,3,DEM,"Nick Joe Rahall, II",265
+Webster,18,U.S. House,3,DEM,"Nick Joe Rahall, II",83
+Webster,2,U.S. House,3,DEM,"Nick Joe Rahall, II",245
+Webster,21,U.S. House,3,DEM,"Nick Joe Rahall, II",151
+Webster,22,U.S. House,3,DEM,"Nick Joe Rahall, II",185
+Webster,23,U.S. House,3,DEM,"Nick Joe Rahall, II",241
+Webster,24,U.S. House,3,DEM,"Nick Joe Rahall, II",162
+Webster,27,U.S. House,3,DEM,"Nick Joe Rahall, II",125
+Webster,29,U.S. House,3,DEM,"Nick Joe Rahall, II",75
+Webster,3,U.S. House,3,DEM,"Nick Joe Rahall, II",208
+Webster,4,U.S. House,3,DEM,"Nick Joe Rahall, II",192
+Webster,5,U.S. House,3,DEM,"Nick Joe Rahall, II",148
+Webster,8,U.S. House,3,DEM,"Nick Joe Rahall, II",253
+Webster,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,2333
+Webster,Total,U.S. Senate,,REP,Matthew Jay Wolfe,752
+Webster,10,U.S. Senate,,DEM,John Davison Rockefeller IV,34
+Webster,15,U.S. Senate,,DEM,John Davison Rockefeller IV,276
+Webster,18,U.S. Senate,,DEM,John Davison Rockefeller IV,84
+Webster,2,U.S. Senate,,DEM,John Davison Rockefeller IV,236
+Webster,21,U.S. Senate,,DEM,John Davison Rockefeller IV,150
+Webster,22,U.S. Senate,,DEM,John Davison Rockefeller IV,173
+Webster,23,U.S. Senate,,DEM,John Davison Rockefeller IV,241
+Webster,24,U.S. Senate,,DEM,John Davison Rockefeller IV,172
+Webster,27,U.S. Senate,,DEM,John Davison Rockefeller IV,111
+Webster,29,U.S. Senate,,DEM,John Davison Rockefeller IV,75
+Webster,3,U.S. Senate,,DEM,John Davison Rockefeller IV,204
+Webster,4,U.S. Senate,,DEM,John Davison Rockefeller IV,191
+Webster,5,U.S. Senate,,DEM,John Davison Rockefeller IV,133
+Webster,8,U.S. Senate,,DEM,John Davison Rockefeller IV,253
+Webster,10,U.S. Senate,,REP,Matthew Jay Wolfe,12
+Webster,15,U.S. Senate,,REP,Matthew Jay Wolfe,76
+Webster,18,U.S. Senate,,REP,Matthew Jay Wolfe,37
+Webster,2,U.S. Senate,,REP,Matthew Jay Wolfe,75
+Webster,21,U.S. Senate,,REP,Matthew Jay Wolfe,48
+Webster,22,U.S. Senate,,REP,Matthew Jay Wolfe,64
+Webster,23,U.S. Senate,,REP,Matthew Jay Wolfe,71
+Webster,24,U.S. Senate,,REP,Matthew Jay Wolfe,65
+Webster,27,U.S. Senate,,REP,Matthew Jay Wolfe,51
+Webster,29,U.S. Senate,,REP,Matthew Jay Wolfe,28
+Webster,3,U.S. Senate,,REP,Matthew Jay Wolfe,55
+Webster,4,U.S. Senate,,REP,Matthew Jay Wolfe,45
+Webster,5,U.S. Senate,,REP,Matthew Jay Wolfe,62
+Webster,8,U.S. Senate,,REP,Matthew Jay Wolfe,63

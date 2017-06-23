@@ -1,0 +1,937 @@
+county,precinct,office,district,party,candidate,votes
+Logan,Total,Attorney General,,REP,Daniel W.Greear,4016
+Logan,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",8544
+Logan,1,Attorney General,,REP,Daniel W.Greear,87
+Logan,10,Attorney General,,REP,Daniel W.Greear,68
+Logan,11,Attorney General,,REP,Daniel W.Greear,92
+Logan,13,Attorney General,,REP,Daniel W.Greear,84
+Logan,14,Attorney General,,REP,Daniel W.Greear,79
+Logan,15,Attorney General,,REP,Daniel W.Greear,302
+Logan,2,Attorney General,,REP,Daniel W.Greear,163
+Logan,20,Attorney General,,REP,Daniel W.Greear,117
+Logan,21,Attorney General,,REP,Daniel W.Greear,63
+Logan,22,Attorney General,,REP,Daniel W.Greear,44
+Logan,25,Attorney General,,REP,Daniel W.Greear,109
+Logan,26,Attorney General,,REP,Daniel W.Greear,120
+Logan,27,Attorney General,,REP,Daniel W.Greear,157
+Logan,28,Attorney General,,REP,Daniel W.Greear,20
+Logan,31,Attorney General,,REP,Daniel W.Greear,55
+Logan,36,Attorney General,,REP,Daniel W.Greear,108
+Logan,37,Attorney General,,REP,Daniel W.Greear,79
+Logan,39,Attorney General,,REP,Daniel W.Greear,140
+Logan,4,Attorney General,,REP,Daniel W.Greear,235
+Logan,40,Attorney General,,REP,Daniel W.Greear,47
+Logan,41,Attorney General,,REP,Daniel W.Greear,112
+Logan,43,Attorney General,,REP,Daniel W.Greear,106
+Logan,45,Attorney General,,REP,Daniel W.Greear,142
+Logan,46,Attorney General,,REP,Daniel W.Greear,77
+Logan,47,Attorney General,,REP,Daniel W.Greear,76
+Logan,49,Attorney General,,REP,Daniel W.Greear,185
+Logan,5,Attorney General,,REP,Daniel W.Greear,174
+Logan,50,Attorney General,,REP,Daniel W.Greear,80
+Logan,53,Attorney General,,REP,Daniel W.Greear,166
+Logan,54,Attorney General,,REP,Daniel W.Greear,76
+Logan,55,Attorney General,,REP,Daniel W.Greear,58
+Logan,56,Attorney General,,REP,Daniel W.Greear,51
+Logan,6,Attorney General,,REP,Daniel W.Greear,247
+Logan,7,Attorney General,,REP,Daniel W.Greear,185
+Logan,8,Attorney General,,REP,Daniel W.Greear,112
+Logan,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",323
+Logan,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",133
+Logan,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",182
+Logan,13,Attorney General,,DEM,"Darrell V. McGraw, Jr.",191
+Logan,14,Attorney General,,DEM,"Darrell V. McGraw, Jr.",108
+Logan,15,Attorney General,,DEM,"Darrell V. McGraw, Jr.",470
+Logan,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",353
+Logan,20,Attorney General,,DEM,"Darrell V. McGraw, Jr.",343
+Logan,21,Attorney General,,DEM,"Darrell V. McGraw, Jr.",188
+Logan,22,Attorney General,,DEM,"Darrell V. McGraw, Jr.",158
+Logan,25,Attorney General,,DEM,"Darrell V. McGraw, Jr.",233
+Logan,26,Attorney General,,DEM,"Darrell V. McGraw, Jr.",217
+Logan,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",434
+Logan,28,Attorney General,,DEM,"Darrell V. McGraw, Jr.",91
+Logan,31,Attorney General,,DEM,"Darrell V. McGraw, Jr.",98
+Logan,36,Attorney General,,DEM,"Darrell V. McGraw, Jr.",164
+Logan,37,Attorney General,,DEM,"Darrell V. McGraw, Jr.",132
+Logan,39,Attorney General,,DEM,"Darrell V. McGraw, Jr.",307
+Logan,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",360
+Logan,40,Attorney General,,DEM,"Darrell V. McGraw, Jr.",161
+Logan,41,Attorney General,,DEM,"Darrell V. McGraw, Jr.",213
+Logan,43,Attorney General,,DEM,"Darrell V. McGraw, Jr.",265
+Logan,45,Attorney General,,DEM,"Darrell V. McGraw, Jr.",386
+Logan,46,Attorney General,,DEM,"Darrell V. McGraw, Jr.",150
+Logan,47,Attorney General,,DEM,"Darrell V. McGraw, Jr.",158
+Logan,49,Attorney General,,DEM,"Darrell V. McGraw, Jr.",372
+Logan,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",369
+Logan,50,Attorney General,,DEM,"Darrell V. McGraw, Jr.",276
+Logan,53,Attorney General,,DEM,"Darrell V. McGraw, Jr.",318
+Logan,54,Attorney General,,DEM,"Darrell V. McGraw, Jr.",285
+Logan,55,Attorney General,,DEM,"Darrell V. McGraw, Jr.",173
+Logan,56,Attorney General,,DEM,"Darrell V. McGraw, Jr.",135
+Logan,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",303
+Logan,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",305
+Logan,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",190
+Logan,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,8336
+Logan,Total,Commissioner of Agriculture,,REP,James Michael Teets,3471
+Logan,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,328
+Logan,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,116
+Logan,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,159
+Logan,13,Commissioner of Agriculture,,DEM,Gus R. Douglass,170
+Logan,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,116
+Logan,15,Commissioner of Agriculture,,DEM,Gus R. Douglass,453
+Logan,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,349
+Logan,20,Commissioner of Agriculture,,DEM,Gus R. Douglass,315
+Logan,21,Commissioner of Agriculture,,DEM,Gus R. Douglass,182
+Logan,22,Commissioner of Agriculture,,DEM,Gus R. Douglass,152
+Logan,25,Commissioner of Agriculture,,DEM,Gus R. Douglass,214
+Logan,26,Commissioner of Agriculture,,DEM,Gus R. Douglass,217
+Logan,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,425
+Logan,28,Commissioner of Agriculture,,DEM,Gus R. Douglass,86
+Logan,31,Commissioner of Agriculture,,DEM,Gus R. Douglass,89
+Logan,36,Commissioner of Agriculture,,DEM,Gus R. Douglass,174
+Logan,37,Commissioner of Agriculture,,DEM,Gus R. Douglass,131
+Logan,39,Commissioner of Agriculture,,DEM,Gus R. Douglass,276
+Logan,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,384
+Logan,40,Commissioner of Agriculture,,DEM,Gus R. Douglass,154
+Logan,41,Commissioner of Agriculture,,DEM,Gus R. Douglass,201
+Logan,43,Commissioner of Agriculture,,DEM,Gus R. Douglass,251
+Logan,45,Commissioner of Agriculture,,DEM,Gus R. Douglass,370
+Logan,46,Commissioner of Agriculture,,DEM,Gus R. Douglass,154
+Logan,47,Commissioner of Agriculture,,DEM,Gus R. Douglass,160
+Logan,49,Commissioner of Agriculture,,DEM,Gus R. Douglass,365
+Logan,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,389
+Logan,50,Commissioner of Agriculture,,DEM,Gus R. Douglass,257
+Logan,53,Commissioner of Agriculture,,DEM,Gus R. Douglass,288
+Logan,54,Commissioner of Agriculture,,DEM,Gus R. Douglass,274
+Logan,55,Commissioner of Agriculture,,DEM,Gus R. Douglass,180
+Logan,56,Commissioner of Agriculture,,DEM,Gus R. Douglass,120
+Logan,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,352
+Logan,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,312
+Logan,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,173
+Logan,1,Commissioner of Agriculture,,REP,James Michael Teets,63
+Logan,10,Commissioner of Agriculture,,REP,James Michael Teets,78
+Logan,11,Commissioner of Agriculture,,REP,James Michael Teets,94
+Logan,13,Commissioner of Agriculture,,REP,James Michael Teets,75
+Logan,14,Commissioner of Agriculture,,REP,James Michael Teets,60
+Logan,15,Commissioner of Agriculture,,REP,James Michael Teets,255
+Logan,2,Commissioner of Agriculture,,REP,James Michael Teets,146
+Logan,20,Commissioner of Agriculture,,REP,James Michael Teets,104
+Logan,21,Commissioner of Agriculture,,REP,James Michael Teets,54
+Logan,22,Commissioner of Agriculture,,REP,James Michael Teets,39
+Logan,25,Commissioner of Agriculture,,REP,James Michael Teets,108
+Logan,26,Commissioner of Agriculture,,REP,James Michael Teets,97
+Logan,27,Commissioner of Agriculture,,REP,James Michael Teets,143
+Logan,28,Commissioner of Agriculture,,REP,James Michael Teets,20
+Logan,31,Commissioner of Agriculture,,REP,James Michael Teets,51
+Logan,36,Commissioner of Agriculture,,REP,James Michael Teets,92
+Logan,37,Commissioner of Agriculture,,REP,James Michael Teets,71
+Logan,39,Commissioner of Agriculture,,REP,James Michael Teets,142
+Logan,4,Commissioner of Agriculture,,REP,James Michael Teets,170
+Logan,40,Commissioner of Agriculture,,REP,James Michael Teets,40
+Logan,41,Commissioner of Agriculture,,REP,James Michael Teets,108
+Logan,43,Commissioner of Agriculture,,REP,James Michael Teets,93
+Logan,45,Commissioner of Agriculture,,REP,James Michael Teets,111
+Logan,46,Commissioner of Agriculture,,REP,James Michael Teets,61
+Logan,47,Commissioner of Agriculture,,REP,James Michael Teets,60
+Logan,49,Commissioner of Agriculture,,REP,James Michael Teets,164
+Logan,5,Commissioner of Agriculture,,REP,James Michael Teets,133
+Logan,50,Commissioner of Agriculture,,REP,James Michael Teets,84
+Logan,53,Commissioner of Agriculture,,REP,James Michael Teets,150
+Logan,54,Commissioner of Agriculture,,REP,James Michael Teets,68
+Logan,55,Commissioner of Agriculture,,REP,James Michael Teets,47
+Logan,56,Commissioner of Agriculture,,REP,James Michael Teets,49
+Logan,6,Commissioner of Agriculture,,REP,James Michael Teets,179
+Logan,7,Commissioner of Agriculture,,REP,James Michael Teets,158
+Logan,8,Commissioner of Agriculture,,REP,James Michael Teets,104
+Logan,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",550
+Logan,Total,Governor,,DEM,"Joe Manchin, III",10101
+Logan,Total,Governor,,REP,Russell E. Weeks Jr,2591
+Logan,1,Governor,,MTN,"Jesse C. Johnson, Jr.",31
+Logan,10,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Logan,11,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Logan,13,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Logan,14,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Logan,15,Governor,,MTN,"Jesse C. Johnson, Jr.",29
+Logan,2,Governor,,MTN,"Jesse C. Johnson, Jr.",32
+Logan,20,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Logan,21,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Logan,22,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Logan,25,Governor,,MTN,"Jesse C. Johnson, Jr.",12
+Logan,26,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Logan,27,Governor,,MTN,"Jesse C. Johnson, Jr.",9
+Logan,28,Governor,,MTN,"Jesse C. Johnson, Jr.",9
+Logan,31,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Logan,36,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Logan,37,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Logan,39,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Logan,4,Governor,,MTN,"Jesse C. Johnson, Jr.",38
+Logan,40,Governor,,MTN,"Jesse C. Johnson, Jr.",9
+Logan,41,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Logan,43,Governor,,MTN,"Jesse C. Johnson, Jr.",21
+Logan,45,Governor,,MTN,"Jesse C. Johnson, Jr.",20
+Logan,46,Governor,,MTN,"Jesse C. Johnson, Jr.",19
+Logan,47,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Logan,49,Governor,,MTN,"Jesse C. Johnson, Jr.",31
+Logan,5,Governor,,MTN,"Jesse C. Johnson, Jr.",23
+Logan,50,Governor,,MTN,"Jesse C. Johnson, Jr.",20
+Logan,53,Governor,,MTN,"Jesse C. Johnson, Jr.",26
+Logan,54,Governor,,MTN,"Jesse C. Johnson, Jr.",15
+Logan,55,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Logan,56,Governor,,MTN,"Jesse C. Johnson, Jr.",9
+Logan,6,Governor,,MTN,"Jesse C. Johnson, Jr.",23
+Logan,7,Governor,,MTN,"Jesse C. Johnson, Jr.",15
+Logan,8,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Logan,1,Governor,,DEM,"Joe Manchin, III",344
+Logan,10,Governor,,DEM,"Joe Manchin, III",164
+Logan,11,Governor,,DEM,"Joe Manchin, III",218
+Logan,13,Governor,,DEM,"Joe Manchin, III",213
+Logan,14,Governor,,DEM,"Joe Manchin, III",140
+Logan,15,Governor,,DEM,"Joe Manchin, III",593
+Logan,2,Governor,,DEM,"Joe Manchin, III",394
+Logan,20,Governor,,DEM,"Joe Manchin, III",377
+Logan,21,Governor,,DEM,"Joe Manchin, III",221
+Logan,22,Governor,,DEM,"Joe Manchin, III",175
+Logan,25,Governor,,DEM,"Joe Manchin, III",270
+Logan,26,Governor,,DEM,"Joe Manchin, III",244
+Logan,27,Governor,,DEM,"Joe Manchin, III",479
+Logan,28,Governor,,DEM,"Joe Manchin, III",91
+Logan,31,Governor,,DEM,"Joe Manchin, III",130
+Logan,36,Governor,,DEM,"Joe Manchin, III",215
+Logan,37,Governor,,DEM,"Joe Manchin, III",169
+Logan,39,Governor,,DEM,"Joe Manchin, III",356
+Logan,4,Governor,,DEM,"Joe Manchin, III",423
+Logan,40,Governor,,DEM,"Joe Manchin, III",192
+Logan,41,Governor,,DEM,"Joe Manchin, III",263
+Logan,43,Governor,,DEM,"Joe Manchin, III",317
+Logan,45,Governor,,DEM,"Joe Manchin, III",460
+Logan,46,Governor,,DEM,"Joe Manchin, III",184
+Logan,47,Governor,,DEM,"Joe Manchin, III",201
+Logan,49,Governor,,DEM,"Joe Manchin, III",442
+Logan,5,Governor,,DEM,"Joe Manchin, III",444
+Logan,50,Governor,,DEM,"Joe Manchin, III",281
+Logan,53,Governor,,DEM,"Joe Manchin, III",394
+Logan,54,Governor,,DEM,"Joe Manchin, III",332
+Logan,55,Governor,,DEM,"Joe Manchin, III",204
+Logan,56,Governor,,DEM,"Joe Manchin, III",160
+Logan,6,Governor,,DEM,"Joe Manchin, III",403
+Logan,7,Governor,,DEM,"Joe Manchin, III",374
+Logan,8,Governor,,DEM,"Joe Manchin, III",234
+Logan,1,Governor,,REP,Russell E. Weeks Jr,62
+Logan,10,Governor,,REP,Russell E. Weeks Jr,38
+Logan,11,Governor,,REP,Russell E. Weeks Jr,58
+Logan,13,Governor,,REP,Russell E. Weeks Jr,63
+Logan,14,Governor,,REP,Russell E. Weeks Jr,42
+Logan,15,Governor,,REP,Russell E. Weeks Jr,193
+Logan,2,Governor,,REP,Russell E. Weeks Jr,131
+Logan,20,Governor,,REP,Russell E. Weeks Jr,85
+Logan,21,Governor,,REP,Russell E. Weeks Jr,42
+Logan,22,Governor,,REP,Russell E. Weeks Jr,21
+Logan,25,Governor,,REP,Russell E. Weeks Jr,85
+Logan,26,Governor,,REP,Russell E. Weeks Jr,95
+Logan,27,Governor,,REP,Russell E. Weeks Jr,128
+Logan,28,Governor,,REP,Russell E. Weeks Jr,18
+Logan,31,Governor,,REP,Russell E. Weeks Jr,18
+Logan,36,Governor,,REP,Russell E. Weeks Jr,64
+Logan,37,Governor,,REP,Russell E. Weeks Jr,42
+Logan,39,Governor,,REP,Russell E. Weeks Jr,96
+Logan,4,Governor,,REP,Russell E. Weeks Jr,164
+Logan,40,Governor,,REP,Russell E. Weeks Jr,19
+Logan,41,Governor,,REP,Russell E. Weeks Jr,67
+Logan,43,Governor,,REP,Russell E. Weeks Jr,67
+Logan,45,Governor,,REP,Russell E. Weeks Jr,77
+Logan,46,Governor,,REP,Russell E. Weeks Jr,47
+Logan,47,Governor,,REP,Russell E. Weeks Jr,44
+Logan,49,Governor,,REP,Russell E. Weeks Jr,113
+Logan,5,Governor,,REP,Russell E. Weeks Jr,109
+Logan,50,Governor,,REP,Russell E. Weeks Jr,68
+Logan,53,Governor,,REP,Russell E. Weeks Jr,88
+Logan,54,Governor,,REP,Russell E. Weeks Jr,41
+Logan,55,Governor,,REP,Russell E. Weeks Jr,43
+Logan,56,Governor,,REP,Russell E. Weeks Jr,28
+Logan,6,Governor,,REP,Russell E. Weeks Jr,151
+Logan,7,Governor,,REP,Russell E. Weeks Jr,116
+Logan,8,Governor,,REP,Russell E. Weeks Jr,68
+Logan,Total,President,,DEM,Barack Hussein Obama,5873
+Logan,Total,President,,CON,Charles Obadiah Baldwin,45
+Logan,Total,President,,MTN,Cynthia Ann McKinney,41
+Logan,Total,President,,REP,John Sidney McCain III,7326
+Logan,Total,President,,,Ralph Nader,179
+Logan,1,President,,DEM,Barack Hussein Obama,274
+Logan,10,President,,DEM,Barack Hussein Obama,85
+Logan,11,President,,DEM,Barack Hussein Obama,115
+Logan,13,President,,DEM,Barack Hussein Obama,127
+Logan,14,President,,DEM,Barack Hussein Obama,64
+Logan,15,President,,DEM,Barack Hussein Obama,313
+Logan,2,President,,DEM,Barack Hussein Obama,231
+Logan,20,President,,DEM,Barack Hussein Obama,255
+Logan,21,President,,DEM,Barack Hussein Obama,133
+Logan,22,President,,DEM,Barack Hussein Obama,115
+Logan,25,President,,DEM,Barack Hussein Obama,169
+Logan,26,President,,DEM,Barack Hussein Obama,135
+Logan,27,President,,DEM,Barack Hussein Obama,301
+Logan,28,President,,DEM,Barack Hussein Obama,63
+Logan,31,President,,DEM,Barack Hussein Obama,67
+Logan,36,President,,DEM,Barack Hussein Obama,122
+Logan,37,President,,DEM,Barack Hussein Obama,77
+Logan,39,President,,DEM,Barack Hussein Obama,221
+Logan,4,President,,DEM,Barack Hussein Obama,227
+Logan,40,President,,DEM,Barack Hussein Obama,134
+Logan,41,President,,DEM,Barack Hussein Obama,145
+Logan,43,President,,DEM,Barack Hussein Obama,162
+Logan,45,President,,DEM,Barack Hussein Obama,284
+Logan,46,President,,DEM,Barack Hussein Obama,89
+Logan,47,President,,DEM,Barack Hussein Obama,120
+Logan,49,President,,DEM,Barack Hussein Obama,240
+Logan,5,President,,DEM,Barack Hussein Obama,258
+Logan,50,President,,DEM,Barack Hussein Obama,194
+Logan,53,President,,DEM,Barack Hussein Obama,221
+Logan,54,President,,DEM,Barack Hussein Obama,216
+Logan,55,President,,DEM,Barack Hussein Obama,113
+Logan,56,President,,DEM,Barack Hussein Obama,88
+Logan,6,President,,DEM,Barack Hussein Obama,197
+Logan,7,President,,DEM,Barack Hussein Obama,196
+Logan,8,President,,DEM,Barack Hussein Obama,122
+Logan,1,President,,CON,Charles Obadiah Baldwin,4
+Logan,10,President,,CON,Charles Obadiah Baldwin,0
+Logan,11,President,,CON,Charles Obadiah Baldwin,2
+Logan,13,President,,CON,Charles Obadiah Baldwin,2
+Logan,14,President,,CON,Charles Obadiah Baldwin,1
+Logan,15,President,,CON,Charles Obadiah Baldwin,3
+Logan,2,President,,CON,Charles Obadiah Baldwin,0
+Logan,20,President,,CON,Charles Obadiah Baldwin,1
+Logan,21,President,,CON,Charles Obadiah Baldwin,0
+Logan,22,President,,CON,Charles Obadiah Baldwin,1
+Logan,25,President,,CON,Charles Obadiah Baldwin,0
+Logan,26,President,,CON,Charles Obadiah Baldwin,1
+Logan,27,President,,CON,Charles Obadiah Baldwin,3
+Logan,28,President,,CON,Charles Obadiah Baldwin,0
+Logan,31,President,,CON,Charles Obadiah Baldwin,2
+Logan,36,President,,CON,Charles Obadiah Baldwin,0
+Logan,37,President,,CON,Charles Obadiah Baldwin,1
+Logan,39,President,,CON,Charles Obadiah Baldwin,0
+Logan,4,President,,CON,Charles Obadiah Baldwin,4
+Logan,40,President,,CON,Charles Obadiah Baldwin,1
+Logan,41,President,,CON,Charles Obadiah Baldwin,1
+Logan,43,President,,CON,Charles Obadiah Baldwin,4
+Logan,45,President,,CON,Charles Obadiah Baldwin,3
+Logan,46,President,,CON,Charles Obadiah Baldwin,0
+Logan,47,President,,CON,Charles Obadiah Baldwin,0
+Logan,49,President,,CON,Charles Obadiah Baldwin,1
+Logan,5,President,,CON,Charles Obadiah Baldwin,2
+Logan,50,President,,CON,Charles Obadiah Baldwin,0
+Logan,53,President,,CON,Charles Obadiah Baldwin,0
+Logan,54,President,,CON,Charles Obadiah Baldwin,1
+Logan,55,President,,CON,Charles Obadiah Baldwin,1
+Logan,56,President,,CON,Charles Obadiah Baldwin,0
+Logan,6,President,,CON,Charles Obadiah Baldwin,4
+Logan,7,President,,CON,Charles Obadiah Baldwin,1
+Logan,8,President,,CON,Charles Obadiah Baldwin,1
+Logan,1,President,,MTN,Cynthia Ann McKinney,0
+Logan,10,President,,MTN,Cynthia Ann McKinney,1
+Logan,11,President,,MTN,Cynthia Ann McKinney,2
+Logan,13,President,,MTN,Cynthia Ann McKinney,0
+Logan,14,President,,MTN,Cynthia Ann McKinney,1
+Logan,15,President,,MTN,Cynthia Ann McKinney,0
+Logan,2,President,,MTN,Cynthia Ann McKinney,3
+Logan,20,President,,MTN,Cynthia Ann McKinney,1
+Logan,21,President,,MTN,Cynthia Ann McKinney,1
+Logan,22,President,,MTN,Cynthia Ann McKinney,0
+Logan,25,President,,MTN,Cynthia Ann McKinney,2
+Logan,26,President,,MTN,Cynthia Ann McKinney,1
+Logan,27,President,,MTN,Cynthia Ann McKinney,1
+Logan,28,President,,MTN,Cynthia Ann McKinney,1
+Logan,31,President,,MTN,Cynthia Ann McKinney,0
+Logan,36,President,,MTN,Cynthia Ann McKinney,0
+Logan,37,President,,MTN,Cynthia Ann McKinney,1
+Logan,39,President,,MTN,Cynthia Ann McKinney,3
+Logan,4,President,,MTN,Cynthia Ann McKinney,4
+Logan,40,President,,MTN,Cynthia Ann McKinney,2
+Logan,41,President,,MTN,Cynthia Ann McKinney,0
+Logan,43,President,,MTN,Cynthia Ann McKinney,2
+Logan,45,President,,MTN,Cynthia Ann McKinney,3
+Logan,46,President,,MTN,Cynthia Ann McKinney,1
+Logan,47,President,,MTN,Cynthia Ann McKinney,0
+Logan,49,President,,MTN,Cynthia Ann McKinney,2
+Logan,5,President,,MTN,Cynthia Ann McKinney,2
+Logan,50,President,,MTN,Cynthia Ann McKinney,1
+Logan,53,President,,MTN,Cynthia Ann McKinney,1
+Logan,54,President,,MTN,Cynthia Ann McKinney,1
+Logan,55,President,,MTN,Cynthia Ann McKinney,1
+Logan,56,President,,MTN,Cynthia Ann McKinney,0
+Logan,6,President,,MTN,Cynthia Ann McKinney,2
+Logan,7,President,,MTN,Cynthia Ann McKinney,0
+Logan,8,President,,MTN,Cynthia Ann McKinney,1
+Logan,1,President,,REP,John Sidney McCain III,149
+Logan,10,President,,REP,John Sidney McCain III,124
+Logan,11,President,,REP,John Sidney McCain III,168
+Logan,13,President,,REP,John Sidney McCain III,154
+Logan,14,President,,REP,John Sidney McCain III,123
+Logan,15,President,,REP,John Sidney McCain III,486
+Logan,2,President,,REP,John Sidney McCain III,318
+Logan,20,President,,REP,John Sidney McCain III,238
+Logan,21,President,,REP,John Sidney McCain III,122
+Logan,22,President,,REP,John Sidney McCain III,81
+Logan,25,President,,REP,John Sidney McCain III,191
+Logan,26,President,,REP,John Sidney McCain III,208
+Logan,27,President,,REP,John Sidney McCain III,299
+Logan,28,President,,REP,John Sidney McCain III,49
+Logan,31,President,,REP,John Sidney McCain III,82
+Logan,36,President,,REP,John Sidney McCain III,170
+Logan,37,President,,REP,John Sidney McCain III,151
+Logan,39,President,,REP,John Sidney McCain III,243
+Logan,4,President,,REP,John Sidney McCain III,399
+Logan,40,President,,REP,John Sidney McCain III,83
+Logan,41,President,,REP,John Sidney McCain III,199
+Logan,43,President,,REP,John Sidney McCain III,253
+Logan,45,President,,REP,John Sidney McCain III,295
+Logan,46,President,,REP,John Sidney McCain III,151
+Logan,47,President,,REP,John Sidney McCain III,144
+Logan,49,President,,REP,John Sidney McCain III,344
+Logan,5,President,,REP,John Sidney McCain III,305
+Logan,50,President,,REP,John Sidney McCain III,178
+Logan,53,President,,REP,John Sidney McCain III,298
+Logan,54,President,,REP,John Sidney McCain III,187
+Logan,55,President,,REP,John Sidney McCain III,136
+Logan,56,President,,REP,John Sidney McCain III,100
+Logan,6,President,,REP,John Sidney McCain III,391
+Logan,7,President,,REP,John Sidney McCain III,312
+Logan,8,President,,REP,John Sidney McCain III,195
+Logan,1,President,,,Ralph Nader,6
+Logan,10,President,,,Ralph Nader,1
+Logan,11,President,,,Ralph Nader,3
+Logan,13,President,,,Ralph Nader,5
+Logan,14,President,,,Ralph Nader,0
+Logan,15,President,,,Ralph Nader,13
+Logan,2,President,,,Ralph Nader,4
+Logan,20,President,,,Ralph Nader,7
+Logan,21,President,,,Ralph Nader,14
+Logan,22,President,,,Ralph Nader,2
+Logan,25,President,,,Ralph Nader,6
+Logan,26,President,,,Ralph Nader,7
+Logan,27,President,,,Ralph Nader,11
+Logan,28,President,,,Ralph Nader,3
+Logan,31,President,,,Ralph Nader,3
+Logan,36,President,,,Ralph Nader,2
+Logan,37,President,,,Ralph Nader,3
+Logan,39,President,,,Ralph Nader,7
+Logan,4,President,,,Ralph Nader,2
+Logan,40,President,,,Ralph Nader,2
+Logan,41,President,,,Ralph Nader,11
+Logan,43,President,,,Ralph Nader,1
+Logan,45,President,,,Ralph Nader,3
+Logan,46,President,,,Ralph Nader,7
+Logan,47,President,,,Ralph Nader,1
+Logan,49,President,,,Ralph Nader,12
+Logan,5,President,,,Ralph Nader,10
+Logan,50,President,,,Ralph Nader,3
+Logan,53,President,,,Ralph Nader,2
+Logan,54,President,,,Ralph Nader,4
+Logan,55,President,,,Ralph Nader,8
+Logan,56,President,,,Ralph Nader,4
+Logan,6,President,,,Ralph Nader,1
+Logan,7,President,,,Ralph Nader,4
+Logan,8,President,,,Ralph Nader,7
+Logan,Total,Secretary of State,,REP,Charles Theophilus Minimah,2657
+Logan,Total,Secretary of State,,DEM,Natalie Tennant,9769
+Logan,1,Secretary of State,,REP,Charles Theophilus Minimah,64
+Logan,10,Secretary of State,,REP,Charles Theophilus Minimah,50
+Logan,11,Secretary of State,,REP,Charles Theophilus Minimah,58
+Logan,13,Secretary of State,,REP,Charles Theophilus Minimah,60
+Logan,14,Secretary of State,,REP,Charles Theophilus Minimah,37
+Logan,15,Secretary of State,,REP,Charles Theophilus Minimah,178
+Logan,2,Secretary of State,,REP,Charles Theophilus Minimah,117
+Logan,20,Secretary of State,,REP,Charles Theophilus Minimah,93
+Logan,21,Secretary of State,,REP,Charles Theophilus Minimah,43
+Logan,22,Secretary of State,,REP,Charles Theophilus Minimah,36
+Logan,25,Secretary of State,,REP,Charles Theophilus Minimah,86
+Logan,26,Secretary of State,,REP,Charles Theophilus Minimah,76
+Logan,27,Secretary of State,,REP,Charles Theophilus Minimah,119
+Logan,28,Secretary of State,,REP,Charles Theophilus Minimah,18
+Logan,31,Secretary of State,,REP,Charles Theophilus Minimah,37
+Logan,36,Secretary of State,,REP,Charles Theophilus Minimah,68
+Logan,37,Secretary of State,,REP,Charles Theophilus Minimah,58
+Logan,39,Secretary of State,,REP,Charles Theophilus Minimah,93
+Logan,4,Secretary of State,,REP,Charles Theophilus Minimah,143
+Logan,40,Secretary of State,,REP,Charles Theophilus Minimah,33
+Logan,41,Secretary of State,,REP,Charles Theophilus Minimah,66
+Logan,43,Secretary of State,,REP,Charles Theophilus Minimah,74
+Logan,45,Secretary of State,,REP,Charles Theophilus Minimah,91
+Logan,46,Secretary of State,,REP,Charles Theophilus Minimah,56
+Logan,47,Secretary of State,,REP,Charles Theophilus Minimah,38
+Logan,49,Secretary of State,,REP,Charles Theophilus Minimah,118
+Logan,5,Secretary of State,,REP,Charles Theophilus Minimah,109
+Logan,50,Secretary of State,,REP,Charles Theophilus Minimah,61
+Logan,53,Secretary of State,,REP,Charles Theophilus Minimah,108
+Logan,54,Secretary of State,,REP,Charles Theophilus Minimah,51
+Logan,55,Secretary of State,,REP,Charles Theophilus Minimah,35
+Logan,56,Secretary of State,,REP,Charles Theophilus Minimah,27
+Logan,6,Secretary of State,,REP,Charles Theophilus Minimah,149
+Logan,7,Secretary of State,,REP,Charles Theophilus Minimah,130
+Logan,8,Secretary of State,,REP,Charles Theophilus Minimah,77
+Logan,1,Secretary of State,,DEM,Natalie Tennant,346
+Logan,10,Secretary of State,,DEM,Natalie Tennant,145
+Logan,11,Secretary of State,,DEM,Natalie Tennant,211
+Logan,13,Secretary of State,,DEM,Natalie Tennant,211
+Logan,14,Secretary of State,,DEM,Natalie Tennant,146
+Logan,15,Secretary of State,,DEM,Natalie Tennant,569
+Logan,2,Secretary of State,,DEM,Natalie Tennant,396
+Logan,20,Secretary of State,,DEM,Natalie Tennant,362
+Logan,21,Secretary of State,,DEM,Natalie Tennant,207
+Logan,22,Secretary of State,,DEM,Natalie Tennant,158
+Logan,25,Secretary of State,,DEM,Natalie Tennant,252
+Logan,26,Secretary of State,,DEM,Natalie Tennant,255
+Logan,27,Secretary of State,,DEM,Natalie Tennant,465
+Logan,28,Secretary of State,,DEM,Natalie Tennant,97
+Logan,31,Secretary of State,,DEM,Natalie Tennant,111
+Logan,36,Secretary of State,,DEM,Natalie Tennant,217
+Logan,37,Secretary of State,,DEM,Natalie Tennant,157
+Logan,39,Secretary of State,,DEM,Natalie Tennant,344
+Logan,4,Secretary of State,,DEM,Natalie Tennant,436
+Logan,40,Secretary of State,,DEM,Natalie Tennant,172
+Logan,41,Secretary of State,,DEM,Natalie Tennant,250
+Logan,43,Secretary of State,,DEM,Natalie Tennant,292
+Logan,45,Secretary of State,,DEM,Natalie Tennant,425
+Logan,46,Secretary of State,,DEM,Natalie Tennant,176
+Logan,47,Secretary of State,,DEM,Natalie Tennant,195
+Logan,49,Secretary of State,,DEM,Natalie Tennant,437
+Logan,5,Secretary of State,,DEM,Natalie Tennant,421
+Logan,50,Secretary of State,,DEM,Natalie Tennant,288
+Logan,53,Secretary of State,,DEM,Natalie Tennant,359
+Logan,54,Secretary of State,,DEM,Natalie Tennant,326
+Logan,55,Secretary of State,,DEM,Natalie Tennant,200
+Logan,56,Secretary of State,,DEM,Natalie Tennant,159
+Logan,6,Secretary of State,,DEM,Natalie Tennant,410
+Logan,7,Secretary of State,,DEM,Natalie Tennant,357
+Logan,8,Secretary of State,,DEM,Natalie Tennant,217
+Logan,Total,State Auditor,,DEM,Glen B. Gainer III,9790
+Logan,1,State Auditor,,DEM,Glen B. Gainer III,335
+Logan,10,State Auditor,,DEM,Glen B. Gainer III,157
+Logan,11,State Auditor,,DEM,Glen B. Gainer III,210
+Logan,13,State Auditor,,DEM,Glen B. Gainer III,210
+Logan,14,State Auditor,,DEM,Glen B. Gainer III,146
+Logan,15,State Auditor,,DEM,Glen B. Gainer III,565
+Logan,2,State Auditor,,DEM,Glen B. Gainer III,389
+Logan,20,State Auditor,,DEM,Glen B. Gainer III,356
+Logan,21,State Auditor,,DEM,Glen B. Gainer III,205
+Logan,22,State Auditor,,DEM,Glen B. Gainer III,180
+Logan,25,State Auditor,,DEM,Glen B. Gainer III,254
+Logan,26,State Auditor,,DEM,Glen B. Gainer III,255
+Logan,27,State Auditor,,DEM,Glen B. Gainer III,467
+Logan,28,State Auditor,,DEM,Glen B. Gainer III,96
+Logan,31,State Auditor,,DEM,Glen B. Gainer III,118
+Logan,36,State Auditor,,DEM,Glen B. Gainer III,200
+Logan,37,State Auditor,,DEM,Glen B. Gainer III,158
+Logan,39,State Auditor,,DEM,Glen B. Gainer III,339
+Logan,4,State Auditor,,DEM,Glen B. Gainer III,453
+Logan,40,State Auditor,,DEM,Glen B. Gainer III,185
+Logan,41,State Auditor,,DEM,Glen B. Gainer III,248
+Logan,43,State Auditor,,DEM,Glen B. Gainer III,297
+Logan,45,State Auditor,,DEM,Glen B. Gainer III,423
+Logan,46,State Auditor,,DEM,Glen B. Gainer III,174
+Logan,47,State Auditor,,DEM,Glen B. Gainer III,192
+Logan,49,State Auditor,,DEM,Glen B. Gainer III,448
+Logan,5,State Auditor,,DEM,Glen B. Gainer III,428
+Logan,50,State Auditor,,DEM,Glen B. Gainer III,287
+Logan,53,State Auditor,,DEM,Glen B. Gainer III,364
+Logan,54,State Auditor,,DEM,Glen B. Gainer III,310
+Logan,55,State Auditor,,DEM,Glen B. Gainer III,187
+Logan,56,State Auditor,,DEM,Glen B. Gainer III,152
+Logan,6,State Auditor,,DEM,Glen B. Gainer III,402
+Logan,7,State Auditor,,DEM,Glen B. Gainer III,372
+Logan,8,State Auditor,,DEM,Glen B. Gainer III,228
+Logan,Total,State House,,DEM,Greg Butcher,10461
+Logan,Total,State House,,DEM,Jeffery Eldridge,6934
+Logan,Total,State House,,DEM,Josh Daniel Stowers,6378
+Logan,Total,State House,,DEM,Ralph Rodighiero,7758
+Logan,1,State House,,DEM,Greg Butcher,318
+Logan,10,State House,,DEM,Greg Butcher,156
+Logan,11,State House,,DEM,Greg Butcher,240
+Logan,13,State House,,DEM,Greg Butcher,230
+Logan,14,State House,,DEM,Greg Butcher,167
+Logan,15,State House,,DEM,Greg Butcher,659
+Logan,2,State House,,DEM,Greg Butcher,427
+Logan,20,State House,,DEM,Greg Butcher,359
+Logan,21,State House,,DEM,Greg Butcher,201
+Logan,22,State House,,DEM,Greg Butcher,149
+Logan,25,State House,,DEM,Greg Butcher,243
+Logan,26,State House,,DEM,Greg Butcher,243
+Logan,27,State House,,DEM,Greg Butcher,460
+Logan,28,State House,,DEM,Greg Butcher,91
+Logan,31,State House,,DEM,Greg Butcher,105
+Logan,36,State House,,DEM,Greg Butcher,245
+Logan,37,State House,,DEM,Greg Butcher,191
+Logan,39,State House,,DEM,Greg Butcher,381
+Logan,4,State House,,DEM,Greg Butcher,445
+Logan,40,State House,,DEM,Greg Butcher,183
+Logan,41,State House,,DEM,Greg Butcher,296
+Logan,43,State House,,DEM,Greg Butcher,333
+Logan,45,State House,,DEM,Greg Butcher,477
+Logan,46,State House,,DEM,Greg Butcher,218
+Logan,47,State House,,DEM,Greg Butcher,227
+Logan,49,State House,,DEM,Greg Butcher,498
+Logan,5,State House,,DEM,Greg Butcher,430
+Logan,50,State House,,DEM,Greg Butcher,302
+Logan,53,State House,,DEM,Greg Butcher,406
+Logan,54,State House,,DEM,Greg Butcher,339
+Logan,55,State House,,DEM,Greg Butcher,213
+Logan,56,State House,,DEM,Greg Butcher,155
+Logan,6,State House,,DEM,Greg Butcher,436
+Logan,7,State House,,DEM,Greg Butcher,410
+Logan,8,State House,,DEM,Greg Butcher,228
+Logan,1,State House,,DEM,Jeffery Eldridge,280
+Logan,10,State House,,DEM,Jeffery Eldridge,115
+Logan,11,State House,,DEM,Jeffery Eldridge,132
+Logan,13,State House,,DEM,Jeffery Eldridge,125
+Logan,14,State House,,DEM,Jeffery Eldridge,89
+Logan,15,State House,,DEM,Jeffery Eldridge,378
+Logan,2,State House,,DEM,Jeffery Eldridge,329
+Logan,20,State House,,DEM,Jeffery Eldridge,292
+Logan,21,State House,,DEM,Jeffery Eldridge,175
+Logan,22,State House,,DEM,Jeffery Eldridge,122
+Logan,25,State House,,DEM,Jeffery Eldridge,175
+Logan,26,State House,,DEM,Jeffery Eldridge,164
+Logan,27,State House,,DEM,Jeffery Eldridge,360
+Logan,28,State House,,DEM,Jeffery Eldridge,69
+Logan,31,State House,,DEM,Jeffery Eldridge,85
+Logan,36,State House,,DEM,Jeffery Eldridge,140
+Logan,37,State House,,DEM,Jeffery Eldridge,99
+Logan,39,State House,,DEM,Jeffery Eldridge,231
+Logan,4,State House,,DEM,Jeffery Eldridge,319
+Logan,40,State House,,DEM,Jeffery Eldridge,121
+Logan,41,State House,,DEM,Jeffery Eldridge,170
+Logan,43,State House,,DEM,Jeffery Eldridge,179
+Logan,45,State House,,DEM,Jeffery Eldridge,307
+Logan,46,State House,,DEM,Jeffery Eldridge,113
+Logan,47,State House,,DEM,Jeffery Eldridge,123
+Logan,49,State House,,DEM,Jeffery Eldridge,287
+Logan,5,State House,,DEM,Jeffery Eldridge,361
+Logan,50,State House,,DEM,Jeffery Eldridge,196
+Logan,53,State House,,DEM,Jeffery Eldridge,225
+Logan,54,State House,,DEM,Jeffery Eldridge,201
+Logan,55,State House,,DEM,Jeffery Eldridge,117
+Logan,56,State House,,DEM,Jeffery Eldridge,95
+Logan,6,State House,,DEM,Jeffery Eldridge,313
+Logan,7,State House,,DEM,Jeffery Eldridge,269
+Logan,8,State House,,DEM,Jeffery Eldridge,178
+Logan,1,State House,,DEM,Josh Daniel Stowers,228
+Logan,10,State House,,DEM,Josh Daniel Stowers,116
+Logan,11,State House,,DEM,Josh Daniel Stowers,128
+Logan,13,State House,,DEM,Josh Daniel Stowers,113
+Logan,14,State House,,DEM,Josh Daniel Stowers,86
+Logan,15,State House,,DEM,Josh Daniel Stowers,343
+Logan,2,State House,,DEM,Josh Daniel Stowers,249
+Logan,20,State House,,DEM,Josh Daniel Stowers,283
+Logan,21,State House,,DEM,Josh Daniel Stowers,167
+Logan,22,State House,,DEM,Josh Daniel Stowers,118
+Logan,25,State House,,DEM,Josh Daniel Stowers,164
+Logan,26,State House,,DEM,Josh Daniel Stowers,165
+Logan,27,State House,,DEM,Josh Daniel Stowers,377
+Logan,28,State House,,DEM,Josh Daniel Stowers,68
+Logan,31,State House,,DEM,Josh Daniel Stowers,95
+Logan,36,State House,,DEM,Josh Daniel Stowers,133
+Logan,37,State House,,DEM,Josh Daniel Stowers,81
+Logan,39,State House,,DEM,Josh Daniel Stowers,224
+Logan,4,State House,,DEM,Josh Daniel Stowers,264
+Logan,40,State House,,DEM,Josh Daniel Stowers,107
+Logan,41,State House,,DEM,Josh Daniel Stowers,153
+Logan,43,State House,,DEM,Josh Daniel Stowers,151
+Logan,45,State House,,DEM,Josh Daniel Stowers,285
+Logan,46,State House,,DEM,Josh Daniel Stowers,103
+Logan,47,State House,,DEM,Josh Daniel Stowers,126
+Logan,49,State House,,DEM,Josh Daniel Stowers,266
+Logan,5,State House,,DEM,Josh Daniel Stowers,318
+Logan,50,State House,,DEM,Josh Daniel Stowers,180
+Logan,53,State House,,DEM,Josh Daniel Stowers,209
+Logan,54,State House,,DEM,Josh Daniel Stowers,193
+Logan,55,State House,,DEM,Josh Daniel Stowers,107
+Logan,56,State House,,DEM,Josh Daniel Stowers,95
+Logan,6,State House,,DEM,Josh Daniel Stowers,293
+Logan,7,State House,,DEM,Josh Daniel Stowers,242
+Logan,8,State House,,DEM,Josh Daniel Stowers,148
+Logan,1,State House,,DEM,Ralph Rodighiero,316
+Logan,10,State House,,DEM,Ralph Rodighiero,129
+Logan,11,State House,,DEM,Ralph Rodighiero,147
+Logan,13,State House,,DEM,Ralph Rodighiero,149
+Logan,14,State House,,DEM,Ralph Rodighiero,94
+Logan,15,State House,,DEM,Ralph Rodighiero,430
+Logan,2,State House,,DEM,Ralph Rodighiero,353
+Logan,20,State House,,DEM,Ralph Rodighiero,322
+Logan,21,State House,,DEM,Ralph Rodighiero,185
+Logan,22,State House,,DEM,Ralph Rodighiero,144
+Logan,25,State House,,DEM,Ralph Rodighiero,218
+Logan,26,State House,,DEM,Ralph Rodighiero,197
+Logan,27,State House,,DEM,Ralph Rodighiero,425
+Logan,28,State House,,DEM,Ralph Rodighiero,83
+Logan,31,State House,,DEM,Ralph Rodighiero,94
+Logan,36,State House,,DEM,Ralph Rodighiero,153
+Logan,37,State House,,DEM,Ralph Rodighiero,105
+Logan,39,State House,,DEM,Ralph Rodighiero,263
+Logan,4,State House,,DEM,Ralph Rodighiero,370
+Logan,40,State House,,DEM,Ralph Rodighiero,142
+Logan,41,State House,,DEM,Ralph Rodighiero,189
+Logan,43,State House,,DEM,Ralph Rodighiero,197
+Logan,45,State House,,DEM,Ralph Rodighiero,356
+Logan,46,State House,,DEM,Ralph Rodighiero,127
+Logan,47,State House,,DEM,Ralph Rodighiero,135
+Logan,49,State House,,DEM,Ralph Rodighiero,327
+Logan,5,State House,,DEM,Ralph Rodighiero,374
+Logan,50,State House,,DEM,Ralph Rodighiero,228
+Logan,53,State House,,DEM,Ralph Rodighiero,275
+Logan,54,State House,,DEM,Ralph Rodighiero,216
+Logan,55,State House,,DEM,Ralph Rodighiero,120
+Logan,56,State House,,DEM,Ralph Rodighiero,113
+Logan,6,State House,,DEM,Ralph Rodighiero,307
+Logan,7,State House,,DEM,Ralph Rodighiero,287
+Logan,8,State House,,DEM,Ralph Rodighiero,188
+Logan,Total,State Senate,,REP,Billy Marcum,2835
+Logan,Total,State Senate,,DEM,Earl Ray Tomblin,10092
+Logan,1,State Senate,,REP,Billy Marcum,81
+Logan,10,State Senate,,REP,Billy Marcum,47
+Logan,11,State Senate,,REP,Billy Marcum,68
+Logan,13,State Senate,,REP,Billy Marcum,59
+Logan,14,State Senate,,REP,Billy Marcum,31
+Logan,15,State Senate,,REP,Billy Marcum,186
+Logan,2,State Senate,,REP,Billy Marcum,118
+Logan,20,State Senate,,REP,Billy Marcum,113
+Logan,21,State Senate,,REP,Billy Marcum,53
+Logan,22,State Senate,,REP,Billy Marcum,32
+Logan,25,State Senate,,REP,Billy Marcum,95
+Logan,26,State Senate,,REP,Billy Marcum,70
+Logan,27,State Senate,,REP,Billy Marcum,130
+Logan,28,State Senate,,REP,Billy Marcum,19
+Logan,31,State Senate,,REP,Billy Marcum,46
+Logan,36,State Senate,,REP,Billy Marcum,57
+Logan,37,State Senate,,REP,Billy Marcum,36
+Logan,39,State Senate,,REP,Billy Marcum,88
+Logan,4,State Senate,,REP,Billy Marcum,149
+Logan,40,State Senate,,REP,Billy Marcum,36
+Logan,41,State Senate,,REP,Billy Marcum,83
+Logan,43,State Senate,,REP,Billy Marcum,99
+Logan,45,State Senate,,REP,Billy Marcum,102
+Logan,46,State Senate,,REP,Billy Marcum,66
+Logan,47,State Senate,,REP,Billy Marcum,57
+Logan,49,State Senate,,REP,Billy Marcum,139
+Logan,5,State Senate,,REP,Billy Marcum,113
+Logan,50,State Senate,,REP,Billy Marcum,68
+Logan,53,State Senate,,REP,Billy Marcum,116
+Logan,54,State Senate,,REP,Billy Marcum,57
+Logan,55,State Senate,,REP,Billy Marcum,55
+Logan,56,State Senate,,REP,Billy Marcum,48
+Logan,6,State Senate,,REP,Billy Marcum,131
+Logan,7,State Senate,,REP,Billy Marcum,109
+Logan,8,State Senate,,REP,Billy Marcum,78
+Logan,1,State Senate,,DEM,Earl Ray Tomblin,347
+Logan,10,State Senate,,DEM,Earl Ray Tomblin,160
+Logan,11,State Senate,,DEM,Earl Ray Tomblin,205
+Logan,13,State Senate,,DEM,Earl Ray Tomblin,211
+Logan,14,State Senate,,DEM,Earl Ray Tomblin,151
+Logan,15,State Senate,,DEM,Earl Ray Tomblin,596
+Logan,2,State Senate,,DEM,Earl Ray Tomblin,434
+Logan,20,State Senate,,DEM,Earl Ray Tomblin,349
+Logan,21,State Senate,,DEM,Earl Ray Tomblin,213
+Logan,22,State Senate,,DEM,Earl Ray Tomblin,171
+Logan,25,State Senate,,DEM,Earl Ray Tomblin,258
+Logan,26,State Senate,,DEM,Earl Ray Tomblin,274
+Logan,27,State Senate,,DEM,Earl Ray Tomblin,468
+Logan,28,State Senate,,DEM,Earl Ray Tomblin,93
+Logan,31,State Senate,,DEM,Earl Ray Tomblin,105
+Logan,36,State Senate,,DEM,Earl Ray Tomblin,230
+Logan,37,State Senate,,DEM,Earl Ray Tomblin,176
+Logan,39,State Senate,,DEM,Earl Ray Tomblin,363
+Logan,4,State Senate,,DEM,Earl Ray Tomblin,466
+Logan,40,State Senate,,DEM,Earl Ray Tomblin,179
+Logan,41,State Senate,,DEM,Earl Ray Tomblin,248
+Logan,43,State Senate,,DEM,Earl Ray Tomblin,284
+Logan,45,State Senate,,DEM,Earl Ray Tomblin,448
+Logan,46,State Senate,,DEM,Earl Ray Tomblin,176
+Logan,47,State Senate,,DEM,Earl Ray Tomblin,193
+Logan,49,State Senate,,DEM,Earl Ray Tomblin,436
+Logan,5,State Senate,,DEM,Earl Ray Tomblin,454
+Logan,50,State Senate,,DEM,Earl Ray Tomblin,290
+Logan,53,State Senate,,DEM,Earl Ray Tomblin,381
+Logan,54,State Senate,,DEM,Earl Ray Tomblin,326
+Logan,55,State Senate,,DEM,Earl Ray Tomblin,193
+Logan,56,State Senate,,DEM,Earl Ray Tomblin,144
+Logan,6,State Senate,,DEM,Earl Ray Tomblin,439
+Logan,7,State Senate,,DEM,Earl Ray Tomblin,392
+Logan,8,State Senate,,DEM,Earl Ray Tomblin,239
+Logan,Total,State Treasurer,,DEM,John D. Perdue,10046
+Logan,1,State Treasurer,,DEM,John D. Perdue,336
+Logan,10,State Treasurer,,DEM,John D. Perdue,158
+Logan,11,State Treasurer,,DEM,John D. Perdue,214
+Logan,13,State Treasurer,,DEM,John D. Perdue,213
+Logan,14,State Treasurer,,DEM,John D. Perdue,146
+Logan,15,State Treasurer,,DEM,John D. Perdue,579
+Logan,2,State Treasurer,,DEM,John D. Perdue,407
+Logan,20,State Treasurer,,DEM,John D. Perdue,363
+Logan,21,State Treasurer,,DEM,John D. Perdue,207
+Logan,22,State Treasurer,,DEM,John D. Perdue,177
+Logan,25,State Treasurer,,DEM,John D. Perdue,259
+Logan,26,State Treasurer,,DEM,John D. Perdue,263
+Logan,27,State Treasurer,,DEM,John D. Perdue,482
+Logan,28,State Treasurer,,DEM,John D. Perdue,94
+Logan,31,State Treasurer,,DEM,John D. Perdue,124
+Logan,36,State Treasurer,,DEM,John D. Perdue,215
+Logan,37,State Treasurer,,DEM,John D. Perdue,163
+Logan,39,State Treasurer,,DEM,John D. Perdue,345
+Logan,4,State Treasurer,,DEM,John D. Perdue,491
+Logan,40,State Treasurer,,DEM,John D. Perdue,179
+Logan,41,State Treasurer,,DEM,John D. Perdue,253
+Logan,43,State Treasurer,,DEM,John D. Perdue,318
+Logan,45,State Treasurer,,DEM,John D. Perdue,439
+Logan,46,State Treasurer,,DEM,John D. Perdue,179
+Logan,47,State Treasurer,,DEM,John D. Perdue,194
+Logan,49,State Treasurer,,DEM,John D. Perdue,454
+Logan,5,State Treasurer,,DEM,John D. Perdue,440
+Logan,50,State Treasurer,,DEM,John D. Perdue,281
+Logan,53,State Treasurer,,DEM,John D. Perdue,380
+Logan,54,State Treasurer,,DEM,John D. Perdue,317
+Logan,55,State Treasurer,,DEM,John D. Perdue,191
+Logan,56,State Treasurer,,DEM,John D. Perdue,150
+Logan,6,State Treasurer,,DEM,John D. Perdue,417
+Logan,7,State Treasurer,,DEM,John D. Perdue,384
+Logan,8,State Treasurer,,DEM,John D. Perdue,234
+Logan,Total,U.S. House,3,REP,Gary Martin Gearheart,3757
+Logan,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",8922
+Logan,1,U.S. House,3,REP,Gary Martin Gearheart,108
+Logan,10,U.S. House,3,REP,Gary Martin Gearheart,53
+Logan,11,U.S. House,3,REP,Gary Martin Gearheart,88
+Logan,13,U.S. House,3,REP,Gary Martin Gearheart,80
+Logan,14,U.S. House,3,REP,Gary Martin Gearheart,67
+Logan,15,U.S. House,3,REP,Gary Martin Gearheart,266
+Logan,2,U.S. House,3,REP,Gary Martin Gearheart,183
+Logan,20,U.S. House,3,REP,Gary Martin Gearheart,121
+Logan,21,U.S. House,3,REP,Gary Martin Gearheart,49
+Logan,22,U.S. House,3,REP,Gary Martin Gearheart,36
+Logan,25,U.S. House,3,REP,Gary Martin Gearheart,86
+Logan,26,U.S. House,3,REP,Gary Martin Gearheart,95
+Logan,27,U.S. House,3,REP,Gary Martin Gearheart,147
+Logan,28,U.S. House,3,REP,Gary Martin Gearheart,19
+Logan,31,U.S. House,3,REP,Gary Martin Gearheart,44
+Logan,36,U.S. House,3,REP,Gary Martin Gearheart,95
+Logan,37,U.S. House,3,REP,Gary Martin Gearheart,71
+Logan,39,U.S. House,3,REP,Gary Martin Gearheart,134
+Logan,4,U.S. House,3,REP,Gary Martin Gearheart,224
+Logan,40,U.S. House,3,REP,Gary Martin Gearheart,32
+Logan,41,U.S. House,3,REP,Gary Martin Gearheart,121
+Logan,43,U.S. House,3,REP,Gary Martin Gearheart,123
+Logan,45,U.S. House,3,REP,Gary Martin Gearheart,124
+Logan,46,U.S. House,3,REP,Gary Martin Gearheart,79
+Logan,47,U.S. House,3,REP,Gary Martin Gearheart,80
+Logan,49,U.S. House,3,REP,Gary Martin Gearheart,165
+Logan,5,U.S. House,3,REP,Gary Martin Gearheart,175
+Logan,50,U.S. House,3,REP,Gary Martin Gearheart,97
+Logan,53,U.S. House,3,REP,Gary Martin Gearheart,149
+Logan,54,U.S. House,3,REP,Gary Martin Gearheart,76
+Logan,55,U.S. House,3,REP,Gary Martin Gearheart,56
+Logan,56,U.S. House,3,REP,Gary Martin Gearheart,50
+Logan,6,U.S. House,3,REP,Gary Martin Gearheart,201
+Logan,7,U.S. House,3,REP,Gary Martin Gearheart,165
+Logan,8,U.S. House,3,REP,Gary Martin Gearheart,98
+Logan,1,U.S. House,3,DEM,"Nick Joe Rahall, II",310
+Logan,10,U.S. House,3,DEM,"Nick Joe Rahall, II",145
+Logan,11,U.S. House,3,DEM,"Nick Joe Rahall, II",186
+Logan,13,U.S. House,3,DEM,"Nick Joe Rahall, II",199
+Logan,14,U.S. House,3,DEM,"Nick Joe Rahall, II",116
+Logan,15,U.S. House,3,DEM,"Nick Joe Rahall, II",484
+Logan,2,U.S. House,3,DEM,"Nick Joe Rahall, II",350
+Logan,20,U.S. House,3,DEM,"Nick Joe Rahall, II",353
+Logan,21,U.S. House,3,DEM,"Nick Joe Rahall, II",211
+Logan,22,U.S. House,3,DEM,"Nick Joe Rahall, II",170
+Logan,25,U.S. House,3,DEM,"Nick Joe Rahall, II",262
+Logan,26,U.S. House,3,DEM,"Nick Joe Rahall, II",242
+Logan,27,U.S. House,3,DEM,"Nick Joe Rahall, II",447
+Logan,28,U.S. House,3,DEM,"Nick Joe Rahall, II",97
+Logan,31,U.S. House,3,DEM,"Nick Joe Rahall, II",111
+Logan,36,U.S. House,3,DEM,"Nick Joe Rahall, II",188
+Logan,37,U.S. House,3,DEM,"Nick Joe Rahall, II",140
+Logan,39,U.S. House,3,DEM,"Nick Joe Rahall, II",318
+Logan,4,U.S. House,3,DEM,"Nick Joe Rahall, II",373
+Logan,40,U.S. House,3,DEM,"Nick Joe Rahall, II",179
+Logan,41,U.S. House,3,DEM,"Nick Joe Rahall, II",198
+Logan,43,U.S. House,3,DEM,"Nick Joe Rahall, II",260
+Logan,45,U.S. House,3,DEM,"Nick Joe Rahall, II",410
+Logan,46,U.S. House,3,DEM,"Nick Joe Rahall, II",156
+Logan,47,U.S. House,3,DEM,"Nick Joe Rahall, II",161
+Logan,49,U.S. House,3,DEM,"Nick Joe Rahall, II",409
+Logan,5,U.S. House,3,DEM,"Nick Joe Rahall, II",371
+Logan,50,U.S. House,3,DEM,"Nick Joe Rahall, II",248
+Logan,53,U.S. House,3,DEM,"Nick Joe Rahall, II",327
+Logan,54,U.S. House,3,DEM,"Nick Joe Rahall, II",302
+Logan,55,U.S. House,3,DEM,"Nick Joe Rahall, II",177
+Logan,56,U.S. House,3,DEM,"Nick Joe Rahall, II",138
+Logan,6,U.S. House,3,DEM,"Nick Joe Rahall, II",355
+Logan,7,U.S. House,3,DEM,"Nick Joe Rahall, II",323
+Logan,8,U.S. House,3,DEM,"Nick Joe Rahall, II",206
+Logan,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,9148
+Logan,Total,U.S. Senate,,REP,Matthew Jay Wolfe,3814
+Logan,1,U.S. Senate,,DEM,John Davison Rockefeller IV,323
+Logan,10,U.S. Senate,,DEM,John Davison Rockefeller IV,145
+Logan,11,U.S. Senate,,DEM,John Davison Rockefeller IV,201
+Logan,13,U.S. Senate,,DEM,John Davison Rockefeller IV,199
+Logan,14,U.S. Senate,,DEM,John Davison Rockefeller IV,122
+Logan,15,U.S. Senate,,DEM,John Davison Rockefeller IV,506
+Logan,2,U.S. Senate,,DEM,John Davison Rockefeller IV,371
+Logan,20,U.S. Senate,,DEM,John Davison Rockefeller IV,357
+Logan,21,U.S. Senate,,DEM,John Davison Rockefeller IV,209
+Logan,22,U.S. Senate,,DEM,John Davison Rockefeller IV,176
+Logan,25,U.S. Senate,,DEM,John Davison Rockefeller IV,263
+Logan,26,U.S. Senate,,DEM,John Davison Rockefeller IV,249
+Logan,27,U.S. Senate,,DEM,John Davison Rockefeller IV,460
+Logan,28,U.S. Senate,,DEM,John Davison Rockefeller IV,92
+Logan,31,U.S. Senate,,DEM,John Davison Rockefeller IV,103
+Logan,36,U.S. Senate,,DEM,John Davison Rockefeller IV,177
+Logan,37,U.S. Senate,,DEM,John Davison Rockefeller IV,129
+Logan,39,U.S. Senate,,DEM,John Davison Rockefeller IV,310
+Logan,4,U.S. Senate,,DEM,John Davison Rockefeller IV,391
+Logan,40,U.S. Senate,,DEM,John Davison Rockefeller IV,177
+Logan,41,U.S. Senate,,DEM,John Davison Rockefeller IV,232
+Logan,43,U.S. Senate,,DEM,John Davison Rockefeller IV,256
+Logan,45,U.S. Senate,,DEM,John Davison Rockefeller IV,428
+Logan,46,U.S. Senate,,DEM,John Davison Rockefeller IV,168
+Logan,47,U.S. Senate,,DEM,John Davison Rockefeller IV,169
+Logan,49,U.S. Senate,,DEM,John Davison Rockefeller IV,415
+Logan,5,U.S. Senate,,DEM,John Davison Rockefeller IV,391
+Logan,50,U.S. Senate,,DEM,John Davison Rockefeller IV,261
+Logan,53,U.S. Senate,,DEM,John Davison Rockefeller IV,340
+Logan,54,U.S. Senate,,DEM,John Davison Rockefeller IV,306
+Logan,55,U.S. Senate,,DEM,John Davison Rockefeller IV,188
+Logan,56,U.S. Senate,,DEM,John Davison Rockefeller IV,138
+Logan,6,U.S. Senate,,DEM,John Davison Rockefeller IV,354
+Logan,7,U.S. Senate,,DEM,John Davison Rockefeller IV,334
+Logan,8,U.S. Senate,,DEM,John Davison Rockefeller IV,208
+Logan,1,U.S. Senate,,REP,Matthew Jay Wolfe,100
+Logan,10,U.S. Senate,,REP,Matthew Jay Wolfe,62
+Logan,11,U.S. Senate,,REP,Matthew Jay Wolfe,80
+Logan,13,U.S. Senate,,REP,Matthew Jay Wolfe,78
+Logan,14,U.S. Senate,,REP,Matthew Jay Wolfe,62
+Logan,15,U.S. Senate,,REP,Matthew Jay Wolfe,289
+Logan,2,U.S. Senate,,REP,Matthew Jay Wolfe,164
+Logan,20,U.S. Senate,,REP,Matthew Jay Wolfe,135
+Logan,21,U.S. Senate,,REP,Matthew Jay Wolfe,58
+Logan,22,U.S. Senate,,REP,Matthew Jay Wolfe,29
+Logan,25,U.S. Senate,,REP,Matthew Jay Wolfe,93
+Logan,26,U.S. Senate,,REP,Matthew Jay Wolfe,93
+Logan,27,U.S. Senate,,REP,Matthew Jay Wolfe,144
+Logan,28,U.S. Senate,,REP,Matthew Jay Wolfe,25
+Logan,31,U.S. Senate,,REP,Matthew Jay Wolfe,50
+Logan,36,U.S. Senate,,REP,Matthew Jay Wolfe,104
+Logan,37,U.S. Senate,,REP,Matthew Jay Wolfe,83
+Logan,39,U.S. Senate,,REP,Matthew Jay Wolfe,144
+Logan,4,U.S. Senate,,REP,Matthew Jay Wolfe,222
+Logan,40,U.S. Senate,,REP,Matthew Jay Wolfe,38
+Logan,41,U.S. Senate,,REP,Matthew Jay Wolfe,106
+Logan,43,U.S. Senate,,REP,Matthew Jay Wolfe,125
+Logan,45,U.S. Senate,,REP,Matthew Jay Wolfe,124
+Logan,46,U.S. Senate,,REP,Matthew Jay Wolfe,77
+Logan,47,U.S. Senate,,REP,Matthew Jay Wolfe,77
+Logan,49,U.S. Senate,,REP,Matthew Jay Wolfe,168
+Logan,5,U.S. Senate,,REP,Matthew Jay Wolfe,174
+Logan,50,U.S. Senate,,REP,Matthew Jay Wolfe,93
+Logan,53,U.S. Senate,,REP,Matthew Jay Wolfe,150
+Logan,54,U.S. Senate,,REP,Matthew Jay Wolfe,80
+Logan,55,U.S. Senate,,REP,Matthew Jay Wolfe,57
+Logan,56,U.S. Senate,,REP,Matthew Jay Wolfe,52
+Logan,6,U.S. Senate,,REP,Matthew Jay Wolfe,207
+Logan,7,U.S. Senate,,REP,Matthew Jay Wolfe,165
+Logan,8,U.S. Senate,,REP,Matthew Jay Wolfe,106

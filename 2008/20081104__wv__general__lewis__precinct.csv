@@ -1,0 +1,576 @@
+county,precinct,office,district,party,candidate,votes
+Lewis,Total,Attorney General,,REP,Daniel W.Greear,3345
+Lewis,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",3087
+Lewis,1,Attorney General,,REP,Daniel W.Greear,63
+Lewis,10,Attorney General,,REP,Daniel W.Greear,150
+Lewis,11,Attorney General,,REP,Daniel W.Greear,121
+Lewis,12,Attorney General,,REP,Daniel W.Greear,103
+Lewis,13,Attorney General,,REP,Daniel W.Greear,400
+Lewis,14,Attorney General,,REP,Daniel W.Greear,171
+Lewis,15,Attorney General,,REP,Daniel W.Greear,266
+Lewis,16,Attorney General,,REP,Daniel W.Greear,67
+Lewis,17,Attorney General,,REP,Daniel W.Greear,106
+Lewis,18,Attorney General,,REP,Daniel W.Greear,45
+Lewis,19,Attorney General,,REP,Daniel W.Greear,82
+Lewis,2,Attorney General,,REP,Daniel W.Greear,87
+Lewis,20,Attorney General,,REP,Daniel W.Greear,261
+Lewis,21,Attorney General,,REP,Daniel W.Greear,130
+Lewis,22,Attorney General,,REP,Daniel W.Greear,42
+Lewis,23,Attorney General,,REP,Daniel W.Greear,191
+Lewis,24,Attorney General,,REP,Daniel W.Greear,200
+Lewis,3,Attorney General,,REP,Daniel W.Greear,98
+Lewis,4,Attorney General,,REP,Daniel W.Greear,80
+Lewis,5,Attorney General,,REP,Daniel W.Greear,121
+Lewis,6,Attorney General,,REP,Daniel W.Greear,82
+Lewis,7,Attorney General,,REP,Daniel W.Greear,186
+Lewis,8,Attorney General,,REP,Daniel W.Greear,222
+Lewis,9,Attorney General,,REP,Daniel W.Greear,71
+Lewis,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",70
+Lewis,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",148
+Lewis,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",91
+Lewis,12,Attorney General,,DEM,"Darrell V. McGraw, Jr.",70
+Lewis,13,Attorney General,,DEM,"Darrell V. McGraw, Jr.",307
+Lewis,14,Attorney General,,DEM,"Darrell V. McGraw, Jr.",151
+Lewis,15,Attorney General,,DEM,"Darrell V. McGraw, Jr.",222
+Lewis,16,Attorney General,,DEM,"Darrell V. McGraw, Jr.",77
+Lewis,17,Attorney General,,DEM,"Darrell V. McGraw, Jr.",131
+Lewis,18,Attorney General,,DEM,"Darrell V. McGraw, Jr.",67
+Lewis,19,Attorney General,,DEM,"Darrell V. McGraw, Jr.",84
+Lewis,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",94
+Lewis,20,Attorney General,,DEM,"Darrell V. McGraw, Jr.",213
+Lewis,21,Attorney General,,DEM,"Darrell V. McGraw, Jr.",126
+Lewis,22,Attorney General,,DEM,"Darrell V. McGraw, Jr.",68
+Lewis,23,Attorney General,,DEM,"Darrell V. McGraw, Jr.",173
+Lewis,24,Attorney General,,DEM,"Darrell V. McGraw, Jr.",216
+Lewis,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",118
+Lewis,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",65
+Lewis,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",102
+Lewis,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",102
+Lewis,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",165
+Lewis,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",157
+Lewis,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",70
+Lewis,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,2936
+Lewis,Total,Commissioner of Agriculture,,REP,James Michael Teets,3506
+Lewis,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,83
+Lewis,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,145
+Lewis,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,88
+Lewis,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,60
+Lewis,13,Commissioner of Agriculture,,DEM,Gus R. Douglass,284
+Lewis,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,146
+Lewis,15,Commissioner of Agriculture,,DEM,Gus R. Douglass,213
+Lewis,16,Commissioner of Agriculture,,DEM,Gus R. Douglass,76
+Lewis,17,Commissioner of Agriculture,,DEM,Gus R. Douglass,116
+Lewis,18,Commissioner of Agriculture,,DEM,Gus R. Douglass,62
+Lewis,19,Commissioner of Agriculture,,DEM,Gus R. Douglass,77
+Lewis,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,95
+Lewis,20,Commissioner of Agriculture,,DEM,Gus R. Douglass,221
+Lewis,21,Commissioner of Agriculture,,DEM,Gus R. Douglass,111
+Lewis,22,Commissioner of Agriculture,,DEM,Gus R. Douglass,41
+Lewis,23,Commissioner of Agriculture,,DEM,Gus R. Douglass,148
+Lewis,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,180
+Lewis,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,112
+Lewis,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,63
+Lewis,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,106
+Lewis,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,101
+Lewis,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,177
+Lewis,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,156
+Lewis,9,Commissioner of Agriculture,,DEM,Gus R. Douglass,75
+Lewis,1,Commissioner of Agriculture,,REP,James Michael Teets,49
+Lewis,10,Commissioner of Agriculture,,REP,James Michael Teets,161
+Lewis,11,Commissioner of Agriculture,,REP,James Michael Teets,127
+Lewis,12,Commissioner of Agriculture,,REP,James Michael Teets,108
+Lewis,13,Commissioner of Agriculture,,REP,James Michael Teets,421
+Lewis,14,Commissioner of Agriculture,,REP,James Michael Teets,174
+Lewis,15,Commissioner of Agriculture,,REP,James Michael Teets,275
+Lewis,16,Commissioner of Agriculture,,REP,James Michael Teets,73
+Lewis,17,Commissioner of Agriculture,,REP,James Michael Teets,123
+Lewis,18,Commissioner of Agriculture,,REP,James Michael Teets,53
+Lewis,19,Commissioner of Agriculture,,REP,James Michael Teets,89
+Lewis,2,Commissioner of Agriculture,,REP,James Michael Teets,88
+Lewis,20,Commissioner of Agriculture,,REP,James Michael Teets,254
+Lewis,21,Commissioner of Agriculture,,REP,James Michael Teets,145
+Lewis,22,Commissioner of Agriculture,,REP,James Michael Teets,75
+Lewis,23,Commissioner of Agriculture,,REP,James Michael Teets,219
+Lewis,24,Commissioner of Agriculture,,REP,James Michael Teets,237
+Lewis,3,Commissioner of Agriculture,,REP,James Michael Teets,100
+Lewis,4,Commissioner of Agriculture,,REP,James Michael Teets,77
+Lewis,5,Commissioner of Agriculture,,REP,James Michael Teets,120
+Lewis,6,Commissioner of Agriculture,,REP,James Michael Teets,80
+Lewis,7,Commissioner of Agriculture,,REP,James Michael Teets,175
+Lewis,8,Commissioner of Agriculture,,REP,James Michael Teets,220
+Lewis,9,Commissioner of Agriculture,,REP,James Michael Teets,63
+Lewis,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",250
+Lewis,Total,Governor,,DEM,"Joe Manchin, III",4434
+Lewis,Total,Governor,,REP,Russell E. Weeks Jr,1921
+Lewis,1,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Lewis,10,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Lewis,11,Governor,,MTN,"Jesse C. Johnson, Jr.",9
+Lewis,12,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Lewis,13,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Lewis,14,Governor,,MTN,"Jesse C. Johnson, Jr.",17
+Lewis,15,Governor,,MTN,"Jesse C. Johnson, Jr.",12
+Lewis,16,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Lewis,17,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Lewis,18,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Lewis,19,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Lewis,2,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Lewis,20,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Lewis,21,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Lewis,22,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Lewis,23,Governor,,MTN,"Jesse C. Johnson, Jr.",22
+Lewis,24,Governor,,MTN,"Jesse C. Johnson, Jr.",18
+Lewis,3,Governor,,MTN,"Jesse C. Johnson, Jr.",13
+Lewis,4,Governor,,MTN,"Jesse C. Johnson, Jr.",15
+Lewis,5,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Lewis,6,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Lewis,7,Governor,,MTN,"Jesse C. Johnson, Jr.",18
+Lewis,8,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Lewis,9,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Lewis,1,Governor,,DEM,"Joe Manchin, III",98
+Lewis,10,Governor,,DEM,"Joe Manchin, III",231
+Lewis,11,Governor,,DEM,"Joe Manchin, III",138
+Lewis,12,Governor,,DEM,"Joe Manchin, III",110
+Lewis,13,Governor,,DEM,"Joe Manchin, III",489
+Lewis,14,Governor,,DEM,"Joe Manchin, III",216
+Lewis,15,Governor,,DEM,"Joe Manchin, III",314
+Lewis,16,Governor,,DEM,"Joe Manchin, III",112
+Lewis,17,Governor,,DEM,"Joe Manchin, III",181
+Lewis,18,Governor,,DEM,"Joe Manchin, III",77
+Lewis,19,Governor,,DEM,"Joe Manchin, III",121
+Lewis,2,Governor,,DEM,"Joe Manchin, III",123
+Lewis,20,Governor,,DEM,"Joe Manchin, III",323
+Lewis,21,Governor,,DEM,"Joe Manchin, III",179
+Lewis,22,Governor,,DEM,"Joe Manchin, III",82
+Lewis,23,Governor,,DEM,"Joe Manchin, III",233
+Lewis,24,Governor,,DEM,"Joe Manchin, III",294
+Lewis,3,Governor,,DEM,"Joe Manchin, III",135
+Lewis,4,Governor,,DEM,"Joe Manchin, III",88
+Lewis,5,Governor,,DEM,"Joe Manchin, III",168
+Lewis,6,Governor,,DEM,"Joe Manchin, III",130
+Lewis,7,Governor,,DEM,"Joe Manchin, III",232
+Lewis,8,Governor,,DEM,"Joe Manchin, III",254
+Lewis,9,Governor,,DEM,"Joe Manchin, III",106
+Lewis,1,Governor,,REP,Russell E. Weeks Jr,26
+Lewis,10,Governor,,REP,Russell E. Weeks Jr,69
+Lewis,11,Governor,,REP,Russell E. Weeks Jr,66
+Lewis,12,Governor,,REP,Russell E. Weeks Jr,62
+Lewis,13,Governor,,REP,Russell E. Weeks Jr,214
+Lewis,14,Governor,,REP,Russell E. Weeks Jr,101
+Lewis,15,Governor,,REP,Russell E. Weeks Jr,173
+Lewis,16,Governor,,REP,Russell E. Weeks Jr,36
+Lewis,17,Governor,,REP,Russell E. Weeks Jr,59
+Lewis,18,Governor,,REP,Russell E. Weeks Jr,37
+Lewis,19,Governor,,REP,Russell E. Weeks Jr,35
+Lewis,2,Governor,,REP,Russell E. Weeks Jr,57
+Lewis,20,Governor,,REP,Russell E. Weeks Jr,147
+Lewis,21,Governor,,REP,Russell E. Weeks Jr,72
+Lewis,22,Governor,,REP,Russell E. Weeks Jr,31
+Lewis,23,Governor,,REP,Russell E. Weeks Jr,117
+Lewis,24,Governor,,REP,Russell E. Weeks Jr,114
+Lewis,3,Governor,,REP,Russell E. Weeks Jr,75
+Lewis,4,Governor,,REP,Russell E. Weeks Jr,45
+Lewis,5,Governor,,REP,Russell E. Weeks Jr,62
+Lewis,6,Governor,,REP,Russell E. Weeks Jr,47
+Lewis,7,Governor,,REP,Russell E. Weeks Jr,112
+Lewis,8,Governor,,REP,Russell E. Weeks Jr,128
+Lewis,9,Governor,,REP,Russell E. Weeks Jr,36
+Lewis,Total,President,,DEM,Barack Hussein Obama,2109
+Lewis,Total,President,,CON,Charles Obadiah Baldwin,37
+Lewis,Total,President,,MTN,Cynthia Ann McKinney,35
+Lewis,Total,President,,REP,John Sidney McCain III,4335
+Lewis,Total,President,,,Ralph Nader,87
+Lewis,1,President,,DEM,Barack Hussein Obama,76
+Lewis,10,President,,DEM,Barack Hussein Obama,128
+Lewis,11,President,,DEM,Barack Hussein Obama,72
+Lewis,12,President,,DEM,Barack Hussein Obama,40
+Lewis,13,President,,DEM,Barack Hussein Obama,191
+Lewis,14,President,,DEM,Barack Hussein Obama,73
+Lewis,15,President,,DEM,Barack Hussein Obama,145
+Lewis,16,President,,DEM,Barack Hussein Obama,57
+Lewis,17,President,,DEM,Barack Hussein Obama,76
+Lewis,18,President,,DEM,Barack Hussein Obama,48
+Lewis,19,President,,DEM,Barack Hussein Obama,55
+Lewis,2,President,,DEM,Barack Hussein Obama,74
+Lewis,20,President,,DEM,Barack Hussein Obama,136
+Lewis,21,President,,DEM,Barack Hussein Obama,87
+Lewis,22,President,,DEM,Barack Hussein Obama,41
+Lewis,23,President,,DEM,Barack Hussein Obama,107
+Lewis,24,President,,DEM,Barack Hussein Obama,127
+Lewis,3,President,,DEM,Barack Hussein Obama,84
+Lewis,4,President,,DEM,Barack Hussein Obama,41
+Lewis,5,President,,DEM,Barack Hussein Obama,87
+Lewis,6,President,,DEM,Barack Hussein Obama,74
+Lewis,7,President,,DEM,Barack Hussein Obama,117
+Lewis,8,President,,DEM,Barack Hussein Obama,113
+Lewis,9,President,,DEM,Barack Hussein Obama,60
+Lewis,1,President,,CON,Charles Obadiah Baldwin,2
+Lewis,10,President,,CON,Charles Obadiah Baldwin,1
+Lewis,11,President,,CON,Charles Obadiah Baldwin,1
+Lewis,12,President,,CON,Charles Obadiah Baldwin,1
+Lewis,13,President,,CON,Charles Obadiah Baldwin,0
+Lewis,14,President,,CON,Charles Obadiah Baldwin,0
+Lewis,15,President,,CON,Charles Obadiah Baldwin,3
+Lewis,16,President,,CON,Charles Obadiah Baldwin,0
+Lewis,17,President,,CON,Charles Obadiah Baldwin,3
+Lewis,18,President,,CON,Charles Obadiah Baldwin,3
+Lewis,19,President,,CON,Charles Obadiah Baldwin,0
+Lewis,2,President,,CON,Charles Obadiah Baldwin,0
+Lewis,20,President,,CON,Charles Obadiah Baldwin,3
+Lewis,21,President,,CON,Charles Obadiah Baldwin,3
+Lewis,22,President,,CON,Charles Obadiah Baldwin,1
+Lewis,23,President,,CON,Charles Obadiah Baldwin,1
+Lewis,24,President,,CON,Charles Obadiah Baldwin,2
+Lewis,3,President,,CON,Charles Obadiah Baldwin,2
+Lewis,4,President,,CON,Charles Obadiah Baldwin,2
+Lewis,5,President,,CON,Charles Obadiah Baldwin,3
+Lewis,6,President,,CON,Charles Obadiah Baldwin,2
+Lewis,7,President,,CON,Charles Obadiah Baldwin,4
+Lewis,8,President,,CON,Charles Obadiah Baldwin,0
+Lewis,9,President,,CON,Charles Obadiah Baldwin,0
+Lewis,1,President,,MTN,Cynthia Ann McKinney,1
+Lewis,10,President,,MTN,Cynthia Ann McKinney,1
+Lewis,11,President,,MTN,Cynthia Ann McKinney,0
+Lewis,12,President,,MTN,Cynthia Ann McKinney,1
+Lewis,13,President,,MTN,Cynthia Ann McKinney,8
+Lewis,14,President,,MTN,Cynthia Ann McKinney,4
+Lewis,15,President,,MTN,Cynthia Ann McKinney,0
+Lewis,16,President,,MTN,Cynthia Ann McKinney,0
+Lewis,17,President,,MTN,Cynthia Ann McKinney,1
+Lewis,18,President,,MTN,Cynthia Ann McKinney,1
+Lewis,19,President,,MTN,Cynthia Ann McKinney,3
+Lewis,2,President,,MTN,Cynthia Ann McKinney,0
+Lewis,20,President,,MTN,Cynthia Ann McKinney,1
+Lewis,21,President,,MTN,Cynthia Ann McKinney,0
+Lewis,22,President,,MTN,Cynthia Ann McKinney,1
+Lewis,23,President,,MTN,Cynthia Ann McKinney,3
+Lewis,24,President,,MTN,Cynthia Ann McKinney,1
+Lewis,3,President,,MTN,Cynthia Ann McKinney,1
+Lewis,4,President,,MTN,Cynthia Ann McKinney,0
+Lewis,5,President,,MTN,Cynthia Ann McKinney,1
+Lewis,6,President,,MTN,Cynthia Ann McKinney,0
+Lewis,7,President,,MTN,Cynthia Ann McKinney,4
+Lewis,8,President,,MTN,Cynthia Ann McKinney,1
+Lewis,9,President,,MTN,Cynthia Ann McKinney,2
+Lewis,1,President,,REP,John Sidney McCain III,48
+Lewis,10,President,,REP,John Sidney McCain III,180
+Lewis,11,President,,REP,John Sidney McCain III,142
+Lewis,12,President,,REP,John Sidney McCain III,130
+Lewis,13,President,,REP,John Sidney McCain III,514
+Lewis,14,President,,REP,John Sidney McCain III,249
+Lewis,15,President,,REP,John Sidney McCain III,349
+Lewis,16,President,,REP,John Sidney McCain III,95
+Lewis,17,President,,REP,John Sidney McCain III,151
+Lewis,18,President,,REP,John Sidney McCain III,63
+Lewis,19,President,,REP,John Sidney McCain III,110
+Lewis,2,President,,REP,John Sidney McCain III,113
+Lewis,20,President,,REP,John Sidney McCain III,346
+Lewis,21,President,,REP,John Sidney McCain III,167
+Lewis,22,President,,REP,John Sidney McCain III,72
+Lewis,23,President,,REP,John Sidney McCain III,248
+Lewis,24,President,,REP,John Sidney McCain III,298
+Lewis,3,President,,REP,John Sidney McCain III,136
+Lewis,4,President,,REP,John Sidney McCain III,102
+Lewis,5,President,,REP,John Sidney McCain III,140
+Lewis,6,President,,REP,John Sidney McCain III,111
+Lewis,7,President,,REP,John Sidney McCain III,218
+Lewis,8,President,,REP,John Sidney McCain III,274
+Lewis,9,President,,REP,John Sidney McCain III,79
+Lewis,1,President,,,Ralph Nader,3
+Lewis,10,President,,,Ralph Nader,5
+Lewis,11,President,,,Ralph Nader,1
+Lewis,12,President,,,Ralph Nader,4
+Lewis,13,President,,,Ralph Nader,10
+Lewis,14,President,,,Ralph Nader,4
+Lewis,15,President,,,Ralph Nader,3
+Lewis,16,President,,,Ralph Nader,3
+Lewis,17,President,,,Ralph Nader,5
+Lewis,18,President,,,Ralph Nader,1
+Lewis,19,President,,,Ralph Nader,3
+Lewis,2,President,,,Ralph Nader,4
+Lewis,20,President,,,Ralph Nader,4
+Lewis,21,President,,,Ralph Nader,2
+Lewis,22,President,,,Ralph Nader,2
+Lewis,23,President,,,Ralph Nader,5
+Lewis,24,President,,,Ralph Nader,6
+Lewis,3,President,,,Ralph Nader,0
+Lewis,4,President,,,Ralph Nader,1
+Lewis,5,President,,,Ralph Nader,1
+Lewis,6,President,,,Ralph Nader,2
+Lewis,7,President,,,Ralph Nader,14
+Lewis,8,President,,,Ralph Nader,3
+Lewis,9,President,,,Ralph Nader,1
+Lewis,Total,Secretary of State,,REP,Charles Theophilus Minimah,2042
+Lewis,Total,Secretary of State,,DEM,Natalie Tennant,4266
+Lewis,1,Secretary of State,,REP,Charles Theophilus Minimah,23
+Lewis,10,Secretary of State,,REP,Charles Theophilus Minimah,91
+Lewis,11,Secretary of State,,REP,Charles Theophilus Minimah,62
+Lewis,12,Secretary of State,,REP,Charles Theophilus Minimah,62
+Lewis,13,Secretary of State,,REP,Charles Theophilus Minimah,236
+Lewis,14,Secretary of State,,REP,Charles Theophilus Minimah,129
+Lewis,15,Secretary of State,,REP,Charles Theophilus Minimah,156
+Lewis,16,Secretary of State,,REP,Charles Theophilus Minimah,34
+Lewis,17,Secretary of State,,REP,Charles Theophilus Minimah,65
+Lewis,18,Secretary of State,,REP,Charles Theophilus Minimah,32
+Lewis,19,Secretary of State,,REP,Charles Theophilus Minimah,48
+Lewis,2,Secretary of State,,REP,Charles Theophilus Minimah,65
+Lewis,20,Secretary of State,,REP,Charles Theophilus Minimah,148
+Lewis,21,Secretary of State,,REP,Charles Theophilus Minimah,93
+Lewis,22,Secretary of State,,REP,Charles Theophilus Minimah,29
+Lewis,23,Secretary of State,,REP,Charles Theophilus Minimah,100
+Lewis,24,Secretary of State,,REP,Charles Theophilus Minimah,119
+Lewis,3,Secretary of State,,REP,Charles Theophilus Minimah,80
+Lewis,4,Secretary of State,,REP,Charles Theophilus Minimah,58
+Lewis,5,Secretary of State,,REP,Charles Theophilus Minimah,73
+Lewis,6,Secretary of State,,REP,Charles Theophilus Minimah,46
+Lewis,7,Secretary of State,,REP,Charles Theophilus Minimah,113
+Lewis,8,Secretary of State,,REP,Charles Theophilus Minimah,144
+Lewis,9,Secretary of State,,REP,Charles Theophilus Minimah,36
+Lewis,1,Secretary of State,,DEM,Natalie Tennant,104
+Lewis,10,Secretary of State,,DEM,Natalie Tennant,209
+Lewis,11,Secretary of State,,DEM,Natalie Tennant,149
+Lewis,12,Secretary of State,,DEM,Natalie Tennant,108
+Lewis,13,Secretary of State,,DEM,Natalie Tennant,459
+Lewis,14,Secretary of State,,DEM,Natalie Tennant,185
+Lewis,15,Secretary of State,,DEM,Natalie Tennant,314
+Lewis,16,Secretary of State,,DEM,Natalie Tennant,111
+Lewis,17,Secretary of State,,DEM,Natalie Tennant,175
+Lewis,18,Secretary of State,,DEM,Natalie Tennant,78
+Lewis,19,Secretary of State,,DEM,Natalie Tennant,116
+Lewis,2,Secretary of State,,DEM,Natalie Tennant,116
+Lewis,20,Secretary of State,,DEM,Natalie Tennant,307
+Lewis,21,Secretary of State,,DEM,Natalie Tennant,161
+Lewis,22,Secretary of State,,DEM,Natalie Tennant,68
+Lewis,23,Secretary of State,,DEM,Natalie Tennant,263
+Lewis,24,Secretary of State,,DEM,Natalie Tennant,284
+Lewis,3,Secretary of State,,DEM,Natalie Tennant,134
+Lewis,4,Secretary of State,,DEM,Natalie Tennant,81
+Lewis,5,Secretary of State,,DEM,Natalie Tennant,145
+Lewis,6,Secretary of State,,DEM,Natalie Tennant,133
+Lewis,7,Secretary of State,,DEM,Natalie Tennant,237
+Lewis,8,Secretary of State,,DEM,Natalie Tennant,223
+Lewis,9,Secretary of State,,DEM,Natalie Tennant,106
+Lewis,Total,State Auditor,,DEM,Glen B. Gainer III,5195
+Lewis,1,State Auditor,,DEM,Glen B. Gainer III,113
+Lewis,10,State Auditor,,DEM,Glen B. Gainer III,228
+Lewis,11,State Auditor,,DEM,Glen B. Gainer III,170
+Lewis,12,State Auditor,,DEM,Glen B. Gainer III,124
+Lewis,13,State Auditor,,DEM,Glen B. Gainer III,571
+Lewis,14,State Auditor,,DEM,Glen B. Gainer III,264
+Lewis,15,State Auditor,,DEM,Glen B. Gainer III,395
+Lewis,16,State Auditor,,DEM,Glen B. Gainer III,128
+Lewis,17,State Auditor,,DEM,Glen B. Gainer III,200
+Lewis,18,State Auditor,,DEM,Glen B. Gainer III,94
+Lewis,19,State Auditor,,DEM,Glen B. Gainer III,136
+Lewis,2,State Auditor,,DEM,Glen B. Gainer III,149
+Lewis,20,State Auditor,,DEM,Glen B. Gainer III,376
+Lewis,21,State Auditor,,DEM,Glen B. Gainer III,213
+Lewis,22,State Auditor,,DEM,Glen B. Gainer III,80
+Lewis,23,State Auditor,,DEM,Glen B. Gainer III,299
+Lewis,24,State Auditor,,DEM,Glen B. Gainer III,334
+Lewis,3,State Auditor,,DEM,Glen B. Gainer III,174
+Lewis,4,State Auditor,,DEM,Glen B. Gainer III,107
+Lewis,5,State Auditor,,DEM,Glen B. Gainer III,179
+Lewis,6,State Auditor,,DEM,Glen B. Gainer III,151
+Lewis,7,State Auditor,,DEM,Glen B. Gainer III,300
+Lewis,8,State Auditor,,DEM,Glen B. Gainer III,292
+Lewis,9,State Auditor,,DEM,Glen B. Gainer III,118
+Lewis,Total,State House,,REP,Derrick Wayne Love,2195
+Lewis,Total,State House,,DEM,Margaret Donaldson Smith,4338
+Lewis,1,State House,,REP,Derrick Wayne Love,33
+Lewis,10,State House,,REP,Derrick Wayne Love,85
+Lewis,11,State House,,REP,Derrick Wayne Love,59
+Lewis,12,State House,,REP,Derrick Wayne Love,74
+Lewis,13,State House,,REP,Derrick Wayne Love,290
+Lewis,14,State House,,REP,Derrick Wayne Love,138
+Lewis,15,State House,,REP,Derrick Wayne Love,153
+Lewis,16,State House,,REP,Derrick Wayne Love,41
+Lewis,17,State House,,REP,Derrick Wayne Love,71
+Lewis,18,State House,,REP,Derrick Wayne Love,28
+Lewis,19,State House,,REP,Derrick Wayne Love,44
+Lewis,2,State House,,REP,Derrick Wayne Love,69
+Lewis,20,State House,,REP,Derrick Wayne Love,168
+Lewis,21,State House,,REP,Derrick Wayne Love,82
+Lewis,22,State House,,REP,Derrick Wayne Love,34
+Lewis,23,State House,,REP,Derrick Wayne Love,129
+Lewis,24,State House,,REP,Derrick Wayne Love,145
+Lewis,3,State House,,REP,Derrick Wayne Love,83
+Lewis,4,State House,,REP,Derrick Wayne Love,49
+Lewis,5,State House,,REP,Derrick Wayne Love,69
+Lewis,6,State House,,REP,Derrick Wayne Love,49
+Lewis,7,State House,,REP,Derrick Wayne Love,112
+Lewis,8,State House,,REP,Derrick Wayne Love,154
+Lewis,9,State House,,REP,Derrick Wayne Love,36
+Lewis,1,State House,,DEM,Margaret Donaldson Smith,98
+Lewis,10,State House,,DEM,Margaret Donaldson Smith,223
+Lewis,11,State House,,DEM,Margaret Donaldson Smith,155
+Lewis,12,State House,,DEM,Margaret Donaldson Smith,94
+Lewis,13,State House,,DEM,Margaret Donaldson Smith,419
+Lewis,14,State House,,DEM,Margaret Donaldson Smith,187
+Lewis,15,State House,,DEM,Margaret Donaldson Smith,337
+Lewis,16,State House,,DEM,Margaret Donaldson Smith,108
+Lewis,17,State House,,DEM,Margaret Donaldson Smith,166
+Lewis,18,State House,,DEM,Margaret Donaldson Smith,91
+Lewis,19,State House,,DEM,Margaret Donaldson Smith,129
+Lewis,2,State House,,DEM,Margaret Donaldson Smith,116
+Lewis,20,State House,,DEM,Margaret Donaldson Smith,318
+Lewis,21,State House,,DEM,Margaret Donaldson Smith,177
+Lewis,22,State House,,DEM,Margaret Donaldson Smith,78
+Lewis,23,State House,,DEM,Margaret Donaldson Smith,240
+Lewis,24,State House,,DEM,Margaret Donaldson Smith,281
+Lewis,3,State House,,DEM,Margaret Donaldson Smith,136
+Lewis,4,State House,,DEM,Margaret Donaldson Smith,101
+Lewis,5,State House,,DEM,Margaret Donaldson Smith,163
+Lewis,6,State House,,DEM,Margaret Donaldson Smith,135
+Lewis,7,State House,,DEM,Margaret Donaldson Smith,251
+Lewis,8,State House,,DEM,Margaret Donaldson Smith,227
+Lewis,9,State House,,DEM,Margaret Donaldson Smith,108
+Lewis,Total,State Senate,,DEM,Douglas Eugene Facemire,4778
+Lewis,1,State Senate,,DEM,Douglas Eugene Facemire,103
+Lewis,10,State Senate,,DEM,Douglas Eugene Facemire,207
+Lewis,11,State Senate,,DEM,Douglas Eugene Facemire,163
+Lewis,12,State Senate,,DEM,Douglas Eugene Facemire,111
+Lewis,13,State Senate,,DEM,Douglas Eugene Facemire,530
+Lewis,14,State Senate,,DEM,Douglas Eugene Facemire,235
+Lewis,15,State Senate,,DEM,Douglas Eugene Facemire,353
+Lewis,16,State Senate,,DEM,Douglas Eugene Facemire,113
+Lewis,17,State Senate,,DEM,Douglas Eugene Facemire,183
+Lewis,18,State Senate,,DEM,Douglas Eugene Facemire,89
+Lewis,19,State Senate,,DEM,Douglas Eugene Facemire,128
+Lewis,2,State Senate,,DEM,Douglas Eugene Facemire,136
+Lewis,20,State Senate,,DEM,Douglas Eugene Facemire,321
+Lewis,21,State Senate,,DEM,Douglas Eugene Facemire,195
+Lewis,22,State Senate,,DEM,Douglas Eugene Facemire,77
+Lewis,23,State Senate,,DEM,Douglas Eugene Facemire,284
+Lewis,24,State Senate,,DEM,Douglas Eugene Facemire,308
+Lewis,3,State Senate,,DEM,Douglas Eugene Facemire,164
+Lewis,4,State Senate,,DEM,Douglas Eugene Facemire,112
+Lewis,5,State Senate,,DEM,Douglas Eugene Facemire,162
+Lewis,6,State Senate,,DEM,Douglas Eugene Facemire,141
+Lewis,7,State Senate,,DEM,Douglas Eugene Facemire,286
+Lewis,8,State Senate,,DEM,Douglas Eugene Facemire,273
+Lewis,9,State Senate,,DEM,Douglas Eugene Facemire,104
+Lewis,Total,State Treasurer,,DEM,John D. Perdue,5119
+Lewis,1,State Treasurer,,DEM,John D. Perdue,115
+Lewis,10,State Treasurer,,DEM,John D. Perdue,228
+Lewis,11,State Treasurer,,DEM,John D. Perdue,168
+Lewis,12,State Treasurer,,DEM,John D. Perdue,124
+Lewis,13,State Treasurer,,DEM,John D. Perdue,564
+Lewis,14,State Treasurer,,DEM,John D. Perdue,250
+Lewis,15,State Treasurer,,DEM,John D. Perdue,382
+Lewis,16,State Treasurer,,DEM,John D. Perdue,123
+Lewis,17,State Treasurer,,DEM,John D. Perdue,200
+Lewis,18,State Treasurer,,DEM,John D. Perdue,99
+Lewis,19,State Treasurer,,DEM,John D. Perdue,137
+Lewis,2,State Treasurer,,DEM,John D. Perdue,143
+Lewis,20,State Treasurer,,DEM,John D. Perdue,356
+Lewis,21,State Treasurer,,DEM,John D. Perdue,211
+Lewis,22,State Treasurer,,DEM,John D. Perdue,79
+Lewis,23,State Treasurer,,DEM,John D. Perdue,291
+Lewis,24,State Treasurer,,DEM,John D. Perdue,330
+Lewis,3,State Treasurer,,DEM,John D. Perdue,175
+Lewis,4,State Treasurer,,DEM,John D. Perdue,112
+Lewis,5,State Treasurer,,DEM,John D. Perdue,175
+Lewis,6,State Treasurer,,DEM,John D. Perdue,146
+Lewis,7,State Treasurer,,DEM,John D. Perdue,302
+Lewis,8,State Treasurer,,DEM,John D. Perdue,293
+Lewis,9,State Treasurer,,DEM,John D. Perdue,116
+Lewis,Total,U.S. House,2,DEM,Elizabeth Anne Barth,2243
+Lewis,Total,U.S. House,2,REP,Shelley Moore Capito,4371
+Lewis,1,U.S. House,2,DEM,Elizabeth Anne Barth,70
+Lewis,10,U.S. House,2,DEM,Elizabeth Anne Barth,110
+Lewis,11,U.S. House,2,DEM,Elizabeth Anne Barth,63
+Lewis,12,U.S. House,2,DEM,Elizabeth Anne Barth,45
+Lewis,13,U.S. House,2,DEM,Elizabeth Anne Barth,217
+Lewis,14,U.S. House,2,DEM,Elizabeth Anne Barth,106
+Lewis,15,U.S. House,2,DEM,Elizabeth Anne Barth,182
+Lewis,16,U.S. House,2,DEM,Elizabeth Anne Barth,46
+Lewis,17,U.S. House,2,DEM,Elizabeth Anne Barth,83
+Lewis,18,U.S. House,2,DEM,Elizabeth Anne Barth,48
+Lewis,19,U.S. House,2,DEM,Elizabeth Anne Barth,54
+Lewis,2,U.S. House,2,DEM,Elizabeth Anne Barth,53
+Lewis,20,U.S. House,2,DEM,Elizabeth Anne Barth,141
+Lewis,21,U.S. House,2,DEM,Elizabeth Anne Barth,96
+Lewis,22,U.S. House,2,DEM,Elizabeth Anne Barth,49
+Lewis,23,U.S. House,2,DEM,Elizabeth Anne Barth,125
+Lewis,24,U.S. House,2,DEM,Elizabeth Anne Barth,139
+Lewis,3,U.S. House,2,DEM,Elizabeth Anne Barth,85
+Lewis,4,U.S. House,2,DEM,Elizabeth Anne Barth,60
+Lewis,5,U.S. House,2,DEM,Elizabeth Anne Barth,85
+Lewis,6,U.S. House,2,DEM,Elizabeth Anne Barth,83
+Lewis,7,U.S. House,2,DEM,Elizabeth Anne Barth,135
+Lewis,8,U.S. House,2,DEM,Elizabeth Anne Barth,115
+Lewis,9,U.S. House,2,DEM,Elizabeth Anne Barth,53
+Lewis,1,U.S. House,2,REP,Shelley Moore Capito,63
+Lewis,10,U.S. House,2,REP,Shelley Moore Capito,198
+Lewis,11,U.S. House,2,REP,Shelley Moore Capito,150
+Lewis,12,U.S. House,2,REP,Shelley Moore Capito,131
+Lewis,13,U.S. House,2,REP,Shelley Moore Capito,504
+Lewis,14,U.S. House,2,REP,Shelley Moore Capito,225
+Lewis,15,U.S. House,2,REP,Shelley Moore Capito,318
+Lewis,16,U.S. House,2,REP,Shelley Moore Capito,107
+Lewis,17,U.S. House,2,REP,Shelley Moore Capito,162
+Lewis,18,U.S. House,2,REP,Shelley Moore Capito,67
+Lewis,19,U.S. House,2,REP,Shelley Moore Capito,121
+Lewis,2,U.S. House,2,REP,Shelley Moore Capito,137
+Lewis,20,U.S. House,2,REP,Shelley Moore Capito,349
+Lewis,21,U.S. House,2,REP,Shelley Moore Capito,164
+Lewis,22,U.S. House,2,REP,Shelley Moore Capito,66
+Lewis,23,U.S. House,2,REP,Shelley Moore Capito,246
+Lewis,24,U.S. House,2,REP,Shelley Moore Capito,285
+Lewis,3,U.S. House,2,REP,Shelley Moore Capito,138
+Lewis,4,U.S. House,2,REP,Shelley Moore Capito,91
+Lewis,5,U.S. House,2,REP,Shelley Moore Capito,147
+Lewis,6,U.S. House,2,REP,Shelley Moore Capito,106
+Lewis,7,U.S. House,2,REP,Shelley Moore Capito,226
+Lewis,8,U.S. House,2,REP,Shelley Moore Capito,277
+Lewis,9,U.S. House,2,REP,Shelley Moore Capito,93
+Lewis,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,3691
+Lewis,Total,U.S. Senate,,REP,Matthew Jay Wolfe,2944
+Lewis,1,U.S. Senate,,DEM,John Davison Rockefeller IV,93
+Lewis,10,U.S. Senate,,DEM,John Davison Rockefeller IV,184
+Lewis,11,U.S. Senate,,DEM,John Davison Rockefeller IV,119
+Lewis,12,U.S. Senate,,DEM,John Davison Rockefeller IV,90
+Lewis,13,U.S. Senate,,DEM,John Davison Rockefeller IV,355
+Lewis,14,U.S. Senate,,DEM,John Davison Rockefeller IV,156
+Lewis,15,U.S. Senate,,DEM,John Davison Rockefeller IV,285
+Lewis,16,U.S. Senate,,DEM,John Davison Rockefeller IV,97
+Lewis,17,U.S. Senate,,DEM,John Davison Rockefeller IV,147
+Lewis,18,U.S. Senate,,DEM,John Davison Rockefeller IV,78
+Lewis,19,U.S. Senate,,DEM,John Davison Rockefeller IV,104
+Lewis,2,U.S. Senate,,DEM,John Davison Rockefeller IV,94
+Lewis,20,U.S. Senate,,DEM,John Davison Rockefeller IV,279
+Lewis,21,U.S. Senate,,DEM,John Davison Rockefeller IV,146
+Lewis,22,U.S. Senate,,DEM,John Davison Rockefeller IV,71
+Lewis,23,U.S. Senate,,DEM,John Davison Rockefeller IV,214
+Lewis,24,U.S. Senate,,DEM,John Davison Rockefeller IV,253
+Lewis,3,U.S. Senate,,DEM,John Davison Rockefeller IV,129
+Lewis,4,U.S. Senate,,DEM,John Davison Rockefeller IV,75
+Lewis,5,U.S. Senate,,DEM,John Davison Rockefeller IV,136
+Lewis,6,U.S. Senate,,DEM,John Davison Rockefeller IV,106
+Lewis,7,U.S. Senate,,DEM,John Davison Rockefeller IV,193
+Lewis,8,U.S. Senate,,DEM,John Davison Rockefeller IV,193
+Lewis,9,U.S. Senate,,DEM,John Davison Rockefeller IV,94
+Lewis,1,U.S. Senate,,REP,Matthew Jay Wolfe,40
+Lewis,10,U.S. Senate,,REP,Matthew Jay Wolfe,129
+Lewis,11,U.S. Senate,,REP,Matthew Jay Wolfe,99
+Lewis,12,U.S. Senate,,REP,Matthew Jay Wolfe,88
+Lewis,13,U.S. Senate,,REP,Matthew Jay Wolfe,368
+Lewis,14,U.S. Senate,,REP,Matthew Jay Wolfe,174
+Lewis,15,U.S. Senate,,REP,Matthew Jay Wolfe,213
+Lewis,16,U.S. Senate,,REP,Matthew Jay Wolfe,56
+Lewis,17,U.S. Senate,,REP,Matthew Jay Wolfe,98
+Lewis,18,U.S. Senate,,REP,Matthew Jay Wolfe,41
+Lewis,19,U.S. Senate,,REP,Matthew Jay Wolfe,70
+Lewis,2,U.S. Senate,,REP,Matthew Jay Wolfe,92
+Lewis,20,U.S. Senate,,REP,Matthew Jay Wolfe,209
+Lewis,21,U.S. Senate,,REP,Matthew Jay Wolfe,113
+Lewis,22,U.S. Senate,,REP,Matthew Jay Wolfe,46
+Lewis,23,U.S. Senate,,REP,Matthew Jay Wolfe,162
+Lewis,24,U.S. Senate,,REP,Matthew Jay Wolfe,176
+Lewis,3,U.S. Senate,,REP,Matthew Jay Wolfe,95
+Lewis,4,U.S. Senate,,REP,Matthew Jay Wolfe,75
+Lewis,5,U.S. Senate,,REP,Matthew Jay Wolfe,97
+Lewis,6,U.S. Senate,,REP,Matthew Jay Wolfe,81
+Lewis,7,U.S. Senate,,REP,Matthew Jay Wolfe,172
+Lewis,8,U.S. Senate,,REP,Matthew Jay Wolfe,196
+Lewis,9,U.S. Senate,,REP,Matthew Jay Wolfe,54

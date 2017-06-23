@@ -1,0 +1,231 @@
+county,precinct,office,district,party,candidate,votes
+Wirt,Total,Attorney General,,REP,Daniel W.Greear,1106
+Wirt,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",1124
+Wirt,1,Attorney General,,REP,Daniel W.Greear,96
+Wirt,11,Attorney General,,REP,Daniel W.Greear,239
+Wirt,11,Attorney General,,REP,Daniel W.Greear,59
+Wirt,12,Attorney General,,REP,Daniel W.Greear,69
+Wirt,17,Attorney General,,REP,Daniel W.Greear,120
+Wirt,2,Attorney General,,REP,Daniel W.Greear,37
+Wirt,7,Attorney General,,REP,Daniel W.Greear,143
+Wirt,7,Attorney General,,REP,Daniel W.Greear,200
+Wirt,8,Attorney General,,REP,Daniel W.Greear,143
+Wirt,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",89
+Wirt,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",203
+Wirt,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",61
+Wirt,12,Attorney General,,DEM,"Darrell V. McGraw, Jr.",55
+Wirt,17,Attorney General,,DEM,"Darrell V. McGraw, Jr.",108
+Wirt,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",56
+Wirt,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",177
+Wirt,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",221
+Wirt,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",154
+Wirt,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,1241
+Wirt,Total,Commissioner of Agriculture,,REP,James Michael Teets,964
+Wirt,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,97
+Wirt,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,225
+Wirt,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,66
+Wirt,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,67
+Wirt,17,Commissioner of Agriculture,,DEM,Gus R. Douglass,122
+Wirt,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,55
+Wirt,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,193
+Wirt,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,251
+Wirt,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,165
+Wirt,1,Commissioner of Agriculture,,REP,James Michael Teets,85
+Wirt,11,Commissioner of Agriculture,,REP,James Michael Teets,214
+Wirt,11,Commissioner of Agriculture,,REP,James Michael Teets,55
+Wirt,12,Commissioner of Agriculture,,REP,James Michael Teets,60
+Wirt,17,Commissioner of Agriculture,,REP,James Michael Teets,100
+Wirt,2,Commissioner of Agriculture,,REP,James Michael Teets,36
+Wirt,7,Commissioner of Agriculture,,REP,James Michael Teets,126
+Wirt,7,Commissioner of Agriculture,,REP,James Michael Teets,158
+Wirt,8,Commissioner of Agriculture,,REP,James Michael Teets,130
+Wirt,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",87
+Wirt,Total,Governor,,DEM,"Joe Manchin, III",1638
+Wirt,Total,Governor,,REP,Russell E. Weeks Jr,578
+Wirt,1,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Wirt,11,Governor,,MTN,"Jesse C. Johnson, Jr.",19
+Wirt,11,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Wirt,12,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Wirt,17,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Wirt,2,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wirt,7,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Wirt,7,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Wirt,8,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Wirt,1,Governor,,DEM,"Joe Manchin, III",112
+Wirt,11,Governor,,DEM,"Joe Manchin, III",317
+Wirt,11,Governor,,DEM,"Joe Manchin, III",90
+Wirt,12,Governor,,DEM,"Joe Manchin, III",75
+Wirt,17,Governor,,DEM,"Joe Manchin, III",159
+Wirt,2,Governor,,DEM,"Joe Manchin, III",71
+Wirt,7,Governor,,DEM,"Joe Manchin, III",263
+Wirt,7,Governor,,DEM,"Joe Manchin, III",331
+Wirt,8,Governor,,DEM,"Joe Manchin, III",220
+Wirt,1,Governor,,REP,Russell E. Weeks Jr,57
+Wirt,11,Governor,,REP,Russell E. Weeks Jr,119
+Wirt,11,Governor,,REP,Russell E. Weeks Jr,28
+Wirt,12,Governor,,REP,Russell E. Weeks Jr,44
+Wirt,17,Governor,,REP,Russell E. Weeks Jr,66
+Wirt,2,Governor,,REP,Russell E. Weeks Jr,22
+Wirt,7,Governor,,REP,Russell E. Weeks Jr,65
+Wirt,7,Governor,,REP,Russell E. Weeks Jr,97
+Wirt,8,Governor,,REP,Russell E. Weeks Jr,80
+Wirt,Total,President,,DEM,Barack Hussein Obama,777
+Wirt,Total,President,,CON,Charles Obadiah Baldwin,13
+Wirt,Total,President,,MTN,Cynthia Ann McKinney,8
+Wirt,Total,President,,REP,John Sidney McCain III,1482
+Wirt,Total,President,,,Ralph Nader,25
+Wirt,1,President,,DEM,Barack Hussein Obama,54
+Wirt,11,President,,DEM,Barack Hussein Obama,156
+Wirt,11,President,,DEM,Barack Hussein Obama,36
+Wirt,12,President,,DEM,Barack Hussein Obama,28
+Wirt,17,President,,DEM,Barack Hussein Obama,65
+Wirt,2,President,,DEM,Barack Hussein Obama,41
+Wirt,7,President,,DEM,Barack Hussein Obama,127
+Wirt,7,President,,DEM,Barack Hussein Obama,166
+Wirt,8,President,,DEM,Barack Hussein Obama,104
+Wirt,1,President,,CON,Charles Obadiah Baldwin,1
+Wirt,11,President,,CON,Charles Obadiah Baldwin,1
+Wirt,11,President,,CON,Charles Obadiah Baldwin,2
+Wirt,12,President,,CON,Charles Obadiah Baldwin,1
+Wirt,17,President,,CON,Charles Obadiah Baldwin,1
+Wirt,2,President,,CON,Charles Obadiah Baldwin,3
+Wirt,7,President,,CON,Charles Obadiah Baldwin,2
+Wirt,7,President,,CON,Charles Obadiah Baldwin,2
+Wirt,8,President,,CON,Charles Obadiah Baldwin,0
+Wirt,1,President,,MTN,Cynthia Ann McKinney,0
+Wirt,11,President,,MTN,Cynthia Ann McKinney,1
+Wirt,11,President,,MTN,Cynthia Ann McKinney,0
+Wirt,12,President,,MTN,Cynthia Ann McKinney,1
+Wirt,17,President,,MTN,Cynthia Ann McKinney,0
+Wirt,2,President,,MTN,Cynthia Ann McKinney,0
+Wirt,7,President,,MTN,Cynthia Ann McKinney,3
+Wirt,7,President,,MTN,Cynthia Ann McKinney,2
+Wirt,8,President,,MTN,Cynthia Ann McKinney,1
+Wirt,1,President,,REP,John Sidney McCain III,131
+Wirt,11,President,,REP,John Sidney McCain III,297
+Wirt,11,President,,REP,John Sidney McCain III,85
+Wirt,12,President,,REP,John Sidney McCain III,99
+Wirt,17,President,,REP,John Sidney McCain III,162
+Wirt,2,President,,REP,John Sidney McCain III,49
+Wirt,7,President,,REP,John Sidney McCain III,193
+Wirt,7,President,,REP,John Sidney McCain III,271
+Wirt,8,President,,REP,John Sidney McCain III,195
+Wirt,1,President,,,Ralph Nader,2
+Wirt,11,President,,,Ralph Nader,4
+Wirt,11,President,,,Ralph Nader,0
+Wirt,12,President,,,Ralph Nader,0
+Wirt,17,President,,,Ralph Nader,1
+Wirt,2,President,,,Ralph Nader,4
+Wirt,7,President,,,Ralph Nader,6
+Wirt,7,President,,,Ralph Nader,2
+Wirt,8,President,,,Ralph Nader,6
+Wirt,Total,Secretary of State,,REP,Charles Theophilus Minimah,735
+Wirt,Total,Secretary of State,,DEM,Natalie Tennant,1440
+Wirt,1,Secretary of State,,REP,Charles Theophilus Minimah,72
+Wirt,11,Secretary of State,,REP,Charles Theophilus Minimah,152
+Wirt,11,Secretary of State,,REP,Charles Theophilus Minimah,39
+Wirt,12,Secretary of State,,REP,Charles Theophilus Minimah,51
+Wirt,17,Secretary of State,,REP,Charles Theophilus Minimah,84
+Wirt,2,Secretary of State,,REP,Charles Theophilus Minimah,24
+Wirt,7,Secretary of State,,REP,Charles Theophilus Minimah,81
+Wirt,7,Secretary of State,,REP,Charles Theophilus Minimah,128
+Wirt,8,Secretary of State,,REP,Charles Theophilus Minimah,104
+Wirt,1,Secretary of State,,DEM,Natalie Tennant,103
+Wirt,11,Secretary of State,,DEM,Natalie Tennant,286
+Wirt,11,Secretary of State,,DEM,Natalie Tennant,81
+Wirt,12,Secretary of State,,DEM,Natalie Tennant,66
+Wirt,17,Secretary of State,,DEM,Natalie Tennant,133
+Wirt,2,Secretary of State,,DEM,Natalie Tennant,72
+Wirt,7,Secretary of State,,DEM,Natalie Tennant,232
+Wirt,7,Secretary of State,,DEM,Natalie Tennant,279
+Wirt,8,Secretary of State,,DEM,Natalie Tennant,188
+Wirt,Total,State Auditor,,DEM,Glen B. Gainer III,1827
+Wirt,1,State Auditor,,DEM,Glen B. Gainer III,145
+Wirt,11,State Auditor,,DEM,Glen B. Gainer III,366
+Wirt,11,State Auditor,,DEM,Glen B. Gainer III,99
+Wirt,12,State Auditor,,DEM,Glen B. Gainer III,91
+Wirt,17,State Auditor,,DEM,Glen B. Gainer III,179
+Wirt,2,State Auditor,,DEM,Glen B. Gainer III,81
+Wirt,7,State Auditor,,DEM,Glen B. Gainer III,274
+Wirt,7,State Auditor,,DEM,Glen B. Gainer III,352
+Wirt,8,State Auditor,,DEM,Glen B. Gainer III,240
+Wirt,Total,State House,,DEM,Francis James Marion,987
+Wirt,Total,State House,,REP,Larry Willis Border,1269
+Wirt,1,State House,,DEM,Francis James Marion,76
+Wirt,11,State House,,DEM,Francis James Marion,176
+Wirt,11,State House,,DEM,Francis James Marion,47
+Wirt,12,State House,,DEM,Francis James Marion,36
+Wirt,17,State House,,DEM,Francis James Marion,101
+Wirt,2,State House,,DEM,Francis James Marion,50
+Wirt,7,State House,,DEM,Francis James Marion,150
+Wirt,7,State House,,DEM,Francis James Marion,215
+Wirt,8,State House,,DEM,Francis James Marion,136
+Wirt,1,State House,,REP,Larry Willis Border,107
+Wirt,11,State House,,REP,Larry Willis Border,269
+Wirt,11,State House,,REP,Larry Willis Border,75
+Wirt,12,State House,,REP,Larry Willis Border,90
+Wirt,17,State House,,REP,Larry Willis Border,126
+Wirt,2,State House,,REP,Larry Willis Border,43
+Wirt,7,State House,,REP,Larry Willis Border,178
+Wirt,7,State House,,REP,Larry Willis Border,218
+Wirt,8,State House,,REP,Larry Willis Border,163
+Wirt,Total,State Senate,,REP,Donna J. Boley,1913
+Wirt,1,State Senate,,REP,Donna J. Boley,165
+Wirt,11,State Senate,,REP,Donna J. Boley,374
+Wirt,11,State Senate,,REP,Donna J. Boley,111
+Wirt,12,State Senate,,REP,Donna J. Boley,113
+Wirt,17,State Senate,,REP,Donna J. Boley,183
+Wirt,2,State Senate,,REP,Donna J. Boley,79
+Wirt,7,State Senate,,REP,Donna J. Boley,272
+Wirt,7,State Senate,,REP,Donna J. Boley,366
+Wirt,8,State Senate,,REP,Donna J. Boley,250
+Wirt,Total,State Treasurer,,DEM,John D. Perdue,1764
+Wirt,1,State Treasurer,,DEM,John D. Perdue,142
+Wirt,11,State Treasurer,,DEM,John D. Perdue,348
+Wirt,11,State Treasurer,,DEM,John D. Perdue,100
+Wirt,12,State Treasurer,,DEM,John D. Perdue,88
+Wirt,17,State Treasurer,,DEM,John D. Perdue,174
+Wirt,2,State Treasurer,,DEM,John D. Perdue,74
+Wirt,7,State Treasurer,,DEM,John D. Perdue,265
+Wirt,7,State Treasurer,,DEM,John D. Perdue,338
+Wirt,8,State Treasurer,,DEM,John D. Perdue,235
+Wirt,Total,U.S. House,2,DEM,Elizabeth Anne Barth,902
+Wirt,Total,U.S. House,2,REP,Shelley Moore Capito,1362
+Wirt,1,U.S. House,2,DEM,Elizabeth Anne Barth,63
+Wirt,11,U.S. House,2,DEM,Elizabeth Anne Barth,176
+Wirt,11,U.S. House,2,DEM,Elizabeth Anne Barth,44
+Wirt,12,U.S. House,2,DEM,Elizabeth Anne Barth,35
+Wirt,17,U.S. House,2,DEM,Elizabeth Anne Barth,90
+Wirt,2,U.S. House,2,DEM,Elizabeth Anne Barth,49
+Wirt,7,U.S. House,2,DEM,Elizabeth Anne Barth,139
+Wirt,7,U.S. House,2,DEM,Elizabeth Anne Barth,175
+Wirt,8,U.S. House,2,DEM,Elizabeth Anne Barth,131
+Wirt,1,U.S. House,2,REP,Shelley Moore Capito,116
+Wirt,11,U.S. House,2,REP,Shelley Moore Capito,261
+Wirt,11,U.S. House,2,REP,Shelley Moore Capito,78
+Wirt,12,U.S. House,2,REP,Shelley Moore Capito,93
+Wirt,17,U.S. House,2,REP,Shelley Moore Capito,141
+Wirt,2,U.S. House,2,REP,Shelley Moore Capito,46
+Wirt,7,U.S. House,2,REP,Shelley Moore Capito,190
+Wirt,7,U.S. House,2,REP,Shelley Moore Capito,258
+Wirt,8,U.S. House,2,REP,Shelley Moore Capito,179
+Wirt,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,1284
+Wirt,Total,U.S. Senate,,REP,Matthew Jay Wolfe,994
+Wirt,1,U.S. Senate,,DEM,John Davison Rockefeller IV,89
+Wirt,11,U.S. Senate,,DEM,John Davison Rockefeller IV,232
+Wirt,11,U.S. Senate,,DEM,John Davison Rockefeller IV,71
+Wirt,12,U.S. Senate,,DEM,John Davison Rockefeller IV,69
+Wirt,17,U.S. Senate,,DEM,John Davison Rockefeller IV,119
+Wirt,2,U.S. Senate,,DEM,John Davison Rockefeller IV,61
+Wirt,7,U.S. Senate,,DEM,John Davison Rockefeller IV,213
+Wirt,7,U.S. Senate,,DEM,John Davison Rockefeller IV,257
+Wirt,8,U.S. Senate,,DEM,John Davison Rockefeller IV,173
+Wirt,1,U.S. Senate,,REP,Matthew Jay Wolfe,92
+Wirt,11,U.S. Senate,,REP,Matthew Jay Wolfe,217
+Wirt,11,U.S. Senate,,REP,Matthew Jay Wolfe,49
+Wirt,12,U.S. Senate,,REP,Matthew Jay Wolfe,58
+Wirt,17,U.S. Senate,,REP,Matthew Jay Wolfe,112
+Wirt,2,U.S. Senate,,REP,Matthew Jay Wolfe,34
+Wirt,7,U.S. Senate,,REP,Matthew Jay Wolfe,116
+Wirt,7,U.S. Senate,,REP,Matthew Jay Wolfe,182
+Wirt,8,U.S. Senate,,REP,Matthew Jay Wolfe,134
