@@ -1,0 +1,926 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,Total,Attorney General,,REP,Daniel W.Greear,2872
+Wyoming,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",4440
+Wyoming,1,Attorney General,,REP,Daniel W.Greear,93
+Wyoming,10,Attorney General,,REP,Daniel W.Greear,64
+Wyoming,12,Attorney General,,REP,Daniel W.Greear,27
+Wyoming,13,Attorney General,,REP,Daniel W.Greear,88
+Wyoming,14,Attorney General,,REP,Daniel W.Greear,47
+Wyoming,15,Attorney General,,REP,Daniel W.Greear,57
+Wyoming,16,Attorney General,,REP,Daniel W.Greear,145
+Wyoming,17,Attorney General,,REP,Daniel W.Greear,87
+Wyoming,18,Attorney General,,REP,Daniel W.Greear,86
+Wyoming,19,Attorney General,,REP,Daniel W.Greear,97
+Wyoming,2,Attorney General,,REP,Daniel W.Greear,92
+Wyoming,20,Attorney General,,REP,Daniel W.Greear,126
+Wyoming,21,Attorney General,,REP,Daniel W.Greear,16
+Wyoming,22,Attorney General,,REP,Daniel W.Greear,42
+Wyoming,23,Attorney General,,REP,Daniel W.Greear,32
+Wyoming,24,Attorney General,,REP,Daniel W.Greear,81
+Wyoming,24,Attorney General,,REP,Daniel W.Greear,43
+Wyoming,26,Attorney General,,REP,Daniel W.Greear,153
+Wyoming,27,Attorney General,,REP,Daniel W.Greear,90
+Wyoming,27,Attorney General,,REP,Daniel W.Greear,61
+Wyoming,28,Attorney General,,REP,Daniel W.Greear,115
+Wyoming,29,Attorney General,,REP,Daniel W.Greear,158
+Wyoming,31,Attorney General,,REP,Daniel W.Greear,133
+Wyoming,32,Attorney General,,REP,Daniel W.Greear,66
+Wyoming,33,Attorney General,,REP,Daniel W.Greear,93
+Wyoming,34,Attorney General,,REP,Daniel W.Greear,36
+Wyoming,37,Attorney General,,REP,Daniel W.Greear,135
+Wyoming,38,Attorney General,,REP,Daniel W.Greear,48
+Wyoming,39,Attorney General,,REP,Daniel W.Greear,38
+Wyoming,4,Attorney General,,REP,Daniel W.Greear,28
+Wyoming,43,Attorney General,,REP,Daniel W.Greear,81
+Wyoming,44,Attorney General,,REP,Daniel W.Greear,153
+Wyoming,45,Attorney General,,REP,Daniel W.Greear,35
+Wyoming,6,Attorney General,,REP,Daniel W.Greear,74
+Wyoming,7,Attorney General,,REP,Daniel W.Greear,65
+Wyoming,9,Attorney General,,REP,Daniel W.Greear,87
+Wyoming,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",183
+Wyoming,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",72
+Wyoming,12,Attorney General,,DEM,"Darrell V. McGraw, Jr.",52
+Wyoming,13,Attorney General,,DEM,"Darrell V. McGraw, Jr.",84
+Wyoming,14,Attorney General,,DEM,"Darrell V. McGraw, Jr.",103
+Wyoming,15,Attorney General,,DEM,"Darrell V. McGraw, Jr.",96
+Wyoming,16,Attorney General,,DEM,"Darrell V. McGraw, Jr.",151
+Wyoming,17,Attorney General,,DEM,"Darrell V. McGraw, Jr.",123
+Wyoming,18,Attorney General,,DEM,"Darrell V. McGraw, Jr.",110
+Wyoming,19,Attorney General,,DEM,"Darrell V. McGraw, Jr.",150
+Wyoming,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",148
+Wyoming,20,Attorney General,,DEM,"Darrell V. McGraw, Jr.",154
+Wyoming,21,Attorney General,,DEM,"Darrell V. McGraw, Jr.",58
+Wyoming,22,Attorney General,,DEM,"Darrell V. McGraw, Jr.",40
+Wyoming,23,Attorney General,,DEM,"Darrell V. McGraw, Jr.",85
+Wyoming,24,Attorney General,,DEM,"Darrell V. McGraw, Jr.",191
+Wyoming,24,Attorney General,,DEM,"Darrell V. McGraw, Jr.",116
+Wyoming,26,Attorney General,,DEM,"Darrell V. McGraw, Jr.",212
+Wyoming,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",138
+Wyoming,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",109
+Wyoming,28,Attorney General,,DEM,"Darrell V. McGraw, Jr.",251
+Wyoming,29,Attorney General,,DEM,"Darrell V. McGraw, Jr.",144
+Wyoming,31,Attorney General,,DEM,"Darrell V. McGraw, Jr.",159
+Wyoming,32,Attorney General,,DEM,"Darrell V. McGraw, Jr.",163
+Wyoming,33,Attorney General,,DEM,"Darrell V. McGraw, Jr.",160
+Wyoming,34,Attorney General,,DEM,"Darrell V. McGraw, Jr.",57
+Wyoming,37,Attorney General,,DEM,"Darrell V. McGraw, Jr.",186
+Wyoming,38,Attorney General,,DEM,"Darrell V. McGraw, Jr.",68
+Wyoming,39,Attorney General,,DEM,"Darrell V. McGraw, Jr.",74
+Wyoming,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",38
+Wyoming,43,Attorney General,,DEM,"Darrell V. McGraw, Jr.",162
+Wyoming,44,Attorney General,,DEM,"Darrell V. McGraw, Jr.",180
+Wyoming,45,Attorney General,,DEM,"Darrell V. McGraw, Jr.",111
+Wyoming,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",97
+Wyoming,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",93
+Wyoming,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",122
+Wyoming,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,4268
+Wyoming,Total,Commissioner of Agriculture,,REP,James Michael Teets,2608
+Wyoming,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,180
+Wyoming,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,69
+Wyoming,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,37
+Wyoming,13,Commissioner of Agriculture,,DEM,Gus R. Douglass,82
+Wyoming,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,99
+Wyoming,15,Commissioner of Agriculture,,DEM,Gus R. Douglass,85
+Wyoming,16,Commissioner of Agriculture,,DEM,Gus R. Douglass,163
+Wyoming,17,Commissioner of Agriculture,,DEM,Gus R. Douglass,114
+Wyoming,18,Commissioner of Agriculture,,DEM,Gus R. Douglass,118
+Wyoming,19,Commissioner of Agriculture,,DEM,Gus R. Douglass,148
+Wyoming,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,130
+Wyoming,20,Commissioner of Agriculture,,DEM,Gus R. Douglass,147
+Wyoming,21,Commissioner of Agriculture,,DEM,Gus R. Douglass,51
+Wyoming,22,Commissioner of Agriculture,,DEM,Gus R. Douglass,32
+Wyoming,23,Commissioner of Agriculture,,DEM,Gus R. Douglass,76
+Wyoming,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,187
+Wyoming,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,107
+Wyoming,26,Commissioner of Agriculture,,DEM,Gus R. Douglass,213
+Wyoming,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,123
+Wyoming,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,104
+Wyoming,28,Commissioner of Agriculture,,DEM,Gus R. Douglass,221
+Wyoming,29,Commissioner of Agriculture,,DEM,Gus R. Douglass,134
+Wyoming,31,Commissioner of Agriculture,,DEM,Gus R. Douglass,176
+Wyoming,32,Commissioner of Agriculture,,DEM,Gus R. Douglass,155
+Wyoming,33,Commissioner of Agriculture,,DEM,Gus R. Douglass,125
+Wyoming,34,Commissioner of Agriculture,,DEM,Gus R. Douglass,49
+Wyoming,37,Commissioner of Agriculture,,DEM,Gus R. Douglass,188
+Wyoming,38,Commissioner of Agriculture,,DEM,Gus R. Douglass,67
+Wyoming,39,Commissioner of Agriculture,,DEM,Gus R. Douglass,77
+Wyoming,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,40
+Wyoming,43,Commissioner of Agriculture,,DEM,Gus R. Douglass,147
+Wyoming,44,Commissioner of Agriculture,,DEM,Gus R. Douglass,205
+Wyoming,45,Commissioner of Agriculture,,DEM,Gus R. Douglass,110
+Wyoming,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,97
+Wyoming,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,97
+Wyoming,9,Commissioner of Agriculture,,DEM,Gus R. Douglass,115
+Wyoming,1,Commissioner of Agriculture,,REP,James Michael Teets,83
+Wyoming,10,Commissioner of Agriculture,,REP,James Michael Teets,62
+Wyoming,12,Commissioner of Agriculture,,REP,James Michael Teets,31
+Wyoming,13,Commissioner of Agriculture,,REP,James Michael Teets,75
+Wyoming,14,Commissioner of Agriculture,,REP,James Michael Teets,43
+Wyoming,15,Commissioner of Agriculture,,REP,James Michael Teets,47
+Wyoming,16,Commissioner of Agriculture,,REP,James Michael Teets,118
+Wyoming,17,Commissioner of Agriculture,,REP,James Michael Teets,82
+Wyoming,18,Commissioner of Agriculture,,REP,James Michael Teets,67
+Wyoming,19,Commissioner of Agriculture,,REP,James Michael Teets,80
+Wyoming,2,Commissioner of Agriculture,,REP,James Michael Teets,98
+Wyoming,20,Commissioner of Agriculture,,REP,James Michael Teets,112
+Wyoming,21,Commissioner of Agriculture,,REP,James Michael Teets,18
+Wyoming,22,Commissioner of Agriculture,,REP,James Michael Teets,43
+Wyoming,23,Commissioner of Agriculture,,REP,James Michael Teets,36
+Wyoming,24,Commissioner of Agriculture,,REP,James Michael Teets,73
+Wyoming,24,Commissioner of Agriculture,,REP,James Michael Teets,50
+Wyoming,26,Commissioner of Agriculture,,REP,James Michael Teets,130
+Wyoming,27,Commissioner of Agriculture,,REP,James Michael Teets,88
+Wyoming,27,Commissioner of Agriculture,,REP,James Michael Teets,57
+Wyoming,28,Commissioner of Agriculture,,REP,James Michael Teets,125
+Wyoming,29,Commissioner of Agriculture,,REP,James Michael Teets,156
+Wyoming,31,Commissioner of Agriculture,,REP,James Michael Teets,102
+Wyoming,32,Commissioner of Agriculture,,REP,James Michael Teets,62
+Wyoming,33,Commissioner of Agriculture,,REP,James Michael Teets,112
+Wyoming,34,Commissioner of Agriculture,,REP,James Michael Teets,35
+Wyoming,37,Commissioner of Agriculture,,REP,James Michael Teets,113
+Wyoming,38,Commissioner of Agriculture,,REP,James Michael Teets,40
+Wyoming,39,Commissioner of Agriculture,,REP,James Michael Teets,29
+Wyoming,4,Commissioner of Agriculture,,REP,James Michael Teets,24
+Wyoming,43,Commissioner of Agriculture,,REP,James Michael Teets,89
+Wyoming,44,Commissioner of Agriculture,,REP,James Michael Teets,110
+Wyoming,45,Commissioner of Agriculture,,REP,James Michael Teets,37
+Wyoming,6,Commissioner of Agriculture,,REP,James Michael Teets,64
+Wyoming,7,Commissioner of Agriculture,,REP,James Michael Teets,50
+Wyoming,9,Commissioner of Agriculture,,REP,James Michael Teets,67
+Wyoming,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",164
+Wyoming,Total,Governor,,DEM,"Joe Manchin, III",4917
+Wyoming,Total,Governor,,REP,Russell E. Weeks Jr,2464
+Wyoming,1,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Wyoming,10,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wyoming,12,Governor,,MTN,"Jesse C. Johnson, Jr.",3
+Wyoming,13,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Wyoming,14,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Wyoming,15,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Wyoming,16,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Wyoming,17,Governor,,MTN,"Jesse C. Johnson, Jr.",3
+Wyoming,18,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Wyoming,19,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Wyoming,2,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Wyoming,20,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Wyoming,21,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Wyoming,22,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Wyoming,23,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Wyoming,24,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Wyoming,24,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wyoming,26,Governor,,MTN,"Jesse C. Johnson, Jr.",12
+Wyoming,27,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Wyoming,27,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Wyoming,28,Governor,,MTN,"Jesse C. Johnson, Jr.",3
+Wyoming,29,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wyoming,31,Governor,,MTN,"Jesse C. Johnson, Jr.",12
+Wyoming,32,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Wyoming,33,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Wyoming,34,Governor,,MTN,"Jesse C. Johnson, Jr.",3
+Wyoming,37,Governor,,MTN,"Jesse C. Johnson, Jr.",15
+Wyoming,38,Governor,,MTN,"Jesse C. Johnson, Jr.",3
+Wyoming,39,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wyoming,4,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Wyoming,43,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Wyoming,44,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Wyoming,45,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wyoming,6,Governor,,MTN,"Jesse C. Johnson, Jr.",3
+Wyoming,7,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Wyoming,9,Governor,,MTN,"Jesse C. Johnson, Jr.",0
+Wyoming,1,Governor,,DEM,"Joe Manchin, III",185
+Wyoming,10,Governor,,DEM,"Joe Manchin, III",77
+Wyoming,12,Governor,,DEM,"Joe Manchin, III",52
+Wyoming,13,Governor,,DEM,"Joe Manchin, III",114
+Wyoming,14,Governor,,DEM,"Joe Manchin, III",100
+Wyoming,15,Governor,,DEM,"Joe Manchin, III",104
+Wyoming,16,Governor,,DEM,"Joe Manchin, III",191
+Wyoming,17,Governor,,DEM,"Joe Manchin, III",144
+Wyoming,18,Governor,,DEM,"Joe Manchin, III",104
+Wyoming,19,Governor,,DEM,"Joe Manchin, III",160
+Wyoming,2,Governor,,DEM,"Joe Manchin, III",149
+Wyoming,20,Governor,,DEM,"Joe Manchin, III",189
+Wyoming,21,Governor,,DEM,"Joe Manchin, III",59
+Wyoming,22,Governor,,DEM,"Joe Manchin, III",40
+Wyoming,23,Governor,,DEM,"Joe Manchin, III",90
+Wyoming,24,Governor,,DEM,"Joe Manchin, III",231
+Wyoming,24,Governor,,DEM,"Joe Manchin, III",136
+Wyoming,26,Governor,,DEM,"Joe Manchin, III",263
+Wyoming,27,Governor,,DEM,"Joe Manchin, III",157
+Wyoming,27,Governor,,DEM,"Joe Manchin, III",112
+Wyoming,28,Governor,,DEM,"Joe Manchin, III",240
+Wyoming,29,Governor,,DEM,"Joe Manchin, III",203
+Wyoming,31,Governor,,DEM,"Joe Manchin, III",205
+Wyoming,32,Governor,,DEM,"Joe Manchin, III",183
+Wyoming,33,Governor,,DEM,"Joe Manchin, III",157
+Wyoming,34,Governor,,DEM,"Joe Manchin, III",48
+Wyoming,37,Governor,,DEM,"Joe Manchin, III",176
+Wyoming,38,Governor,,DEM,"Joe Manchin, III",78
+Wyoming,39,Governor,,DEM,"Joe Manchin, III",84
+Wyoming,4,Governor,,DEM,"Joe Manchin, III",41
+Wyoming,43,Governor,,DEM,"Joe Manchin, III",172
+Wyoming,44,Governor,,DEM,"Joe Manchin, III",210
+Wyoming,45,Governor,,DEM,"Joe Manchin, III",123
+Wyoming,6,Governor,,DEM,"Joe Manchin, III",110
+Wyoming,7,Governor,,DEM,"Joe Manchin, III",98
+Wyoming,9,Governor,,DEM,"Joe Manchin, III",132
+Wyoming,1,Governor,,REP,Russell E. Weeks Jr,94
+Wyoming,10,Governor,,REP,Russell E. Weeks Jr,67
+Wyoming,12,Governor,,REP,Russell E. Weeks Jr,27
+Wyoming,13,Governor,,REP,Russell E. Weeks Jr,55
+Wyoming,14,Governor,,REP,Russell E. Weeks Jr,45
+Wyoming,15,Governor,,REP,Russell E. Weeks Jr,49
+Wyoming,16,Governor,,REP,Russell E. Weeks Jr,115
+Wyoming,17,Governor,,REP,Russell E. Weeks Jr,67
+Wyoming,18,Governor,,REP,Russell E. Weeks Jr,82
+Wyoming,19,Governor,,REP,Russell E. Weeks Jr,80
+Wyoming,2,Governor,,REP,Russell E. Weeks Jr,90
+Wyoming,20,Governor,,REP,Russell E. Weeks Jr,95
+Wyoming,21,Governor,,REP,Russell E. Weeks Jr,19
+Wyoming,22,Governor,,REP,Russell E. Weeks Jr,48
+Wyoming,23,Governor,,REP,Russell E. Weeks Jr,31
+Wyoming,24,Governor,,REP,Russell E. Weeks Jr,49
+Wyoming,24,Governor,,REP,Russell E. Weeks Jr,40
+Wyoming,26,Governor,,REP,Russell E. Weeks Jr,102
+Wyoming,27,Governor,,REP,Russell E. Weeks Jr,71
+Wyoming,27,Governor,,REP,Russell E. Weeks Jr,55
+Wyoming,28,Governor,,REP,Russell E. Weeks Jr,129
+Wyoming,29,Governor,,REP,Russell E. Weeks Jr,111
+Wyoming,31,Governor,,REP,Russell E. Weeks Jr,89
+Wyoming,32,Governor,,REP,Russell E. Weeks Jr,51
+Wyoming,33,Governor,,REP,Russell E. Weeks Jr,93
+Wyoming,34,Governor,,REP,Russell E. Weeks Jr,48
+Wyoming,37,Governor,,REP,Russell E. Weeks Jr,134
+Wyoming,38,Governor,,REP,Russell E. Weeks Jr,45
+Wyoming,39,Governor,,REP,Russell E. Weeks Jr,28
+Wyoming,4,Governor,,REP,Russell E. Weeks Jr,22
+Wyoming,43,Governor,,REP,Russell E. Weeks Jr,74
+Wyoming,44,Governor,,REP,Russell E. Weeks Jr,124
+Wyoming,45,Governor,,REP,Russell E. Weeks Jr,29
+Wyoming,6,Governor,,REP,Russell E. Weeks Jr,68
+Wyoming,7,Governor,,REP,Russell E. Weeks Jr,61
+Wyoming,9,Governor,,REP,Russell E. Weeks Jr,77
+Wyoming,Total,President,,DEM,Barack Hussein Obama,2735
+Wyoming,Total,President,,CON,Charles Obadiah Baldwin,20
+Wyoming,Total,President,,MTN,Cynthia Ann McKinney,43
+Wyoming,Total,President,,REP,John Sidney McCain III,4621
+Wyoming,Total,President,,,Ralph Nader,111
+Wyoming,1,President,,DEM,Barack Hussein Obama,127
+Wyoming,10,President,,DEM,Barack Hussein Obama,41
+Wyoming,12,President,,DEM,Barack Hussein Obama,28
+Wyoming,13,President,,DEM,Barack Hussein Obama,62
+Wyoming,14,President,,DEM,Barack Hussein Obama,75
+Wyoming,15,President,,DEM,Barack Hussein Obama,70
+Wyoming,16,President,,DEM,Barack Hussein Obama,99
+Wyoming,17,President,,DEM,Barack Hussein Obama,61
+Wyoming,18,President,,DEM,Barack Hussein Obama,84
+Wyoming,19,President,,DEM,Barack Hussein Obama,93
+Wyoming,2,President,,DEM,Barack Hussein Obama,76
+Wyoming,20,President,,DEM,Barack Hussein Obama,94
+Wyoming,21,President,,DEM,Barack Hussein Obama,46
+Wyoming,22,President,,DEM,Barack Hussein Obama,18
+Wyoming,23,President,,DEM,Barack Hussein Obama,50
+Wyoming,24,President,,DEM,Barack Hussein Obama,130
+Wyoming,24,President,,DEM,Barack Hussein Obama,83
+Wyoming,26,President,,DEM,Barack Hussein Obama,127
+Wyoming,27,President,,DEM,Barack Hussein Obama,89
+Wyoming,27,President,,DEM,Barack Hussein Obama,58
+Wyoming,28,President,,DEM,Barack Hussein Obama,124
+Wyoming,29,President,,DEM,Barack Hussein Obama,63
+Wyoming,31,President,,DEM,Barack Hussein Obama,116
+Wyoming,32,President,,DEM,Barack Hussein Obama,102
+Wyoming,33,President,,DEM,Barack Hussein Obama,70
+Wyoming,34,President,,DEM,Barack Hussein Obama,28
+Wyoming,37,President,,DEM,Barack Hussein Obama,121
+Wyoming,38,President,,DEM,Barack Hussein Obama,46
+Wyoming,39,President,,DEM,Barack Hussein Obama,51
+Wyoming,4,President,,DEM,Barack Hussein Obama,25
+Wyoming,43,President,,DEM,Barack Hussein Obama,89
+Wyoming,44,President,,DEM,Barack Hussein Obama,128
+Wyoming,45,President,,DEM,Barack Hussein Obama,76
+Wyoming,6,President,,DEM,Barack Hussein Obama,52
+Wyoming,7,President,,DEM,Barack Hussein Obama,64
+Wyoming,9,President,,DEM,Barack Hussein Obama,69
+Wyoming,1,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,10,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,12,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,13,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,14,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,15,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,16,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,17,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,18,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,19,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,2,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,20,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,21,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,22,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,23,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,24,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,24,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,26,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,27,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,27,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,28,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,29,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,31,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,32,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,33,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,34,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,37,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,38,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,39,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,4,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,43,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,44,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,45,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,6,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,7,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,9,President,,CON,Charles Obadiah Baldwin,1
+Wyoming,1,President,,MTN,Cynthia Ann McKinney,3
+Wyoming,10,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,12,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,13,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,14,President,,MTN,Cynthia Ann McKinney,3
+Wyoming,15,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,16,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,17,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,18,President,,MTN,Cynthia Ann McKinney,2
+Wyoming,19,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,2,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,20,President,,MTN,Cynthia Ann McKinney,3
+Wyoming,21,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,22,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,23,President,,MTN,Cynthia Ann McKinney,2
+Wyoming,24,President,,MTN,Cynthia Ann McKinney,4
+Wyoming,24,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,26,President,,MTN,Cynthia Ann McKinney,2
+Wyoming,27,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,27,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,28,President,,MTN,Cynthia Ann McKinney,2
+Wyoming,29,President,,MTN,Cynthia Ann McKinney,3
+Wyoming,31,President,,MTN,Cynthia Ann McKinney,2
+Wyoming,32,President,,MTN,Cynthia Ann McKinney,2
+Wyoming,33,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,34,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,37,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,38,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,39,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,4,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,43,President,,MTN,Cynthia Ann McKinney,3
+Wyoming,44,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,45,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,6,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,7,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,9,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,1,President,,REP,John Sidney McCain III,154
+Wyoming,10,President,,REP,John Sidney McCain III,98
+Wyoming,12,President,,REP,John Sidney McCain III,50
+Wyoming,13,President,,REP,John Sidney McCain III,104
+Wyoming,14,President,,REP,John Sidney McCain III,72
+Wyoming,15,President,,REP,John Sidney McCain III,84
+Wyoming,16,President,,REP,John Sidney McCain III,207
+Wyoming,17,President,,REP,John Sidney McCain III,151
+Wyoming,18,President,,REP,John Sidney McCain III,113
+Wyoming,19,President,,REP,John Sidney McCain III,137
+Wyoming,2,President,,REP,John Sidney McCain III,162
+Wyoming,20,President,,REP,John Sidney McCain III,205
+Wyoming,21,President,,REP,John Sidney McCain III,35
+Wyoming,22,President,,REP,John Sidney McCain III,80
+Wyoming,23,President,,REP,John Sidney McCain III,70
+Wyoming,24,President,,REP,John Sidney McCain III,137
+Wyoming,24,President,,REP,John Sidney McCain III,95
+Wyoming,26,President,,REP,John Sidney McCain III,236
+Wyoming,27,President,,REP,John Sidney McCain III,142
+Wyoming,27,President,,REP,John Sidney McCain III,115
+Wyoming,28,President,,REP,John Sidney McCain III,242
+Wyoming,29,President,,REP,John Sidney McCain III,252
+Wyoming,31,President,,REP,John Sidney McCain III,179
+Wyoming,32,President,,REP,John Sidney McCain III,127
+Wyoming,33,President,,REP,John Sidney McCain III,174
+Wyoming,34,President,,REP,John Sidney McCain III,63
+Wyoming,37,President,,REP,John Sidney McCain III,191
+Wyoming,38,President,,REP,John Sidney McCain III,72
+Wyoming,39,President,,REP,John Sidney McCain III,51
+Wyoming,4,President,,REP,John Sidney McCain III,42
+Wyoming,43,President,,REP,John Sidney McCain III,154
+Wyoming,44,President,,REP,John Sidney McCain III,206
+Wyoming,45,President,,REP,John Sidney McCain III,72
+Wyoming,6,President,,REP,John Sidney McCain III,122
+Wyoming,7,President,,REP,John Sidney McCain III,92
+Wyoming,9,President,,REP,John Sidney McCain III,135
+Wyoming,1,President,,,Ralph Nader,1
+Wyoming,10,President,,,Ralph Nader,1
+Wyoming,12,President,,,Ralph Nader,2
+Wyoming,13,President,,,Ralph Nader,3
+Wyoming,14,President,,,Ralph Nader,1
+Wyoming,15,President,,,Ralph Nader,1
+Wyoming,16,President,,,Ralph Nader,2
+Wyoming,17,President,,,Ralph Nader,5
+Wyoming,18,President,,,Ralph Nader,2
+Wyoming,19,President,,,Ralph Nader,6
+Wyoming,2,President,,,Ralph Nader,0
+Wyoming,20,President,,,Ralph Nader,6
+Wyoming,21,President,,,Ralph Nader,1
+Wyoming,22,President,,,Ralph Nader,0
+Wyoming,23,President,,,Ralph Nader,2
+Wyoming,24,President,,,Ralph Nader,4
+Wyoming,24,President,,,Ralph Nader,0
+Wyoming,26,President,,,Ralph Nader,10
+Wyoming,27,President,,,Ralph Nader,3
+Wyoming,27,President,,,Ralph Nader,1
+Wyoming,28,President,,,Ralph Nader,3
+Wyoming,29,President,,,Ralph Nader,2
+Wyoming,31,President,,,Ralph Nader,4
+Wyoming,32,President,,,Ralph Nader,4
+Wyoming,33,President,,,Ralph Nader,9
+Wyoming,34,President,,,Ralph Nader,1
+Wyoming,37,President,,,Ralph Nader,6
+Wyoming,38,President,,,Ralph Nader,3
+Wyoming,39,President,,,Ralph Nader,4
+Wyoming,4,President,,,Ralph Nader,0
+Wyoming,43,President,,,Ralph Nader,4
+Wyoming,44,President,,,Ralph Nader,7
+Wyoming,45,President,,,Ralph Nader,2
+Wyoming,6,President,,,Ralph Nader,4
+Wyoming,7,President,,,Ralph Nader,4
+Wyoming,9,President,,,Ralph Nader,3
+Wyoming,Total,Secretary of State,,REP,Charles Theophilus Minimah,1958
+Wyoming,Total,Secretary of State,,DEM,Natalie Tennant,4870
+Wyoming,1,Secretary of State,,REP,Charles Theophilus Minimah,64
+Wyoming,10,Secretary of State,,REP,Charles Theophilus Minimah,49
+Wyoming,12,Secretary of State,,REP,Charles Theophilus Minimah,17
+Wyoming,13,Secretary of State,,REP,Charles Theophilus Minimah,48
+Wyoming,14,Secretary of State,,REP,Charles Theophilus Minimah,22
+Wyoming,15,Secretary of State,,REP,Charles Theophilus Minimah,39
+Wyoming,16,Secretary of State,,REP,Charles Theophilus Minimah,88
+Wyoming,17,Secretary of State,,REP,Charles Theophilus Minimah,69
+Wyoming,18,Secretary of State,,REP,Charles Theophilus Minimah,48
+Wyoming,19,Secretary of State,,REP,Charles Theophilus Minimah,57
+Wyoming,2,Secretary of State,,REP,Charles Theophilus Minimah,57
+Wyoming,20,Secretary of State,,REP,Charles Theophilus Minimah,85
+Wyoming,21,Secretary of State,,REP,Charles Theophilus Minimah,18
+Wyoming,22,Secretary of State,,REP,Charles Theophilus Minimah,41
+Wyoming,23,Secretary of State,,REP,Charles Theophilus Minimah,25
+Wyoming,24,Secretary of State,,REP,Charles Theophilus Minimah,64
+Wyoming,24,Secretary of State,,REP,Charles Theophilus Minimah,35
+Wyoming,26,Secretary of State,,REP,Charles Theophilus Minimah,94
+Wyoming,27,Secretary of State,,REP,Charles Theophilus Minimah,57
+Wyoming,27,Secretary of State,,REP,Charles Theophilus Minimah,40
+Wyoming,28,Secretary of State,,REP,Charles Theophilus Minimah,85
+Wyoming,29,Secretary of State,,REP,Charles Theophilus Minimah,128
+Wyoming,31,Secretary of State,,REP,Charles Theophilus Minimah,82
+Wyoming,32,Secretary of State,,REP,Charles Theophilus Minimah,47
+Wyoming,33,Secretary of State,,REP,Charles Theophilus Minimah,70
+Wyoming,34,Secretary of State,,REP,Charles Theophilus Minimah,33
+Wyoming,37,Secretary of State,,REP,Charles Theophilus Minimah,70
+Wyoming,38,Secretary of State,,REP,Charles Theophilus Minimah,27
+Wyoming,39,Secretary of State,,REP,Charles Theophilus Minimah,22
+Wyoming,4,Secretary of State,,REP,Charles Theophilus Minimah,27
+Wyoming,43,Secretary of State,,REP,Charles Theophilus Minimah,76
+Wyoming,44,Secretary of State,,REP,Charles Theophilus Minimah,73
+Wyoming,45,Secretary of State,,REP,Charles Theophilus Minimah,30
+Wyoming,6,Secretary of State,,REP,Charles Theophilus Minimah,62
+Wyoming,7,Secretary of State,,REP,Charles Theophilus Minimah,45
+Wyoming,9,Secretary of State,,REP,Charles Theophilus Minimah,64
+Wyoming,1,Secretary of State,,DEM,Natalie Tennant,193
+Wyoming,10,Secretary of State,,DEM,Natalie Tennant,75
+Wyoming,12,Secretary of State,,DEM,Natalie Tennant,54
+Wyoming,13,Secretary of State,,DEM,Natalie Tennant,111
+Wyoming,14,Secretary of State,,DEM,Natalie Tennant,118
+Wyoming,15,Secretary of State,,DEM,Natalie Tennant,97
+Wyoming,16,Secretary of State,,DEM,Natalie Tennant,176
+Wyoming,17,Secretary of State,,DEM,Natalie Tennant,134
+Wyoming,18,Secretary of State,,DEM,Natalie Tennant,141
+Wyoming,19,Secretary of State,,DEM,Natalie Tennant,175
+Wyoming,2,Secretary of State,,DEM,Natalie Tennant,163
+Wyoming,20,Secretary of State,,DEM,Natalie Tennant,176
+Wyoming,21,Secretary of State,,DEM,Natalie Tennant,49
+Wyoming,22,Secretary of State,,DEM,Natalie Tennant,36
+Wyoming,23,Secretary of State,,DEM,Natalie Tennant,85
+Wyoming,24,Secretary of State,,DEM,Natalie Tennant,193
+Wyoming,24,Secretary of State,,DEM,Natalie Tennant,118
+Wyoming,26,Secretary of State,,DEM,Natalie Tennant,245
+Wyoming,27,Secretary of State,,DEM,Natalie Tennant,158
+Wyoming,27,Secretary of State,,DEM,Natalie Tennant,116
+Wyoming,28,Secretary of State,,DEM,Natalie Tennant,266
+Wyoming,29,Secretary of State,,DEM,Natalie Tennant,162
+Wyoming,31,Secretary of State,,DEM,Natalie Tennant,196
+Wyoming,32,Secretary of State,,DEM,Natalie Tennant,170
+Wyoming,33,Secretary of State,,DEM,Natalie Tennant,163
+Wyoming,34,Secretary of State,,DEM,Natalie Tennant,48
+Wyoming,37,Secretary of State,,DEM,Natalie Tennant,233
+Wyoming,38,Secretary of State,,DEM,Natalie Tennant,79
+Wyoming,39,Secretary of State,,DEM,Natalie Tennant,81
+Wyoming,4,Secretary of State,,DEM,Natalie Tennant,35
+Wyoming,43,Secretary of State,,DEM,Natalie Tennant,153
+Wyoming,44,Secretary of State,,DEM,Natalie Tennant,244
+Wyoming,45,Secretary of State,,DEM,Natalie Tennant,112
+Wyoming,6,Secretary of State,,DEM,Natalie Tennant,93
+Wyoming,7,Secretary of State,,DEM,Natalie Tennant,100
+Wyoming,9,Secretary of State,,DEM,Natalie Tennant,122
+Wyoming,Total,State Auditor,,DEM,Glen B. Gainer III,5802
+Wyoming,1,State Auditor,,DEM,Glen B. Gainer III,228
+Wyoming,10,State Auditor,,DEM,Glen B. Gainer III,97
+Wyoming,12,State Auditor,,DEM,Glen B. Gainer III,64
+Wyoming,13,State Auditor,,DEM,Glen B. Gainer III,131
+Wyoming,14,State Auditor,,DEM,Glen B. Gainer III,125
+Wyoming,15,State Auditor,,DEM,Glen B. Gainer III,116
+Wyoming,16,State Auditor,,DEM,Glen B. Gainer III,219
+Wyoming,17,State Auditor,,DEM,Glen B. Gainer III,160
+Wyoming,18,State Auditor,,DEM,Glen B. Gainer III,152
+Wyoming,19,State Auditor,,DEM,Glen B. Gainer III,200
+Wyoming,2,State Auditor,,DEM,Glen B. Gainer III,193
+Wyoming,20,State Auditor,,DEM,Glen B. Gainer III,197
+Wyoming,21,State Auditor,,DEM,Glen B. Gainer III,61
+Wyoming,22,State Auditor,,DEM,Glen B. Gainer III,45
+Wyoming,23,State Auditor,,DEM,Glen B. Gainer III,100
+Wyoming,24,State Auditor,,DEM,Glen B. Gainer III,235
+Wyoming,24,State Auditor,,DEM,Glen B. Gainer III,139
+Wyoming,26,State Auditor,,DEM,Glen B. Gainer III,298
+Wyoming,27,State Auditor,,DEM,Glen B. Gainer III,179
+Wyoming,27,State Auditor,,DEM,Glen B. Gainer III,140
+Wyoming,28,State Auditor,,DEM,Glen B. Gainer III,299
+Wyoming,29,State Auditor,,DEM,Glen B. Gainer III,219
+Wyoming,31,State Auditor,,DEM,Glen B. Gainer III,237
+Wyoming,32,State Auditor,,DEM,Glen B. Gainer III,192
+Wyoming,33,State Auditor,,DEM,Glen B. Gainer III,198
+Wyoming,34,State Auditor,,DEM,Glen B. Gainer III,70
+Wyoming,37,State Auditor,,DEM,Glen B. Gainer III,265
+Wyoming,38,State Auditor,,DEM,Glen B. Gainer III,92
+Wyoming,39,State Auditor,,DEM,Glen B. Gainer III,94
+Wyoming,4,State Auditor,,DEM,Glen B. Gainer III,43
+Wyoming,43,State Auditor,,DEM,Glen B. Gainer III,193
+Wyoming,44,State Auditor,,DEM,Glen B. Gainer III,280
+Wyoming,45,State Auditor,,DEM,Glen B. Gainer III,133
+Wyoming,6,State Auditor,,DEM,Glen B. Gainer III,122
+Wyoming,7,State Auditor,,DEM,Glen B. Gainer III,115
+Wyoming,9,State Auditor,,DEM,Glen B. Gainer III,171
+Wyoming,Total,State House,,DEM,Daniel Jackson Hall,4480
+Wyoming,Total,State House,,DEM,Linda Lee Goode Phillips,5271
+Wyoming,1,State House,,DEM,Daniel Jackson Hall,179
+Wyoming,10,State House,,DEM,Daniel Jackson Hall,64
+Wyoming,12,State House,,DEM,Daniel Jackson Hall,43
+Wyoming,13,State House,,DEM,Daniel Jackson Hall,85
+Wyoming,14,State House,,DEM,Daniel Jackson Hall,87
+Wyoming,15,State House,,DEM,Daniel Jackson Hall,101
+Wyoming,16,State House,,DEM,Daniel Jackson Hall,136
+Wyoming,17,State House,,DEM,Daniel Jackson Hall,108
+Wyoming,18,State House,,DEM,Daniel Jackson Hall,110
+Wyoming,19,State House,,DEM,Daniel Jackson Hall,132
+Wyoming,2,State House,,DEM,Daniel Jackson Hall,155
+Wyoming,20,State House,,DEM,Daniel Jackson Hall,188
+Wyoming,21,State House,,DEM,Daniel Jackson Hall,53
+Wyoming,22,State House,,DEM,Daniel Jackson Hall,42
+Wyoming,23,State House,,DEM,Daniel Jackson Hall,76
+Wyoming,24,State House,,DEM,Daniel Jackson Hall,192
+Wyoming,24,State House,,DEM,Daniel Jackson Hall,93
+Wyoming,26,State House,,DEM,Daniel Jackson Hall,254
+Wyoming,27,State House,,DEM,Daniel Jackson Hall,179
+Wyoming,27,State House,,DEM,Daniel Jackson Hall,134
+Wyoming,28,State House,,DEM,Daniel Jackson Hall,259
+Wyoming,29,State House,,DEM,Daniel Jackson Hall,193
+Wyoming,31,State House,,DEM,Daniel Jackson Hall,219
+Wyoming,32,State House,,DEM,Daniel Jackson Hall,190
+Wyoming,33,State House,,DEM,Daniel Jackson Hall,121
+Wyoming,34,State House,,DEM,Daniel Jackson Hall,43
+Wyoming,37,State House,,DEM,Daniel Jackson Hall,180
+Wyoming,38,State House,,DEM,Daniel Jackson Hall,67
+Wyoming,39,State House,,DEM,Daniel Jackson Hall,65
+Wyoming,4,State House,,DEM,Daniel Jackson Hall,29
+Wyoming,43,State House,,DEM,Daniel Jackson Hall,152
+Wyoming,44,State House,,DEM,Daniel Jackson Hall,193
+Wyoming,45,State House,,DEM,Daniel Jackson Hall,92
+Wyoming,6,State House,,DEM,Daniel Jackson Hall,84
+Wyoming,7,State House,,DEM,Daniel Jackson Hall,83
+Wyoming,9,State House,,DEM,Daniel Jackson Hall,99
+Wyoming,1,State House,,DEM,Linda Lee Goode Phillips,207
+Wyoming,10,State House,,DEM,Linda Lee Goode Phillips,100
+Wyoming,12,State House,,DEM,Linda Lee Goode Phillips,63
+Wyoming,13,State House,,DEM,Linda Lee Goode Phillips,133
+Wyoming,14,State House,,DEM,Linda Lee Goode Phillips,138
+Wyoming,15,State House,,DEM,Linda Lee Goode Phillips,123
+Wyoming,16,State House,,DEM,Linda Lee Goode Phillips,224
+Wyoming,17,State House,,DEM,Linda Lee Goode Phillips,173
+Wyoming,18,State House,,DEM,Linda Lee Goode Phillips,175
+Wyoming,19,State House,,DEM,Linda Lee Goode Phillips,209
+Wyoming,2,State House,,DEM,Linda Lee Goode Phillips,178
+Wyoming,20,State House,,DEM,Linda Lee Goode Phillips,153
+Wyoming,21,State House,,DEM,Linda Lee Goode Phillips,53
+Wyoming,22,State House,,DEM,Linda Lee Goode Phillips,45
+Wyoming,23,State House,,DEM,Linda Lee Goode Phillips,95
+Wyoming,24,State House,,DEM,Linda Lee Goode Phillips,195
+Wyoming,24,State House,,DEM,Linda Lee Goode Phillips,139
+Wyoming,26,State House,,DEM,Linda Lee Goode Phillips,255
+Wyoming,27,State House,,DEM,Linda Lee Goode Phillips,139
+Wyoming,27,State House,,DEM,Linda Lee Goode Phillips,98
+Wyoming,28,State House,,DEM,Linda Lee Goode Phillips,219
+Wyoming,29,State House,,DEM,Linda Lee Goode Phillips,158
+Wyoming,31,State House,,DEM,Linda Lee Goode Phillips,170
+Wyoming,32,State House,,DEM,Linda Lee Goode Phillips,150
+Wyoming,33,State House,,DEM,Linda Lee Goode Phillips,202
+Wyoming,34,State House,,DEM,Linda Lee Goode Phillips,67
+Wyoming,37,State House,,DEM,Linda Lee Goode Phillips,260
+Wyoming,38,State House,,DEM,Linda Lee Goode Phillips,101
+Wyoming,39,State House,,DEM,Linda Lee Goode Phillips,88
+Wyoming,4,State House,,DEM,Linda Lee Goode Phillips,44
+Wyoming,43,State House,,DEM,Linda Lee Goode Phillips,154
+Wyoming,44,State House,,DEM,Linda Lee Goode Phillips,261
+Wyoming,45,State House,,DEM,Linda Lee Goode Phillips,119
+Wyoming,6,State House,,DEM,Linda Lee Goode Phillips,125
+Wyoming,7,State House,,DEM,Linda Lee Goode Phillips,108
+Wyoming,9,State House,,DEM,Linda Lee Goode Phillips,150
+Wyoming,Total,State Senate,,DEM,John Pat Fanning,573
+Wyoming,Total,State Senate,,REP,Mark Russell Maynard,104
+Wyoming,Total,State Senate,,DEM,Richard Browning,5399
+Wyoming,1,State Senate,,DEM,John Pat Fanning,0
+Wyoming,10,State Senate,,DEM,John Pat Fanning,71
+Wyoming,12,State Senate,,DEM,John Pat Fanning,0
+Wyoming,13,State Senate,,DEM,John Pat Fanning,0
+Wyoming,14,State Senate,,DEM,John Pat Fanning,0
+Wyoming,15,State Senate,,DEM,John Pat Fanning,0
+Wyoming,16,State Senate,,DEM,John Pat Fanning,0
+Wyoming,17,State Senate,,DEM,John Pat Fanning,0
+Wyoming,18,State Senate,,DEM,John Pat Fanning,0
+Wyoming,19,State Senate,,DEM,John Pat Fanning,0
+Wyoming,2,State Senate,,DEM,John Pat Fanning,0
+Wyoming,20,State Senate,,DEM,John Pat Fanning,0
+Wyoming,21,State Senate,,DEM,John Pat Fanning,0
+Wyoming,22,State Senate,,DEM,John Pat Fanning,0
+Wyoming,23,State Senate,,DEM,John Pat Fanning,100
+Wyoming,24,State Senate,,DEM,John Pat Fanning,246
+Wyoming,24,State Senate,,DEM,John Pat Fanning,156
+Wyoming,26,State Senate,,DEM,John Pat Fanning,0
+Wyoming,27,State Senate,,DEM,John Pat Fanning,0
+Wyoming,27,State Senate,,DEM,John Pat Fanning,0
+Wyoming,28,State Senate,,DEM,John Pat Fanning,0
+Wyoming,29,State Senate,,DEM,John Pat Fanning,0
+Wyoming,31,State Senate,,DEM,John Pat Fanning,0
+Wyoming,32,State Senate,,DEM,John Pat Fanning,0
+Wyoming,33,State Senate,,DEM,John Pat Fanning,0
+Wyoming,34,State Senate,,DEM,John Pat Fanning,0
+Wyoming,37,State Senate,,DEM,John Pat Fanning,0
+Wyoming,38,State Senate,,DEM,John Pat Fanning,0
+Wyoming,39,State Senate,,DEM,John Pat Fanning,0
+Wyoming,4,State Senate,,DEM,John Pat Fanning,0
+Wyoming,43,State Senate,,DEM,John Pat Fanning,0
+Wyoming,44,State Senate,,DEM,John Pat Fanning,0
+Wyoming,45,State Senate,,DEM,John Pat Fanning,0
+Wyoming,6,State Senate,,DEM,John Pat Fanning,0
+Wyoming,7,State Senate,,DEM,John Pat Fanning,0
+Wyoming,9,State Senate,,DEM,John Pat Fanning,0
+Wyoming,1,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,10,State Senate,,REP,Mark Russell Maynard,47
+Wyoming,12,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,13,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,14,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,15,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,16,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,17,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,18,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,19,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,2,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,20,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,21,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,22,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,23,State Senate,,REP,Mark Russell Maynard,11
+Wyoming,24,State Senate,,REP,Mark Russell Maynard,27
+Wyoming,24,State Senate,,REP,Mark Russell Maynard,19
+Wyoming,26,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,27,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,27,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,28,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,29,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,31,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,32,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,33,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,34,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,37,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,38,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,39,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,4,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,43,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,44,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,45,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,6,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,7,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,9,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,1,State Senate,,DEM,Richard Browning,228
+Wyoming,10,State Senate,,DEM,Richard Browning,0
+Wyoming,12,State Senate,,DEM,Richard Browning,58
+Wyoming,13,State Senate,,DEM,Richard Browning,135
+Wyoming,14,State Senate,,DEM,Richard Browning,132
+Wyoming,15,State Senate,,DEM,Richard Browning,133
+Wyoming,16,State Senate,,DEM,Richard Browning,225
+Wyoming,17,State Senate,,DEM,Richard Browning,175
+Wyoming,18,State Senate,,DEM,Richard Browning,156
+Wyoming,19,State Senate,,DEM,Richard Browning,210
+Wyoming,2,State Senate,,DEM,Richard Browning,196
+Wyoming,20,State Senate,,DEM,Richard Browning,222
+Wyoming,21,State Senate,,DEM,Richard Browning,63
+Wyoming,22,State Senate,,DEM,Richard Browning,52
+Wyoming,23,State Senate,,DEM,Richard Browning,0
+Wyoming,24,State Senate,,DEM,Richard Browning,0
+Wyoming,24,State Senate,,DEM,Richard Browning,0
+Wyoming,26,State Senate,,DEM,Richard Browning,313
+Wyoming,27,State Senate,,DEM,Richard Browning,181
+Wyoming,27,State Senate,,DEM,Richard Browning,144
+Wyoming,28,State Senate,,DEM,Richard Browning,300
+Wyoming,29,State Senate,,DEM,Richard Browning,235
+Wyoming,31,State Senate,,DEM,Richard Browning,239
+Wyoming,32,State Senate,,DEM,Richard Browning,207
+Wyoming,33,State Senate,,DEM,Richard Browning,203
+Wyoming,34,State Senate,,DEM,Richard Browning,78
+Wyoming,37,State Senate,,DEM,Richard Browning,267
+Wyoming,38,State Senate,,DEM,Richard Browning,95
+Wyoming,39,State Senate,,DEM,Richard Browning,96
+Wyoming,4,State Senate,,DEM,Richard Browning,46
+Wyoming,43,State Senate,,DEM,Richard Browning,188
+Wyoming,44,State Senate,,DEM,Richard Browning,281
+Wyoming,45,State Senate,,DEM,Richard Browning,134
+Wyoming,6,State Senate,,DEM,Richard Browning,126
+Wyoming,7,State Senate,,DEM,Richard Browning,120
+Wyoming,9,State Senate,,DEM,Richard Browning,161
+Wyoming,Total,State Treasurer,,DEM,John D. Perdue,5729
+Wyoming,1,State Treasurer,,DEM,John D. Perdue,226
+Wyoming,10,State Treasurer,,DEM,John D. Perdue,98
+Wyoming,12,State Treasurer,,DEM,John D. Perdue,63
+Wyoming,13,State Treasurer,,DEM,John D. Perdue,130
+Wyoming,14,State Treasurer,,DEM,John D. Perdue,122
+Wyoming,15,State Treasurer,,DEM,John D. Perdue,123
+Wyoming,16,State Treasurer,,DEM,John D. Perdue,206
+Wyoming,17,State Treasurer,,DEM,John D. Perdue,154
+Wyoming,18,State Treasurer,,DEM,John D. Perdue,147
+Wyoming,19,State Treasurer,,DEM,John D. Perdue,196
+Wyoming,2,State Treasurer,,DEM,John D. Perdue,190
+Wyoming,20,State Treasurer,,DEM,John D. Perdue,198
+Wyoming,21,State Treasurer,,DEM,John D. Perdue,58
+Wyoming,22,State Treasurer,,DEM,John D. Perdue,44
+Wyoming,23,State Treasurer,,DEM,John D. Perdue,98
+Wyoming,24,State Treasurer,,DEM,John D. Perdue,229
+Wyoming,24,State Treasurer,,DEM,John D. Perdue,137
+Wyoming,26,State Treasurer,,DEM,John D. Perdue,301
+Wyoming,27,State Treasurer,,DEM,John D. Perdue,180
+Wyoming,27,State Treasurer,,DEM,John D. Perdue,141
+Wyoming,28,State Treasurer,,DEM,John D. Perdue,288
+Wyoming,29,State Treasurer,,DEM,John D. Perdue,218
+Wyoming,31,State Treasurer,,DEM,John D. Perdue,234
+Wyoming,32,State Treasurer,,DEM,John D. Perdue,190
+Wyoming,33,State Treasurer,,DEM,John D. Perdue,195
+Wyoming,34,State Treasurer,,DEM,John D. Perdue,69
+Wyoming,37,State Treasurer,,DEM,John D. Perdue,260
+Wyoming,38,State Treasurer,,DEM,John D. Perdue,92
+Wyoming,39,State Treasurer,,DEM,John D. Perdue,93
+Wyoming,4,State Treasurer,,DEM,John D. Perdue,42
+Wyoming,43,State Treasurer,,DEM,John D. Perdue,191
+Wyoming,44,State Treasurer,,DEM,John D. Perdue,280
+Wyoming,45,State Treasurer,,DEM,John D. Perdue,130
+Wyoming,6,State Treasurer,,DEM,John D. Perdue,120
+Wyoming,7,State Treasurer,,DEM,John D. Perdue,114
+Wyoming,9,State Treasurer,,DEM,John D. Perdue,172
+Wyoming,Total,U.S. House,3,REP,Gary Martin Gearheart,2347
+Wyoming,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",5012
+Wyoming,1,U.S. House,3,REP,Gary Martin Gearheart,78
+Wyoming,10,U.S. House,3,REP,Gary Martin Gearheart,57
+Wyoming,12,U.S. House,3,REP,Gary Martin Gearheart,26
+Wyoming,13,U.S. House,3,REP,Gary Martin Gearheart,66
+Wyoming,14,U.S. House,3,REP,Gary Martin Gearheart,35
+Wyoming,15,U.S. House,3,REP,Gary Martin Gearheart,46
+Wyoming,16,U.S. House,3,REP,Gary Martin Gearheart,113
+Wyoming,17,U.S. House,3,REP,Gary Martin Gearheart,76
+Wyoming,18,U.S. House,3,REP,Gary Martin Gearheart,73
+Wyoming,19,U.S. House,3,REP,Gary Martin Gearheart,78
+Wyoming,2,U.S. House,3,REP,Gary Martin Gearheart,78
+Wyoming,20,U.S. House,3,REP,Gary Martin Gearheart,85
+Wyoming,21,U.S. House,3,REP,Gary Martin Gearheart,18
+Wyoming,22,U.S. House,3,REP,Gary Martin Gearheart,49
+Wyoming,23,U.S. House,3,REP,Gary Martin Gearheart,27
+Wyoming,24,U.S. House,3,REP,Gary Martin Gearheart,63
+Wyoming,24,U.S. House,3,REP,Gary Martin Gearheart,45
+Wyoming,26,U.S. House,3,REP,Gary Martin Gearheart,105
+Wyoming,27,U.S. House,3,REP,Gary Martin Gearheart,67
+Wyoming,27,U.S. House,3,REP,Gary Martin Gearheart,50
+Wyoming,28,U.S. House,3,REP,Gary Martin Gearheart,116
+Wyoming,29,U.S. House,3,REP,Gary Martin Gearheart,136
+Wyoming,31,U.S. House,3,REP,Gary Martin Gearheart,104
+Wyoming,32,U.S. House,3,REP,Gary Martin Gearheart,51
+Wyoming,33,U.S. House,3,REP,Gary Martin Gearheart,85
+Wyoming,34,U.S. House,3,REP,Gary Martin Gearheart,33
+Wyoming,37,U.S. House,3,REP,Gary Martin Gearheart,106
+Wyoming,38,U.S. House,3,REP,Gary Martin Gearheart,37
+Wyoming,39,U.S. House,3,REP,Gary Martin Gearheart,27
+Wyoming,4,U.S. House,3,REP,Gary Martin Gearheart,28
+Wyoming,43,U.S. House,3,REP,Gary Martin Gearheart,77
+Wyoming,44,U.S. House,3,REP,Gary Martin Gearheart,98
+Wyoming,45,U.S. House,3,REP,Gary Martin Gearheart,29
+Wyoming,6,U.S. House,3,REP,Gary Martin Gearheart,67
+Wyoming,7,U.S. House,3,REP,Gary Martin Gearheart,50
+Wyoming,9,U.S. House,3,REP,Gary Martin Gearheart,68
+Wyoming,1,U.S. House,3,DEM,"Nick Joe Rahall, II",204
+Wyoming,10,U.S. House,3,DEM,"Nick Joe Rahall, II",84
+Wyoming,12,U.S. House,3,DEM,"Nick Joe Rahall, II",54
+Wyoming,13,U.S. House,3,DEM,"Nick Joe Rahall, II",99
+Wyoming,14,U.S. House,3,DEM,"Nick Joe Rahall, II",111
+Wyoming,15,U.S. House,3,DEM,"Nick Joe Rahall, II",106
+Wyoming,16,U.S. House,3,DEM,"Nick Joe Rahall, II",180
+Wyoming,17,U.S. House,3,DEM,"Nick Joe Rahall, II",133
+Wyoming,18,U.S. House,3,DEM,"Nick Joe Rahall, II",124
+Wyoming,19,U.S. House,3,DEM,"Nick Joe Rahall, II",162
+Wyoming,2,U.S. House,3,DEM,"Nick Joe Rahall, II",159
+Wyoming,20,U.S. House,3,DEM,"Nick Joe Rahall, II",195
+Wyoming,21,U.S. House,3,DEM,"Nick Joe Rahall, II",60
+Wyoming,22,U.S. House,3,DEM,"Nick Joe Rahall, II",37
+Wyoming,23,U.S. House,3,DEM,"Nick Joe Rahall, II",96
+Wyoming,24,U.S. House,3,DEM,"Nick Joe Rahall, II",212
+Wyoming,24,U.S. House,3,DEM,"Nick Joe Rahall, II",132
+Wyoming,26,U.S. House,3,DEM,"Nick Joe Rahall, II",264
+Wyoming,27,U.S. House,3,DEM,"Nick Joe Rahall, II",162
+Wyoming,27,U.S. House,3,DEM,"Nick Joe Rahall, II",121
+Wyoming,28,U.S. House,3,DEM,"Nick Joe Rahall, II",250
+Wyoming,29,U.S. House,3,DEM,"Nick Joe Rahall, II",174
+Wyoming,31,U.S. House,3,DEM,"Nick Joe Rahall, II",190
+Wyoming,32,U.S. House,3,DEM,"Nick Joe Rahall, II",178
+Wyoming,33,U.S. House,3,DEM,"Nick Joe Rahall, II",164
+Wyoming,34,U.S. House,3,DEM,"Nick Joe Rahall, II",62
+Wyoming,37,U.S. House,3,DEM,"Nick Joe Rahall, II",210
+Wyoming,38,U.S. House,3,DEM,"Nick Joe Rahall, II",84
+Wyoming,39,U.S. House,3,DEM,"Nick Joe Rahall, II",82
+Wyoming,4,U.S. House,3,DEM,"Nick Joe Rahall, II",41
+Wyoming,43,U.S. House,3,DEM,"Nick Joe Rahall, II",167
+Wyoming,44,U.S. House,3,DEM,"Nick Joe Rahall, II",244
+Wyoming,45,U.S. House,3,DEM,"Nick Joe Rahall, II",123
+Wyoming,6,U.S. House,3,DEM,"Nick Joe Rahall, II",106
+Wyoming,7,U.S. House,3,DEM,"Nick Joe Rahall, II",110
+Wyoming,9,U.S. House,3,DEM,"Nick Joe Rahall, II",132
+Wyoming,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,5107
+Wyoming,Total,U.S. Senate,,REP,Matthew Jay Wolfe,2316
+Wyoming,1,U.S. Senate,,DEM,John Davison Rockefeller IV,204
+Wyoming,10,U.S. Senate,,DEM,John Davison Rockefeller IV,90
+Wyoming,12,U.S. Senate,,DEM,John Davison Rockefeller IV,52
+Wyoming,13,U.S. Senate,,DEM,John Davison Rockefeller IV,110
+Wyoming,14,U.S. Senate,,DEM,John Davison Rockefeller IV,116
+Wyoming,15,U.S. Senate,,DEM,John Davison Rockefeller IV,106
+Wyoming,16,U.S. Senate,,DEM,John Davison Rockefeller IV,190
+Wyoming,17,U.S. Senate,,DEM,John Davison Rockefeller IV,135
+Wyoming,18,U.S. Senate,,DEM,John Davison Rockefeller IV,129
+Wyoming,19,U.S. Senate,,DEM,John Davison Rockefeller IV,172
+Wyoming,2,U.S. Senate,,DEM,John Davison Rockefeller IV,159
+Wyoming,20,U.S. Senate,,DEM,John Davison Rockefeller IV,196
+Wyoming,21,U.S. Senate,,DEM,John Davison Rockefeller IV,62
+Wyoming,22,U.S. Senate,,DEM,John Davison Rockefeller IV,38
+Wyoming,23,U.S. Senate,,DEM,John Davison Rockefeller IV,90
+Wyoming,24,U.S. Senate,,DEM,John Davison Rockefeller IV,215
+Wyoming,24,U.S. Senate,,DEM,John Davison Rockefeller IV,129
+Wyoming,26,U.S. Senate,,DEM,John Davison Rockefeller IV,276
+Wyoming,27,U.S. Senate,,DEM,John Davison Rockefeller IV,166
+Wyoming,27,U.S. Senate,,DEM,John Davison Rockefeller IV,133
+Wyoming,28,U.S. Senate,,DEM,John Davison Rockefeller IV,252
+Wyoming,29,U.S. Senate,,DEM,John Davison Rockefeller IV,171
+Wyoming,31,U.S. Senate,,DEM,John Davison Rockefeller IV,196
+Wyoming,32,U.S. Senate,,DEM,John Davison Rockefeller IV,179
+Wyoming,33,U.S. Senate,,DEM,John Davison Rockefeller IV,178
+Wyoming,34,U.S. Senate,,DEM,John Davison Rockefeller IV,60
+Wyoming,37,U.S. Senate,,DEM,John Davison Rockefeller IV,221
+Wyoming,38,U.S. Senate,,DEM,John Davison Rockefeller IV,88
+Wyoming,39,U.S. Senate,,DEM,John Davison Rockefeller IV,81
+Wyoming,4,U.S. Senate,,DEM,John Davison Rockefeller IV,42
+Wyoming,43,U.S. Senate,,DEM,John Davison Rockefeller IV,177
+Wyoming,44,U.S. Senate,,DEM,John Davison Rockefeller IV,226
+Wyoming,45,U.S. Senate,,DEM,John Davison Rockefeller IV,122
+Wyoming,6,U.S. Senate,,DEM,John Davison Rockefeller IV,114
+Wyoming,7,U.S. Senate,,DEM,John Davison Rockefeller IV,106
+Wyoming,9,U.S. Senate,,DEM,John Davison Rockefeller IV,126
+Wyoming,1,U.S. Senate,,REP,Matthew Jay Wolfe,78
+Wyoming,10,U.S. Senate,,REP,Matthew Jay Wolfe,50
+Wyoming,12,U.S. Senate,,REP,Matthew Jay Wolfe,27
+Wyoming,13,U.S. Senate,,REP,Matthew Jay Wolfe,59
+Wyoming,14,U.S. Senate,,REP,Matthew Jay Wolfe,30
+Wyoming,15,U.S. Senate,,REP,Matthew Jay Wolfe,50
+Wyoming,16,U.S. Senate,,REP,Matthew Jay Wolfe,112
+Wyoming,17,U.S. Senate,,REP,Matthew Jay Wolfe,72
+Wyoming,18,U.S. Senate,,REP,Matthew Jay Wolfe,68
+Wyoming,19,U.S. Senate,,REP,Matthew Jay Wolfe,68
+Wyoming,2,U.S. Senate,,REP,Matthew Jay Wolfe,80
+Wyoming,20,U.S. Senate,,REP,Matthew Jay Wolfe,97
+Wyoming,21,U.S. Senate,,REP,Matthew Jay Wolfe,16
+Wyoming,22,U.S. Senate,,REP,Matthew Jay Wolfe,52
+Wyoming,23,U.S. Senate,,REP,Matthew Jay Wolfe,31
+Wyoming,24,U.S. Senate,,REP,Matthew Jay Wolfe,64
+Wyoming,24,U.S. Senate,,REP,Matthew Jay Wolfe,47
+Wyoming,26,U.S. Senate,,REP,Matthew Jay Wolfe,98
+Wyoming,27,U.S. Senate,,REP,Matthew Jay Wolfe,61
+Wyoming,27,U.S. Senate,,REP,Matthew Jay Wolfe,45
+Wyoming,28,U.S. Senate,,REP,Matthew Jay Wolfe,117
+Wyoming,29,U.S. Senate,,REP,Matthew Jay Wolfe,139
+Wyoming,31,U.S. Senate,,REP,Matthew Jay Wolfe,100
+Wyoming,32,U.S. Senate,,REP,Matthew Jay Wolfe,52
+Wyoming,33,U.S. Senate,,REP,Matthew Jay Wolfe,75
+Wyoming,34,U.S. Senate,,REP,Matthew Jay Wolfe,35
+Wyoming,37,U.S. Senate,,REP,Matthew Jay Wolfe,97
+Wyoming,38,U.S. Senate,,REP,Matthew Jay Wolfe,33
+Wyoming,39,U.S. Senate,,REP,Matthew Jay Wolfe,30
+Wyoming,4,U.S. Senate,,REP,Matthew Jay Wolfe,25
+Wyoming,43,U.S. Senate,,REP,Matthew Jay Wolfe,66
+Wyoming,44,U.S. Senate,,REP,Matthew Jay Wolfe,113
+Wyoming,45,U.S. Senate,,REP,Matthew Jay Wolfe,30
+Wyoming,6,U.S. Senate,,REP,Matthew Jay Wolfe,62
+Wyoming,7,U.S. Senate,,REP,Matthew Jay Wolfe,56
+Wyoming,9,U.S. Senate,,REP,Matthew Jay Wolfe,81

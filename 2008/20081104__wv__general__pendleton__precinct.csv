@@ -1,0 +1,351 @@
+county,precinct,office,district,party,candidate,votes
+Pendleton,Total,Attorney General,,REP,Daniel W.Greear,1302
+Pendleton,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",1847
+Pendleton,1,Attorney General,,REP,Daniel W.Greear,65
+Pendleton,11,Attorney General,,REP,Daniel W.Greear,90
+Pendleton,12,Attorney General,,REP,Daniel W.Greear,51
+Pendleton,13,Attorney General,,REP,Daniel W.Greear,132
+Pendleton,14,Attorney General,,REP,Daniel W.Greear,93
+Pendleton,2,Attorney General,,REP,Daniel W.Greear,83
+Pendleton,3,Attorney General,,REP,Daniel W.Greear,97
+Pendleton,5,Attorney General,,REP,Daniel W.Greear,86
+Pendleton,6,Attorney General,,REP,Daniel W.Greear,159
+Pendleton,7,Attorney General,,REP,Daniel W.Greear,129
+Pendleton,7,Attorney General,,REP,Daniel W.Greear,67
+Pendleton,8,Attorney General,,REP,Daniel W.Greear,164
+Pendleton,9,Attorney General,,REP,Daniel W.Greear,86
+Pendleton,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",62
+Pendleton,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",114
+Pendleton,12,Attorney General,,DEM,"Darrell V. McGraw, Jr.",83
+Pendleton,13,Attorney General,,DEM,"Darrell V. McGraw, Jr.",80
+Pendleton,14,Attorney General,,DEM,"Darrell V. McGraw, Jr.",97
+Pendleton,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",186
+Pendleton,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",173
+Pendleton,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",177
+Pendleton,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",290
+Pendleton,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",197
+Pendleton,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",140
+Pendleton,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",151
+Pendleton,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",97
+Pendleton,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,1535
+Pendleton,Total,Commissioner of Agriculture,,REP,James Michael Teets,1759
+Pendleton,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,63
+Pendleton,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,100
+Pendleton,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,81
+Pendleton,13,Commissioner of Agriculture,,DEM,Gus R. Douglass,74
+Pendleton,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,73
+Pendleton,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,149
+Pendleton,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,159
+Pendleton,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,141
+Pendleton,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,232
+Pendleton,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,135
+Pendleton,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,109
+Pendleton,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,122
+Pendleton,9,Commissioner of Agriculture,,DEM,Gus R. Douglass,97
+Pendleton,1,Commissioner of Agriculture,,REP,James Michael Teets,69
+Pendleton,11,Commissioner of Agriculture,,REP,James Michael Teets,112
+Pendleton,12,Commissioner of Agriculture,,REP,James Michael Teets,68
+Pendleton,13,Commissioner of Agriculture,,REP,James Michael Teets,149
+Pendleton,14,Commissioner of Agriculture,,REP,James Michael Teets,128
+Pendleton,2,Commissioner of Agriculture,,REP,James Michael Teets,133
+Pendleton,3,Commissioner of Agriculture,,REP,James Michael Teets,123
+Pendleton,5,Commissioner of Agriculture,,REP,James Michael Teets,130
+Pendleton,6,Commissioner of Agriculture,,REP,James Michael Teets,234
+Pendleton,7,Commissioner of Agriculture,,REP,James Michael Teets,200
+Pendleton,7,Commissioner of Agriculture,,REP,James Michael Teets,105
+Pendleton,8,Commissioner of Agriculture,,REP,James Michael Teets,207
+Pendleton,9,Commissioner of Agriculture,,REP,James Michael Teets,101
+Pendleton,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",136
+Pendleton,Total,Governor,,DEM,"Joe Manchin, III",2056
+Pendleton,Total,Governor,,REP,Russell E. Weeks Jr,1127
+Pendleton,1,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Pendleton,11,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Pendleton,12,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Pendleton,13,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Pendleton,14,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Pendleton,2,Governor,,MTN,"Jesse C. Johnson, Jr.",17
+Pendleton,3,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Pendleton,5,Governor,,MTN,"Jesse C. Johnson, Jr.",12
+Pendleton,6,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Pendleton,7,Governor,,MTN,"Jesse C. Johnson, Jr.",18
+Pendleton,7,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Pendleton,8,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Pendleton,9,Governor,,MTN,"Jesse C. Johnson, Jr.",1
+Pendleton,1,Governor,,DEM,"Joe Manchin, III",80
+Pendleton,11,Governor,,DEM,"Joe Manchin, III",125
+Pendleton,12,Governor,,DEM,"Joe Manchin, III",82
+Pendleton,13,Governor,,DEM,"Joe Manchin, III",128
+Pendleton,14,Governor,,DEM,"Joe Manchin, III",117
+Pendleton,2,Governor,,DEM,"Joe Manchin, III",205
+Pendleton,3,Governor,,DEM,"Joe Manchin, III",166
+Pendleton,5,Governor,,DEM,"Joe Manchin, III",181
+Pendleton,6,Governor,,DEM,"Joe Manchin, III",326
+Pendleton,7,Governor,,DEM,"Joe Manchin, III",195
+Pendleton,7,Governor,,DEM,"Joe Manchin, III",155
+Pendleton,8,Governor,,DEM,"Joe Manchin, III",189
+Pendleton,9,Governor,,DEM,"Joe Manchin, III",107
+Pendleton,1,Governor,,REP,Russell E. Weeks Jr,43
+Pendleton,11,Governor,,REP,Russell E. Weeks Jr,71
+Pendleton,12,Governor,,REP,Russell E. Weeks Jr,59
+Pendleton,13,Governor,,REP,Russell E. Weeks Jr,87
+Pendleton,14,Governor,,REP,Russell E. Weeks Jr,81
+Pendleton,2,Governor,,REP,Russell E. Weeks Jr,66
+Pendleton,3,Governor,,REP,Russell E. Weeks Jr,105
+Pendleton,5,Governor,,REP,Russell E. Weeks Jr,86
+Pendleton,6,Governor,,REP,Russell E. Weeks Jr,136
+Pendleton,7,Governor,,REP,Russell E. Weeks Jr,121
+Pendleton,7,Governor,,REP,Russell E. Weeks Jr,59
+Pendleton,8,Governor,,REP,Russell E. Weeks Jr,134
+Pendleton,9,Governor,,REP,Russell E. Weeks Jr,79
+Pendleton,Total,President,,DEM,Barack Hussein Obama,1310
+Pendleton,Total,President,,CON,Charles Obadiah Baldwin,10
+Pendleton,Total,President,,MTN,Cynthia Ann McKinney,19
+Pendleton,Total,President,,REP,John Sidney McCain III,2035
+Pendleton,Total,President,,,Ralph Nader,21
+Pendleton,1,President,,DEM,Barack Hussein Obama,45
+Pendleton,11,President,,DEM,Barack Hussein Obama,93
+Pendleton,12,President,,DEM,Barack Hussein Obama,67
+Pendleton,13,President,,DEM,Barack Hussein Obama,24
+Pendleton,14,President,,DEM,Barack Hussein Obama,54
+Pendleton,2,President,,DEM,Barack Hussein Obama,141
+Pendleton,3,President,,DEM,Barack Hussein Obama,116
+Pendleton,5,President,,DEM,Barack Hussein Obama,137
+Pendleton,6,President,,DEM,Barack Hussein Obama,236
+Pendleton,7,President,,DEM,Barack Hussein Obama,135
+Pendleton,7,President,,DEM,Barack Hussein Obama,98
+Pendleton,8,President,,DEM,Barack Hussein Obama,99
+Pendleton,9,President,,DEM,Barack Hussein Obama,65
+Pendleton,1,President,,CON,Charles Obadiah Baldwin,0
+Pendleton,11,President,,CON,Charles Obadiah Baldwin,2
+Pendleton,12,President,,CON,Charles Obadiah Baldwin,1
+Pendleton,13,President,,CON,Charles Obadiah Baldwin,0
+Pendleton,14,President,,CON,Charles Obadiah Baldwin,1
+Pendleton,2,President,,CON,Charles Obadiah Baldwin,2
+Pendleton,3,President,,CON,Charles Obadiah Baldwin,1
+Pendleton,5,President,,CON,Charles Obadiah Baldwin,1
+Pendleton,6,President,,CON,Charles Obadiah Baldwin,2
+Pendleton,7,President,,CON,Charles Obadiah Baldwin,0
+Pendleton,7,President,,CON,Charles Obadiah Baldwin,0
+Pendleton,8,President,,CON,Charles Obadiah Baldwin,0
+Pendleton,9,President,,CON,Charles Obadiah Baldwin,0
+Pendleton,1,President,,MTN,Cynthia Ann McKinney,1
+Pendleton,11,President,,MTN,Cynthia Ann McKinney,1
+Pendleton,12,President,,MTN,Cynthia Ann McKinney,0
+Pendleton,13,President,,MTN,Cynthia Ann McKinney,1
+Pendleton,14,President,,MTN,Cynthia Ann McKinney,1
+Pendleton,2,President,,MTN,Cynthia Ann McKinney,2
+Pendleton,3,President,,MTN,Cynthia Ann McKinney,5
+Pendleton,5,President,,MTN,Cynthia Ann McKinney,3
+Pendleton,6,President,,MTN,Cynthia Ann McKinney,2
+Pendleton,7,President,,MTN,Cynthia Ann McKinney,2
+Pendleton,7,President,,MTN,Cynthia Ann McKinney,0
+Pendleton,8,President,,MTN,Cynthia Ann McKinney,0
+Pendleton,9,President,,MTN,Cynthia Ann McKinney,1
+Pendleton,1,President,,REP,John Sidney McCain III,85
+Pendleton,11,President,,REP,John Sidney McCain III,124
+Pendleton,12,President,,REP,John Sidney McCain III,85
+Pendleton,13,President,,REP,John Sidney McCain III,206
+Pendleton,14,President,,REP,John Sidney McCain III,153
+Pendleton,2,President,,REP,John Sidney McCain III,144
+Pendleton,3,President,,REP,John Sidney McCain III,170
+Pendleton,5,President,,REP,John Sidney McCain III,132
+Pendleton,6,President,,REP,John Sidney McCain III,245
+Pendleton,7,President,,REP,John Sidney McCain III,202
+Pendleton,7,President,,REP,John Sidney McCain III,117
+Pendleton,8,President,,REP,John Sidney McCain III,242
+Pendleton,9,President,,REP,John Sidney McCain III,130
+Pendleton,1,President,,,Ralph Nader,1
+Pendleton,11,President,,,Ralph Nader,0
+Pendleton,12,President,,,Ralph Nader,2
+Pendleton,13,President,,,Ralph Nader,2
+Pendleton,14,President,,,Ralph Nader,0
+Pendleton,2,President,,,Ralph Nader,1
+Pendleton,3,President,,,Ralph Nader,0
+Pendleton,5,President,,,Ralph Nader,1
+Pendleton,6,President,,,Ralph Nader,3
+Pendleton,7,President,,,Ralph Nader,3
+Pendleton,7,President,,,Ralph Nader,5
+Pendleton,8,President,,,Ralph Nader,2
+Pendleton,9,President,,,Ralph Nader,1
+Pendleton,Total,Secretary of State,,REP,Charles Theophilus Minimah,1243
+Pendleton,Total,Secretary of State,,DEM,Natalie Tennant,1752
+Pendleton,1,Secretary of State,,REP,Charles Theophilus Minimah,52
+Pendleton,11,Secretary of State,,REP,Charles Theophilus Minimah,84
+Pendleton,12,Secretary of State,,REP,Charles Theophilus Minimah,60
+Pendleton,13,Secretary of State,,REP,Charles Theophilus Minimah,122
+Pendleton,14,Secretary of State,,REP,Charles Theophilus Minimah,95
+Pendleton,2,Secretary of State,,REP,Charles Theophilus Minimah,86
+Pendleton,3,Secretary of State,,REP,Charles Theophilus Minimah,98
+Pendleton,5,Secretary of State,,REP,Charles Theophilus Minimah,93
+Pendleton,6,Secretary of State,,REP,Charles Theophilus Minimah,148
+Pendleton,7,Secretary of State,,REP,Charles Theophilus Minimah,108
+Pendleton,7,Secretary of State,,REP,Charles Theophilus Minimah,64
+Pendleton,8,Secretary of State,,REP,Charles Theophilus Minimah,162
+Pendleton,9,Secretary of State,,REP,Charles Theophilus Minimah,71
+Pendleton,1,Secretary of State,,DEM,Natalie Tennant,72
+Pendleton,11,Secretary of State,,DEM,Natalie Tennant,112
+Pendleton,12,Secretary of State,,DEM,Natalie Tennant,68
+Pendleton,13,Secretary of State,,DEM,Natalie Tennant,73
+Pendleton,14,Secretary of State,,DEM,Natalie Tennant,84
+Pendleton,2,Secretary of State,,DEM,Natalie Tennant,168
+Pendleton,3,Secretary of State,,DEM,Natalie Tennant,148
+Pendleton,5,Secretary of State,,DEM,Natalie Tennant,158
+Pendleton,6,Secretary of State,,DEM,Natalie Tennant,296
+Pendleton,7,Secretary of State,,DEM,Natalie Tennant,204
+Pendleton,7,Secretary of State,,DEM,Natalie Tennant,124
+Pendleton,8,Secretary of State,,DEM,Natalie Tennant,137
+Pendleton,9,Secretary of State,,DEM,Natalie Tennant,108
+Pendleton,Total,State Auditor,,DEM,Glen B. Gainer III,2334
+Pendleton,1,State Auditor,,DEM,Glen B. Gainer III,91
+Pendleton,11,State Auditor,,DEM,Glen B. Gainer III,143
+Pendleton,12,State Auditor,,DEM,Glen B. Gainer III,98
+Pendleton,13,State Auditor,,DEM,Glen B. Gainer III,134
+Pendleton,14,State Auditor,,DEM,Glen B. Gainer III,138
+Pendleton,2,State Auditor,,DEM,Glen B. Gainer III,211
+Pendleton,3,State Auditor,,DEM,Glen B. Gainer III,213
+Pendleton,5,State Auditor,,DEM,Glen B. Gainer III,212
+Pendleton,6,State Auditor,,DEM,Glen B. Gainer III,360
+Pendleton,7,State Auditor,,DEM,Glen B. Gainer III,240
+Pendleton,7,State Auditor,,DEM,Glen B. Gainer III,158
+Pendleton,8,State Auditor,,DEM,Glen B. Gainer III,210
+Pendleton,9,State Auditor,,DEM,Glen B. Gainer III,126
+Pendleton,Total,State House,,REP,Allen Vincent Evans,441
+Pendleton,Total,State House,,DEM,Donna Brake Kuhn,260
+Pendleton,Total,State House,,DEM,Harold K. Michael,2193
+Pendleton,1,State House,,REP,Allen Vincent Evans,0
+Pendleton,11,State House,,REP,Allen Vincent Evans,0
+Pendleton,12,State House,,REP,Allen Vincent Evans,0
+Pendleton,13,State House,,REP,Allen Vincent Evans,157
+Pendleton,14,State House,,REP,Allen Vincent Evans,123
+Pendleton,2,State House,,REP,Allen Vincent Evans,0
+Pendleton,3,State House,,REP,Allen Vincent Evans,161
+Pendleton,5,State House,,REP,Allen Vincent Evans,0
+Pendleton,6,State House,,REP,Allen Vincent Evans,0
+Pendleton,7,State House,,REP,Allen Vincent Evans,0
+Pendleton,7,State House,,REP,Allen Vincent Evans,0
+Pendleton,8,State House,,REP,Allen Vincent Evans,0
+Pendleton,9,State House,,REP,Allen Vincent Evans,0
+Pendleton,1,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,11,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,12,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,13,State House,,DEM,Donna Brake Kuhn,71
+Pendleton,14,State House,,DEM,Donna Brake Kuhn,73
+Pendleton,2,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,3,State House,,DEM,Donna Brake Kuhn,116
+Pendleton,5,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,6,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,7,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,7,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,8,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,9,State House,,DEM,Donna Brake Kuhn,0
+Pendleton,1,State House,,DEM,Harold K. Michael,105
+Pendleton,11,State House,,DEM,Harold K. Michael,174
+Pendleton,12,State House,,DEM,Harold K. Michael,114
+Pendleton,13,State House,,DEM,Harold K. Michael,0
+Pendleton,14,State House,,DEM,Harold K. Michael,0
+Pendleton,2,State House,,DEM,Harold K. Michael,257
+Pendleton,3,State House,,DEM,Harold K. Michael,0
+Pendleton,5,State House,,DEM,Harold K. Michael,247
+Pendleton,6,State House,,DEM,Harold K. Michael,413
+Pendleton,7,State House,,DEM,Harold K. Michael,280
+Pendleton,7,State House,,DEM,Harold K. Michael,184
+Pendleton,8,State House,,DEM,Harold K. Michael,260
+Pendleton,9,State House,,DEM,Harold K. Michael,159
+Pendleton,Total,State Senate,,REP,Clark S. Barnes,1730
+Pendleton,Total,State Senate,,DEM,Mike Ross,1634
+Pendleton,1,State Senate,,REP,Clark S. Barnes,73
+Pendleton,11,State Senate,,REP,Clark S. Barnes,96
+Pendleton,12,State Senate,,REP,Clark S. Barnes,76
+Pendleton,13,State Senate,,REP,Clark S. Barnes,150
+Pendleton,14,State Senate,,REP,Clark S. Barnes,141
+Pendleton,2,State Senate,,REP,Clark S. Barnes,112
+Pendleton,3,State Senate,,REP,Clark S. Barnes,138
+Pendleton,5,State Senate,,REP,Clark S. Barnes,134
+Pendleton,6,State Senate,,REP,Clark S. Barnes,219
+Pendleton,7,State Senate,,REP,Clark S. Barnes,167
+Pendleton,7,State Senate,,REP,Clark S. Barnes,106
+Pendleton,8,State Senate,,REP,Clark S. Barnes,206
+Pendleton,9,State Senate,,REP,Clark S. Barnes,112
+Pendleton,1,State Senate,,DEM,Mike Ross,56
+Pendleton,11,State Senate,,DEM,Mike Ross,121
+Pendleton,12,State Senate,,DEM,Mike Ross,72
+Pendleton,13,State Senate,,DEM,Mike Ross,82
+Pendleton,14,State Senate,,DEM,Mike Ross,68
+Pendleton,2,State Senate,,DEM,Mike Ross,175
+Pendleton,3,State Senate,,DEM,Mike Ross,154
+Pendleton,5,State Senate,,DEM,Mike Ross,152
+Pendleton,6,State Senate,,DEM,Mike Ross,254
+Pendleton,7,State Senate,,DEM,Mike Ross,172
+Pendleton,7,State Senate,,DEM,Mike Ross,112
+Pendleton,8,State Senate,,DEM,Mike Ross,133
+Pendleton,9,State Senate,,DEM,Mike Ross,83
+Pendleton,Total,State Treasurer,,DEM,John D. Perdue,2324
+Pendleton,1,State Treasurer,,DEM,John D. Perdue,94
+Pendleton,11,State Treasurer,,DEM,John D. Perdue,153
+Pendleton,12,State Treasurer,,DEM,John D. Perdue,91
+Pendleton,13,State Treasurer,,DEM,John D. Perdue,127
+Pendleton,14,State Treasurer,,DEM,John D. Perdue,135
+Pendleton,2,State Treasurer,,DEM,John D. Perdue,209
+Pendleton,3,State Treasurer,,DEM,John D. Perdue,201
+Pendleton,5,State Treasurer,,DEM,John D. Perdue,209
+Pendleton,6,State Treasurer,,DEM,John D. Perdue,357
+Pendleton,7,State Treasurer,,DEM,John D. Perdue,243
+Pendleton,7,State Treasurer,,DEM,John D. Perdue,159
+Pendleton,8,State Treasurer,,DEM,John D. Perdue,215
+Pendleton,9,State Treasurer,,DEM,John D. Perdue,131
+Pendleton,Total,U.S. House,2,DEM,Elizabeth Anne Barth,1253
+Pendleton,Total,U.S. House,2,REP,Shelley Moore Capito,2128
+Pendleton,1,U.S. House,2,DEM,Elizabeth Anne Barth,46
+Pendleton,11,U.S. House,2,DEM,Elizabeth Anne Barth,80
+Pendleton,12,U.S. House,2,DEM,Elizabeth Anne Barth,51
+Pendleton,13,U.S. House,2,DEM,Elizabeth Anne Barth,41
+Pendleton,14,U.S. House,2,DEM,Elizabeth Anne Barth,57
+Pendleton,2,U.S. House,2,DEM,Elizabeth Anne Barth,126
+Pendleton,3,U.S. House,2,DEM,Elizabeth Anne Barth,102
+Pendleton,5,U.S. House,2,DEM,Elizabeth Anne Barth,131
+Pendleton,6,U.S. House,2,DEM,Elizabeth Anne Barth,214
+Pendleton,7,U.S. House,2,DEM,Elizabeth Anne Barth,146
+Pendleton,7,U.S. House,2,DEM,Elizabeth Anne Barth,95
+Pendleton,8,U.S. House,2,DEM,Elizabeth Anne Barth,94
+Pendleton,9,U.S. House,2,DEM,Elizabeth Anne Barth,70
+Pendleton,1,U.S. House,2,REP,Shelley Moore Capito,87
+Pendleton,11,U.S. House,2,REP,Shelley Moore Capito,140
+Pendleton,12,U.S. House,2,REP,Shelley Moore Capito,100
+Pendleton,13,U.S. House,2,REP,Shelley Moore Capito,194
+Pendleton,14,U.S. House,2,REP,Shelley Moore Capito,141
+Pendleton,2,U.S. House,2,REP,Shelley Moore Capito,165
+Pendleton,3,U.S. House,2,REP,Shelley Moore Capito,195
+Pendleton,5,U.S. House,2,REP,Shelley Moore Capito,153
+Pendleton,6,U.S. House,2,REP,Shelley Moore Capito,258
+Pendleton,7,U.S. House,2,REP,Shelley Moore Capito,198
+Pendleton,7,U.S. House,2,REP,Shelley Moore Capito,126
+Pendleton,8,U.S. House,2,REP,Shelley Moore Capito,241
+Pendleton,9,U.S. House,2,REP,Shelley Moore Capito,130
+Pendleton,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,2086
+Pendleton,Total,U.S. Senate,,REP,Matthew Jay Wolfe,1259
+Pendleton,1,U.S. Senate,,DEM,John Davison Rockefeller IV,74
+Pendleton,11,U.S. Senate,,DEM,John Davison Rockefeller IV,141
+Pendleton,12,U.S. Senate,,DEM,John Davison Rockefeller IV,101
+Pendleton,13,U.S. Senate,,DEM,John Davison Rockefeller IV,103
+Pendleton,14,U.S. Senate,,DEM,John Davison Rockefeller IV,108
+Pendleton,2,U.S. Senate,,DEM,John Davison Rockefeller IV,208
+Pendleton,3,U.S. Senate,,DEM,John Davison Rockefeller IV,196
+Pendleton,5,U.S. Senate,,DEM,John Davison Rockefeller IV,189
+Pendleton,6,U.S. Senate,,DEM,John Davison Rockefeller IV,317
+Pendleton,7,U.S. Senate,,DEM,John Davison Rockefeller IV,211
+Pendleton,7,U.S. Senate,,DEM,John Davison Rockefeller IV,158
+Pendleton,8,U.S. Senate,,DEM,John Davison Rockefeller IV,172
+Pendleton,9,U.S. Senate,,DEM,John Davison Rockefeller IV,108
+Pendleton,1,U.S. Senate,,REP,Matthew Jay Wolfe,58
+Pendleton,11,U.S. Senate,,REP,Matthew Jay Wolfe,76
+Pendleton,12,U.S. Senate,,REP,Matthew Jay Wolfe,54
+Pendleton,13,U.S. Senate,,REP,Matthew Jay Wolfe,121
+Pendleton,14,U.S. Senate,,REP,Matthew Jay Wolfe,90
+Pendleton,2,U.S. Senate,,REP,Matthew Jay Wolfe,84
+Pendleton,3,U.S. Senate,,REP,Matthew Jay Wolfe,97
+Pendleton,5,U.S. Senate,,REP,Matthew Jay Wolfe,90
+Pendleton,6,U.S. Senate,,REP,Matthew Jay Wolfe,152
+Pendleton,7,U.S. Senate,,REP,Matthew Jay Wolfe,127
+Pendleton,7,U.S. Senate,,REP,Matthew Jay Wolfe,64
+Pendleton,8,U.S. Senate,,REP,Matthew Jay Wolfe,160
+Pendleton,9,U.S. Senate,,REP,Matthew Jay Wolfe,86

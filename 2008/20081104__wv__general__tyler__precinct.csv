@@ -1,0 +1,287 @@
+county,precinct,office,district,party,candidate,votes
+Tyler,Total,Attorney General,,REP,Daniel W.Greear,2044
+Tyler,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",1532
+Tyler,1,Attorney General,,REP,Daniel W.Greear,159
+Tyler,10,Attorney General,,REP,Daniel W.Greear,154
+Tyler,11,Attorney General,,REP,Daniel W.Greear,213
+Tyler,12,Attorney General,,REP,Daniel W.Greear,50
+Tyler,2,Attorney General,,REP,Daniel W.Greear,170
+Tyler,3,Attorney General,,REP,Daniel W.Greear,188
+Tyler,4,Attorney General,,REP,Daniel W.Greear,226
+Tyler,5,Attorney General,,REP,Daniel W.Greear,297
+Tyler,6,Attorney General,,REP,Daniel W.Greear,204
+Tyler,7,Attorney General,,REP,Daniel W.Greear,64
+Tyler,8,Attorney General,,REP,Daniel W.Greear,225
+Tyler,9,Attorney General,,REP,Daniel W.Greear,94
+Tyler,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",100
+Tyler,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",93
+Tyler,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",193
+Tyler,12,Attorney General,,DEM,"Darrell V. McGraw, Jr.",35
+Tyler,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",119
+Tyler,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",103
+Tyler,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",210
+Tyler,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",190
+Tyler,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",148
+Tyler,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",42
+Tyler,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",210
+Tyler,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",89
+Tyler,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,1459
+Tyler,Total,Commissioner of Agriculture,,REP,James Michael Teets,2118
+Tyler,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,102
+Tyler,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,81
+Tyler,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,176
+Tyler,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,32
+Tyler,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,102
+Tyler,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,97
+Tyler,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,177
+Tyler,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,193
+Tyler,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,170
+Tyler,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,56
+Tyler,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,182
+Tyler,9,Commissioner of Agriculture,,DEM,Gus R. Douglass,91
+Tyler,1,Commissioner of Agriculture,,REP,James Michael Teets,162
+Tyler,10,Commissioner of Agriculture,,REP,James Michael Teets,164
+Tyler,11,Commissioner of Agriculture,,REP,James Michael Teets,230
+Tyler,12,Commissioner of Agriculture,,REP,James Michael Teets,51
+Tyler,2,Commissioner of Agriculture,,REP,James Michael Teets,191
+Tyler,3,Commissioner of Agriculture,,REP,James Michael Teets,195
+Tyler,4,Commissioner of Agriculture,,REP,James Michael Teets,269
+Tyler,5,Commissioner of Agriculture,,REP,James Michael Teets,290
+Tyler,6,Commissioner of Agriculture,,REP,James Michael Teets,176
+Tyler,7,Commissioner of Agriculture,,REP,James Michael Teets,56
+Tyler,8,Commissioner of Agriculture,,REP,James Michael Teets,241
+Tyler,9,Commissioner of Agriculture,,REP,James Michael Teets,93
+Tyler,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",136
+Tyler,Total,Governor,,DEM,"Joe Manchin, III",2567
+Tyler,Total,Governor,,REP,Russell E. Weeks Jr,1001
+Tyler,1,Governor,,MTN,"Jesse C. Johnson, Jr.",10
+Tyler,10,Governor,,MTN,"Jesse C. Johnson, Jr.",9
+Tyler,11,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Tyler,12,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Tyler,2,Governor,,MTN,"Jesse C. Johnson, Jr.",17
+Tyler,3,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Tyler,4,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Tyler,5,Governor,,MTN,"Jesse C. Johnson, Jr.",17
+Tyler,6,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Tyler,7,Governor,,MTN,"Jesse C. Johnson, Jr.",6
+Tyler,8,Governor,,MTN,"Jesse C. Johnson, Jr.",16
+Tyler,9,Governor,,MTN,"Jesse C. Johnson, Jr.",17
+Tyler,1,Governor,,DEM,"Joe Manchin, III",158
+Tyler,10,Governor,,DEM,"Joe Manchin, III",169
+Tyler,11,Governor,,DEM,"Joe Manchin, III",294
+Tyler,12,Governor,,DEM,"Joe Manchin, III",57
+Tyler,2,Governor,,DEM,"Joe Manchin, III",197
+Tyler,3,Governor,,DEM,"Joe Manchin, III",201
+Tyler,4,Governor,,DEM,"Joe Manchin, III",324
+Tyler,5,Governor,,DEM,"Joe Manchin, III",373
+Tyler,6,Governor,,DEM,"Joe Manchin, III",260
+Tyler,7,Governor,,DEM,"Joe Manchin, III",70
+Tyler,8,Governor,,DEM,"Joe Manchin, III",343
+Tyler,9,Governor,,DEM,"Joe Manchin, III",121
+Tyler,1,Governor,,REP,Russell E. Weeks Jr,106
+Tyler,10,Governor,,REP,Russell E. Weeks Jr,75
+Tyler,11,Governor,,REP,Russell E. Weeks Jr,106
+Tyler,12,Governor,,REP,Russell E. Weeks Jr,24
+Tyler,2,Governor,,REP,Russell E. Weeks Jr,93
+Tyler,3,Governor,,REP,Russell E. Weeks Jr,97
+Tyler,4,Governor,,REP,Russell E. Weeks Jr,120
+Tyler,5,Governor,,REP,Russell E. Weeks Jr,113
+Tyler,6,Governor,,REP,Russell E. Weeks Jr,89
+Tyler,7,Governor,,REP,Russell E. Weeks Jr,43
+Tyler,8,Governor,,REP,Russell E. Weeks Jr,85
+Tyler,9,Governor,,REP,Russell E. Weeks Jr,50
+Tyler,Total,President,,DEM,Barack Hussein Obama,1241
+Tyler,Total,President,,CON,Charles Obadiah Baldwin,14
+Tyler,Total,President,,MTN,Cynthia Ann McKinney,13
+Tyler,Total,President,,REP,John Sidney McCain III,2415
+Tyler,Total,President,,,Ralph Nader,58
+Tyler,1,President,,DEM,Barack Hussein Obama,82
+Tyler,10,President,,DEM,Barack Hussein Obama,66
+Tyler,11,President,,DEM,Barack Hussein Obama,177
+Tyler,12,President,,DEM,Barack Hussein Obama,16
+Tyler,2,President,,DEM,Barack Hussein Obama,79
+Tyler,3,President,,DEM,Barack Hussein Obama,109
+Tyler,4,President,,DEM,Barack Hussein Obama,138
+Tyler,5,President,,DEM,Barack Hussein Obama,174
+Tyler,6,President,,DEM,Barack Hussein Obama,123
+Tyler,7,President,,DEM,Barack Hussein Obama,37
+Tyler,8,President,,DEM,Barack Hussein Obama,168
+Tyler,9,President,,DEM,Barack Hussein Obama,72
+Tyler,1,President,,CON,Charles Obadiah Baldwin,3
+Tyler,10,President,,CON,Charles Obadiah Baldwin,1
+Tyler,11,President,,CON,Charles Obadiah Baldwin,0
+Tyler,12,President,,CON,Charles Obadiah Baldwin,2
+Tyler,2,President,,CON,Charles Obadiah Baldwin,3
+Tyler,3,President,,CON,Charles Obadiah Baldwin,0
+Tyler,4,President,,CON,Charles Obadiah Baldwin,1
+Tyler,5,President,,CON,Charles Obadiah Baldwin,0
+Tyler,6,President,,CON,Charles Obadiah Baldwin,2
+Tyler,7,President,,CON,Charles Obadiah Baldwin,0
+Tyler,8,President,,CON,Charles Obadiah Baldwin,1
+Tyler,9,President,,CON,Charles Obadiah Baldwin,1
+Tyler,1,President,,MTN,Cynthia Ann McKinney,1
+Tyler,10,President,,MTN,Cynthia Ann McKinney,0
+Tyler,11,President,,MTN,Cynthia Ann McKinney,0
+Tyler,12,President,,MTN,Cynthia Ann McKinney,0
+Tyler,2,President,,MTN,Cynthia Ann McKinney,1
+Tyler,3,President,,MTN,Cynthia Ann McKinney,0
+Tyler,4,President,,MTN,Cynthia Ann McKinney,3
+Tyler,5,President,,MTN,Cynthia Ann McKinney,2
+Tyler,6,President,,MTN,Cynthia Ann McKinney,2
+Tyler,7,President,,MTN,Cynthia Ann McKinney,1
+Tyler,8,President,,MTN,Cynthia Ann McKinney,3
+Tyler,9,President,,MTN,Cynthia Ann McKinney,0
+Tyler,1,President,,REP,John Sidney McCain III,189
+Tyler,10,President,,REP,John Sidney McCain III,186
+Tyler,11,President,,REP,John Sidney McCain III,237
+Tyler,12,President,,REP,John Sidney McCain III,74
+Tyler,2,President,,REP,John Sidney McCain III,222
+Tyler,3,President,,REP,John Sidney McCain III,192
+Tyler,4,President,,REP,John Sidney McCain III,315
+Tyler,5,President,,REP,John Sidney McCain III,318
+Tyler,6,President,,REP,John Sidney McCain III,228
+Tyler,7,President,,REP,John Sidney McCain III,78
+Tyler,8,President,,REP,John Sidney McCain III,268
+Tyler,9,President,,REP,John Sidney McCain III,108
+Tyler,1,President,,,Ralph Nader,3
+Tyler,10,President,,,Ralph Nader,4
+Tyler,11,President,,,Ralph Nader,6
+Tyler,12,President,,,Ralph Nader,2
+Tyler,2,President,,,Ralph Nader,6
+Tyler,3,President,,,Ralph Nader,2
+Tyler,4,President,,,Ralph Nader,5
+Tyler,5,President,,,Ralph Nader,9
+Tyler,6,President,,,Ralph Nader,9
+Tyler,7,President,,,Ralph Nader,3
+Tyler,8,President,,,Ralph Nader,9
+Tyler,9,President,,,Ralph Nader,0
+Tyler,Total,Secretary of State,,REP,Charles Theophilus Minimah,1409
+Tyler,Total,Secretary of State,,DEM,Natalie Tennant,2045
+Tyler,1,Secretary of State,,REP,Charles Theophilus Minimah,111
+Tyler,10,Secretary of State,,REP,Charles Theophilus Minimah,122
+Tyler,11,Secretary of State,,REP,Charles Theophilus Minimah,152
+Tyler,12,Secretary of State,,REP,Charles Theophilus Minimah,42
+Tyler,2,Secretary of State,,REP,Charles Theophilus Minimah,119
+Tyler,3,Secretary of State,,REP,Charles Theophilus Minimah,135
+Tyler,4,Secretary of State,,REP,Charles Theophilus Minimah,172
+Tyler,5,Secretary of State,,REP,Charles Theophilus Minimah,201
+Tyler,6,Secretary of State,,REP,Charles Theophilus Minimah,121
+Tyler,7,Secretary of State,,REP,Charles Theophilus Minimah,47
+Tyler,8,Secretary of State,,REP,Charles Theophilus Minimah,126
+Tyler,9,Secretary of State,,REP,Charles Theophilus Minimah,61
+Tyler,1,Secretary of State,,DEM,Natalie Tennant,146
+Tyler,10,Secretary of State,,DEM,Natalie Tennant,112
+Tyler,11,Secretary of State,,DEM,Natalie Tennant,245
+Tyler,12,Secretary of State,,DEM,Natalie Tennant,39
+Tyler,2,Secretary of State,,DEM,Natalie Tennant,160
+Tyler,3,Secretary of State,,DEM,Natalie Tennant,151
+Tyler,4,Secretary of State,,DEM,Natalie Tennant,244
+Tyler,5,Secretary of State,,DEM,Natalie Tennant,267
+Tyler,6,Secretary of State,,DEM,Natalie Tennant,217
+Tyler,7,Secretary of State,,DEM,Natalie Tennant,55
+Tyler,8,Secretary of State,,DEM,Natalie Tennant,297
+Tyler,9,Secretary of State,,DEM,Natalie Tennant,112
+Tyler,Total,State Auditor,,DEM,Glen B. Gainer III,2746
+Tyler,1,State Auditor,,DEM,Glen B. Gainer III,190
+Tyler,10,State Auditor,,DEM,Glen B. Gainer III,185
+Tyler,11,State Auditor,,DEM,Glen B. Gainer III,330
+Tyler,12,State Auditor,,DEM,Glen B. Gainer III,59
+Tyler,2,State Auditor,,DEM,Glen B. Gainer III,213
+Tyler,3,State Auditor,,DEM,Glen B. Gainer III,217
+Tyler,4,State Auditor,,DEM,Glen B. Gainer III,332
+Tyler,5,State Auditor,,DEM,Glen B. Gainer III,376
+Tyler,6,State Auditor,,DEM,Glen B. Gainer III,271
+Tyler,7,State Auditor,,DEM,Glen B. Gainer III,79
+Tyler,8,State Auditor,,DEM,Glen B. Gainer III,350
+Tyler,9,State Auditor,,DEM,Glen B. Gainer III,144
+Tyler,Total,State House,,REP,Wm. Roger Romine,3095
+Tyler,1,State House,,REP,Wm. Roger Romine,234
+Tyler,10,State House,,REP,Wm. Roger Romine,230
+Tyler,11,State House,,REP,Wm. Roger Romine,339
+Tyler,12,State House,,REP,Wm. Roger Romine,70
+Tyler,2,State House,,REP,Wm. Roger Romine,261
+Tyler,3,State House,,REP,Wm. Roger Romine,255
+Tyler,4,State House,,REP,Wm. Roger Romine,377
+Tyler,5,State House,,REP,Wm. Roger Romine,429
+Tyler,6,State House,,REP,Wm. Roger Romine,301
+Tyler,7,State House,,REP,Wm. Roger Romine,97
+Tyler,8,State House,,REP,Wm. Roger Romine,359
+Tyler,9,State House,,REP,Wm. Roger Romine,143
+Tyler,Total,State Senate,,REP,Frederick John Brunner,1401
+Tyler,Total,State Senate,,DEM,Jeffrey Vincent Kessler,2139
+Tyler,1,State Senate,,REP,Frederick John Brunner,117
+Tyler,10,State Senate,,REP,Frederick John Brunner,109
+Tyler,11,State Senate,,REP,Frederick John Brunner,143
+Tyler,12,State Senate,,REP,Frederick John Brunner,34
+Tyler,2,State Senate,,REP,Frederick John Brunner,122
+Tyler,3,State Senate,,REP,Frederick John Brunner,124
+Tyler,4,State Senate,,REP,Frederick John Brunner,163
+Tyler,5,State Senate,,REP,Frederick John Brunner,194
+Tyler,6,State Senate,,REP,Frederick John Brunner,137
+Tyler,7,State Senate,,REP,Frederick John Brunner,46
+Tyler,8,State Senate,,REP,Frederick John Brunner,140
+Tyler,9,State Senate,,REP,Frederick John Brunner,72
+Tyler,1,State Senate,,DEM,Jeffrey Vincent Kessler,144
+Tyler,10,State Senate,,DEM,Jeffrey Vincent Kessler,134
+Tyler,11,State Senate,,DEM,Jeffrey Vincent Kessler,253
+Tyler,12,State Senate,,DEM,Jeffrey Vincent Kessler,45
+Tyler,2,State Senate,,DEM,Jeffrey Vincent Kessler,165
+Tyler,3,State Senate,,DEM,Jeffrey Vincent Kessler,167
+Tyler,4,State Senate,,DEM,Jeffrey Vincent Kessler,270
+Tyler,5,State Senate,,DEM,Jeffrey Vincent Kessler,292
+Tyler,6,State Senate,,DEM,Jeffrey Vincent Kessler,215
+Tyler,7,State Senate,,DEM,Jeffrey Vincent Kessler,63
+Tyler,8,State Senate,,DEM,Jeffrey Vincent Kessler,282
+Tyler,9,State Senate,,DEM,Jeffrey Vincent Kessler,109
+Tyler,Total,State Treasurer,,DEM,John D. Perdue,2671
+Tyler,1,State Treasurer,,DEM,John D. Perdue,182
+Tyler,10,State Treasurer,,DEM,John D. Perdue,177
+Tyler,11,State Treasurer,,DEM,John D. Perdue,324
+Tyler,12,State Treasurer,,DEM,John D. Perdue,57
+Tyler,2,State Treasurer,,DEM,John D. Perdue,210
+Tyler,3,State Treasurer,,DEM,John D. Perdue,203
+Tyler,4,State Treasurer,,DEM,John D. Perdue,326
+Tyler,5,State Treasurer,,DEM,John D. Perdue,365
+Tyler,6,State Treasurer,,DEM,John D. Perdue,267
+Tyler,7,State Treasurer,,DEM,John D. Perdue,72
+Tyler,8,State Treasurer,,DEM,John D. Perdue,347
+Tyler,9,State Treasurer,,DEM,John D. Perdue,141
+Tyler,Total,U.S. House,1	,DEM,Alan Bowlby Mollohan,2857
+Tyler,1,U.S. House,1	,DEM,Alan Bowlby Mollohan,202
+Tyler,10,U.S. House,1	,DEM,Alan Bowlby Mollohan,180
+Tyler,11,U.S. House,1	,DEM,Alan Bowlby Mollohan,331
+Tyler,12,U.S. House,1	,DEM,Alan Bowlby Mollohan,68
+Tyler,2,U.S. House,1	,DEM,Alan Bowlby Mollohan,230
+Tyler,3,U.S. House,1	,DEM,Alan Bowlby Mollohan,221
+Tyler,4,U.S. House,1	,DEM,Alan Bowlby Mollohan,356
+Tyler,5,U.S. House,1	,DEM,Alan Bowlby Mollohan,384
+Tyler,6,U.S. House,1	,DEM,Alan Bowlby Mollohan,272
+Tyler,7,U.S. House,1	,DEM,Alan Bowlby Mollohan,92
+Tyler,8,U.S. House,1	,DEM,Alan Bowlby Mollohan,364
+Tyler,9,U.S. House,1	,DEM,Alan Bowlby Mollohan,157
+Tyler,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,2048
+Tyler,Total,U.S. Senate,,REP,Matthew Jay Wolfe,1644
+Tyler,1,U.S. Senate,,DEM,John Davison Rockefeller IV,123
+Tyler,10,U.S. Senate,,DEM,John Davison Rockefeller IV,127
+Tyler,11,U.S. Senate,,DEM,John Davison Rockefeller IV,253
+Tyler,12,U.S. Senate,,DEM,John Davison Rockefeller IV,46
+Tyler,2,U.S. Senate,,DEM,John Davison Rockefeller IV,154
+Tyler,3,U.S. Senate,,DEM,John Davison Rockefeller IV,154
+Tyler,4,U.S. Senate,,DEM,John Davison Rockefeller IV,257
+Tyler,5,U.S. Senate,,DEM,John Davison Rockefeller IV,290
+Tyler,6,U.S. Senate,,DEM,John Davison Rockefeller IV,210
+Tyler,7,U.S. Senate,,DEM,John Davison Rockefeller IV,51
+Tyler,8,U.S. Senate,,DEM,John Davison Rockefeller IV,275
+Tyler,9,U.S. Senate,,DEM,John Davison Rockefeller IV,108
+Tyler,1,U.S. Senate,,REP,Matthew Jay Wolfe,146
+Tyler,10,U.S. Senate,,REP,Matthew Jay Wolfe,131
+Tyler,11,U.S. Senate,,REP,Matthew Jay Wolfe,160
+Tyler,12,U.S. Senate,,REP,Matthew Jay Wolfe,39
+Tyler,2,U.S. Senate,,REP,Matthew Jay Wolfe,150
+Tyler,3,U.S. Senate,,REP,Matthew Jay Wolfe,150
+Tyler,4,U.S. Senate,,REP,Matthew Jay Wolfe,203
+Tyler,5,U.S. Senate,,REP,Matthew Jay Wolfe,212
+Tyler,6,U.S. Senate,,REP,Matthew Jay Wolfe,147
+Tyler,7,U.S. Senate,,REP,Matthew Jay Wolfe,67
+Tyler,8,U.S. Senate,,REP,Matthew Jay Wolfe,162
+Tyler,9,U.S. Senate,,REP,Matthew Jay Wolfe,77

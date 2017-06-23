@@ -1,0 +1,265 @@
+county,precinct,office,district,party,candidate,votes
+Pleasants,Total,Attorney General,,REP,Daniel W.Greear,1478
+Pleasants,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",1356
+Pleasants,1,Attorney General,,REP,Daniel W.Greear,143
+Pleasants,10,Attorney General,,REP,Daniel W.Greear,231
+Pleasants,11,Attorney General,,REP,Daniel W.Greear,98
+Pleasants,2,Attorney General,,REP,Daniel W.Greear,182
+Pleasants,3,Attorney General,,REP,Daniel W.Greear,51
+Pleasants,4,Attorney General,,REP,Daniel W.Greear,74
+Pleasants,5,Attorney General,,REP,Daniel W.Greear,137
+Pleasants,6,Attorney General,,REP,Daniel W.Greear,268
+Pleasants,7,Attorney General,,REP,Daniel W.Greear,65
+Pleasants,8,Attorney General,,REP,Daniel W.Greear,67
+Pleasants,9,Attorney General,,REP,Daniel W.Greear,162
+Pleasants,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",139
+Pleasants,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",194
+Pleasants,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",112
+Pleasants,2,Attorney General,,DEM,"Darrell V. McGraw, Jr.",183
+Pleasants,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",95
+Pleasants,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",67
+Pleasants,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",102
+Pleasants,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",185
+Pleasants,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",77
+Pleasants,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",62
+Pleasants,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",140
+Pleasants,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,1502
+Pleasants,Total,Commissioner of Agriculture,,REP,James Michael Teets,1343
+Pleasants,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,161
+Pleasants,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,218
+Pleasants,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,132
+Pleasants,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,207
+Pleasants,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,84
+Pleasants,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,77
+Pleasants,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,109
+Pleasants,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,229
+Pleasants,7,Commissioner of Agriculture,,DEM,Gus R. Douglass,73
+Pleasants,8,Commissioner of Agriculture,,DEM,Gus R. Douglass,62
+Pleasants,9,Commissioner of Agriculture,,DEM,Gus R. Douglass,150
+Pleasants,1,Commissioner of Agriculture,,REP,James Michael Teets,130
+Pleasants,10,Commissioner of Agriculture,,REP,James Michael Teets,208
+Pleasants,11,Commissioner of Agriculture,,REP,James Michael Teets,75
+Pleasants,2,Commissioner of Agriculture,,REP,James Michael Teets,156
+Pleasants,3,Commissioner of Agriculture,,REP,James Michael Teets,63
+Pleasants,4,Commissioner of Agriculture,,REP,James Michael Teets,67
+Pleasants,5,Commissioner of Agriculture,,REP,James Michael Teets,129
+Pleasants,6,Commissioner of Agriculture,,REP,James Michael Teets,234
+Pleasants,7,Commissioner of Agriculture,,REP,James Michael Teets,64
+Pleasants,8,Commissioner of Agriculture,,REP,James Michael Teets,66
+Pleasants,9,Commissioner of Agriculture,,REP,James Michael Teets,151
+Pleasants,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",88
+Pleasants,Total,Governor,,DEM,"Joe Manchin, III",2235
+Pleasants,Total,Governor,,REP,Russell E. Weeks Jr,658
+Pleasants,1,Governor,,MTN,"Jesse C. Johnson, Jr.",13
+Pleasants,10,Governor,,MTN,"Jesse C. Johnson, Jr.",13
+Pleasants,11,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Pleasants,2,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Pleasants,3,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Pleasants,4,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Pleasants,5,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Pleasants,6,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Pleasants,7,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Pleasants,8,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Pleasants,9,Governor,,MTN,"Jesse C. Johnson, Jr.",11
+Pleasants,1,Governor,,DEM,"Joe Manchin, III",224
+Pleasants,10,Governor,,DEM,"Joe Manchin, III",328
+Pleasants,11,Governor,,DEM,"Joe Manchin, III",179
+Pleasants,2,Governor,,DEM,"Joe Manchin, III",322
+Pleasants,3,Governor,,DEM,"Joe Manchin, III",119
+Pleasants,4,Governor,,DEM,"Joe Manchin, III",101
+Pleasants,5,Governor,,DEM,"Joe Manchin, III",171
+Pleasants,6,Governor,,DEM,"Joe Manchin, III",354
+Pleasants,7,Governor,,DEM,"Joe Manchin, III",104
+Pleasants,8,Governor,,DEM,"Joe Manchin, III",99
+Pleasants,9,Governor,,DEM,"Joe Manchin, III",234
+Pleasants,1,Governor,,REP,Russell E. Weeks Jr,63
+Pleasants,10,Governor,,REP,Russell E. Weeks Jr,109
+Pleasants,11,Governor,,REP,Russell E. Weeks Jr,31
+Pleasants,2,Governor,,REP,Russell E. Weeks Jr,61
+Pleasants,3,Governor,,REP,Russell E. Weeks Jr,34
+Pleasants,4,Governor,,REP,Russell E. Weeks Jr,36
+Pleasants,5,Governor,,REP,Russell E. Weeks Jr,71
+Pleasants,6,Governor,,REP,Russell E. Weeks Jr,115
+Pleasants,7,Governor,,REP,Russell E. Weeks Jr,36
+Pleasants,8,Governor,,REP,Russell E. Weeks Jr,26
+Pleasants,9,Governor,,REP,Russell E. Weeks Jr,76
+Pleasants,Total,President,,DEM,Barack Hussein Obama,1142
+Pleasants,Total,President,,CON,Charles Obadiah Baldwin,12
+Pleasants,Total,President,,MTN,Cynthia Ann McKinney,16
+Pleasants,Total,President,,REP,John Sidney McCain III,1772
+Pleasants,Total,President,,,Ralph Nader,32
+Pleasants,1,President,,DEM,Barack Hussein Obama,112
+Pleasants,10,President,,DEM,Barack Hussein Obama,168
+Pleasants,11,President,,DEM,Barack Hussein Obama,120
+Pleasants,2,President,,DEM,Barack Hussein Obama,155
+Pleasants,3,President,,DEM,Barack Hussein Obama,64
+Pleasants,4,President,,DEM,Barack Hussein Obama,48
+Pleasants,5,President,,DEM,Barack Hussein Obama,81
+Pleasants,6,President,,DEM,Barack Hussein Obama,160
+Pleasants,7,President,,DEM,Barack Hussein Obama,51
+Pleasants,8,President,,DEM,Barack Hussein Obama,53
+Pleasants,9,President,,DEM,Barack Hussein Obama,130
+Pleasants,1,President,,CON,Charles Obadiah Baldwin,2
+Pleasants,10,President,,CON,Charles Obadiah Baldwin,3
+Pleasants,11,President,,CON,Charles Obadiah Baldwin,0
+Pleasants,2,President,,CON,Charles Obadiah Baldwin,0
+Pleasants,3,President,,CON,Charles Obadiah Baldwin,0
+Pleasants,4,President,,CON,Charles Obadiah Baldwin,1
+Pleasants,5,President,,CON,Charles Obadiah Baldwin,4
+Pleasants,6,President,,CON,Charles Obadiah Baldwin,2
+Pleasants,7,President,,CON,Charles Obadiah Baldwin,0
+Pleasants,8,President,,CON,Charles Obadiah Baldwin,0
+Pleasants,9,President,,CON,Charles Obadiah Baldwin,0
+Pleasants,1,President,,MTN,Cynthia Ann McKinney,1
+Pleasants,10,President,,MTN,Cynthia Ann McKinney,3
+Pleasants,11,President,,MTN,Cynthia Ann McKinney,2
+Pleasants,2,President,,MTN,Cynthia Ann McKinney,1
+Pleasants,3,President,,MTN,Cynthia Ann McKinney,2
+Pleasants,4,President,,MTN,Cynthia Ann McKinney,0
+Pleasants,5,President,,MTN,Cynthia Ann McKinney,3
+Pleasants,6,President,,MTN,Cynthia Ann McKinney,0
+Pleasants,7,President,,MTN,Cynthia Ann McKinney,1
+Pleasants,8,President,,MTN,Cynthia Ann McKinney,0
+Pleasants,9,President,,MTN,Cynthia Ann McKinney,3
+Pleasants,1,President,,REP,John Sidney McCain III,184
+Pleasants,10,President,,REP,John Sidney McCain III,264
+Pleasants,11,President,,REP,John Sidney McCain III,89
+Pleasants,2,President,,REP,John Sidney McCain III,221
+Pleasants,3,President,,REP,John Sidney McCain III,87
+Pleasants,4,President,,REP,John Sidney McCain III,92
+Pleasants,5,President,,REP,John Sidney McCain III,164
+Pleasants,6,President,,REP,John Sidney McCain III,319
+Pleasants,7,President,,REP,John Sidney McCain III,90
+Pleasants,8,President,,REP,John Sidney McCain III,75
+Pleasants,9,President,,REP,John Sidney McCain III,187
+Pleasants,1,President,,,Ralph Nader,2
+Pleasants,10,President,,,Ralph Nader,3
+Pleasants,11,President,,,Ralph Nader,1
+Pleasants,2,President,,,Ralph Nader,5
+Pleasants,3,President,,,Ralph Nader,6
+Pleasants,4,President,,,Ralph Nader,5
+Pleasants,5,President,,,Ralph Nader,1
+Pleasants,6,President,,,Ralph Nader,2
+Pleasants,7,President,,,Ralph Nader,2
+Pleasants,8,President,,,Ralph Nader,2
+Pleasants,9,President,,,Ralph Nader,3
+Pleasants,Total,Secretary of State,,REP,Charles Theophilus Minimah,975
+Pleasants,Total,Secretary of State,,DEM,Natalie Tennant,1839
+Pleasants,1,Secretary of State,,REP,Charles Theophilus Minimah,109
+Pleasants,10,Secretary of State,,REP,Charles Theophilus Minimah,141
+Pleasants,11,Secretary of State,,REP,Charles Theophilus Minimah,53
+Pleasants,2,Secretary of State,,REP,Charles Theophilus Minimah,103
+Pleasants,3,Secretary of State,,REP,Charles Theophilus Minimah,46
+Pleasants,4,Secretary of State,,REP,Charles Theophilus Minimah,59
+Pleasants,5,Secretary of State,,REP,Charles Theophilus Minimah,102
+Pleasants,6,Secretary of State,,REP,Charles Theophilus Minimah,165
+Pleasants,7,Secretary of State,,REP,Charles Theophilus Minimah,54
+Pleasants,8,Secretary of State,,REP,Charles Theophilus Minimah,42
+Pleasants,9,Secretary of State,,REP,Charles Theophilus Minimah,101
+Pleasants,1,Secretary of State,,DEM,Natalie Tennant,179
+Pleasants,10,Secretary of State,,DEM,Natalie Tennant,282
+Pleasants,11,Secretary of State,,DEM,Natalie Tennant,153
+Pleasants,2,Secretary of State,,DEM,Natalie Tennant,260
+Pleasants,3,Secretary of State,,DEM,Natalie Tennant,104
+Pleasants,4,Secretary of State,,DEM,Natalie Tennant,78
+Pleasants,5,Secretary of State,,DEM,Natalie Tennant,128
+Pleasants,6,Secretary of State,,DEM,Natalie Tennant,290
+Pleasants,7,Secretary of State,,DEM,Natalie Tennant,83
+Pleasants,8,Secretary of State,,DEM,Natalie Tennant,78
+Pleasants,9,Secretary of State,,DEM,Natalie Tennant,204
+Pleasants,Total,State Auditor,,DEM,Glen B. Gainer III,2441
+Pleasants,1,State Auditor,,DEM,Glen B. Gainer III,254
+Pleasants,10,State Auditor,,DEM,Glen B. Gainer III,361
+Pleasants,11,State Auditor,,DEM,Glen B. Gainer III,195
+Pleasants,2,State Auditor,,DEM,Glen B. Gainer III,317
+Pleasants,3,State Auditor,,DEM,Glen B. Gainer III,118
+Pleasants,4,State Auditor,,DEM,Glen B. Gainer III,127
+Pleasants,5,State Auditor,,DEM,Glen B. Gainer III,201
+Pleasants,6,State Auditor,,DEM,Glen B. Gainer III,384
+Pleasants,7,State Auditor,,DEM,Glen B. Gainer III,118
+Pleasants,8,State Auditor,,DEM,Glen B. Gainer III,101
+Pleasants,9,State Auditor,,DEM,Glen B. Gainer III,265
+Pleasants,Total,State House,,REP,"Lynwood ""Woody"" Ireland",1297
+Pleasants,Total,State House,,DEM,Ronald Keith Nichols,1620
+Pleasants,1,State House,,REP,"Lynwood ""Woody"" Ireland",129
+Pleasants,10,State House,,REP,"Lynwood ""Woody"" Ireland",200
+Pleasants,11,State House,,REP,"Lynwood ""Woody"" Ireland",62
+Pleasants,2,State House,,REP,"Lynwood ""Woody"" Ireland",157
+Pleasants,3,State House,,REP,"Lynwood ""Woody"" Ireland",58
+Pleasants,4,State House,,REP,"Lynwood ""Woody"" Ireland",72
+Pleasants,5,State House,,REP,"Lynwood ""Woody"" Ireland",109
+Pleasants,6,State House,,REP,"Lynwood ""Woody"" Ireland",243
+Pleasants,7,State House,,REP,"Lynwood ""Woody"" Ireland",75
+Pleasants,8,State House,,REP,"Lynwood ""Woody"" Ireland",56
+Pleasants,9,State House,,REP,"Lynwood ""Woody"" Ireland",136
+Pleasants,1,State House,,DEM,Ronald Keith Nichols,161
+Pleasants,10,State House,,DEM,Ronald Keith Nichols,243
+Pleasants,11,State House,,DEM,Ronald Keith Nichols,148
+Pleasants,2,State House,,DEM,Ronald Keith Nichols,211
+Pleasants,3,State House,,DEM,Ronald Keith Nichols,99
+Pleasants,4,State House,,DEM,Ronald Keith Nichols,71
+Pleasants,5,State House,,DEM,Ronald Keith Nichols,134
+Pleasants,6,State House,,DEM,Ronald Keith Nichols,234
+Pleasants,7,State House,,DEM,Ronald Keith Nichols,67
+Pleasants,8,State House,,DEM,Ronald Keith Nichols,72
+Pleasants,9,State House,,DEM,Ronald Keith Nichols,180
+Pleasants,Total,State Senate,,REP,Donna J. Boley,2397
+Pleasants,1,State Senate,,REP,Donna J. Boley,249
+Pleasants,10,State Senate,,REP,Donna J. Boley,361
+Pleasants,11,State Senate,,REP,Donna J. Boley,158
+Pleasants,2,State Senate,,REP,Donna J. Boley,310
+Pleasants,3,State Senate,,REP,Donna J. Boley,121
+Pleasants,4,State Senate,,REP,Donna J. Boley,125
+Pleasants,5,State Senate,,REP,Donna J. Boley,201
+Pleasants,6,State Senate,,REP,Donna J. Boley,406
+Pleasants,7,State Senate,,REP,Donna J. Boley,118
+Pleasants,8,State Senate,,REP,Donna J. Boley,101
+Pleasants,9,State Senate,,REP,Donna J. Boley,247
+Pleasants,Total,State Treasurer,,DEM,John D. Perdue,2307
+Pleasants,1,State Treasurer,,DEM,John D. Perdue,239
+Pleasants,10,State Treasurer,,DEM,John D. Perdue,344
+Pleasants,11,State Treasurer,,DEM,John D. Perdue,177
+Pleasants,2,State Treasurer,,DEM,John D. Perdue,305
+Pleasants,3,State Treasurer,,DEM,John D. Perdue,115
+Pleasants,4,State Treasurer,,DEM,John D. Perdue,122
+Pleasants,5,State Treasurer,,DEM,John D. Perdue,186
+Pleasants,6,State Treasurer,,DEM,John D. Perdue,360
+Pleasants,7,State Treasurer,,DEM,John D. Perdue,109
+Pleasants,8,State Treasurer,,DEM,John D. Perdue,101
+Pleasants,9,State Treasurer,,DEM,John D. Perdue,249
+Pleasants,Total,U.S. House,1,DEM,Alan Bowlby Mollohan,2372
+Pleasants,1,U.S. House,1,DEM,Alan Bowlby Mollohan,236
+Pleasants,10,U.S. House,1,DEM,Alan Bowlby Mollohan,340
+Pleasants,11,U.S. House,1,DEM,Alan Bowlby Mollohan,186
+Pleasants,2,U.S. House,1,DEM,Alan Bowlby Mollohan,305
+Pleasants,3,U.S. House,1,DEM,Alan Bowlby Mollohan,121
+Pleasants,4,U.S. House,1,DEM,Alan Bowlby Mollohan,130
+Pleasants,5,U.S. House,1,DEM,Alan Bowlby Mollohan,205
+Pleasants,6,U.S. House,1,DEM,Alan Bowlby Mollohan,374
+Pleasants,7,U.S. House,1,DEM,Alan Bowlby Mollohan,118
+Pleasants,8,U.S. House,1,DEM,Alan Bowlby Mollohan,101
+Pleasants,9,U.S. House,1,DEM,Alan Bowlby Mollohan,256
+Pleasants,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,1787
+Pleasants,Total,U.S. Senate,,REP,Matthew Jay Wolfe,1188
+Pleasants,1,U.S. Senate,,DEM,John Davison Rockefeller IV,177
+Pleasants,10,U.S. Senate,,DEM,John Davison Rockefeller IV,262
+Pleasants,11,U.S. Senate,,DEM,John Davison Rockefeller IV,154
+Pleasants,2,U.S. Senate,,DEM,John Davison Rockefeller IV,251
+Pleasants,3,U.S. Senate,,DEM,John Davison Rockefeller IV,91
+Pleasants,4,U.S. Senate,,DEM,John Davison Rockefeller IV,77
+Pleasants,5,U.S. Senate,,DEM,John Davison Rockefeller IV,144
+Pleasants,6,U.S. Senate,,DEM,John Davison Rockefeller IV,270
+Pleasants,7,U.S. Senate,,DEM,John Davison Rockefeller IV,77
+Pleasants,8,U.S. Senate,,DEM,John Davison Rockefeller IV,76
+Pleasants,9,U.S. Senate,,DEM,John Davison Rockefeller IV,208
+Pleasants,1,U.S. Senate,,REP,Matthew Jay Wolfe,122
+Pleasants,10,U.S. Senate,,REP,Matthew Jay Wolfe,180
+Pleasants,11,U.S. Senate,,REP,Matthew Jay Wolfe,61
+Pleasants,2,U.S. Senate,,REP,Matthew Jay Wolfe,134
+Pleasants,3,U.S. Senate,,REP,Matthew Jay Wolfe,67
+Pleasants,4,U.S. Senate,,REP,Matthew Jay Wolfe,67
+Pleasants,5,U.S. Senate,,REP,Matthew Jay Wolfe,104
+Pleasants,6,U.S. Senate,,REP,Matthew Jay Wolfe,216
+Pleasants,7,U.S. Senate,,REP,Matthew Jay Wolfe,65
+Pleasants,8,U.S. Senate,,REP,Matthew Jay Wolfe,57
+Pleasants,9,U.S. Senate,,REP,Matthew Jay Wolfe,115
