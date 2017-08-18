@@ -1,0 +1,1018 @@
+county,precinct,office,district,candidate,party,votes
+Nicholas,1A,President,,Donald J. Trump,REP,238
+Nicholas,1B,President,,Donald J. Trump,REP,196
+Nicholas,2,President,,Donald J. Trump,REP,310
+Nicholas,3,President,,Donald J. Trump,REP,178
+Nicholas,5,President,,Donald J. Trump,REP,219
+Nicholas,7,President,,Donald J. Trump,REP,174
+Nicholas,8,President,,Donald J. Trump,REP,113
+Nicholas,9,President,,Donald J. Trump,REP,88
+Nicholas,13,President,,Donald J. Trump,REP,174
+Nicholas,14,President,,Donald J. Trump,REP,292
+Nicholas,15,President,,Donald J. Trump,REP,367
+Nicholas,16,President,,Donald J. Trump,REP,398
+Nicholas,17,President,,Donald J. Trump,REP,93
+Nicholas,18,President,,Donald J. Trump,REP,443
+Nicholas,19,President,,Donald J. Trump,REP,308
+Nicholas,20,President,,Donald J. Trump,REP,331
+Nicholas,21A,President,,Donald J. Trump,REP,340
+Nicholas,21B,President,,Donald J. Trump,REP,204
+Nicholas,23,President,,Donald J. Trump,REP,51
+Nicholas,25,President,,Donald J. Trump,REP,159
+Nicholas,27,President,,Donald J. Trump,REP,119
+Nicholas,28,President,,Donald J. Trump,REP,380
+Nicholas,29,President,,Donald J. Trump,REP,552
+Nicholas,30,President,,Donald J. Trump,REP,240
+Nicholas,31,President,,Donald J. Trump,REP,118
+Nicholas,32,President,,Donald J. Trump,REP,193
+Nicholas,33,President,,Donald J. Trump,REP,524
+Nicholas,35,President,,Donald J. Trump,REP,449
+Nicholas,,President,,Donald J. Trump,REP,7251
+Nicholas,1A,President,,Hillary Clinton,DEM,70
+Nicholas,1B,President,,Hillary Clinton,DEM,38
+Nicholas,2,President,,Hillary Clinton,DEM,70
+Nicholas,3,President,,Hillary Clinton,DEM,39
+Nicholas,5,President,,Hillary Clinton,DEM,97
+Nicholas,7,President,,Hillary Clinton,DEM,69
+Nicholas,8,President,,Hillary Clinton,DEM,63
+Nicholas,9,President,,Hillary Clinton,DEM,34
+Nicholas,13,President,,Hillary Clinton,DEM,34
+Nicholas,14,President,,Hillary Clinton,DEM,93
+Nicholas,15,President,,Hillary Clinton,DEM,81
+Nicholas,16,President,,Hillary Clinton,DEM,81
+Nicholas,17,President,,Hillary Clinton,DEM,13
+Nicholas,18,President,,Hillary Clinton,DEM,140
+Nicholas,19,President,,Hillary Clinton,DEM,71
+Nicholas,20,President,,Hillary Clinton,DEM,109
+Nicholas,21A,President,,Hillary Clinton,DEM,77
+Nicholas,21B,President,,Hillary Clinton,DEM,66
+Nicholas,23,President,,Hillary Clinton,DEM,17
+Nicholas,25,President,,Hillary Clinton,DEM,48
+Nicholas,27,President,,Hillary Clinton,DEM,26
+Nicholas,28,President,,Hillary Clinton,DEM,70
+Nicholas,29,President,,Hillary Clinton,DEM,117
+Nicholas,30,President,,Hillary Clinton,DEM,68
+Nicholas,31,President,,Hillary Clinton,DEM,30
+Nicholas,32,President,,Hillary Clinton,DEM,44
+Nicholas,33,President,,Hillary Clinton,DEM,85
+Nicholas,35,President,,Hillary Clinton,DEM,90
+Nicholas,,President,,Hillary Clinton,DEM,1840
+Nicholas,1A,President,,Gary Johnson,LIB,12
+Nicholas,1B,President,,Gary Johnson,LIB,6
+Nicholas,2,President,,Gary Johnson,LIB,10
+Nicholas,3,President,,Gary Johnson,LIB,4
+Nicholas,5,President,,Gary Johnson,LIB,9
+Nicholas,7,President,,Gary Johnson,LIB,4
+Nicholas,8,President,,Gary Johnson,LIB,6
+Nicholas,9,President,,Gary Johnson,LIB,9
+Nicholas,13,President,,Gary Johnson,LIB,7
+Nicholas,14,President,,Gary Johnson,LIB,6
+Nicholas,15,President,,Gary Johnson,LIB,20
+Nicholas,16,President,,Gary Johnson,LIB,12
+Nicholas,17,President,,Gary Johnson,LIB,3
+Nicholas,18,President,,Gary Johnson,LIB,20
+Nicholas,19,President,,Gary Johnson,LIB,15
+Nicholas,20,President,,Gary Johnson,LIB,16
+Nicholas,21A,President,,Gary Johnson,LIB,17
+Nicholas,21B,President,,Gary Johnson,LIB,13
+Nicholas,23,President,,Gary Johnson,LIB,1
+Nicholas,25,President,,Gary Johnson,LIB,3
+Nicholas,27,President,,Gary Johnson,LIB,6
+Nicholas,28,President,,Gary Johnson,LIB,11
+Nicholas,29,President,,Gary Johnson,LIB,13
+Nicholas,30,President,,Gary Johnson,LIB,9
+Nicholas,31,President,,Gary Johnson,LIB,3
+Nicholas,32,President,,Gary Johnson,LIB,15
+Nicholas,33,President,,Gary Johnson,LIB,13
+Nicholas,35,President,,Gary Johnson,LIB,20
+Nicholas,,President,,Gary Johnson,LIB,283
+Nicholas,1A,President,,Jill Stein,MTN,2
+Nicholas,1B,President,,Jill Stein,MTN,0
+Nicholas,2,President,,Jill Stein,MTN,1
+Nicholas,3,President,,Jill Stein,MTN,1
+Nicholas,5,President,,Jill Stein,MTN,6
+Nicholas,7,President,,Jill Stein,MTN,2
+Nicholas,8,President,,Jill Stein,MTN,5
+Nicholas,9,President,,Jill Stein,MTN,3
+Nicholas,13,President,,Jill Stein,MTN,1
+Nicholas,14,President,,Jill Stein,MTN,5
+Nicholas,15,President,,Jill Stein,MTN,6
+Nicholas,16,President,,Jill Stein,MTN,4
+Nicholas,17,President,,Jill Stein,MTN,3
+Nicholas,18,President,,Jill Stein,MTN,3
+Nicholas,19,President,,Jill Stein,MTN,3
+Nicholas,20,President,,Jill Stein,MTN,2
+Nicholas,21A,President,,Jill Stein,MTN,7
+Nicholas,21B,President,,Jill Stein,MTN,3
+Nicholas,23,President,,Jill Stein,MTN,0
+Nicholas,25,President,,Jill Stein,MTN,1
+Nicholas,27,President,,Darrell L. Castle,CST,1
+Nicholas,28,President,,Darrell L. Castle,CST,5
+Nicholas,29,President,,Darrell L. Castle,CST,8
+Nicholas,30,President,,Darrell L. Castle,CST,2
+Nicholas,31,President,,Darrell L. Castle,CST,0
+Nicholas,32,President,,Darrell L. Castle,CST,1
+Nicholas,33,President,,Darrell L. Castle,CST,3
+Nicholas,35,President,,Darrell L. Castle,CST,5
+Nicholas,,President,,Darrell L. Castle,CST,83
+Nicholas,1A,President,,Darrell L. Castle,CST,0
+Nicholas,1B,President,,Darrell L. Castle,CST,0
+Nicholas,2,President,,Darrell L. Castle,CST,0
+Nicholas,3,President,,Darrell L. Castle,CST,2
+Nicholas,5,President,,Darrell L. Castle,CST,1
+Nicholas,7,President,,Darrell L. Castle,CST,2
+Nicholas,8,President,,Darrell L. Castle,CST,0
+Nicholas,9,President,,Darrell L. Castle,CST,1
+Nicholas,13,President,,Darrell L. Castle,CST,1
+Nicholas,14,President,,Darrell L. Castle,CST,3
+Nicholas,15,President,,Darrell L. Castle,CST,3
+Nicholas,16,President,,Darrell L. Castle,CST,1
+Nicholas,17,President,,Darrell L. Castle,CST,0
+Nicholas,18,President,,Darrell L. Castle,CST,1
+Nicholas,19,President,,Darrell L. Castle,CST,0
+Nicholas,20,President,,Darrell L. Castle,CST,0
+Nicholas,21A,President,,Darrell L. Castle,CST,2
+Nicholas,21B,President,,Darrell L. Castle,CST,1
+Nicholas,23,President,,Darrell L. Castle,CST,2
+Nicholas,25,President,,Darrell L. Castle,CST,1
+Nicholas,27,President,,Darrell L. Castle,CST,0
+Nicholas,28,President,,Darrell L. Castle,CST,4
+Nicholas,29,President,,Darrell L. Castle,CST,3
+Nicholas,30,President,,Darrell L. Castle,CST,0
+Nicholas,31,President,,Darrell L. Castle,CST,0
+Nicholas,32,President,,Darrell L. Castle,CST,1
+Nicholas,33,President,,Darrell L. Castle,CST,2
+Nicholas,35,President,,Darrell L. Castle,CST,3
+Nicholas,,President,,Darrell L. Castle,CST,34
+Nicholas,1A,U.S House,3,Evan Jenkins,REP,212
+Nicholas,1B,U.S House,3,Evan Jenkins,REP,174
+Nicholas,2,U.S House,3,Evan Jenkins,REP,286
+Nicholas,3,U.S House,3,Evan Jenkins,REP,159
+Nicholas,5,U.S House,3,Evan Jenkins,REP,200
+Nicholas,7,U.S House,3,Evan Jenkins,REP,151
+Nicholas,8,U.S House,3,Evan Jenkins,REP,106
+Nicholas,9,U.S House,3,Evan Jenkins,REP,86
+Nicholas,13,U.S House,3,Evan Jenkins,REP,140
+Nicholas,14,U.S House,3,Evan Jenkins,REP,245
+Nicholas,15,U.S House,3,Evan Jenkins,REP,338
+Nicholas,16,U.S House,3,Evan Jenkins,REP,333
+Nicholas,17,U.S House,3,Evan Jenkins,REP,87
+Nicholas,18,U.S House,3,Evan Jenkins,REP,424
+Nicholas,19,U.S House,3,Evan Jenkins,REP,283
+Nicholas,20,U.S House,3,Evan Jenkins,REP,324
+Nicholas,21A,U.S House,3,Evan Jenkins,REP,323
+Nicholas,21B,U.S House,3,Evan Jenkins,REP,196
+Nicholas,23,U.S House,3,Evan Jenkins,REP,55
+Nicholas,25,U.S House,3,Evan Jenkins,REP,132
+Nicholas,27,U.S House,3,Evan Jenkins,REP,106
+Nicholas,28,U.S House,3,Evan Jenkins,REP,315
+Nicholas,29,U.S House,3,Evan Jenkins,REP,473
+Nicholas,30,U.S House,3,Evan Jenkins,REP,185
+Nicholas,31,U.S House,3,Evan Jenkins,REP,113
+Nicholas,32,U.S House,3,Evan Jenkins,REP,166
+Nicholas,33,U.S House,3,Evan Jenkins,REP,445
+Nicholas,35,U.S House,3,Evan Jenkins,REP,395
+Nicholas,,U.S House,3,Evan Jenkins,REP,6452
+Nicholas,1A,U.S House,3,Matt Detch,DEM,87
+Nicholas,1B,U.S House,3,Matt Detch,DEM,49
+Nicholas,2,U.S House,3,Matt Detch,DEM,76
+Nicholas,3,U.S House,3,Matt Detch,DEM,55
+Nicholas,5,U.S House,3,Matt Detch,DEM,116
+Nicholas,7,U.S House,3,Matt Detch,DEM,92
+Nicholas,8,U.S House,3,Matt Detch,DEM,77
+Nicholas,9,U.S House,3,Matt Detch,DEM,48
+Nicholas,13,U.S House,3,Matt Detch,DEM,55
+Nicholas,14,U.S House,3,Matt Detch,DEM,102
+Nicholas,15,U.S House,3,Matt Detch,DEM,115
+Nicholas,16,U.S House,3,Matt Detch,DEM,131
+Nicholas,17,U.S House,3,Matt Detch,DEM,19
+Nicholas,18,U.S House,3,Matt Detch,DEM,153
+Nicholas,19,U.S House,3,Matt Detch,DEM,95
+Nicholas,20,U.S House,3,Matt Detch,DEM,117
+Nicholas,21A,U.S House,3,Matt Detch,DEM,86
+Nicholas,21B,U.S House,3,Matt Detch,DEM,74
+Nicholas,23,U.S House,3,Matt Detch,DEM,13
+Nicholas,25,U.S House,3,Matt Detch,DEM,59
+Nicholas,27,U.S House,3,Matt Detch,DEM,33
+Nicholas,28,U.S House,3,Matt Detch,DEM,113
+Nicholas,29,U.S House,3,Matt Detch,DEM,171
+Nicholas,30,U.S House,3,Matt Detch,DEM,121
+Nicholas,31,U.S House,3,Matt Detch,DEM,27
+Nicholas,32,U.S House,3,Matt Detch,DEM,73
+Nicholas,33,U.S House,3,Matt Detch,DEM,127
+Nicholas,35,U.S House,3,Matt Detch,DEM,143
+Nicholas,,U.S House,3,Matt Detch,DEM,2427
+Nicholas,1A,U.S House,3,Zane Lawhorn,LIB,9
+Nicholas,1B,U.S House,3,Zane Lawhorn,LIB,5
+Nicholas,2,U.S House,3,Zane Lawhorn,LIB,14
+Nicholas,3,U.S House,3,Zane Lawhorn,LIB,5
+Nicholas,5,U.S House,3,Zane Lawhorn,LIB,6
+Nicholas,7,U.S House,3,Zane Lawhorn,LIB,6
+Nicholas,8,U.S House,3,Zane Lawhorn,LIB,2
+Nicholas,9,U.S House,3,Zane Lawhorn,LIB,1
+Nicholas,13,U.S House,3,Zane Lawhorn,LIB,7
+Nicholas,14,U.S House,3,Zane Lawhorn,LIB,17
+Nicholas,15,U.S House,3,Zane Lawhorn,LIB,10
+Nicholas,16,U.S House,3,Zane Lawhorn,LIB,17
+Nicholas,17,U.S House,3,Zane Lawhorn,LIB,2
+Nicholas,18,U.S House,3,Zane Lawhorn,LIB,10
+Nicholas,19,U.S House,3,Zane Lawhorn,LIB,11
+Nicholas,20,U.S House,3,Zane Lawhorn,LIB,6
+Nicholas,21A,U.S House,3,Zane Lawhorn,LIB,18
+Nicholas,21B,U.S House,3,Zane Lawhorn,LIB,10
+Nicholas,23,U.S House,3,Zane Lawhorn,LIB,2
+Nicholas,25,U.S House,3,Zane Lawhorn,LIB,11
+Nicholas,27,U.S House,3,Zane Lawhorn,LIB,5
+Nicholas,28,U.S House,3,Zane Lawhorn,LIB,7
+Nicholas,29,U.S House,3,Zane Lawhorn,LIB,13
+Nicholas,30,U.S House,3,Zane Lawhorn,LIB,1
+Nicholas,31,U.S House,3,Zane Lawhorn,LIB,6
+Nicholas,32,U.S House,3,Zane Lawhorn,LIB,7
+Nicholas,33,U.S House,3,Zane Lawhorn,LIB,23
+Nicholas,35,U.S House,3,Zane Lawhorn,LIB,10
+Nicholas,,U.S House,3,Zane Lawhorn,LIB,241
+Nicholas,1A,Governor,,Bill Cole,REP,99
+Nicholas,1B,Governor,,Bill Cole,REP,85
+Nicholas,2,Governor,,Bill Cole,REP,159
+Nicholas,3,Governor,,Bill Cole,REP,61
+Nicholas,5,Governor,,Bill Cole,REP,63
+Nicholas,7,Governor,,Bill Cole,REP,64
+Nicholas,8,Governor,,Bill Cole,REP,32
+Nicholas,9,Governor,,Bill Cole,REP,21
+Nicholas,13,Governor,,Bill Cole,REP,94
+Nicholas,14,Governor,,Bill Cole,REP,134
+Nicholas,15,Governor,,Bill Cole,REP,192
+Nicholas,16,Governor,,Bill Cole,REP,179
+Nicholas,17,Governor,,Bill Cole,REP,40
+Nicholas,18,Governor,,Bill Cole,REP,224
+Nicholas,19,Governor,,Bill Cole,REP,153
+Nicholas,20,Governor,,Bill Cole,REP,186
+Nicholas,21A,Governor,,Bill Cole,REP,162
+Nicholas,21B,Governor,,Bill Cole,REP,122
+Nicholas,23,Governor,,Bill Cole,REP,27
+Nicholas,25,Governor,,Bill Cole,REP,53
+Nicholas,27,Governor,,Bill Cole,REP,56
+Nicholas,28,Governor,,Bill Cole,REP,143
+Nicholas,29,Governor,,Bill Cole,REP,284
+Nicholas,30,Governor,,Bill Cole,REP,77
+Nicholas,31,Governor,,Bill Cole,REP,60
+Nicholas,32,Governor,,Bill Cole,REP,94
+Nicholas,33,Governor,,Bill Cole,REP,274
+Nicholas,35,Governor,,Bill Cole,REP,220
+Nicholas,,Governor,,Bill Cole,REP,3358
+Nicholas,1A,Governor,,Jim Justice,DEM,210
+Nicholas,1B,Governor,,Jim Justice,DEM,149
+Nicholas,2,Governor,,Jim Justice,DEM,213
+Nicholas,3,Governor,,Jim Justice,DEM,159
+Nicholas,5,Governor,,Jim Justice,DEM,263
+Nicholas,7,Governor,,Jim Justice,DEM,175
+Nicholas,8,Governor,,Jim Justice,DEM,154
+Nicholas,9,Governor,,Jim Justice,DEM,107
+Nicholas,13,Governor,,Jim Justice,DEM,112
+Nicholas,14,Governor,,Jim Justice,DEM,237
+Nicholas,15,Governor,,Jim Justice,DEM,269
+Nicholas,16,Governor,,Jim Justice,DEM,295
+Nicholas,17,Governor,,Jim Justice,DEM,62
+Nicholas,18,Governor,,Jim Justice,DEM,377
+Nicholas,19,Governor,,Jim Justice,DEM,231
+Nicholas,20,Governor,,Jim Justice,DEM,271
+Nicholas,21A,Governor,,Jim Justice,DEM,263
+Nicholas,21B,Governor,,Jim Justice,DEM,152
+Nicholas,23,Governor,,Jim Justice,DEM,40
+Nicholas,25,Governor,,Jim Justice,DEM,145
+Nicholas,27,Governor,,Jim Justice,DEM,85
+Nicholas,28,Governor,,Jim Justice,DEM,318
+Nicholas,29,Governor,,Jim Justice,DEM,385
+Nicholas,30,Governor,,Jim Justice,DEM,232
+Nicholas,31,Governor,,Jim Justice,DEM,82
+Nicholas,32,Governor,,Jim Justice,DEM,157
+Nicholas,33,Governor,,Jim Justice,DEM,321
+Nicholas,35,Governor,,Jim Justice,DEM,316
+Nicholas,,Governor,,Jim Justice,DEM,5780
+Nicholas,1A,Governor,,David Moran,LIB,5
+Nicholas,1B,Governor,,David Moran,LIB,2
+Nicholas,2,Governor,,David Moran,LIB,3
+Nicholas,3,Governor,,David Moran,LIB,0
+Nicholas,5,Governor,,David Moran,LIB,2
+Nicholas,7,Governor,,David Moran,LIB,2
+Nicholas,8,Governor,,David Moran,LIB,0
+Nicholas,9,Governor,,David Moran,LIB,1
+Nicholas,13,Governor,,David Moran,LIB,3
+Nicholas,14,Governor,,David Moran,LIB,5
+Nicholas,15,Governor,,David Moran,LIB,7
+Nicholas,16,Governor,,David Moran,LIB,9
+Nicholas,17,Governor,,David Moran,LIB,0
+Nicholas,18,Governor,,David Moran,LIB,4
+Nicholas,19,Governor,,David Moran,LIB,7
+Nicholas,20,Governor,,David Moran,LIB,2
+Nicholas,21A,Governor,,David Moran,LIB,2
+Nicholas,21B,Governor,,David Moran,LIB,6
+Nicholas,23,Governor,,David Moran,LIB,1
+Nicholas,25,Governor,,David Moran,LIB,2
+Nicholas,27,Governor,,David Moran,LIB,1
+Nicholas,28,Governor,,David Moran,LIB,1
+Nicholas,29,Governor,,David Moran,LIB,2
+Nicholas,30,Governor,,David Moran,LIB,3
+Nicholas,31,Governor,,David Moran,LIB,4
+Nicholas,32,Governor,,David Moran,LIB,1
+Nicholas,33,Governor,,David Moran,LIB,9
+Nicholas,35,Governor,,David Moran,LIB,12
+Nicholas,,Governor,,David Moran,LIB,96
+Nicholas,1A,Governor,,Charlotte Jean Pritt,MTN,8
+Nicholas,1B,Governor,,Charlotte Jean Pritt,MTN,6
+Nicholas,2,Governor,,Charlotte Jean Pritt,MTN,17
+Nicholas,3,Governor,,Charlotte Jean Pritt,MTN,7
+Nicholas,5,Governor,,Charlotte Jean Pritt,MTN,12
+Nicholas,7,Governor,,Charlotte Jean Pritt,MTN,16
+Nicholas,8,Governor,,Charlotte Jean Pritt,MTN,6
+Nicholas,9,Governor,,Charlotte Jean Pritt,MTN,11
+Nicholas,13,Governor,,Charlotte Jean Pritt,MTN,6
+Nicholas,14,Governor,,Charlotte Jean Pritt,MTN,19
+Nicholas,15,Governor,,Charlotte Jean Pritt,MTN,18
+Nicholas,16,Governor,,Charlotte Jean Pritt,MTN,18
+Nicholas,17,Governor,,Charlotte Jean Pritt,MTN,9
+Nicholas,18,Governor,,Charlotte Jean Pritt,MTN,14
+Nicholas,19,Governor,,Charlotte Jean Pritt,MTN,17
+Nicholas,20,Governor,,Charlotte Jean Pritt,MTN,15
+Nicholas,21A,Governor,,Charlotte Jean Pritt,MTN,14
+Nicholas,21B,Governor,,Charlotte Jean Pritt,MTN,11
+Nicholas,23,Governor,,Charlotte Jean Pritt,MTN,0
+Nicholas,25,Governor,,Charlotte Jean Pritt,MTN,12
+Nicholas,27,Governor,,Charlotte Jean Pritt,MTN,8
+Nicholas,28,Governor,,Charlotte Jean Pritt,MTN,8
+Nicholas,29,Governor,,Charlotte Jean Pritt,MTN,26
+Nicholas,30,Governor,,Charlotte Jean Pritt,MTN,10
+Nicholas,31,Governor,,Charlotte Jean Pritt,MTN,6
+Nicholas,32,Governor,,Charlotte Jean Pritt,MTN,7
+Nicholas,33,Governor,,Charlotte Jean Pritt,MTN,26
+Nicholas,35,Governor,,Charlotte Jean Pritt,MTN,26
+Nicholas,,Governor,,Charlotte Jean Pritt,MTN,353
+Nicholas,1A,Governor,,Phil Hudok,CST,1
+Nicholas,1B,Governor,,Phil Hudok,CST,2
+Nicholas,2,Governor,,Phil Hudok,CST,2
+Nicholas,3,Governor,,Phil Hudok,CST,0
+Nicholas,5,Governor,,Phil Hudok,CST,0
+Nicholas,7,Governor,,Phil Hudok,CST,2
+Nicholas,8,Governor,,Phil Hudok,CST,0
+Nicholas,9,Governor,,Phil Hudok,CST,1
+Nicholas,13,Governor,,Phil Hudok,CST,0
+Nicholas,14,Governor,,Phil Hudok,CST,2
+Nicholas,15,Governor,,Phil Hudok,CST,2
+Nicholas,16,Governor,,Phil Hudok,CST,3
+Nicholas,17,Governor,,Phil Hudok,CST,0
+Nicholas,18,Governor,,Phil Hudok,CST,2
+Nicholas,19,Governor,,Phil Hudok,CST,0
+Nicholas,20,Governor,,Phil Hudok,CST,1
+Nicholas,21A,Governor,,Phil Hudok,CST,3
+Nicholas,21B,Governor,,Phil Hudok,CST,1
+Nicholas,23,Governor,,Phil Hudok,CST,4
+Nicholas,25,Governor,,Phil Hudok,CST,1
+Nicholas,27,Governor,,Phil Hudok,CST,0
+Nicholas,28,Governor,,Phil Hudok,CST,4
+Nicholas,29,Governor,,Phil Hudok,CST,3
+Nicholas,30,Governor,,Phil Hudok,CST,1
+Nicholas,31,Governor,,Phil Hudok,CST,1
+Nicholas,32,Governor,,Phil Hudok,CST,0
+Nicholas,33,Governor,,Phil Hudok,CST,2
+Nicholas,35,Governor,,Phil Hudok,CST,4
+Nicholas,,Governor,,Phil Hudok,CST,42
+Nicholas,1A,Secretary of State,,Mac Warner,REP,139
+Nicholas,1B,Secretary of State,,Mac Warner,REP,129
+Nicholas,2,Secretary of State,,Mac Warner,REP,203
+Nicholas,3,Secretary of State,,Mac Warner,REP,122
+Nicholas,5,Secretary of State,,Mac Warner,REP,128
+Nicholas,7,Secretary of State,,Mac Warner,REP,92
+Nicholas,8,Secretary of State,,Mac Warner,REP,68
+Nicholas,9,Secretary of State,,Mac Warner,REP,61
+Nicholas,13,Secretary of State,,Mac Warner,REP,107
+Nicholas,14,Secretary of State,,Mac Warner,REP,175
+Nicholas,15,Secretary of State,,Mac Warner,REP,251
+Nicholas,16,Secretary of State,,Mac Warner,REP,243
+Nicholas,17,Secretary of State,,Mac Warner,REP,66
+Nicholas,18,Secretary of State,,Mac Warner,REP,297
+Nicholas,19,Secretary of State,,Mac Warner,REP,216
+Nicholas,20,Secretary of State,,Mac Warner,REP,241
+Nicholas,21A,Secretary of State,,Mac Warner,REP,237
+Nicholas,21B,Secretary of State,,Mac Warner,REP,147
+Nicholas,23,Secretary of State,,Mac Warner,REP,32
+Nicholas,25,Secretary of State,,Mac Warner,REP,81
+Nicholas,27,Secretary of State,,Mac Warner,REP,74
+Nicholas,28,Secretary of State,,Mac Warner,REP,222
+Nicholas,29,Secretary of State,,Mac Warner,REP,377
+Nicholas,30,Secretary of State,,Mac Warner,REP,147
+Nicholas,31,Secretary of State,,Mac Warner,REP,84
+Nicholas,32,Secretary of State,,Mac Warner,REP,128
+Nicholas,33,Secretary of State,,Mac Warner,REP,357
+Nicholas,35,Secretary of State,,Mac Warner,REP,298
+Nicholas,,Secretary of State,,Mac Warner,REP,4722
+Nicholas,1A,Secretary of State,,Natalie Tennant,DEM,151
+Nicholas,1B,Secretary of State,,Natalie Tennant,DEM,96
+Nicholas,2,Secretary of State,,Natalie Tennant,DEM,169
+Nicholas,3,Secretary of State,,Natalie Tennant,DEM,98
+Nicholas,5,Secretary of State,,Natalie Tennant,DEM,188
+Nicholas,7,Secretary of State,,Natalie Tennant,DEM,149
+Nicholas,8,Secretary of State,,Natalie Tennant,DEM,112
+Nicholas,9,Secretary of State,,Natalie Tennant,DEM,72
+Nicholas,13,Secretary of State,,Natalie Tennant,DEM,86
+Nicholas,14,Secretary of State,,Natalie Tennant,DEM,190
+Nicholas,15,Secretary of State,,Natalie Tennant,DEM,194
+Nicholas,16,Secretary of State,,Natalie Tennant,DEM,225
+Nicholas,17,Secretary of State,,Natalie Tennant,DEM,41
+Nicholas,18,Secretary of State,,Natalie Tennant,DEM,284
+Nicholas,19,Secretary of State,,Natalie Tennant,DEM,141
+Nicholas,20,Secretary of State,,Natalie Tennant,DEM,195
+Nicholas,21A,Secretary of State,,Natalie Tennant,DEM,176
+Nicholas,21B,Secretary of State,,Natalie Tennant,DEM,120
+Nicholas,23,Secretary of State,,Natalie Tennant,DEM,36
+Nicholas,25,Secretary of State,,Natalie Tennant,DEM,121
+Nicholas,27,Secretary of State,,Natalie Tennant,DEM,66
+Nicholas,28,Secretary of State,,Natalie Tennant,DEM,204
+Nicholas,29,Secretary of State,,Natalie Tennant,DEM,269
+Nicholas,30,Secretary of State,,Natalie Tennant,DEM,148
+Nicholas,31,Secretary of State,,Natalie Tennant,DEM,60
+Nicholas,32,Secretary of State,,Natalie Tennant,DEM,114
+Nicholas,33,Secretary of State,,Natalie Tennant,DEM,226
+Nicholas,35,Secretary of State,,Natalie Tennant,DEM,235
+Nicholas,,Secretary of State,,Natalie Tennant,DEM,4166
+Nicholas,1A,Secretary of State,,John S. Buckley,LIB,16
+Nicholas,1B,Secretary of State,,John S. Buckley,LIB,5
+Nicholas,2,Secretary of State,,John S. Buckley,LIB,11
+Nicholas,3,Secretary of State,,John S. Buckley,LIB,2
+Nicholas,5,Secretary of State,,John S. Buckley,LIB,17
+Nicholas,7,Secretary of State,,John S. Buckley,LIB,12
+Nicholas,8,Secretary of State,,John S. Buckley,LIB,9
+Nicholas,9,Secretary of State,,John S. Buckley,LIB,1
+Nicholas,13,Secretary of State,,John S. Buckley,LIB,14
+Nicholas,14,Secretary of State,,John S. Buckley,LIB,12
+Nicholas,15,Secretary of State,,John S. Buckley,LIB,21
+Nicholas,16,Secretary of State,,John S. Buckley,LIB,14
+Nicholas,17,Secretary of State,,John S. Buckley,LIB,2
+Nicholas,18,Secretary of State,,John S. Buckley,LIB,14
+Nicholas,19,Secretary of State,,John S. Buckley,LIB,23
+Nicholas,20,Secretary of State,,John S. Buckley,LIB,14
+Nicholas,21A,Secretary of State,,John S. Buckley,LIB,18
+Nicholas,21B,Secretary of State,,John S. Buckley,LIB,14
+Nicholas,23,Secretary of State,,John S. Buckley,LIB,3
+Nicholas,25,Secretary of State,,John S. Buckley,LIB,8
+Nicholas,27,Secretary of State,,John S. Buckley,LIB,6
+Nicholas,28,Secretary of State,,John S. Buckley,LIB,23
+Nicholas,29,Secretary of State,,John S. Buckley,LIB,22
+Nicholas,30,Secretary of State,,John S. Buckley,LIB,12
+Nicholas,31,Secretary of State,,John S. Buckley,LIB,4
+Nicholas,32,Secretary of State,,John S. Buckley,LIB,7
+Nicholas,33,Secretary of State,,John S. Buckley,LIB,28
+Nicholas,35,Secretary of State,,John S. Buckley,LIB,23
+Nicholas,,Secretary of State,,John S. Buckley,LIB,355
+Nicholas,1A,Auditor,,"John ""JB"" Mccuskey",REP,167
+Nicholas,1B,Auditor,,"John ""JB"" Mccuskey",REP,137
+Nicholas,2,Auditor,,"John ""JB"" Mccuskey",REP,228
+Nicholas,3,Auditor,,"John ""JB"" Mccuskey",REP,125
+Nicholas,5,Auditor,,"John ""JB"" Mccuskey",REP,175
+Nicholas,7,Auditor,,"John ""JB"" Mccuskey",REP,124
+Nicholas,8,Auditor,,"John ""JB"" Mccuskey",REP,84
+Nicholas,9,Auditor,,"John ""JB"" Mccuskey",REP,64
+Nicholas,13,Auditor,,"John ""JB"" Mccuskey",REP,115
+Nicholas,14,Auditor,,"John ""JB"" Mccuskey",REP,172
+Nicholas,15,Auditor,,"John ""JB"" Mccuskey",REP,267
+Nicholas,16,Auditor,,"John ""JB"" Mccuskey",REP,266
+Nicholas,17,Auditor,,"John ""JB"" Mccuskey",REP,69
+Nicholas,18,Auditor,,"John ""JB"" Mccuskey",REP,341
+Nicholas,19,Auditor,,"John ""JB"" Mccuskey",REP,226
+Nicholas,20,Auditor,,"John ""JB"" Mccuskey",REP,247
+Nicholas,21A,Auditor,,"John ""JB"" Mccuskey",REP,256
+Nicholas,21B,Auditor,,"John ""JB"" Mccuskey",REP,162
+Nicholas,23,Auditor,,"John ""JB"" Mccuskey",REP,47
+Nicholas,25,Auditor,,"John ""JB"" Mccuskey",REP,111
+Nicholas,27,Auditor,,"John ""JB"" Mccuskey",REP,81
+Nicholas,28,Auditor,,"John ""JB"" Mccuskey",REP,269
+Nicholas,29,Auditor,,"John ""JB"" Mccuskey",REP,386
+Nicholas,30,Auditor,,"John ""JB"" Mccuskey",REP,137
+Nicholas,31,Auditor,,"John ""JB"" Mccuskey",REP,92
+Nicholas,32,Auditor,,"John ""JB"" Mccuskey",REP,144
+Nicholas,33,Auditor,,"John ""JB"" Mccuskey",REP,382
+Nicholas,35,Auditor,,"John ""JB"" Mccuskey",REP,305
+Nicholas,,Auditor,,"John ""JB"" Mccuskey",REP,5179
+Nicholas,1A,Auditor,,Mary Ann Claytor,DEM,107
+Nicholas,1B,Auditor,,Mary Ann Claytor,DEM,69
+Nicholas,2,Auditor,,Mary Ann Claytor,DEM,107
+Nicholas,3,Auditor,,Mary Ann Claytor,DEM,64
+Nicholas,5,Auditor,,Mary Ann Claytor,DEM,124
+Nicholas,7,Auditor,,Mary Ann Claytor,DEM,91
+Nicholas,8,Auditor,,Mary Ann Claytor,DEM,79
+Nicholas,9,Auditor,,Mary Ann Claytor,DEM,59
+Nicholas,13,Auditor,,Mary Ann Claytor,DEM,64
+Nicholas,14,Auditor,,Mary Ann Claytor,DEM,158
+Nicholas,15,Auditor,,Mary Ann Claytor,DEM,144
+Nicholas,16,Auditor,,Mary Ann Claytor,DEM,161
+Nicholas,17,Auditor,,Mary Ann Claytor,DEM,30
+Nicholas,18,Auditor,,Mary Ann Claytor,DEM,194
+Nicholas,19,Auditor,,Mary Ann Claytor,DEM,114
+Nicholas,20,Auditor,,Mary Ann Claytor,DEM,154
+Nicholas,21A,Auditor,,Mary Ann Claytor,DEM,130
+Nicholas,21B,Auditor,,Mary Ann Claytor,DEM,94
+Nicholas,23,Auditor,,Mary Ann Claytor,DEM,20
+Nicholas,25,Auditor,,Mary Ann Claytor,DEM,76
+Nicholas,27,Auditor,,Mary Ann Claytor,DEM,47
+Nicholas,28,Auditor,,Mary Ann Claytor,DEM,116
+Nicholas,29,Auditor,,Mary Ann Claytor,DEM,185
+Nicholas,30,Auditor,,Mary Ann Claytor,DEM,123
+Nicholas,31,Auditor,,Mary Ann Claytor,DEM,43
+Nicholas,32,Auditor,,Mary Ann Claytor,DEM,73
+Nicholas,33,Auditor,,Mary Ann Claytor,DEM,165
+Nicholas,35,Auditor,,Mary Ann Claytor,DEM,171
+Nicholas,,Auditor,,Mary Ann Claytor,DEM,2962
+Nicholas,1A,Auditor,,Brenton Ricketts,LIB,19
+Nicholas,1B,Auditor,,Brenton Ricketts,LIB,13
+Nicholas,2,Auditor,,Brenton Ricketts,LIB,21
+Nicholas,3,Auditor,,Brenton Ricketts,LIB,11
+Nicholas,5,Auditor,,Brenton Ricketts,LIB,14
+Nicholas,7,Auditor,,Brenton Ricketts,LIB,19
+Nicholas,8,Auditor,,Brenton Ricketts,LIB,9
+Nicholas,9,Auditor,,Brenton Ricketts,LIB,8
+Nicholas,13,Auditor,,Brenton Ricketts,LIB,14
+Nicholas,14,Auditor,,Brenton Ricketts,LIB,28
+Nicholas,15,Auditor,,Brenton Ricketts,LIB,24
+Nicholas,16,Auditor,,Brenton Ricketts,LIB,26
+Nicholas,17,Auditor,,Brenton Ricketts,LIB,6
+Nicholas,18,Auditor,,Brenton Ricketts,LIB,15
+Nicholas,19,Auditor,,Brenton Ricketts,LIB,26
+Nicholas,20,Auditor,,Brenton Ricketts,LIB,23
+Nicholas,21A,Auditor,,Brenton Ricketts,LIB,20
+Nicholas,21B,Auditor,,Brenton Ricketts,LIB,14
+Nicholas,23,Auditor,,Brenton Ricketts,LIB,3
+Nicholas,25,Auditor,,Brenton Ricketts,LIB,14
+Nicholas,27,Auditor,,Brenton Ricketts,LIB,8
+Nicholas,28,Auditor,,Brenton Ricketts,LIB,27
+Nicholas,29,Auditor,,Brenton Ricketts,LIB,45
+Nicholas,30,Auditor,,Brenton Ricketts,LIB,17
+Nicholas,31,Auditor,,Brenton Ricketts,LIB,8
+Nicholas,32,Auditor,,Brenton Ricketts,LIB,12
+Nicholas,33,Auditor,,Brenton Ricketts,LIB,25
+Nicholas,35,Auditor,,Brenton Ricketts,LIB,35
+Nicholas,,Auditor,,Brenton Ricketts,LIB,504
+Nicholas,1A,Treasurer,,Ann Urling,REP,107
+Nicholas,1B,Treasurer,,Ann Urling,REP,103
+Nicholas,2,Treasurer,,Ann Urling,REP,169
+Nicholas,3,Treasurer,,Ann Urling,REP,94
+Nicholas,5,Treasurer,,Ann Urling,REP,95
+Nicholas,7,Treasurer,,Ann Urling,REP,81
+Nicholas,8,Treasurer,,Ann Urling,REP,51
+Nicholas,9,Treasurer,,Ann Urling,REP,50
+Nicholas,13,Treasurer,,Ann Urling,REP,91
+Nicholas,14,Treasurer,,Ann Urling,REP,124
+Nicholas,15,Treasurer,,Ann Urling,REP,185
+Nicholas,16,Treasurer,,Ann Urling,REP,170
+Nicholas,17,Treasurer,,Ann Urling,REP,46
+Nicholas,18,Treasurer,,Ann Urling,REP,240
+Nicholas,19,Treasurer,,Ann Urling,REP,153
+Nicholas,20,Treasurer,,Ann Urling,REP,181
+Nicholas,21A,Treasurer,,Ann Urling,REP,160
+Nicholas,21B,Treasurer,,Ann Urling,REP,107
+Nicholas,23,Treasurer,,Ann Urling,REP,26
+Nicholas,25,Treasurer,,Ann Urling,REP,76
+Nicholas,27,Treasurer,,Ann Urling,REP,50
+Nicholas,28,Treasurer,,Ann Urling,REP,176
+Nicholas,29,Treasurer,,Ann Urling,REP,276
+Nicholas,30,Treasurer,,Ann Urling,REP,103
+Nicholas,31,Treasurer,,Ann Urling,REP,66
+Nicholas,32,Treasurer,,Ann Urling,REP,86
+Nicholas,33,Treasurer,,Ann Urling,REP,278
+Nicholas,35,Treasurer,,Ann Urling,REP,216
+Nicholas,,Treasurer,,Ann Urling,REP,3560
+Nicholas,1A,Treasurer,,John D. Perdue,DEM,172
+Nicholas,1B,Treasurer,,John D. Perdue,DEM,107
+Nicholas,2,Treasurer,,John D. Perdue,DEM,174
+Nicholas,3,Treasurer,,John D. Perdue,DEM,111
+Nicholas,5,Treasurer,,John D. Perdue,DEM,197
+Nicholas,7,Treasurer,,John D. Perdue,DEM,144
+Nicholas,8,Treasurer,,John D. Perdue,DEM,120
+Nicholas,9,Treasurer,,John D. Perdue,DEM,69
+Nicholas,13,Treasurer,,John D. Perdue,DEM,96
+Nicholas,14,Treasurer,,John D. Perdue,DEM,222
+Nicholas,15,Treasurer,,John D. Perdue,DEM,231
+Nicholas,16,Treasurer,,John D. Perdue,DEM,259
+Nicholas,17,Treasurer,,John D. Perdue,DEM,50
+Nicholas,18,Treasurer,,John D. Perdue,DEM,329
+Nicholas,19,Treasurer,,John D. Perdue,DEM,198
+Nicholas,20,Treasurer,,John D. Perdue,DEM,233
+Nicholas,21A,Treasurer,,John D. Perdue,DEM,228
+Nicholas,21B,Treasurer,,John D. Perdue,DEM,158
+Nicholas,23,Treasurer,,John D. Perdue,DEM,38
+Nicholas,25,Treasurer,,John D. Perdue,DEM,119
+Nicholas,27,Treasurer,,John D. Perdue,DEM,87
+Nicholas,28,Treasurer,,John D. Perdue,DEM,233
+Nicholas,29,Treasurer,,John D. Perdue,DEM,317
+Nicholas,30,Treasurer,,John D. Perdue,DEM,176
+Nicholas,31,Treasurer,,John D. Perdue,DEM,67
+Nicholas,32,Treasurer,,John D. Perdue,DEM,148
+Nicholas,33,Treasurer,,John D. Perdue,DEM,280
+Nicholas,35,Treasurer,,John D. Perdue,DEM,283
+Nicholas,,Treasurer,,John D. Perdue,DEM,4846
+Nicholas,1A,Treasurer,,Michael Allen Young,LIB,18
+Nicholas,1B,Treasurer,,Michael Allen Young,LIB,18
+Nicholas,2,Treasurer,,Michael Allen Young,LIB,21
+Nicholas,3,Treasurer,,Michael Allen Young,LIB,13
+Nicholas,5,Treasurer,,Michael Allen Young,LIB,23
+Nicholas,7,Treasurer,,Michael Allen Young,LIB,18
+Nicholas,8,Treasurer,,Michael Allen Young,LIB,6
+Nicholas,9,Treasurer,,Michael Allen Young,LIB,10
+Nicholas,13,Treasurer,,Michael Allen Young,LIB,12
+Nicholas,14,Treasurer,,Michael Allen Young,LIB,22
+Nicholas,15,Treasurer,,Michael Allen Young,LIB,27
+Nicholas,16,Treasurer,,Michael Allen Young,LIB,39
+Nicholas,17,Treasurer,,Michael Allen Young,LIB,8
+Nicholas,18,Treasurer,,Michael Allen Young,LIB,17
+Nicholas,19,Treasurer,,Michael Allen Young,LIB,27
+Nicholas,20,Treasurer,,Michael Allen Young,LIB,26
+Nicholas,21A,Treasurer,,Michael Allen Young,LIB,34
+Nicholas,21B,Treasurer,,Michael Allen Young,LIB,15
+Nicholas,23,Treasurer,,Michael Allen Young,LIB,3
+Nicholas,25,Treasurer,,Michael Allen Young,LIB,10
+Nicholas,27,Treasurer,,Michael Allen Young,LIB,6
+Nicholas,28,Treasurer,,Michael Allen Young,LIB,25
+Nicholas,29,Treasurer,,Michael Allen Young,LIB,50
+Nicholas,30,Treasurer,,Michael Allen Young,LIB,20
+Nicholas,31,Treasurer,,Michael Allen Young,LIB,10
+Nicholas,32,Treasurer,,Michael Allen Young,LIB,10
+Nicholas,33,Treasurer,,Michael Allen Young,LIB,32
+Nicholas,35,Treasurer,,Michael Allen Young,LIB,40
+Nicholas,,Treasurer,,Michael Allen Young,LIB,560
+Nicholas,1A,Commissioner of Agriculture,,Kent Leonhardt,REP,115
+Nicholas,1B,Commissioner of Agriculture,,Kent Leonhardt,REP,100
+Nicholas,2,Commissioner of Agriculture,,Kent Leonhardt,REP,194
+Nicholas,3,Commissioner of Agriculture,,Kent Leonhardt,REP,110
+Nicholas,5,Commissioner of Agriculture,,Kent Leonhardt,REP,80
+Nicholas,7,Commissioner of Agriculture,,Kent Leonhardt,REP,85
+Nicholas,8,Commissioner of Agriculture,,Kent Leonhardt,REP,47
+Nicholas,9,Commissioner of Agriculture,,Kent Leonhardt,REP,49
+Nicholas,13,Commissioner of Agriculture,,Kent Leonhardt,REP,90
+Nicholas,14,Commissioner of Agriculture,,Kent Leonhardt,REP,149
+Nicholas,15,Commissioner of Agriculture,,Kent Leonhardt,REP,205
+Nicholas,16,Commissioner of Agriculture,,Kent Leonhardt,REP,166
+Nicholas,17,Commissioner of Agriculture,,Kent Leonhardt,REP,50
+Nicholas,18,Commissioner of Agriculture,,Kent Leonhardt,REP,268
+Nicholas,19,Commissioner of Agriculture,,Kent Leonhardt,REP,192
+Nicholas,20,Commissioner of Agriculture,,Kent Leonhardt,REP,187
+Nicholas,21A,Commissioner of Agriculture,,Kent Leonhardt,REP,179
+Nicholas,21B,Commissioner of Agriculture,,Kent Leonhardt,REP,118
+Nicholas,23,Commissioner of Agriculture,,Kent Leonhardt,REP,28
+Nicholas,25,Commissioner of Agriculture,,Kent Leonhardt,REP,84
+Nicholas,27,Commissioner of Agriculture,,Kent Leonhardt,REP,57
+Nicholas,28,Commissioner of Agriculture,,Kent Leonhardt,REP,218
+Nicholas,29,Commissioner of Agriculture,,Kent Leonhardt,REP,350
+Nicholas,30,Commissioner of Agriculture,,Kent Leonhardt,REP,116
+Nicholas,31,Commissioner of Agriculture,,Kent Leonhardt,REP,82
+Nicholas,32,Commissioner of Agriculture,,Kent Leonhardt,REP,115
+Nicholas,33,Commissioner of Agriculture,,Kent Leonhardt,REP,313
+Nicholas,35,Commissioner of Agriculture,,Kent Leonhardt,REP,244
+Nicholas,,Commissioner of Agriculture,,Kent Leonhardt,REP,3991
+Nicholas,1A,Commissioner of Agriculture,,Walt Helmick,DEM,181
+Nicholas,1B,Commissioner of Agriculture,,Walt Helmick,DEM,108
+Nicholas,2,Commissioner of Agriculture,,Walt Helmick,DEM,161
+Nicholas,3,Commissioner of Agriculture,,Walt Helmick,DEM,100
+Nicholas,5,Commissioner of Agriculture,,Walt Helmick,DEM,222
+Nicholas,7,Commissioner of Agriculture,,Walt Helmick,DEM,134
+Nicholas,8,Commissioner of Agriculture,,Walt Helmick,DEM,125
+Nicholas,9,Commissioner of Agriculture,,Walt Helmick,DEM,78
+Nicholas,13,Commissioner of Agriculture,,Walt Helmick,DEM,102
+Nicholas,14,Commissioner of Agriculture,,Walt Helmick,DEM,197
+Nicholas,15,Commissioner of Agriculture,,Walt Helmick,DEM,213
+Nicholas,16,Commissioner of Agriculture,,Walt Helmick,DEM,276
+Nicholas,17,Commissioner of Agriculture,,Walt Helmick,DEM,56
+Nicholas,18,Commissioner of Agriculture,,Walt Helmick,DEM,290
+Nicholas,19,Commissioner of Agriculture,,Walt Helmick,DEM,165
+Nicholas,20,Commissioner of Agriculture,,Walt Helmick,DEM,231
+Nicholas,21A,Commissioner of Agriculture,,Walt Helmick,DEM,214
+Nicholas,21B,Commissioner of Agriculture,,Walt Helmick,DEM,145
+Nicholas,23,Commissioner of Agriculture,,Walt Helmick,DEM,33
+Nicholas,25,Commissioner of Agriculture,,Walt Helmick,DEM,100
+Nicholas,27,Commissioner of Agriculture,,Walt Helmick,DEM,66
+Nicholas,28,Commissioner of Agriculture,,Walt Helmick,DEM,217
+Nicholas,29,Commissioner of Agriculture,,Walt Helmick,DEM,270
+Nicholas,30,Commissioner of Agriculture,,Walt Helmick,DEM,177
+Nicholas,31,Commissioner of Agriculture,,Walt Helmick,DEM,57
+Nicholas,32,Commissioner of Agriculture,,Walt Helmick,DEM,119
+Nicholas,33,Commissioner of Agriculture,,Walt Helmick,DEM,252
+Nicholas,35,Commissioner of Agriculture,,Walt Helmick,DEM,248
+Nicholas,,Commissioner of Agriculture,,Walt Helmick,DEM,4537
+Nicholas,1A,Commissioner of Agriculture,,Buddy A Guthrie,LIB,9
+Nicholas,1B,Commissioner of Agriculture,,Buddy A Guthrie,LIB,12
+Nicholas,2,Commissioner of Agriculture,,Buddy A Guthrie,LIB,16
+Nicholas,3,Commissioner of Agriculture,,Buddy A Guthrie,LIB,5
+Nicholas,5,Commissioner of Agriculture,,Buddy A Guthrie,LIB,20
+Nicholas,7,Commissioner of Agriculture,,Buddy A Guthrie,LIB,22
+Nicholas,8,Commissioner of Agriculture,,Buddy A Guthrie,LIB,11
+Nicholas,9,Commissioner of Agriculture,,Buddy A Guthrie,LIB,8
+Nicholas,13,Commissioner of Agriculture,,Buddy A Guthrie,LIB,7
+Nicholas,14,Commissioner of Agriculture,,Buddy A Guthrie,LIB,14
+Nicholas,15,Commissioner of Agriculture,,Buddy A Guthrie,LIB,39
+Nicholas,16,Commissioner of Agriculture,,Buddy A Guthrie,LIB,28
+Nicholas,17,Commissioner of Agriculture,,Buddy A Guthrie,LIB,5
+Nicholas,18,Commissioner of Agriculture,,Buddy A Guthrie,LIB,23
+Nicholas,19,Commissioner of Agriculture,,Buddy A Guthrie,LIB,21
+Nicholas,20,Commissioner of Agriculture,,Buddy A Guthrie,LIB,22
+Nicholas,21A,Commissioner of Agriculture,,Buddy A Guthrie,LIB,25
+Nicholas,21B,Commissioner of Agriculture,,Buddy A Guthrie,LIB,14
+Nicholas,23,Commissioner of Agriculture,,Buddy A Guthrie,LIB,7
+Nicholas,25,Commissioner of Agriculture,,Buddy A Guthrie,LIB,16
+Nicholas,27,Commissioner of Agriculture,,Buddy A Guthrie,LIB,14
+Nicholas,28,Commissioner of Agriculture,,Buddy A Guthrie,LIB,7
+Nicholas,29,Commissioner of Agriculture,,Buddy A Guthrie,LIB,37
+Nicholas,30,Commissioner of Agriculture,,Buddy A Guthrie,LIB,8
+Nicholas,31,Commissioner of Agriculture,,Buddy A Guthrie,LIB,8
+Nicholas,32,Commissioner of Agriculture,,Buddy A Guthrie,LIB,9
+Nicholas,33,Commissioner of Agriculture,,Buddy A Guthrie,LIB,27
+Nicholas,35,Commissioner of Agriculture,,Buddy A Guthrie,LIB,44
+Nicholas,,Commissioner of Agriculture,,Buddy A Guthrie,LIB,478
+Nicholas,1A,Attorney General,,Patrick Morrisey,REP,147
+Nicholas,1B,Attorney General,,Patrick Morrisey,REP,130
+Nicholas,2,Attorney General,,Patrick Morrisey,REP,223
+Nicholas,3,Attorney General,,Patrick Morrisey,REP,122
+Nicholas,5,Attorney General,,Patrick Morrisey,REP,152
+Nicholas,7,Attorney General,,Patrick Morrisey,REP,117
+Nicholas,8,Attorney General,,Patrick Morrisey,REP,73
+Nicholas,9,Attorney General,,Patrick Morrisey,REP,57
+Nicholas,13,Attorney General,,Patrick Morrisey,REP,106
+Nicholas,14,Attorney General,,Patrick Morrisey,REP,191
+Nicholas,15,Attorney General,,Patrick Morrisey,REP,269
+Nicholas,16,Attorney General,,Patrick Morrisey,REP,249
+Nicholas,17,Attorney General,,Patrick Morrisey,REP,68
+Nicholas,18,Attorney General,,Patrick Morrisey,REP,312
+Nicholas,19,Attorney General,,Patrick Morrisey,REP,212
+Nicholas,20,Attorney General,,Patrick Morrisey,REP,246
+Nicholas,21A,Attorney General,,Patrick Morrisey,REP,213
+Nicholas,21B,Attorney General,,Patrick Morrisey,REP,157
+Nicholas,23,Attorney General,,Patrick Morrisey,REP,36
+Nicholas,25,Attorney General,,Patrick Morrisey,REP,94
+Nicholas,27,Attorney General,,Patrick Morrisey,REP,90
+Nicholas,28,Attorney General,,Patrick Morrisey,REP,260
+Nicholas,29,Attorney General,,Patrick Morrisey,REP,386
+Nicholas,30,Attorney General,,Patrick Morrisey,REP,134
+Nicholas,31,Attorney General,,Patrick Morrisey,REP,87
+Nicholas,32,Attorney General,,Patrick Morrisey,REP,136
+Nicholas,33,Attorney General,,Patrick Morrisey,REP,407
+Nicholas,35,Attorney General,,Patrick Morrisey,REP,305
+Nicholas,,Attorney General,,Patrick Morrisey,REP,4979
+Nicholas,1A,Attorney General,,Doug Reynolds,DEM,138
+Nicholas,1B,Attorney General,,Doug Reynolds,DEM,87
+Nicholas,2,Attorney General,,Doug Reynolds,DEM,126
+Nicholas,3,Attorney General,,Doug Reynolds,DEM,90
+Nicholas,5,Attorney General,,Doug Reynolds,DEM,157
+Nicholas,7,Attorney General,,Doug Reynolds,DEM,123
+Nicholas,8,Attorney General,,Doug Reynolds,DEM,97
+Nicholas,9,Attorney General,,Doug Reynolds,DEM,65
+Nicholas,13,Attorney General,,Doug Reynolds,DEM,81
+Nicholas,14,Attorney General,,Doug Reynolds,DEM,165
+Nicholas,15,Attorney General,,Doug Reynolds,DEM,172
+Nicholas,16,Attorney General,,Doug Reynolds,DEM,198
+Nicholas,17,Attorney General,,Doug Reynolds,DEM,33
+Nicholas,18,Attorney General,,Doug Reynolds,DEM,264
+Nicholas,19,Attorney General,,Doug Reynolds,DEM,161
+Nicholas,20,Attorney General,,Doug Reynolds,DEM,189
+Nicholas,21A,Attorney General,,Doug Reynolds,DEM,183
+Nicholas,21B,Attorney General,,Doug Reynolds,DEM,115
+Nicholas,23,Attorney General,,Doug Reynolds,DEM,33
+Nicholas,25,Attorney General,,Doug Reynolds,DEM,101
+Nicholas,27,Attorney General,,Doug Reynolds,DEM,48
+Nicholas,28,Attorney General,,Doug Reynolds,DEM,155
+Nicholas,29,Attorney General,,Doug Reynolds,DEM,241
+Nicholas,30,Attorney General,,Doug Reynolds,DEM,156
+Nicholas,31,Attorney General,,Doug Reynolds,DEM,54
+Nicholas,32,Attorney General,,Doug Reynolds,DEM,101
+Nicholas,33,Attorney General,,Doug Reynolds,DEM,182
+Nicholas,35,Attorney General,,Doug Reynolds,DEM,221
+Nicholas,,Attorney General,,Doug Reynolds,DEM,3736
+Nicholas,1A,Attorney General,,Karl Kolenich,LIB,11
+Nicholas,1B,Attorney General,,Karl Kolenich,LIB,12
+Nicholas,2,Attorney General,,Karl Kolenich,LIB,19
+Nicholas,3,Attorney General,,Karl Kolenich,LIB,5
+Nicholas,5,Attorney General,,Karl Kolenich,LIB,21
+Nicholas,7,Attorney General,,Karl Kolenich,LIB,7
+Nicholas,8,Attorney General,,Karl Kolenich,LIB,5
+Nicholas,9,Attorney General,,Karl Kolenich,LIB,4
+Nicholas,13,Attorney General,,Karl Kolenich,LIB,10
+Nicholas,14,Attorney General,,Karl Kolenich,LIB,17
+Nicholas,15,Attorney General,,Karl Kolenich,LIB,19
+Nicholas,16,Attorney General,,Karl Kolenich,LIB,21
+Nicholas,17,Attorney General,,Karl Kolenich,LIB,3
+Nicholas,18,Attorney General,,Karl Kolenich,LIB,13
+Nicholas,19,Attorney General,,Karl Kolenich,LIB,12
+Nicholas,20,Attorney General,,Karl Kolenich,LIB,12
+Nicholas,21A,Attorney General,,Karl Kolenich,LIB,13
+Nicholas,21B,Attorney General,,Karl Kolenich,LIB,8
+Nicholas,23,Attorney General,,Karl Kolenich,LIB,0
+Nicholas,25,Attorney General,,Karl Kolenich,LIB,7
+Nicholas,27,Attorney General,,Karl Kolenich,LIB,2
+Nicholas,28,Attorney General,,Karl Kolenich,LIB,15
+Nicholas,29,Attorney General,,Karl Kolenich,LIB,30
+Nicholas,30,Attorney General,,Karl Kolenich,LIB,11
+Nicholas,31,Attorney General,,Karl Kolenich,LIB,8
+Nicholas,32,Attorney General,,Karl Kolenich,LIB,10
+Nicholas,33,Attorney General,,Karl Kolenich,LIB,14
+Nicholas,35,Attorney General,,Karl Kolenich,LIB,20
+Nicholas,,Attorney General,,Karl Kolenich,LIB,329
+Nicholas,1A,Attorney General,,Michael Sharley,MTN,12
+Nicholas,1B,Attorney General,,Michael Sharley,MTN,6
+Nicholas,2,Attorney General,,Michael Sharley,MTN,11
+Nicholas,3,Attorney General,,Michael Sharley,MTN,5
+Nicholas,5,Attorney General,,Michael Sharley,MTN,4
+Nicholas,7,Attorney General,,Michael Sharley,MTN,4
+Nicholas,8,Attorney General,,Michael Sharley,MTN,10
+Nicholas,9,Attorney General,,Michael Sharley,MTN,7
+Nicholas,13,Attorney General,,Michael Sharley,MTN,7
+Nicholas,14,Attorney General,,Michael Sharley,MTN,12
+Nicholas,15,Attorney General,,Michael Sharley,MTN,15
+Nicholas,16,Attorney General,,Michael Sharley,MTN,17
+Nicholas,17,Attorney General,,Michael Sharley,MTN,3
+Nicholas,18,Attorney General,,Michael Sharley,MTN,9
+Nicholas,19,Attorney General,,Michael Sharley,MTN,7
+Nicholas,20,Attorney General,,Michael Sharley,MTN,9
+Nicholas,21A,Attorney General,,Michael Sharley,MTN,16
+Nicholas,21B,Attorney General,,Michael Sharley,MTN,7
+Nicholas,23,Attorney General,,Michael Sharley,MTN,2
+Nicholas,25,Attorney General,,Michael Sharley,MTN,6
+Nicholas,27,Attorney General,,Michael Sharley,MTN,6
+Nicholas,28,Attorney General,,Michael Sharley,MTN,17
+Nicholas,29,Attorney General,,Michael Sharley,MTN,16
+Nicholas,30,Attorney General,,Michael Sharley,MTN,6
+Nicholas,31,Attorney General,,Michael Sharley,MTN,2
+Nicholas,32,Attorney General,,Michael Sharley,MTN,4
+Nicholas,33,Attorney General,,Michael Sharley,MTN,13
+Nicholas,35,Attorney General,,Michael Sharley,MTN,15
+Nicholas,,Attorney General,,Michael Sharley,MTN,248
+Nicholas,1A,State Senator,11,Greg Boso,,165
+Nicholas,1B,State Senator,11,Greg Boso,,137
+Nicholas,2,State Senator,11,Greg Boso,,209
+Nicholas,3,State Senator,11,Greg Boso,,121
+Nicholas,5,State Senator,11,Greg Boso,,140
+Nicholas,7,State Senator,11,Greg Boso,,114
+Nicholas,8,State Senator,11,Greg Boso,,80
+Nicholas,9,State Senator,11,Greg Boso,,57
+Nicholas,13,State Senator,11,Greg Boso,,129
+Nicholas,14,State Senator,11,Greg Boso,,207
+Nicholas,15,State Senator,11,Greg Boso,,331
+Nicholas,16,State Senator,11,Greg Boso,,284
+Nicholas,17,State Senator,11,Greg Boso,,72
+Nicholas,18,State Senator,11,Greg Boso,,393
+Nicholas,19,State Senator,11,Greg Boso,,257
+Nicholas,20,State Senator,11,Greg Boso,,294
+Nicholas,21A,State Senator,11,Greg Boso,,297
+Nicholas,21B,State Senator,11,Greg Boso,,194
+Nicholas,23,State Senator,11,Greg Boso,,41
+Nicholas,25,State Senator,11,Greg Boso,,122
+Nicholas,27,State Senator,11,Greg Boso,,96
+Nicholas,28,State Senator,11,Greg Boso,,298
+Nicholas,29,State Senator,11,Greg Boso,,447
+Nicholas,30,State Senator,11,Greg Boso,,182
+Nicholas,31,State Senator,11,Greg Boso,,97
+Nicholas,32,State Senator,11,Greg Boso,,150
+Nicholas,33,State Senator,11,Greg Boso,,438
+Nicholas,35,State Senator,11,Greg Boso,,378
+Nicholas,,State Senator,11,Greg Boso,,5730
+Nicholas,1A,State Senator,11,Denise Campbell,,127
+Nicholas,1B,State Senator,11,Denise Campbell,,78
+Nicholas,2,State Senator,11,Denise Campbell,,140
+Nicholas,3,State Senator,11,Denise Campbell,,84
+Nicholas,5,State Senator,11,Denise Campbell,,143
+Nicholas,7,State Senator,11,Denise Campbell,,106
+Nicholas,8,State Senator,11,Denise Campbell,,81
+Nicholas,9,State Senator,11,Denise Campbell,,63
+Nicholas,13,State Senator,11,Denise Campbell,,74
+Nicholas,14,State Senator,11,Denise Campbell,,161
+Nicholas,15,State Senator,11,Denise Campbell,,125
+Nicholas,16,State Senator,11,Denise Campbell,,189
+Nicholas,17,State Senator,11,Denise Campbell,,34
+Nicholas,18,State Senator,11,Denise Campbell,,198
+Nicholas,19,State Senator,11,Denise Campbell,,130
+Nicholas,20,State Senator,11,Denise Campbell,,163
+Nicholas,21A,State Senator,11,Denise Campbell,,122
+Nicholas,21B,State Senator,11,Denise Campbell,,80
+Nicholas,23,State Senator,11,Denise Campbell,,25
+Nicholas,25,State Senator,11,Denise Campbell,,77
+Nicholas,27,State Senator,11,Denise Campbell,,40
+Nicholas,28,State Senator,11,Denise Campbell,,143
+Nicholas,29,State Senator,11,Denise Campbell,,224
+Nicholas,30,State Senator,11,Denise Campbell,,110
+Nicholas,31,State Senator,11,Denise Campbell,,45
+Nicholas,32,State Senator,11,Denise Campbell,,96
+Nicholas,33,State Senator,11,Denise Campbell,,158
+Nicholas,35,State Senator,11,Denise Campbell,,169
+Nicholas,,State Senator,11,Denise Campbell,,3185
+Nicholas,1A,State Senator,11,Bruce Zeno Breuninger,,19
+Nicholas,1B,State Senator,11,Bruce Zeno Breuninger,,18
+Nicholas,2,State Senator,11,Bruce Zeno Breuninger,,36
+Nicholas,3,State Senator,11,Bruce Zeno Breuninger,,16
+Nicholas,5,State Senator,11,Bruce Zeno Breuninger,,50
+Nicholas,7,State Senator,11,Bruce Zeno Breuninger,,30
+Nicholas,8,State Senator,11,Bruce Zeno Breuninger,,23
+Nicholas,9,State Senator,11,Bruce Zeno Breuninger,,20
+Nicholas,13,State Senator,11,Bruce Zeno Breuninger,,7
+Nicholas,14,State Senator,11,Bruce Zeno Breuninger,,23
+Nicholas,15,State Senator,11,Bruce Zeno Breuninger,,20
+Nicholas,16,State Senator,11,Bruce Zeno Breuninger,,26
+Nicholas,17,State Senator,11,Bruce Zeno Breuninger,,6
+Nicholas,18,State Senator,11,Bruce Zeno Breuninger,,21
+Nicholas,19,State Senator,11,Bruce Zeno Breuninger,,10
+Nicholas,20,State Senator,11,Bruce Zeno Breuninger,,12
+Nicholas,21A,State Senator,11,Bruce Zeno Breuninger,,15
+Nicholas,21B,State Senator,11,Bruce Zeno Breuninger,,12
+Nicholas,23,State Senator,11,Bruce Zeno Breuninger,,2
+Nicholas,25,State Senator,11,Bruce Zeno Breuninger,,6
+Nicholas,27,State Senator,11,Bruce Zeno Breuninger,,10
+Nicholas,28,State Senator,11,Bruce Zeno Breuninger,,20
+Nicholas,29,State Senator,11,Bruce Zeno Breuninger,,21
+Nicholas,30,State Senator,11,Bruce Zeno Breuninger,,15
+Nicholas,31,State Senator,11,Bruce Zeno Breuninger,,6
+Nicholas,32,State Senator,11,Bruce Zeno Breuninger,,11
+Nicholas,33,State Senator,11,Bruce Zeno Breuninger,,23
+Nicholas,35,State Senator,11,Bruce Zeno Breuninger,,22
+Nicholas,,State Senator,11,Bruce Zeno Breuninger,,500
+Nicholas,23,House of Delegates,32,Kaylla Kessinger,,27
+Nicholas,25,House of Delegates,32,Kaylla Kessinger,,81
+Nicholas,27,House of Delegates,32,Kaylla Kessinger,,63
+Nicholas,,House of Delegates,32,Kaylla Kessinger,,171
+Nicholas,23,House of Delegates,32,Tom Fast,,23
+Nicholas,25,House of Delegates,32,Tom Fast,,62
+Nicholas,27,House of Delegates,32,Tom Fast,,49
+Nicholas,,House of Delegates,32,Tom Fast,,134
+Nicholas,23,House of Delegates,32,Austin Haynes,,9
+Nicholas,25,House of Delegates,32,Austin Haynes,,47
+Nicholas,27,House of Delegates,32,Austin Haynes,,39
+Nicholas,,House of Delegates,32,Austin Haynes,,95
+Nicholas,23,House of Delegates,32,Margaret Anne Staggers,,19
+Nicholas,25,House of Delegates,32,Margaret Anne Staggers,,93
+Nicholas,27,House of Delegates,32,Margaret Anne Staggers,,40
+Nicholas,,House of Delegates,32,Margaret Anne Staggers,,152
+Nicholas,23,House of Delegates,32,John Pino,,32
+Nicholas,25,House of Delegates,32,John Pino,,83
+Nicholas,27,House of Delegates,32,John Pino,,38
+Nicholas,,House of Delegates,32,John Pino,,153
+Nicholas,23,House of Delegates,32,Mr. Shirley Love,,34
+Nicholas,25,House of Delegates,32,Mr. Shirley Love,,95
+Nicholas,27,House of Delegates,32,Mr. Shirley Love,,64
+Nicholas,,House of Delegates,32,Mr. Shirley Love,,193
+Nicholas,23,House of Delegates,32,Travis Simms,,3
+Nicholas,25,House of Delegates,32,Travis Simms,,13
+Nicholas,27,House of Delegates,32,Travis Simms,,5
+Nicholas,,House of Delegates,32,Travis Simms,,21
+Nicholas,13,House of Delegates,41,Jordan Hill,,105
+Nicholas,14,House of Delegates,41,Jordan Hill,,186
+Nicholas,15,House of Delegates,41,Jordan Hill,,289
+Nicholas,16,House of Delegates,41,Jordan Hill,,245
+Nicholas,18,House of Delegates,41,Jordan Hill,,338
+Nicholas,19,House of Delegates,41,Jordan Hill,,235
+Nicholas,20,House of Delegates,41,Jordan Hill,,256
+Nicholas,21A,House of Delegates,41,Jordan Hill,,250
+Nicholas,21B,House of Delegates,41,Jordan Hill,,158
+Nicholas,28,House of Delegates,41,Jordan Hill,,273
+Nicholas,29,House of Delegates,41,Jordan Hill,,412
+Nicholas,30,House of Delegates,41,Jordan Hill,,141
+Nicholas,31,House of Delegates,41,Jordan Hill,,92
+Nicholas,32,House of Delegates,41,Jordan Hill,,132
+Nicholas,33,House of Delegates,41,Jordan Hill,,368
+Nicholas,35,House of Delegates,41,Jordan Hill,,338
+Nicholas,,House of Delegates,41,Jordan Hill,,3818
+Nicholas,13,House of Delegates,41,Adam R. Young,,106
+Nicholas,14,House of Delegates,41,Adam R. Young,,193
+Nicholas,15,House of Delegates,41,Adam R. Young,,181
+Nicholas,16,House of Delegates,41,Adam R. Young,,245
+Nicholas,18,House of Delegates,41,Adam R. Young,,265
+Nicholas,19,House of Delegates,41,Adam R. Young,,158
+Nicholas,20,House of Delegates,41,Adam R. Young,,203
+Nicholas,21A,House of Delegates,41,Adam R. Young,,187
+Nicholas,21B,House of Delegates,41,Adam R. Young,,126
+Nicholas,28,House of Delegates,41,Adam R. Young,,182
+Nicholas,29,House of Delegates,41,Adam R. Young,,262
+Nicholas,30,House of Delegates,41,Adam R. Young,,168
+Nicholas,31,House of Delegates,41,Adam R. Young,,58
+Nicholas,32,House of Delegates,41,Adam R. Young,,122
+Nicholas,33,House of Delegates,41,Adam R. Young,,241
+Nicholas,35,House of Delegates,41,Adam R. Young,,219
+Nicholas,,House of Delegates,41,Adam R. Young,,2916
+Nicholas,1A,House of Delegates,44,Duane Borchers. SR,,147
+Nicholas,1B,House of Delegates,44,Duane Borchers. SR,,144
+Nicholas,2,House of Delegates,44,Duane Borchers. SR,,218
+Nicholas,3,House of Delegates,44,Duane Borchers. SR,,108
+Nicholas,5,House of Delegates,44,Duane Borchers. SR,,106
+Nicholas,7,House of Delegates,44,Duane Borchers. SR,,87
+Nicholas,8,House of Delegates,44,Duane Borchers. SR,,56
+Nicholas,17,House of Delegates,44,Duane Borchers. SR,,60
+Nicholas,,House of Delegates,44,Duane Borchers. SR,,926
+Nicholas,1A,House of Delegates,44,Dana L Lynch,,133
+Nicholas,1B,House of Delegates,44,Dana L Lynch,,66
+Nicholas,2,House of Delegates,44,Dana L Lynch,,146
+Nicholas,3,House of Delegates,44,Dana L Lynch,,81
+Nicholas,5,House of Delegates,44,Dana L Lynch,,162
+Nicholas,7,House of Delegates,44,Dana L Lynch,,110
+Nicholas,8,House of Delegates,44,Dana L Lynch,,91
+Nicholas,17,House of Delegates,44,Dana L Lynch,,38
+Nicholas,,House of Delegates,44,Dana L Lynch,,827
+Nicholas,1A,House of Delegates,44,Barbara Daniels,,23
+Nicholas,1B,House of Delegates,44,Barbara Daniels,,21
+Nicholas,2,House of Delegates,44,Barbara Daniels,,21
+Nicholas,3,House of Delegates,44,Barbara Daniels,,28
+Nicholas,5,House of Delegates,44,Barbara Daniels,,60
+Nicholas,7,House of Delegates,44,Barbara Daniels,,50
+Nicholas,8,House of Delegates,44,Barbara Daniels,,35
+Nicholas,17,House of Delegates,44,Barbara Daniels,,11
+Nicholas,,House of Delegates,44,Barbara Daniels,,249
