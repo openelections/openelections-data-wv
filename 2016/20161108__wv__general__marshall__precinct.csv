@@ -1,0 +1,2022 @@
+county,precinct,office,district,candidate,party,votes
+Marshall,1,President,,Donald J. Trump,REP,192
+Marshall,4,President,,Donald J. Trump,REP,297
+Marshall,6,President,,Donald J. Trump,REP,147
+Marshall,7,President,,Donald J. Trump,REP,325
+Marshall,9,President,,Donald J. Trump,REP,217
+Marshall,9A,President,,Donald J. Trump,REP,339
+Marshall,10,President,,Donald J. Trump,REP,185
+Marshall,11,President,,Donald J. Trump,REP,404
+Marshall,12,President,,Donald J. Trump,REP,359
+Marshall,13,President,,Donald J. Trump,REP,217
+Marshall,14,President,,Donald J. Trump,REP,339
+Marshall,15A,President,,Donald J. Trump,REP,201
+Marshall,17,President,,Donald J. Trump,REP,236
+Marshall,17A,President,,Donald J. Trump,REP,226
+Marshall,18,President,,Donald J. Trump,REP,305
+Marshall,19,President,,Donald J. Trump,REP,102
+Marshall,20,President,,Donald J. Trump,REP,72
+Marshall,21,President,,Donald J. Trump,REP,130
+Marshall,23,President,,Donald J. Trump,REP,100
+Marshall,24,President,,Donald J. Trump,REP,213
+Marshall,25,President,,Donald J. Trump,REP,111
+Marshall,26,President,,Donald J. Trump,REP,130
+Marshall,27,President,,Donald J. Trump,REP,168
+Marshall,28,President,,Donald J. Trump,REP,260
+Marshall,29,President,,Donald J. Trump,REP,310
+Marshall,30,President,,Donald J. Trump,REP,119
+Marshall,33,President,,Donald J. Trump,REP,390
+Marshall,34,President,,Donald J. Trump,REP,255
+Marshall,35,President,,Donald J. Trump,REP,316
+Marshall,36,President,,Donald J. Trump,REP,87
+Marshall,38,President,,Donald J. Trump,REP,198
+Marshall,39,President,,Donald J. Trump,REP,232
+Marshall,40,President,,Donald J. Trump,REP,128
+Marshall,41,President,,Donald J. Trump,REP,155
+Marshall,43,President,,Donald J. Trump,REP,404
+Marshall,44,President,,Donald J. Trump,REP,238
+Marshall,45,President,,Donald J. Trump,REP,230
+Marshall,46,President,,Donald J. Trump,REP,372
+Marshall,48,President,,Donald J. Trump,REP,85
+Marshall,52,President,,Donald J. Trump,REP,232
+Marshall,56,President,,Donald J. Trump,REP,174
+Marshall,58,President,,Donald J. Trump,REP,118
+Marshall,60,President,,Donald J. Trump,REP,240
+Marshall,61,President,,Donald J. Trump,REP,108
+Marshall,,President,,Donald J. Trump,REP,9666
+Marshall,1,President,,Hillary Clinton,DEM,94
+Marshall,4,President,,Hillary Clinton,DEM,79
+Marshall,6,President,,Hillary Clinton,DEM,41
+Marshall,7,President,,Hillary Clinton,DEM,145
+Marshall,9,President,,Hillary Clinton,DEM,75
+Marshall,9A,President,,Hillary Clinton,DEM,89
+Marshall,10,President,,Hillary Clinton,DEM,65
+Marshall,11,President,,Hillary Clinton,DEM,111
+Marshall,12,President,,Hillary Clinton,DEM,82
+Marshall,13,President,,Hillary Clinton,DEM,112
+Marshall,14,President,,Hillary Clinton,DEM,111
+Marshall,15A,President,,Hillary Clinton,DEM,33
+Marshall,17,President,,Hillary Clinton,DEM,70
+Marshall,17A,President,,Hillary Clinton,DEM,56
+Marshall,18,President,,Hillary Clinton,DEM,107
+Marshall,19,President,,Hillary Clinton,DEM,29
+Marshall,20,President,,Hillary Clinton,DEM,48
+Marshall,21,President,,Hillary Clinton,DEM,47
+Marshall,23,President,,Hillary Clinton,DEM,42
+Marshall,24,President,,Hillary Clinton,DEM,64
+Marshall,25,President,,Hillary Clinton,DEM,64
+Marshall,26,President,,Hillary Clinton,DEM,56
+Marshall,27,President,,Hillary Clinton,DEM,46
+Marshall,28,President,,Hillary Clinton,DEM,114
+Marshall,29,President,,Hillary Clinton,DEM,77
+Marshall,30,President,,Hillary Clinton,DEM,52
+Marshall,33,President,,Hillary Clinton,DEM,130
+Marshall,34,President,,Hillary Clinton,DEM,98
+Marshall,35,President,,Hillary Clinton,DEM,74
+Marshall,36,President,,Hillary Clinton,DEM,21
+Marshall,38,President,,Hillary Clinton,DEM,57
+Marshall,39,President,,Hillary Clinton,DEM,66
+Marshall,40,President,,Hillary Clinton,DEM,18
+Marshall,41,President,,Hillary Clinton,DEM,25
+Marshall,43,President,,Hillary Clinton,DEM,72
+Marshall,44,President,,Hillary Clinton,DEM,96
+Marshall,45,President,,Hillary Clinton,DEM,40
+Marshall,46,President,,Hillary Clinton,DEM,98
+Marshall,48,President,,Hillary Clinton,DEM,23
+Marshall,52,President,,Hillary Clinton,DEM,71
+Marshall,56,President,,Hillary Clinton,DEM,52
+Marshall,58,President,,Hillary Clinton,DEM,20
+Marshall,60,President,,Hillary Clinton,DEM,35
+Marshall,61,President,,Hillary Clinton,DEM,13
+Marshall,,President,,Hillary Clinton,DEM,2918
+Marshall,1,President,,Gary Johnson,LIB,16
+Marshall,4,President,,Gary Johnson,LIB,10
+Marshall,6,President,,Gary Johnson,LIB,5
+Marshall,7,President,,Gary Johnson,LIB,23
+Marshall,9,President,,Gary Johnson,LIB,15
+Marshall,9A,President,,Gary Johnson,LIB,22
+Marshall,10,President,,Gary Johnson,LIB,12
+Marshall,11,President,,Gary Johnson,LIB,21
+Marshall,12,President,,Gary Johnson,LIB,13
+Marshall,13,President,,Gary Johnson,LIB,9
+Marshall,14,President,,Gary Johnson,LIB,10
+Marshall,15A,President,,Gary Johnson,LIB,2
+Marshall,17,President,,Gary Johnson,LIB,11
+Marshall,17A,President,,Gary Johnson,LIB,11
+Marshall,18,President,,Gary Johnson,LIB,8
+Marshall,19,President,,Gary Johnson,LIB,3
+Marshall,20,President,,Gary Johnson,LIB,6
+Marshall,21,President,,Gary Johnson,LIB,7
+Marshall,23,President,,Gary Johnson,LIB,4
+Marshall,24,President,,Gary Johnson,LIB,7
+Marshall,25,President,,Gary Johnson,LIB,4
+Marshall,26,President,,Gary Johnson,LIB,4
+Marshall,27,President,,Gary Johnson,LIB,8
+Marshall,28,President,,Gary Johnson,LIB,12
+Marshall,29,President,,Gary Johnson,LIB,20
+Marshall,30,President,,Gary Johnson,LIB,7
+Marshall,33,President,,Gary Johnson,LIB,18
+Marshall,34,President,,Gary Johnson,LIB,14
+Marshall,35,President,,Gary Johnson,LIB,10
+Marshall,36,President,,Gary Johnson,LIB,1
+Marshall,38,President,,Gary Johnson,LIB,8
+Marshall,39,President,,Gary Johnson,LIB,5
+Marshall,40,President,,Gary Johnson,LIB,3
+Marshall,41,President,,Gary Johnson,LIB,5
+Marshall,43,President,,Gary Johnson,LIB,12
+Marshall,44,President,,Gary Johnson,LIB,11
+Marshall,45,President,,Gary Johnson,LIB,6
+Marshall,46,President,,Gary Johnson,LIB,16
+Marshall,48,President,,Gary Johnson,LIB,5
+Marshall,52,President,,Gary Johnson,LIB,8
+Marshall,56,President,,Gary Johnson,LIB,9
+Marshall,58,President,,Gary Johnson,LIB,9
+Marshall,60,President,,Gary Johnson,LIB,8
+Marshall,61,President,,Gary Johnson,LIB,0
+Marshall,,President,,Gary Johnson,LIB,418
+Marshall,1,President,,Jill Stein,MTN,2
+Marshall,4,President,,Jill Stein,MTN,1
+Marshall,6,President,,Jill Stein,MTN,1
+Marshall,7,President,,Jill Stein,MTN,12
+Marshall,9,President,,Jill Stein,MTN,1
+Marshall,9A,President,,Jill Stein,MTN,2
+Marshall,10,President,,Jill Stein,MTN,3
+Marshall,11,President,,Jill Stein,MTN,4
+Marshall,12,President,,Jill Stein,MTN,6
+Marshall,13,President,,Jill Stein,MTN,3
+Marshall,14,President,,Jill Stein,MTN,7
+Marshall,15A,President,,Jill Stein,MTN,3
+Marshall,17,President,,Jill Stein,MTN,2
+Marshall,17A,President,,Jill Stein,MTN,2
+Marshall,18,President,,Jill Stein,MTN,6
+Marshall,19,President,,Jill Stein,MTN,0
+Marshall,20,President,,Jill Stein,MTN,2
+Marshall,21,President,,Jill Stein,MTN,4
+Marshall,23,President,,Jill Stein,MTN,1
+Marshall,24,President,,Jill Stein,MTN,2
+Marshall,25,President,,Jill Stein,MTN,5
+Marshall,26,President,,Jill Stein,MTN,5
+Marshall,27,President,,Jill Stein,MTN,2
+Marshall,28,President,,Jill Stein,MTN,4
+Marshall,29,President,,Jill Stein,MTN,4
+Marshall,30,President,,Jill Stein,MTN,2
+Marshall,33,President,,Jill Stein,MTN,6
+Marshall,34,President,,Jill Stein,MTN,6
+Marshall,35,President,,Jill Stein,MTN,12
+Marshall,36,President,,Jill Stein,MTN,1
+Marshall,38,President,,Jill Stein,MTN,3
+Marshall,39,President,,Jill Stein,MTN,5
+Marshall,40,President,,Jill Stein,MTN,3
+Marshall,41,President,,Jill Stein,MTN,1
+Marshall,43,President,,Jill Stein,MTN,4
+Marshall,44,President,,Jill Stein,MTN,3
+Marshall,45,President,,Jill Stein,MTN,2
+Marshall,46,President,,Jill Stein,MTN,8
+Marshall,48,President,,Jill Stein,MTN,3
+Marshall,52,President,,Jill Stein,MTN,3
+Marshall,56,President,,Jill Stein,MTN,6
+Marshall,58,President,,Jill Stein,MTN,1
+Marshall,60,President,,Jill Stein,MTN,0
+Marshall,61,President,,Jill Stein,MTN,0
+Marshall,,President,,Jill Stein,MTN,153
+Marshall,1,President,,Darrell L. Castle,CST,2
+Marshall,4,President,,Darrell L. Castle,CST,4
+Marshall,6,President,,Darrell L. Castle,CST,3
+Marshall,7,President,,Darrell L. Castle,CST,5
+Marshall,9,President,,Darrell L. Castle,CST,3
+Marshall,9A,President,,Darrell L. Castle,CST,0
+Marshall,10,President,,Darrell L. Castle,CST,1
+Marshall,11,President,,Darrell L. Castle,CST,2
+Marshall,12,President,,Darrell L. Castle,CST,2
+Marshall,13,President,,Darrell L. Castle,CST,0
+Marshall,14,President,,Darrell L. Castle,CST,0
+Marshall,15A,President,,Darrell L. Castle,CST,0
+Marshall,17,President,,Darrell L. Castle,CST,3
+Marshall,17A,President,,Darrell L. Castle,CST,1
+Marshall,18,President,,Darrell L. Castle,CST,1
+Marshall,19,President,,Darrell L. Castle,CST,0
+Marshall,20,President,,Darrell L. Castle,CST,0
+Marshall,21,President,,Darrell L. Castle,CST,0
+Marshall,23,President,,Darrell L. Castle,CST,0
+Marshall,24,President,,Darrell L. Castle,CST,0
+Marshall,25,President,,Darrell L. Castle,CST,1
+Marshall,26,President,,Darrell L. Castle,CST,0
+Marshall,27,President,,Darrell L. Castle,CST,1
+Marshall,28,President,,Darrell L. Castle,CST,3
+Marshall,29,President,,Darrell L. Castle,CST,3
+Marshall,30,President,,Darrell L. Castle,CST,0
+Marshall,33,President,,Darrell L. Castle,CST,3
+Marshall,34,President,,Darrell L. Castle,CST,1
+Marshall,35,President,,Darrell L. Castle,CST,2
+Marshall,36,President,,Darrell L. Castle,CST,1
+Marshall,38,President,,Darrell L. Castle,CST,1
+Marshall,39,President,,Darrell L. Castle,CST,4
+Marshall,40,President,,Darrell L. Castle,CST,0
+Marshall,41,President,,Darrell L. Castle,CST,0
+Marshall,43,President,,Darrell L. Castle,CST,0
+Marshall,44,President,,Darrell L. Castle,CST,2
+Marshall,45,President,,Darrell L. Castle,CST,2
+Marshall,46,President,,Darrell L. Castle,CST,4
+Marshall,48,President,,Darrell L. Castle,CST,1
+Marshall,52,President,,Darrell L. Castle,CST,1
+Marshall,56,President,,Darrell L. Castle,CST,0
+Marshall,58,President,,Darrell L. Castle,CST,1
+Marshall,60,President,,Darrell L. Castle,CST,1
+Marshall,61,President,,Darrell L. Castle,CST,2
+Marshall,,President,,Darrell L. Castle,CST,61
+Marshall,1,President,,Write-ins,,7
+Marshall,4,President,,Write-ins,,6
+Marshall,6,President,,Write-ins,,5
+Marshall,7,President,,Write-ins,,6
+Marshall,9,President,,Write-ins,,6
+Marshall,9A,President,,Write-ins,,4
+Marshall,10,President,,Write-ins,,3
+Marshall,11,President,,Write-ins,,3
+Marshall,12,President,,Write-ins,,5
+Marshall,13,President,,Write-ins,,7
+Marshall,14,President,,Write-ins,,3
+Marshall,15A,President,,Write-ins,,0
+Marshall,17,President,,Write-ins,,4
+Marshall,17A,President,,Write-ins,,2
+Marshall,18,President,,Write-ins,,4
+Marshall,19,President,,Write-ins,,1
+Marshall,20,President,,Write-ins,,1
+Marshall,21,President,,Write-ins,,2
+Marshall,23,President,,Write-ins,,0
+Marshall,24,President,,Write-ins,,1
+Marshall,25,President,,Write-ins,,3
+Marshall,26,President,,Write-ins,,1
+Marshall,27,President,,Write-ins,,2
+Marshall,28,President,,Write-ins,,5
+Marshall,29,President,,Write-ins,,5
+Marshall,30,President,,Write-ins,,3
+Marshall,33,President,,Write-ins,,2
+Marshall,34,President,,Write-ins,,5
+Marshall,35,President,,Write-ins,,3
+Marshall,36,President,,Write-ins,,0
+Marshall,38,President,,Write-ins,,3
+Marshall,39,President,,Write-ins,,2
+Marshall,40,President,,Write-ins,,1
+Marshall,41,President,,Write-ins,,2
+Marshall,43,President,,Write-ins,,10
+Marshall,44,President,,Write-ins,,4
+Marshall,45,President,,Write-ins,,4
+Marshall,46,President,,Write-ins,,4
+Marshall,48,President,,Write-ins,,1
+Marshall,52,President,,Write-ins,,4
+Marshall,56,President,,Write-ins,,0
+Marshall,58,President,,Write-ins,,1
+Marshall,60,President,,Write-ins,,1
+Marshall,61,President,,Write-ins,,1
+Marshall,,President,,Write-ins,,137
+Marshall,1,U.S House,1,David B. Mckinley,REP,217
+Marshall,4,U.S House,1,David B. Mckinley,REP,322
+Marshall,6,U.S House,1,David B. Mckinley,REP,151
+Marshall,7,U.S House,1,David B. Mckinley,REP,371
+Marshall,9,U.S House,1,David B. Mckinley,REP,229
+Marshall,9A,U.S House,1,David B. Mckinley,REP,382
+Marshall,10,U.S House,1,David B. Mckinley,REP,209
+Marshall,11,U.S House,1,David B. Mckinley,REP,449
+Marshall,12,U.S House,1,David B. Mckinley,REP,359
+Marshall,13,U.S House,1,David B. Mckinley,REP,252
+Marshall,14,U.S House,1,David B. Mckinley,REP,389
+Marshall,15A,U.S House,1,David B. Mckinley,REP,192
+Marshall,17,U.S House,1,David B. Mckinley,REP,257
+Marshall,17A,U.S House,1,David B. Mckinley,REP,232
+Marshall,18,U.S House,1,David B. Mckinley,REP,339
+Marshall,19,U.S House,1,David B. Mckinley,REP,110
+Marshall,20,U.S House,1,David B. Mckinley,REP,91
+Marshall,21,U.S House,1,David B. Mckinley,REP,147
+Marshall,23,U.S House,1,David B. Mckinley,REP,103
+Marshall,24,U.S House,1,David B. Mckinley,REP,209
+Marshall,25,U.S House,1,David B. Mckinley,REP,141
+Marshall,26,U.S House,1,David B. Mckinley,REP,138
+Marshall,27,U.S House,1,David B. Mckinley,REP,187
+Marshall,28,U.S House,1,David B. Mckinley,REP,293
+Marshall,29,U.S House,1,David B. Mckinley,REP,347
+Marshall,30,U.S House,1,David B. Mckinley,REP,145
+Marshall,33,U.S House,1,David B. Mckinley,REP,447
+Marshall,34,U.S House,1,David B. Mckinley,REP,314
+Marshall,35,U.S House,1,David B. Mckinley,REP,299
+Marshall,36,U.S House,1,David B. Mckinley,REP,81
+Marshall,38,U.S House,1,David B. Mckinley,REP,215
+Marshall,39,U.S House,1,David B. Mckinley,REP,261
+Marshall,40,U.S House,1,David B. Mckinley,REP,125
+Marshall,41,U.S House,1,David B. Mckinley,REP,156
+Marshall,43,U.S House,1,David B. Mckinley,REP,416
+Marshall,44,U.S House,1,David B. Mckinley,REP,255
+Marshall,45,U.S House,1,David B. Mckinley,REP,232
+Marshall,46,U.S House,1,David B. Mckinley,REP,390
+Marshall,48,U.S House,1,David B. Mckinley,REP,83
+Marshall,52,U.S House,1,David B. Mckinley,REP,228
+Marshall,56,U.S House,1,David B. Mckinley,REP,180
+Marshall,58,U.S House,1,David B. Mckinley,REP,119
+Marshall,60,U.S House,1,David B. Mckinley,REP,240
+Marshall,61,U.S House,1,David B. Mckinley,REP,102
+Marshall,,U.S House,1,David B. Mckinley,REP,10404
+Marshall,1,U.S House,1,Mike Manypenny,DEM,88
+Marshall,4,U.S House,1,Mike Manypenny,DEM,63
+Marshall,6,U.S House,1,Mike Manypenny,DEM,39
+Marshall,7,U.S House,1,Mike Manypenny,DEM,117
+Marshall,9,U.S House,1,Mike Manypenny,DEM,73
+Marshall,9A,U.S House,1,Mike Manypenny,DEM,65
+Marshall,10,U.S House,1,Mike Manypenny,DEM,49
+Marshall,11,U.S House,1,Mike Manypenny,DEM,82
+Marshall,12,U.S House,1,Mike Manypenny,DEM,78
+Marshall,13,U.S House,1,Mike Manypenny,DEM,81
+Marshall,14,U.S House,1,Mike Manypenny,DEM,75
+Marshall,15A,U.S House,1,Mike Manypenny,DEM,34
+Marshall,17,U.S House,1,Mike Manypenny,DEM,57
+Marshall,17A,U.S House,1,Mike Manypenny,DEM,56
+Marshall,18,U.S House,1,Mike Manypenny,DEM,81
+Marshall,19,U.S House,1,Mike Manypenny,DEM,28
+Marshall,20,U.S House,1,Mike Manypenny,DEM,34
+Marshall,21,U.S House,1,Mike Manypenny,DEM,42
+Marshall,23,U.S House,1,Mike Manypenny,DEM,28
+Marshall,24,U.S House,1,Mike Manypenny,DEM,64
+Marshall,25,U.S House,1,Mike Manypenny,DEM,36
+Marshall,26,U.S House,1,Mike Manypenny,DEM,48
+Marshall,27,U.S House,1,Mike Manypenny,DEM,35
+Marshall,28,U.S House,1,Mike Manypenny,DEM,93
+Marshall,29,U.S House,1,Mike Manypenny,DEM,64
+Marshall,30,U.S House,1,Mike Manypenny,DEM,29
+Marshall,33,U.S House,1,Mike Manypenny,DEM,90
+Marshall,34,U.S House,1,Mike Manypenny,DEM,64
+Marshall,35,U.S House,1,Mike Manypenny,DEM,96
+Marshall,36,U.S House,1,Mike Manypenny,DEM,24
+Marshall,38,U.S House,1,Mike Manypenny,DEM,50
+Marshall,39,U.S House,1,Mike Manypenny,DEM,46
+Marshall,40,U.S House,1,Mike Manypenny,DEM,25
+Marshall,41,U.S House,1,Mike Manypenny,DEM,24
+Marshall,43,U.S House,1,Mike Manypenny,DEM,66
+Marshall,44,U.S House,1,Mike Manypenny,DEM,86
+Marshall,45,U.S House,1,Mike Manypenny,DEM,47
+Marshall,46,U.S House,1,Mike Manypenny,DEM,90
+Marshall,48,U.S House,1,Mike Manypenny,DEM,30
+Marshall,52,U.S House,1,Mike Manypenny,DEM,78
+Marshall,56,U.S House,1,Mike Manypenny,DEM,58
+Marshall,58,U.S House,1,Mike Manypenny,DEM,28
+Marshall,60,U.S House,1,Mike Manypenny,DEM,37
+Marshall,61,U.S House,1,Mike Manypenny,DEM,18
+Marshall,,U.S House,1,Mike Manypenny,DEM,2496
+Marshall,1,U.S House,1,Write-ins,,1
+Marshall,4,U.S House,1,Write-ins,,1
+Marshall,6,U.S House,1,Write-ins,,0
+Marshall,7,U.S House,1,Write-ins,,0
+Marshall,9,U.S House,1,Write-ins,,0
+Marshall,9A,U.S House,1,Write-ins,,0
+Marshall,10,U.S House,1,Write-ins,,1
+Marshall,11,U.S House,1,Write-ins,,0
+Marshall,12,U.S House,1,Write-ins,,0
+Marshall,13,U.S House,1,Write-ins,,0
+Marshall,14,U.S House,1,Write-ins,,0
+Marshall,15A,U.S House,1,Write-ins,,0
+Marshall,17,U.S House,1,Write-ins,,0
+Marshall,17A,U.S House,1,Write-ins,,1
+Marshall,18,U.S House,1,Write-ins,,0
+Marshall,19,U.S House,1,Write-ins,,0
+Marshall,20,U.S House,1,Write-ins,,0
+Marshall,21,U.S House,1,Write-ins,,0
+Marshall,23,U.S House,1,Write-ins,,0
+Marshall,24,U.S House,1,Write-ins,,1
+Marshall,25,U.S House,1,Write-ins,,0
+Marshall,26,U.S House,1,Write-ins,,0
+Marshall,27,U.S House,1,Write-ins,,0
+Marshall,28,U.S House,1,Write-ins,,0
+Marshall,29,U.S House,1,Write-ins,,0
+Marshall,30,U.S House,1,Write-ins,,0
+Marshall,33,U.S House,1,Write-ins,,1
+Marshall,34,U.S House,1,Write-ins,,0
+Marshall,35,U.S House,1,Write-ins,,0
+Marshall,36,U.S House,1,Write-ins,,0
+Marshall,38,U.S House,1,Write-ins,,0
+Marshall,39,U.S House,1,Write-ins,,0
+Marshall,40,U.S House,1,Write-ins,,0
+Marshall,41,U.S House,1,Write-ins,,0
+Marshall,43,U.S House,1,Write-ins,,0
+Marshall,44,U.S House,1,Write-ins,,0
+Marshall,45,U.S House,1,Write-ins,,0
+Marshall,46,U.S House,1,Write-ins,,0
+Marshall,48,U.S House,1,Write-ins,,0
+Marshall,52,U.S House,1,Write-ins,,0
+Marshall,56,U.S House,1,Write-ins,,0
+Marshall,58,U.S House,1,Write-ins,,0
+Marshall,60,U.S House,1,Write-ins,,0
+Marshall,61,U.S House,1,Write-ins,,1
+Marshall,,U.S House,1,Write-ins,,7
+Marshall,1,Governor,,Bill Cole,REP,124
+Marshall,4,Governor,,Bill Cole,REP,193
+Marshall,6,Governor,,Bill Cole,REP,77
+Marshall,7,Governor,,Bill Cole,REP,222
+Marshall,9,Governor,,Bill Cole,REP,131
+Marshall,9A,Governor,,Bill Cole,REP,210
+Marshall,10,Governor,,Bill Cole,REP,110
+Marshall,11,Governor,,Bill Cole,REP,237
+Marshall,12,Governor,,Bill Cole,REP,191
+Marshall,13,Governor,,Bill Cole,REP,119
+Marshall,14,Governor,,Bill Cole,REP,199
+Marshall,15A,Governor,,Bill Cole,REP,102
+Marshall,17,Governor,,Bill Cole,REP,129
+Marshall,17A,Governor,,Bill Cole,REP,141
+Marshall,18,Governor,,Bill Cole,REP,175
+Marshall,19,Governor,,Bill Cole,REP,57
+Marshall,20,Governor,,Bill Cole,REP,36
+Marshall,21,Governor,,Bill Cole,REP,80
+Marshall,23,Governor,,Bill Cole,REP,46
+Marshall,24,Governor,,Bill Cole,REP,128
+Marshall,25,Governor,,Bill Cole,REP,72
+Marshall,26,Governor,,Bill Cole,REP,72
+Marshall,27,Governor,,Bill Cole,REP,92
+Marshall,28,Governor,,Bill Cole,REP,135
+Marshall,29,Governor,,Bill Cole,REP,180
+Marshall,30,Governor,,Bill Cole,REP,67
+Marshall,33,Governor,,Bill Cole,REP,269
+Marshall,34,Governor,,Bill Cole,REP,182
+Marshall,35,Governor,,Bill Cole,REP,188
+Marshall,36,Governor,,Bill Cole,REP,51
+Marshall,38,Governor,,Bill Cole,REP,132
+Marshall,39,Governor,,Bill Cole,REP,157
+Marshall,40,Governor,,Bill Cole,REP,69
+Marshall,41,Governor,,Bill Cole,REP,100
+Marshall,43,Governor,,Bill Cole,REP,225
+Marshall,44,Governor,,Bill Cole,REP,133
+Marshall,45,Governor,,Bill Cole,REP,150
+Marshall,46,Governor,,Bill Cole,REP,204
+Marshall,48,Governor,,Bill Cole,REP,54
+Marshall,52,Governor,,Bill Cole,REP,129
+Marshall,56,Governor,,Bill Cole,REP,90
+Marshall,58,Governor,,Bill Cole,REP,67
+Marshall,60,Governor,,Bill Cole,REP,122
+Marshall,61,Governor,,Bill Cole,REP,49
+Marshall,,Governor,,Bill Cole,REP,5696
+Marshall,1,Governor,,Jim Justice,DEM,150
+Marshall,4,Governor,,Jim Justice,DEM,172
+Marshall,6,Governor,,Jim Justice,DEM,106
+Marshall,7,Governor,,Jim Justice,DEM,233
+Marshall,9,Governor,,Jim Justice,DEM,161
+Marshall,9A,Governor,,Jim Justice,DEM,216
+Marshall,10,Governor,,Jim Justice,DEM,124
+Marshall,11,Governor,,Jim Justice,DEM,248
+Marshall,12,Governor,,Jim Justice,DEM,236
+Marshall,13,Governor,,Jim Justice,DEM,193
+Marshall,14,Governor,,Jim Justice,DEM,242
+Marshall,15A,Governor,,Jim Justice,DEM,117
+Marshall,17,Governor,,Jim Justice,DEM,168
+Marshall,17A,Governor,,Jim Justice,DEM,144
+Marshall,18,Governor,,Jim Justice,DEM,229
+Marshall,19,Governor,,Jim Justice,DEM,71
+Marshall,20,Governor,,Jim Justice,DEM,83
+Marshall,21,Governor,,Jim Justice,DEM,99
+Marshall,23,Governor,,Jim Justice,DEM,83
+Marshall,24,Governor,,Jim Justice,DEM,140
+Marshall,25,Governor,,Jim Justice,DEM,91
+Marshall,26,Governor,,Jim Justice,DEM,102
+Marshall,27,Governor,,Jim Justice,DEM,125
+Marshall,28,Governor,,Jim Justice,DEM,220
+Marshall,29,Governor,,Jim Justice,DEM,205
+Marshall,30,Governor,,Jim Justice,DEM,94
+Marshall,33,Governor,,Jim Justice,DEM,248
+Marshall,34,Governor,,Jim Justice,DEM,178
+Marshall,35,Governor,,Jim Justice,DEM,180
+Marshall,36,Governor,,Jim Justice,DEM,48
+Marshall,38,Governor,,Jim Justice,DEM,114
+Marshall,39,Governor,,Jim Justice,DEM,126
+Marshall,40,Governor,,Jim Justice,DEM,80
+Marshall,41,Governor,,Jim Justice,DEM,76
+Marshall,43,Governor,,Jim Justice,DEM,249
+Marshall,44,Governor,,Jim Justice,DEM,174
+Marshall,45,Governor,,Jim Justice,DEM,112
+Marshall,46,Governor,,Jim Justice,DEM,241
+Marshall,48,Governor,,Jim Justice,DEM,52
+Marshall,52,Governor,,Jim Justice,DEM,161
+Marshall,56,Governor,,Jim Justice,DEM,123
+Marshall,58,Governor,,Jim Justice,DEM,75
+Marshall,60,Governor,,Jim Justice,DEM,136
+Marshall,61,Governor,,Jim Justice,DEM,66
+Marshall,,Governor,,Jim Justice,DEM,6491
+Marshall,1,Governor,,David Moran,LIB,9
+Marshall,4,Governor,,David Moran,LIB,6
+Marshall,6,Governor,,David Moran,LIB,1
+Marshall,7,Governor,,David Moran,LIB,13
+Marshall,9,Governor,,David Moran,LIB,4
+Marshall,9A,Governor,,David Moran,LIB,6
+Marshall,10,Governor,,David Moran,LIB,7
+Marshall,11,Governor,,David Moran,LIB,6
+Marshall,12,Governor,,David Moran,LIB,6
+Marshall,13,Governor,,David Moran,LIB,10
+Marshall,14,Governor,,David Moran,LIB,4
+Marshall,15A,Governor,,David Moran,LIB,5
+Marshall,17,Governor,,David Moran,LIB,0
+Marshall,17A,Governor,,David Moran,LIB,3
+Marshall,18,Governor,,David Moran,LIB,5
+Marshall,19,Governor,,David Moran,LIB,3
+Marshall,20,Governor,,David Moran,LIB,1
+Marshall,21,Governor,,David Moran,LIB,0
+Marshall,23,Governor,,David Moran,LIB,4
+Marshall,24,Governor,,David Moran,LIB,3
+Marshall,25,Governor,,David Moran,LIB,6
+Marshall,26,Governor,,David Moran,LIB,4
+Marshall,27,Governor,,David Moran,LIB,3
+Marshall,28,Governor,,David Moran,LIB,10
+Marshall,29,Governor,,David Moran,LIB,8
+Marshall,30,Governor,,David Moran,LIB,9
+Marshall,33,Governor,,David Moran,LIB,7
+Marshall,34,Governor,,David Moran,LIB,6
+Marshall,35,Governor,,David Moran,LIB,7
+Marshall,36,Governor,,David Moran,LIB,1
+Marshall,38,Governor,,David Moran,LIB,4
+Marshall,39,Governor,,David Moran,LIB,9
+Marshall,40,Governor,,David Moran,LIB,4
+Marshall,41,Governor,,David Moran,LIB,4
+Marshall,43,Governor,,David Moran,LIB,3
+Marshall,44,Governor,,David Moran,LIB,8
+Marshall,45,Governor,,David Moran,LIB,4
+Marshall,46,Governor,,David Moran,LIB,9
+Marshall,48,Governor,,David Moran,LIB,5
+Marshall,52,Governor,,David Moran,LIB,4
+Marshall,56,Governor,,David Moran,LIB,5
+Marshall,58,Governor,,David Moran,LIB,4
+Marshall,60,Governor,,David Moran,LIB,6
+Marshall,61,Governor,,David Moran,LIB,3
+Marshall,,Governor,,David Moran,LIB,229
+Marshall,1,Governor,,Charlotte Jean Pritt,MTN,26
+Marshall,4,Governor,,Charlotte Jean Pritt,MTN,21
+Marshall,6,Governor,,Charlotte Jean Pritt,MTN,15
+Marshall,7,Governor,,Charlotte Jean Pritt,MTN,27
+Marshall,9,Governor,,Charlotte Jean Pritt,MTN,14
+Marshall,9A,Governor,,Charlotte Jean Pritt,MTN,20
+Marshall,10,Governor,,Charlotte Jean Pritt,MTN,16
+Marshall,11,Governor,,Charlotte Jean Pritt,MTN,35
+Marshall,12,Governor,,Charlotte Jean Pritt,MTN,13
+Marshall,13,Governor,,Charlotte Jean Pritt,MTN,16
+Marshall,14,Governor,,Charlotte Jean Pritt,MTN,15
+Marshall,15A,Governor,,Charlotte Jean Pritt,MTN,12
+Marshall,17,Governor,,Charlotte Jean Pritt,MTN,23
+Marshall,17A,Governor,,Charlotte Jean Pritt,MTN,7
+Marshall,18,Governor,,Charlotte Jean Pritt,MTN,17
+Marshall,19,Governor,,Charlotte Jean Pritt,MTN,7
+Marshall,20,Governor,,Charlotte Jean Pritt,MTN,9
+Marshall,21,Governor,,Charlotte Jean Pritt,MTN,8
+Marshall,23,Governor,,Charlotte Jean Pritt,MTN,6
+Marshall,24,Governor,,Charlotte Jean Pritt,MTN,11
+Marshall,25,Governor,,Charlotte Jean Pritt,MTN,13
+Marshall,26,Governor,,Charlotte Jean Pritt,MTN,13
+Marshall,27,Governor,,Charlotte Jean Pritt,MTN,3
+Marshall,28,Governor,,Charlotte Jean Pritt,MTN,23
+Marshall,29,Governor,,Charlotte Jean Pritt,MTN,19
+Marshall,30,Governor,,Charlotte Jean Pritt,MTN,7
+Marshall,33,Governor,,Charlotte Jean Pritt,MTN,21
+Marshall,34,Governor,,Charlotte Jean Pritt,MTN,9
+Marshall,35,Governor,,Charlotte Jean Pritt,MTN,31
+Marshall,36,Governor,,Charlotte Jean Pritt,MTN,5
+Marshall,38,Governor,,Charlotte Jean Pritt,MTN,16
+Marshall,39,Governor,,Charlotte Jean Pritt,MTN,15
+Marshall,40,Governor,,Charlotte Jean Pritt,MTN,3
+Marshall,41,Governor,,Charlotte Jean Pritt,MTN,3
+Marshall,43,Governor,,Charlotte Jean Pritt,MTN,16
+Marshall,44,Governor,,Charlotte Jean Pritt,MTN,24
+Marshall,45,Governor,,Charlotte Jean Pritt,MTN,13
+Marshall,46,Governor,,Charlotte Jean Pritt,MTN,32
+Marshall,48,Governor,,Charlotte Jean Pritt,MTN,6
+Marshall,52,Governor,,Charlotte Jean Pritt,MTN,13
+Marshall,56,Governor,,Charlotte Jean Pritt,MTN,18
+Marshall,58,Governor,,Charlotte Jean Pritt,MTN,3
+Marshall,60,Governor,,Charlotte Jean Pritt,MTN,11
+Marshall,61,Governor,,Charlotte Jean Pritt,MTN,5
+Marshall,,Governor,,Charlotte Jean Pritt,MTN,640
+Marshall,1,Governor,,Phil Hudok,CST,0
+Marshall,4,Governor,,Phil Hudok,CST,1
+Marshall,6,Governor,,Phil Hudok,CST,0
+Marshall,7,Governor,,Phil Hudok,CST,5
+Marshall,9,Governor,,Phil Hudok,CST,0
+Marshall,9A,Governor,,Phil Hudok,CST,1
+Marshall,10,Governor,,Phil Hudok,CST,4
+Marshall,11,Governor,,Phil Hudok,CST,3
+Marshall,12,Governor,,Phil Hudok,CST,3
+Marshall,13,Governor,,Phil Hudok,CST,0
+Marshall,14,Governor,,Phil Hudok,CST,3
+Marshall,15A,Governor,,Phil Hudok,CST,1
+Marshall,17,Governor,,Phil Hudok,CST,0
+Marshall,17A,Governor,,Phil Hudok,CST,0
+Marshall,18,Governor,,Phil Hudok,CST,0
+Marshall,19,Governor,,Phil Hudok,CST,0
+Marshall,20,Governor,,Phil Hudok,CST,0
+Marshall,21,Governor,,Phil Hudok,CST,1
+Marshall,23,Governor,,Phil Hudok,CST,3
+Marshall,24,Governor,,Phil Hudok,CST,0
+Marshall,25,Governor,,Phil Hudok,CST,3
+Marshall,26,Governor,,Phil Hudok,CST,1
+Marshall,27,Governor,,Phil Hudok,CST,1
+Marshall,28,Governor,,Phil Hudok,CST,4
+Marshall,29,Governor,,Phil Hudok,CST,2
+Marshall,30,Governor,,Phil Hudok,CST,2
+Marshall,33,Governor,,Phil Hudok,CST,1
+Marshall,34,Governor,,Phil Hudok,CST,0
+Marshall,35,Governor,,Phil Hudok,CST,1
+Marshall,36,Governor,,Phil Hudok,CST,1
+Marshall,38,Governor,,Phil Hudok,CST,0
+Marshall,39,Governor,,Phil Hudok,CST,3
+Marshall,40,Governor,,Phil Hudok,CST,2
+Marshall,41,Governor,,Phil Hudok,CST,2
+Marshall,43,Governor,,Phil Hudok,CST,1
+Marshall,44,Governor,,Phil Hudok,CST,1
+Marshall,45,Governor,,Phil Hudok,CST,2
+Marshall,46,Governor,,Phil Hudok,CST,1
+Marshall,48,Governor,,Phil Hudok,CST,0
+Marshall,52,Governor,,Phil Hudok,CST,10
+Marshall,56,Governor,,Phil Hudok,CST,4
+Marshall,58,Governor,,Phil Hudok,CST,1
+Marshall,60,Governor,,Phil Hudok,CST,1
+Marshall,61,Governor,,Phil Hudok,CST,0
+Marshall,,Governor,,Phil Hudok,CST,69
+Marshall,1,Governor,,Write-ins,,0
+Marshall,4,Governor,,Write-ins,,0
+Marshall,6,Governor,,Write-ins,,1
+Marshall,7,Governor,,Write-ins,,1
+Marshall,9,Governor,,Write-ins,,2
+Marshall,9A,Governor,,Write-ins,,0
+Marshall,10,Governor,,Write-ins,,0
+Marshall,11,Governor,,Write-ins,,0
+Marshall,12,Governor,,Write-ins,,0
+Marshall,13,Governor,,Write-ins,,1
+Marshall,14,Governor,,Write-ins,,2
+Marshall,15A,Governor,,Write-ins,,1
+Marshall,17,Governor,,Write-ins,,0
+Marshall,17A,Governor,,Write-ins,,1
+Marshall,18,Governor,,Write-ins,,0
+Marshall,19,Governor,,Write-ins,,0
+Marshall,20,Governor,,Write-ins,,0
+Marshall,21,Governor,,Write-ins,,0
+Marshall,23,Governor,,Write-ins,,0
+Marshall,24,Governor,,Write-ins,,1
+Marshall,25,Governor,,Write-ins,,0
+Marshall,26,Governor,,Write-ins,,0
+Marshall,27,Governor,,Write-ins,,0
+Marshall,28,Governor,,Write-ins,,2
+Marshall,29,Governor,,Write-ins,,1
+Marshall,30,Governor,,Write-ins,,0
+Marshall,33,Governor,,Write-ins,,0
+Marshall,34,Governor,,Write-ins,,1
+Marshall,35,Governor,,Write-ins,,0
+Marshall,36,Governor,,Write-ins,,0
+Marshall,38,Governor,,Write-ins,,0
+Marshall,39,Governor,,Write-ins,,0
+Marshall,40,Governor,,Write-ins,,0
+Marshall,41,Governor,,Write-ins,,0
+Marshall,43,Governor,,Write-ins,,0
+Marshall,44,Governor,,Write-ins,,0
+Marshall,45,Governor,,Write-ins,,0
+Marshall,46,Governor,,Write-ins,,1
+Marshall,48,Governor,,Write-ins,,0
+Marshall,52,Governor,,Write-ins,,0
+Marshall,56,Governor,,Write-ins,,0
+Marshall,58,Governor,,Write-ins,,0
+Marshall,60,Governor,,Write-ins,,0
+Marshall,61,Governor,,Write-ins,,0
+Marshall,,Governor,,Write-ins,,15
+Marshall,1,Secretary of State,,Mac Warner,REP,124
+Marshall,4,Secretary of State,,Mac Warner,REP,184
+Marshall,6,Secretary of State,,Mac Warner,REP,86
+Marshall,7,Secretary of State,,Mac Warner,REP,208
+Marshall,9,Secretary of State,,Mac Warner,REP,140
+Marshall,9A,Secretary of State,,Mac Warner,REP,204
+Marshall,10,Secretary of State,,Mac Warner,REP,110
+Marshall,11,Secretary of State,,Mac Warner,REP,239
+Marshall,12,Secretary of State,,Mac Warner,REP,189
+Marshall,13,Secretary of State,,Mac Warner,REP,118
+Marshall,14,Secretary of State,,Mac Warner,REP,226
+Marshall,15A,Secretary of State,,Mac Warner,REP,109
+Marshall,17,Secretary of State,,Mac Warner,REP,131
+Marshall,17A,Secretary of State,,Mac Warner,REP,142
+Marshall,18,Secretary of State,,Mac Warner,REP,160
+Marshall,19,Secretary of State,,Mac Warner,REP,59
+Marshall,20,Secretary of State,,Mac Warner,REP,31
+Marshall,21,Secretary of State,,Mac Warner,REP,82
+Marshall,23,Secretary of State,,Mac Warner,REP,47
+Marshall,24,Secretary of State,,Mac Warner,REP,126
+Marshall,25,Secretary of State,,Mac Warner,REP,69
+Marshall,26,Secretary of State,,Mac Warner,REP,64
+Marshall,27,Secretary of State,,Mac Warner,REP,107
+Marshall,28,Secretary of State,,Mac Warner,REP,138
+Marshall,29,Secretary of State,,Mac Warner,REP,194
+Marshall,30,Secretary of State,,Mac Warner,REP,65
+Marshall,33,Secretary of State,,Mac Warner,REP,269
+Marshall,34,Secretary of State,,Mac Warner,REP,185
+Marshall,35,Secretary of State,,Mac Warner,REP,163
+Marshall,36,Secretary of State,,Mac Warner,REP,53
+Marshall,38,Secretary of State,,Mac Warner,REP,119
+Marshall,39,Secretary of State,,Mac Warner,REP,163
+Marshall,40,Secretary of State,,Mac Warner,REP,75
+Marshall,41,Secretary of State,,Mac Warner,REP,91
+Marshall,43,Secretary of State,,Mac Warner,REP,231
+Marshall,44,Secretary of State,,Mac Warner,REP,143
+Marshall,45,Secretary of State,,Mac Warner,REP,155
+Marshall,46,Secretary of State,,Mac Warner,REP,212
+Marshall,48,Secretary of State,,Mac Warner,REP,55
+Marshall,52,Secretary of State,,Mac Warner,REP,126
+Marshall,56,Secretary of State,,Mac Warner,REP,99
+Marshall,58,Secretary of State,,Mac Warner,REP,72
+Marshall,60,Secretary of State,,Mac Warner,REP,147
+Marshall,61,Secretary of State,,Mac Warner,REP,51
+Marshall,,Secretary of State,,Mac Warner,REP,5761
+Marshall,1,Secretary of State,,Natalie Tennant,DEM,174
+Marshall,4,Secretary of State,,Natalie Tennant,DEM,194
+Marshall,6,Secretary of State,,Natalie Tennant,DEM,104
+Marshall,7,Secretary of State,,Natalie Tennant,DEM,272
+Marshall,9,Secretary of State,,Natalie Tennant,DEM,162
+Marshall,9A,Secretary of State,,Natalie Tennant,DEM,223
+Marshall,10,Secretary of State,,Natalie Tennant,DEM,138
+Marshall,11,Secretary of State,,Natalie Tennant,DEM,268
+Marshall,12,Secretary of State,,Natalie Tennant,DEM,235
+Marshall,13,Secretary of State,,Natalie Tennant,DEM,190
+Marshall,14,Secretary of State,,Natalie Tennant,DEM,222
+Marshall,15A,Secretary of State,,Natalie Tennant,DEM,111
+Marshall,17,Secretary of State,,Natalie Tennant,DEM,178
+Marshall,17A,Secretary of State,,Natalie Tennant,DEM,136
+Marshall,18,Secretary of State,,Natalie Tennant,DEM,249
+Marshall,19,Secretary of State,,Natalie Tennant,DEM,70
+Marshall,20,Secretary of State,,Natalie Tennant,DEM,98
+Marshall,21,Secretary of State,,Natalie Tennant,DEM,106
+Marshall,23,Secretary of State,,Natalie Tennant,DEM,84
+Marshall,24,Secretary of State,,Natalie Tennant,DEM,149
+Marshall,25,Secretary of State,,Natalie Tennant,DEM,105
+Marshall,26,Secretary of State,,Natalie Tennant,DEM,112
+Marshall,27,Secretary of State,,Natalie Tennant,DEM,114
+Marshall,28,Secretary of State,,Natalie Tennant,DEM,236
+Marshall,29,Secretary of State,,Natalie Tennant,DEM,201
+Marshall,30,Secretary of State,,Natalie Tennant,DEM,104
+Marshall,33,Secretary of State,,Natalie Tennant,DEM,257
+Marshall,34,Secretary of State,,Natalie Tennant,DEM,177
+Marshall,35,Secretary of State,,Natalie Tennant,DEM,222
+Marshall,36,Secretary of State,,Natalie Tennant,DEM,48
+Marshall,38,Secretary of State,,Natalie Tennant,DEM,134
+Marshall,39,Secretary of State,,Natalie Tennant,DEM,127
+Marshall,40,Secretary of State,,Natalie Tennant,DEM,70
+Marshall,41,Secretary of State,,Natalie Tennant,DEM,82
+Marshall,43,Secretary of State,,Natalie Tennant,DEM,233
+Marshall,44,Secretary of State,,Natalie Tennant,DEM,184
+Marshall,45,Secretary of State,,Natalie Tennant,DEM,113
+Marshall,46,Secretary of State,,Natalie Tennant,DEM,256
+Marshall,48,Secretary of State,,Natalie Tennant,DEM,57
+Marshall,52,Secretary of State,,Natalie Tennant,DEM,175
+Marshall,56,Secretary of State,,Natalie Tennant,DEM,133
+Marshall,58,Secretary of State,,Natalie Tennant,DEM,72
+Marshall,60,Secretary of State,,Natalie Tennant,DEM,115
+Marshall,61,Secretary of State,,Natalie Tennant,DEM,65
+Marshall,,Secretary of State,,Natalie Tennant,DEM,6755
+Marshall,1,Secretary of State,,John S. Buckley,LIB,6
+Marshall,4,Secretary of State,,John S. Buckley,LIB,6
+Marshall,6,Secretary of State,,John S. Buckley,LIB,3
+Marshall,7,Secretary of State,,John S. Buckley,LIB,18
+Marshall,9,Secretary of State,,John S. Buckley,LIB,6
+Marshall,9A,Secretary of State,,John S. Buckley,LIB,11
+Marshall,10,Secretary of State,,John S. Buckley,LIB,9
+Marshall,11,Secretary of State,,John S. Buckley,LIB,17
+Marshall,12,Secretary of State,,John S. Buckley,LIB,13
+Marshall,13,Secretary of State,,John S. Buckley,LIB,19
+Marshall,14,Secretary of State,,John S. Buckley,LIB,11
+Marshall,15A,Secretary of State,,John S. Buckley,LIB,6
+Marshall,17,Secretary of State,,John S. Buckley,LIB,6
+Marshall,17A,Secretary of State,,John S. Buckley,LIB,8
+Marshall,18,Secretary of State,,John S. Buckley,LIB,7
+Marshall,19,Secretary of State,,John S. Buckley,LIB,7
+Marshall,20,Secretary of State,,John S. Buckley,LIB,2
+Marshall,21,Secretary of State,,John S. Buckley,LIB,1
+Marshall,23,Secretary of State,,John S. Buckley,LIB,2
+Marshall,24,Secretary of State,,John S. Buckley,LIB,3
+Marshall,25,Secretary of State,,John S. Buckley,LIB,5
+Marshall,26,Secretary of State,,John S. Buckley,LIB,7
+Marshall,27,Secretary of State,,John S. Buckley,LIB,2
+Marshall,28,Secretary of State,,John S. Buckley,LIB,8
+Marshall,29,Secretary of State,,John S. Buckley,LIB,10
+Marshall,30,Secretary of State,,John S. Buckley,LIB,6
+Marshall,33,Secretary of State,,John S. Buckley,LIB,13
+Marshall,34,Secretary of State,,John S. Buckley,LIB,5
+Marshall,35,Secretary of State,,John S. Buckley,LIB,9
+Marshall,36,Secretary of State,,John S. Buckley,LIB,2
+Marshall,38,Secretary of State,,John S. Buckley,LIB,7
+Marshall,39,Secretary of State,,John S. Buckley,LIB,8
+Marshall,40,Secretary of State,,John S. Buckley,LIB,4
+Marshall,41,Secretary of State,,John S. Buckley,LIB,7
+Marshall,43,Secretary of State,,John S. Buckley,LIB,10
+Marshall,44,Secretary of State,,John S. Buckley,LIB,8
+Marshall,45,Secretary of State,,John S. Buckley,LIB,11
+Marshall,46,Secretary of State,,John S. Buckley,LIB,14
+Marshall,48,Secretary of State,,John S. Buckley,LIB,4
+Marshall,52,Secretary of State,,John S. Buckley,LIB,11
+Marshall,56,Secretary of State,,John S. Buckley,LIB,3
+Marshall,58,Secretary of State,,John S. Buckley,LIB,2
+Marshall,60,Secretary of State,,John S. Buckley,LIB,9
+Marshall,61,Secretary of State,,John S. Buckley,LIB,3
+Marshall,,Secretary of State,,John S. Buckley,LIB,329
+Marshall,1,Secretary of State,,Write-ins,,1
+Marshall,4,Secretary of State,,Write-ins,,0
+Marshall,6,Secretary of State,,Write-ins,,0
+Marshall,7,Secretary of State,,Write-ins,,0
+Marshall,9,Secretary of State,,Write-ins,,0
+Marshall,9A,Secretary of State,,Write-ins,,0
+Marshall,10,Secretary of State,,Write-ins,,0
+Marshall,11,Secretary of State,,Write-ins,,0
+Marshall,12,Secretary of State,,Write-ins,,0
+Marshall,13,Secretary of State,,Write-ins,,0
+Marshall,14,Secretary of State,,Write-ins,,0
+Marshall,15A,Secretary of State,,Write-ins,,0
+Marshall,17,Secretary of State,,Write-ins,,0
+Marshall,17A,Secretary of State,,Write-ins,,1
+Marshall,18,Secretary of State,,Write-ins,,0
+Marshall,19,Secretary of State,,Write-ins,,0
+Marshall,20,Secretary of State,,Write-ins,,0
+Marshall,21,Secretary of State,,Write-ins,,0
+Marshall,23,Secretary of State,,Write-ins,,0
+Marshall,24,Secretary of State,,Write-ins,,1
+Marshall,25,Secretary of State,,Write-ins,,0
+Marshall,26,Secretary of State,,Write-ins,,0
+Marshall,27,Secretary of State,,Write-ins,,0
+Marshall,28,Secretary of State,,Write-ins,,0
+Marshall,29,Secretary of State,,Write-ins,,0
+Marshall,30,Secretary of State,,Write-ins,,0
+Marshall,33,Secretary of State,,Write-ins,,0
+Marshall,34,Secretary of State,,Write-ins,,1
+Marshall,35,Secretary of State,,Write-ins,,0
+Marshall,36,Secretary of State,,Write-ins,,0
+Marshall,38,Secretary of State,,Write-ins,,0
+Marshall,39,Secretary of State,,Write-ins,,0
+Marshall,40,Secretary of State,,Write-ins,,0
+Marshall,41,Secretary of State,,Write-ins,,0
+Marshall,43,Secretary of State,,Write-ins,,0
+Marshall,44,Secretary of State,,Write-ins,,0
+Marshall,45,Secretary of State,,Write-ins,,0
+Marshall,46,Secretary of State,,Write-ins,,0
+Marshall,48,Secretary of State,,Write-ins,,0
+Marshall,52,Secretary of State,,Write-ins,,0
+Marshall,56,Secretary of State,,Write-ins,,0
+Marshall,58,Secretary of State,,Write-ins,,0
+Marshall,60,Secretary of State,,Write-ins,,0
+Marshall,61,Secretary of State,,Write-ins,,0
+Marshall,,Secretary of State,,Write-ins,,4
+Marshall,1,Auditor,,"John ""JB"" Mccuskey",REP,146
+Marshall,4,Auditor,,"John ""JB"" Mccuskey",REP,217
+Marshall,6,Auditor,,"John ""JB"" Mccuskey",REP,108
+Marshall,7,Auditor,,"John ""JB"" Mccuskey",REP,265
+Marshall,9,Auditor,,"John ""JB"" Mccuskey",REP,165
+Marshall,9A,Auditor,,"John ""JB"" Mccuskey",REP,245
+Marshall,10,Auditor,,"John ""JB"" Mccuskey",REP,137
+Marshall,11,Auditor,,"John ""JB"" Mccuskey",REP,323
+Marshall,12,Auditor,,"John ""JB"" Mccuskey",REP,233
+Marshall,13,Auditor,,"John ""JB"" Mccuskey",REP,172
+Marshall,14,Auditor,,"John ""JB"" Mccuskey",REP,253
+Marshall,15A,Auditor,,"John ""JB"" Mccuskey",REP,144
+Marshall,17,Auditor,,"John ""JB"" Mccuskey",REP,165
+Marshall,17A,Auditor,,"John ""JB"" Mccuskey",REP,170
+Marshall,18,Auditor,,"John ""JB"" Mccuskey",REP,219
+Marshall,19,Auditor,,"John ""JB"" Mccuskey",REP,69
+Marshall,20,Auditor,,"John ""JB"" Mccuskey",REP,39
+Marshall,21,Auditor,,"John ""JB"" Mccuskey",REP,93
+Marshall,23,Auditor,,"John ""JB"" Mccuskey",REP,60
+Marshall,24,Auditor,,"John ""JB"" Mccuskey",REP,151
+Marshall,25,Auditor,,"John ""JB"" Mccuskey",REP,90
+Marshall,26,Auditor,,"John ""JB"" Mccuskey",REP,87
+Marshall,27,Auditor,,"John ""JB"" Mccuskey",REP,137
+Marshall,28,Auditor,,"John ""JB"" Mccuskey",REP,180
+Marshall,29,Auditor,,"John ""JB"" Mccuskey",REP,227
+Marshall,30,Auditor,,"John ""JB"" Mccuskey",REP,77
+Marshall,33,Auditor,,"John ""JB"" Mccuskey",REP,322
+Marshall,34,Auditor,,"John ""JB"" Mccuskey",REP,220
+Marshall,35,Auditor,,"John ""JB"" Mccuskey",REP,208
+Marshall,36,Auditor,,"John ""JB"" Mccuskey",REP,58
+Marshall,38,Auditor,,"John ""JB"" Mccuskey",REP,157
+Marshall,39,Auditor,,"John ""JB"" Mccuskey",REP,184
+Marshall,40,Auditor,,"John ""JB"" Mccuskey",REP,75
+Marshall,41,Auditor,,"John ""JB"" Mccuskey",REP,115
+Marshall,43,Auditor,,"John ""JB"" Mccuskey",REP,283
+Marshall,44,Auditor,,"John ""JB"" Mccuskey",REP,177
+Marshall,45,Auditor,,"John ""JB"" Mccuskey",REP,177
+Marshall,46,Auditor,,"John ""JB"" Mccuskey",REP,261
+Marshall,48,Auditor,,"John ""JB"" Mccuskey",REP,65
+Marshall,52,Auditor,,"John ""JB"" Mccuskey",REP,153
+Marshall,56,Auditor,,"John ""JB"" Mccuskey",REP,120
+Marshall,58,Auditor,,"John ""JB"" Mccuskey",REP,74
+Marshall,60,Auditor,,"John ""JB"" Mccuskey",REP,170
+Marshall,61,Auditor,,"John ""JB"" Mccuskey",REP,63
+Marshall,,Auditor,,"John ""JB"" Mccuskey",REP,7054
+Marshall,1,Auditor,,Mary Ann Claytor,DEM,120
+Marshall,4,Auditor,,Mary Ann Claytor,DEM,113
+Marshall,6,Auditor,,Mary Ann Claytor,DEM,63
+Marshall,7,Auditor,,Mary Ann Claytor,DEM,179
+Marshall,9,Auditor,,Mary Ann Claytor,DEM,106
+Marshall,9A,Auditor,,Mary Ann Claytor,DEM,139
+Marshall,10,Auditor,,Mary Ann Claytor,DEM,88
+Marshall,11,Auditor,,Mary Ann Claytor,DEM,146
+Marshall,12,Auditor,,Mary Ann Claytor,DEM,147
+Marshall,13,Auditor,,Mary Ann Claytor,DEM,122
+Marshall,14,Auditor,,Mary Ann Claytor,DEM,150
+Marshall,15A,Auditor,,Mary Ann Claytor,DEM,55
+Marshall,17,Auditor,,Mary Ann Claytor,DEM,101
+Marshall,17A,Auditor,,Mary Ann Claytor,DEM,96
+Marshall,18,Auditor,,Mary Ann Claytor,DEM,152
+Marshall,19,Auditor,,Mary Ann Claytor,DEM,48
+Marshall,20,Auditor,,Mary Ann Claytor,DEM,67
+Marshall,21,Auditor,,Mary Ann Claytor,DEM,67
+Marshall,23,Auditor,,Mary Ann Claytor,DEM,52
+Marshall,24,Auditor,,Mary Ann Claytor,DEM,96
+Marshall,25,Auditor,,Mary Ann Claytor,DEM,75
+Marshall,26,Auditor,,Mary Ann Claytor,DEM,72
+Marshall,27,Auditor,,Mary Ann Claytor,DEM,65
+Marshall,28,Auditor,,Mary Ann Claytor,DEM,149
+Marshall,29,Auditor,,Mary Ann Claytor,DEM,134
+Marshall,30,Auditor,,Mary Ann Claytor,DEM,74
+Marshall,33,Auditor,,Mary Ann Claytor,DEM,168
+Marshall,34,Auditor,,Mary Ann Claytor,DEM,116
+Marshall,35,Auditor,,Mary Ann Claytor,DEM,133
+Marshall,36,Auditor,,Mary Ann Claytor,DEM,33
+Marshall,38,Auditor,,Mary Ann Claytor,DEM,81
+Marshall,39,Auditor,,Mary Ann Claytor,DEM,77
+Marshall,40,Auditor,,Mary Ann Claytor,DEM,43
+Marshall,41,Auditor,,Mary Ann Claytor,DEM,42
+Marshall,43,Auditor,,Mary Ann Claytor,DEM,137
+Marshall,44,Auditor,,Mary Ann Claytor,DEM,128
+Marshall,45,Auditor,,Mary Ann Claytor,DEM,64
+Marshall,46,Auditor,,Mary Ann Claytor,DEM,170
+Marshall,48,Auditor,,Mary Ann Claytor,DEM,37
+Marshall,52,Auditor,,Mary Ann Claytor,DEM,119
+Marshall,56,Auditor,,Mary Ann Claytor,DEM,91
+Marshall,58,Auditor,,Mary Ann Claytor,DEM,49
+Marshall,60,Auditor,,Mary Ann Claytor,DEM,71
+Marshall,61,Auditor,,Mary Ann Claytor,DEM,32
+Marshall,,Auditor,,Mary Ann Claytor,DEM,4267
+Marshall,1,Auditor,,Brenton Ricketts,LIB,17
+Marshall,4,Auditor,,Brenton Ricketts,LIB,29
+Marshall,6,Auditor,,Brenton Ricketts,LIB,10
+Marshall,7,Auditor,,Brenton Ricketts,LIB,27
+Marshall,9,Auditor,,Brenton Ricketts,LIB,13
+Marshall,9A,Auditor,,Brenton Ricketts,LIB,20
+Marshall,10,Auditor,,Brenton Ricketts,LIB,21
+Marshall,11,Auditor,,Brenton Ricketts,LIB,32
+Marshall,12,Auditor,,Brenton Ricketts,LIB,19
+Marshall,13,Auditor,,Brenton Ricketts,LIB,16
+Marshall,14,Auditor,,Brenton Ricketts,LIB,24
+Marshall,15A,Auditor,,Brenton Ricketts,LIB,12
+Marshall,17,Auditor,,Brenton Ricketts,LIB,19
+Marshall,17A,Auditor,,Brenton Ricketts,LIB,13
+Marshall,18,Auditor,,Brenton Ricketts,LIB,16
+Marshall,19,Auditor,,Brenton Ricketts,LIB,11
+Marshall,20,Auditor,,Brenton Ricketts,LIB,10
+Marshall,21,Auditor,,Brenton Ricketts,LIB,12
+Marshall,23,Auditor,,Brenton Ricketts,LIB,8
+Marshall,24,Auditor,,Brenton Ricketts,LIB,9
+Marshall,25,Auditor,,Brenton Ricketts,LIB,11
+Marshall,26,Auditor,,Brenton Ricketts,LIB,12
+Marshall,27,Auditor,,Brenton Ricketts,LIB,10
+Marshall,28,Auditor,,Brenton Ricketts,LIB,19
+Marshall,29,Auditor,,Brenton Ricketts,LIB,31
+Marshall,30,Auditor,,Brenton Ricketts,LIB,16
+Marshall,33,Auditor,,Brenton Ricketts,LIB,17
+Marshall,34,Auditor,,Brenton Ricketts,LIB,17
+Marshall,35,Auditor,,Brenton Ricketts,LIB,32
+Marshall,36,Auditor,,Brenton Ricketts,LIB,6
+Marshall,38,Auditor,,Brenton Ricketts,LIB,15
+Marshall,39,Auditor,,Brenton Ricketts,LIB,17
+Marshall,40,Auditor,,Brenton Ricketts,LIB,14
+Marshall,41,Auditor,,Brenton Ricketts,LIB,13
+Marshall,43,Auditor,,Brenton Ricketts,LIB,27
+Marshall,44,Auditor,,Brenton Ricketts,LIB,21
+Marshall,45,Auditor,,Brenton Ricketts,LIB,23
+Marshall,46,Auditor,,Brenton Ricketts,LIB,22
+Marshall,48,Auditor,,Brenton Ricketts,LIB,8
+Marshall,52,Auditor,,Brenton Ricketts,LIB,21
+Marshall,56,Auditor,,Brenton Ricketts,LIB,7
+Marshall,58,Auditor,,Brenton Ricketts,LIB,12
+Marshall,60,Auditor,,Brenton Ricketts,LIB,16
+Marshall,61,Auditor,,Brenton Ricketts,LIB,8
+Marshall,,Auditor,,Brenton Ricketts,LIB,733
+Marshall,1,Auditor,,Write-ins,,0
+Marshall,4,Auditor,,Write-ins,,0
+Marshall,6,Auditor,,Write-ins,,0
+Marshall,7,Auditor,,Write-ins,,0
+Marshall,9,Auditor,,Write-ins,,0
+Marshall,9A,Auditor,,Write-ins,,0
+Marshall,10,Auditor,,Write-ins,,0
+Marshall,11,Auditor,,Write-ins,,0
+Marshall,12,Auditor,,Write-ins,,0
+Marshall,13,Auditor,,Write-ins,,0
+Marshall,14,Auditor,,Write-ins,,0
+Marshall,15A,Auditor,,Write-ins,,1
+Marshall,17,Auditor,,Write-ins,,1
+Marshall,17A,Auditor,,Write-ins,,1
+Marshall,18,Auditor,,Write-ins,,0
+Marshall,19,Auditor,,Write-ins,,0
+Marshall,20,Auditor,,Write-ins,,0
+Marshall,21,Auditor,,Write-ins,,1
+Marshall,23,Auditor,,Write-ins,,0
+Marshall,24,Auditor,,Write-ins,,0
+Marshall,25,Auditor,,Write-ins,,0
+Marshall,26,Auditor,,Write-ins,,0
+Marshall,27,Auditor,,Write-ins,,0
+Marshall,28,Auditor,,Write-ins,,0
+Marshall,29,Auditor,,Write-ins,,0
+Marshall,30,Auditor,,Write-ins,,0
+Marshall,33,Auditor,,Write-ins,,0
+Marshall,34,Auditor,,Write-ins,,0
+Marshall,35,Auditor,,Write-ins,,0
+Marshall,36,Auditor,,Write-ins,,0
+Marshall,38,Auditor,,Write-ins,,0
+Marshall,39,Auditor,,Write-ins,,1
+Marshall,40,Auditor,,Write-ins,,0
+Marshall,41,Auditor,,Write-ins,,0
+Marshall,43,Auditor,,Write-ins,,0
+Marshall,44,Auditor,,Write-ins,,0
+Marshall,45,Auditor,,Write-ins,,0
+Marshall,46,Auditor,,Write-ins,,0
+Marshall,48,Auditor,,Write-ins,,0
+Marshall,52,Auditor,,Write-ins,,0
+Marshall,56,Auditor,,Write-ins,,0
+Marshall,58,Auditor,,Write-ins,,0
+Marshall,60,Auditor,,Write-ins,,0
+Marshall,61,Auditor,,Write-ins,,0
+Marshall,,Auditor,,Write-ins,,5
+Marshall,1,Treasurer,,Ann Urling,REP,117
+Marshall,4,Treasurer,,Ann Urling,REP,176
+Marshall,6,Treasurer,,Ann Urling,REP,84
+Marshall,7,Treasurer,,Ann Urling,REP,206
+Marshall,9,Treasurer,,Ann Urling,REP,127
+Marshall,9A,Treasurer,,Ann Urling,REP,201
+Marshall,10,Treasurer,,Ann Urling,REP,103
+Marshall,11,Treasurer,,Ann Urling,REP,228
+Marshall,12,Treasurer,,Ann Urling,REP,183
+Marshall,13,Treasurer,,Ann Urling,REP,130
+Marshall,14,Treasurer,,Ann Urling,REP,183
+Marshall,15A,Treasurer,,Ann Urling,REP,105
+Marshall,17,Treasurer,,Ann Urling,REP,128
+Marshall,17A,Treasurer,,Ann Urling,REP,135
+Marshall,18,Treasurer,,Ann Urling,REP,174
+Marshall,19,Treasurer,,Ann Urling,REP,55
+Marshall,20,Treasurer,,Ann Urling,REP,32
+Marshall,21,Treasurer,,Ann Urling,REP,80
+Marshall,23,Treasurer,,Ann Urling,REP,49
+Marshall,24,Treasurer,,Ann Urling,REP,130
+Marshall,25,Treasurer,,Ann Urling,REP,75
+Marshall,26,Treasurer,,Ann Urling,REP,60
+Marshall,27,Treasurer,,Ann Urling,REP,103
+Marshall,28,Treasurer,,Ann Urling,REP,142
+Marshall,29,Treasurer,,Ann Urling,REP,182
+Marshall,30,Treasurer,,Ann Urling,REP,61
+Marshall,33,Treasurer,,Ann Urling,REP,271
+Marshall,34,Treasurer,,Ann Urling,REP,186
+Marshall,35,Treasurer,,Ann Urling,REP,172
+Marshall,36,Treasurer,,Ann Urling,REP,48
+Marshall,38,Treasurer,,Ann Urling,REP,134
+Marshall,39,Treasurer,,Ann Urling,REP,154
+Marshall,40,Treasurer,,Ann Urling,REP,62
+Marshall,41,Treasurer,,Ann Urling,REP,88
+Marshall,43,Treasurer,,Ann Urling,REP,237
+Marshall,44,Treasurer,,Ann Urling,REP,131
+Marshall,45,Treasurer,,Ann Urling,REP,135
+Marshall,46,Treasurer,,Ann Urling,REP,217
+Marshall,48,Treasurer,,Ann Urling,REP,51
+Marshall,52,Treasurer,,Ann Urling,REP,133
+Marshall,56,Treasurer,,Ann Urling,REP,81
+Marshall,58,Treasurer,,Ann Urling,REP,57
+Marshall,60,Treasurer,,Ann Urling,REP,124
+Marshall,61,Treasurer,,Ann Urling,REP,45
+Marshall,,Treasurer,,Ann Urling,REP,5575
+Marshall,1,Treasurer,,John D. Perdue,DEM,147
+Marshall,4,Treasurer,,John D. Perdue,DEM,168
+Marshall,6,Treasurer,,John D. Perdue,DEM,90
+Marshall,7,Treasurer,,John D. Perdue,DEM,230
+Marshall,9,Treasurer,,John D. Perdue,DEM,151
+Marshall,9A,Treasurer,,John D. Perdue,DEM,193
+Marshall,10,Treasurer,,John D. Perdue,DEM,125
+Marshall,11,Treasurer,,John D. Perdue,DEM,237
+Marshall,12,Treasurer,,John D. Perdue,DEM,205
+Marshall,13,Treasurer,,John D. Perdue,DEM,161
+Marshall,14,Treasurer,,John D. Perdue,DEM,220
+Marshall,15A,Treasurer,,John D. Perdue,DEM,87
+Marshall,17,Treasurer,,John D. Perdue,DEM,142
+Marshall,17A,Treasurer,,John D. Perdue,DEM,119
+Marshall,18,Treasurer,,John D. Perdue,DEM,201
+Marshall,19,Treasurer,,John D. Perdue,DEM,66
+Marshall,20,Treasurer,,John D. Perdue,DEM,78
+Marshall,21,Treasurer,,John D. Perdue,DEM,88
+Marshall,23,Treasurer,,John D. Perdue,DEM,71
+Marshall,24,Treasurer,,John D. Perdue,DEM,123
+Marshall,25,Treasurer,,John D. Perdue,DEM,84
+Marshall,26,Treasurer,,John D. Perdue,DEM,106
+Marshall,27,Treasurer,,John D. Perdue,DEM,96
+Marshall,28,Treasurer,,John D. Perdue,DEM,193
+Marshall,29,Treasurer,,John D. Perdue,DEM,184
+Marshall,30,Treasurer,,John D. Perdue,DEM,87
+Marshall,33,Treasurer,,John D. Perdue,DEM,226
+Marshall,34,Treasurer,,John D. Perdue,DEM,156
+Marshall,35,Treasurer,,John D. Perdue,DEM,170
+Marshall,36,Treasurer,,John D. Perdue,DEM,44
+Marshall,38,Treasurer,,John D. Perdue,DEM,108
+Marshall,39,Treasurer,,John D. Perdue,DEM,119
+Marshall,40,Treasurer,,John D. Perdue,DEM,66
+Marshall,41,Treasurer,,John D. Perdue,DEM,66
+Marshall,43,Treasurer,,John D. Perdue,DEM,182
+Marshall,44,Treasurer,,John D. Perdue,DEM,165
+Marshall,45,Treasurer,,John D. Perdue,DEM,106
+Marshall,46,Treasurer,,John D. Perdue,DEM,206
+Marshall,48,Treasurer,,John D. Perdue,DEM,52
+Marshall,52,Treasurer,,John D. Perdue,DEM,148
+Marshall,56,Treasurer,,John D. Perdue,DEM,131
+Marshall,58,Treasurer,,John D. Perdue,DEM,76
+Marshall,60,Treasurer,,John D. Perdue,DEM,121
+Marshall,61,Treasurer,,John D. Perdue,DEM,63
+Marshall,,Treasurer,,John D. Perdue,DEM,5857
+Marshall,1,Treasurer,,Michael Allen Young,LIB,24
+Marshall,4,Treasurer,,Michael Allen Young,LIB,22
+Marshall,6,Treasurer,,Michael Allen Young,LIB,8
+Marshall,7,Treasurer,,Michael Allen Young,LIB,35
+Marshall,9,Treasurer,,Michael Allen Young,LIB,15
+Marshall,9A,Treasurer,,Michael Allen Young,LIB,18
+Marshall,10,Treasurer,,Michael Allen Young,LIB,22
+Marshall,11,Treasurer,,Michael Allen Young,LIB,36
+Marshall,12,Treasurer,,Michael Allen Young,LIB,26
+Marshall,13,Treasurer,,Michael Allen Young,LIB,25
+Marshall,14,Treasurer,,Michael Allen Young,LIB,29
+Marshall,15A,Treasurer,,Michael Allen Young,LIB,20
+Marshall,17,Treasurer,,Michael Allen Young,LIB,25
+Marshall,17A,Treasurer,,Michael Allen Young,LIB,21
+Marshall,18,Treasurer,,Michael Allen Young,LIB,24
+Marshall,19,Treasurer,,Michael Allen Young,LIB,13
+Marshall,20,Treasurer,,Michael Allen Young,LIB,9
+Marshall,21,Treasurer,,Michael Allen Young,LIB,12
+Marshall,23,Treasurer,,Michael Allen Young,LIB,7
+Marshall,24,Treasurer,,Michael Allen Young,LIB,10
+Marshall,25,Treasurer,,Michael Allen Young,LIB,15
+Marshall,26,Treasurer,,Michael Allen Young,LIB,12
+Marshall,27,Treasurer,,Michael Allen Young,LIB,13
+Marshall,28,Treasurer,,Michael Allen Young,LIB,18
+Marshall,29,Treasurer,,Michael Allen Young,LIB,29
+Marshall,30,Treasurer,,Michael Allen Young,LIB,18
+Marshall,33,Treasurer,,Michael Allen Young,LIB,20
+Marshall,34,Treasurer,,Michael Allen Young,LIB,15
+Marshall,35,Treasurer,,Michael Allen Young,LIB,33
+Marshall,36,Treasurer,,Michael Allen Young,LIB,3
+Marshall,38,Treasurer,,Michael Allen Young,LIB,15
+Marshall,39,Treasurer,,Michael Allen Young,LIB,16
+Marshall,40,Treasurer,,Michael Allen Young,LIB,10
+Marshall,41,Treasurer,,Michael Allen Young,LIB,20
+Marshall,43,Treasurer,,Michael Allen Young,LIB,30
+Marshall,44,Treasurer,,Michael Allen Young,LIB,31
+Marshall,45,Treasurer,,Michael Allen Young,LIB,25
+Marshall,46,Treasurer,,Michael Allen Young,LIB,34
+Marshall,48,Treasurer,,Michael Allen Young,LIB,8
+Marshall,52,Treasurer,,Michael Allen Young,LIB,18
+Marshall,56,Treasurer,,Michael Allen Young,LIB,11
+Marshall,58,Treasurer,,Michael Allen Young,LIB,6
+Marshall,60,Treasurer,,Michael Allen Young,LIB,19
+Marshall,61,Treasurer,,Michael Allen Young,LIB,6
+Marshall,,Treasurer,,Michael Allen Young,LIB,826
+Marshall,1,Treasurer,,Write-ins,,0
+Marshall,4,Treasurer,,Write-ins,,0
+Marshall,6,Treasurer,,Write-ins,,0
+Marshall,7,Treasurer,,Write-ins,,0
+Marshall,9,Treasurer,,Write-ins,,0
+Marshall,9A,Treasurer,,Write-ins,,0
+Marshall,10,Treasurer,,Write-ins,,0
+Marshall,11,Treasurer,,Write-ins,,0
+Marshall,12,Treasurer,,Write-ins,,0
+Marshall,13,Treasurer,,Write-ins,,0
+Marshall,14,Treasurer,,Write-ins,,0
+Marshall,15A,Treasurer,,Write-ins,,0
+Marshall,17,Treasurer,,Write-ins,,0
+Marshall,17A,Treasurer,,Write-ins,,0
+Marshall,18,Treasurer,,Write-ins,,0
+Marshall,19,Treasurer,,Write-ins,,0
+Marshall,20,Treasurer,,Write-ins,,0
+Marshall,21,Treasurer,,Write-ins,,0
+Marshall,23,Treasurer,,Write-ins,,0
+Marshall,24,Treasurer,,Write-ins,,0
+Marshall,25,Treasurer,,Write-ins,,0
+Marshall,26,Treasurer,,Write-ins,,0
+Marshall,27,Treasurer,,Write-ins,,0
+Marshall,28,Treasurer,,Write-ins,,0
+Marshall,29,Treasurer,,Write-ins,,0
+Marshall,30,Treasurer,,Write-ins,,0
+Marshall,33,Treasurer,,Write-ins,,0
+Marshall,34,Treasurer,,Write-ins,,0
+Marshall,35,Treasurer,,Write-ins,,0
+Marshall,36,Treasurer,,Write-ins,,0
+Marshall,38,Treasurer,,Write-ins,,0
+Marshall,39,Treasurer,,Write-ins,,0
+Marshall,40,Treasurer,,Write-ins,,0
+Marshall,41,Treasurer,,Write-ins,,0
+Marshall,43,Treasurer,,Write-ins,,0
+Marshall,44,Treasurer,,Write-ins,,0
+Marshall,45,Treasurer,,Write-ins,,0
+Marshall,46,Treasurer,,Write-ins,,0
+Marshall,48,Treasurer,,Write-ins,,0
+Marshall,52,Treasurer,,Write-ins,,0
+Marshall,56,Treasurer,,Write-ins,,0
+Marshall,58,Treasurer,,Write-ins,,0
+Marshall,60,Treasurer,,Write-ins,,0
+Marshall,61,Treasurer,,Write-ins,,0
+Marshall,,Treasurer,,Write-ins,,0
+Marshall,1,Commissioner of Agriculture,,Kent Leonhardt,REP,138
+Marshall,4,Commissioner of Agriculture,,Kent Leonhardt,REP,207
+Marshall,6,Commissioner of Agriculture,,Kent Leonhardt,REP,95
+Marshall,7,Commissioner of Agriculture,,Kent Leonhardt,REP,240
+Marshall,9,Commissioner of Agriculture,,Kent Leonhardt,REP,143
+Marshall,9A,Commissioner of Agriculture,,Kent Leonhardt,REP,217
+Marshall,10,Commissioner of Agriculture,,Kent Leonhardt,REP,119
+Marshall,11,Commissioner of Agriculture,,Kent Leonhardt,REP,253
+Marshall,12,Commissioner of Agriculture,,Kent Leonhardt,REP,219
+Marshall,13,Commissioner of Agriculture,,Kent Leonhardt,REP,136
+Marshall,14,Commissioner of Agriculture,,Kent Leonhardt,REP,229
+Marshall,15A,Commissioner of Agriculture,,Kent Leonhardt,REP,115
+Marshall,17,Commissioner of Agriculture,,Kent Leonhardt,REP,138
+Marshall,17A,Commissioner of Agriculture,,Kent Leonhardt,REP,148
+Marshall,18,Commissioner of Agriculture,,Kent Leonhardt,REP,188
+Marshall,19,Commissioner of Agriculture,,Kent Leonhardt,REP,62
+Marshall,20,Commissioner of Agriculture,,Kent Leonhardt,REP,33
+Marshall,21,Commissioner of Agriculture,,Kent Leonhardt,REP,83
+Marshall,23,Commissioner of Agriculture,,Kent Leonhardt,REP,41
+Marshall,24,Commissioner of Agriculture,,Kent Leonhardt,REP,133
+Marshall,25,Commissioner of Agriculture,,Kent Leonhardt,REP,63
+Marshall,26,Commissioner of Agriculture,,Kent Leonhardt,REP,70
+Marshall,27,Commissioner of Agriculture,,Kent Leonhardt,REP,116
+Marshall,28,Commissioner of Agriculture,,Kent Leonhardt,REP,143
+Marshall,29,Commissioner of Agriculture,,Kent Leonhardt,REP,208
+Marshall,30,Commissioner of Agriculture,,Kent Leonhardt,REP,66
+Marshall,33,Commissioner of Agriculture,,Kent Leonhardt,REP,287
+Marshall,34,Commissioner of Agriculture,,Kent Leonhardt,REP,210
+Marshall,35,Commissioner of Agriculture,,Kent Leonhardt,REP,196
+Marshall,36,Commissioner of Agriculture,,Kent Leonhardt,REP,49
+Marshall,38,Commissioner of Agriculture,,Kent Leonhardt,REP,127
+Marshall,39,Commissioner of Agriculture,,Kent Leonhardt,REP,175
+Marshall,40,Commissioner of Agriculture,,Kent Leonhardt,REP,71
+Marshall,41,Commissioner of Agriculture,,Kent Leonhardt,REP,102
+Marshall,43,Commissioner of Agriculture,,Kent Leonhardt,REP,265
+Marshall,44,Commissioner of Agriculture,,Kent Leonhardt,REP,157
+Marshall,45,Commissioner of Agriculture,,Kent Leonhardt,REP,157
+Marshall,46,Commissioner of Agriculture,,Kent Leonhardt,REP,225
+Marshall,48,Commissioner of Agriculture,,Kent Leonhardt,REP,59
+Marshall,52,Commissioner of Agriculture,,Kent Leonhardt,REP,148
+Marshall,56,Commissioner of Agriculture,,Kent Leonhardt,REP,102
+Marshall,58,Commissioner of Agriculture,,Kent Leonhardt,REP,81
+Marshall,60,Commissioner of Agriculture,,Kent Leonhardt,REP,148
+Marshall,61,Commissioner of Agriculture,,Kent Leonhardt,REP,56
+Marshall,,Commissioner of Agriculture,,Kent Leonhardt,REP,6218
+Marshall,1,Commissioner of Agriculture,,Walt Helmick,DEM,111
+Marshall,4,Commissioner of Agriculture,,Walt Helmick,DEM,107
+Marshall,6,Commissioner of Agriculture,,Walt Helmick,DEM,59
+Marshall,7,Commissioner of Agriculture,,Walt Helmick,DEM,165
+Marshall,9,Commissioner of Agriculture,,Walt Helmick,DEM,99
+Marshall,9A,Commissioner of Agriculture,,Walt Helmick,DEM,134
+Marshall,10,Commissioner of Agriculture,,Walt Helmick,DEM,89
+Marshall,11,Commissioner of Agriculture,,Walt Helmick,DEM,146
+Marshall,12,Commissioner of Agriculture,,Walt Helmick,DEM,139
+Marshall,13,Commissioner of Agriculture,,Walt Helmick,DEM,124
+Marshall,14,Commissioner of Agriculture,,Walt Helmick,DEM,151
+Marshall,15A,Commissioner of Agriculture,,Walt Helmick,DEM,58
+Marshall,17,Commissioner of Agriculture,,Walt Helmick,DEM,105
+Marshall,17A,Commissioner of Agriculture,,Walt Helmick,DEM,96
+Marshall,18,Commissioner of Agriculture,,Walt Helmick,DEM,146
+Marshall,19,Commissioner of Agriculture,,Walt Helmick,DEM,50
+Marshall,20,Commissioner of Agriculture,,Walt Helmick,DEM,53
+Marshall,21,Commissioner of Agriculture,,Walt Helmick,DEM,58
+Marshall,23,Commissioner of Agriculture,,Walt Helmick,DEM,53
+Marshall,24,Commissioner of Agriculture,,Walt Helmick,DEM,93
+Marshall,25,Commissioner of Agriculture,,Walt Helmick,DEM,75
+Marshall,26,Commissioner of Agriculture,,Walt Helmick,DEM,78
+Marshall,27,Commissioner of Agriculture,,Walt Helmick,DEM,60
+Marshall,28,Commissioner of Agriculture,,Walt Helmick,DEM,151
+Marshall,29,Commissioner of Agriculture,,Walt Helmick,DEM,128
+Marshall,30,Commissioner of Agriculture,,Walt Helmick,DEM,76
+Marshall,33,Commissioner of Agriculture,,Walt Helmick,DEM,154
+Marshall,34,Commissioner of Agriculture,,Walt Helmick,DEM,101
+Marshall,35,Commissioner of Agriculture,,Walt Helmick,DEM,132
+Marshall,36,Commissioner of Agriculture,,Walt Helmick,DEM,30
+Marshall,38,Commissioner of Agriculture,,Walt Helmick,DEM,87
+Marshall,39,Commissioner of Agriculture,,Walt Helmick,DEM,70
+Marshall,40,Commissioner of Agriculture,,Walt Helmick,DEM,50
+Marshall,41,Commissioner of Agriculture,,Walt Helmick,DEM,48
+Marshall,43,Commissioner of Agriculture,,Walt Helmick,DEM,130
+Marshall,44,Commissioner of Agriculture,,Walt Helmick,DEM,119
+Marshall,45,Commissioner of Agriculture,,Walt Helmick,DEM,78
+Marshall,46,Commissioner of Agriculture,,Walt Helmick,DEM,165
+Marshall,48,Commissioner of Agriculture,,Walt Helmick,DEM,39
+Marshall,52,Commissioner of Agriculture,,Walt Helmick,DEM,114
+Marshall,56,Commissioner of Agriculture,,Walt Helmick,DEM,83
+Marshall,58,Commissioner of Agriculture,,Walt Helmick,DEM,39
+Marshall,60,Commissioner of Agriculture,,Walt Helmick,DEM,69
+Marshall,61,Commissioner of Agriculture,,Walt Helmick,DEM,44
+Marshall,,Commissioner of Agriculture,,Walt Helmick,DEM,4156
+Marshall,1,Commissioner of Agriculture,,Buddy A Guthrie,LIB,41
+Marshall,4,Commissioner of Agriculture,,Buddy A Guthrie,LIB,48
+Marshall,6,Commissioner of Agriculture,,Buddy A Guthrie,LIB,27
+Marshall,7,Commissioner of Agriculture,,Buddy A Guthrie,LIB,61
+Marshall,9,Commissioner of Agriculture,,Buddy A Guthrie,LIB,37
+Marshall,9A,Commissioner of Agriculture,,Buddy A Guthrie,LIB,57
+Marshall,10,Commissioner of Agriculture,,Buddy A Guthrie,LIB,51
+Marshall,11,Commissioner of Agriculture,,Buddy A Guthrie,LIB,97
+Marshall,12,Commissioner of Agriculture,,Buddy A Guthrie,LIB,48
+Marshall,13,Commissioner of Agriculture,,Buddy A Guthrie,LIB,51
+Marshall,14,Commissioner of Agriculture,,Buddy A Guthrie,LIB,50
+Marshall,15A,Commissioner of Agriculture,,Buddy A Guthrie,LIB,41
+Marshall,17,Commissioner of Agriculture,,Buddy A Guthrie,LIB,43
+Marshall,17A,Commissioner of Agriculture,,Buddy A Guthrie,LIB,34
+Marshall,18,Commissioner of Agriculture,,Buddy A Guthrie,LIB,56
+Marshall,19,Commissioner of Agriculture,,Buddy A Guthrie,LIB,19
+Marshall,20,Commissioner of Agriculture,,Buddy A Guthrie,LIB,29
+Marshall,21,Commissioner of Agriculture,,Buddy A Guthrie,LIB,35
+Marshall,23,Commissioner of Agriculture,,Buddy A Guthrie,LIB,24
+Marshall,24,Commissioner of Agriculture,,Buddy A Guthrie,LIB,32
+Marshall,25,Commissioner of Agriculture,,Buddy A Guthrie,LIB,35
+Marshall,26,Commissioner of Agriculture,,Buddy A Guthrie,LIB,25
+Marshall,27,Commissioner of Agriculture,,Buddy A Guthrie,LIB,28
+Marshall,28,Commissioner of Agriculture,,Buddy A Guthrie,LIB,62
+Marshall,29,Commissioner of Agriculture,,Buddy A Guthrie,LIB,59
+Marshall,30,Commissioner of Agriculture,,Buddy A Guthrie,LIB,28
+Marshall,33,Commissioner of Agriculture,,Buddy A Guthrie,LIB,59
+Marshall,34,Commissioner of Agriculture,,Buddy A Guthrie,LIB,42
+Marshall,35,Commissioner of Agriculture,,Buddy A Guthrie,LIB,53
+Marshall,36,Commissioner of Agriculture,,Buddy A Guthrie,LIB,17
+Marshall,38,Commissioner of Agriculture,,Buddy A Guthrie,LIB,45
+Marshall,39,Commissioner of Agriculture,,Buddy A Guthrie,LIB,39
+Marshall,40,Commissioner of Agriculture,,Buddy A Guthrie,LIB,19
+Marshall,41,Commissioner of Agriculture,,Buddy A Guthrie,LIB,25
+Marshall,43,Commissioner of Agriculture,,Buddy A Guthrie,LIB,58
+Marshall,44,Commissioner of Agriculture,,Buddy A Guthrie,LIB,42
+Marshall,45,Commissioner of Agriculture,,Buddy A Guthrie,LIB,33
+Marshall,46,Commissioner of Agriculture,,Buddy A Guthrie,LIB,58
+Marshall,48,Commissioner of Agriculture,,Buddy A Guthrie,LIB,13
+Marshall,52,Commissioner of Agriculture,,Buddy A Guthrie,LIB,36
+Marshall,56,Commissioner of Agriculture,,Buddy A Guthrie,LIB,33
+Marshall,58,Commissioner of Agriculture,,Buddy A Guthrie,LIB,19
+Marshall,60,Commissioner of Agriculture,,Buddy A Guthrie,LIB,45
+Marshall,61,Commissioner of Agriculture,,Buddy A Guthrie,LIB,11
+Marshall,,Commissioner of Agriculture,,Buddy A Guthrie,LIB,1765
+Marshall,1,Commissioner of Agriculture,,Write-ins,,0
+Marshall,4,Commissioner of Agriculture,,Write-ins,,0
+Marshall,6,Commissioner of Agriculture,,Write-ins,,0
+Marshall,7,Commissioner of Agriculture,,Write-ins,,0
+Marshall,9,Commissioner of Agriculture,,Write-ins,,0
+Marshall,9A,Commissioner of Agriculture,,Write-ins,,0
+Marshall,10,Commissioner of Agriculture,,Write-ins,,0
+Marshall,11,Commissioner of Agriculture,,Write-ins,,0
+Marshall,12,Commissioner of Agriculture,,Write-ins,,0
+Marshall,13,Commissioner of Agriculture,,Write-ins,,0
+Marshall,14,Commissioner of Agriculture,,Write-ins,,0
+Marshall,15A,Commissioner of Agriculture,,Write-ins,,0
+Marshall,17,Commissioner of Agriculture,,Write-ins,,2
+Marshall,17A,Commissioner of Agriculture,,Write-ins,,0
+Marshall,18,Commissioner of Agriculture,,Write-ins,,0
+Marshall,19,Commissioner of Agriculture,,Write-ins,,0
+Marshall,20,Commissioner of Agriculture,,Write-ins,,0
+Marshall,21,Commissioner of Agriculture,,Write-ins,,1
+Marshall,23,Commissioner of Agriculture,,Write-ins,,0
+Marshall,24,Commissioner of Agriculture,,Write-ins,,0
+Marshall,25,Commissioner of Agriculture,,Write-ins,,0
+Marshall,26,Commissioner of Agriculture,,Write-ins,,1
+Marshall,27,Commissioner of Agriculture,,Write-ins,,0
+Marshall,28,Commissioner of Agriculture,,Write-ins,,0
+Marshall,29,Commissioner of Agriculture,,Write-ins,,1
+Marshall,30,Commissioner of Agriculture,,Write-ins,,0
+Marshall,33,Commissioner of Agriculture,,Write-ins,,0
+Marshall,34,Commissioner of Agriculture,,Write-ins,,0
+Marshall,35,Commissioner of Agriculture,,Write-ins,,0
+Marshall,36,Commissioner of Agriculture,,Write-ins,,0
+Marshall,38,Commissioner of Agriculture,,Write-ins,,0
+Marshall,39,Commissioner of Agriculture,,Write-ins,,0
+Marshall,40,Commissioner of Agriculture,,Write-ins,,0
+Marshall,41,Commissioner of Agriculture,,Write-ins,,0
+Marshall,43,Commissioner of Agriculture,,Write-ins,,0
+Marshall,44,Commissioner of Agriculture,,Write-ins,,0
+Marshall,45,Commissioner of Agriculture,,Write-ins,,0
+Marshall,46,Commissioner of Agriculture,,Write-ins,,0
+Marshall,48,Commissioner of Agriculture,,Write-ins,,0
+Marshall,52,Commissioner of Agriculture,,Write-ins,,0
+Marshall,56,Commissioner of Agriculture,,Write-ins,,0
+Marshall,58,Commissioner of Agriculture,,Write-ins,,0
+Marshall,60,Commissioner of Agriculture,,Write-ins,,0
+Marshall,61,Commissioner of Agriculture,,Write-ins,,0
+Marshall,,Commissioner of Agriculture,,Write-ins,,5
+Marshall,1,Attorney General,,Patrick Morrisey,REP,131
+Marshall,4,Attorney General,,Patrick Morrisey,REP,192
+Marshall,6,Attorney General,,Patrick Morrisey,REP,87
+Marshall,7,Attorney General,,Patrick Morrisey,REP,232
+Marshall,9,Attorney General,,Patrick Morrisey,REP,130
+Marshall,9A,Attorney General,,Patrick Morrisey,REP,219
+Marshall,10,Attorney General,,Patrick Morrisey,REP,116
+Marshall,11,Attorney General,,Patrick Morrisey,REP,255
+Marshall,12,Attorney General,,Patrick Morrisey,REP,209
+Marshall,13,Attorney General,,Patrick Morrisey,REP,142
+Marshall,14,Attorney General,,Patrick Morrisey,REP,213
+Marshall,15A,Attorney General,,Patrick Morrisey,REP,128
+Marshall,17,Attorney General,,Patrick Morrisey,REP,147
+Marshall,17A,Attorney General,,Patrick Morrisey,REP,150
+Marshall,18,Attorney General,,Patrick Morrisey,REP,188
+Marshall,19,Attorney General,,Patrick Morrisey,REP,62
+Marshall,20,Attorney General,,Patrick Morrisey,REP,36
+Marshall,21,Attorney General,,Patrick Morrisey,REP,90
+Marshall,23,Attorney General,,Patrick Morrisey,REP,48
+Marshall,24,Attorney General,,Patrick Morrisey,REP,133
+Marshall,25,Attorney General,,Patrick Morrisey,REP,69
+Marshall,26,Attorney General,,Patrick Morrisey,REP,80
+Marshall,27,Attorney General,,Patrick Morrisey,REP,117
+Marshall,28,Attorney General,,Patrick Morrisey,REP,143
+Marshall,29,Attorney General,,Patrick Morrisey,REP,199
+Marshall,30,Attorney General,,Patrick Morrisey,REP,72
+Marshall,33,Attorney General,,Patrick Morrisey,REP,271
+Marshall,34,Attorney General,,Patrick Morrisey,REP,191
+Marshall,35,Attorney General,,Patrick Morrisey,REP,193
+Marshall,36,Attorney General,,Patrick Morrisey,REP,52
+Marshall,38,Attorney General,,Patrick Morrisey,REP,135
+Marshall,39,Attorney General,,Patrick Morrisey,REP,155
+Marshall,40,Attorney General,,Patrick Morrisey,REP,81
+Marshall,41,Attorney General,,Patrick Morrisey,REP,105
+Marshall,43,Attorney General,,Patrick Morrisey,REP,243
+Marshall,44,Attorney General,,Patrick Morrisey,REP,140
+Marshall,45,Attorney General,,Patrick Morrisey,REP,144
+Marshall,46,Attorney General,,Patrick Morrisey,REP,211
+Marshall,48,Attorney General,,Patrick Morrisey,REP,59
+Marshall,52,Attorney General,,Patrick Morrisey,REP,141
+Marshall,56,Attorney General,,Patrick Morrisey,REP,106
+Marshall,58,Attorney General,,Patrick Morrisey,REP,79
+Marshall,60,Attorney General,,Patrick Morrisey,REP,144
+Marshall,61,Attorney General,,Patrick Morrisey,REP,58
+Marshall,,Attorney General,,Patrick Morrisey,REP,6096
+Marshall,1,Attorney General,,Doug Reynolds,DEM,149
+Marshall,4,Attorney General,,Doug Reynolds,DEM,171
+Marshall,6,Attorney General,,Doug Reynolds,DEM,92
+Marshall,7,Attorney General,,Doug Reynolds,DEM,225
+Marshall,9,Attorney General,,Doug Reynolds,DEM,153
+Marshall,9A,Attorney General,,Doug Reynolds,DEM,204
+Marshall,10,Attorney General,,Doug Reynolds,DEM,125
+Marshall,11,Attorney General,,Doug Reynolds,DEM,247
+Marshall,12,Attorney General,,Doug Reynolds,DEM,206
+Marshall,13,Attorney General,,Doug Reynolds,DEM,175
+Marshall,14,Attorney General,,Doug Reynolds,DEM,225
+Marshall,15A,Attorney General,,Doug Reynolds,DEM,88
+Marshall,17,Attorney General,,Doug Reynolds,DEM,149
+Marshall,17A,Attorney General,,Doug Reynolds,DEM,118
+Marshall,18,Attorney General,,Doug Reynolds,DEM,200
+Marshall,19,Attorney General,,Doug Reynolds,DEM,65
+Marshall,20,Attorney General,,Doug Reynolds,DEM,80
+Marshall,21,Attorney General,,Doug Reynolds,DEM,88
+Marshall,23,Attorney General,,Doug Reynolds,DEM,77
+Marshall,24,Attorney General,,Doug Reynolds,DEM,129
+Marshall,25,Attorney General,,Doug Reynolds,DEM,102
+Marshall,26,Attorney General,,Doug Reynolds,DEM,94
+Marshall,27,Attorney General,,Doug Reynolds,DEM,94
+Marshall,28,Attorney General,,Doug Reynolds,DEM,204
+Marshall,29,Attorney General,,Doug Reynolds,DEM,178
+Marshall,30,Attorney General,,Doug Reynolds,DEM,93
+Marshall,33,Attorney General,,Doug Reynolds,DEM,239
+Marshall,34,Attorney General,,Doug Reynolds,DEM,166
+Marshall,35,Attorney General,,Doug Reynolds,DEM,171
+Marshall,36,Attorney General,,Doug Reynolds,DEM,47
+Marshall,38,Attorney General,,Doug Reynolds,DEM,112
+Marshall,39,Attorney General,,Doug Reynolds,DEM,125
+Marshall,40,Attorney General,,Doug Reynolds,DEM,65
+Marshall,41,Attorney General,,Doug Reynolds,DEM,59
+Marshall,43,Attorney General,,Doug Reynolds,DEM,217
+Marshall,44,Attorney General,,Doug Reynolds,DEM,181
+Marshall,45,Attorney General,,Doug Reynolds,DEM,110
+Marshall,46,Attorney General,,Doug Reynolds,DEM,227
+Marshall,48,Attorney General,,Doug Reynolds,DEM,49
+Marshall,52,Attorney General,,Doug Reynolds,DEM,144
+Marshall,56,Attorney General,,Doug Reynolds,DEM,112
+Marshall,58,Attorney General,,Doug Reynolds,DEM,60
+Marshall,60,Attorney General,,Doug Reynolds,DEM,113
+Marshall,61,Attorney General,,Doug Reynolds,DEM,52
+Marshall,,Attorney General,,Doug Reynolds,DEM,5980
+Marshall,1,Attorney General,,Karl Kolenich,LIB,11
+Marshall,4,Attorney General,,Karl Kolenich,LIB,10
+Marshall,6,Attorney General,,Karl Kolenich,LIB,8
+Marshall,7,Attorney General,,Karl Kolenich,LIB,18
+Marshall,9,Attorney General,,Karl Kolenich,LIB,10
+Marshall,9A,Attorney General,,Karl Kolenich,LIB,10
+Marshall,10,Attorney General,,Karl Kolenich,LIB,11
+Marshall,11,Attorney General,,Karl Kolenich,LIB,15
+Marshall,12,Attorney General,,Karl Kolenich,LIB,9
+Marshall,13,Attorney General,,Karl Kolenich,LIB,6
+Marshall,14,Attorney General,,Karl Kolenich,LIB,12
+Marshall,15A,Attorney General,,Karl Kolenich,LIB,6
+Marshall,17,Attorney General,,Karl Kolenich,LIB,14
+Marshall,17A,Attorney General,,Karl Kolenich,LIB,13
+Marshall,18,Attorney General,,Karl Kolenich,LIB,12
+Marshall,19,Attorney General,,Karl Kolenich,LIB,6
+Marshall,20,Attorney General,,Karl Kolenich,LIB,3
+Marshall,21,Attorney General,,Karl Kolenich,LIB,5
+Marshall,23,Attorney General,,Karl Kolenich,LIB,4
+Marshall,24,Attorney General,,Karl Kolenich,LIB,7
+Marshall,25,Attorney General,,Karl Kolenich,LIB,5
+Marshall,26,Attorney General,,Karl Kolenich,LIB,7
+Marshall,27,Attorney General,,Karl Kolenich,LIB,3
+Marshall,28,Attorney General,,Karl Kolenich,LIB,12
+Marshall,29,Attorney General,,Karl Kolenich,LIB,16
+Marshall,30,Attorney General,,Karl Kolenich,LIB,7
+Marshall,33,Attorney General,,Karl Kolenich,LIB,19
+Marshall,34,Attorney General,,Karl Kolenich,LIB,6
+Marshall,35,Attorney General,,Karl Kolenich,LIB,11
+Marshall,36,Attorney General,,Karl Kolenich,LIB,1
+Marshall,38,Attorney General,,Karl Kolenich,LIB,9
+Marshall,39,Attorney General,,Karl Kolenich,LIB,10
+Marshall,40,Attorney General,,Karl Kolenich,LIB,4
+Marshall,41,Attorney General,,Karl Kolenich,LIB,7
+Marshall,43,Attorney General,,Karl Kolenich,LIB,6
+Marshall,44,Attorney General,,Karl Kolenich,LIB,11
+Marshall,45,Attorney General,,Karl Kolenich,LIB,13
+Marshall,46,Attorney General,,Karl Kolenich,LIB,17
+Marshall,48,Attorney General,,Karl Kolenich,LIB,3
+Marshall,52,Attorney General,,Karl Kolenich,LIB,12
+Marshall,56,Attorney General,,Karl Kolenich,LIB,6
+Marshall,58,Attorney General,,Karl Kolenich,LIB,3
+Marshall,60,Attorney General,,Karl Kolenich,LIB,8
+Marshall,61,Attorney General,,Karl Kolenich,LIB,6
+Marshall,,Attorney General,,Karl Kolenich,LIB,392
+Marshall,1,Attorney General,,Michael Sharley,MTN,8
+Marshall,4,Attorney General,,Michael Sharley,MTN,12
+Marshall,6,Attorney General,,Michael Sharley,MTN,4
+Marshall,7,Attorney General,,Michael Sharley,MTN,16
+Marshall,9,Attorney General,,Michael Sharley,MTN,8
+Marshall,9A,Attorney General,,Michael Sharley,MTN,4
+Marshall,10,Attorney General,,Michael Sharley,MTN,5
+Marshall,11,Attorney General,,Michael Sharley,MTN,13
+Marshall,12,Attorney General,,Michael Sharley,MTN,9
+Marshall,13,Attorney General,,Michael Sharley,MTN,7
+Marshall,14,Attorney General,,Michael Sharley,MTN,9
+Marshall,15A,Attorney General,,Michael Sharley,MTN,2
+Marshall,17,Attorney General,,Michael Sharley,MTN,3
+Marshall,17A,Attorney General,,Michael Sharley,MTN,5
+Marshall,18,Attorney General,,Michael Sharley,MTN,7
+Marshall,19,Attorney General,,Michael Sharley,MTN,3
+Marshall,20,Attorney General,,Michael Sharley,MTN,5
+Marshall,21,Attorney General,,Michael Sharley,MTN,2
+Marshall,23,Attorney General,,Michael Sharley,MTN,5
+Marshall,24,Attorney General,,Michael Sharley,MTN,1
+Marshall,25,Attorney General,,Michael Sharley,MTN,5
+Marshall,26,Attorney General,,Michael Sharley,MTN,5
+Marshall,27,Attorney General,,Michael Sharley,MTN,3
+Marshall,28,Attorney General,,Michael Sharley,MTN,12
+Marshall,29,Attorney General,,Michael Sharley,MTN,11
+Marshall,30,Attorney General,,Michael Sharley,MTN,4
+Marshall,33,Attorney General,,Michael Sharley,MTN,3
+Marshall,34,Attorney General,,Michael Sharley,MTN,6
+Marshall,35,Attorney General,,Michael Sharley,MTN,20
+Marshall,36,Attorney General,,Michael Sharley,MTN,3
+Marshall,38,Attorney General,,Michael Sharley,MTN,7
+Marshall,39,Attorney General,,Michael Sharley,MTN,11
+Marshall,40,Attorney General,,Michael Sharley,MTN,2
+Marshall,41,Attorney General,,Michael Sharley,MTN,7
+Marshall,43,Attorney General,,Michael Sharley,MTN,13
+Marshall,44,Attorney General,,Michael Sharley,MTN,7
+Marshall,45,Attorney General,,Michael Sharley,MTN,6
+Marshall,46,Attorney General,,Michael Sharley,MTN,14
+Marshall,48,Attorney General,,Michael Sharley,MTN,4
+Marshall,52,Attorney General,,Michael Sharley,MTN,10
+Marshall,56,Attorney General,,Michael Sharley,MTN,8
+Marshall,58,Attorney General,,Michael Sharley,MTN,1
+Marshall,60,Attorney General,,Michael Sharley,MTN,8
+Marshall,61,Attorney General,,Michael Sharley,MTN,2
+Marshall,,Attorney General,,Michael Sharley,MTN,300
+Marshall,1,Attorney General,,Write-ins,,0
+Marshall,4,Attorney General,,Write-ins,,0
+Marshall,6,Attorney General,,Write-ins,,0
+Marshall,7,Attorney General,,Write-ins,,0
+Marshall,9,Attorney General,,Write-ins,,0
+Marshall,9A,Attorney General,,Write-ins,,0
+Marshall,10,Attorney General,,Write-ins,,0
+Marshall,11,Attorney General,,Write-ins,,0
+Marshall,12,Attorney General,,Write-ins,,0
+Marshall,13,Attorney General,,Write-ins,,0
+Marshall,14,Attorney General,,Write-ins,,0
+Marshall,15A,Attorney General,,Write-ins,,0
+Marshall,17,Attorney General,,Write-ins,,0
+Marshall,17A,Attorney General,,Write-ins,,0
+Marshall,18,Attorney General,,Write-ins,,0
+Marshall,19,Attorney General,,Write-ins,,0
+Marshall,20,Attorney General,,Write-ins,,0
+Marshall,21,Attorney General,,Write-ins,,0
+Marshall,23,Attorney General,,Write-ins,,0
+Marshall,24,Attorney General,,Write-ins,,0
+Marshall,25,Attorney General,,Write-ins,,0
+Marshall,26,Attorney General,,Write-ins,,0
+Marshall,27,Attorney General,,Write-ins,,0
+Marshall,28,Attorney General,,Write-ins,,0
+Marshall,29,Attorney General,,Write-ins,,0
+Marshall,30,Attorney General,,Write-ins,,0
+Marshall,33,Attorney General,,Write-ins,,1
+Marshall,34,Attorney General,,Write-ins,,0
+Marshall,35,Attorney General,,Write-ins,,0
+Marshall,36,Attorney General,,Write-ins,,0
+Marshall,38,Attorney General,,Write-ins,,0
+Marshall,39,Attorney General,,Write-ins,,0
+Marshall,40,Attorney General,,Write-ins,,0
+Marshall,41,Attorney General,,Write-ins,,0
+Marshall,43,Attorney General,,Write-ins,,0
+Marshall,44,Attorney General,,Write-ins,,0
+Marshall,45,Attorney General,,Write-ins,,0
+Marshall,46,Attorney General,,Write-ins,,0
+Marshall,48,Attorney General,,Write-ins,,0
+Marshall,52,Attorney General,,Write-ins,,0
+Marshall,56,Attorney General,,Write-ins,,0
+Marshall,58,Attorney General,,Write-ins,,1
+Marshall,60,Attorney General,,Write-ins,,0
+Marshall,61,Attorney General,,Write-ins,,0
+Marshall,,Attorney General,,Write-ins,,2
+Marshall,35,State Senator,1,Ryan W. Weld,REP,187
+Marshall,36,State Senator,1,Ryan W. Weld,REP,62
+Marshall,38,State Senator,1,Ryan W. Weld,REP,136
+Marshall,39,State Senator,1,Ryan W. Weld,REP,163
+Marshall,56,State Senator,1,Ryan W. Weld,REP,107
+Marshall,58,State Senator,1,Ryan W. Weld,REP,73
+Marshall,61,State Senator,1,Ryan W. Weld,REP,62
+Marshall,,State Senator,1,Ryan W. Weld,REP,790
+Marshall,35,State Senator,1,Jack Yost,DEM,201
+Marshall,36,State Senator,1,Jack Yost,DEM,42
+Marshall,38,State Senator,1,Jack Yost,DEM,127
+Marshall,39,State Senator,1,Jack Yost,DEM,139
+Marshall,56,State Senator,1,Jack Yost,DEM,126
+Marshall,58,State Senator,1,Jack Yost,DEM,76
+Marshall,61,State Senator,1,Jack Yost,DEM,55
+Marshall,,State Senator,1,Jack Yost,DEM,766
+Marshall,35,State Senator,1,Write-ins,,3
+Marshall,36,State Senator,1,Write-ins,,1
+Marshall,38,State Senator,1,Write-ins,,1
+Marshall,39,State Senator,1,Write-ins,,0
+Marshall,56,State Senator,1,Write-ins,,1
+Marshall,58,State Senator,1,Write-ins,,0
+Marshall,61,State Senator,1,Write-ins,,1
+Marshall,,State Senator,1,Write-ins,,7
+Marshall,1,State Senator,2,Mike Maroney,REP,130
+Marshall,4,State Senator,2,Mike Maroney,REP,200
+Marshall,6,State Senator,2,Mike Maroney,REP,85
+Marshall,7,State Senator,2,Mike Maroney,REP,217
+Marshall,9,State Senator,2,Mike Maroney,REP,143
+Marshall,9A,State Senator,2,Mike Maroney,REP,248
+Marshall,10,State Senator,2,Mike Maroney,REP,112
+Marshall,11,State Senator,2,Mike Maroney,REP,236
+Marshall,12,State Senator,2,Mike Maroney,REP,190
+Marshall,13,State Senator,2,Mike Maroney,REP,175
+Marshall,14,State Senator,2,Mike Maroney,REP,271
+Marshall,15A,State Senator,2,Mike Maroney,REP,124
+Marshall,17,State Senator,2,Mike Maroney,REP,134
+Marshall,17A,State Senator,2,Mike Maroney,REP,149
+Marshall,18,State Senator,2,Mike Maroney,REP,172
+Marshall,19,State Senator,2,Mike Maroney,REP,60
+Marshall,20,State Senator,2,Mike Maroney,REP,49
+Marshall,21,State Senator,2,Mike Maroney,REP,96
+Marshall,23,State Senator,2,Mike Maroney,REP,83
+Marshall,24,State Senator,2,Mike Maroney,REP,142
+Marshall,25,State Senator,2,Mike Maroney,REP,84
+Marshall,26,State Senator,2,Mike Maroney,REP,91
+Marshall,27,State Senator,2,Mike Maroney,REP,124
+Marshall,28,State Senator,2,Mike Maroney,REP,181
+Marshall,29,State Senator,2,Mike Maroney,REP,194
+Marshall,30,State Senator,2,Mike Maroney,REP,94
+Marshall,33,State Senator,2,Mike Maroney,REP,291
+Marshall,34,State Senator,2,Mike Maroney,REP,211
+Marshall,40,State Senator,2,Mike Maroney,REP,67
+Marshall,41,State Senator,2,Mike Maroney,REP,93
+Marshall,43,State Senator,2,Mike Maroney,REP,233
+Marshall,44,State Senator,2,Mike Maroney,REP,140
+Marshall,45,State Senator,2,Mike Maroney,REP,143
+Marshall,46,State Senator,2,Mike Maroney,REP,214
+Marshall,48,State Senator,2,Mike Maroney,REP,46
+Marshall,52,State Senator,2,Mike Maroney,REP,143
+Marshall,60,State Senator,2,Mike Maroney,REP,133
+Marshall,,State Senator,2,Mike Maroney,REP,5498
+Marshall,1,State Senator,2,Liza Zukoff,DEM,179
+Marshall,4,State Senator,2,Liza Zukoff,DEM,185
+Marshall,6,State Senator,2,Liza Zukoff,DEM,108
+Marshall,7,State Senator,2,Liza Zukoff,DEM,274
+Marshall,9,State Senator,2,Liza Zukoff,DEM,165
+Marshall,9A,State Senator,2,Liza Zukoff,DEM,206
+Marshall,10,State Senator,2,Liza Zukoff,DEM,151
+Marshall,11,State Senator,2,Liza Zukoff,DEM,289
+Marshall,12,State Senator,2,Liza Zukoff,DEM,257
+Marshall,13,State Senator,2,Liza Zukoff,DEM,158
+Marshall,14,State Senator,2,Liza Zukoff,DEM,200
+Marshall,15A,State Senator,2,Liza Zukoff,DEM,98
+Marshall,17,State Senator,2,Liza Zukoff,DEM,180
+Marshall,17A,State Senator,2,Liza Zukoff,DEM,144
+Marshall,18,State Senator,2,Liza Zukoff,DEM,252
+Marshall,19,State Senator,2,Liza Zukoff,DEM,72
+Marshall,20,State Senator,2,Liza Zukoff,DEM,77
+Marshall,21,State Senator,2,Liza Zukoff,DEM,85
+Marshall,23,State Senator,2,Liza Zukoff,DEM,59
+Marshall,24,State Senator,2,Liza Zukoff,DEM,134
+Marshall,25,State Senator,2,Liza Zukoff,DEM,95
+Marshall,26,State Senator,2,Liza Zukoff,DEM,92
+Marshall,27,State Senator,2,Liza Zukoff,DEM,94
+Marshall,28,State Senator,2,Liza Zukoff,DEM,204
+Marshall,29,State Senator,2,Liza Zukoff,DEM,213
+Marshall,30,State Senator,2,Liza Zukoff,DEM,85
+Marshall,33,State Senator,2,Liza Zukoff,DEM,238
+Marshall,34,State Senator,2,Liza Zukoff,DEM,155
+Marshall,40,State Senator,2,Liza Zukoff,DEM,84
+Marshall,41,State Senator,2,Liza Zukoff,DEM,83
+Marshall,43,State Senator,2,Liza Zukoff,DEM,253
+Marshall,44,State Senator,2,Liza Zukoff,DEM,193
+Marshall,45,State Senator,2,Liza Zukoff,DEM,128
+Marshall,46,State Senator,2,Liza Zukoff,DEM,271
+Marshall,48,State Senator,2,Liza Zukoff,DEM,66
+Marshall,52,State Senator,2,Liza Zukoff,DEM,161
+Marshall,60,State Senator,2,Liza Zukoff,DEM,142
+Marshall,,State Senator,2,Liza Zukoff,DEM,5830
+Marshall,1,State Senator,2,H John Rogers,LIB,8
+Marshall,4,State Senator,2,H John Rogers,LIB,15
+Marshall,6,State Senator,2,H John Rogers,LIB,3
+Marshall,7,State Senator,2,H John Rogers,LIB,15
+Marshall,9,State Senator,2,H John Rogers,LIB,6
+Marshall,9A,State Senator,2,H John Rogers,LIB,5
+Marshall,10,State Senator,2,H John Rogers,LIB,6
+Marshall,11,State Senator,2,H John Rogers,LIB,13
+Marshall,12,State Senator,2,H John Rogers,LIB,9
+Marshall,13,State Senator,2,H John Rogers,LIB,13
+Marshall,14,State Senator,2,H John Rogers,LIB,9
+Marshall,15A,State Senator,2,H John Rogers,LIB,10
+Marshall,17,State Senator,2,H John Rogers,LIB,11
+Marshall,17A,State Senator,2,H John Rogers,LIB,5
+Marshall,18,State Senator,2,H John Rogers,LIB,7
+Marshall,19,State Senator,2,H John Rogers,LIB,7
+Marshall,20,State Senator,2,H John Rogers,LIB,3
+Marshall,21,State Senator,2,H John Rogers,LIB,8
+Marshall,23,State Senator,2,H John Rogers,LIB,3
+Marshall,24,State Senator,2,H John Rogers,LIB,9
+Marshall,25,State Senator,2,H John Rogers,LIB,4
+Marshall,26,State Senator,2,H John Rogers,LIB,6
+Marshall,27,State Senator,2,H John Rogers,LIB,2
+Marshall,28,State Senator,2,H John Rogers,LIB,6
+Marshall,29,State Senator,2,H John Rogers,LIB,8
+Marshall,30,State Senator,2,H John Rogers,LIB,6
+Marshall,33,State Senator,2,H John Rogers,LIB,15
+Marshall,34,State Senator,2,H John Rogers,LIB,9
+Marshall,40,State Senator,2,H John Rogers,LIB,4
+Marshall,41,State Senator,2,H John Rogers,LIB,7
+Marshall,43,State Senator,2,H John Rogers,LIB,10
+Marshall,44,State Senator,2,H John Rogers,LIB,12
+Marshall,45,State Senator,2,H John Rogers,LIB,10
+Marshall,46,State Senator,2,H John Rogers,LIB,10
+Marshall,48,State Senator,2,H John Rogers,LIB,6
+Marshall,52,State Senator,2,H John Rogers,LIB,13
+Marshall,60,State Senator,2,H John Rogers,LIB,5
+Marshall,,State Senator,2,H John Rogers,LIB,298
+Marshall,1,State Senator,2,Write-ins,,0
+Marshall,4,State Senator,2,Write-ins,,0
+Marshall,6,State Senator,2,Write-ins,,0
+Marshall,7,State Senator,2,Write-ins,,0
+Marshall,9,State Senator,2,Write-ins,,1
+Marshall,9A,State Senator,2,Write-ins,,0
+Marshall,10,State Senator,2,Write-ins,,0
+Marshall,11,State Senator,2,Write-ins,,0
+Marshall,12,State Senator,2,Write-ins,,0
+Marshall,13,State Senator,2,Write-ins,,0
+Marshall,14,State Senator,2,Write-ins,,0
+Marshall,15A,State Senator,2,Write-ins,,0
+Marshall,17,State Senator,2,Write-ins,,0
+Marshall,17A,State Senator,2,Write-ins,,0
+Marshall,18,State Senator,2,Write-ins,,0
+Marshall,19,State Senator,2,Write-ins,,0
+Marshall,20,State Senator,2,Write-ins,,0
+Marshall,21,State Senator,2,Write-ins,,0
+Marshall,23,State Senator,2,Write-ins,,0
+Marshall,24,State Senator,2,Write-ins,,0
+Marshall,25,State Senator,2,Write-ins,,0
+Marshall,26,State Senator,2,Write-ins,,0
+Marshall,27,State Senator,2,Write-ins,,0
+Marshall,28,State Senator,2,Write-ins,,0
+Marshall,29,State Senator,2,Write-ins,,0
+Marshall,30,State Senator,2,Write-ins,,0
+Marshall,33,State Senator,2,Write-ins,,0
+Marshall,34,State Senator,2,Write-ins,,0
+Marshall,40,State Senator,2,Write-ins,,0
+Marshall,41,State Senator,2,Write-ins,,0
+Marshall,43,State Senator,2,Write-ins,,0
+Marshall,44,State Senator,2,Write-ins,,0
+Marshall,45,State Senator,2,Write-ins,,0
+Marshall,46,State Senator,2,Write-ins,,0
+Marshall,48,State Senator,2,Write-ins,,0
+Marshall,52,State Senator,2,Write-ins,,0
+Marshall,60,State Senator,2,Write-ins,,0
+Marshall,,State Senator,2,Write-ins,,1
+Marshall,1,House of Delegates,4,Del T. Kelly,REP,92
+Marshall,4,House of Delegates,4,Del T. Kelly,REP,132
+Marshall,6,House of Delegates,4,Del T. Kelly,REP,53
+Marshall,7,House of Delegates,4,Del T. Kelly,REP,151
+Marshall,9,House of Delegates,4,Del T. Kelly,REP,98
+Marshall,9A,House of Delegates,4,Del T. Kelly,REP,153
+Marshall,10,House of Delegates,4,Del T. Kelly,REP,83
+Marshall,11,House of Delegates,4,Del T. Kelly,REP,176
+Marshall,12,House of Delegates,4,Del T. Kelly,REP,129
+Marshall,13,House of Delegates,4,Del T. Kelly,REP,105
+Marshall,14,House of Delegates,4,Del T. Kelly,REP,148
+Marshall,15A,House of Delegates,4,Del T. Kelly,REP,81
+Marshall,17,House of Delegates,4,Del T. Kelly,REP,88
+Marshall,17A,House of Delegates,4,Del T. Kelly,REP,100
+Marshall,18,House of Delegates,4,Del T. Kelly,REP,128
+Marshall,19,House of Delegates,4,Del T. Kelly,REP,32
+Marshall,20,House of Delegates,4,Del T. Kelly,REP,15
+Marshall,21,House of Delegates,4,Del T. Kelly,REP,61
+Marshall,23,House of Delegates,4,Del T. Kelly,REP,24
+Marshall,24,House of Delegates,4,Del T. Kelly,REP,91
+Marshall,25,House of Delegates,4,Del T. Kelly,REP,49
+Marshall,26,House of Delegates,4,Del T. Kelly,REP,34
+Marshall,27,House of Delegates,4,Del T. Kelly,REP,55
+Marshall,28,House of Delegates,4,Del T. Kelly,REP,57
+Marshall,29,House of Delegates,4,Del T. Kelly,REP,117
+Marshall,30,House of Delegates,4,Del T. Kelly,REP,28
+Marshall,33,House of Delegates,4,Del T. Kelly,REP,185
+Marshall,34,House of Delegates,4,Del T. Kelly,REP,109
+Marshall,35,House of Delegates,4,Del T. Kelly,REP,117
+Marshall,36,House of Delegates,4,Del T. Kelly,REP,36
+Marshall,38,House of Delegates,4,Del T. Kelly,REP,77
+Marshall,39,House of Delegates,4,Del T. Kelly,REP,120
+Marshall,40,House of Delegates,4,Del T. Kelly,REP,42
+Marshall,41,House of Delegates,4,Del T. Kelly,REP,66
+Marshall,43,House of Delegates,4,Del T. Kelly,REP,171
+Marshall,44,House of Delegates,4,Del T. Kelly,REP,97
+Marshall,45,House of Delegates,4,Del T. Kelly,REP,113
+Marshall,46,House of Delegates,4,Del T. Kelly,REP,163
+Marshall,48,House of Delegates,4,Del T. Kelly,REP,39
+Marshall,52,House of Delegates,4,Del T. Kelly,REP,98
+Marshall,56,House of Delegates,4,Del T. Kelly,REP,57
+Marshall,58,House of Delegates,4,Del T. Kelly,REP,45
+Marshall,60,House of Delegates,4,Del T. Kelly,REP,84
+Marshall,61,House of Delegates,4,Del T. Kelly,REP,41
+Marshall,,House of Delegates,4,Del T. Kelly,REP,3940
+Marshall,1,House of Delegates,4,David A. Evans,REP,101
+Marshall,4,House of Delegates,4,David A. Evans,REP,147
+Marshall,6,House of Delegates,4,David A. Evans,REP,52
+Marshall,7,House of Delegates,4,David A. Evans,REP,169
+Marshall,9,House of Delegates,4,David A. Evans,REP,114
+Marshall,9A,House of Delegates,4,David A. Evans,REP,126
+Marshall,10,House of Delegates,4,David A. Evans,REP,75
+Marshall,11,House of Delegates,4,David A. Evans,REP,217
+Marshall,12,House of Delegates,4,David A. Evans,REP,162
+Marshall,13,House of Delegates,4,David A. Evans,REP,83
+Marshall,14,House of Delegates,4,David A. Evans,REP,131
+Marshall,15A,House of Delegates,4,David A. Evans,REP,101
+Marshall,17,House of Delegates,4,David A. Evans,REP,112
+Marshall,17A,House of Delegates,4,David A. Evans,REP,124
+Marshall,18,House of Delegates,4,David A. Evans,REP,115
+Marshall,19,House of Delegates,4,David A. Evans,REP,40
+Marshall,20,House of Delegates,4,David A. Evans,REP,19
+Marshall,21,House of Delegates,4,David A. Evans,REP,51
+Marshall,23,House of Delegates,4,David A. Evans,REP,16
+Marshall,24,House of Delegates,4,David A. Evans,REP,83
+Marshall,25,House of Delegates,4,David A. Evans,REP,35
+Marshall,26,House of Delegates,4,David A. Evans,REP,34
+Marshall,27,House of Delegates,4,David A. Evans,REP,68
+Marshall,28,House of Delegates,4,David A. Evans,REP,60
+Marshall,29,House of Delegates,4,David A. Evans,REP,159
+Marshall,30,House of Delegates,4,David A. Evans,REP,31
+Marshall,33,House of Delegates,4,David A. Evans,REP,166
+Marshall,34,House of Delegates,4,David A. Evans,REP,111
+Marshall,35,House of Delegates,4,David A. Evans,REP,164
+Marshall,36,House of Delegates,4,David A. Evans,REP,42
+Marshall,38,House of Delegates,4,David A. Evans,REP,118
+Marshall,39,House of Delegates,4,David A. Evans,REP,132
+Marshall,40,House of Delegates,4,David A. Evans,REP,69
+Marshall,41,House of Delegates,4,David A. Evans,REP,94
+Marshall,43,House of Delegates,4,David A. Evans,REP,216
+Marshall,44,House of Delegates,4,David A. Evans,REP,117
+Marshall,45,House of Delegates,4,David A. Evans,REP,144
+Marshall,46,House of Delegates,4,David A. Evans,REP,184
+Marshall,48,House of Delegates,4,David A. Evans,REP,52
+Marshall,52,House of Delegates,4,David A. Evans,REP,106
+Marshall,56,House of Delegates,4,David A. Evans,REP,107
+Marshall,58,House of Delegates,4,David A. Evans,REP,62
+Marshall,60,House of Delegates,4,David A. Evans,REP,142
+Marshall,61,House of Delegates,4,David A. Evans,REP,46
+Marshall,,House of Delegates,4,David A. Evans,REP,4497
+Marshall,1,House of Delegates,4,Mike Ferro,DEM,187
+Marshall,4,House of Delegates,4,Mike Ferro,DEM,220
+Marshall,6,House of Delegates,4,Mike Ferro,DEM,119
+Marshall,7,House of Delegates,4,Mike Ferro,DEM,294
+Marshall,9,House of Delegates,4,Mike Ferro,DEM,174
+Marshall,9A,House of Delegates,4,Mike Ferro,DEM,277
+Marshall,10,House of Delegates,4,Mike Ferro,DEM,149
+Marshall,11,House of Delegates,4,Mike Ferro,DEM,282
+Marshall,12,House of Delegates,4,Mike Ferro,DEM,285
+Marshall,13,House of Delegates,4,Mike Ferro,DEM,220
+Marshall,14,House of Delegates,4,Mike Ferro,DEM,302
+Marshall,15A,House of Delegates,4,Mike Ferro,DEM,115
+Marshall,17,House of Delegates,4,Mike Ferro,DEM,184
+Marshall,17A,House of Delegates,4,Mike Ferro,DEM,158
+Marshall,18,House of Delegates,4,Mike Ferro,DEM,277
+Marshall,19,House of Delegates,4,Mike Ferro,DEM,79
+Marshall,20,House of Delegates,4,Mike Ferro,DEM,95
+Marshall,21,House of Delegates,4,Mike Ferro,DEM,117
+Marshall,23,House of Delegates,4,Mike Ferro,DEM,91
+Marshall,24,House of Delegates,4,Mike Ferro,DEM,165
+Marshall,25,House of Delegates,4,Mike Ferro,DEM,115
+Marshall,26,House of Delegates,4,Mike Ferro,DEM,148
+Marshall,27,House of Delegates,4,Mike Ferro,DEM,152
+Marshall,28,House of Delegates,4,Mike Ferro,DEM,296
+Marshall,29,House of Delegates,4,Mike Ferro,DEM,250
+Marshall,30,House of Delegates,4,Mike Ferro,DEM,146
+Marshall,33,House of Delegates,4,Mike Ferro,DEM,325
+Marshall,34,House of Delegates,4,Mike Ferro,DEM,227
+Marshall,35,House of Delegates,4,Mike Ferro,DEM,251
+Marshall,36,House of Delegates,4,Mike Ferro,DEM,48
+Marshall,38,House of Delegates,4,Mike Ferro,DEM,147
+Marshall,39,House of Delegates,4,Mike Ferro,DEM,134
+Marshall,40,House of Delegates,4,Mike Ferro,DEM,87
+Marshall,41,House of Delegates,4,Mike Ferro,DEM,81
+Marshall,43,House of Delegates,4,Mike Ferro,DEM,256
+Marshall,44,House of Delegates,4,Mike Ferro,DEM,197
+Marshall,45,House of Delegates,4,Mike Ferro,DEM,132
+Marshall,46,House of Delegates,4,Mike Ferro,DEM,276
+Marshall,48,House of Delegates,4,Mike Ferro,DEM,61
+Marshall,52,House of Delegates,4,Mike Ferro,DEM,166
+Marshall,56,House of Delegates,4,Mike Ferro,DEM,116
+Marshall,58,House of Delegates,4,Mike Ferro,DEM,85
+Marshall,60,House of Delegates,4,Mike Ferro,DEM,123
+Marshall,61,House of Delegates,4,Mike Ferro,DEM,57
+Marshall,,House of Delegates,4,Mike Ferro,DEM,7666
+Marshall,1,House of Delegates,4,Joe Canestrard,DEM,140
+Marshall,4,House of Delegates,4,Joe Canestrard,DEM,167
+Marshall,6,House of Delegates,4,Joe Canestrard,DEM,82
+Marshall,7,House of Delegates,4,Joe Canestrard,DEM,226
+Marshall,9,House of Delegates,4,Joe Canestrard,DEM,126
+Marshall,9A,House of Delegates,4,Joe Canestrard,DEM,222
+Marshall,10,House of Delegates,4,Joe Canestrard,DEM,124
+Marshall,11,House of Delegates,4,Joe Canestrard,DEM,212
+Marshall,12,House of Delegates,4,Joe Canestrard,DEM,182
+Marshall,13,House of Delegates,4,Joe Canestrard,DEM,183
+Marshall,14,House of Delegates,4,Joe Canestrard,DEM,225
+Marshall,15A,House of Delegates,4,Joe Canestrard,DEM,65
+Marshall,17,House of Delegates,4,Joe Canestrard,DEM,140
+Marshall,17A,House of Delegates,4,Joe Canestrard,DEM,116
+Marshall,18,House of Delegates,4,Joe Canestrard,DEM,186
+Marshall,19,House of Delegates,4,Joe Canestrard,DEM,74
+Marshall,20,House of Delegates,4,Joe Canestrard,DEM,99
+Marshall,21,House of Delegates,4,Joe Canestrard,DEM,88
+Marshall,23,House of Delegates,4,Joe Canestrard,DEM,105
+Marshall,24,House of Delegates,4,Joe Canestrard,DEM,133
+Marshall,25,House of Delegates,4,Joe Canestrard,DEM,97
+Marshall,26,House of Delegates,4,Joe Canestrard,DEM,113
+Marshall,27,House of Delegates,4,Joe Canestrard,DEM,84
+Marshall,28,House of Delegates,4,Joe Canestrard,DEM,240
+Marshall,29,House of Delegates,4,Joe Canestrard,DEM,169
+Marshall,30,House of Delegates,4,Joe Canestrard,DEM,99
+Marshall,33,House of Delegates,4,Joe Canestrard,DEM,213
+Marshall,34,House of Delegates,4,Joe Canestrard,DEM,180
+Marshall,35,House of Delegates,4,Joe Canestrard,DEM,141
+Marshall,36,House of Delegates,4,Joe Canestrard,DEM,38
+Marshall,38,House of Delegates,4,Joe Canestrard,DEM,77
+Marshall,39,House of Delegates,4,Joe Canestrard,DEM,104
+Marshall,40,House of Delegates,4,Joe Canestrard,DEM,52
+Marshall,41,House of Delegates,4,Joe Canestrard,DEM,54
+Marshall,43,House of Delegates,4,Joe Canestrard,DEM,178
+Marshall,44,House of Delegates,4,Joe Canestrard,DEM,141
+Marshall,45,House of Delegates,4,Joe Canestrard,DEM,73
+Marshall,46,House of Delegates,4,Joe Canestrard,DEM,184
+Marshall,48,House of Delegates,4,Joe Canestrard,DEM,46
+Marshall,52,House of Delegates,4,Joe Canestrard,DEM,131
+Marshall,56,House of Delegates,4,Joe Canestrard,DEM,106
+Marshall,58,House of Delegates,4,Joe Canestrard,DEM,55
+Marshall,60,House of Delegates,4,Joe Canestrard,DEM,101
+Marshall,61,House of Delegates,4,Joe Canestrard,DEM,45
+Marshall,,House of Delegates,4,Joe Canestrard,DEM,5616
+Marshall,1,House of Delegates,4,Write-ins,,0
+Marshall,4,House of Delegates,4,Write-ins,,0
+Marshall,6,House of Delegates,4,Write-ins,,0
+Marshall,7,House of Delegates,4,Write-ins,,0
+Marshall,9,House of Delegates,4,Write-ins,,0
+Marshall,9A,House of Delegates,4,Write-ins,,0
+Marshall,10,House of Delegates,4,Write-ins,,0
+Marshall,11,House of Delegates,4,Write-ins,,0
+Marshall,12,House of Delegates,4,Write-ins,,0
+Marshall,13,House of Delegates,4,Write-ins,,0
+Marshall,14,House of Delegates,4,Write-ins,,0
+Marshall,15A,House of Delegates,4,Write-ins,,0
+Marshall,17,House of Delegates,4,Write-ins,,0
+Marshall,17A,House of Delegates,4,Write-ins,,0
+Marshall,18,House of Delegates,4,Write-ins,,0
+Marshall,19,House of Delegates,4,Write-ins,,0
+Marshall,20,House of Delegates,4,Write-ins,,0
+Marshall,21,House of Delegates,4,Write-ins,,0
+Marshall,23,House of Delegates,4,Write-ins,,0
+Marshall,24,House of Delegates,4,Write-ins,,0
+Marshall,25,House of Delegates,4,Write-ins,,0
+Marshall,26,House of Delegates,4,Write-ins,,0
+Marshall,27,House of Delegates,4,Write-ins,,0
+Marshall,28,House of Delegates,4,Write-ins,,0
+Marshall,29,House of Delegates,4,Write-ins,,0
+Marshall,30,House of Delegates,4,Write-ins,,0
+Marshall,33,House of Delegates,4,Write-ins,,0
+Marshall,34,House of Delegates,4,Write-ins,,0
+Marshall,35,House of Delegates,4,Write-ins,,0
+Marshall,36,House of Delegates,4,Write-ins,,0
+Marshall,38,House of Delegates,4,Write-ins,,0
+Marshall,39,House of Delegates,4,Write-ins,,0
+Marshall,40,House of Delegates,4,Write-ins,,1
+Marshall,41,House of Delegates,4,Write-ins,,0
+Marshall,43,House of Delegates,4,Write-ins,,0
+Marshall,44,House of Delegates,4,Write-ins,,0
+Marshall,45,House of Delegates,4,Write-ins,,0
+Marshall,46,House of Delegates,4,Write-ins,,0
+Marshall,48,House of Delegates,4,Write-ins,,0
+Marshall,52,House of Delegates,4,Write-ins,,0
+Marshall,56,House of Delegates,4,Write-ins,,0
+Marshall,58,House of Delegates,4,Write-ins,,0
+Marshall,60,House of Delegates,4,Write-ins,,0
+Marshall,61,House of Delegates,4,Write-ins,,0
+Marshall,,House of Delegates,4,Write-ins,,1
