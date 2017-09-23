@@ -1,0 +1,1722 @@
+county,precinct,office,district,party,candidate,votes
+Mercer,1,,,Republican,Straight Party,27
+Mercer,2,,,Republican,Straight Party,58
+Mercer,3,,,Republican,Straight Party,63
+Mercer,4,,,Republican,Straight Party,63
+Mercer,5,,,Republican,Straight Party,47
+Mercer,14,,,Republican,Straight Party,6
+Mercer,15,,,Republican,Straight Party,30
+Mercer,20,,,Republican,Straight Party,14
+Mercer,27,,,Republican,Straight Party,43
+Mercer,28,,,Republican,Straight Party,37
+Mercer,29,,,Republican,Straight Party,18
+Mercer,31,,,Republican,Straight Party,72
+Mercer,32,,,Republican,Straight Party,64
+Mercer,34,,,Republican,Straight Party,29
+Mercer,36,,,Republican,Straight Party,50
+Mercer,38,,,Republican,Straight Party,71
+Mercer,39,,,Republican,Straight Party,47
+Mercer,42,,,Republican,Straight Party,13
+Mercer,44,,,Republican,Straight Party,63
+Mercer,46,,,Republican,Straight Party,6
+Mercer,47,,,Republican,Straight Party,42
+Mercer,48,,,Republican,Straight Party,30
+Mercer,49,,,Republican,Straight Party,33
+Mercer,52,,,Republican,Straight Party,29
+Mercer,53,,,Republican,Straight Party,44
+Mercer,54,,,Republican,Straight Party,49
+Mercer,55,,,Republican,Straight Party,36
+Mercer,56,,,Republican,Straight Party,22
+Mercer,57,,,Republican,Straight Party,50
+Mercer,58,,,Republican,Straight Party,32
+Mercer,59,,,Republican,Straight Party,39
+Mercer,60,,,Republican,Straight Party,10
+Mercer,62,,,Republican,Straight Party,65
+Mercer,64,,,Republican,Straight Party,65
+Mercer,65,,,Republican,Straight Party,105
+Mercer,66,,,Republican,Straight Party,20
+Mercer,67,,,Republican,Straight Party,33
+Mercer,68,,,Republican,Straight Party,13
+Mercer,69,,,Republican,Straight Party,41
+Mercer,71,,,Republican,Straight Party,71
+Mercer,72,,,Republican,Straight Party,47
+Mercer,73,,,Republican,Straight Party,82
+Mercer,74,,,Republican,Straight Party,87
+Mercer,75,,,Republican,Straight Party,92
+Mercer,77,,,Republican,Straight Party,16
+Mercer,78,,,Republican,Straight Party,29
+Mercer,79,,,Republican,Straight Party,93
+Mercer,80,,,Republican,Straight Party,42
+Mercer,81,,,Republican,Straight Party,54
+Mercer,82,,,Republican,Straight Party,44
+Mercer,83,,,Republican,Straight Party,17
+Mercer,84,,,Republican,Straight Party,16
+Mercer,85,,,Republican,Straight Party,11
+Mercer,86,,,Republican,Straight Party,38
+Mercer,87,,,Republican,Straight Party,41
+Mercer,88,,,Republican,Straight Party,112
+Mercer,89,,,Republican,Straight Party,32
+Mercer,95,,,Republican,Straight Party,37
+Mercer,96,,,Republican,Straight Party,29
+Mercer,98,,,Republican,Straight Party,59
+Mercer,Total,,,Republican,Straight Party,2628
+Mercer,1,,,Democratic,Straight Party,32
+Mercer,2,,,Democratic,Straight Party,66
+Mercer,3,,,Democratic,Straight Party,71
+Mercer,4,,,Democratic,Straight Party,56
+Mercer,5,,,Democratic,Straight Party,47
+Mercer,14,,,Democratic,Straight Party,232
+Mercer,15,,,Democratic,Straight Party,63
+Mercer,20,,,Democratic,Straight Party,76
+Mercer,27,,,Democratic,Straight Party,38
+Mercer,28,,,Democratic,Straight Party,44
+Mercer,29,,,Democratic,Straight Party,27
+Mercer,31,,,Democratic,Straight Party,102
+Mercer,32,,,Democratic,Straight Party,85
+Mercer,34,,,Democratic,Straight Party,118
+Mercer,36,,,Democratic,Straight Party,59
+Mercer,38,,,Democratic,Straight Party,45
+Mercer,39,,,Democratic,Straight Party,25
+Mercer,42,,,Democratic,Straight Party,23
+Mercer,44,,,Democratic,Straight Party,67
+Mercer,46,,,Democratic,Straight Party,32
+Mercer,47,,,Democratic,Straight Party,35
+Mercer,48,,,Democratic,Straight Party,35
+Mercer,49,,,Democratic,Straight Party,58
+Mercer,52,,,Democratic,Straight Party,25
+Mercer,53,,,Democratic,Straight Party,56
+Mercer,54,,,Democratic,Straight Party,34
+Mercer,55,,,Democratic,Straight Party,37
+Mercer,56,,,Democratic,Straight Party,16
+Mercer,57,,,Democratic,Straight Party,67
+Mercer,58,,,Democratic,Straight Party,58
+Mercer,59,,,Democratic,Straight Party,32
+Mercer,60,,,Democratic,Straight Party,12
+Mercer,62,,,Democratic,Straight Party,43
+Mercer,64,,,Democratic,Straight Party,40
+Mercer,65,,,Democratic,Straight Party,87
+Mercer,66,,,Democratic,Straight Party,31
+Mercer,67,,,Democratic,Straight Party,63
+Mercer,68,,,Democratic,Straight Party,19
+Mercer,69,,,Democratic,Straight Party,78
+Mercer,71,,,Democratic,Straight Party,94
+Mercer,72,,,Democratic,Straight Party,53
+Mercer,73,,,Democratic,Straight Party,85
+Mercer,74,,,Democratic,Straight Party,88
+Mercer,75,,,Democratic,Straight Party,140
+Mercer,77,,,Democratic,Straight Party,49
+Mercer,78,,,Democratic,Straight Party,34
+Mercer,79,,,Democratic,Straight Party,84
+Mercer,80,,,Democratic,Straight Party,104
+Mercer,81,,,Democratic,Straight Party,80
+Mercer,82,,,Democratic,Straight Party,72
+Mercer,83,,,Democratic,Straight Party,21
+Mercer,84,,,Democratic,Straight Party,16
+Mercer,85,,,Democratic,Straight Party,32
+Mercer,86,,,Democratic,Straight Party,67
+Mercer,87,,,Democratic,Straight Party,46
+Mercer,88,,,Democratic,Straight Party,101
+Mercer,89,,,Democratic,Straight Party,27
+Mercer,95,,,Democratic,Straight Party,28
+Mercer,96,,,Democratic,Straight Party,20
+Mercer,98,,,Democratic,Straight Party,53
+Mercer,Total,,,Democratic,Straight Party,3428
+Mercer,1,,,Mountain,Straight Party,3
+Mercer,2,,,Mountain,Straight Party,2
+Mercer,3,,,Mountain,Straight Party,1
+Mercer,4,,,Mountain,Straight Party,3
+Mercer,5,,,Mountain,Straight Party,4
+Mercer,14,,,Mountain,Straight Party,0
+Mercer,15,,,Mountain,Straight Party,0
+Mercer,20,,,Mountain,Straight Party,0
+Mercer,27,,,Mountain,Straight Party,0
+Mercer,28,,,Mountain,Straight Party,1
+Mercer,29,,,Mountain,Straight Party,0
+Mercer,31,,,Mountain,Straight Party,2
+Mercer,32,,,Mountain,Straight Party,1
+Mercer,34,,,Mountain,Straight Party,0
+Mercer,36,,,Mountain,Straight Party,0
+Mercer,38,,,Mountain,Straight Party,0
+Mercer,39,,,Mountain,Straight Party,0
+Mercer,42,,,Mountain,Straight Party,0
+Mercer,44,,,Mountain,Straight Party,4
+Mercer,46,,,Mountain,Straight Party,0
+Mercer,47,,,Mountain,Straight Party,3
+Mercer,48,,,Mountain,Straight Party,0
+Mercer,49,,,Mountain,Straight Party,3
+Mercer,52,,,Mountain,Straight Party,1
+Mercer,53,,,Mountain,Straight Party,2
+Mercer,54,,,Mountain,Straight Party,1
+Mercer,55,,,Mountain,Straight Party,0
+Mercer,56,,,Mountain,Straight Party,2
+Mercer,57,,,Mountain,Straight Party,1
+Mercer,58,,,Mountain,Straight Party,3
+Mercer,59,,,Mountain,Straight Party,1
+Mercer,60,,,Mountain,Straight Party,1
+Mercer,62,,,Mountain,Straight Party,1
+Mercer,64,,,Mountain,Straight Party,2
+Mercer,65,,,Mountain,Straight Party,4
+Mercer,66,,,Mountain,Straight Party,1
+Mercer,67,,,Mountain,Straight Party,3
+Mercer,68,,,Mountain,Straight Party,0
+Mercer,69,,,Mountain,Straight Party,1
+Mercer,71,,,Mountain,Straight Party,1
+Mercer,72,,,Mountain,Straight Party,1
+Mercer,73,,,Mountain,Straight Party,2
+Mercer,74,,,Mountain,Straight Party,2
+Mercer,75,,,Mountain,Straight Party,4
+Mercer,77,,,Mountain,Straight Party,0
+Mercer,78,,,Mountain,Straight Party,0
+Mercer,79,,,Mountain,Straight Party,4
+Mercer,80,,,Mountain,Straight Party,1
+Mercer,81,,,Mountain,Straight Party,1
+Mercer,82,,,Mountain,Straight Party,3
+Mercer,83,,,Mountain,Straight Party,1
+Mercer,84,,,Mountain,Straight Party,0
+Mercer,85,,,Mountain,Straight Party,0
+Mercer,86,,,Mountain,Straight Party,3
+Mercer,87,,,Mountain,Straight Party,0
+Mercer,88,,,Mountain,Straight Party,2
+Mercer,89,,,Mountain,Straight Party,4
+Mercer,95,,,Mountain,Straight Party,1
+Mercer,96,,,Mountain,Straight Party,1
+Mercer,98,,,Mountain,Straight Party,3
+Mercer,Total,,,Mountain,Straight Party,84
+Mercer,1,President,,Republican,John McCain,116
+Mercer,2,President,,Republican,John McCain,329
+Mercer,3,President,,Republican,John McCain,286
+Mercer,4,President,,Republican,John McCain,255
+Mercer,5,President,,Republican,John McCain,175
+Mercer,14,President,,Republican,John McCain,14
+Mercer,15,President,,Republican,John McCain,102
+Mercer,20,President,,Republican,John McCain,40
+Mercer,27,President,,Republican,John McCain,252
+Mercer,28,President,,Republican,John McCain,159
+Mercer,29,President,,Republican,John McCain,98
+Mercer,31,President,,Republican,John McCain,297
+Mercer,32,President,,Republican,John McCain,203
+Mercer,34,President,,Republican,John McCain,105
+Mercer,36,President,,Republican,John McCain,252
+Mercer,38,President,,Republican,John McCain,322
+Mercer,39,President,,Republican,John McCain,165
+Mercer,42,President,,Republican,John McCain,67
+Mercer,44,President,,Republican,John McCain,282
+Mercer,46,President,,Republican,John McCain,59
+Mercer,47,President,,Republican,John McCain,238
+Mercer,48,President,,Republican,John McCain,75
+Mercer,49,President,,Republican,John McCain,171
+Mercer,52,President,,Republican,John McCain,157
+Mercer,53,President,,Republican,John McCain,222
+Mercer,54,President,,Republican,John McCain,258
+Mercer,55,President,,Republican,John McCain,215
+Mercer,56,President,,Republican,John McCain,164
+Mercer,57,President,,Republican,John McCain,276
+Mercer,58,President,,Republican,John McCain,201
+Mercer,59,President,,Republican,John McCain,164
+Mercer,60,President,,Republican,John McCain,46
+Mercer,62,President,,Republican,John McCain,443
+Mercer,64,President,,Republican,John McCain,215
+Mercer,65,President,,Republican,John McCain,666
+Mercer,66,President,,Republican,John McCain,82
+Mercer,67,President,,Republican,John McCain,142
+Mercer,68,President,,Republican,John McCain,65
+Mercer,69,President,,Republican,John McCain,227
+Mercer,71,President,,Republican,John McCain,537
+Mercer,72,President,,Republican,John McCain,304
+Mercer,73,President,,Republican,John McCain,358
+Mercer,74,President,,Republican,John McCain,471
+Mercer,75,President,,Republican,John McCain,568
+Mercer,77,President,,Republican,John McCain,115
+Mercer,78,President,,Republican,John McCain,107
+Mercer,79,President,,Republican,John McCain,338
+Mercer,80,President,,Republican,John McCain,249
+Mercer,81,President,,Republican,John McCain,280
+Mercer,82,President,,Republican,John McCain,266
+Mercer,83,President,,Republican,John McCain,94
+Mercer,84,President,,Republican,John McCain,82
+Mercer,85,President,,Republican,John McCain,80
+Mercer,86,President,,Republican,John McCain,188
+Mercer,87,President,,Republican,John McCain,153
+Mercer,88,President,,Republican,John McCain,624
+Mercer,89,President,,Republican,John McCain,145
+Mercer,95,President,,Republican,John McCain,215
+Mercer,96,President,,Republican,John McCain,125
+Mercer,98,President,,Republican,John McCain,342
+Mercer,Total,President,,Republican,John McCain,13246
+Mercer,1,President,,Democratic,Barack Obama,48
+Mercer,2,President,,Democratic,Barack Obama,155
+Mercer,3,President,,Democratic,Barack Obama,108
+Mercer,4,President,,Democratic,Barack Obama,107
+Mercer,5,President,,Democratic,Barack Obama,99
+Mercer,14,President,,Democratic,Barack Obama,352
+Mercer,15,President,,Democratic,Barack Obama,125
+Mercer,20,President,,Democratic,Barack Obama,142
+Mercer,27,President,,Democratic,Barack Obama,101
+Mercer,28,President,,Democratic,Barack Obama,91
+Mercer,29,President,,Democratic,Barack Obama,59
+Mercer,31,President,,Democratic,Barack Obama,207
+Mercer,32,President,,Democratic,Barack Obama,163
+Mercer,34,President,,Democratic,Barack Obama,197
+Mercer,36,President,,Democratic,Barack Obama,122
+Mercer,38,President,,Democratic,Barack Obama,146
+Mercer,39,President,,Democratic,Barack Obama,69
+Mercer,42,President,,Democratic,Barack Obama,29
+Mercer,44,President,,Democratic,Barack Obama,120
+Mercer,46,President,,Democratic,Barack Obama,53
+Mercer,47,President,,Democratic,Barack Obama,95
+Mercer,48,President,,Democratic,Barack Obama,50
+Mercer,49,President,,Democratic,Barack Obama,78
+Mercer,52,President,,Democratic,Barack Obama,71
+Mercer,53,President,,Democratic,Barack Obama,92
+Mercer,54,President,,Democratic,Barack Obama,79
+Mercer,55,President,,Democratic,Barack Obama,54
+Mercer,56,President,,Democratic,Barack Obama,123
+Mercer,57,President,,Democratic,Barack Obama,235
+Mercer,58,President,,Democratic,Barack Obama,80
+Mercer,59,President,,Democratic,Barack Obama,77
+Mercer,60,President,,Democratic,Barack Obama,21
+Mercer,62,President,,Democratic,Barack Obama,171
+Mercer,64,President,,Democratic,Barack Obama,91
+Mercer,65,President,,Democratic,Barack Obama,261
+Mercer,66,President,,Democratic,Barack Obama,69
+Mercer,67,President,,Democratic,Barack Obama,120
+Mercer,68,President,,Democratic,Barack Obama,41
+Mercer,69,President,,Democratic,Barack Obama,133
+Mercer,71,President,,Democratic,Barack Obama,243
+Mercer,72,President,,Democratic,Barack Obama,151
+Mercer,73,President,,Democratic,Barack Obama,179
+Mercer,74,President,,Democratic,Barack Obama,206
+Mercer,75,President,,Democratic,Barack Obama,323
+Mercer,77,President,,Democratic,Barack Obama,106
+Mercer,78,President,,Democratic,Barack Obama,96
+Mercer,79,President,,Democratic,Barack Obama,155
+Mercer,80,President,,Democratic,Barack Obama,207
+Mercer,81,President,,Democratic,Barack Obama,175
+Mercer,82,President,,Democratic,Barack Obama,178
+Mercer,83,President,,Democratic,Barack Obama,50
+Mercer,84,President,,Democratic,Barack Obama,64
+Mercer,85,President,,Democratic,Barack Obama,69
+Mercer,86,President,,Democratic,Barack Obama,128
+Mercer,87,President,,Democratic,Barack Obama,85
+Mercer,88,President,,Democratic,Barack Obama,242
+Mercer,89,President,,Democratic,Barack Obama,67
+Mercer,95,President,,Democratic,Barack Obama,90
+Mercer,96,President,,Democratic,Barack Obama,50
+Mercer,98,President,,Democratic,Barack Obama,152
+Mercer,Total,President,,Democratic,Barack Obama,7450
+Mercer,1,President,,Mountain,Cynthia McKinney,0
+Mercer,2,President,,Mountain,Cynthia McKinney,2
+Mercer,3,President,,Mountain,Cynthia McKinney,1
+Mercer,4,President,,Mountain,Cynthia McKinney,4
+Mercer,5,President,,Mountain,Cynthia McKinney,2
+Mercer,14,President,,Mountain,Cynthia McKinney,0
+Mercer,15,President,,Mountain,Cynthia McKinney,1
+Mercer,20,President,,Mountain,Cynthia McKinney,0
+Mercer,27,President,,Mountain,Cynthia McKinney,1
+Mercer,28,President,,Mountain,Cynthia McKinney,0
+Mercer,29,President,,Mountain,Cynthia McKinney,0
+Mercer,31,President,,Mountain,Cynthia McKinney,2
+Mercer,32,President,,Mountain,Cynthia McKinney,0
+Mercer,34,President,,Mountain,Cynthia McKinney,0
+Mercer,36,President,,Mountain,Cynthia McKinney,3
+Mercer,38,President,,Mountain,Cynthia McKinney,0
+Mercer,39,President,,Mountain,Cynthia McKinney,0
+Mercer,42,President,,Mountain,Cynthia McKinney,1
+Mercer,44,President,,Mountain,Cynthia McKinney,3
+Mercer,46,President,,Mountain,Cynthia McKinney,0
+Mercer,47,President,,Mountain,Cynthia McKinney,0
+Mercer,48,President,,Mountain,Cynthia McKinney,0
+Mercer,49,President,,Mountain,Cynthia McKinney,0
+Mercer,52,President,,Mountain,Cynthia McKinney,0
+Mercer,53,President,,Mountain,Cynthia McKinney,4
+Mercer,54,President,,Mountain,Cynthia McKinney,2
+Mercer,55,President,,Mountain,Cynthia McKinney,0
+Mercer,56,President,,Mountain,Cynthia McKinney,2
+Mercer,57,President,,Mountain,Cynthia McKinney,1
+Mercer,58,President,,Mountain,Cynthia McKinney,0
+Mercer,59,President,,Mountain,Cynthia McKinney,1
+Mercer,60,President,,Mountain,Cynthia McKinney,0
+Mercer,62,President,,Mountain,Cynthia McKinney,1
+Mercer,64,President,,Mountain,Cynthia McKinney,1
+Mercer,65,President,,Mountain,Cynthia McKinney,3
+Mercer,66,President,,Mountain,Cynthia McKinney,1
+Mercer,67,President,,Mountain,Cynthia McKinney,5
+Mercer,68,President,,Mountain,Cynthia McKinney,0
+Mercer,69,President,,Mountain,Cynthia McKinney,4
+Mercer,71,President,,Mountain,Cynthia McKinney,2
+Mercer,72,President,,Mountain,Cynthia McKinney,1
+Mercer,73,President,,Mountain,Cynthia McKinney,3
+Mercer,74,President,,Mountain,Cynthia McKinney,4
+Mercer,75,President,,Mountain,Cynthia McKinney,3
+Mercer,77,President,,Mountain,Cynthia McKinney,0
+Mercer,78,President,,Mountain,Cynthia McKinney,1
+Mercer,79,President,,Mountain,Cynthia McKinney,3
+Mercer,80,President,,Mountain,Cynthia McKinney,3
+Mercer,81,President,,Mountain,Cynthia McKinney,3
+Mercer,82,President,,Mountain,Cynthia McKinney,1
+Mercer,83,President,,Mountain,Cynthia McKinney,2
+Mercer,84,President,,Mountain,Cynthia McKinney,0
+Mercer,85,President,,Mountain,Cynthia McKinney,1
+Mercer,86,President,,Mountain,Cynthia McKinney,1
+Mercer,87,President,,Mountain,Cynthia McKinney,1
+Mercer,88,President,,Mountain,Cynthia McKinney,3
+Mercer,89,President,,Mountain,Cynthia McKinney,1
+Mercer,95,President,,Mountain,Cynthia McKinney,0
+Mercer,96,President,,Mountain,Cynthia McKinney,0
+Mercer,98,President,,Mountain,Cynthia McKinney,3
+Mercer,Total,President,,Mountain,Cynthia McKinney,80
+Mercer,1,President,,,Ralph Nader,1
+Mercer,2,President,,,Ralph Nader,4
+Mercer,3,President,,,Ralph Nader,6
+Mercer,4,President,,,Ralph Nader,5
+Mercer,5,President,,,Ralph Nader,1
+Mercer,14,President,,,Ralph Nader,1
+Mercer,15,President,,,Ralph Nader,2
+Mercer,20,President,,,Ralph Nader,1
+Mercer,27,President,,,Ralph Nader,6
+Mercer,28,President,,,Ralph Nader,2
+Mercer,29,President,,,Ralph Nader,0
+Mercer,31,President,,,Ralph Nader,6
+Mercer,32,President,,,Ralph Nader,8
+Mercer,34,President,,,Ralph Nader,2
+Mercer,36,President,,,Ralph Nader,1
+Mercer,38,President,,,Ralph Nader,3
+Mercer,39,President,,,Ralph Nader,2
+Mercer,42,President,,,Ralph Nader,1
+Mercer,44,President,,,Ralph Nader,7
+Mercer,46,President,,,Ralph Nader,0
+Mercer,47,President,,,Ralph Nader,0
+Mercer,48,President,,,Ralph Nader,1
+Mercer,49,President,,,Ralph Nader,1
+Mercer,52,President,,,Ralph Nader,1
+Mercer,53,President,,,Ralph Nader,6
+Mercer,54,President,,,Ralph Nader,5
+Mercer,55,President,,,Ralph Nader,2
+Mercer,56,President,,,Ralph Nader,5
+Mercer,57,President,,,Ralph Nader,5
+Mercer,58,President,,,Ralph Nader,4
+Mercer,59,President,,,Ralph Nader,4
+Mercer,60,President,,,Ralph Nader,1
+Mercer,62,President,,,Ralph Nader,8
+Mercer,64,President,,,Ralph Nader,1
+Mercer,65,President,,,Ralph Nader,7
+Mercer,66,President,,,Ralph Nader,3
+Mercer,67,President,,,Ralph Nader,2
+Mercer,68,President,,,Ralph Nader,1
+Mercer,69,President,,,Ralph Nader,8
+Mercer,71,President,,,Ralph Nader,6
+Mercer,72,President,,,Ralph Nader,5
+Mercer,73,President,,,Ralph Nader,11
+Mercer,74,President,,,Ralph Nader,8
+Mercer,75,President,,,Ralph Nader,5
+Mercer,77,President,,,Ralph Nader,1
+Mercer,78,President,,,Ralph Nader,3
+Mercer,79,President,,,Ralph Nader,2
+Mercer,80,President,,,Ralph Nader,4
+Mercer,81,President,,,Ralph Nader,3
+Mercer,82,President,,,Ralph Nader,5
+Mercer,83,President,,,Ralph Nader,3
+Mercer,84,President,,,Ralph Nader,0
+Mercer,85,President,,,Ralph Nader,0
+Mercer,86,President,,,Ralph Nader,5
+Mercer,87,President,,,Ralph Nader,1
+Mercer,88,President,,,Ralph Nader,6
+Mercer,89,President,,,Ralph Nader,1
+Mercer,95,President,,,Ralph Nader,2
+Mercer,96,President,,,Ralph Nader,2
+Mercer,98,President,,,Ralph Nader,2
+Mercer,Total,President,,,Ralph Nader,199
+Mercer,1,President,,Constitution,Chuck Baldwin,1
+Mercer,2,President,,Constitution,Chuck Baldwin,4
+Mercer,3,President,,Constitution,Chuck Baldwin,0
+Mercer,4,President,,Constitution,Chuck Baldwin,1
+Mercer,5,President,,Constitution,Chuck Baldwin,0
+Mercer,14,President,,Constitution,Chuck Baldwin,0
+Mercer,15,President,,Constitution,Chuck Baldwin,0
+Mercer,20,President,,Constitution,Chuck Baldwin,1
+Mercer,27,President,,Constitution,Chuck Baldwin,1
+Mercer,28,President,,Constitution,Chuck Baldwin,2
+Mercer,29,President,,Constitution,Chuck Baldwin,0
+Mercer,31,President,,Constitution,Chuck Baldwin,1
+Mercer,32,President,,Constitution,Chuck Baldwin,1
+Mercer,34,President,,Constitution,Chuck Baldwin,0
+Mercer,36,President,,Constitution,Chuck Baldwin,0
+Mercer,38,President,,Constitution,Chuck Baldwin,0
+Mercer,39,President,,Constitution,Chuck Baldwin,0
+Mercer,42,President,,Constitution,Chuck Baldwin,0
+Mercer,44,President,,Constitution,Chuck Baldwin,0
+Mercer,46,President,,Constitution,Chuck Baldwin,0
+Mercer,47,President,,Constitution,Chuck Baldwin,0
+Mercer,48,President,,Constitution,Chuck Baldwin,0
+Mercer,49,President,,Constitution,Chuck Baldwin,1
+Mercer,52,President,,Constitution,Chuck Baldwin,3
+Mercer,53,President,,Constitution,Chuck Baldwin,1
+Mercer,54,President,,Constitution,Chuck Baldwin,0
+Mercer,55,President,,Constitution,Chuck Baldwin,2
+Mercer,56,President,,Constitution,Chuck Baldwin,1
+Mercer,57,President,,Constitution,Chuck Baldwin,1
+Mercer,58,President,,Constitution,Chuck Baldwin,2
+Mercer,59,President,,Constitution,Chuck Baldwin,0
+Mercer,60,President,,Constitution,Chuck Baldwin,0
+Mercer,62,President,,Constitution,Chuck Baldwin,0
+Mercer,64,President,,Constitution,Chuck Baldwin,1
+Mercer,65,President,,Constitution,Chuck Baldwin,2
+Mercer,66,President,,Constitution,Chuck Baldwin,2
+Mercer,67,President,,Constitution,Chuck Baldwin,1
+Mercer,68,President,,Constitution,Chuck Baldwin,1
+Mercer,69,President,,Constitution,Chuck Baldwin,1
+Mercer,71,President,,Constitution,Chuck Baldwin,4
+Mercer,72,President,,Constitution,Chuck Baldwin,0
+Mercer,73,President,,Constitution,Chuck Baldwin,0
+Mercer,74,President,,Constitution,Chuck Baldwin,0
+Mercer,75,President,,Constitution,Chuck Baldwin,0
+Mercer,77,President,,Constitution,Chuck Baldwin,2
+Mercer,78,President,,Constitution,Chuck Baldwin,2
+Mercer,79,President,,Constitution,Chuck Baldwin,0
+Mercer,80,President,,Constitution,Chuck Baldwin,0
+Mercer,81,President,,Constitution,Chuck Baldwin,0
+Mercer,82,President,,Constitution,Chuck Baldwin,1
+Mercer,83,President,,Constitution,Chuck Baldwin,0
+Mercer,84,President,,Constitution,Chuck Baldwin,0
+Mercer,85,President,,Constitution,Chuck Baldwin,0
+Mercer,86,President,,Constitution,Chuck Baldwin,0
+Mercer,87,President,,Constitution,Chuck Baldwin,0
+Mercer,88,President,,Constitution,Chuck Baldwin,4
+Mercer,89,President,,Constitution,Chuck Baldwin,2
+Mercer,95,President,,Constitution,Chuck Baldwin,0
+Mercer,96,President,,Constitution,Chuck Baldwin,0
+Mercer,98,President,,Constitution,Chuck Baldwin,1
+Mercer,Total,President,,Constitution,Chuck Baldwin,47
+Mercer,1,U.S. Senate,,Republican,Jay Wolfe,76
+Mercer,2,U.S. Senate,,Republican,Jay Wolfe,204
+Mercer,3,U.S. Senate,,Republican,Jay Wolfe,157
+Mercer,4,U.S. Senate,,Republican,Jay Wolfe,145
+Mercer,5,U.S. Senate,,Republican,Jay Wolfe,112
+Mercer,14,U.S. Senate,,Republican,Jay Wolfe,8
+Mercer,15,U.S. Senate,,Republican,Jay Wolfe,73
+Mercer,20,U.S. Senate,,Republican,Jay Wolfe,29
+Mercer,27,U.S. Senate,,Republican,Jay Wolfe,170
+Mercer,28,U.S. Senate,,Republican,Jay Wolfe,101
+Mercer,29,U.S. Senate,,Republican,Jay Wolfe,61
+Mercer,31,U.S. Senate,,Republican,Jay Wolfe,192
+Mercer,32,U.S. Senate,,Republican,Jay Wolfe,139
+Mercer,34,U.S. Senate,,Republican,Jay Wolfe,72
+Mercer,36,U.S. Senate,,Republican,Jay Wolfe,166
+Mercer,38,U.S. Senate,,Republican,Jay Wolfe,195
+Mercer,39,U.S. Senate,,Republican,Jay Wolfe,110
+Mercer,42,U.S. Senate,,Republican,Jay Wolfe,35
+Mercer,44,U.S. Senate,,Republican,Jay Wolfe,173
+Mercer,46,U.S. Senate,,Republican,Jay Wolfe,25
+Mercer,47,U.S. Senate,,Republican,Jay Wolfe,149
+Mercer,48,U.S. Senate,,Republican,Jay Wolfe,53
+Mercer,49,U.S. Senate,,Republican,Jay Wolfe,98
+Mercer,52,U.S. Senate,,Republican,Jay Wolfe,91
+Mercer,53,U.S. Senate,,Republican,Jay Wolfe,142
+Mercer,54,U.S. Senate,,Republican,Jay Wolfe,176
+Mercer,55,U.S. Senate,,Republican,Jay Wolfe,125
+Mercer,56,U.S. Senate,,Republican,Jay Wolfe,105
+Mercer,57,U.S. Senate,,Republican,Jay Wolfe,183
+Mercer,58,U.S. Senate,,Republican,Jay Wolfe,99
+Mercer,59,U.S. Senate,,Republican,Jay Wolfe,118
+Mercer,60,U.S. Senate,,Republican,Jay Wolfe,25
+Mercer,62,U.S. Senate,,Republican,Jay Wolfe,295
+Mercer,64,U.S. Senate,,Republican,Jay Wolfe,151
+Mercer,65,U.S. Senate,,Republican,Jay Wolfe,392
+Mercer,66,U.S. Senate,,Republican,Jay Wolfe,56
+Mercer,67,U.S. Senate,,Republican,Jay Wolfe,86
+Mercer,68,U.S. Senate,,Republican,Jay Wolfe,27
+Mercer,69,U.S. Senate,,Republican,Jay Wolfe,131
+Mercer,71,U.S. Senate,,Republican,Jay Wolfe,298
+Mercer,72,U.S. Senate,,Republican,Jay Wolfe,160
+Mercer,73,U.S. Senate,,Republican,Jay Wolfe,232
+Mercer,74,U.S. Senate,,Republican,Jay Wolfe,289
+Mercer,75,U.S. Senate,,Republican,Jay Wolfe,352
+Mercer,77,U.S. Senate,,Republican,Jay Wolfe,67
+Mercer,78,U.S. Senate,,Republican,Jay Wolfe,73
+Mercer,79,U.S. Senate,,Republican,Jay Wolfe,216
+Mercer,80,U.S. Senate,,Republican,Jay Wolfe,156
+Mercer,81,U.S. Senate,,Republican,Jay Wolfe,180
+Mercer,82,U.S. Senate,,Republican,Jay Wolfe,164
+Mercer,83,U.S. Senate,,Republican,Jay Wolfe,61
+Mercer,84,U.S. Senate,,Republican,Jay Wolfe,38
+Mercer,85,U.S. Senate,,Republican,Jay Wolfe,58
+Mercer,86,U.S. Senate,,Republican,Jay Wolfe,107
+Mercer,87,U.S. Senate,,Republican,Jay Wolfe,91
+Mercer,88,U.S. Senate,,Republican,Jay Wolfe,383
+Mercer,89,U.S. Senate,,Republican,Jay Wolfe,89
+Mercer,95,U.S. Senate,,Republican,Jay Wolfe,116
+Mercer,96,U.S. Senate,,Republican,Jay Wolfe,82
+Mercer,98,U.S. Senate,,Republican,Jay Wolfe,204
+Mercer,Total,U.S. Senate,,Republican,Jay Wolfe,8161
+Mercer,1,U.S. Senate,,Democratic,Jay Rockefeller,91
+Mercer,2,U.S. Senate,,Democratic,Jay Rockefeller,272
+Mercer,3,U.S. Senate,,Democratic,Jay Rockefeller,243
+Mercer,4,U.S. Senate,,Democratic,Jay Rockefeller,218
+Mercer,5,U.S. Senate,,Democratic,Jay Rockefeller,162
+Mercer,14,U.S. Senate,,Democratic,Jay Rockefeller,349
+Mercer,15,U.S. Senate,,Democratic,Jay Rockefeller,148
+Mercer,20,U.S. Senate,,Democratic,Jay Rockefeller,148
+Mercer,27,U.S. Senate,,Democratic,Jay Rockefeller,182
+Mercer,28,U.S. Senate,,Democratic,Jay Rockefeller,144
+Mercer,29,U.S. Senate,,Democratic,Jay Rockefeller,94
+Mercer,31,U.S. Senate,,Democratic,Jay Rockefeller,304
+Mercer,32,U.S. Senate,,Democratic,Jay Rockefeller,227
+Mercer,34,U.S. Senate,,Democratic,Jay Rockefeller,230
+Mercer,36,U.S. Senate,,Democratic,Jay Rockefeller,205
+Mercer,38,U.S. Senate,,Democratic,Jay Rockefeller,258
+Mercer,39,U.S. Senate,,Democratic,Jay Rockefeller,124
+Mercer,42,U.S. Senate,,Democratic,Jay Rockefeller,57
+Mercer,44,U.S. Senate,,Democratic,Jay Rockefeller,224
+Mercer,46,U.S. Senate,,Democratic,Jay Rockefeller,85
+Mercer,47,U.S. Senate,,Democratic,Jay Rockefeller,169
+Mercer,48,U.S. Senate,,Democratic,Jay Rockefeller,69
+Mercer,49,U.S. Senate,,Democratic,Jay Rockefeller,148
+Mercer,52,U.S. Senate,,Democratic,Jay Rockefeller,132
+Mercer,53,U.S. Senate,,Democratic,Jay Rockefeller,177
+Mercer,54,U.S. Senate,,Democratic,Jay Rockefeller,158
+Mercer,55,U.S. Senate,,Democratic,Jay Rockefeller,137
+Mercer,56,U.S. Senate,,Democratic,Jay Rockefeller,186
+Mercer,57,U.S. Senate,,Democratic,Jay Rockefeller,322
+Mercer,58,U.S. Senate,,Democratic,Jay Rockefeller,181
+Mercer,59,U.S. Senate,,Democratic,Jay Rockefeller,115
+Mercer,60,U.S. Senate,,Democratic,Jay Rockefeller,44
+Mercer,62,U.S. Senate,,Democratic,Jay Rockefeller,307
+Mercer,64,U.S. Senate,,Democratic,Jay Rockefeller,141
+Mercer,65,U.S. Senate,,Democratic,Jay Rockefeller,529
+Mercer,66,U.S. Senate,,Democratic,Jay Rockefeller,97
+Mercer,67,U.S. Senate,,Democratic,Jay Rockefeller,175
+Mercer,68,U.S. Senate,,Democratic,Jay Rockefeller,81
+Mercer,69,U.S. Senate,,Democratic,Jay Rockefeller,240
+Mercer,71,U.S. Senate,,Democratic,Jay Rockefeller,482
+Mercer,72,U.S. Senate,,Democratic,Jay Rockefeller,284
+Mercer,73,U.S. Senate,,Democratic,Jay Rockefeller,300
+Mercer,74,U.S. Senate,,Democratic,Jay Rockefeller,383
+Mercer,75,U.S. Senate,,Democratic,Jay Rockefeller,514
+Mercer,77,U.S. Senate,,Democratic,Jay Rockefeller,152
+Mercer,78,U.S. Senate,,Democratic,Jay Rockefeller,124
+Mercer,79,U.S. Senate,,Democratic,Jay Rockefeller,266
+Mercer,80,U.S. Senate,,Democratic,Jay Rockefeller,301
+Mercer,81,U.S. Senate,,Democratic,Jay Rockefeller,273
+Mercer,82,U.S. Senate,,Democratic,Jay Rockefeller,277
+Mercer,83,U.S. Senate,,Democratic,Jay Rockefeller,90
+Mercer,84,U.S. Senate,,Democratic,Jay Rockefeller,107
+Mercer,85,U.S. Senate,,Democratic,Jay Rockefeller,88
+Mercer,86,U.S. Senate,,Democratic,Jay Rockefeller,215
+Mercer,87,U.S. Senate,,Democratic,Jay Rockefeller,149
+Mercer,88,U.S. Senate,,Democratic,Jay Rockefeller,476
+Mercer,89,U.S. Senate,,Democratic,Jay Rockefeller,126
+Mercer,95,U.S. Senate,,Democratic,Jay Rockefeller,193
+Mercer,96,U.S. Senate,,Democratic,Jay Rockefeller,90
+Mercer,98,U.S. Senate,,Democratic,Jay Rockefeller,278
+Mercer,Total,U.S. Senate,,Democratic,Jay Rockefeller,12341
+Mercer,1,U.S. House,3,Republican,Marty Gearheart,83
+Mercer,2,U.S. House,3,Republican,Marty Gearheart,209
+Mercer,3,U.S. House,3,Republican,Marty Gearheart,148
+Mercer,4,U.S. House,3,Republican,Marty Gearheart,167
+Mercer,5,U.S. House,3,Republican,Marty Gearheart,118
+Mercer,14,U.S. House,3,Republican,Marty Gearheart,34
+Mercer,15,U.S. House,3,Republican,Marty Gearheart,77
+Mercer,20,U.S. House,3,Republican,Marty Gearheart,41
+Mercer,27,U.S. House,3,Republican,Marty Gearheart,221
+Mercer,28,U.S. House,3,Republican,Marty Gearheart,125
+Mercer,29,U.S. House,3,Republican,Marty Gearheart,77
+Mercer,31,U.S. House,3,Republican,Marty Gearheart,231
+Mercer,32,U.S. House,3,Republican,Marty Gearheart,165
+Mercer,34,U.S. House,3,Republican,Marty Gearheart,89
+Mercer,36,U.S. House,3,Republican,Marty Gearheart,190
+Mercer,38,U.S. House,3,Republican,Marty Gearheart,276
+Mercer,39,U.S. House,3,Republican,Marty Gearheart,141
+Mercer,42,U.S. House,3,Republican,Marty Gearheart,33
+Mercer,44,U.S. House,3,Republican,Marty Gearheart,173
+Mercer,46,U.S. House,3,Republican,Marty Gearheart,25
+Mercer,47,U.S. House,3,Republican,Marty Gearheart,142
+Mercer,48,U.S. House,3,Republican,Marty Gearheart,50
+Mercer,49,U.S. House,3,Republican,Marty Gearheart,70
+Mercer,52,U.S. House,3,Republican,Marty Gearheart,107
+Mercer,53,U.S. House,3,Republican,Marty Gearheart,140
+Mercer,54,U.S. House,3,Republican,Marty Gearheart,159
+Mercer,55,U.S. House,3,Republican,Marty Gearheart,97
+Mercer,56,U.S. House,3,Republican,Marty Gearheart,117
+Mercer,57,U.S. House,3,Republican,Marty Gearheart,198
+Mercer,58,U.S. House,3,Republican,Marty Gearheart,109
+Mercer,59,U.S. House,3,Republican,Marty Gearheart,113
+Mercer,60,U.S. House,3,Republican,Marty Gearheart,25
+Mercer,62,U.S. House,3,Republican,Marty Gearheart,288
+Mercer,64,U.S. House,3,Republican,Marty Gearheart,154
+Mercer,65,U.S. House,3,Republican,Marty Gearheart,422
+Mercer,66,U.S. House,3,Republican,Marty Gearheart,62
+Mercer,67,U.S. House,3,Republican,Marty Gearheart,94
+Mercer,68,U.S. House,3,Republican,Marty Gearheart,39
+Mercer,69,U.S. House,3,Republican,Marty Gearheart,134
+Mercer,71,U.S. House,3,Republican,Marty Gearheart,338
+Mercer,72,U.S. House,3,Republican,Marty Gearheart,184
+Mercer,73,U.S. House,3,Republican,Marty Gearheart,242
+Mercer,74,U.S. House,3,Republican,Marty Gearheart,306
+Mercer,75,U.S. House,3,Republican,Marty Gearheart,378
+Mercer,77,U.S. House,3,Republican,Marty Gearheart,73
+Mercer,78,U.S. House,3,Republican,Marty Gearheart,70
+Mercer,79,U.S. House,3,Republican,Marty Gearheart,224
+Mercer,80,U.S. House,3,Republican,Marty Gearheart,150
+Mercer,81,U.S. House,3,Republican,Marty Gearheart,203
+Mercer,82,U.S. House,3,Republican,Marty Gearheart,182
+Mercer,83,U.S. House,3,Republican,Marty Gearheart,59
+Mercer,84,U.S. House,3,Republican,Marty Gearheart,49
+Mercer,85,U.S. House,3,Republican,Marty Gearheart,55
+Mercer,86,U.S. House,3,Republican,Marty Gearheart,118
+Mercer,87,U.S. House,3,Republican,Marty Gearheart,96
+Mercer,88,U.S. House,3,Republican,Marty Gearheart,401
+Mercer,89,U.S. House,3,Republican,Marty Gearheart,100
+Mercer,95,U.S. House,3,Republican,Marty Gearheart,119
+Mercer,96,U.S. House,3,Republican,Marty Gearheart,88
+Mercer,98,U.S. House,3,Republican,Marty Gearheart,213
+Mercer,Total,U.S. House,3,Republican,Marty Gearheart,8791
+Mercer,1,U.S. House,3,Democratic,Nick Joe Rahall II,82
+Mercer,2,U.S. House,3,Democratic,Nick Joe Rahall II,272
+Mercer,3,U.S. House,3,Democratic,Nick Joe Rahall II,252
+Mercer,4,U.S. House,3,Democratic,Nick Joe Rahall II,191
+Mercer,5,U.S. House,3,Democratic,Nick Joe Rahall II,156
+Mercer,14,U.S. House,3,Democratic,Nick Joe Rahall II,321
+Mercer,15,U.S. House,3,Democratic,Nick Joe Rahall II,138
+Mercer,20,U.S. House,3,Democratic,Nick Joe Rahall II,135
+Mercer,27,U.S. House,3,Democratic,Nick Joe Rahall II,133
+Mercer,28,U.S. House,3,Democratic,Nick Joe Rahall II,121
+Mercer,29,U.S. House,3,Democratic,Nick Joe Rahall II,77
+Mercer,31,U.S. House,3,Democratic,Nick Joe Rahall II,263
+Mercer,32,U.S. House,3,Democratic,Nick Joe Rahall II,206
+Mercer,34,U.S. House,3,Democratic,Nick Joe Rahall II,213
+Mercer,36,U.S. House,3,Democratic,Nick Joe Rahall II,181
+Mercer,38,U.S. House,3,Democratic,Nick Joe Rahall II,183
+Mercer,39,U.S. House,3,Democratic,Nick Joe Rahall II,97
+Mercer,42,U.S. House,3,Democratic,Nick Joe Rahall II,57
+Mercer,44,U.S. House,3,Democratic,Nick Joe Rahall II,231
+Mercer,46,U.S. House,3,Democratic,Nick Joe Rahall II,83
+Mercer,47,U.S. House,3,Democratic,Nick Joe Rahall II,180
+Mercer,48,U.S. House,3,Democratic,Nick Joe Rahall II,72
+Mercer,49,U.S. House,3,Democratic,Nick Joe Rahall II,175
+Mercer,52,U.S. House,3,Democratic,Nick Joe Rahall II,114
+Mercer,53,U.S. House,3,Democratic,Nick Joe Rahall II,175
+Mercer,54,U.S. House,3,Democratic,Nick Joe Rahall II,169
+Mercer,55,U.S. House,3,Democratic,Nick Joe Rahall II,164
+Mercer,56,U.S. House,3,Democratic,Nick Joe Rahall II,174
+Mercer,57,U.S. House,3,Democratic,Nick Joe Rahall II,304
+Mercer,58,U.S. House,3,Democratic,Nick Joe Rahall II,168
+Mercer,59,U.S. House,3,Democratic,Nick Joe Rahall II,118
+Mercer,60,U.S. House,3,Democratic,Nick Joe Rahall II,43
+Mercer,62,U.S. House,3,Democratic,Nick Joe Rahall II,311
+Mercer,64,U.S. House,3,Democratic,Nick Joe Rahall II,146
+Mercer,65,U.S. House,3,Democratic,Nick Joe Rahall II,491
+Mercer,66,U.S. House,3,Democratic,Nick Joe Rahall II,91
+Mercer,67,U.S. House,3,Democratic,Nick Joe Rahall II,170
+Mercer,68,U.S. House,3,Democratic,Nick Joe Rahall II,70
+Mercer,69,U.S. House,3,Democratic,Nick Joe Rahall II,239
+Mercer,71,U.S. House,3,Democratic,Nick Joe Rahall II,444
+Mercer,72,U.S. House,3,Democratic,Nick Joe Rahall II,257
+Mercer,73,U.S. House,3,Democratic,Nick Joe Rahall II,288
+Mercer,74,U.S. House,3,Democratic,Nick Joe Rahall II,353
+Mercer,75,U.S. House,3,Democratic,Nick Joe Rahall II,491
+Mercer,77,U.S. House,3,Democratic,Nick Joe Rahall II,146
+Mercer,78,U.S. House,3,Democratic,Nick Joe Rahall II,126
+Mercer,79,U.S. House,3,Democratic,Nick Joe Rahall II,253
+Mercer,80,U.S. House,3,Democratic,Nick Joe Rahall II,305
+Mercer,81,U.S. House,3,Democratic,Nick Joe Rahall II,249
+Mercer,82,U.S. House,3,Democratic,Nick Joe Rahall II,256
+Mercer,83,U.S. House,3,Democratic,Nick Joe Rahall II,89
+Mercer,84,U.S. House,3,Democratic,Nick Joe Rahall II,96
+Mercer,85,U.S. House,3,Democratic,Nick Joe Rahall II,89
+Mercer,86,U.S. House,3,Democratic,Nick Joe Rahall II,207
+Mercer,87,U.S. House,3,Democratic,Nick Joe Rahall II,138
+Mercer,88,U.S. House,3,Democratic,Nick Joe Rahall II,450
+Mercer,89,U.S. House,3,Democratic,Nick Joe Rahall II,118
+Mercer,95,U.S. House,3,Democratic,Nick Joe Rahall II,187
+Mercer,96,U.S. House,3,Democratic,Nick Joe Rahall II,83
+Mercer,98,U.S. House,3,Democratic,Nick Joe Rahall II,271
+Mercer,Total,U.S. House,3,Democratic,Nick Joe Rahall II,11662
+Mercer,1,Governor,,Republican,Russ Weeks,47
+Mercer,2,Governor,,Republican,Russ Weeks,107
+Mercer,3,Governor,,Republican,Russ Weeks,98
+Mercer,4,Governor,,Republican,Russ Weeks,90
+Mercer,5,Governor,,Republican,Russ Weeks,70
+Mercer,14,Governor,,Republican,Russ Weeks,14
+Mercer,15,Governor,,Republican,Russ Weeks,42
+Mercer,20,Governor,,Republican,Russ Weeks,23
+Mercer,27,Governor,,Republican,Russ Weeks,98
+Mercer,28,Governor,,Republican,Russ Weeks,62
+Mercer,29,Governor,,Republican,Russ Weeks,42
+Mercer,31,Governor,,Republican,Russ Weeks,123
+Mercer,32,Governor,,Republican,Russ Weeks,92
+Mercer,34,Governor,,Republican,Russ Weeks,49
+Mercer,36,Governor,,Republican,Russ Weeks,89
+Mercer,38,Governor,,Republican,Russ Weeks,125
+Mercer,39,Governor,,Republican,Russ Weeks,77
+Mercer,42,Governor,,Republican,Russ Weeks,25
+Mercer,44,Governor,,Republican,Russ Weeks,138
+Mercer,46,Governor,,Republican,Russ Weeks,14
+Mercer,47,Governor,,Republican,Russ Weeks,98
+Mercer,48,Governor,,Republican,Russ Weeks,37
+Mercer,49,Governor,,Republican,Russ Weeks,64
+Mercer,52,Governor,,Republican,Russ Weeks,72
+Mercer,53,Governor,,Republican,Russ Weeks,109
+Mercer,54,Governor,,Republican,Russ Weeks,117
+Mercer,55,Governor,,Republican,Russ Weeks,90
+Mercer,56,Governor,,Republican,Russ Weeks,74
+Mercer,57,Governor,,Republican,Russ Weeks,146
+Mercer,58,Governor,,Republican,Russ Weeks,77
+Mercer,59,Governor,,Republican,Russ Weeks,87
+Mercer,60,Governor,,Republican,Russ Weeks,17
+Mercer,62,Governor,,Republican,Russ Weeks,200
+Mercer,64,Governor,,Republican,Russ Weeks,142
+Mercer,65,Governor,,Republican,Russ Weeks,295
+Mercer,66,Governor,,Republican,Russ Weeks,38
+Mercer,67,Governor,,Republican,Russ Weeks,62
+Mercer,68,Governor,,Republican,Russ Weeks,22
+Mercer,69,Governor,,Republican,Russ Weeks,95
+Mercer,71,Governor,,Republican,Russ Weeks,205
+Mercer,72,Governor,,Republican,Russ Weeks,121
+Mercer,73,Governor,,Republican,Russ Weeks,175
+Mercer,74,Governor,,Republican,Russ Weeks,208
+Mercer,75,Governor,,Republican,Russ Weeks,237
+Mercer,77,Governor,,Republican,Russ Weeks,45
+Mercer,78,Governor,,Republican,Russ Weeks,58
+Mercer,79,Governor,,Republican,Russ Weeks,137
+Mercer,80,Governor,,Republican,Russ Weeks,124
+Mercer,81,Governor,,Republican,Russ Weeks,121
+Mercer,82,Governor,,Republican,Russ Weeks,122
+Mercer,83,Governor,,Republican,Russ Weeks,37
+Mercer,84,Governor,,Republican,Russ Weeks,28
+Mercer,85,Governor,,Republican,Russ Weeks,44
+Mercer,86,Governor,,Republican,Russ Weeks,73
+Mercer,87,Governor,,Republican,Russ Weeks,67
+Mercer,88,Governor,,Republican,Russ Weeks,271
+Mercer,89,Governor,,Republican,Russ Weeks,66
+Mercer,95,Governor,,Republican,Russ Weeks,91
+Mercer,96,Governor,,Republican,Russ Weeks,53
+Mercer,98,Governor,,Republican,Russ Weeks,137
+Mercer,Total,Governor,,Republican,Russ Weeks,5687
+Mercer,1,Governor,,Democratic,Joe Manchin III,117
+Mercer,2,Governor,,Democratic,Joe Manchin III,371
+Mercer,3,Governor,,Democratic,Joe Manchin III,306
+Mercer,4,Governor,,Democratic,Joe Manchin III,274
+Mercer,5,Governor,,Democratic,Joe Manchin III,200
+Mercer,14,Governor,,Democratic,Joe Manchin III,338
+Mercer,15,Governor,,Democratic,Joe Manchin III,177
+Mercer,20,Governor,,Democratic,Joe Manchin III,152
+Mercer,27,Governor,,Democratic,Joe Manchin III,251
+Mercer,28,Governor,,Democratic,Joe Manchin III,185
+Mercer,29,Governor,,Democratic,Joe Manchin III,112
+Mercer,31,Governor,,Democratic,Joe Manchin III,376
+Mercer,32,Governor,,Democratic,Joe Manchin III,268
+Mercer,34,Governor,,Democratic,Joe Manchin III,255
+Mercer,36,Governor,,Democratic,Joe Manchin III,279
+Mercer,38,Governor,,Democratic,Joe Manchin III,329
+Mercer,39,Governor,,Democratic,Joe Manchin III,157
+Mercer,42,Governor,,Democratic,Joe Manchin III,67
+Mercer,44,Governor,,Democratic,Joe Manchin III,256
+Mercer,46,Governor,,Democratic,Joe Manchin III,94
+Mercer,47,Governor,,Democratic,Joe Manchin III,218
+Mercer,48,Governor,,Democratic,Joe Manchin III,89
+Mercer,49,Governor,,Democratic,Joe Manchin III,190
+Mercer,52,Governor,,Democratic,Joe Manchin III,151
+Mercer,53,Governor,,Democratic,Joe Manchin III,206
+Mercer,54,Governor,,Democratic,Joe Manchin III,210
+Mercer,55,Governor,,Democratic,Joe Manchin III,177
+Mercer,56,Governor,,Democratic,Joe Manchin III,212
+Mercer,57,Governor,,Democratic,Joe Manchin III,334
+Mercer,58,Governor,,Democratic,Joe Manchin III,198
+Mercer,59,Governor,,Democratic,Joe Manchin III,138
+Mercer,60,Governor,,Democratic,Joe Manchin III,49
+Mercer,62,Governor,,Democratic,Joe Manchin III,399
+Mercer,64,Governor,,Democratic,Joe Manchin III,158
+Mercer,65,Governor,,Democratic,Joe Manchin III,610
+Mercer,66,Governor,,Democratic,Joe Manchin III,119
+Mercer,67,Governor,,Democratic,Joe Manchin III,202
+Mercer,68,Governor,,Democratic,Joe Manchin III,84
+Mercer,69,Governor,,Democratic,Joe Manchin III,268
+Mercer,71,Governor,,Democratic,Joe Manchin III,571
+Mercer,72,Governor,,Democratic,Joe Manchin III,322
+Mercer,73,Governor,,Democratic,Joe Manchin III,356
+Mercer,74,Governor,,Democratic,Joe Manchin III,455
+Mercer,75,Governor,,Democratic,Joe Manchin III,625
+Mercer,77,Governor,,Democratic,Joe Manchin III,174
+Mercer,78,Governor,,Democratic,Joe Manchin III,142
+Mercer,79,Governor,,Democratic,Joe Manchin III,347
+Mercer,80,Governor,,Democratic,Joe Manchin III,328
+Mercer,81,Governor,,Democratic,Joe Manchin III,327
+Mercer,82,Governor,,Democratic,Joe Manchin III,307
+Mercer,83,Governor,,Democratic,Joe Manchin III,106
+Mercer,84,Governor,,Democratic,Joe Manchin III,109
+Mercer,85,Governor,,Democratic,Joe Manchin III,99
+Mercer,86,Governor,,Democratic,Joe Manchin III,243
+Mercer,87,Governor,,Democratic,Joe Manchin III,175
+Mercer,88,Governor,,Democratic,Joe Manchin III,577
+Mercer,89,Governor,,Democratic,Joe Manchin III,146
+Mercer,95,Governor,,Democratic,Joe Manchin III,208
+Mercer,96,Governor,,Democratic,Joe Manchin III,122
+Mercer,98,Governor,,Democratic,Joe Manchin III,339
+Mercer,Total,Governor,,Democratic,Joe Manchin III,14654
+Mercer,1,Governor,,Mountain,Jesse Johnson,2
+Mercer,2,Governor,,Mountain,Jesse Johnson,12
+Mercer,3,Governor,,Mountain,Jesse Johnson,1
+Mercer,4,Governor,,Mountain,Jesse Johnson,6
+Mercer,5,Governor,,Mountain,Jesse Johnson,3
+Mercer,14,Governor,,Mountain,Jesse Johnson,6
+Mercer,15,Governor,,Mountain,Jesse Johnson,4
+Mercer,20,Governor,,Mountain,Jesse Johnson,0
+Mercer,27,Governor,,Mountain,Jesse Johnson,10
+Mercer,28,Governor,,Mountain,Jesse Johnson,4
+Mercer,29,Governor,,Mountain,Jesse Johnson,2
+Mercer,31,Governor,,Mountain,Jesse Johnson,10
+Mercer,32,Governor,,Mountain,Jesse Johnson,10
+Mercer,34,Governor,,Mountain,Jesse Johnson,2
+Mercer,36,Governor,,Mountain,Jesse Johnson,7
+Mercer,38,Governor,,Mountain,Jesse Johnson,10
+Mercer,39,Governor,,Mountain,Jesse Johnson,2
+Mercer,42,Governor,,Mountain,Jesse Johnson,2
+Mercer,44,Governor,,Mountain,Jesse Johnson,17
+Mercer,46,Governor,,Mountain,Jesse Johnson,3
+Mercer,47,Governor,,Mountain,Jesse Johnson,9
+Mercer,48,Governor,,Mountain,Jesse Johnson,1
+Mercer,49,Governor,,Mountain,Jesse Johnson,2
+Mercer,52,Governor,,Mountain,Jesse Johnson,7
+Mercer,53,Governor,,Mountain,Jesse Johnson,12
+Mercer,54,Governor,,Mountain,Jesse Johnson,18
+Mercer,55,Governor,,Mountain,Jesse Johnson,4
+Mercer,56,Governor,,Mountain,Jesse Johnson,14
+Mercer,57,Governor,,Mountain,Jesse Johnson,28
+Mercer,58,Governor,,Mountain,Jesse Johnson,6
+Mercer,59,Governor,,Mountain,Jesse Johnson,13
+Mercer,60,Governor,,Mountain,Jesse Johnson,2
+Mercer,62,Governor,,Mountain,Jesse Johnson,25
+Mercer,64,Governor,,Mountain,Jesse Johnson,4
+Mercer,65,Governor,,Mountain,Jesse Johnson,22
+Mercer,66,Governor,,Mountain,Jesse Johnson,5
+Mercer,67,Governor,,Mountain,Jesse Johnson,8
+Mercer,68,Governor,,Mountain,Jesse Johnson,4
+Mercer,69,Governor,,Mountain,Jesse Johnson,16
+Mercer,71,Governor,,Mountain,Jesse Johnson,15
+Mercer,72,Governor,,Mountain,Jesse Johnson,11
+Mercer,73,Governor,,Mountain,Jesse Johnson,7
+Mercer,74,Governor,,Mountain,Jesse Johnson,21
+Mercer,75,Governor,,Mountain,Jesse Johnson,23
+Mercer,77,Governor,,Mountain,Jesse Johnson,5
+Mercer,78,Governor,,Mountain,Jesse Johnson,8
+Mercer,79,Governor,,Mountain,Jesse Johnson,9
+Mercer,80,Governor,,Mountain,Jesse Johnson,10
+Mercer,81,Governor,,Mountain,Jesse Johnson,12
+Mercer,82,Governor,,Mountain,Jesse Johnson,16
+Mercer,83,Governor,,Mountain,Jesse Johnson,7
+Mercer,84,Governor,,Mountain,Jesse Johnson,5
+Mercer,85,Governor,,Mountain,Jesse Johnson,4
+Mercer,86,Governor,,Mountain,Jesse Johnson,10
+Mercer,87,Governor,,Mountain,Jesse Johnson,3
+Mercer,88,Governor,,Mountain,Jesse Johnson,26
+Mercer,89,Governor,,Mountain,Jesse Johnson,7
+Mercer,95,Governor,,Mountain,Jesse Johnson,6
+Mercer,96,Governor,,Mountain,Jesse Johnson,3
+Mercer,98,Governor,,Mountain,Jesse Johnson,12
+Mercer,Total,Governor,,Mountain,Jesse Johnson,533
+Mercer,1,Secretary of State,,Republican,Charles Minimah,76
+Mercer,2,Secretary of State,,Republican,Charles Minimah,195
+Mercer,3,Secretary of State,,Republican,Charles Minimah,174
+Mercer,4,Secretary of State,,Republican,Charles Minimah,157
+Mercer,5,Secretary of State,,Republican,Charles Minimah,112
+Mercer,14,Secretary of State,,Republican,Charles Minimah,34
+Mercer,15,Secretary of State,,Republican,Charles Minimah,69
+Mercer,20,Secretary of State,,Republican,Charles Minimah,38
+Mercer,27,Secretary of State,,Republican,Charles Minimah,177
+Mercer,28,Secretary of State,,Republican,Charles Minimah,109
+Mercer,29,Secretary of State,,Republican,Charles Minimah,57
+Mercer,31,Secretary of State,,Republican,Charles Minimah,198
+Mercer,32,Secretary of State,,Republican,Charles Minimah,140
+Mercer,34,Secretary of State,,Republican,Charles Minimah,79
+Mercer,36,Secretary of State,,Republican,Charles Minimah,171
+Mercer,38,Secretary of State,,Republican,Charles Minimah,208
+Mercer,39,Secretary of State,,Republican,Charles Minimah,103
+Mercer,42,Secretary of State,,Republican,Charles Minimah,42
+Mercer,44,Secretary of State,,Republican,Charles Minimah,169
+Mercer,46,Secretary of State,,Republican,Charles Minimah,27
+Mercer,47,Secretary of State,,Republican,Charles Minimah,143
+Mercer,48,Secretary of State,,Republican,Charles Minimah,55
+Mercer,49,Secretary of State,,Republican,Charles Minimah,92
+Mercer,52,Secretary of State,,Republican,Charles Minimah,100
+Mercer,53,Secretary of State,,Republican,Charles Minimah,133
+Mercer,54,Secretary of State,,Republican,Charles Minimah,161
+Mercer,55,Secretary of State,,Republican,Charles Minimah,119
+Mercer,56,Secretary of State,,Republican,Charles Minimah,117
+Mercer,57,Secretary of State,,Republican,Charles Minimah,176
+Mercer,58,Secretary of State,,Republican,Charles Minimah,118
+Mercer,59,Secretary of State,,Republican,Charles Minimah,102
+Mercer,60,Secretary of State,,Republican,Charles Minimah,29
+Mercer,62,Secretary of State,,Republican,Charles Minimah,275
+Mercer,64,Secretary of State,,Republican,Charles Minimah,150
+Mercer,65,Secretary of State,,Republican,Charles Minimah,391
+Mercer,66,Secretary of State,,Republican,Charles Minimah,58
+Mercer,67,Secretary of State,,Republican,Charles Minimah,80
+Mercer,68,Secretary of State,,Republican,Charles Minimah,31
+Mercer,69,Secretary of State,,Republican,Charles Minimah,139
+Mercer,71,Secretary of State,,Republican,Charles Minimah,313
+Mercer,72,Secretary of State,,Republican,Charles Minimah,168
+Mercer,73,Secretary of State,,Republican,Charles Minimah,215
+Mercer,74,Secretary of State,,Republican,Charles Minimah,285
+Mercer,75,Secretary of State,,Republican,Charles Minimah,327
+Mercer,77,Secretary of State,,Republican,Charles Minimah,58
+Mercer,78,Secretary of State,,Republican,Charles Minimah,59
+Mercer,79,Secretary of State,,Republican,Charles Minimah,215
+Mercer,80,Secretary of State,,Republican,Charles Minimah,164
+Mercer,81,Secretary of State,,Republican,Charles Minimah,189
+Mercer,82,Secretary of State,,Republican,Charles Minimah,154
+Mercer,83,Secretary of State,,Republican,Charles Minimah,50
+Mercer,84,Secretary of State,,Republican,Charles Minimah,33
+Mercer,85,Secretary of State,,Republican,Charles Minimah,38
+Mercer,86,Secretary of State,,Republican,Charles Minimah,117
+Mercer,87,Secretary of State,,Republican,Charles Minimah,85
+Mercer,88,Secretary of State,,Republican,Charles Minimah,383
+Mercer,89,Secretary of State,,Republican,Charles Minimah,92
+Mercer,95,Secretary of State,,Republican,Charles Minimah,132
+Mercer,96,Secretary of State,,Republican,Charles Minimah,82
+Mercer,98,Secretary of State,,Republican,Charles Minimah,181
+Mercer,Total,Secretary of State,,Republican,Charles Minimah,8144
+Mercer,1,Secretary of State,,Democratic,Natalie Tennant,87
+Mercer,2,Secretary of State,,Democratic,Natalie Tennant,253
+Mercer,3,Secretary of State,,Democratic,Natalie Tennant,199
+Mercer,4,Secretary of State,,Democratic,Natalie Tennant,176
+Mercer,5,Secretary of State,,Democratic,Natalie Tennant,144
+Mercer,14,Secretary of State,,Democratic,Natalie Tennant,311
+Mercer,15,Secretary of State,,Democratic,Natalie Tennant,147
+Mercer,20,Secretary of State,,Democratic,Natalie Tennant,128
+Mercer,27,Secretary of State,,Democratic,Natalie Tennant,144
+Mercer,28,Secretary of State,,Democratic,Natalie Tennant,126
+Mercer,29,Secretary of State,,Democratic,Natalie Tennant,86
+Mercer,31,Secretary of State,,Democratic,Natalie Tennant,272
+Mercer,32,Secretary of State,,Democratic,Natalie Tennant,213
+Mercer,34,Secretary of State,,Democratic,Natalie Tennant,215
+Mercer,36,Secretary of State,,Democratic,Natalie Tennant,177
+Mercer,38,Secretary of State,,Democratic,Natalie Tennant,216
+Mercer,39,Secretary of State,,Democratic,Natalie Tennant,113
+Mercer,42,Secretary of State,,Democratic,Natalie Tennant,42
+Mercer,44,Secretary of State,,Democratic,Natalie Tennant,193
+Mercer,46,Secretary of State,,Democratic,Natalie Tennant,71
+Mercer,47,Secretary of State,,Democratic,Natalie Tennant,158
+Mercer,48,Secretary of State,,Democratic,Natalie Tennant,61
+Mercer,49,Secretary of State,,Democratic,Natalie Tennant,136
+Mercer,52,Secretary of State,,Democratic,Natalie Tennant,115
+Mercer,53,Secretary of State,,Democratic,Natalie Tennant,169
+Mercer,54,Secretary of State,,Democratic,Natalie Tennant,149
+Mercer,55,Secretary of State,,Democratic,Natalie Tennant,123
+Mercer,56,Secretary of State,,Democratic,Natalie Tennant,146
+Mercer,57,Secretary of State,,Democratic,Natalie Tennant,286
+Mercer,58,Secretary of State,,Democratic,Natalie Tennant,150
+Mercer,59,Secretary of State,,Democratic,Natalie Tennant,113
+Mercer,60,Secretary of State,,Democratic,Natalie Tennant,38
+Mercer,62,Secretary of State,,Democratic,Natalie Tennant,279
+Mercer,64,Secretary of State,,Democratic,Natalie Tennant,130
+Mercer,65,Secretary of State,,Democratic,Natalie Tennant,476
+Mercer,66,Secretary of State,,Democratic,Natalie Tennant,91
+Mercer,67,Secretary of State,,Democratic,Natalie Tennant,173
+Mercer,68,Secretary of State,,Democratic,Natalie Tennant,64
+Mercer,69,Secretary of State,,Democratic,Natalie Tennant,218
+Mercer,71,Secretary of State,,Democratic,Natalie Tennant,419
+Mercer,72,Secretary of State,,Democratic,Natalie Tennant,236
+Mercer,73,Secretary of State,,Democratic,Natalie Tennant,273
+Mercer,74,Secretary of State,,Democratic,Natalie Tennant,347
+Mercer,75,Secretary of State,,Democratic,Natalie Tennant,494
+Mercer,77,Secretary of State,,Democratic,Natalie Tennant,150
+Mercer,78,Secretary of State,,Democratic,Natalie Tennant,130
+Mercer,79,Secretary of State,,Democratic,Natalie Tennant,233
+Mercer,80,Secretary of State,,Democratic,Natalie Tennant,269
+Mercer,81,Secretary of State,,Democratic,Natalie Tennant,241
+Mercer,82,Secretary of State,,Democratic,Natalie Tennant,258
+Mercer,83,Secretary of State,,Democratic,Natalie Tennant,94
+Mercer,84,Secretary of State,,Democratic,Natalie Tennant,103
+Mercer,85,Secretary of State,,Democratic,Natalie Tennant,99
+Mercer,86,Secretary of State,,Democratic,Natalie Tennant,193
+Mercer,87,Secretary of State,,Democratic,Natalie Tennant,143
+Mercer,88,Secretary of State,,Democratic,Natalie Tennant,434
+Mercer,89,Secretary of State,,Democratic,Natalie Tennant,114
+Mercer,95,Secretary of State,,Democratic,Natalie Tennant,142
+Mercer,96,Secretary of State,,Democratic,Natalie Tennant,73
+Mercer,98,Secretary of State,,Democratic,Natalie Tennant,261
+Mercer,Total,Secretary of State,,Democratic,Natalie Tennant,11094
+Mercer,1,State Auditor,,Democratic,Glen B. Gainer III,132
+Mercer,2,State Auditor,,Democratic,Glen B. Gainer III,360
+Mercer,3,State Auditor,,Democratic,Glen B. Gainer III,302
+Mercer,4,State Auditor,,Democratic,Glen B. Gainer III,265
+Mercer,5,State Auditor,,Democratic,Glen B. Gainer III,198
+Mercer,14,State Auditor,,Democratic,Glen B. Gainer III,340
+Mercer,15,State Auditor,,Democratic,Glen B. Gainer III,179
+Mercer,20,State Auditor,,Democratic,Glen B. Gainer III,150
+Mercer,27,State Auditor,,Democratic,Glen B. Gainer III,244
+Mercer,28,State Auditor,,Democratic,Glen B. Gainer III,185
+Mercer,29,State Auditor,,Democratic,Glen B. Gainer III,117
+Mercer,31,State Auditor,,Democratic,Glen B. Gainer III,361
+Mercer,32,State Auditor,,Democratic,Glen B. Gainer III,274
+Mercer,34,State Auditor,,Democratic,Glen B. Gainer III,256
+Mercer,36,State Auditor,,Democratic,Glen B. Gainer III,271
+Mercer,38,State Auditor,,Democratic,Glen B. Gainer III,306
+Mercer,39,State Auditor,,Democratic,Glen B. Gainer III,155
+Mercer,42,State Auditor,,Democratic,Glen B. Gainer III,69
+Mercer,44,State Auditor,,Democratic,Glen B. Gainer III,255
+Mercer,46,State Auditor,,Democratic,Glen B. Gainer III,88
+Mercer,47,State Auditor,,Democratic,Glen B. Gainer III,222
+Mercer,48,State Auditor,,Democratic,Glen B. Gainer III,74
+Mercer,49,State Auditor,,Democratic,Glen B. Gainer III,186
+Mercer,52,State Auditor,,Democratic,Glen B. Gainer III,169
+Mercer,53,State Auditor,,Democratic,Glen B. Gainer III,212
+Mercer,54,State Auditor,,Democratic,Glen B. Gainer III,240
+Mercer,55,State Auditor,,Democratic,Glen B. Gainer III,197
+Mercer,56,State Auditor,,Democratic,Glen B. Gainer III,220
+Mercer,57,State Auditor,,Democratic,Glen B. Gainer III,353
+Mercer,58,State Auditor,,Democratic,Glen B. Gainer III,225
+Mercer,59,State Auditor,,Democratic,Glen B. Gainer III,147
+Mercer,60,State Auditor,,Democratic,Glen B. Gainer III,57
+Mercer,62,State Auditor,,Democratic,Glen B. Gainer III,417
+Mercer,64,State Auditor,,Democratic,Glen B. Gainer III,190
+Mercer,65,State Auditor,,Democratic,Glen B. Gainer III,701
+Mercer,66,State Auditor,,Democratic,Glen B. Gainer III,118
+Mercer,67,State Auditor,,Democratic,Glen B. Gainer III,200
+Mercer,68,State Auditor,,Democratic,Glen B. Gainer III,80
+Mercer,69,State Auditor,,Democratic,Glen B. Gainer III,287
+Mercer,71,State Auditor,,Democratic,Glen B. Gainer III,582
+Mercer,72,State Auditor,,Democratic,Glen B. Gainer III,329
+Mercer,73,State Auditor,,Democratic,Glen B. Gainer III,372
+Mercer,74,State Auditor,,Democratic,Glen B. Gainer III,476
+Mercer,75,State Auditor,,Democratic,Glen B. Gainer III,643
+Mercer,77,State Auditor,,Democratic,Glen B. Gainer III,188
+Mercer,78,State Auditor,,Democratic,Glen B. Gainer III,146
+Mercer,79,State Auditor,,Democratic,Glen B. Gainer III,328
+Mercer,80,State Auditor,,Democratic,Glen B. Gainer III,354
+Mercer,81,State Auditor,,Democratic,Glen B. Gainer III,327
+Mercer,82,State Auditor,,Democratic,Glen B. Gainer III,331
+Mercer,83,State Auditor,,Democratic,Glen B. Gainer III,112
+Mercer,84,State Auditor,,Democratic,Glen B. Gainer III,122
+Mercer,85,State Auditor,,Democratic,Glen B. Gainer III,117
+Mercer,86,State Auditor,,Democratic,Glen B. Gainer III,259
+Mercer,87,State Auditor,,Democratic,Glen B. Gainer III,175
+Mercer,88,State Auditor,,Democratic,Glen B. Gainer III,629
+Mercer,89,State Auditor,,Democratic,Glen B. Gainer III,158
+Mercer,95,State Auditor,,Democratic,Glen B. Gainer III,207
+Mercer,96,State Auditor,,Democratic,Glen B. Gainer III,115
+Mercer,98,State Auditor,,Democratic,Glen B. Gainer III,336
+Mercer,Total,State Auditor,,Democratic,Glen B. Gainer III,15108
+Mercer,1,State Treasurer,,Democratic,John D. Perdue,129
+Mercer,2,State Treasurer,,Democratic,John D. Perdue,352
+Mercer,3,State Treasurer,,Democratic,John D. Perdue,292
+Mercer,4,State Treasurer,,Democratic,John D. Perdue,260
+Mercer,5,State Treasurer,,Democratic,John D. Perdue,199
+Mercer,14,State Treasurer,,Democratic,John D. Perdue,337
+Mercer,15,State Treasurer,,Democratic,John D. Perdue,175
+Mercer,20,State Treasurer,,Democratic,John D. Perdue,150
+Mercer,27,State Treasurer,,Democratic,John D. Perdue,236
+Mercer,28,State Treasurer,,Democratic,John D. Perdue,181
+Mercer,29,State Treasurer,,Democratic,John D. Perdue,114
+Mercer,31,State Treasurer,,Democratic,John D. Perdue,357
+Mercer,32,State Treasurer,,Democratic,John D. Perdue,267
+Mercer,34,State Treasurer,,Democratic,John D. Perdue,254
+Mercer,36,State Treasurer,,Democratic,John D. Perdue,265
+Mercer,38,State Treasurer,,Democratic,John D. Perdue,300
+Mercer,39,State Treasurer,,Democratic,John D. Perdue,155
+Mercer,42,State Treasurer,,Democratic,John D. Perdue,68
+Mercer,44,State Treasurer,,Democratic,John D. Perdue,263
+Mercer,46,State Treasurer,,Democratic,John D. Perdue,87
+Mercer,47,State Treasurer,,Democratic,John D. Perdue,221
+Mercer,48,State Treasurer,,Democratic,John D. Perdue,77
+Mercer,49,State Treasurer,,Democratic,John D. Perdue,187
+Mercer,52,State Treasurer,,Democratic,John D. Perdue,171
+Mercer,53,State Treasurer,,Democratic,John D. Perdue,215
+Mercer,54,State Treasurer,,Democratic,John D. Perdue,242
+Mercer,55,State Treasurer,,Democratic,John D. Perdue,189
+Mercer,56,State Treasurer,,Democratic,John D. Perdue,216
+Mercer,57,State Treasurer,,Democratic,John D. Perdue,354
+Mercer,58,State Treasurer,,Democratic,John D. Perdue,223
+Mercer,59,State Treasurer,,Democratic,John D. Perdue,144
+Mercer,60,State Treasurer,,Democratic,John D. Perdue,55
+Mercer,62,State Treasurer,,Democratic,John D. Perdue,419
+Mercer,64,State Treasurer,,Democratic,John D. Perdue,189
+Mercer,65,State Treasurer,,Democratic,John D. Perdue,696
+Mercer,66,State Treasurer,,Democratic,John D. Perdue,118
+Mercer,67,State Treasurer,,Democratic,John D. Perdue,196
+Mercer,68,State Treasurer,,Democratic,John D. Perdue,79
+Mercer,69,State Treasurer,,Democratic,John D. Perdue,286
+Mercer,71,State Treasurer,,Democratic,John D. Perdue,578
+Mercer,72,State Treasurer,,Democratic,John D. Perdue,324
+Mercer,73,State Treasurer,,Democratic,John D. Perdue,370
+Mercer,74,State Treasurer,,Democratic,John D. Perdue,472
+Mercer,75,State Treasurer,,Democratic,John D. Perdue,630
+Mercer,77,State Treasurer,,Democratic,John D. Perdue,183
+Mercer,78,State Treasurer,,Democratic,John D. Perdue,148
+Mercer,79,State Treasurer,,Democratic,John D. Perdue,331
+Mercer,80,State Treasurer,,Democratic,John D. Perdue,359
+Mercer,81,State Treasurer,,Democratic,John D. Perdue,324
+Mercer,82,State Treasurer,,Democratic,John D. Perdue,328
+Mercer,83,State Treasurer,,Democratic,John D. Perdue,117
+Mercer,84,State Treasurer,,Democratic,John D. Perdue,118
+Mercer,85,State Treasurer,,Democratic,John D. Perdue,114
+Mercer,86,State Treasurer,,Democratic,John D. Perdue,262
+Mercer,87,State Treasurer,,Democratic,John D. Perdue,173
+Mercer,88,State Treasurer,,Democratic,John D. Perdue,620
+Mercer,89,State Treasurer,,Democratic,John D. Perdue,154
+Mercer,95,State Treasurer,,Democratic,John D. Perdue,210
+Mercer,96,State Treasurer,,Democratic,John D. Perdue,117
+Mercer,98,State Treasurer,,Democratic,John D. Perdue,332
+Mercer,Total,State Treasurer,,Democratic,John D. Perdue,14982
+Mercer,1,Commissioner of Agriculture,,Republican,J. Michael Teets,77
+Mercer,2,Commissioner of Agriculture,,Republican,J. Michael Teets,195
+Mercer,3,Commissioner of Agriculture,,Republican,J. Michael Teets,183
+Mercer,4,Commissioner of Agriculture,,Republican,J. Michael Teets,171
+Mercer,5,Commissioner of Agriculture,,Republican,J. Michael Teets,111
+Mercer,14,Commissioner of Agriculture,,Republican,J. Michael Teets,25
+Mercer,15,Commissioner of Agriculture,,Republican,J. Michael Teets,81
+Mercer,20,Commissioner of Agriculture,,Republican,J. Michael Teets,36
+Mercer,27,Commissioner of Agriculture,,Republican,J. Michael Teets,184
+Mercer,28,Commissioner of Agriculture,,Republican,J. Michael Teets,108
+Mercer,29,Commissioner of Agriculture,,Republican,J. Michael Teets,65
+Mercer,31,Commissioner of Agriculture,,Republican,J. Michael Teets,197
+Mercer,32,Commissioner of Agriculture,,Republican,J. Michael Teets,142
+Mercer,34,Commissioner of Agriculture,,Republican,J. Michael Teets,83
+Mercer,36,Commissioner of Agriculture,,Republican,J. Michael Teets,163
+Mercer,38,Commissioner of Agriculture,,Republican,J. Michael Teets,223
+Mercer,39,Commissioner of Agriculture,,Republican,J. Michael Teets,112
+Mercer,42,Commissioner of Agriculture,,Republican,J. Michael Teets,40
+Mercer,44,Commissioner of Agriculture,,Republican,J. Michael Teets,165
+Mercer,46,Commissioner of Agriculture,,Republican,J. Michael Teets,24
+Mercer,47,Commissioner of Agriculture,,Republican,J. Michael Teets,154
+Mercer,48,Commissioner of Agriculture,,Republican,J. Michael Teets,53
+Mercer,49,Commissioner of Agriculture,,Republican,J. Michael Teets,100
+Mercer,52,Commissioner of Agriculture,,Republican,J. Michael Teets,117
+Mercer,53,Commissioner of Agriculture,,Republican,J. Michael Teets,152
+Mercer,54,Commissioner of Agriculture,,Republican,J. Michael Teets,188
+Mercer,55,Commissioner of Agriculture,,Republican,J. Michael Teets,137
+Mercer,56,Commissioner of Agriculture,,Republican,J. Michael Teets,136
+Mercer,57,Commissioner of Agriculture,,Republican,J. Michael Teets,226
+Mercer,58,Commissioner of Agriculture,,Republican,J. Michael Teets,117
+Mercer,59,Commissioner of Agriculture,,Republican,J. Michael Teets,122
+Mercer,60,Commissioner of Agriculture,,Republican,J. Michael Teets,27
+Mercer,62,Commissioner of Agriculture,,Republican,J. Michael Teets,326
+Mercer,64,Commissioner of Agriculture,,Republican,J. Michael Teets,156
+Mercer,65,Commissioner of Agriculture,,Republican,J. Michael Teets,478
+Mercer,66,Commissioner of Agriculture,,Republican,J. Michael Teets,66
+Mercer,67,Commissioner of Agriculture,,Republican,J. Michael Teets,89
+Mercer,68,Commissioner of Agriculture,,Republican,J. Michael Teets,31
+Mercer,69,Commissioner of Agriculture,,Republican,J. Michael Teets,142
+Mercer,71,Commissioner of Agriculture,,Republican,J. Michael Teets,333
+Mercer,72,Commissioner of Agriculture,,Republican,J. Michael Teets,188
+Mercer,73,Commissioner of Agriculture,,Republican,J. Michael Teets,222
+Mercer,74,Commissioner of Agriculture,,Republican,J. Michael Teets,331
+Mercer,75,Commissioner of Agriculture,,Republican,J. Michael Teets,380
+Mercer,77,Commissioner of Agriculture,,Republican,J. Michael Teets,75
+Mercer,78,Commissioner of Agriculture,,Republican,J. Michael Teets,76
+Mercer,79,Commissioner of Agriculture,,Republican,J. Michael Teets,237
+Mercer,80,Commissioner of Agriculture,,Republican,J. Michael Teets,176
+Mercer,81,Commissioner of Agriculture,,Republican,J. Michael Teets,196
+Mercer,82,Commissioner of Agriculture,,Republican,J. Michael Teets,178
+Mercer,83,Commissioner of Agriculture,,Republican,J. Michael Teets,63
+Mercer,84,Commissioner of Agriculture,,Republican,J. Michael Teets,51
+Mercer,85,Commissioner of Agriculture,,Republican,J. Michael Teets,53
+Mercer,86,Commissioner of Agriculture,,Republican,J. Michael Teets,125
+Mercer,87,Commissioner of Agriculture,,Republican,J. Michael Teets,95
+Mercer,88,Commissioner of Agriculture,,Republican,J. Michael Teets,430
+Mercer,89,Commissioner of Agriculture,,Republican,J. Michael Teets,103
+Mercer,95,Commissioner of Agriculture,,Republican,J. Michael Teets,134
+Mercer,96,Commissioner of Agriculture,,Republican,J. Michael Teets,73
+Mercer,98,Commissioner of Agriculture,,Republican,J. Michael Teets,204
+Mercer,Total,Commissioner of Agriculture,,Republican,J. Michael Teets,8925
+Mercer,1,Commissioner of Agriculture,,Democratic,Gus R. Douglass,84
+Mercer,2,Commissioner of Agriculture,,Democratic,Gus R. Douglass,243
+Mercer,3,Commissioner of Agriculture,,Democratic,Gus R. Douglass,191
+Mercer,4,Commissioner of Agriculture,,Democratic,Gus R. Douglass,172
+Mercer,5,Commissioner of Agriculture,,Democratic,Gus R. Douglass,132
+Mercer,14,Commissioner of Agriculture,,Democratic,Gus R. Douglass,317
+Mercer,15,Commissioner of Agriculture,,Democratic,Gus R. Douglass,126
+Mercer,20,Commissioner of Agriculture,,Democratic,Gus R. Douglass,128
+Mercer,27,Commissioner of Agriculture,,Democratic,Gus R. Douglass,130
+Mercer,28,Commissioner of Agriculture,,Democratic,Gus R. Douglass,121
+Mercer,29,Commissioner of Agriculture,,Democratic,Gus R. Douglass,81
+Mercer,31,Commissioner of Agriculture,,Democratic,Gus R. Douglass,257
+Mercer,32,Commissioner of Agriculture,,Democratic,Gus R. Douglass,202
+Mercer,34,Commissioner of Agriculture,,Democratic,Gus R. Douglass,204
+Mercer,36,Commissioner of Agriculture,,Democratic,Gus R. Douglass,173
+Mercer,38,Commissioner of Agriculture,,Democratic,Gus R. Douglass,200
+Mercer,39,Commissioner of Agriculture,,Democratic,Gus R. Douglass,99
+Mercer,42,Commissioner of Agriculture,,Democratic,Gus R. Douglass,41
+Mercer,44,Commissioner of Agriculture,,Democratic,Gus R. Douglass,193
+Mercer,46,Commissioner of Agriculture,,Democratic,Gus R. Douglass,71
+Mercer,47,Commissioner of Agriculture,,Democratic,Gus R. Douglass,138
+Mercer,48,Commissioner of Agriculture,,Democratic,Gus R. Douglass,57
+Mercer,49,Commissioner of Agriculture,,Democratic,Gus R. Douglass,134
+Mercer,52,Commissioner of Agriculture,,Democratic,Gus R. Douglass,101
+Mercer,53,Commissioner of Agriculture,,Democratic,Gus R. Douglass,148
+Mercer,54,Commissioner of Agriculture,,Democratic,Gus R. Douglass,128
+Mercer,55,Commissioner of Agriculture,,Democratic,Gus R. Douglass,110
+Mercer,56,Commissioner of Agriculture,,Democratic,Gus R. Douglass,133
+Mercer,57,Commissioner of Agriculture,,Democratic,Gus R. Douglass,242
+Mercer,58,Commissioner of Agriculture,,Democratic,Gus R. Douglass,149
+Mercer,59,Commissioner of Agriculture,,Democratic,Gus R. Douglass,101
+Mercer,60,Commissioner of Agriculture,,Democratic,Gus R. Douglass,40
+Mercer,62,Commissioner of Agriculture,,Democratic,Gus R. Douglass,236
+Mercer,64,Commissioner of Agriculture,,Democratic,Gus R. Douglass,115
+Mercer,65,Commissioner of Agriculture,,Democratic,Gus R. Douglass,395
+Mercer,66,Commissioner of Agriculture,,Democratic,Gus R. Douglass,78
+Mercer,67,Commissioner of Agriculture,,Democratic,Gus R. Douglass,158
+Mercer,68,Commissioner of Agriculture,,Democratic,Gus R. Douglass,64
+Mercer,69,Commissioner of Agriculture,,Democratic,Gus R. Douglass,207
+Mercer,71,Commissioner of Agriculture,,Democratic,Gus R. Douglass,370
+Mercer,72,Commissioner of Agriculture,,Democratic,Gus R. Douglass,224
+Mercer,73,Commissioner of Agriculture,,Democratic,Gus R. Douglass,266
+Mercer,74,Commissioner of Agriculture,,Democratic,Gus R. Douglass,289
+Mercer,75,Commissioner of Agriculture,,Democratic,Gus R. Douglass,429
+Mercer,77,Commissioner of Agriculture,,Democratic,Gus R. Douglass,129
+Mercer,78,Commissioner of Agriculture,,Democratic,Gus R. Douglass,111
+Mercer,79,Commissioner of Agriculture,,Democratic,Gus R. Douglass,200
+Mercer,80,Commissioner of Agriculture,,Democratic,Gus R. Douglass,261
+Mercer,81,Commissioner of Agriculture,,Democratic,Gus R. Douglass,221
+Mercer,82,Commissioner of Agriculture,,Democratic,Gus R. Douglass,226
+Mercer,83,Commissioner of Agriculture,,Democratic,Gus R. Douglass,76
+Mercer,84,Commissioner of Agriculture,,Democratic,Gus R. Douglass,86
+Mercer,85,Commissioner of Agriculture,,Democratic,Gus R. Douglass,82
+Mercer,86,Commissioner of Agriculture,,Democratic,Gus R. Douglass,185
+Mercer,87,Commissioner of Agriculture,,Democratic,Gus R. Douglass,127
+Mercer,88,Commissioner of Agriculture,,Democratic,Gus R. Douglass,380
+Mercer,89,Commissioner of Agriculture,,Democratic,Gus R. Douglass,96
+Mercer,95,Commissioner of Agriculture,,Democratic,Gus R. Douglass,140
+Mercer,96,Commissioner of Agriculture,,Democratic,Gus R. Douglass,80
+Mercer,98,Commissioner of Agriculture,,Democratic,Gus R. Douglass,227
+Mercer,Total,Commissioner of Agriculture,,Democratic,Gus R. Douglass,10104
+Mercer,1,Attorney General,,Republican,Dan Greear,78
+Mercer,2,Attorney General,,Republican,Dan Greear,245
+Mercer,3,Attorney General,,Republican,Dan Greear,199
+Mercer,4,Attorney General,,Republican,Dan Greear,191
+Mercer,5,Attorney General,,Republican,Dan Greear,155
+Mercer,14,Attorney General,,Republican,Dan Greear,26
+Mercer,15,Attorney General,,Republican,Dan Greear,83
+Mercer,20,Attorney General,,Republican,Dan Greear,43
+Mercer,27,Attorney General,,Republican,Dan Greear,235
+Mercer,28,Attorney General,,Republican,Dan Greear,139
+Mercer,29,Attorney General,,Republican,Dan Greear,83
+Mercer,31,Attorney General,,Republican,Dan Greear,259
+Mercer,32,Attorney General,,Republican,Dan Greear,182
+Mercer,34,Attorney General,,Republican,Dan Greear,96
+Mercer,36,Attorney General,,Republican,Dan Greear,218
+Mercer,38,Attorney General,,Republican,Dan Greear,289
+Mercer,39,Attorney General,,Republican,Dan Greear,149
+Mercer,42,Attorney General,,Republican,Dan Greear,41
+Mercer,44,Attorney General,,Republican,Dan Greear,180
+Mercer,46,Attorney General,,Republican,Dan Greear,34
+Mercer,47,Attorney General,,Republican,Dan Greear,183
+Mercer,48,Attorney General,,Republican,Dan Greear,57
+Mercer,49,Attorney General,,Republican,Dan Greear,114
+Mercer,52,Attorney General,,Republican,Dan Greear,133
+Mercer,53,Attorney General,,Republican,Dan Greear,157
+Mercer,54,Attorney General,,Republican,Dan Greear,181
+Mercer,55,Attorney General,,Republican,Dan Greear,135
+Mercer,56,Attorney General,,Republican,Dan Greear,166
+Mercer,57,Attorney General,,Republican,Dan Greear,252
+Mercer,58,Attorney General,,Republican,Dan Greear,133
+Mercer,59,Attorney General,,Republican,Dan Greear,126
+Mercer,60,Attorney General,,Republican,Dan Greear,26
+Mercer,62,Attorney General,,Republican,Dan Greear,335
+Mercer,64,Attorney General,,Republican,Dan Greear,178
+Mercer,65,Attorney General,,Republican,Dan Greear,520
+Mercer,66,Attorney General,,Republican,Dan Greear,72
+Mercer,67,Attorney General,,Republican,Dan Greear,109
+Mercer,68,Attorney General,,Republican,Dan Greear,49
+Mercer,69,Attorney General,,Republican,Dan Greear,159
+Mercer,71,Attorney General,,Republican,Dan Greear,407
+Mercer,72,Attorney General,,Republican,Dan Greear,229
+Mercer,73,Attorney General,,Republican,Dan Greear,275
+Mercer,74,Attorney General,,Republican,Dan Greear,379
+Mercer,75,Attorney General,,Republican,Dan Greear,483
+Mercer,77,Attorney General,,Republican,Dan Greear,93
+Mercer,78,Attorney General,,Republican,Dan Greear,92
+Mercer,79,Attorney General,,Republican,Dan Greear,264
+Mercer,80,Attorney General,,Republican,Dan Greear,195
+Mercer,81,Attorney General,,Republican,Dan Greear,244
+Mercer,82,Attorney General,,Republican,Dan Greear,231
+Mercer,83,Attorney General,,Republican,Dan Greear,68
+Mercer,84,Attorney General,,Republican,Dan Greear,59
+Mercer,85,Attorney General,,Republican,Dan Greear,69
+Mercer,86,Attorney General,,Republican,Dan Greear,159
+Mercer,87,Attorney General,,Republican,Dan Greear,128
+Mercer,88,Attorney General,,Republican,Dan Greear,483
+Mercer,89,Attorney General,,Republican,Dan Greear,121
+Mercer,95,Attorney General,,Republican,Dan Greear,155
+Mercer,96,Attorney General,,Republican,Dan Greear,97
+Mercer,98,Attorney General,,Republican,Dan Greear,269
+Mercer,Total,Attorney General,,Republican,Dan Greear,10510
+Mercer,1,Attorney General,,Democratic,Darrell McGraw,90
+Mercer,2,Attorney General,,Democratic,Darrell McGraw,233
+Mercer,3,Attorney General,,Democratic,Darrell McGraw,193
+Mercer,4,Attorney General,,Democratic,Darrell McGraw,162
+Mercer,5,Attorney General,,Democratic,Darrell McGraw,114
+Mercer,14,Attorney General,,Democratic,Darrell McGraw,327
+Mercer,15,Attorney General,,Democratic,Darrell McGraw,137
+Mercer,20,Attorney General,,Democratic,Darrell McGraw,128
+Mercer,27,Attorney General,,Democratic,Darrell McGraw,101
+Mercer,28,Attorney General,,Democratic,Darrell McGraw,106
+Mercer,29,Attorney General,,Democratic,Darrell McGraw,67
+Mercer,31,Attorney General,,Democratic,Darrell McGraw,226
+Mercer,32,Attorney General,,Democratic,Darrell McGraw,177
+Mercer,34,Attorney General,,Democratic,Darrell McGraw,200
+Mercer,36,Attorney General,,Democratic,Darrell McGraw,144
+Mercer,38,Attorney General,,Democratic,Darrell McGraw,155
+Mercer,39,Attorney General,,Democratic,Darrell McGraw,84
+Mercer,42,Attorney General,,Democratic,Darrell McGraw,48
+Mercer,44,Attorney General,,Democratic,Darrell McGraw,199
+Mercer,46,Attorney General,,Democratic,Darrell McGraw,71
+Mercer,47,Attorney General,,Democratic,Darrell McGraw,122
+Mercer,48,Attorney General,,Democratic,Darrell McGraw,60
+Mercer,49,Attorney General,,Democratic,Darrell McGraw,133
+Mercer,52,Attorney General,,Democratic,Darrell McGraw,88
+Mercer,53,Attorney General,,Democratic,Darrell McGraw,156
+Mercer,54,Attorney General,,Democratic,Darrell McGraw,146
+Mercer,55,Attorney General,,Democratic,Darrell McGraw,120
+Mercer,56,Attorney General,,Democratic,Darrell McGraw,120
+Mercer,57,Attorney General,,Democratic,Darrell McGraw,234
+Mercer,58,Attorney General,,Democratic,Darrell McGraw,148
+Mercer,59,Attorney General,,Democratic,Darrell McGraw,107
+Mercer,60,Attorney General,,Democratic,Darrell McGraw,42
+Mercer,62,Attorney General,,Democratic,Darrell McGraw,253
+Mercer,64,Attorney General,,Democratic,Darrell McGraw,0.112
+Mercer,65,Attorney General,,Democratic,Darrell McGraw,385
+Mercer,66,Attorney General,,Democratic,Darrell McGraw,83
+Mercer,67,Attorney General,,Democratic,Darrell McGraw,150
+Mercer,68,Attorney General,,Democratic,Darrell McGraw,5
+Mercer,69,Attorney General,,Democratic,Darrell McGraw,212
+Mercer,71,Attorney General,,Democratic,Darrell McGraw,353
+Mercer,72,Attorney General,,Democratic,Darrell McGraw,204
+Mercer,73,Attorney General,,Democratic,Darrell McGraw,241
+Mercer,74,Attorney General,,Democratic,Darrell McGraw,280
+Mercer,75,Attorney General,,Democratic,Darrell McGraw,379
+Mercer,77,Attorney General,,Democratic,Darrell McGraw,127
+Mercer,78,Attorney General,,Democratic,Darrell McGraw,103
+Mercer,79,Attorney General,,Democratic,Darrell McGraw,208
+Mercer,80,Attorney General,,Democratic,Darrell McGraw,259
+Mercer,81,Attorney General,,Democratic,Darrell McGraw,205
+Mercer,82,Attorney General,,Democratic,Darrell McGraw,201
+Mercer,83,Attorney General,,Democratic,Darrell McGraw,77
+Mercer,84,Attorney General,,Democratic,Darrell McGraw,79
+Mercer,85,Attorney General,,Democratic,Darrell McGraw,73
+Mercer,86,Attorney General,,Democratic,Darrell McGraw,162
+Mercer,87,Attorney General,,Democratic,Darrell McGraw,111
+Mercer,88,Attorney General,,Democratic,Darrell McGraw,364
+Mercer,89,Attorney General,,Democratic,Darrell McGraw,85
+Mercer,95,Attorney General,,Democratic,Darrell McGraw,143
+Mercer,96,Attorney General,,Democratic,Darrell McGraw,72
+Mercer,98,Attorney General,,Democratic,Darrell McGraw,207
+Mercer,Total,Attorney General,,Democratic,Darrell McGraw,9616
+Mercer,2,State Senate,6,Republican,Mark R. Maynard,168
+Mercer,3,State Senate,6,Republican,Mark R. Maynard,146
+Mercer,4,State Senate,6,Republican,Mark R. Maynard,156
+Mercer,5,State Senate,6,Republican,Mark R. Maynard,85
+Mercer,42,State Senate,6,Republican,Mark R. Maynard,29
+Mercer,46,State Senate,6,Republican,Mark R. Maynard,21
+Mercer,49,State Senate,6,Republican,Mark R. Maynard,93
+Mercer,52,State Senate,6,Republican,Mark R. Maynard,96
+Mercer,53,State Senate,6,Republican,Mark R. Maynard,135
+Mercer,54,State Senate,6,Republican,Mark R. Maynard,167
+Mercer,55,State Senate,6,Republican,Mark R. Maynard,105
+Mercer,58,State Senate,6,Republican,Mark R. Maynard,101
+Mercer,60,State Senate,6,Republican,Mark R. Maynard,25
+Mercer,62,State Senate,6,Republican,Mark R. Maynard,270
+Mercer,66,State Senate,6,Republican,Mark R. Maynard,53
+Mercer,67,State Senate,6,Republican,Mark R. Maynard,80
+Mercer,68,State Senate,6,Republican,Mark R. Maynard,30
+Mercer,69,State Senate,6,Republican,Mark R. Maynard,125
+Mercer,71,State Senate,6,Republican,Mark R. Maynard,301
+Mercer,72,State Senate,6,Republican,Mark R. Maynard,172
+Mercer,79,State Senate,6,Republican,Mark R. Maynard,204
+Mercer,96,State Senate,6,Republican,Mark R. Maynard,74
+Mercer,Total,State Senate,6,Republican,Mark R. Maynard,2636
+Mercer,2,State Senate,6,Democratic,John Pat Fanning,289
+Mercer,3,State Senate,6,Democratic,John Pat Fanning,232
+Mercer,4,State Senate,6,Democratic,John Pat Fanning,188
+Mercer,5,State Senate,6,Democratic,John Pat Fanning,163
+Mercer,42,State Senate,6,Democratic,John Pat Fanning,54
+Mercer,46,State Senate,6,Democratic,John Pat Fanning,78
+Mercer,49,State Senate,6,Democratic,John Pat Fanning,134
+Mercer,52,State Senate,6,Democratic,John Pat Fanning,115
+Mercer,53,State Senate,6,Democratic,John Pat Fanning,159
+Mercer,54,State Senate,6,Democratic,John Pat Fanning,144
+Mercer,55,State Senate,6,Democratic,John Pat Fanning,135
+Mercer,58,State Senate,6,Democratic,John Pat Fanning,163
+Mercer,60,State Senate,6,Democratic,John Pat Fanning,44
+Mercer,62,State Senate,6,Democratic,John Pat Fanning,280
+Mercer,66,State Senate,6,Democratic,John Pat Fanning,94
+Mercer,67,State Senate,6,Democratic,John Pat Fanning,177
+Mercer,68,State Senate,6,Democratic,John Pat Fanning,69
+Mercer,69,State Senate,6,Democratic,John Pat Fanning,227
+Mercer,71,State Senate,6,Democratic,John Pat Fanning,414
+Mercer,72,State Senate,6,Democratic,John Pat Fanning,236
+Mercer,79,State Senate,6,Democratic,John Pat Fanning,238
+Mercer,96,State Senate,6,Democratic,John Pat Fanning,87
+Mercer,Total,State Senate,6,Democratic,John Pat Fanning,3720
+Mercer,1,State Senate,10,Republican,Donald T. Caruth,110
+Mercer,14,State Senate,10,Republican,Donald T. Caruth,37
+Mercer,15,State Senate,10,Republican,Donald T. Caruth,116
+Mercer,20,State Senate,10,Republican,Donald T. Caruth,58
+Mercer,27,State Senate,10,Republican,Donald T. Caruth,274
+Mercer,28,State Senate,10,Republican,Donald T. Caruth,175
+Mercer,29,State Senate,10,Republican,Donald T. Caruth,98
+Mercer,31,State Senate,10,Republican,Donald T. Caruth,314
+Mercer,32,State Senate,10,Republican,Donald T. Caruth,222
+Mercer,34,State Senate,10,Republican,Donald T. Caruth,121
+Mercer,36,State Senate,10,Republican,Donald T. Caruth,253
+Mercer,38,State Senate,10,Republican,Donald T. Caruth,348
+Mercer,39,State Senate,10,Republican,Donald T. Caruth,176
+Mercer,44,State Senate,10,Republican,Donald T. Caruth,263
+Mercer,47,State Senate,10,Republican,Donald T. Caruth,218
+Mercer,48,State Senate,10,Republican,Donald T. Caruth,68
+Mercer,56,State Senate,10,Republican,Donald T. Caruth,239
+Mercer,57,State Senate,10,Republican,Donald T. Caruth,365
+Mercer,59,State Senate,10,Republican,Donald T. Caruth,164
+Mercer,64,State Senate,10,Republican,Donald T. Caruth,206
+Mercer,65,State Senate,10,Republican,Donald T. Caruth,692
+Mercer,73,State Senate,10,Republican,Donald T. Caruth,335
+Mercer,74,State Senate,10,Republican,Donald T. Caruth,464
+Mercer,75,State Senate,10,Republican,Donald T. Caruth,620
+Mercer,77,State Senate,10,Republican,Donald T. Caruth,131
+Mercer,78,State Senate,10,Republican,Donald T. Caruth,108
+Mercer,80,State Senate,10,Republican,Donald T. Caruth,266
+Mercer,81,State Senate,10,Republican,Donald T. Caruth,311
+Mercer,82,State Senate,10,Republican,Donald T. Caruth,273
+Mercer,83,State Senate,10,Republican,Donald T. Caruth,100
+Mercer,84,State Senate,10,Republican,Donald T. Caruth,80
+Mercer,85,State Senate,10,Republican,Donald T. Caruth,84
+Mercer,86,State Senate,10,Republican,Donald T. Caruth,203
+Mercer,87,State Senate,10,Republican,Donald T. Caruth,147
+Mercer,88,State Senate,10,Republican,Donald T. Caruth,619
+Mercer,89,State Senate,10,Republican,Donald T. Caruth,132
+Mercer,95,State Senate,10,Republican,Donald T. Caruth,214
+Mercer,98,State Senate,10,Republican,Donald T. Caruth,330
+Mercer,Total,State Senate,10,Republican,Donald T. Caruth,8934
+Mercer,1,State Senate,10,Democratic,"James W. ""Jim"" McNeely",59
+Mercer,14,State Senate,10,Democratic,"James W. ""Jim"" McNeely",305
+Mercer,15,State Senate,10,Democratic,"James W. ""Jim"" McNeely",100
+Mercer,20,State Senate,10,Democratic,"James W. ""Jim"" McNeely",113
+Mercer,27,State Senate,10,Democratic,"James W. ""Jim"" McNeely",70
+Mercer,28,State Senate,10,Democratic,"James W. ""Jim"" McNeely",71
+Mercer,29,State Senate,10,Democratic,"James W. ""Jim"" McNeely",55
+Mercer,31,State Senate,10,Democratic,"James W. ""Jim"" McNeely",184
+Mercer,32,State Senate,10,Democratic,"James W. ""Jim"" McNeely",138
+Mercer,34,State Senate,10,Democratic,"James W. ""Jim"" McNeely",173
+Mercer,36,State Senate,10,Democratic,"James W. ""Jim"" McNeely",114
+Mercer,38,State Senate,10,Democratic,"James W. ""Jim"" McNeely",106
+Mercer,39,State Senate,10,Democratic,"James W. ""Jim"" McNeely",55
+Mercer,44,State Senate,10,Democratic,"James W. ""Jim"" McNeely",135
+Mercer,47,State Senate,10,Democratic,"James W. ""Jim"" McNeely",101
+Mercer,48,State Senate,10,Democratic,"James W. ""Jim"" McNeely",47
+Mercer,56,State Senate,10,Democratic,"James W. ""Jim"" McNeely",52
+Mercer,57,State Senate,10,Democratic,"James W. ""Jim"" McNeely",142
+Mercer,59,State Senate,10,Democratic,"James W. ""Jim"" McNeely",73
+Mercer,64,State Senate,10,Democratic,"James W. ""Jim"" McNeely",79
+Mercer,65,State Senate,10,Democratic,"James W. ""Jim"" McNeely",209
+Mercer,73,State Senate,10,Democratic,"James W. ""Jim"" McNeely",175
+Mercer,74,State Senate,10,Democratic,"James W. ""Jim"" McNeely",189
+Mercer,75,State Senate,10,Democratic,"James W. ""Jim"" McNeely",239
+Mercer,77,State Senate,10,Democratic,"James W. ""Jim"" McNeely",90
+Mercer,78,State Senate,10,Democratic,"James W. ""Jim"" McNeely",83
+Mercer,80,State Senate,10,Democratic,"James W. ""Jim"" McNeely",173
+Mercer,81,State Senate,10,Democratic,"James W. ""Jim"" McNeely",133
+Mercer,82,State Senate,10,Democratic,"James W. ""Jim"" McNeely",159
+Mercer,83,State Senate,10,Democratic,"James W. ""Jim"" McNeely",46
+Mercer,84,State Senate,10,Democratic,"James W. ""Jim"" McNeely",63
+Mercer,85,State Senate,10,Democratic,"James W. ""Jim"" McNeely",58
+Mercer,86,State Senate,10,Democratic,"James W. ""Jim"" McNeely",120
+Mercer,87,State Senate,10,Democratic,"James W. ""Jim"" McNeely",89
+Mercer,88,State Senate,10,Democratic,"James W. ""Jim"" McNeely",227
+Mercer,89,State Senate,10,Democratic,"James W. ""Jim"" McNeely",72
+Mercer,95,State Senate,10,Democratic,"James W. ""Jim"" McNeely",85
+Mercer,98,State Senate,10,Democratic,"James W. ""Jim"" McNeely",144
+Mercer,Total,State Senate,10,Democratic,"James W. ""Jim"" McNeely",4526
+Mercer,2,State House,24,Republican,John H. Shott,250
+Mercer,4,State House,24,Republican,John H. Shott,210
+Mercer,5,State House,24,Republican,John H. Shott,144
+Mercer,14,State House,24,Republican,John H. Shott,55
+Mercer,15,State House,24,Republican,John H. Shott,101
+Mercer,20,State House,24,Republican,John H. Shott,54
+Mercer,27,State House,24,Republican,John H. Shott,272
+Mercer,28,State House,24,Republican,John H. Shott,152
+Mercer,29,State House,24,Republican,John H. Shott,99
+Mercer,31,State House,24,Republican,John H. Shott,274
+Mercer,32,State House,24,Republican,John H. Shott,224
+Mercer,34,State House,24,Republican,John H. Shott,104
+Mercer,36,State House,24,Republican,John H. Shott,234
+Mercer,38,State House,24,Republican,John H. Shott,333
+Mercer,39,State House,24,Republican,John H. Shott,157
+Mercer,66,State House,24,Republican,John H. Shott,63
+Mercer,67,State House,24,Republican,John H. Shott,103
+Mercer,68,State House,24,Republican,John H. Shott,45
+Mercer,79,State House,24,Republican,John H. Shott,270
+Mercer,Total,State House,24,Republican,John H. Shott,3144
+Mercer,2,State House,24,Democratic,Mike Vinciguerra Jr.,235
+Mercer,4,State House,24,Democratic,Mike Vinciguerra Jr.,150
+Mercer,5,State House,24,Democratic,Mike Vinciguerra Jr.,121
+Mercer,14,State House,24,Democratic,Mike Vinciguerra Jr.,300
+Mercer,15,State House,24,Democratic,Mike Vinciguerra Jr.,122
+Mercer,20,State House,24,Democratic,Mike Vinciguerra Jr.,121
+Mercer,27,State House,24,Democratic,Mike Vinciguerra Jr.,83
+Mercer,28,State House,24,Democratic,Mike Vinciguerra Jr.,97
+Mercer,29,State House,24,Democratic,Mike Vinciguerra Jr.,57
+Mercer,31,State House,24,Democratic,Mike Vinciguerra Jr.,230
+Mercer,32,State House,24,Democratic,Mike Vinciguerra Jr.,146
+Mercer,34,State House,24,Democratic,Mike Vinciguerra Jr.,195
+Mercer,36,State House,24,Democratic,Mike Vinciguerra Jr.,139
+Mercer,38,State House,24,Democratic,Mike Vinciguerra Jr.,135
+Mercer,39,State House,24,Democratic,Mike Vinciguerra Jr.,79
+Mercer,66,State House,24,Democratic,Mike Vinciguerra Jr.,93
+Mercer,67,State House,24,Democratic,Mike Vinciguerra Jr.,162
+Mercer,68,State House,24,Democratic,Mike Vinciguerra Jr.,58
+Mercer,79,State House,24,Democratic,Mike Vinciguerra Jr.,201
+Mercer,Total,State House,24,Democratic,Mike Vinciguerra Jr.,2724
+Mercer,3,State House,22,Democratic,Daniel J. Hall,200
+Mercer,42,State House,22,Democratic,Daniel J. Hall,44
+Mercer,46,State House,22,Democratic,Daniel J. Hall,72
+Mercer,49,State House,22,Democratic,Daniel J. Hall,137
+Mercer,55,State House,22,Democratic,Daniel J. Hall,133
+Mercer,60,State House,22,Democratic,Daniel J. Hall,38
+Mercer,69,State House,22,Democratic,Daniel J. Hall,215
+Mercer,96,State House,22,Democratic,Daniel J. Hall,89
+Mercer,Total,State House,22,Democratic,Daniel J. Hall,928
+Mercer,3,State House,22,Democratic,Linda Goode Phillips,221
+Mercer,42,State House,22,Democratic,Linda Goode Phillips,52
+Mercer,46,State House,22,Democratic,Linda Goode Phillips,76
+Mercer,49,State House,22,Democratic,Linda Goode Phillips,145
+Mercer,55,State House,22,Democratic,Linda Goode Phillips,136
+Mercer,60,State House,22,Democratic,Linda Goode Phillips,45
+Mercer,69,State House,22,Democratic,Linda Goode Phillips,238
+Mercer,96,State House,22,Democratic,Linda Goode Phillips,89
+Mercer,Total,State House,22,Democratic,Linda Goode Phillips,1002
+Mercer,1,State House,25,Republican,Joe Ellington,55
+Mercer,44,State House,25,Republican,Joe Ellington,116
+Mercer,47,State House,25,Republican,Joe Ellington,106
+Mercer,48,State House,25,Republican,Joe Ellington,37
+Mercer,52,State House,25,Republican,Joe Ellington,74
+Mercer,53,State House,25,Republican,Joe Ellington,104
+Mercer,54,State House,25,Republican,Joe Ellington,119
+Mercer,56,State House,25,Republican,Joe Ellington,74
+Mercer,57,State House,25,Republican,Joe Ellington,133
+Mercer,58,State House,25,Republican,Joe Ellington,77
+Mercer,59,State House,25,Republican,Joe Ellington,75
+Mercer,62,State House,25,Republican,Joe Ellington,166
+Mercer,64,State House,25,Republican,Joe Ellington,117
+Mercer,65,State House,25,Republican,Joe Ellington,308
+Mercer,71,State House,25,Republican,Joe Ellington,228
+Mercer,72,State House,25,Republican,Joe Ellington,112
+Mercer,73,State House,25,Republican,Joe Ellington,152
+Mercer,74,State House,25,Republican,Joe Ellington,210
+Mercer,75,State House,25,Republican,Joe Ellington,252
+Mercer,77,State House,25,Republican,Joe Ellington,52
+Mercer,78,State House,25,Republican,Joe Ellington,52
+Mercer,80,State House,25,Republican,Joe Ellington,120
+Mercer,81,State House,25,Republican,Joe Ellington,133
+Mercer,82,State House,25,Republican,Joe Ellington,120
+Mercer,83,State House,25,Republican,Joe Ellington,47
+Mercer,84,State House,25,Republican,Joe Ellington,35
+Mercer,85,State House,25,Republican,Joe Ellington,29
+Mercer,86,State House,25,Republican,Joe Ellington,83
+Mercer,87,State House,25,Republican,Joe Ellington,71
+Mercer,88,State House,25,Republican,Joe Ellington,264
+Mercer,89,State House,25,Republican,Joe Ellington,71
+Mercer,95,State House,25,Republican,Joe Ellington,92
+Mercer,98,State House,25,Republican,Joe Ellington,143
+Mercer,Total,State House,25,Republican,Joe Ellington,3827
+Mercer,1,State House,25,Republican,T. Mike Porter,77
+Mercer,44,State House,25,Republican,T. Mike Porter,224
+Mercer,47,State House,25,Republican,T. Mike Porter,178
+Mercer,48,State House,25,Republican,T. Mike Porter,59
+Mercer,52,State House,25,Republican,T. Mike Porter,118
+Mercer,53,State House,25,Republican,T. Mike Porter,163
+Mercer,54,State House,25,Republican,T. Mike Porter,190
+Mercer,56,State House,25,Republican,T. Mike Porter,120
+Mercer,57,State House,25,Republican,T. Mike Porter,205
+Mercer,58,State House,25,Republican,T. Mike Porter,170
+Mercer,59,State House,25,Republican,T. Mike Porter,138
+Mercer,62,State House,25,Republican,T. Mike Porter,325
+Mercer,64,State House,25,Republican,T. Mike Porter,154
+Mercer,65,State House,25,Republican,T. Mike Porter,469
+Mercer,71,State House,25,Republican,T. Mike Porter,435
+Mercer,72,State House,25,Republican,T. Mike Porter,243
+Mercer,73,State House,25,Republican,T. Mike Porter,317
+Mercer,74,State House,25,Republican,T. Mike Porter,335
+Mercer,75,State House,25,Republican,T. Mike Porter,406
+Mercer,77,State House,25,Republican,T. Mike Porter,94
+Mercer,78,State House,25,Republican,T. Mike Porter,96
+Mercer,80,State House,25,Republican,T. Mike Porter,207
+Mercer,81,State House,25,Republican,T. Mike Porter,198
+Mercer,82,State House,25,Republican,T. Mike Porter,186
+Mercer,83,State House,25,Republican,T. Mike Porter,69
+Mercer,84,State House,25,Republican,T. Mike Porter,54
+Mercer,85,State House,25,Republican,T. Mike Porter,63
+Mercer,86,State House,25,Republican,T. Mike Porter,158
+Mercer,87,State House,25,Republican,T. Mike Porter,108
+Mercer,88,State House,25,Republican,T. Mike Porter,437
+Mercer,89,State House,25,Republican,T. Mike Porter,118
+Mercer,95,State House,25,Republican,T. Mike Porter,162
+Mercer,98,State House,25,Republican,T. Mike Porter,263
+Mercer,Total,State House,25,Republican,T. Mike Porter,6539
+Mercer,1,State House,25,Democratic,John R. Frazier,82
+Mercer,44,State House,25,Democratic,John R. Frazier,199
+Mercer,47,State House,25,Democratic,John R. Frazier,153
+Mercer,48,State House,25,Democratic,John R. Frazier,64
+Mercer,52,State House,25,Democratic,John R. Frazier,108
+Mercer,53,State House,25,Democratic,John R. Frazier,157
+Mercer,54,State House,25,Democratic,John R. Frazier,123
+Mercer,56,State House,25,Democratic,John R. Frazier,169
+Mercer,57,State House,25,Democratic,John R. Frazier,278
+Mercer,58,State House,25,Democratic,John R. Frazier,139
+Mercer,59,State House,25,Democratic,John R. Frazier,99
+Mercer,62,State House,25,Democratic,John R. Frazier,262
+Mercer,64,State House,25,Democratic,John R. Frazier,129
+Mercer,65,State House,25,Democratic,John R. Frazier,453
+Mercer,71,State House,25,Democratic,John R. Frazier,362
+Mercer,72,State House,25,Democratic,John R. Frazier,218
+Mercer,73,State House,25,Democratic,John R. Frazier,249
+Mercer,74,State House,25,Democratic,John R. Frazier,371
+Mercer,75,State House,25,Democratic,John R. Frazier,497
+Mercer,77,State House,25,Democratic,John R. Frazier,142
+Mercer,78,State House,25,Democratic,John R. Frazier,102
+Mercer,80,State House,25,Democratic,John R. Frazier,261
+Mercer,81,State House,25,Democratic,John R. Frazier,257
+Mercer,82,State House,25,Democratic,John R. Frazier,266
+Mercer,83,State House,25,Democratic,John R. Frazier,75
+Mercer,84,State House,25,Democratic,John R. Frazier,94
+Mercer,85,State House,25,Democratic,John R. Frazier,89
+Mercer,86,State House,25,Democratic,John R. Frazier,200
+Mercer,87,State House,25,Democratic,John R. Frazier,129
+Mercer,88,State House,25,Democratic,John R. Frazier,445
+Mercer,89,State House,25,Democratic,John R. Frazier,100
+Mercer,95,State House,25,Democratic,John R. Frazier,155
+Mercer,98,State House,25,Democratic,John R. Frazier,237
+Mercer,Total,State House,25,Democratic,John R. Frazier,6664
+Mercer,1,State House,25,Democratic,Marshall C. Long,62
+Mercer,44,State House,25,Democratic,Marshall C. Long,186
+Mercer,47,State House,25,Democratic,Marshall C. Long,130
+Mercer,48,State House,25,Democratic,Marshall C. Long,67
+Mercer,52,State House,25,Democratic,Marshall C. Long,100
+Mercer,53,State House,25,Democratic,Marshall C. Long,136
+Mercer,54,State House,25,Democratic,Marshall C. Long,137
+Mercer,56,State House,25,Democratic,Marshall C. Long,171
+Mercer,57,State House,25,Democratic,Marshall C. Long,297
+Mercer,58,State House,25,Democratic,Marshall C. Long,129
+Mercer,59,State House,25,Democratic,Marshall C. Long,123
+Mercer,62,State House,25,Democratic,Marshall C. Long,306
+Mercer,64,State House,25,Democratic,Marshall C. Long,122
+Mercer,65,State House,25,Democratic,Marshall C. Long,388
+Mercer,71,State House,25,Democratic,Marshall C. Long,334
+Mercer,72,State House,25,Democratic,Marshall C. Long,213
+Mercer,73,State House,25,Democratic,Marshall C. Long,232
+Mercer,74,State House,25,Democratic,Marshall C. Long,299
+Mercer,75,State House,25,Democratic,Marshall C. Long,421
+Mercer,77,State House,25,Democratic,Marshall C. Long,120
+Mercer,78,State House,25,Democratic,Marshall C. Long,106
+Mercer,80,State House,25,Democratic,Marshall C. Long,220
+Mercer,81,State House,25,Democratic,Marshall C. Long,234
+Mercer,82,State House,25,Democratic,Marshall C. Long,229
+Mercer,83,State House,25,Democratic,Marshall C. Long,80
+Mercer,84,State House,25,Democratic,Marshall C. Long,70
+Mercer,85,State House,25,Democratic,Marshall C. Long,72
+Mercer,86,State House,25,Democratic,Marshall C. Long,157
+Mercer,87,State House,25,Democratic,Marshall C. Long,115
+Mercer,88,State House,25,Democratic,Marshall C. Long,373
+Mercer,89,State House,25,Democratic,Marshall C. Long,91
+Mercer,95,State House,25,Democratic,Marshall C. Long,140
+Mercer,98,State House,25,Democratic,Marshall C. Long,210
+Mercer,Total,State House,25,Democratic,Marshall C. Long,6070
