@@ -1,0 +1,875 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,1,President,,Republican,John McCain,157
+Jackson,2,President,,Republican,John McCain,148
+Jackson,3,President,,Republican,John McCain,266
+Jackson,4,President,,Republican,John McCain,124
+Jackson,5,President,,Republican,John McCain,157
+Jackson,6,President,,Republican,John McCain,153
+Jackson,7,President,,Republican,John McCain,77
+Jackson,8,President,,Republican,John McCain,263
+Jackson,9,President,,Republican,John McCain,173
+Jackson,10,President,,Republican,John McCain,75
+Jackson,11a,President,,Republican,John McCain,169
+Jackson,11b,President,,Republican,John McCain,187
+Jackson,12,President,,Republican,John McCain,348
+Jackson,13,President,,Republican,John McCain,216
+Jackson,14,President,,Republican,John McCain,213
+Jackson,15a,President,,Republican,John McCain,274
+Jackson,15b,President,,Republican,John McCain,222
+Jackson,16a,President,,Republican,John McCain,251
+Jackson,16b,President,,Republican,John McCain,180
+Jackson,17a,President,,Republican,John McCain,368
+Jackson,17b,President,,Republican,John McCain,227
+Jackson,18,President,,Republican,John McCain,151
+Jackson,19,President,,Republican,John McCain,262
+Jackson,20,President,,Republican,John McCain,180
+Jackson,21,President,,Republican,John McCain,78
+Jackson,22,President,,Republican,John McCain,389
+Jackson,23,President,,Republican,John McCain,175
+Jackson,24,President,,Republican,John McCain,90
+Jackson,25,President,,Republican,John McCain,152
+Jackson,26,President,,Republican,John McCain,108
+Jackson,27,President,,Republican,John McCain,278
+Jackson,28,President,,Republican,John McCain,115
+Jackson,29a,President,,Republican,John McCain,233
+Jackson,29b,President,,Republican,John McCain,189
+Jackson,30,President,,Republican,John McCain,161
+Jackson,31,President,,Republican,John McCain,339
+Jackson,1,President,,Democratic,Barack Obama,113
+Jackson,2,President,,Democratic,Barack Obama,106
+Jackson,3,President,,Democratic,Barack Obama,127
+Jackson,4,President,,Democratic,Barack Obama,114
+Jackson,5,President,,Democratic,Barack Obama,159
+Jackson,6,President,,Democratic,Barack Obama,139
+Jackson,7,President,,Democratic,Barack Obama,104
+Jackson,8,President,,Democratic,Barack Obama,235
+Jackson,9,President,,Democratic,Barack Obama,188
+Jackson,10,President,,Democratic,Barack Obama,91
+Jackson,11a,President,,Democratic,Barack Obama,102
+Jackson,11b,President,,Democratic,Barack Obama,133
+Jackson,12,President,,Democratic,Barack Obama,215
+Jackson,13,President,,Democratic,Barack Obama,162
+Jackson,14,President,,Democratic,Barack Obama,189
+Jackson,15a,President,,Democratic,Barack Obama,182
+Jackson,15b,President,,Democratic,Barack Obama,142
+Jackson,16a,President,,Democratic,Barack Obama,168
+Jackson,16b,President,,Democratic,Barack Obama,113
+Jackson,17a,President,,Democratic,Barack Obama,184
+Jackson,17b,President,,Democratic,Barack Obama,163
+Jackson,18,President,,Democratic,Barack Obama,93
+Jackson,19,President,,Democratic,Barack Obama,140
+Jackson,20,President,,Democratic,Barack Obama,125
+Jackson,21,President,,Democratic,Barack Obama,79
+Jackson,22,President,,Democratic,Barack Obama,289
+Jackson,23,President,,Democratic,Barack Obama,109
+Jackson,24,President,,Democratic,Barack Obama,65
+Jackson,25,President,,Democratic,Barack Obama,129
+Jackson,26,President,,Democratic,Barack Obama,48
+Jackson,27,President,,Democratic,Barack Obama,151
+Jackson,28,President,,Democratic,Barack Obama,60
+Jackson,29a,President,,Democratic,Barack Obama,119
+Jackson,29b,President,,Democratic,Barack Obama,87
+Jackson,30,President,,Democratic,Barack Obama,91
+Jackson,31,President,,Democratic,Barack Obama,147
+Jackson,1,President,,Mountain,Cynthia McKinney,1
+Jackson,2,President,,Mountain,Cynthia McKinney,0
+Jackson,3,President,,Mountain,Cynthia McKinney,2
+Jackson,4,President,,Mountain,Cynthia McKinney,1
+Jackson,5,President,,Mountain,Cynthia McKinney,1
+Jackson,6,President,,Mountain,Cynthia McKinney,2
+Jackson,7,President,,Mountain,Cynthia McKinney,1
+Jackson,8,President,,Mountain,Cynthia McKinney,2
+Jackson,9,President,,Mountain,Cynthia McKinney,2
+Jackson,10,President,,Mountain,Cynthia McKinney,0
+Jackson,11a,President,,Mountain,Cynthia McKinney,2
+Jackson,11b,President,,Mountain,Cynthia McKinney,0
+Jackson,12,President,,Mountain,Cynthia McKinney,0
+Jackson,13,President,,Mountain,Cynthia McKinney,1
+Jackson,14,President,,Mountain,Cynthia McKinney,4
+Jackson,15a,President,,Mountain,Cynthia McKinney,0
+Jackson,15b,President,,Mountain,Cynthia McKinney,1
+Jackson,16a,President,,Mountain,Cynthia McKinney,0
+Jackson,16b,President,,Mountain,Cynthia McKinney,0
+Jackson,17a,President,,Mountain,Cynthia McKinney,4
+Jackson,17b,President,,Mountain,Cynthia McKinney,4
+Jackson,18,President,,Mountain,Cynthia McKinney,0
+Jackson,19,President,,Mountain,Cynthia McKinney,1
+Jackson,20,President,,Mountain,Cynthia McKinney,0
+Jackson,21,President,,Mountain,Cynthia McKinney,0
+Jackson,22,President,,Mountain,Cynthia McKinney,0
+Jackson,23,President,,Mountain,Cynthia McKinney,0
+Jackson,24,President,,Mountain,Cynthia McKinney,0
+Jackson,25,President,,Mountain,Cynthia McKinney,1
+Jackson,26,President,,Mountain,Cynthia McKinney,0
+Jackson,27,President,,Mountain,Cynthia McKinney,2
+Jackson,28,President,,Mountain,Cynthia McKinney,1
+Jackson,29a,President,,Mountain,Cynthia McKinney,1
+Jackson,29b,President,,Mountain,Cynthia McKinney,0
+Jackson,30,President,,Mountain,Cynthia McKinney,1
+Jackson,31,President,,Mountain,Cynthia McKinney,0
+Jackson,1,President,,,Ralph Nader,3
+Jackson,2,President,,,Ralph Nader,7
+Jackson,3,President,,,Ralph Nader,4
+Jackson,4,President,,,Ralph Nader,7
+Jackson,5,President,,,Ralph Nader,7
+Jackson,6,President,,,Ralph Nader,6
+Jackson,7,President,,,Ralph Nader,5
+Jackson,8,President,,,Ralph Nader,4
+Jackson,9,President,,,Ralph Nader,4
+Jackson,10,President,,,Ralph Nader,1
+Jackson,11a,President,,,Ralph Nader,3
+Jackson,11b,President,,,Ralph Nader,2
+Jackson,12,President,,,Ralph Nader,4
+Jackson,13,President,,,Ralph Nader,6
+Jackson,14,President,,,Ralph Nader,4
+Jackson,15a,President,,,Ralph Nader,2
+Jackson,15b,President,,,Ralph Nader,6
+Jackson,16a,President,,,Ralph Nader,3
+Jackson,16b,President,,,Ralph Nader,1
+Jackson,17a,President,,,Ralph Nader,4
+Jackson,17b,President,,,Ralph Nader,10
+Jackson,18,President,,,Ralph Nader,1
+Jackson,19,President,,,Ralph Nader,4
+Jackson,20,President,,,Ralph Nader,5
+Jackson,21,President,,,Ralph Nader,5
+Jackson,22,President,,,Ralph Nader,6
+Jackson,23,President,,,Ralph Nader,3
+Jackson,24,President,,,Ralph Nader,1
+Jackson,25,President,,,Ralph Nader,3
+Jackson,26,President,,,Ralph Nader,1
+Jackson,27,President,,,Ralph Nader,8
+Jackson,28,President,,,Ralph Nader,5
+Jackson,29a,President,,,Ralph Nader,2
+Jackson,29b,President,,,Ralph Nader,0
+Jackson,30,President,,,Ralph Nader,3
+Jackson,31,President,,,Ralph Nader,7
+Jackson,1,President,,Constitution,Chuck Baldwin,0
+Jackson,2,President,,Constitution,Chuck Baldwin,2
+Jackson,3,President,,Constitution,Chuck Baldwin,0
+Jackson,4,President,,Constitution,Chuck Baldwin,0
+Jackson,5,President,,Constitution,Chuck Baldwin,0
+Jackson,6,President,,Constitution,Chuck Baldwin,2
+Jackson,7,President,,Constitution,Chuck Baldwin,0
+Jackson,8,President,,Constitution,Chuck Baldwin,4
+Jackson,9,President,,Constitution,Chuck Baldwin,1
+Jackson,10,President,,Constitution,Chuck Baldwin,0
+Jackson,11a,President,,Constitution,Chuck Baldwin,1
+Jackson,11b,President,,Constitution,Chuck Baldwin,1
+Jackson,12,President,,Constitution,Chuck Baldwin,1
+Jackson,13,President,,Constitution,Chuck Baldwin,3
+Jackson,14,President,,Constitution,Chuck Baldwin,1
+Jackson,15a,President,,Constitution,Chuck Baldwin,1
+Jackson,15b,President,,Constitution,Chuck Baldwin,0
+Jackson,16a,President,,Constitution,Chuck Baldwin,0
+Jackson,16b,President,,Constitution,Chuck Baldwin,0
+Jackson,17a,President,,Constitution,Chuck Baldwin,1
+Jackson,17b,President,,Constitution,Chuck Baldwin,2
+Jackson,18,President,,Constitution,Chuck Baldwin,0
+Jackson,19,President,,Constitution,Chuck Baldwin,2
+Jackson,20,President,,Constitution,Chuck Baldwin,0
+Jackson,21,President,,Constitution,Chuck Baldwin,1
+Jackson,22,President,,Constitution,Chuck Baldwin,3
+Jackson,23,President,,Constitution,Chuck Baldwin,0
+Jackson,24,President,,Constitution,Chuck Baldwin,0
+Jackson,25,President,,Constitution,Chuck Baldwin,2
+Jackson,26,President,,Constitution,Chuck Baldwin,1
+Jackson,27,President,,Constitution,Chuck Baldwin,1
+Jackson,28,President,,Constitution,Chuck Baldwin,1
+Jackson,29a,President,,Constitution,Chuck Baldwin,0
+Jackson,29b,President,,Constitution,Chuck Baldwin,0
+Jackson,30,President,,Constitution,Chuck Baldwin,3
+Jackson,31,President,,Constitution,Chuck Baldwin,0
+Jackson,1,U.S. Senate,,Republican,Jay Wolfe,101
+Jackson,2,U.S. Senate,,Republican,Jay Wolfe,103
+Jackson,3,U.S. Senate,,Republican,Jay Wolfe,168
+Jackson,4,U.S. Senate,,Republican,Jay Wolfe,65
+Jackson,5,U.S. Senate,,Republican,Jay Wolfe,95
+Jackson,6,U.S. Senate,,Republican,Jay Wolfe,90
+Jackson,7,U.S. Senate,,Republican,Jay Wolfe,46
+Jackson,8,U.S. Senate,,Republican,Jay Wolfe,161
+Jackson,9,U.S. Senate,,Republican,Jay Wolfe,95
+Jackson,10,U.S. Senate,,Republican,Jay Wolfe,40
+Jackson,11a,U.S. Senate,,Republican,Jay Wolfe,112
+Jackson,11b,U.S. Senate,,Republican,Jay Wolfe,115
+Jackson,12,U.S. Senate,,Republican,Jay Wolfe,202
+Jackson,13,U.S. Senate,,Republican,Jay Wolfe,143
+Jackson,14,U.S. Senate,,Republican,Jay Wolfe,123
+Jackson,15a,U.S. Senate,,Republican,Jay Wolfe,180
+Jackson,15b,U.S. Senate,,Republican,Jay Wolfe,149
+Jackson,16a,U.S. Senate,,Republican,Jay Wolfe,152
+Jackson,16b,U.S. Senate,,Republican,Jay Wolfe,107
+Jackson,17a,U.S. Senate,,Republican,Jay Wolfe,232
+Jackson,17b,U.S. Senate,,Republican,Jay Wolfe,153
+Jackson,18,U.S. Senate,,Republican,Jay Wolfe,92
+Jackson,19,U.S. Senate,,Republican,Jay Wolfe,178
+Jackson,20,U.S. Senate,,Republican,Jay Wolfe,112
+Jackson,21,U.S. Senate,,Republican,Jay Wolfe,51
+Jackson,22,U.S. Senate,,Republican,Jay Wolfe,267
+Jackson,23,U.S. Senate,,Republican,Jay Wolfe,99
+Jackson,24,U.S. Senate,,Republican,Jay Wolfe,55
+Jackson,25,U.S. Senate,,Republican,Jay Wolfe,102
+Jackson,26,U.S. Senate,,Republican,Jay Wolfe,70
+Jackson,27,U.S. Senate,,Republican,Jay Wolfe,184
+Jackson,28,U.S. Senate,,Republican,Jay Wolfe,96
+Jackson,29a,U.S. Senate,,Republican,Jay Wolfe,162
+Jackson,29b,U.S. Senate,,Republican,Jay Wolfe,125
+Jackson,30,U.S. Senate,,Republican,Jay Wolfe,118
+Jackson,31,U.S. Senate,,Republican,Jay Wolfe,231
+Jackson,1,U.S. Senate,,Democratic,Jay Rockefeller,173
+Jackson,2,U.S. Senate,,Democratic,Jay Rockefeller,165
+Jackson,3,U.S. Senate,,Democratic,Jay Rockefeller,226
+Jackson,4,U.S. Senate,,Democratic,Jay Rockefeller,178
+Jackson,5,U.S. Senate,,Democratic,Jay Rockefeller,230
+Jackson,6,U.S. Senate,,Democratic,Jay Rockefeller,210
+Jackson,7,U.S. Senate,,Democratic,Jay Rockefeller,144
+Jackson,8,U.S. Senate,,Democratic,Jay Rockefeller,340
+Jackson,9,U.S. Senate,,Democratic,Jay Rockefeller,272
+Jackson,10,U.S. Senate,,Democratic,Jay Rockefeller,130
+Jackson,11a,U.S. Senate,,Democratic,Jay Rockefeller,161
+Jackson,11b,U.S. Senate,,Democratic,Jay Rockefeller,208
+Jackson,12,U.S. Senate,,Democratic,Jay Rockefeller,368
+Jackson,13,U.S. Senate,,Democratic,Jay Rockefeller,236
+Jackson,14,U.S. Senate,,Democratic,Jay Rockefeller,292
+Jackson,15a,U.S. Senate,,Democratic,Jay Rockefeller,272
+Jackson,15b,U.S. Senate,,Democratic,Jay Rockefeller,221
+Jackson,16a,U.S. Senate,,Democratic,Jay Rockefeller,268
+Jackson,16b,U.S. Senate,,Democratic,Jay Rockefeller,185
+Jackson,17a,U.S. Senate,,Democratic,Jay Rockefeller,319
+Jackson,17b,U.S. Senate,,Democratic,Jay Rockefeller,253
+Jackson,18,U.S. Senate,,Democratic,Jay Rockefeller,147
+Jackson,19,U.S. Senate,,Democratic,Jay Rockefeller,227
+Jackson,20,U.S. Senate,,Democratic,Jay Rockefeller,194
+Jackson,21,U.S. Senate,,Democratic,Jay Rockefeller,117
+Jackson,22,U.S. Senate,,Democratic,Jay Rockefeller,412
+Jackson,23,U.S. Senate,,Democratic,Jay Rockefeller,190
+Jackson,24,U.S. Senate,,Democratic,Jay Rockefeller,106
+Jackson,25,U.S. Senate,,Democratic,Jay Rockefeller,186
+Jackson,26,U.S. Senate,,Democratic,Jay Rockefeller,84
+Jackson,27,U.S. Senate,,Democratic,Jay Rockefeller,256
+Jackson,28,U.S. Senate,,Democratic,Jay Rockefeller,85
+Jackson,29a,U.S. Senate,,Democratic,Jay Rockefeller,193
+Jackson,29b,U.S. Senate,,Democratic,Jay Rockefeller,143
+Jackson,30,U.S. Senate,,Democratic,Jay Rockefeller,136
+Jackson,31,U.S. Senate,,Democratic,Jay Rockefeller,255
+Jackson,1,U.S. House,2,Republican,Shelley Moore Capito,163
+Jackson,2,U.S. House,2,Republican,Shelley Moore Capito,139
+Jackson,3,U.S. House,2,Republican,Shelley Moore Capito,245
+Jackson,4,U.S. House,2,Republican,Shelley Moore Capito,119
+Jackson,5,U.S. House,2,Republican,Shelley Moore Capito,156
+Jackson,6,U.S. House,2,Republican,Shelley Moore Capito,155
+Jackson,7,U.S. House,2,Republican,Shelley Moore Capito,76
+Jackson,8,U.S. House,2,Republican,Shelley Moore Capito,267
+Jackson,9,U.S. House,2,Republican,Shelley Moore Capito,166
+Jackson,10,U.S. House,2,Republican,Shelley Moore Capito,71
+Jackson,11a,U.S. House,2,Republican,Shelley Moore Capito,170
+Jackson,11b,U.S. House,2,Republican,Shelley Moore Capito,197
+Jackson,12,U.S. House,2,Republican,Shelley Moore Capito,327
+Jackson,13,U.S. House,2,Republican,Shelley Moore Capito,226
+Jackson,14,U.S. House,2,Republican,Shelley Moore Capito,207
+Jackson,15a,U.S. House,2,Republican,Shelley Moore Capito,267
+Jackson,15b,U.S. House,2,Republican,Shelley Moore Capito,228
+Jackson,16a,U.S. House,2,Republican,Shelley Moore Capito,241
+Jackson,16b,U.S. House,2,Republican,Shelley Moore Capito,180
+Jackson,17a,U.S. House,2,Republican,Shelley Moore Capito,367
+Jackson,17b,U.S. House,2,Republican,Shelley Moore Capito,258
+Jackson,18,U.S. House,2,Republican,Shelley Moore Capito,153
+Jackson,19,U.S. House,2,Republican,Shelley Moore Capito,279
+Jackson,20,U.S. House,2,Republican,Shelley Moore Capito,178
+Jackson,21,U.S. House,2,Republican,Shelley Moore Capito,84
+Jackson,22,U.S. House,2,Republican,Shelley Moore Capito,398
+Jackson,23,U.S. House,2,Republican,Shelley Moore Capito,179
+Jackson,24,U.S. House,2,Republican,Shelley Moore Capito,85
+Jackson,25,U.S. House,2,Republican,Shelley Moore Capito,163
+Jackson,26,U.S. House,2,Republican,Shelley Moore Capito,101
+Jackson,27,U.S. House,2,Republican,Shelley Moore Capito,286
+Jackson,28,U.S. House,2,Republican,Shelley Moore Capito,120
+Jackson,29a,U.S. House,2,Republican,Shelley Moore Capito,241
+Jackson,29b,U.S. House,2,Republican,Shelley Moore Capito,199
+Jackson,30,U.S. House,2,Republican,Shelley Moore Capito,163
+Jackson,31,U.S. House,2,Republican,Shelley Moore Capito,331
+Jackson,1,U.S. House,2,Democratic,Anne Barth,113
+Jackson,2,U.S. House,2,Democratic,Anne Barth,131
+Jackson,3,U.S. House,2,Democratic,Anne Barth,151
+Jackson,4,U.S. House,2,Democratic,Anne Barth,126
+Jackson,5,U.S. House,2,Democratic,Anne Barth,170
+Jackson,6,U.S. House,2,Democratic,Anne Barth,147
+Jackson,7,U.S. House,2,Democratic,Anne Barth,115
+Jackson,8,U.S. House,2,Democratic,Anne Barth,241
+Jackson,9,U.S. House,2,Democratic,Anne Barth,201
+Jackson,10,U.S. House,2,Democratic,Anne Barth,101
+Jackson,11a,U.S. House,2,Democratic,Anne Barth,107
+Jackson,11b,U.S. House,2,Democratic,Anne Barth,129
+Jackson,12,U.S. House,2,Democratic,Anne Barth,250
+Jackson,13,U.S. House,2,Democratic,Anne Barth,163
+Jackson,14,U.S. House,2,Democratic,Anne Barth,210
+Jackson,15a,U.S. House,2,Democratic,Anne Barth,198
+Jackson,15b,U.S. House,2,Democratic,Anne Barth,148
+Jackson,16a,U.S. House,2,Democratic,Anne Barth,183
+Jackson,16b,U.S. House,2,Democratic,Anne Barth,115
+Jackson,17a,U.S. House,2,Democratic,Anne Barth,186
+Jackson,17b,U.S. House,2,Democratic,Anne Barth,159
+Jackson,18,U.S. House,2,Democratic,Anne Barth,92
+Jackson,19,U.S. House,2,Democratic,Anne Barth,133
+Jackson,20,U.S. House,2,Democratic,Anne Barth,135
+Jackson,21,U.S. House,2,Democratic,Anne Barth,84
+Jackson,22,U.S. House,2,Democratic,Anne Barth,290
+Jackson,23,U.S. House,2,Democratic,Anne Barth,111
+Jackson,24,U.S. House,2,Democratic,Anne Barth,73
+Jackson,25,U.S. House,2,Democratic,Anne Barth,128
+Jackson,26,U.S. House,2,Democratic,Anne Barth,56
+Jackson,27,U.S. House,2,Democratic,Anne Barth,158
+Jackson,28,U.S. House,2,Democratic,Anne Barth,60
+Jackson,29a,U.S. House,2,Democratic,Anne Barth,113
+Jackson,29b,U.S. House,2,Democratic,Anne Barth,79
+Jackson,30,U.S. House,2,Democratic,Anne Barth,98
+Jackson,31,U.S. House,2,Democratic,Anne Barth,162
+Jackson,1,Governor,,Republican,Russ Weeks,73
+Jackson,2,Governor,,Republican,Russ Weeks,66
+Jackson,3,Governor,,Republican,Russ Weeks,119
+Jackson,4,Governor,,Republican,Russ Weeks,42
+Jackson,5,Governor,,Republican,Russ Weeks,66
+Jackson,6,Governor,,Republican,Russ Weeks,63
+Jackson,7,Governor,,Republican,Russ Weeks,27
+Jackson,8,Governor,,Republican,Russ Weeks,96
+Jackson,9,Governor,,Republican,Russ Weeks,76
+Jackson,10,Governor,,Republican,Russ Weeks,30
+Jackson,11a,Governor,,Republican,Russ Weeks,81
+Jackson,11b,Governor,,Republican,Russ Weeks,71
+Jackson,12,Governor,,Republican,Russ Weeks,165
+Jackson,13,Governor,,Republican,Russ Weeks,120
+Jackson,14,Governor,,Republican,Russ Weeks,83
+Jackson,15a,Governor,,Republican,Russ Weeks,137
+Jackson,15b,Governor,,Republican,Russ Weeks,102
+Jackson,16a,Governor,,Republican,Russ Weeks,112
+Jackson,16b,Governor,,Republican,Russ Weeks,84
+Jackson,17a,Governor,,Republican,Russ Weeks,179
+Jackson,17b,Governor,,Republican,Russ Weeks,107
+Jackson,18,Governor,,Republican,Russ Weeks,59
+Jackson,19,Governor,,Republican,Russ Weeks,129
+Jackson,20,Governor,,Republican,Russ Weeks,91
+Jackson,21,Governor,,Republican,Russ Weeks,33
+Jackson,22,Governor,,Republican,Russ Weeks,199
+Jackson,23,Governor,,Republican,Russ Weeks,81
+Jackson,24,Governor,,Republican,Russ Weeks,43
+Jackson,25,Governor,,Republican,Russ Weeks,76
+Jackson,26,Governor,,Republican,Russ Weeks,49
+Jackson,27,Governor,,Republican,Russ Weeks,127
+Jackson,28,Governor,,Republican,Russ Weeks,81
+Jackson,29a,Governor,,Republican,Russ Weeks,128
+Jackson,29b,Governor,,Republican,Russ Weeks,102
+Jackson,30,Governor,,Republican,Russ Weeks,112
+Jackson,31,Governor,,Republican,Russ Weeks,183
+Jackson,1,Governor,,Democratic,Joe Manchin III,195
+Jackson,2,Governor,,Democratic,Joe Manchin III,185
+Jackson,3,Governor,,Democratic,Joe Manchin III,256
+Jackson,4,Governor,,Democratic,Joe Manchin III,187
+Jackson,5,Governor,,Democratic,Joe Manchin III,250
+Jackson,6,Governor,,Democratic,Joe Manchin III,231
+Jackson,7,Governor,,Democratic,Joe Manchin III,157
+Jackson,8,Governor,,Democratic,Joe Manchin III,399
+Jackson,9,Governor,,Democratic,Joe Manchin III,284
+Jackson,10,Governor,,Democratic,Joe Manchin III,131
+Jackson,11a,Governor,,Democratic,Joe Manchin III,184
+Jackson,11b,Governor,,Democratic,Joe Manchin III,240
+Jackson,12,Governor,,Democratic,Joe Manchin III,386
+Jackson,13,Governor,,Democratic,Joe Manchin III,254
+Jackson,14,Governor,,Democratic,Joe Manchin III,307
+Jackson,15a,Governor,,Democratic,Joe Manchin III,301
+Jackson,15b,Governor,,Democratic,Joe Manchin III,254
+Jackson,16a,Governor,,Democratic,Joe Manchin III,295
+Jackson,16b,Governor,,Democratic,Joe Manchin III,192
+Jackson,17a,Governor,,Democratic,Joe Manchin III,341
+Jackson,17b,Governor,,Democratic,Joe Manchin III,290
+Jackson,18,Governor,,Democratic,Joe Manchin III,174
+Jackson,19,Governor,,Democratic,Joe Manchin III,253
+Jackson,20,Governor,,Democratic,Joe Manchin III,198
+Jackson,21,Governor,,Democratic,Joe Manchin III,123
+Jackson,22,Governor,,Democratic,Joe Manchin III,441
+Jackson,23,Governor,,Democratic,Joe Manchin III,192
+Jackson,24,Governor,,Democratic,Joe Manchin III,110
+Jackson,25,Governor,,Democratic,Joe Manchin III,206
+Jackson,26,Governor,,Democratic,Joe Manchin III,97
+Jackson,27,Governor,,Democratic,Joe Manchin III,294
+Jackson,28,Governor,,Democratic,Joe Manchin III,86
+Jackson,29a,Governor,,Democratic,Joe Manchin III,203
+Jackson,29b,Governor,,Democratic,Joe Manchin III,154
+Jackson,30,Governor,,Democratic,Joe Manchin III,127
+Jackson,31,Governor,,Democratic,Joe Manchin III,256
+Jackson,1,Governor,,Mountain,Jesse Johnson,8
+Jackson,2,Governor,,Mountain,Jesse Johnson,20
+Jackson,3,Governor,,Mountain,Jesse Johnson,23
+Jackson,4,Governor,,Mountain,Jesse Johnson,15
+Jackson,5,Governor,,Mountain,Jesse Johnson,11
+Jackson,6,Governor,,Mountain,Jesse Johnson,13
+Jackson,7,Governor,,Mountain,Jesse Johnson,6
+Jackson,8,Governor,,Mountain,Jesse Johnson,9
+Jackson,9,Governor,,Mountain,Jesse Johnson,10
+Jackson,10,Governor,,Mountain,Jesse Johnson,11
+Jackson,11a,Governor,,Mountain,Jesse Johnson,11
+Jackson,11b,Governor,,Mountain,Jesse Johnson,17
+Jackson,12,Governor,,Mountain,Jesse Johnson,21
+Jackson,13,Governor,,Mountain,Jesse Johnson,16
+Jackson,14,Governor,,Mountain,Jesse Johnson,26
+Jackson,15a,Governor,,Mountain,Jesse Johnson,26
+Jackson,15b,Governor,,Mountain,Jesse Johnson,22
+Jackson,16a,Governor,,Mountain,Jesse Johnson,16
+Jackson,16b,Governor,,Mountain,Jesse Johnson,13
+Jackson,17a,Governor,,Mountain,Jesse Johnson,28
+Jackson,17b,Governor,,Mountain,Jesse Johnson,14
+Jackson,18,Governor,,Mountain,Jesse Johnson,11
+Jackson,19,Governor,,Mountain,Jesse Johnson,21
+Jackson,20,Governor,,Mountain,Jesse Johnson,22
+Jackson,21,Governor,,Mountain,Jesse Johnson,12
+Jackson,22,Governor,,Mountain,Jesse Johnson,36
+Jackson,23,Governor,,Mountain,Jesse Johnson,14
+Jackson,24,Governor,,Mountain,Jesse Johnson,6
+Jackson,25,Governor,,Mountain,Jesse Johnson,7
+Jackson,26,Governor,,Mountain,Jesse Johnson,11
+Jackson,27,Governor,,Mountain,Jesse Johnson,21
+Jackson,28,Governor,,Mountain,Jesse Johnson,14
+Jackson,29a,Governor,,Mountain,Jesse Johnson,22
+Jackson,29b,Governor,,Mountain,Jesse Johnson,20
+Jackson,30,Governor,,Mountain,Jesse Johnson,19
+Jackson,31,Governor,,Mountain,Jesse Johnson,49
+Jackson,1,Secretary of State,,Republican,Charles Minimah,91
+Jackson,2,Secretary of State,,Republican,Charles Minimah,83
+Jackson,3,Secretary of State,,Republican,Charles Minimah,152
+Jackson,4,Secretary of State,,Republican,Charles Minimah,68
+Jackson,5,Secretary of State,,Republican,Charles Minimah,86
+Jackson,6,Secretary of State,,Republican,Charles Minimah,82
+Jackson,7,Secretary of State,,Republican,Charles Minimah,37
+Jackson,8,Secretary of State,,Republican,Charles Minimah,146
+Jackson,9,Secretary of State,,Republican,Charles Minimah,84
+Jackson,10,Secretary of State,,Republican,Charles Minimah,40
+Jackson,11a,Secretary of State,,Republican,Charles Minimah,104
+Jackson,11b,Secretary of State,,Republican,Charles Minimah,98
+Jackson,12,Secretary of State,,Republican,Charles Minimah,181
+Jackson,13,Secretary of State,,Republican,Charles Minimah,129
+Jackson,14,Secretary of State,,Republican,Charles Minimah,120
+Jackson,15a,Secretary of State,,Republican,Charles Minimah,150
+Jackson,15b,Secretary of State,,Republican,Charles Minimah,124
+Jackson,16a,Secretary of State,,Republican,Charles Minimah,134
+Jackson,16b,Secretary of State,,Republican,Charles Minimah,108
+Jackson,17a,Secretary of State,,Republican,Charles Minimah,205
+Jackson,17b,Secretary of State,,Republican,Charles Minimah,130
+Jackson,18,Secretary of State,,Republican,Charles Minimah,76
+Jackson,19,Secretary of State,,Republican,Charles Minimah,157
+Jackson,20,Secretary of State,,Republican,Charles Minimah,102
+Jackson,21,Secretary of State,,Republican,Charles Minimah,48
+Jackson,22,Secretary of State,,Republican,Charles Minimah,212
+Jackson,23,Secretary of State,,Republican,Charles Minimah,99
+Jackson,24,Secretary of State,,Republican,Charles Minimah,50
+Jackson,25,Secretary of State,,Republican,Charles Minimah,89
+Jackson,26,Secretary of State,,Republican,Charles Minimah,56
+Jackson,27,Secretary of State,,Republican,Charles Minimah,178
+Jackson,28,Secretary of State,,Republican,Charles Minimah,84
+Jackson,29a,Secretary of State,,Republican,Charles Minimah,113
+Jackson,29b,Secretary of State,,Republican,Charles Minimah,102
+Jackson,30,Secretary of State,,Republican,Charles Minimah,113
+Jackson,31,Secretary of State,,Republican,Charles Minimah,196
+Jackson,1,Secretary of State,,Democratic,Natalie Tennant,173
+Jackson,2,Secretary of State,,Democratic,Natalie Tennant,177
+Jackson,3,Secretary of State,,Democratic,Natalie Tennant,231
+Jackson,4,Secretary of State,,Democratic,Natalie Tennant,175
+Jackson,5,Secretary of State,,Democratic,Natalie Tennant,235
+Jackson,6,Secretary of State,,Democratic,Natalie Tennant,214
+Jackson,7,Secretary of State,,Democratic,Natalie Tennant,151
+Jackson,8,Secretary of State,,Democratic,Natalie Tennant,349
+Jackson,9,Secretary of State,,Democratic,Natalie Tennant,273
+Jackson,10,Secretary of State,,Democratic,Natalie Tennant,127
+Jackson,11a,Secretary of State,,Democratic,Natalie Tennant,166
+Jackson,11b,Secretary of State,,Democratic,Natalie Tennant,211
+Jackson,12,Secretary of State,,Democratic,Natalie Tennant,381
+Jackson,13,Secretary of State,,Democratic,Natalie Tennant,252
+Jackson,14,Secretary of State,,Democratic,Natalie Tennant,293
+Jackson,15a,Secretary of State,,Democratic,Natalie Tennant,313
+Jackson,15b,Secretary of State,,Democratic,Natalie Tennant,241
+Jackson,16a,Secretary of State,,Democratic,Natalie Tennant,276
+Jackson,16b,Secretary of State,,Democratic,Natalie Tennant,174
+Jackson,17a,Secretary of State,,Democratic,Natalie Tennant,329
+Jackson,17b,Secretary of State,,Democratic,Natalie Tennant,265
+Jackson,18,Secretary of State,,Democratic,Natalie Tennant,153
+Jackson,19,Secretary of State,,Democratic,Natalie Tennant,240
+Jackson,20,Secretary of State,,Democratic,Natalie Tennant,192
+Jackson,21,Secretary of State,,Democratic,Natalie Tennant,114
+Jackson,22,Secretary of State,,Democratic,Natalie Tennant,450
+Jackson,23,Secretary of State,,Democratic,Natalie Tennant,182
+Jackson,24,Secretary of State,,Democratic,Natalie Tennant,103
+Jackson,25,Secretary of State,,Democratic,Natalie Tennant,188
+Jackson,26,Secretary of State,,Democratic,Natalie Tennant,90
+Jackson,27,Secretary of State,,Democratic,Natalie Tennant,258
+Jackson,28,Secretary of State,,Democratic,Natalie Tennant,97
+Jackson,29a,Secretary of State,,Democratic,Natalie Tennant,230
+Jackson,29b,Secretary of State,,Democratic,Natalie Tennant,169
+Jackson,30,Secretary of State,,Democratic,Natalie Tennant,143
+Jackson,31,Secretary of State,,Democratic,Natalie Tennant,287
+Jackson,1,State Auditor,,Democratic,Glen B. Gainer III,220
+Jackson,2,State Auditor,,Democratic,Glen B. Gainer III,212
+Jackson,3,State Auditor,,Democratic,Glen B. Gainer III,286
+Jackson,4,State Auditor,,Democratic,Glen B. Gainer III,212
+Jackson,5,State Auditor,,Democratic,Glen B. Gainer III,281
+Jackson,6,State Auditor,,Democratic,Glen B. Gainer III,248
+Jackson,7,State Auditor,,Democratic,Glen B. Gainer III,158
+Jackson,8,State Auditor,,Democratic,Glen B. Gainer III,429
+Jackson,9,State Auditor,,Democratic,Glen B. Gainer III,299
+Jackson,10,State Auditor,,Democratic,Glen B. Gainer III,143
+Jackson,11a,State Auditor,,Democratic,Glen B. Gainer III,220
+Jackson,11b,State Auditor,,Democratic,Glen B. Gainer III,255
+Jackson,12,State Auditor,,Democratic,Glen B. Gainer III,466
+Jackson,13,State Auditor,,Democratic,Glen B. Gainer III,287
+Jackson,14,State Auditor,,Democratic,Glen B. Gainer III,353
+Jackson,15a,State Auditor,,Democratic,Glen B. Gainer III,357
+Jackson,15b,State Auditor,,Democratic,Glen B. Gainer III,289
+Jackson,16a,State Auditor,,Democratic,Glen B. Gainer III,329
+Jackson,16b,State Auditor,,Democratic,Glen B. Gainer III,213
+Jackson,17a,State Auditor,,Democratic,Glen B. Gainer III,397
+Jackson,17b,State Auditor,,Democratic,Glen B. Gainer III,317
+Jackson,18,State Auditor,,Democratic,Glen B. Gainer III,181
+Jackson,19,State Auditor,,Democratic,Glen B. Gainer III,288
+Jackson,20,State Auditor,,Democratic,Glen B. Gainer III,225
+Jackson,21,State Auditor,,Democratic,Glen B. Gainer III,134
+Jackson,22,State Auditor,,Democratic,Glen B. Gainer III,498
+Jackson,23,State Auditor,,Democratic,Glen B. Gainer III,208
+Jackson,24,State Auditor,,Democratic,Glen B. Gainer III,121
+Jackson,25,State Auditor,,Democratic,Glen B. Gainer III,224
+Jackson,26,State Auditor,,Democratic,Glen B. Gainer III,108
+Jackson,27,State Auditor,,Democratic,Glen B. Gainer III,331
+Jackson,28,State Auditor,,Democratic,Glen B. Gainer III,112
+Jackson,29a,State Auditor,,Democratic,Glen B. Gainer III,253
+Jackson,29b,State Auditor,,Democratic,Glen B. Gainer III,202
+Jackson,30,State Auditor,,Democratic,Glen B. Gainer III,170
+Jackson,31,State Auditor,,Democratic,Glen B. Gainer III,341
+Jackson,1,State Treasurer,,Democratic,John D. Perdue,225
+Jackson,2,State Treasurer,,Democratic,John D. Perdue,214
+Jackson,3,State Treasurer,,Democratic,John D. Perdue,280
+Jackson,4,State Treasurer,,Democratic,John D. Perdue,210
+Jackson,5,State Treasurer,,Democratic,John D. Perdue,277
+Jackson,6,State Treasurer,,Democratic,John D. Perdue,237
+Jackson,7,State Treasurer,,Democratic,John D. Perdue,155
+Jackson,8,State Treasurer,,Democratic,John D. Perdue,424
+Jackson,9,State Treasurer,,Democratic,John D. Perdue,294
+Jackson,10,State Treasurer,,Democratic,John D. Perdue,141
+Jackson,11a,State Treasurer,,Democratic,John D. Perdue,222
+Jackson,11b,State Treasurer,,Democratic,John D. Perdue,252
+Jackson,12,State Treasurer,,Democratic,John D. Perdue,453
+Jackson,13,State Treasurer,,Democratic,John D. Perdue,280
+Jackson,14,State Treasurer,,Democratic,John D. Perdue,346
+Jackson,15a,State Treasurer,,Democratic,John D. Perdue,351
+Jackson,15b,State Treasurer,,Democratic,John D. Perdue,287
+Jackson,16a,State Treasurer,,Democratic,John D. Perdue,320
+Jackson,16b,State Treasurer,,Democratic,John D. Perdue,211
+Jackson,17a,State Treasurer,,Democratic,John D. Perdue,402
+Jackson,17b,State Treasurer,,Democratic,John D. Perdue,318
+Jackson,18,State Treasurer,,Democratic,John D. Perdue,180
+Jackson,19,State Treasurer,,Democratic,John D. Perdue,295
+Jackson,20,State Treasurer,,Democratic,John D. Perdue,221
+Jackson,21,State Treasurer,,Democratic,John D. Perdue,134
+Jackson,22,State Treasurer,,Democratic,John D. Perdue,495
+Jackson,23,State Treasurer,,Democratic,John D. Perdue,211
+Jackson,24,State Treasurer,,Democratic,John D. Perdue,121
+Jackson,25,State Treasurer,,Democratic,John D. Perdue,220
+Jackson,26,State Treasurer,,Democratic,John D. Perdue,109
+Jackson,27,State Treasurer,,Democratic,John D. Perdue,341
+Jackson,28,State Treasurer,,Democratic,John D. Perdue,107
+Jackson,29a,State Treasurer,,Democratic,John D. Perdue,251
+Jackson,29b,State Treasurer,,Democratic,John D. Perdue,195
+Jackson,30,State Treasurer,,Democratic,John D. Perdue,163
+Jackson,31,State Treasurer,,Democratic,John D. Perdue,331
+Jackson,1,Commissioner of Agriculture,,Republican,J. Michael Teets,108
+Jackson,2,Commissioner of Agriculture,,Republican,J. Michael Teets,88
+Jackson,3,Commissioner of Agriculture,,Republican,J. Michael Teets,162
+Jackson,4,Commissioner of Agriculture,,Republican,J. Michael Teets,84
+Jackson,5,Commissioner of Agriculture,,Republican,J. Michael Teets,106
+Jackson,6,Commissioner of Agriculture,,Republican,J. Michael Teets,92
+Jackson,7,Commissioner of Agriculture,,Republican,J. Michael Teets,53
+Jackson,8,Commissioner of Agriculture,,Republican,J. Michael Teets,168
+Jackson,9,Commissioner of Agriculture,,Republican,J. Michael Teets,109
+Jackson,10,Commissioner of Agriculture,,Republican,J. Michael Teets,41
+Jackson,11a,Commissioner of Agriculture,,Republican,J. Michael Teets,103
+Jackson,11b,Commissioner of Agriculture,,Republican,J. Michael Teets,129
+Jackson,12,Commissioner of Agriculture,,Republican,J. Michael Teets,201
+Jackson,13,Commissioner of Agriculture,,Republican,J. Michael Teets,151
+Jackson,14,Commissioner of Agriculture,,Republican,J. Michael Teets,129
+Jackson,15a,Commissioner of Agriculture,,Republican,J. Michael Teets,186
+Jackson,15b,Commissioner of Agriculture,,Republican,J. Michael Teets,144
+Jackson,16a,Commissioner of Agriculture,,Republican,J. Michael Teets,161
+Jackson,16b,Commissioner of Agriculture,,Republican,J. Michael Teets,115
+Jackson,17a,Commissioner of Agriculture,,Republican,J. Michael Teets,245
+Jackson,17b,Commissioner of Agriculture,,Republican,J. Michael Teets,161
+Jackson,18,Commissioner of Agriculture,,Republican,J. Michael Teets,102
+Jackson,19,Commissioner of Agriculture,,Republican,J. Michael Teets,177
+Jackson,20,Commissioner of Agriculture,,Republican,J. Michael Teets,119
+Jackson,21,Commissioner of Agriculture,,Republican,J. Michael Teets,54
+Jackson,22,Commissioner of Agriculture,,Republican,J. Michael Teets,295
+Jackson,23,Commissioner of Agriculture,,Republican,J. Michael Teets,113
+Jackson,24,Commissioner of Agriculture,,Republican,J. Michael Teets,57
+Jackson,25,Commissioner of Agriculture,,Republican,J. Michael Teets,103
+Jackson,26,Commissioner of Agriculture,,Republican,J. Michael Teets,67
+Jackson,27,Commissioner of Agriculture,,Republican,J. Michael Teets,215
+Jackson,28,Commissioner of Agriculture,,Republican,J. Michael Teets,97
+Jackson,29a,Commissioner of Agriculture,,Republican,J. Michael Teets,175
+Jackson,29b,Commissioner of Agriculture,,Republican,J. Michael Teets,130
+Jackson,30,Commissioner of Agriculture,,Republican,J. Michael Teets,125
+Jackson,31,Commissioner of Agriculture,,Republican,J. Michael Teets,244
+Jackson,1,Commissioner of Agriculture,,Democratic,Gus R. Douglas,160
+Jackson,2,Commissioner of Agriculture,,Democratic,Gus R. Douglas,173
+Jackson,3,Commissioner of Agriculture,,Democratic,Gus R. Douglas,223
+Jackson,4,Commissioner of Agriculture,,Democratic,Gus R. Douglas,159
+Jackson,5,Commissioner of Agriculture,,Democratic,Gus R. Douglas,214
+Jackson,6,Commissioner of Agriculture,,Democratic,Gus R. Douglas,204
+Jackson,7,Commissioner of Agriculture,,Democratic,Gus R. Douglas,130
+Jackson,8,Commissioner of Agriculture,,Democratic,Gus R. Douglas,325
+Jackson,9,Commissioner of Agriculture,,Democratic,Gus R. Douglas,249
+Jackson,10,Commissioner of Agriculture,,Democratic,Gus R. Douglas,124
+Jackson,11a,Commissioner of Agriculture,,Democratic,Gus R. Douglas,164
+Jackson,11b,Commissioner of Agriculture,,Democratic,Gus R. Douglas,191
+Jackson,12,Commissioner of Agriculture,,Democratic,Gus R. Douglas,355
+Jackson,13,Commissioner of Agriculture,,Democratic,Gus R. Douglas,223
+Jackson,14,Commissioner of Agriculture,,Democratic,Gus R. Douglas,279
+Jackson,15a,Commissioner of Agriculture,,Democratic,Gus R. Douglas,271
+Jackson,15b,Commissioner of Agriculture,,Democratic,Gus R. Douglas,222
+Jackson,16a,Commissioner of Agriculture,,Democratic,Gus R. Douglas,253
+Jackson,16b,Commissioner of Agriculture,,Democratic,Gus R. Douglas,166
+Jackson,17a,Commissioner of Agriculture,,Democratic,Gus R. Douglas,294
+Jackson,17b,Commissioner of Agriculture,,Democratic,Gus R. Douglas,242
+Jackson,18,Commissioner of Agriculture,,Democratic,Gus R. Douglas,132
+Jackson,19,Commissioner of Agriculture,,Democratic,Gus R. Douglas,214
+Jackson,20,Commissioner of Agriculture,,Democratic,Gus R. Douglas,187
+Jackson,21,Commissioner of Agriculture,,Democratic,Gus R. Douglas,111
+Jackson,22,Commissioner of Agriculture,,Democratic,Gus R. Douglas,364
+Jackson,23,Commissioner of Agriculture,,Democratic,Gus R. Douglas,170
+Jackson,24,Commissioner of Agriculture,,Democratic,Gus R. Douglas,101
+Jackson,25,Commissioner of Agriculture,,Democratic,Gus R. Douglas,182
+Jackson,26,Commissioner of Agriculture,,Democratic,Gus R. Douglas,86
+Jackson,27,Commissioner of Agriculture,,Democratic,Gus R. Douglas,215
+Jackson,28,Commissioner of Agriculture,,Democratic,Gus R. Douglas,85
+Jackson,29a,Commissioner of Agriculture,,Democratic,Gus R. Douglas,168
+Jackson,29b,Commissioner of Agriculture,,Democratic,Gus R. Douglas,133
+Jackson,30,Commissioner of Agriculture,,Democratic,Gus R. Douglas,127
+Jackson,31,Commissioner of Agriculture,,Democratic,Gus R. Douglas,233
+Jackson,1,Attorney General,,Republican,Dan Greear,140
+Jackson,2,Attorney General,,Republican,Dan Greear,129
+Jackson,3,Attorney General,,Republican,Dan Greear,210
+Jackson,4,Attorney General,,Republican,Dan Greear,93
+Jackson,5,Attorney General,,Republican,Dan Greear,142
+Jackson,6,Attorney General,,Republican,Dan Greear,117
+Jackson,7,Attorney General,,Republican,Dan Greear,59
+Jackson,8,Attorney General,,Republican,Dan Greear,252
+Jackson,9,Attorney General,,Republican,Dan Greear,156
+Jackson,10,Attorney General,,Republican,Dan Greear,59
+Jackson,11a,Attorney General,,Republican,Dan Greear,142
+Jackson,11b,Attorney General,,Republican,Dan Greear,153
+Jackson,12,Attorney General,,Republican,Dan Greear,281
+Jackson,13,Attorney General,,Republican,Dan Greear,202
+Jackson,14,Attorney General,,Republican,Dan Greear,160
+Jackson,15a,Attorney General,,Republican,Dan Greear,241
+Jackson,15b,Attorney General,,Republican,Dan Greear,199
+Jackson,16a,Attorney General,,Republican,Dan Greear,210
+Jackson,16b,Attorney General,,Republican,Dan Greear,156
+Jackson,17a,Attorney General,,Republican,Dan Greear,315
+Jackson,17b,Attorney General,,Republican,Dan Greear,218
+Jackson,18,Attorney General,,Republican,Dan Greear,124
+Jackson,19,Attorney General,,Republican,Dan Greear,249
+Jackson,20,Attorney General,,Republican,Dan Greear,151
+Jackson,21,Attorney General,,Republican,Dan Greear,66
+Jackson,22,Attorney General,,Republican,Dan Greear,354
+Jackson,23,Attorney General,,Republican,Dan Greear,166
+Jackson,24,Attorney General,,Republican,Dan Greear,84
+Jackson,25,Attorney General,,Republican,Dan Greear,127
+Jackson,26,Attorney General,,Republican,Dan Greear,84
+Jackson,27,Attorney General,,Republican,Dan Greear,265
+Jackson,28,Attorney General,,Republican,Dan Greear,106
+Jackson,29a,Attorney General,,Republican,Dan Greear,213
+Jackson,29b,Attorney General,,Republican,Dan Greear,176
+Jackson,30,Attorney General,,Republican,Dan Greear,158
+Jackson,31,Attorney General,,Republican,Dan Greear,315
+Jackson,1,Attorney General,,Democratic,Darrell McGraw,124
+Jackson,2,Attorney General,,Democratic,Darrell McGraw,135
+Jackson,3,Attorney General,,Democratic,Darrell McGraw,175
+Jackson,4,Attorney General,,Democratic,Darrell McGraw,148
+Jackson,5,Attorney General,,Democratic,Darrell McGraw,180
+Jackson,6,Attorney General,,Democratic,Darrell McGraw,181
+Jackson,7,Attorney General,,Democratic,Darrell McGraw,130
+Jackson,8,Attorney General,,Democratic,Darrell McGraw,248
+Jackson,9,Attorney General,,Democratic,Darrell McGraw,206
+Jackson,10,Attorney General,,Democratic,Darrell McGraw,110
+Jackson,11a,Attorney General,,Democratic,Darrell McGraw,130
+Jackson,11b,Attorney General,,Democratic,Darrell McGraw,171
+Jackson,12,Attorney General,,Democratic,Darrell McGraw,284
+Jackson,13,Attorney General,,Democratic,Darrell McGraw,174
+Jackson,14,Attorney General,,Democratic,Darrell McGraw,245
+Jackson,15a,Attorney General,,Democratic,Darrell McGraw,218
+Jackson,15b,Attorney General,,Democratic,Darrell McGraw,167
+Jackson,16a,Attorney General,,Democratic,Darrell McGraw,207
+Jackson,16b,Attorney General,,Democratic,Darrell McGraw,127
+Jackson,17a,Attorney General,,Democratic,Darrell McGraw,226
+Jackson,17b,Attorney General,,Democratic,Darrell McGraw,180
+Jackson,18,Attorney General,,Democratic,Darrell McGraw,112
+Jackson,19,Attorney General,,Democratic,Darrell McGraw,145
+Jackson,20,Attorney General,,Democratic,Darrell McGraw,147
+Jackson,21,Attorney General,,Democratic,Darrell McGraw,99
+Jackson,22,Attorney General,,Democratic,Darrell McGraw,306
+Jackson,23,Attorney General,,Democratic,Darrell McGraw,112
+Jackson,24,Attorney General,,Democratic,Darrell McGraw,70
+Jackson,25,Attorney General,,Democratic,Darrell McGraw,154
+Jackson,26,Attorney General,,Democratic,Darrell McGraw,66
+Jackson,27,Attorney General,,Democratic,Darrell McGraw,168
+Jackson,28,Attorney General,,Democratic,Darrell McGraw,73
+Jackson,29a,Attorney General,,Democratic,Darrell McGraw,130
+Jackson,29b,Attorney General,,Democratic,Darrell McGraw,93
+Jackson,30,Attorney General,,Democratic,Darrell McGraw,95
+Jackson,31,Attorney General,,Democratic,Darrell McGraw,168
+Jackson,1,State Senate,4,Republican,Karen Facemyer,145
+Jackson,2,State Senate,4,Republican,Karen Facemyer,138
+Jackson,3,State Senate,4,Republican,Karen Facemyer,234
+Jackson,4,State Senate,4,Republican,Karen Facemyer,110
+Jackson,5,State Senate,4,Republican,Karen Facemyer,151
+Jackson,6,State Senate,4,Republican,Karen Facemyer,136
+Jackson,7,State Senate,4,Republican,Karen Facemyer,73
+Jackson,8,State Senate,4,Republican,Karen Facemyer,236
+Jackson,9,State Senate,4,Republican,Karen Facemyer,153
+Jackson,10,State Senate,4,Republican,Karen Facemyer,70
+Jackson,11a,State Senate,4,Republican,Karen Facemyer,157
+Jackson,11b,State Senate,4,Republican,Karen Facemyer,196
+Jackson,12,State Senate,4,Republican,Karen Facemyer,302
+Jackson,13,State Senate,4,Republican,Karen Facemyer,208
+Jackson,14,State Senate,4,Republican,Karen Facemyer,208
+Jackson,15a,State Senate,4,Republican,Karen Facemyer,254
+Jackson,15b,State Senate,4,Republican,Karen Facemyer,221
+Jackson,16a,State Senate,4,Republican,Karen Facemyer,229
+Jackson,16b,State Senate,4,Republican,Karen Facemyer,183
+Jackson,17a,State Senate,4,Republican,Karen Facemyer,342
+Jackson,17b,State Senate,4,Republican,Karen Facemyer,230
+Jackson,18,State Senate,4,Republican,Karen Facemyer,141
+Jackson,19,State Senate,4,Republican,Karen Facemyer,263
+Jackson,20,State Senate,4,Republican,Karen Facemyer,174
+Jackson,21,State Senate,4,Republican,Karen Facemyer,83
+Jackson,22,State Senate,4,Republican,Karen Facemyer,361
+Jackson,23,State Senate,4,Republican,Karen Facemyer,176
+Jackson,24,State Senate,4,Republican,Karen Facemyer,79
+Jackson,25,State Senate,4,Republican,Karen Facemyer,162
+Jackson,26,State Senate,4,Republican,Karen Facemyer,85
+Jackson,27,State Senate,4,Republican,Karen Facemyer,261
+Jackson,28,State Senate,4,Republican,Karen Facemyer,111
+Jackson,29a,State Senate,4,Republican,Karen Facemyer,211
+Jackson,29b,State Senate,4,Republican,Karen Facemyer,185
+Jackson,30,State Senate,4,Republican,Karen Facemyer,162
+Jackson,31,State Senate,4,Republican,Karen Facemyer,313
+Jackson,1,State Senate,4,Democratic,Rocky Holmes,122
+Jackson,2,State Senate,4,Democratic,Rocky Holmes,128
+Jackson,3,State Senate,4,Democratic,Rocky Holmes,155
+Jackson,4,State Senate,4,Democratic,Rocky Holmes,133
+Jackson,5,State Senate,4,Democratic,Rocky Holmes,176
+Jackson,6,State Senate,4,Democratic,Rocky Holmes,162
+Jackson,7,State Senate,4,Democratic,Rocky Holmes,117
+Jackson,8,State Senate,4,Democratic,Rocky Holmes,265
+Jackson,9,State Senate,4,Democratic,Rocky Holmes,212
+Jackson,10,State Senate,4,Democratic,Rocky Holmes,96
+Jackson,11a,State Senate,4,Democratic,Rocky Holmes,117
+Jackson,11b,State Senate,4,Democratic,Rocky Holmes,127
+Jackson,12,State Senate,4,Democratic,Rocky Holmes,259
+Jackson,13,State Senate,4,Democratic,Rocky Holmes,176
+Jackson,14,State Senate,4,Democratic,Rocky Holmes,203
+Jackson,15a,State Senate,4,Democratic,Rocky Holmes,209
+Jackson,15b,State Senate,4,Democratic,Rocky Holmes,151
+Jackson,16a,State Senate,4,Democratic,Rocky Holmes,188
+Jackson,16b,State Senate,4,Democratic,Rocky Holmes,103
+Jackson,17a,State Senate,4,Democratic,Rocky Holmes,205
+Jackson,17b,State Senate,4,Democratic,Rocky Holmes,171
+Jackson,18,State Senate,4,Democratic,Rocky Holmes,92
+Jackson,19,State Senate,4,Democratic,Rocky Holmes,138
+Jackson,20,State Senate,4,Democratic,Rocky Holmes,130
+Jackson,21,State Senate,4,Democratic,Rocky Holmes,84
+Jackson,22,State Senate,4,Democratic,Rocky Holmes,305
+Jackson,23,State Senate,4,Democratic,Rocky Holmes,107
+Jackson,24,State Senate,4,Democratic,Rocky Holmes,78
+Jackson,25,State Senate,4,Democratic,Rocky Holmes,123
+Jackson,26,State Senate,4,Democratic,Rocky Holmes,67
+Jackson,27,State Senate,4,Democratic,Rocky Holmes,172
+Jackson,28,State Senate,4,Democratic,Rocky Holmes,66
+Jackson,29a,State Senate,4,Democratic,Rocky Holmes,134
+Jackson,29b,State Senate,4,Democratic,Rocky Holmes,82
+Jackson,30,State Senate,4,Democratic,Rocky Holmes,90
+Jackson,31,State Senate,4,Democratic,Rocky Holmes,169
+Jackson,25,State House,11,Republican,Bob Ashley,201
+Jackson,26,State House,11,Republican,Bob Ashley,122
+Jackson,28,State House,11,Republican,Bob Ashley,145
+Jackson,30,State House,11,Republican,Bob Ashley,199
+Jackson,1,State House,12,Republican,Mitch B. Carmichael,152
+Jackson,2,State House,12,Republican,Mitch B. Carmichael,131
+Jackson,3,State House,12,Republican,Mitch B. Carmichael,224
+Jackson,4,State House,12,Republican,Mitch B. Carmichael,102
+Jackson,7,State House,12,Republican,Mitch B. Carmichael,72
+Jackson,8,State House,12,Republican,Mitch B. Carmichael,222
+Jackson,9,State House,12,Republican,Mitch B. Carmichael,145
+Jackson,10,State House,12,Republican,Mitch B. Carmichael,66
+Jackson,11a,State House,12,Republican,Mitch B. Carmichael,157
+Jackson,11b,State House,12,Republican,Mitch B. Carmichael,173
+Jackson,16a,State House,12,Republican,Mitch B. Carmichael,200
+Jackson,16b,State House,12,Republican,Mitch B. Carmichael,160
+Jackson,17a,State House,12,Republican,Mitch B. Carmichael,321
+Jackson,17b,State House,12,Republican,Mitch B. Carmichael,225
+Jackson,18,State House,12,Republican,Mitch B. Carmichael,135
+Jackson,19,State House,12,Republican,Mitch B. Carmichael,240
+Jackson,20,State House,12,Republican,Mitch B. Carmichael,149
+Jackson,21,State House,12,Republican,Mitch B. Carmichael,81
+Jackson,22,State House,12,Republican,Mitch B. Carmichael,345
+Jackson,23,State House,12,Republican,Mitch B. Carmichael,163
+Jackson,24,State House,12,Republican,Mitch B. Carmichael,78
+Jackson,27,State House,12,Republican,Mitch B. Carmichael,256
+Jackson,29a,State House,12,Republican,Mitch B. Carmichael,204
+Jackson,29b,State House,12,Republican,Mitch B. Carmichael,175
+Jackson,31,State House,12,Republican,Mitch B. Carmichael,278
+Jackson,1,State House,12,Democratic,Jo Boggess Phillips,117
+Jackson,2,State House,12,Democratic,Jo Boggess Phillips,132
+Jackson,3,State House,12,Democratic,Jo Boggess Phillips,174
+Jackson,4,State House,12,Democratic,Jo Boggess Phillips,140
+Jackson,7,State House,12,Democratic,Jo Boggess Phillips,117
+Jackson,8,State House,12,Democratic,Jo Boggess Phillips,279
+Jackson,9,State House,12,Democratic,Jo Boggess Phillips,219
+Jackson,10,State House,12,Democratic,Jo Boggess Phillips,100
+Jackson,11a,State House,12,Democratic,Jo Boggess Phillips,115
+Jackson,11b,State House,12,Democratic,Jo Boggess Phillips,155
+Jackson,16a,State House,12,Democratic,Jo Boggess Phillips,212
+Jackson,16b,State House,12,Democratic,Jo Boggess Phillips,127
+Jackson,17a,State House,12,Democratic,Jo Boggess Phillips,223
+Jackson,17b,State House,12,Democratic,Jo Boggess Phillips,183
+Jackson,18,State House,12,Democratic,Jo Boggess Phillips,102
+Jackson,19,State House,12,Democratic,Jo Boggess Phillips,160
+Jackson,20,State House,12,Democratic,Jo Boggess Phillips,158
+Jackson,21,State House,12,Democratic,Jo Boggess Phillips,88
+Jackson,22,State House,12,Democratic,Jo Boggess Phillips,323
+Jackson,23,State House,12,Democratic,Jo Boggess Phillips,123
+Jackson,24,State House,12,Democratic,Jo Boggess Phillips,80
+Jackson,27,State House,12,Democratic,Jo Boggess Phillips,179
+Jackson,29a,State House,12,Democratic,Jo Boggess Phillips,139
+Jackson,29b,State House,12,Democratic,Jo Boggess Phillips,92
+Jackson,31,State House,12,Democratic,Jo Boggess Phillips,204
+Jackson,5,State House,13,Republican,James McCormick II,120
+Jackson,6,State House,13,Republican,James McCormick II,109
+Jackson,12,State House,13,Republican,James McCormick II,261
+Jackson,13,State House,13,Republican,James McCormick II,180
+Jackson,14,State House,13,Republican,James McCormick II,176
+Jackson,15a,State House,13,Republican,James McCormick II,212
+Jackson,15b,State House,13,Republican,James McCormick II,180
+Jackson,5,State House,13,Republican,Brian Scott,85
+Jackson,6,State House,13,Republican,Brian Scott,82
+Jackson,12,State House,13,Republican,Brian Scott,176
+Jackson,13,State House,13,Republican,Brian Scott,138
+Jackson,14,State House,13,Republican,Brian Scott,97
+Jackson,15a,State House,13,Republican,Brian Scott,157
+Jackson,15b,State House,13,Republican,Brian Scott,111
+Jackson,5,State House,13,Democratic,Brady Paxton,196
+Jackson,6,State House,13,Democratic,Brady Paxton,183
+Jackson,12,State House,13,Democratic,Brady Paxton,308
+Jackson,13,State House,13,Democratic,Brady Paxton,192
+Jackson,14,State House,13,Democratic,Brady Paxton,242
+Jackson,15a,State House,13,Democratic,Brady Paxton,246
+Jackson,15b,State House,13,Democratic,Brady Paxton,197
+Jackson,5,State House,13,Democratic,Dale Martin,148
+Jackson,6,State House,13,Democratic,Dale Martin,142
+Jackson,12,State House,13,Democratic,Dale Martin,220
+Jackson,13,State House,13,Democratic,Dale Martin,139
+Jackson,14,State House,13,Democratic,Dale Martin,208
+Jackson,15a,State House,13,Democratic,Dale Martin,190
+Jackson,15b,State House,13,Democratic,Dale Martin,145
