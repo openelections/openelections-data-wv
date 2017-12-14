@@ -1,0 +1,197 @@
+county,precinct,office,district,party,candidate,votes
+Webster,2,U.S. Senate,,REP,John R. Raese,87
+Webster,3,U.S. Senate,,REP,John R. Raese,60
+Webster,4,U.S. Senate,,REP,John R. Raese,51
+Webster,5,U.S. Senate,,REP,John R. Raese,57
+Webster,8,U.S. Senate,,REP,John R. Raese,71
+Webster,10,U.S. Senate,,REP,John R. Raese,22
+Webster,15,U.S. Senate,,REP,John R. Raese,79
+Webster,18,U.S. Senate,,REP,John R. Raese,32
+Webster,21,U.S. Senate,,REP,John R. Raese,39
+Webster,22,U.S. Senate,,REP,John R. Raese,58
+Webster,23,U.S. Senate,,REP,John R. Raese,67
+Webster,24,U.S. Senate,,REP,John R. Raese,76
+Webster,27,U.S. Senate,,REP,John R. Raese,32
+Webster,29,U.S. Senate,,REP,John R. Raese,22
+Webster,2,U.S. Senate,,DEM,Joe Manchin III,126
+Webster,3,U.S. Senate,,DEM,Joe Manchin III,130
+Webster,4,U.S. Senate,,DEM,Joe Manchin III,148
+Webster,5,U.S. Senate,,DEM,Joe Manchin III,95
+Webster,8,U.S. Senate,,DEM,Joe Manchin III,158
+Webster,10,U.S. Senate,,DEM,Joe Manchin III,19
+Webster,15,U.S. Senate,,DEM,Joe Manchin III,163
+Webster,18,U.S. Senate,,DEM,Joe Manchin III,53
+Webster,21,U.S. Senate,,DEM,Joe Manchin III,90
+Webster,22,U.S. Senate,,DEM,Joe Manchin III,116
+Webster,23,U.S. Senate,,DEM,Joe Manchin III,150
+Webster,24,U.S. Senate,,DEM,Joe Manchin III,113
+Webster,27,U.S. Senate,,DEM,Joe Manchin III,66
+Webster,29,U.S. Senate,,DEM,Joe Manchin III,60
+Webster,2,U.S. Senate,,CON,Jeff Becker,4
+Webster,3,U.S. Senate,,CON,Jeff Becker,3
+Webster,4,U.S. Senate,,CON,Jeff Becker,2
+Webster,5,U.S. Senate,,CON,Jeff Becker,3
+Webster,8,U.S. Senate,,CON,Jeff Becker,3
+Webster,10,U.S. Senate,,CON,Jeff Becker,0
+Webster,15,U.S. Senate,,CON,Jeff Becker,5
+Webster,18,U.S. Senate,,CON,Jeff Becker,2
+Webster,21,U.S. Senate,,CON,Jeff Becker,2
+Webster,22,U.S. Senate,,CON,Jeff Becker,2
+Webster,23,U.S. Senate,,CON,Jeff Becker,0
+Webster,24,U.S. Senate,,CON,Jeff Becker,5
+Webster,27,U.S. Senate,,CON,Jeff Becker,1
+Webster,29,U.S. Senate,,CON,Jeff Becker,1
+Webster,2,U.S. Senate,,MTN,Jesse Johnson,7
+Webster,3,U.S. Senate,,MTN,Jesse Johnson,2
+Webster,4,U.S. Senate,,MTN,Jesse Johnson,4
+Webster,5,U.S. Senate,,MTN,Jesse Johnson,4
+Webster,8,U.S. Senate,,MTN,Jesse Johnson,4
+Webster,10,U.S. Senate,,MTN,Jesse Johnson,0
+Webster,15,U.S. Senate,,MTN,Jesse Johnson,7
+Webster,18,U.S. Senate,,MTN,Jesse Johnson,4
+Webster,21,U.S. Senate,,MTN,Jesse Johnson,5
+Webster,22,U.S. Senate,,MTN,Jesse Johnson,6
+Webster,23,U.S. Senate,,MTN,Jesse Johnson,4
+Webster,24,U.S. Senate,,MTN,Jesse Johnson,5
+Webster,27,U.S. Senate,,MTN,Jesse Johnson,4
+Webster,29,U.S. Senate,,MTN,Jesse Johnson,3
+Webster,2,U.S. Senate,,,"John R. ""Rick"" Bartlett",1
+Webster,3,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,4,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,5,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,8,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,10,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,15,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,18,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,21,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,22,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,23,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,24,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,27,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,29,U.S. Senate,,,"John R. ""Rick"" Bartlett",0
+Webster,2,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,3,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,4,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,5,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,8,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,10,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,15,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,18,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,21,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,22,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,23,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,24,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,27,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,29,U.S. Senate,,,"Charles G. ""Bud"" Railey",0
+Webster,2,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",88
+Webster,3,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",63
+Webster,4,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",48
+Webster,5,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",49
+Webster,8,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",86
+Webster,10,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",19
+Webster,15,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",73
+Webster,18,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",31
+Webster,21,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",48
+Webster,22,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",58
+Webster,23,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",75
+Webster,24,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",68
+Webster,27,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",39
+Webster,29,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",28
+Webster,2,U.S. House,3,DEM,Nick Joe Rahall II,125
+Webster,3,U.S. House,3,DEM,Nick Joe Rahall II,124
+Webster,4,U.S. House,3,DEM,Nick Joe Rahall II,152
+Webster,5,U.S. House,3,DEM,Nick Joe Rahall II,103
+Webster,8,U.S. House,3,DEM,Nick Joe Rahall II,143
+Webster,10,U.S. House,3,DEM,Nick Joe Rahall II,21
+Webster,15,U.S. House,3,DEM,Nick Joe Rahall II,172
+Webster,18,U.S. House,3,DEM,Nick Joe Rahall II,58
+Webster,21,U.S. House,3,DEM,Nick Joe Rahall II,80
+Webster,22,U.S. House,3,DEM,Nick Joe Rahall II,121
+Webster,23,U.S. House,3,DEM,Nick Joe Rahall II,145
+Webster,24,U.S. House,3,DEM,Nick Joe Rahall II,129
+Webster,27,U.S. House,3,DEM,Nick Joe Rahall II,59
+Webster,29,U.S. House,3,DEM,Nick Joe Rahall II,54
+Webster,2,U.S. House,3,,Butch Paugh,1
+Webster,3,U.S. House,3,,Butch Paugh,0
+Webster,4,U.S. House,3,,Butch Paugh,0
+Webster,5,U.S. House,3,,Butch Paugh,0
+Webster,8,U.S. House,3,,Butch Paugh,0
+Webster,10,U.S. House,3,,Butch Paugh,0
+Webster,15,U.S. House,3,,Butch Paugh,0
+Webster,18,U.S. House,3,,Butch Paugh,0
+Webster,21,U.S. House,3,,Butch Paugh,0
+Webster,22,U.S. House,3,,Butch Paugh,1
+Webster,23,U.S. House,3,,Butch Paugh,0
+Webster,24,U.S. House,3,,Butch Paugh,0
+Webster,27,U.S. House,3,,Butch Paugh,0
+Webster,29,U.S. House,3,,Butch Paugh,0
+Webster,2,State Senate,11,REP,Adam Harris Milligan,65
+Webster,3,State Senate,11,REP,Adam Harris Milligan,56
+Webster,4,State Senate,11,REP,Adam Harris Milligan,36
+Webster,5,State Senate,11,REP,Adam Harris Milligan,40
+Webster,8,State Senate,11,REP,Adam Harris Milligan,55
+Webster,10,State Senate,11,REP,Adam Harris Milligan,18
+Webster,15,State Senate,11,REP,Adam Harris Milligan,65
+Webster,18,State Senate,11,REP,Adam Harris Milligan,20
+Webster,21,State Senate,11,REP,Adam Harris Milligan,29
+Webster,22,State Senate,11,REP,Adam Harris Milligan,48
+Webster,23,State Senate,11,REP,Adam Harris Milligan,51
+Webster,24,State Senate,11,REP,Adam Harris Milligan,58
+Webster,27,State Senate,11,REP,Adam Harris Milligan,24
+Webster,29,State Senate,11,REP,Adam Harris Milligan,14
+Webster,2,State Senate,11,DEM,Gregory A. Tucker,123
+Webster,3,State Senate,11,DEM,Gregory A. Tucker,103
+Webster,4,State Senate,11,DEM,Gregory A. Tucker,123
+Webster,5,State Senate,11,DEM,Gregory A. Tucker,92
+Webster,8,State Senate,11,DEM,Gregory A. Tucker,135
+Webster,10,State Senate,11,DEM,Gregory A. Tucker,16
+Webster,15,State Senate,11,DEM,Gregory A. Tucker,162
+Webster,18,State Senate,11,DEM,Gregory A. Tucker,56
+Webster,21,State Senate,11,DEM,Gregory A. Tucker,87
+Webster,22,State Senate,11,DEM,Gregory A. Tucker,106
+Webster,23,State Senate,11,DEM,Gregory A. Tucker,142
+Webster,24,State Senate,11,DEM,Gregory A. Tucker,103
+Webster,27,State Senate,11,DEM,Gregory A. Tucker,57
+Webster,29,State Senate,11,DEM,Gregory A. Tucker,56
+Webster,2,State Senate,11,LIB,Tom Thacker,18
+Webster,3,State Senate,11,LIB,Tom Thacker,21
+Webster,4,State Senate,11,LIB,Tom Thacker,23
+Webster,5,State Senate,11,LIB,Tom Thacker,13
+Webster,8,State Senate,11,LIB,Tom Thacker,28
+Webster,10,State Senate,11,LIB,Tom Thacker,4
+Webster,15,State Senate,11,LIB,Tom Thacker,18
+Webster,18,State Senate,11,LIB,Tom Thacker,8
+Webster,21,State Senate,11,LIB,Tom Thacker,11
+Webster,22,State Senate,11,LIB,Tom Thacker,18
+Webster,23,State Senate,11,LIB,Tom Thacker,14
+Webster,24,State Senate,11,LIB,Tom Thacker,28
+Webster,27,State Senate,11,LIB,Tom Thacker,11
+Webster,29,State Senate,11,LIB,Tom Thacker,10
+Webster,2,State House,36,DEM,Joe Talbott,148
+Webster,3,State House,36,DEM,Joe Talbott,124
+Webster,4,State House,36,DEM,Joe Talbott,142
+Webster,5,State House,36,DEM,Joe Talbott,105
+Webster,8,State House,36,DEM,Joe Talbott,165
+Webster,10,State House,36,DEM,Joe Talbott,21
+Webster,15,State House,36,DEM,Joe Talbott,170
+Webster,18,State House,36,DEM,Joe Talbott,55
+Webster,21,State House,36,DEM,Joe Talbott,80
+Webster,22,State House,36,DEM,Joe Talbott,112
+Webster,23,State House,36,DEM,Joe Talbott,144
+Webster,24,State House,36,DEM,Joe Talbott,144
+Webster,27,State House,36,DEM,Joe Talbott,70
+Webster,29,State House,36,DEM,Joe Talbott,63
+Webster,2,State House,36,IND,Duane Borchers Sr.,53
+Webster,3,State House,36,IND,Duane Borchers Sr.,51
+Webster,4,State House,36,IND,Duane Borchers Sr.,41
+Webster,5,State House,36,IND,Duane Borchers Sr.,39
+Webster,8,State House,36,IND,Duane Borchers Sr.,45
+Webster,10,State House,36,IND,Duane Borchers Sr.,11
+Webster,15,State House,36,IND,Duane Borchers Sr.,54
+Webster,18,State House,36,IND,Duane Borchers Sr.,28
+Webster,21,State House,36,IND,Duane Borchers Sr.,40
+Webster,22,State House,36,IND,Duane Borchers Sr.,47
+Webster,23,State House,36,IND,Duane Borchers Sr.,61
+Webster,24,State House,36,IND,Duane Borchers Sr.,28
+Webster,27,State House,36,IND,Duane Borchers Sr.,20
+Webster,29,State House,36,IND,Duane Borchers Sr.,14
