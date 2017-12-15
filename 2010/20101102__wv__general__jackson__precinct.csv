@@ -1,0 +1,368 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,1,U.S. Senate,,REP,John R. Raese,91
+Jackson,2,U.S. Senate,,REP,John R. Raese,87
+Jackson,3,U.S. Senate,,REP,John R. Raese,146
+Jackson,4,U.S. Senate,,REP,John R. Raese,75
+Jackson,5,U.S. Senate,,REP,John R. Raese,84
+Jackson,6,U.S. Senate,,REP,John R. Raese,88
+Jackson,7,U.S. Senate,,REP,John R. Raese,59
+Jackson,8,U.S. Senate,,REP,John R. Raese,165
+Jackson,9,U.S. Senate,,REP,John R. Raese,104
+Jackson,10,U.S. Senate,,REP,John R. Raese,27
+Jackson,11a,U.S. Senate,,REP,John R. Raese,96
+Jackson,11b,U.S. Senate,,REP,John R. Raese,98
+Jackson,12,U.S. Senate,,REP,John R. Raese,173
+Jackson,13,U.S. Senate,,REP,John R. Raese,179
+Jackson,14,U.S. Senate,,REP,John R. Raese,199
+Jackson,15a,U.S. Senate,,REP,John R. Raese,157
+Jackson,15b,U.S. Senate,,REP,John R. Raese,129
+Jackson,16a,U.S. Senate,,REP,John R. Raese,162
+Jackson,16b,U.S. Senate,,REP,John R. Raese,128
+Jackson,17a,U.S. Senate,,REP,John R. Raese,221
+Jackson,17b,U.S. Senate,,REP,John R. Raese,148
+Jackson,18,U.S. Senate,,REP,John R. Raese,99
+Jackson,19,U.S. Senate,,REP,John R. Raese,207
+Jackson,20,U.S. Senate,,REP,John R. Raese,121
+Jackson,21,U.S. Senate,,REP,John R. Raese,47
+Jackson,22,U.S. Senate,,REP,John R. Raese,259
+Jackson,23,U.S. Senate,,REP,John R. Raese,113
+Jackson,24,U.S. Senate,,REP,John R. Raese,64
+Jackson,25,U.S. Senate,,REP,John R. Raese,99
+Jackson,26,U.S. Senate,,REP,John R. Raese,68
+Jackson,27,U.S. Senate,,REP,John R. Raese,191
+Jackson,28,U.S. Senate,,REP,John R. Raese,75
+Jackson,29a,U.S. Senate,,REP,John R. Raese,159
+Jackson,29b,U.S. Senate,,REP,John R. Raese,131
+Jackson,30,U.S. Senate,,REP,John R. Raese,96
+Jackson,31,U.S. Senate,,REP,John R. Raese,218
+Jackson,1,U.S. Senate,,DEM,Joe Manchin III,116
+Jackson,2,U.S. Senate,,DEM,Joe Manchin III,123
+Jackson,3,U.S. Senate,,DEM,Joe Manchin III,139
+Jackson,4,U.S. Senate,,DEM,Joe Manchin III,111
+Jackson,5,U.S. Senate,,DEM,Joe Manchin III,142
+Jackson,6,U.S. Senate,,DEM,Joe Manchin III,142
+Jackson,7,U.S. Senate,,DEM,Joe Manchin III,116
+Jackson,8,U.S. Senate,,DEM,Joe Manchin III,223
+Jackson,9,U.S. Senate,,DEM,Joe Manchin III,194
+Jackson,10,U.S. Senate,,DEM,Joe Manchin III,66
+Jackson,11a,U.S. Senate,,DEM,Joe Manchin III,122
+Jackson,11b,U.S. Senate,,DEM,Joe Manchin III,131
+Jackson,12,U.S. Senate,,DEM,Joe Manchin III,163
+Jackson,13,U.S. Senate,,DEM,Joe Manchin III,183
+Jackson,14,U.S. Senate,,DEM,Joe Manchin III,241
+Jackson,15a,U.S. Senate,,DEM,Joe Manchin III,151
+Jackson,15b,U.S. Senate,,DEM,Joe Manchin III,135
+Jackson,16a,U.S. Senate,,DEM,Joe Manchin III,147
+Jackson,16b,U.S. Senate,,DEM,Joe Manchin III,124
+Jackson,17a,U.S. Senate,,DEM,Joe Manchin III,200
+Jackson,17b,U.S. Senate,,DEM,Joe Manchin III,152
+Jackson,18,U.S. Senate,,DEM,Joe Manchin III,98
+Jackson,19,U.S. Senate,,DEM,Joe Manchin III,147
+Jackson,20,U.S. Senate,,DEM,Joe Manchin III,120
+Jackson,21,U.S. Senate,,DEM,Joe Manchin III,71
+Jackson,22,U.S. Senate,,DEM,Joe Manchin III,270
+Jackson,23,U.S. Senate,,DEM,Joe Manchin III,115
+Jackson,24,U.S. Senate,,DEM,Joe Manchin III,78
+Jackson,25,U.S. Senate,,DEM,Joe Manchin III,122
+Jackson,26,U.S. Senate,,DEM,Joe Manchin III,59
+Jackson,27,U.S. Senate,,DEM,Joe Manchin III,165
+Jackson,28,U.S. Senate,,DEM,Joe Manchin III,55
+Jackson,29a,U.S. Senate,,DEM,Joe Manchin III,105
+Jackson,29b,U.S. Senate,,DEM,Joe Manchin III,73
+Jackson,30,U.S. Senate,,DEM,Joe Manchin III,71
+Jackson,31,U.S. Senate,,DEM,Joe Manchin III,163
+Jackson,1,U.S. Senate,,,Jeff Becker,3
+Jackson,2,U.S. Senate,,,Jeff Becker,3
+Jackson,3,U.S. Senate,,,Jeff Becker,7
+Jackson,4,U.S. Senate,,,Jeff Becker,6
+Jackson,5,U.S. Senate,,,Jeff Becker,4
+Jackson,6,U.S. Senate,,,Jeff Becker,1
+Jackson,7,U.S. Senate,,,Jeff Becker,1
+Jackson,8,U.S. Senate,,,Jeff Becker,2
+Jackson,9,U.S. Senate,,,Jeff Becker,4
+Jackson,10,U.S. Senate,,,Jeff Becker,1
+Jackson,11a,U.S. Senate,,,Jeff Becker,1
+Jackson,11b,U.S. Senate,,,Jeff Becker,2
+Jackson,12,U.S. Senate,,,Jeff Becker,4
+Jackson,13,U.S. Senate,,,Jeff Becker,5
+Jackson,14,U.S. Senate,,,Jeff Becker,6
+Jackson,15a,U.S. Senate,,,Jeff Becker,1
+Jackson,15b,U.S. Senate,,,Jeff Becker,3
+Jackson,16a,U.S. Senate,,,Jeff Becker,4
+Jackson,16b,U.S. Senate,,,Jeff Becker,1
+Jackson,17a,U.S. Senate,,,Jeff Becker,2
+Jackson,17b,U.S. Senate,,,Jeff Becker,7
+Jackson,18,U.S. Senate,,,Jeff Becker,2
+Jackson,19,U.S. Senate,,,Jeff Becker,0
+Jackson,20,U.S. Senate,,,Jeff Becker,1
+Jackson,21,U.S. Senate,,,Jeff Becker,1
+Jackson,22,U.S. Senate,,,Jeff Becker,3
+Jackson,23,U.S. Senate,,,Jeff Becker,0
+Jackson,24,U.S. Senate,,,Jeff Becker,1
+Jackson,25,U.S. Senate,,,Jeff Becker,3
+Jackson,26,U.S. Senate,,,Jeff Becker,3
+Jackson,27,U.S. Senate,,,Jeff Becker,4
+Jackson,28,U.S. Senate,,,Jeff Becker,2
+Jackson,29a,U.S. Senate,,,Jeff Becker,0
+Jackson,29b,U.S. Senate,,,Jeff Becker,0
+Jackson,30,U.S. Senate,,,Jeff Becker,2
+Jackson,31,U.S. Senate,,,Jeff Becker,2
+Jackson,1,U.S. Senate,,MTN,Jesse Johnson,3
+Jackson,2,U.S. Senate,,MTN,Jesse Johnson,7
+Jackson,3,U.S. Senate,,MTN,Jesse Johnson,8
+Jackson,4,U.S. Senate,,MTN,Jesse Johnson,1
+Jackson,5,U.S. Senate,,MTN,Jesse Johnson,4
+Jackson,6,U.S. Senate,,MTN,Jesse Johnson,4
+Jackson,7,U.S. Senate,,MTN,Jesse Johnson,4
+Jackson,8,U.S. Senate,,MTN,Jesse Johnson,4
+Jackson,9,U.S. Senate,,MTN,Jesse Johnson,6
+Jackson,10,U.S. Senate,,MTN,Jesse Johnson,4
+Jackson,11a,U.S. Senate,,MTN,Jesse Johnson,7
+Jackson,11b,U.S. Senate,,MTN,Jesse Johnson,6
+Jackson,12,U.S. Senate,,MTN,Jesse Johnson,6
+Jackson,13,U.S. Senate,,MTN,Jesse Johnson,10
+Jackson,14,U.S. Senate,,MTN,Jesse Johnson,9
+Jackson,15a,U.S. Senate,,MTN,Jesse Johnson,8
+Jackson,15b,U.S. Senate,,MTN,Jesse Johnson,5
+Jackson,16a,U.S. Senate,,MTN,Jesse Johnson,10
+Jackson,16b,U.S. Senate,,MTN,Jesse Johnson,7
+Jackson,17a,U.S. Senate,,MTN,Jesse Johnson,10
+Jackson,17b,U.S. Senate,,MTN,Jesse Johnson,17
+Jackson,18,U.S. Senate,,MTN,Jesse Johnson,2
+Jackson,19,U.S. Senate,,MTN,Jesse Johnson,5
+Jackson,20,U.S. Senate,,MTN,Jesse Johnson,7
+Jackson,21,U.S. Senate,,MTN,Jesse Johnson,5
+Jackson,22,U.S. Senate,,MTN,Jesse Johnson,12
+Jackson,23,U.S. Senate,,MTN,Jesse Johnson,10
+Jackson,24,U.S. Senate,,MTN,Jesse Johnson,4
+Jackson,25,U.S. Senate,,MTN,Jesse Johnson,8
+Jackson,26,U.S. Senate,,MTN,Jesse Johnson,1
+Jackson,27,U.S. Senate,,MTN,Jesse Johnson,8
+Jackson,28,U.S. Senate,,MTN,Jesse Johnson,3
+Jackson,29a,U.S. Senate,,MTN,Jesse Johnson,12
+Jackson,29b,U.S. Senate,,MTN,Jesse Johnson,5
+Jackson,30,U.S. Senate,,MTN,Jesse Johnson,9
+Jackson,31,U.S. Senate,,MTN,Jesse Johnson,15
+Jackson,1,U.S. House,2,REP,Shelley Moore Capito,147
+Jackson,2,U.S. House,2,REP,Shelley Moore Capito,130
+Jackson,3,U.S. House,2,REP,Shelley Moore Capito,205
+Jackson,4,U.S. House,2,REP,Shelley Moore Capito,116
+Jackson,5,U.S. House,2,REP,Shelley Moore Capito,137
+Jackson,6,U.S. House,2,REP,Shelley Moore Capito,136
+Jackson,7,U.S. House,2,REP,Shelley Moore Capito,78
+Jackson,8,U.S. House,2,REP,Shelley Moore Capito,248
+Jackson,9,U.S. House,2,REP,Shelley Moore Capito,179
+Jackson,10,U.S. House,2,REP,Shelley Moore Capito,59
+Jackson,11a,U.S. House,2,REP,Shelley Moore Capito,150
+Jackson,11b,U.S. House,2,REP,Shelley Moore Capito,166
+Jackson,12,U.S. House,2,REP,Shelley Moore Capito,234
+Jackson,13,U.S. House,2,REP,Shelley Moore Capito,246
+Jackson,14,U.S. House,2,REP,Shelley Moore Capito,280
+Jackson,15a,U.S. House,2,REP,Shelley Moore Capito,224
+Jackson,15b,U.S. House,2,REP,Shelley Moore Capito,180
+Jackson,16a,U.S. House,2,REP,Shelley Moore Capito,216
+Jackson,16b,U.S. House,2,REP,Shelley Moore Capito,183
+Jackson,17a,U.S. House,2,REP,Shelley Moore Capito,322
+Jackson,17b,U.S. House,2,REP,Shelley Moore Capito,234
+Jackson,18,U.S. House,2,REP,Shelley Moore Capito,149
+Jackson,19,U.S. House,2,REP,Shelley Moore Capito,279
+Jackson,20,U.S. House,2,REP,Shelley Moore Capito,173
+Jackson,21,U.S. House,2,REP,Shelley Moore Capito,89
+Jackson,22,U.S. House,2,REP,Shelley Moore Capito,373
+Jackson,23,U.S. House,2,REP,Shelley Moore Capito,165
+Jackson,24,U.S. House,2,REP,Shelley Moore Capito,96
+Jackson,25,U.S. House,2,REP,Shelley Moore Capito,152
+Jackson,26,U.S. House,2,REP,Shelley Moore Capito,92
+Jackson,27,U.S. House,2,REP,Shelley Moore Capito,283
+Jackson,28,U.S. House,2,REP,Shelley Moore Capito,104
+Jackson,29a,U.S. House,2,REP,Shelley Moore Capito,212
+Jackson,29b,U.S. House,2,REP,Shelley Moore Capito,163
+Jackson,30,U.S. House,2,REP,Shelley Moore Capito,132
+Jackson,31,U.S. House,2,REP,Shelley Moore Capito,312
+Jackson,1,U.S. House,2,DEM,Virginia Lynch Graf,54
+Jackson,2,U.S. House,2,DEM,Virginia Lynch Graf,79
+Jackson,3,U.S. House,2,DEM,Virginia Lynch Graf,79
+Jackson,4,U.S. House,2,DEM,Virginia Lynch Graf,66
+Jackson,5,U.S. House,2,DEM,Virginia Lynch Graf,85
+Jackson,6,U.S. House,2,DEM,Virginia Lynch Graf,83
+Jackson,7,U.S. House,2,DEM,Virginia Lynch Graf,91
+Jackson,8,U.S. House,2,DEM,Virginia Lynch Graf,132
+Jackson,9,U.S. House,2,DEM,Virginia Lynch Graf,115
+Jackson,10,U.S. House,2,DEM,Virginia Lynch Graf,32
+Jackson,11a,U.S. House,2,DEM,Virginia Lynch Graf,70
+Jackson,11b,U.S. House,2,DEM,Virginia Lynch Graf,63
+Jackson,12,U.S. House,2,DEM,Virginia Lynch Graf,94
+Jackson,13,U.S. House,2,DEM,Virginia Lynch Graf,117
+Jackson,14,U.S. House,2,DEM,Virginia Lynch Graf,140
+Jackson,15a,U.S. House,2,DEM,Virginia Lynch Graf,78
+Jackson,15b,U.S. House,2,DEM,Virginia Lynch Graf,80
+Jackson,16a,U.S. House,2,DEM,Virginia Lynch Graf,86
+Jackson,16b,U.S. House,2,DEM,Virginia Lynch Graf,63
+Jackson,17a,U.S. House,2,DEM,Virginia Lynch Graf,97
+Jackson,17b,U.S. House,2,DEM,Virginia Lynch Graf,70
+Jackson,18,U.S. House,2,DEM,Virginia Lynch Graf,47
+Jackson,19,U.S. House,2,DEM,Virginia Lynch Graf,62
+Jackson,20,U.S. House,2,DEM,Virginia Lynch Graf,63
+Jackson,21,U.S. House,2,DEM,Virginia Lynch Graf,22
+Jackson,22,U.S. House,2,DEM,Virginia Lynch Graf,130
+Jackson,23,U.S. House,2,DEM,Virginia Lynch Graf,62
+Jackson,24,U.S. House,2,DEM,Virginia Lynch Graf,44
+Jackson,25,U.S. House,2,DEM,Virginia Lynch Graf,73
+Jackson,26,U.S. House,2,DEM,Virginia Lynch Graf,30
+Jackson,27,U.S. House,2,DEM,Virginia Lynch Graf,75
+Jackson,28,U.S. House,2,DEM,Virginia Lynch Graf,20
+Jackson,29a,U.S. House,2,DEM,Virginia Lynch Graf,55
+Jackson,29b,U.S. House,2,DEM,Virginia Lynch Graf,36
+Jackson,30,U.S. House,2,DEM,Virginia Lynch Graf,34
+Jackson,31,U.S. House,2,DEM,Virginia Lynch Graf,67
+Jackson,1,U.S. House,2,,Phil Hudok,2
+Jackson,2,U.S. House,2,,Phil Hudok,6
+Jackson,3,U.S. House,2,,Phil Hudok,6
+Jackson,4,U.S. House,2,,Phil Hudok,6
+Jackson,5,U.S. House,2,,Phil Hudok,2
+Jackson,6,U.S. House,2,,Phil Hudok,1
+Jackson,7,U.S. House,2,,Phil Hudok,4
+Jackson,8,U.S. House,2,,Phil Hudok,1
+Jackson,9,U.S. House,2,,Phil Hudok,2
+Jackson,10,U.S. House,2,,Phil Hudok,2
+Jackson,11a,U.S. House,2,,Phil Hudok,5
+Jackson,11b,U.S. House,2,,Phil Hudok,2
+Jackson,12,U.S. House,2,,Phil Hudok,5
+Jackson,13,U.S. House,2,,Phil Hudok,4
+Jackson,14,U.S. House,2,,Phil Hudok,9
+Jackson,15a,U.S. House,2,,Phil Hudok,1
+Jackson,15b,U.S. House,2,,Phil Hudok,3
+Jackson,16a,U.S. House,2,,Phil Hudok,4
+Jackson,16b,U.S. House,2,,Phil Hudok,4
+Jackson,17a,U.S. House,2,,Phil Hudok,3
+Jackson,17b,U.S. House,2,,Phil Hudok,8
+Jackson,18,U.S. House,2,,Phil Hudok,0
+Jackson,19,U.S. House,2,,Phil Hudok,6
+Jackson,20,U.S. House,2,,Phil Hudok,1
+Jackson,21,U.S. House,2,,Phil Hudok,2
+Jackson,22,U.S. House,2,,Phil Hudok,13
+Jackson,23,U.S. House,2,,Phil Hudok,0
+Jackson,24,U.S. House,2,,Phil Hudok,3
+Jackson,25,U.S. House,2,,Phil Hudok,3
+Jackson,26,U.S. House,2,,Phil Hudok,3
+Jackson,27,U.S. House,2,,Phil Hudok,5
+Jackson,28,U.S. House,2,,Phil Hudok,5
+Jackson,29a,U.S. House,2,,Phil Hudok,2
+Jackson,29b,U.S. House,2,,Phil Hudok,4
+Jackson,30,U.S. House,2,,Phil Hudok,4
+Jackson,31,U.S. House,2,,Phil Hudok,8
+Jackson,1,State Senate,4,,Mike Hall,145
+Jackson,2,State Senate,4,,Mike Hall,138
+Jackson,3,State Senate,4,,Mike Hall,192
+Jackson,4,State Senate,4,,Mike Hall,116
+Jackson,5,State Senate,4,,Mike Hall,139
+Jackson,6,State Senate,4,,Mike Hall,129
+Jackson,7,State Senate,4,,Mike Hall,98
+Jackson,8,State Senate,4,,Mike Hall,241
+Jackson,9,State Senate,4,,Mike Hall,181
+Jackson,10,State Senate,4,,Mike Hall,64
+Jackson,11a,State Senate,4,,Mike Hall,157
+Jackson,11b,State Senate,4,,Mike Hall,156
+Jackson,12,State Senate,4,,Mike Hall,241
+Jackson,13,State Senate,4,,Mike Hall,249
+Jackson,14,State Senate,4,,Mike Hall,287
+Jackson,15a,State Senate,4,,Mike Hall,222
+Jackson,15b,State Senate,4,,Mike Hall,183
+Jackson,16a,State Senate,4,,Mike Hall,220
+Jackson,16b,State Senate,4,,Mike Hall,175
+Jackson,17a,State Senate,4,,Mike Hall,299
+Jackson,17b,State Senate,4,,Mike Hall,214
+Jackson,18,State Senate,4,,Mike Hall,127
+Jackson,19,State Senate,4,,Mike Hall,252
+Jackson,20,State Senate,4,,Mike Hall,160
+Jackson,21,State Senate,4,,Mike Hall,74
+Jackson,22,State Senate,4,,Mike Hall,344
+Jackson,23,State Senate,4,,Mike Hall,150
+Jackson,24,State Senate,4,,Mike Hall,90
+Jackson,25,State Senate,4,,Mike Hall,144
+Jackson,26,State Senate,4,,Mike Hall,92
+Jackson,27,State Senate,4,,Mike Hall,273
+Jackson,28,State Senate,4,,Mike Hall,99
+Jackson,29a,State Senate,4,,Mike Hall,194
+Jackson,29b,State Senate,4,,Mike Hall,157
+Jackson,30,State Senate,4,,Mike Hall,128
+Jackson,31,State Senate,4,,Mike Hall,282
+Jackson,25,State House,11,,Bob Ashley,136
+Jackson,26,State House,11,,Bob Ashley,88
+Jackson,28,State House,11,,Bob Ashley,91
+Jackson,30,State House,11,,Bob Ashley,122
+Jackson,25,State House,11,,Mark Myers,41
+Jackson,26,State House,11,,Mark Myers,14
+Jackson,28,State House,11,,Mark Myers,17
+Jackson,30,State House,11,,Mark Myers,17
+Jackson,1,State House,12,,Mitch B. Carmichael,121
+Jackson,2,State House,12,,Mitch B. Carmichael,98
+Jackson,3,State House,12,,Mitch B. Carmichael,148
+Jackson,4,State House,12,,Mitch B. Carmichael,78
+Jackson,7,State House,12,,Mitch B. Carmichael,63
+Jackson,8,State House,12,,Mitch B. Carmichael,174
+Jackson,9,State House,12,,Mitch B. Carmichael,113
+Jackson,10,State House,12,,Mitch B. Carmichael,33
+Jackson,11a,State House,12,,Mitch B. Carmichael,111
+Jackson,11b,State House,12,,Mitch B. Carmichael,113
+Jackson,16a,State House,12,,Mitch B. Carmichael,168
+Jackson,16b,State House,12,,Mitch B. Carmichael,128
+Jackson,17a,State House,12,,Mitch B. Carmichael,243
+Jackson,17b,State House,12,,Mitch B. Carmichael,158
+Jackson,18,State House,12,,Mitch B. Carmichael,102
+Jackson,19,State House,12,,Mitch B. Carmichael,199
+Jackson,20,State House,12,,Mitch B. Carmichael,119
+Jackson,21,State House,12,,Mitch B. Carmichael,58
+Jackson,22,State House,12,,Mitch B. Carmichael,264
+Jackson,23,State House,12,,Mitch B. Carmichael,115
+Jackson,24,State House,12,,Mitch B. Carmichael,67
+Jackson,27,State House,12,,Mitch B. Carmichael,209
+Jackson,29a,State House,12,,Mitch B. Carmichael,145
+Jackson,29b,State House,12,,Mitch B. Carmichael,127
+Jackson,31,State House,12,,Mitch B. Carmichael,229
+Jackson,1,State House,12,,Jo Boggess Phillips,88
+Jackson,2,State House,12,,Jo Boggess Phillips,119
+Jackson,3,State House,12,,Jo Boggess Phillips,150
+Jackson,4,State House,12,,Jo Boggess Phillips,103
+Jackson,7,State House,12,,Jo Boggess Phillips,113
+Jackson,8,State House,12,,Jo Boggess Phillips,214
+Jackson,9,State House,12,,Jo Boggess Phillips,189
+Jackson,10,State House,12,,Jo Boggess Phillips,60
+Jackson,11a,State House,12,,Jo Boggess Phillips,108
+Jackson,11b,State House,12,,Jo Boggess Phillips,120
+Jackson,16a,State House,12,,Jo Boggess Phillips,149
+Jackson,16b,State House,12,,Jo Boggess Phillips,122
+Jackson,17a,State House,12,,Jo Boggess Phillips,179
+Jackson,17b,State House,12,,Jo Boggess Phillips,153
+Jackson,18,State House,12,,Jo Boggess Phillips,94
+Jackson,19,State House,12,,Jo Boggess Phillips,151
+Jackson,20,State House,12,,Jo Boggess Phillips,122
+Jackson,21,State House,12,,Jo Boggess Phillips,58
+Jackson,22,State House,12,,Jo Boggess Phillips,269
+Jackson,23,State House,12,,Jo Boggess Phillips,118
+Jackson,24,State House,12,,Jo Boggess Phillips,76
+Jackson,27,State House,12,,Jo Boggess Phillips,154
+Jackson,29a,State House,12,,Jo Boggess Phillips,123
+Jackson,29b,State House,12,,Jo Boggess Phillips,75
+Jackson,31,State House,12,,Jo Boggess Phillips,154
+Jackson,5,State House,13,,Brian (Scotty) Scott,81
+Jackson,6,State House,13,,Brian (Scotty) Scott,92
+Jackson,12,State House,13,,Brian (Scotty) Scott,177
+Jackson,13,State House,13,,Brian (Scotty) Scott,194
+Jackson,14,State House,13,,Brian (Scotty) Scott,187
+Jackson,15a,State House,13,,Brian (Scotty) Scott,149
+Jackson,15b,State House,13,,Brian (Scotty) Scott,128
+Jackson,5,State House,13,,Brady R. Paxton,152
+Jackson,6,State House,13,,Brady R. Paxton,138
+Jackson,12,State House,13,,Brady R. Paxton,166
+Jackson,13,State House,13,,Brady R. Paxton,179
+Jackson,14,State House,13,,Brady R. Paxton,263
+Jackson,15a,State House,13,,Brady R. Paxton,180
+Jackson,15b,State House,13,,Brady R. Paxton,145
+Jackson,5,State House,13,,Dale Martin,120
+Jackson,6,State House,13,,Dale Martin,111
+Jackson,12,State House,13,,Dale Martin,153
+Jackson,13,State House,13,,Dale Martin,148
+Jackson,14,State House,13,,Dale Martin,225
+Jackson,15a,State House,13,,Dale Martin,133
+Jackson,15b,State House,13,,Dale Martin,112
