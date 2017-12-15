@@ -1,0 +1,141 @@
+county,precinct,office,district,party,candidate,votes
+Webster,2,U.S. House,3,DEM,Bruce Barilla,61
+Webster,3,U.S. House,3,DEM,Bruce Barilla,47
+Webster,4,U.S. House,3,DEM,Bruce Barilla,25
+Webster,5,U.S. House,3,DEM,Bruce Barilla,26
+Webster,8,U.S. House,3,DEM,Bruce Barilla,46
+Webster,10,U.S. House,3,DEM,Bruce Barilla,8
+Webster,15,U.S. House,3,DEM,Bruce Barilla,34
+Webster,18,U.S. House,3,DEM,Bruce Barilla,16
+Webster,21,U.S. House,3,DEM,Bruce Barilla,33
+Webster,22,U.S. House,3,DEM,Bruce Barilla,31
+Webster,23,U.S. House,3,DEM,Bruce Barilla,44
+Webster,24,U.S. House,3,DEM,Bruce Barilla,19
+Webster,27,U.S. House,3,DEM,Bruce Barilla,23
+Webster,29,U.S. House,3,DEM,Bruce Barilla,25
+Webster,2,U.S. House,3,DEM,Nick Joe Rahall II,141
+Webster,3,U.S. House,3,DEM,Nick Joe Rahall II,123
+Webster,4,U.S. House,3,DEM,Nick Joe Rahall II,153
+Webster,5,U.S. House,3,DEM,Nick Joe Rahall II,94
+Webster,8,U.S. House,3,DEM,Nick Joe Rahall II,162
+Webster,10,U.S. House,3,DEM,Nick Joe Rahall II,12
+Webster,15,U.S. House,3,DEM,Nick Joe Rahall II,144
+Webster,18,U.S. House,3,DEM,Nick Joe Rahall II,50
+Webster,21,U.S. House,3,DEM,Nick Joe Rahall II,64
+Webster,22,U.S. House,3,DEM,Nick Joe Rahall II,72
+Webster,23,U.S. House,3,DEM,Nick Joe Rahall II,113
+Webster,24,U.S. House,3,DEM,Nick Joe Rahall II,87
+Webster,27,U.S. House,3,DEM,Nick Joe Rahall II,65
+Webster,29,U.S. House,3,DEM,Nick Joe Rahall II,45
+Webster,2,State Senate,11,DEM,Gregory A. Tucker,98
+Webster,3,State Senate,11,DEM,Gregory A. Tucker,68
+Webster,4,State Senate,11,DEM,Gregory A. Tucker,64
+Webster,5,State Senate,11,DEM,Gregory A. Tucker,72
+Webster,8,State Senate,11,DEM,Gregory A. Tucker,86
+Webster,10,State Senate,11,DEM,Gregory A. Tucker,11
+Webster,15,State Senate,11,DEM,Gregory A. Tucker,72
+Webster,18,State Senate,11,DEM,Gregory A. Tucker,24
+Webster,21,State Senate,11,DEM,Gregory A. Tucker,54
+Webster,22,State Senate,11,DEM,Gregory A. Tucker,35
+Webster,23,State Senate,11,DEM,Gregory A. Tucker,78
+Webster,24,State Senate,11,DEM,Gregory A. Tucker,30
+Webster,27,State Senate,11,DEM,Gregory A. Tucker,38
+Webster,29,State Senate,11,DEM,Gregory A. Tucker,37
+Webster,2,State Senate,11,DEM,C. Randy White,107
+Webster,3,State Senate,11,DEM,C. Randy White,108
+Webster,4,State Senate,11,DEM,C. Randy White,125
+Webster,5,State Senate,11,DEM,C. Randy White,62
+Webster,8,State Senate,11,DEM,C. Randy White,138
+Webster,10,State Senate,11,DEM,C. Randy White,7
+Webster,15,State Senate,11,DEM,C. Randy White,111
+Webster,18,State Senate,11,DEM,C. Randy White,46
+Webster,21,State Senate,11,DEM,C. Randy White,42
+Webster,22,State Senate,11,DEM,C. Randy White,68
+Webster,23,State Senate,11,DEM,C. Randy White,84
+Webster,24,State Senate,11,DEM,C. Randy White,86
+Webster,27,State Senate,11,DEM,C. Randy White,60
+Webster,29,State Senate,11,DEM,C. Randy White,40
+Webster,2,State House,36,DEM,Sue Blake Andersen,79
+Webster,3,State House,36,DEM,Sue Blake Andersen,77
+Webster,4,State House,36,DEM,Sue Blake Andersen,80
+Webster,5,State House,36,DEM,Sue Blake Andersen,66
+Webster,8,State House,36,DEM,Sue Blake Andersen,87
+Webster,10,State House,36,DEM,Sue Blake Andersen,5
+Webster,15,State House,36,DEM,Sue Blake Andersen,104
+Webster,18,State House,36,DEM,Sue Blake Andersen,38
+Webster,21,State House,36,DEM,Sue Blake Andersen,64
+Webster,22,State House,36,DEM,Sue Blake Andersen,54
+Webster,23,State House,36,DEM,Sue Blake Andersen,81
+Webster,24,State House,36,DEM,Sue Blake Andersen,19
+Webster,27,State House,36,DEM,Sue Blake Andersen,37
+Webster,29,State House,36,DEM,Sue Blake Andersen,25
+Webster,2,State House,36,DEM,Joe Talbott,132
+Webster,3,State House,36,DEM,Joe Talbott,101
+Webster,4,State House,36,DEM,Joe Talbott,116
+Webster,5,State House,36,DEM,Joe Talbott,70
+Webster,8,State House,36,DEM,Joe Talbott,143
+Webster,10,State House,36,DEM,Joe Talbott,17
+Webster,15,State House,36,DEM,Joe Talbott,80
+Webster,18,State House,36,DEM,Joe Talbott,33
+Webster,21,State House,36,DEM,Joe Talbott,36
+Webster,22,State House,36,DEM,Joe Talbott,53
+Webster,23,State House,36,DEM,Joe Talbott,84
+Webster,24,State House,36,DEM,Joe Talbott,101
+Webster,27,State House,36,DEM,Joe Talbott,63
+Webster,29,State House,36,DEM,Joe Talbott,55
+Webster,2,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",2
+Webster,3,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",4
+Webster,4,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",7
+Webster,5,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",2
+Webster,8,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",4
+Webster,10,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",1
+Webster,15,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",5
+Webster,18,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",2
+Webster,21,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",5
+Webster,22,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",5
+Webster,23,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",8
+Webster,24,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",7
+Webster,27,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",4
+Webster,29,U.S. House,3,REP,"Elliott E. ""Spike"" Maynard",3
+Webster,2,U.S. House,3,REP,Marty Gearhart,0
+Webster,3,U.S. House,3,REP,Marty Gearhart,2
+Webster,4,U.S. House,3,REP,Marty Gearhart,1
+Webster,5,U.S. House,3,REP,Marty Gearhart,1
+Webster,8,U.S. House,3,REP,Marty Gearhart,6
+Webster,10,U.S. House,3,REP,Marty Gearhart,1
+Webster,15,U.S. House,3,REP,Marty Gearhart,8
+Webster,18,U.S. House,3,REP,Marty Gearhart,2
+Webster,21,U.S. House,3,REP,Marty Gearhart,1
+Webster,22,U.S. House,3,REP,Marty Gearhart,1
+Webster,23,U.S. House,3,REP,Marty Gearhart,0
+Webster,24,U.S. House,3,REP,Marty Gearhart,1
+Webster,27,U.S. House,3,REP,Marty Gearhart,1
+Webster,29,U.S. House,3,REP,Marty Gearhart,0
+Webster,2,U.S. House,3,REP,Conrad G. Lucas II,1
+Webster,3,U.S. House,3,REP,Conrad G. Lucas II,1
+Webster,4,U.S. House,3,REP,Conrad G. Lucas II,0
+Webster,5,U.S. House,3,REP,Conrad G. Lucas II,2
+Webster,8,U.S. House,3,REP,Conrad G. Lucas II,6
+Webster,10,U.S. House,3,REP,Conrad G. Lucas II,0
+Webster,15,U.S. House,3,REP,Conrad G. Lucas II,5
+Webster,18,U.S. House,3,REP,Conrad G. Lucas II,3
+Webster,21,U.S. House,3,REP,Conrad G. Lucas II,2
+Webster,22,U.S. House,3,REP,Conrad G. Lucas II,2
+Webster,23,U.S. House,3,REP,Conrad G. Lucas II,6
+Webster,24,U.S. House,3,REP,Conrad G. Lucas II,3
+Webster,27,U.S. House,3,REP,Conrad G. Lucas II,3
+Webster,29,U.S. House,3,REP,Conrad G. Lucas II,1
+Webster,2,U.S. House,3,REP,Lee A. Bias,2
+Webster,3,U.S. House,3,REP,Lee A. Bias,0
+Webster,4,U.S. House,3,REP,Lee A. Bias,0
+Webster,5,U.S. House,3,REP,Lee A. Bias,1
+Webster,8,U.S. House,3,REP,Lee A. Bias,2
+Webster,10,U.S. House,3,REP,Lee A. Bias,1
+Webster,15,U.S. House,3,REP,Lee A. Bias,1
+Webster,18,U.S. House,3,REP,Lee A. Bias,0
+Webster,21,U.S. House,3,REP,Lee A. Bias,2
+Webster,22,U.S. House,3,REP,Lee A. Bias,4
+Webster,23,U.S. House,3,REP,Lee A. Bias,0
+Webster,24,U.S. House,3,REP,Lee A. Bias,3
+Webster,27,U.S. House,3,REP,Lee A. Bias,0
+Webster,29,U.S. House,3,REP,Lee A. Bias,1
