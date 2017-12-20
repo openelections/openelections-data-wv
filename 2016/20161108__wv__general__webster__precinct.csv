@@ -1,0 +1,541 @@
+county,precinct,office,district,candidate,party,votes
+Webster,2,President,,Donald J. Trump,,235
+Webster,3,President,,Donald J. Trump,,191
+Webster,4,President,,Donald J. Trump,,144
+Webster,5,President,,Donald J. Trump,,143
+Webster,8,President,,Donald J. Trump,,232
+Webster,10,President,,Donald J. Trump,,35
+Webster,15,President,,Donald J. Trump,,248
+Webster,18,President,,Donald J. Trump,,114
+Webster,21,President,,Donald J. Trump,,145
+Webster,22,President,,Donald J. Trump,,229
+Webster,23,President,,Donald J. Trump,,241
+Webster,24,President,,Donald J. Trump,,146
+Webster,27,President,,Donald J. Trump,,119
+Webster,29,President,,Donald J. Trump,,80
+Webster,Total,President,,Donald J. Trump,,2302
+Webster,2,President,,Hillary Clinton,,49
+Webster,3,President,,Hillary Clinton,,39
+Webster,4,President,,Hillary Clinton,,81
+Webster,5,President,,Hillary Clinton,,31
+Webster,8,President,,Hillary Clinton,,53
+Webster,10,President,,Hillary Clinton,,7
+Webster,15,President,,Hillary Clinton,,69
+Webster,18,President,,Hillary Clinton,,7
+Webster,21,President,,Hillary Clinton,,36
+Webster,22,President,,Hillary Clinton,,31
+Webster,23,President,,Hillary Clinton,,58
+Webster,24,President,,Hillary Clinton,,56
+Webster,27,President,,Hillary Clinton,,22
+Webster,29,President,,Hillary Clinton,,15
+Webster,Total,President,,Hillary Clinton,,554
+Webster,2,President,,Gary Johnson,,9
+Webster,3,President,,Gary Johnson,,6
+Webster,4,President,,Gary Johnson,,7
+Webster,5,President,,Gary Johnson,,5
+Webster,8,President,,Gary Johnson,,5
+Webster,10,President,,Gary Johnson,,2
+Webster,15,President,,Gary Johnson,,5
+Webster,18,President,,Gary Johnson,,6
+Webster,21,President,,Gary Johnson,,9
+Webster,22,President,,Gary Johnson,,11
+Webster,23,President,,Gary Johnson,,5
+Webster,24,President,,Gary Johnson,,5
+Webster,27,President,,Gary Johnson,,2
+Webster,29,President,,Gary Johnson,,5
+Webster,Total,President,,Gary Johnson,,82
+Webster,2,President,,Jill Stein,,1
+Webster,3,President,,Jill Stein,,6
+Webster,4,President,,Jill Stein,,2
+Webster,5,President,,Jill Stein,,5
+Webster,8,President,,Jill Stein,,2
+Webster,10,President,,Jill Stein,,1
+Webster,15,President,,Jill Stein,,4
+Webster,18,President,,Jill Stein,,1
+Webster,21,President,,Jill Stein,,1
+Webster,22,President,,Jill Stein,,0
+Webster,23,President,,Jill Stein,,3
+Webster,24,President,,Jill Stein,,2
+Webster,27,President,,Jill Stein,,2
+Webster,29,President,,Jill Stein,,0
+Webster,Total,President,,Jill Stein,,30
+Webster,2,President,,Darrell L. Castle,,0
+Webster,3,President,,Darrell L. Castle,,0
+Webster,4,President,,Darrell L. Castle,,0
+Webster,5,President,,Darrell L. Castle,,1
+Webster,8,President,,Darrell L. Castle,,1
+Webster,10,President,,Darrell L. Castle,,1
+Webster,15,President,,Darrell L. Castle,,0
+Webster,18,President,,Darrell L. Castle,,1
+Webster,21,President,,Darrell L. Castle,,1
+Webster,22,President,,Darrell L. Castle,,1
+Webster,23,President,,Darrell L. Castle,,1
+Webster,24,President,,Darrell L. Castle,,0
+Webster,27,President,,Darrell L. Castle,,1
+Webster,29,President,,Darrell L. Castle,,0
+Webster,Total,President,,Darrell L. Castle,,8
+Webster,2,U.S. House,3,Evan Jenkins,,207
+Webster,3,U.S. House,3,Evan Jenkins,,186
+Webster,4,U.S. House,3,Evan Jenkins,,144
+Webster,5,U.S. House,3,Evan Jenkins,,115
+Webster,8,U.S. House,3,Evan Jenkins,,194
+Webster,10,U.S. House,3,Evan Jenkins,,27
+Webster,15,U.S. House,3,Evan Jenkins,,222
+Webster,18,U.S. House,3,Evan Jenkins,,99
+Webster,21,U.S. House,3,Evan Jenkins,,133
+Webster,22,U.S. House,3,Evan Jenkins,,199
+Webster,23,U.S. House,3,Evan Jenkins,,202
+Webster,24,U.S. House,3,Evan Jenkins,,120
+Webster,27,U.S. House,3,Evan Jenkins,,96
+Webster,29,U.S. House,3,Evan Jenkins,,77
+Webster,Total,U.S. House,3,Evan Jenkins,,2021
+Webster,2,U.S. House,3,Matt Detch,,65
+Webster,3,U.S. House,3,Matt Detch,,38
+Webster,4,U.S. House,3,Matt Detch,,59
+Webster,5,U.S. House,3,Matt Detch,,45
+Webster,8,U.S. House,3,Matt Detch,,62
+Webster,10,U.S. House,3,Matt Detch,,13
+Webster,15,U.S. House,3,Matt Detch,,80
+Webster,18,U.S. House,3,Matt Detch,,23
+Webster,21,U.S. House,3,Matt Detch,,42
+Webster,22,U.S. House,3,Matt Detch,,52
+Webster,23,U.S. House,3,Matt Detch,,86
+Webster,24,U.S. House,3,Matt Detch,,56
+Webster,27,U.S. House,3,Matt Detch,,32
+Webster,29,U.S. House,3,Matt Detch,,11
+Webster,Total,U.S. House,3,Matt Detch,,664
+Webster,2,U.S. House,3,Zane Lowhorn,,6
+Webster,3,U.S. House,3,Zane Lowhorn,,8
+Webster,4,U.S. House,3,Zane Lowhorn,,6
+Webster,5,U.S. House,3,Zane Lowhorn,,9
+Webster,8,U.S. House,3,Zane Lowhorn,,7
+Webster,10,U.S. House,3,Zane Lowhorn,,1
+Webster,15,U.S. House,3,Zane Lowhorn,,8
+Webster,18,U.S. House,3,Zane Lowhorn,,8
+Webster,21,U.S. House,3,Zane Lowhorn,,8
+Webster,22,U.S. House,3,Zane Lowhorn,,8
+Webster,23,U.S. House,3,Zane Lowhorn,,9
+Webster,24,U.S. House,3,Zane Lowhorn,,6
+Webster,27,U.S. House,3,Zane Lowhorn,,2
+Webster,29,U.S. House,3,Zane Lowhorn,,2
+Webster,Total,U.S. House,3,Zane Lowhorn,,88
+Webster,2,Governor,,Bill Cole,,134
+Webster,3,Governor,,Bill Cole,,103
+Webster,4,Governor,,Bill Cole,,75
+Webster,5,Governor,,Bill Cole,,83
+Webster,8,Governor,,Bill Cole,,137
+Webster,10,Governor,,Bill Cole,,13
+Webster,15,Governor,,Bill Cole,,131
+Webster,18,Governor,,Bill Cole,,73
+Webster,21,Governor,,Bill Cole,,74
+Webster,22,Governor,,Bill Cole,,99
+Webster,23,Governor,,Bill Cole,,117
+Webster,24,Governor,,Bill Cole,,98
+Webster,27,Governor,,Bill Cole,,80
+Webster,29,Governor,,Bill Cole,,52
+Webster,Total,Governor,,Bill Cole,,1269
+Webster,2,Governor,,Jim Justice,,146
+Webster,3,Governor,,Jim Justice,,120
+Webster,4,Governor,,Jim Justice,,145
+Webster,5,Governor,,Jim Justice,,83
+Webster,8,Governor,,Jim Justice,,137
+Webster,10,Governor,,Jim Justice,,27
+Webster,15,Governor,,Jim Justice,,164
+Webster,18,Governor,,Jim Justice,,46
+Webster,21,Governor,,Jim Justice,,99
+Webster,22,Governor,,Jim Justice,,147
+Webster,23,Governor,,Jim Justice,,165
+Webster,24,Governor,,Jim Justice,,90
+Webster,27,Governor,,Jim Justice,,60
+Webster,29,Governor,,Jim Justice,,42
+Webster,Total,Governor,,Jim Justice,,1471
+Webster,2,Governor,,David Moran,,2
+Webster,3,Governor,,David Moran,,2
+Webster,4,Governor,,David Moran,,2
+Webster,5,Governor,,David Moran,,2
+Webster,8,Governor,,David Moran,,4
+Webster,10,Governor,,David Moran,,2
+Webster,15,Governor,,David Moran,,8
+Webster,18,Governor,,David Moran,,7
+Webster,21,Governor,,David Moran,,4
+Webster,22,Governor,,David Moran,,4
+Webster,23,Governor,,David Moran,,5
+Webster,24,Governor,,David Moran,,7
+Webster,27,Governor,,David Moran,,1
+Webster,29,Governor,,David Moran,,2
+Webster,Total,Governor,,David Moran,,52
+Webster,2,Governor,,Charlotte Jean Pitt,,9
+Webster,3,Governor,,Charlotte Jean Pitt,,13
+Webster,4,Governor,,Charlotte Jean Pitt,,13
+Webster,5,Governor,,Charlotte Jean Pitt,,12
+Webster,8,Governor,,Charlotte Jean Pitt,,12
+Webster,10,Governor,,Charlotte Jean Pitt,,4
+Webster,15,Governor,,Charlotte Jean Pitt,,26
+Webster,18,Governor,,Charlotte Jean Pitt,,6
+Webster,21,Governor,,Charlotte Jean Pitt,,12
+Webster,22,Governor,,Charlotte Jean Pitt,,21
+Webster,23,Governor,,Charlotte Jean Pitt,,20
+Webster,24,Governor,,Charlotte Jean Pitt,,15
+Webster,27,Governor,,Charlotte Jean Pitt,,3
+Webster,29,Governor,,Charlotte Jean Pitt,,4
+Webster,Total,Governor,,Charlotte Jean Pitt,,170
+Webster,2,Governor,,Phil Hudok,,3
+Webster,3,Governor,,Phil Hudok,,4
+Webster,4,Governor,,Phil Hudok,,1
+Webster,5,Governor,,Phil Hudok,,5
+Webster,8,Governor,,Phil Hudok,,4
+Webster,10,Governor,,Phil Hudok,,0
+Webster,15,Governor,,Phil Hudok,,2
+Webster,18,Governor,,Phil Hudok,,0
+Webster,21,Governor,,Phil Hudok,,3
+Webster,22,Governor,,Phil Hudok,,3
+Webster,23,Governor,,Phil Hudok,,2
+Webster,24,Governor,,Phil Hudok,,1
+Webster,27,Governor,,Phil Hudok,,3
+Webster,29,Governor,,Phil Hudok,,2
+Webster,Total,Governor,,Phil Hudok,,33
+Webster,2,Secretary of State,,Mac Warner,,139
+Webster,3,Secretary of State,,Mac Warner,,125
+Webster,4,Secretary of State,,Mac Warner,,79
+Webster,5,Secretary of State,,Mac Warner,,80
+Webster,8,Secretary of State,,Mac Warner,,124
+Webster,10,Secretary of State,,Mac Warner,,17
+Webster,15,Secretary of State,,Mac Warner,,148
+Webster,18,Secretary of State,,Mac Warner,,70
+Webster,21,Secretary of State,,Mac Warner,,92
+Webster,22,Secretary of State,,Mac Warner,,133
+Webster,23,Secretary of State,,Mac Warner,,137
+Webster,24,Secretary of State,,Mac Warner,,87
+Webster,27,Secretary of State,,Mac Warner,,73
+Webster,29,Secretary of State,,Mac Warner,,47
+Webster,Total,Secretary of State,,Mac Warner,,1351
+Webster,2,Secretary of State,,Natalie Tennant,,135
+Webster,3,Secretary of State,,Natalie Tennant,,100
+Webster,4,Secretary of State,,Natalie Tennant,,143
+Webster,5,Secretary of State,,Natalie Tennant,,82
+Webster,8,Secretary of State,,Natalie Tennant,,137
+Webster,10,Secretary of State,,Natalie Tennant,,22
+Webster,15,Secretary of State,,Natalie Tennant,,157
+Webster,18,Secretary of State,,Natalie Tennant,,49
+Webster,21,Secretary of State,,Natalie Tennant,,84
+Webster,22,Secretary of State,,Natalie Tennant,,110
+Webster,23,Secretary of State,,Natalie Tennant,,151
+Webster,24,Secretary of State,,Natalie Tennant,,99
+Webster,27,Secretary of State,,Natalie Tennant,,57
+Webster,29,Secretary of State,,Natalie Tennant,,40
+Webster,Total,Secretary of State,,Natalie Tennant,,1366
+Webster,2,Secretary of State,,John S. Buckley,,15
+Webster,3,Secretary of State,,John S. Buckley,,10
+Webster,4,Secretary of State,,John S. Buckley,,5
+Webster,5,Secretary of State,,John S. Buckley,,12
+Webster,8,Secretary of State,,John S. Buckley,,16
+Webster,10,Secretary of State,,John S. Buckley,,3
+Webster,15,Secretary of State,,John S. Buckley,,15
+Webster,18,Secretary of State,,John S. Buckley,,8
+Webster,21,Secretary of State,,John S. Buckley,,12
+Webster,22,Secretary of State,,John S. Buckley,,16
+Webster,23,Secretary of State,,John S. Buckley,,15
+Webster,24,Secretary of State,,John S. Buckley,,5
+Webster,27,Secretary of State,,John S. Buckley,,6
+Webster,29,Secretary of State,,John S. Buckley,,6
+Webster,Total,Secretary of State,,John S. Buckley,,144
+Webster,2,Auditor,,"John ""JB"" McCuskey",,139
+Webster,3,Auditor,,"John ""JB"" McCuskey",,128
+Webster,4,Auditor,,"John ""JB"" McCuskey",,99
+Webster,5,Auditor,,"John ""JB"" McCuskey",,86
+Webster,8,Auditor,,"John ""JB"" McCuskey",,131
+Webster,10,Auditor,,"John ""JB"" McCuskey",,25
+Webster,15,Auditor,,"John ""JB"" McCuskey",,171
+Webster,18,Auditor,,"John ""JB"" McCuskey",,69
+Webster,21,Auditor,,"John ""JB"" McCuskey",,99
+Webster,22,Auditor,,"John ""JB"" McCuskey",,144
+Webster,23,Auditor,,"John ""JB"" McCuskey",,154
+Webster,24,Auditor,,"John ""JB"" McCuskey",,101
+Webster,27,Auditor,,"John ""JB"" McCuskey",,84
+Webster,29,Auditor,,"John ""JB"" McCuskey",,50
+Webster,Total,Auditor,,"John ""JB"" McCuskey",,1480
+Webster,2,Auditor,,Mary Ann Clayton,,102
+Webster,3,Auditor,,Mary Ann Clayton,,76
+Webster,4,Auditor,,Mary Ann Clayton,,97
+Webster,5,Auditor,,Mary Ann Clayton,,64
+Webster,8,Auditor,,Mary Ann Clayton,,97
+Webster,10,Auditor,,Mary Ann Clayton,,14
+Webster,15,Auditor,,Mary Ann Clayton,,106
+Webster,18,Auditor,,Mary Ann Clayton,,36
+Webster,21,Auditor,,Mary Ann Clayton,,65
+Webster,22,Auditor,,Mary Ann Clayton,,74
+Webster,23,Auditor,,Mary Ann Clayton,,102
+Webster,24,Auditor,,Mary Ann Clayton,,67
+Webster,27,Auditor,,Mary Ann Clayton,,34
+Webster,29,Auditor,,Mary Ann Clayton,,28
+Webster,Total,Auditor,,Mary Ann Clayton,,962
+Webster,2,Auditor,,Brenton Ricketts,,17
+Webster,3,Auditor,,Brenton Ricketts,,19
+Webster,4,Auditor,,Brenton Ricketts,,10
+Webster,5,Auditor,,Brenton Ricketts,,13
+Webster,8,Auditor,,Brenton Ricketts,,14
+Webster,10,Auditor,,Brenton Ricketts,,0
+Webster,15,Auditor,,Brenton Ricketts,,19
+Webster,18,Auditor,,Brenton Ricketts,,15
+Webster,21,Auditor,,Brenton Ricketts,,11
+Webster,22,Auditor,,Brenton Ricketts,,18
+Webster,23,Auditor,,Brenton Ricketts,,24
+Webster,24,Auditor,,Brenton Ricketts,,8
+Webster,27,Auditor,,Brenton Ricketts,,4
+Webster,29,Auditor,,Brenton Ricketts,,6
+Webster,Total,Auditor,,Brenton Ricketts,,178
+Webster,2,Treasurer,,Ann Urling,,73
+Webster,3,Treasurer,,Ann Urling,,89
+Webster,4,Treasurer,,Ann Urling,,49
+Webster,5,Treasurer,,Ann Urling,,48
+Webster,8,Treasurer,,Ann Urling,,77
+Webster,10,Treasurer,,Ann Urling,,16
+Webster,15,Treasurer,,Ann Urling,,108
+Webster,18,Treasurer,,Ann Urling,,50
+Webster,21,Treasurer,,Ann Urling,,70
+Webster,22,Treasurer,,Ann Urling,,109
+Webster,23,Treasurer,,Ann Urling,,107
+Webster,24,Treasurer,,Ann Urling,,62
+Webster,27,Treasurer,,Ann Urling,,52
+Webster,29,Treasurer,,Ann Urling,,31
+Webster,Total,Treasurer,,Ann Urling,,941
+Webster,2,Treasurer,,John D. Perdue,,189
+Webster,3,Treasurer,,John D. Perdue,,131
+Webster,4,Treasurer,,John D. Perdue,,156
+Webster,5,Treasurer,,John D. Perdue,,112
+Webster,8,Treasurer,,John D. Perdue,,169
+Webster,10,Treasurer,,John D. Perdue,,21
+Webster,15,Treasurer,,John D. Perdue,,176
+Webster,18,Treasurer,,John D. Perdue,,64
+Webster,21,Treasurer,,John D. Perdue,,101
+Webster,22,Treasurer,,John D. Perdue,,121
+Webster,23,Treasurer,,John D. Perdue,,158
+Webster,24,Treasurer,,John D. Perdue,,117
+Webster,27,Treasurer,,John D. Perdue,,78
+Webster,29,Treasurer,,John D. Perdue,,59
+Webster,Total,Treasurer,,John D. Perdue,,1652
+Webster,2,Treasurer,,Michael Allen Young,,17
+Webster,3,Treasurer,,Michael Allen Young,,13
+Webster,4,Treasurer,,Michael Allen Young,,9
+Webster,5,Treasurer,,Michael Allen Young,,9
+Webster,8,Treasurer,,Michael Allen Young,,12
+Webster,10,Treasurer,,Michael Allen Young,,2
+Webster,15,Treasurer,,Michael Allen Young,,22
+Webster,18,Treasurer,,Michael Allen Young,,10
+Webster,21,Treasurer,,Michael Allen Young,,9
+Webster,22,Treasurer,,Michael Allen Young,,17
+Webster,23,Treasurer,,Michael Allen Young,,27
+Webster,24,Treasurer,,Michael Allen Young,,7
+Webster,27,Treasurer,,Michael Allen Young,,2
+Webster,29,Treasurer,,Michael Allen Young,,7
+Webster,Total,Treasurer,,Michael Allen Young,,163
+Webster,2,Commissioner Of Agriculture,,Kent Leonhardt,,81
+Webster,3,Commissioner Of Agriculture,,Kent Leonhardt,,98
+Webster,4,Commissioner Of Agriculture,,Kent Leonhardt,,51
+Webster,5,Commissioner Of Agriculture,,Kent Leonhardt,,56
+Webster,8,Commissioner Of Agriculture,,Kent Leonhardt,,67
+Webster,10,Commissioner Of Agriculture,,Kent Leonhardt,,14
+Webster,15,Commissioner Of Agriculture,,Kent Leonhardt,,103
+Webster,18,Commissioner Of Agriculture,,Kent Leonhardt,,54
+Webster,21,Commissioner Of Agriculture,,Kent Leonhardt,,70
+Webster,22,Commissioner Of Agriculture,,Kent Leonhardt,,112
+Webster,23,Commissioner Of Agriculture,,Kent Leonhardt,,87
+Webster,24,Commissioner Of Agriculture,,Kent Leonhardt,,63
+Webster,27,Commissioner Of Agriculture,,Kent Leonhardt,,59
+Webster,29,Commissioner Of Agriculture,,Kent Leonhardt,,37
+Webster,Total,Commissioner Of Agriculture,,Kent Leonhardt,,952
+Webster,2,Commissioner Of Agriculture,,Walt Helmick,,192
+Webster,3,Commissioner Of Agriculture,,Walt Helmick,,127
+Webster,4,Commissioner Of Agriculture,,Walt Helmick,,159
+Webster,5,Commissioner Of Agriculture,,Walt Helmick,,104
+Webster,8,Commissioner Of Agriculture,,Walt Helmick,,186
+Webster,10,Commissioner Of Agriculture,,Walt Helmick,,27
+Webster,15,Commissioner Of Agriculture,,Walt Helmick,,190
+Webster,18,Commissioner Of Agriculture,,Walt Helmick,,61
+Webster,21,Commissioner Of Agriculture,,Walt Helmick,,108
+Webster,22,Commissioner Of Agriculture,,Walt Helmick,,126
+Webster,23,Commissioner Of Agriculture,,Walt Helmick,,193
+Webster,24,Commissioner Of Agriculture,,Walt Helmick,,115
+Webster,27,Commissioner Of Agriculture,,Walt Helmick,,73
+Webster,29,Commissioner Of Agriculture,,Walt Helmick,,60
+Webster,Total,Commissioner Of Agriculture,,Walt Helmick,,1721
+Webster,2,Commissioner Of Agriculture,,Buddy A. Guthrie,,14
+Webster,3,Commissioner Of Agriculture,,Buddy A. Guthrie,,9
+Webster,4,Commissioner Of Agriculture,,Buddy A. Guthrie,,10
+Webster,5,Commissioner Of Agriculture,,Buddy A. Guthrie,,13
+Webster,8,Commissioner Of Agriculture,,Buddy A. Guthrie,,18
+Webster,10,Commissioner Of Agriculture,,Buddy A. Guthrie,,1
+Webster,15,Commissioner Of Agriculture,,Buddy A. Guthrie,,16
+Webster,18,Commissioner Of Agriculture,,Buddy A. Guthrie,,10
+Webster,21,Commissioner Of Agriculture,,Buddy A. Guthrie,,10
+Webster,22,Commissioner Of Agriculture,,Buddy A. Guthrie,,15
+Webster,23,Commissioner Of Agriculture,,Buddy A. Guthrie,,11
+Webster,24,Commissioner Of Agriculture,,Buddy A. Guthrie,,9
+Webster,27,Commissioner Of Agriculture,,Buddy A. Guthrie,,3
+Webster,29,Commissioner Of Agriculture,,Buddy A. Guthrie,,1
+Webster,Total,Commissioner Of Agriculture,,Buddy A. Guthrie,,140
+Webster,2,Attorney General,,Patrick Morrisey,,138
+Webster,3,Attorney General,,Patrick Morrisey,,133
+Webster,4,Attorney General,,Patrick Morrisey,,91
+Webster,5,Attorney General,,Patrick Morrisey,,70
+Webster,8,Attorney General,,Patrick Morrisey,,118
+Webster,10,Attorney General,,Patrick Morrisey,,22
+Webster,15,Attorney General,,Patrick Morrisey,,169
+Webster,18,Attorney General,,Patrick Morrisey,,68
+Webster,21,Attorney General,,Patrick Morrisey,,85
+Webster,22,Attorney General,,Patrick Morrisey,,136
+Webster,23,Attorney General,,Patrick Morrisey,,150
+Webster,24,Attorney General,,Patrick Morrisey,,93
+Webster,27,Attorney General,,Patrick Morrisey,,91
+Webster,29,Attorney General,,Patrick Morrisey,,46
+Webster,Total,Attorney General,,Patrick Morrisey,,1410
+Webster,2,Attorney General,,Doug Reynold,,123
+Webster,3,Attorney General,,Doug Reynold,,78
+Webster,4,Attorney General,,Doug Reynold,,114
+Webster,5,Attorney General,,Doug Reynold,,89
+Webster,8,Attorney General,,Doug Reynold,,130
+Webster,10,Attorney General,,Doug Reynold,,18
+Webster,15,Attorney General,,Doug Reynold,,126
+Webster,18,Attorney General,,Doug Reynold,,51
+Webster,21,Attorney General,,Doug Reynold,,69
+Webster,22,Attorney General,,Doug Reynold,,91
+Webster,23,Attorney General,,Doug Reynold,,125
+Webster,24,Attorney General,,Doug Reynold,,82
+Webster,27,Attorney General,,Doug Reynold,,32
+Webster,29,Attorney General,,Doug Reynold,,30
+Webster,Total,Attorney General,,Doug Reynold,,1179
+Webster,2,Attorney General,,Karl Kolenich,,15
+Webster,3,Attorney General,,Karl Kolenich,,19
+Webster,4,Attorney General,,Karl Kolenich,,13
+Webster,5,Attorney General,,Karl Kolenich,,15
+Webster,8,Attorney General,,Karl Kolenich,,19
+Webster,10,Attorney General,,Karl Kolenich,,3
+Webster,15,Attorney General,,Karl Kolenich,,17
+Webster,18,Attorney General,,Karl Kolenich,,5
+Webster,21,Attorney General,,Karl Kolenich,,24
+Webster,22,Attorney General,,Karl Kolenich,,23
+Webster,23,Attorney General,,Karl Kolenich,,23
+Webster,24,Attorney General,,Karl Kolenich,,20
+Webster,27,Attorney General,,Karl Kolenich,,5
+Webster,29,Attorney General,,Karl Kolenich,,7
+Webster,Total,Attorney General,,Karl Kolenich,,208
+Webster,2,Attorney General,,Michael Shanley,,7
+Webster,3,Attorney General,,Michael Shanley,,4
+Webster,4,Attorney General,,Michael Shanley,,5
+Webster,5,Attorney General,,Michael Shanley,,7
+Webster,8,Attorney General,,Michael Shanley,,8
+Webster,10,Attorney General,,Michael Shanley,,0
+Webster,15,Attorney General,,Michael Shanley,,6
+Webster,18,Attorney General,,Michael Shanley,,5
+Webster,21,Attorney General,,Michael Shanley,,8
+Webster,22,Attorney General,,Michael Shanley,,5
+Webster,23,Attorney General,,Michael Shanley,,5
+Webster,24,Attorney General,,Michael Shanley,,8
+Webster,27,Attorney General,,Michael Shanley,,1
+Webster,29,Attorney General,,Michael Shanley,,2
+Webster,Total,Attorney General,,Michael Shanley,,71
+Webster,2,State Senator,11,Greg Boso,,157
+Webster,3,State Senator,11,Greg Boso,,152
+Webster,4,State Senator,11,Greg Boso,,108
+Webster,5,State Senator,11,Greg Boso,,87
+Webster,8,State Senator,11,Greg Boso,,167
+Webster,10,State Senator,11,Greg Boso,,27
+Webster,15,State Senator,11,Greg Boso,,187
+Webster,18,State Senator,11,Greg Boso,,78
+Webster,21,State Senator,11,Greg Boso,,107
+Webster,22,State Senator,11,Greg Boso,,165
+Webster,23,State Senator,11,Greg Boso,,166
+Webster,24,State Senator,11,Greg Boso,,101
+Webster,27,State Senator,11,Greg Boso,,82
+Webster,29,State Senator,11,Greg Boso,,45
+Webster,Total,State Senator,11,Greg Boso,,1629
+Webster,2,State Senator,11,Denise Campbell,,110
+Webster,3,State Senator,11,Denise Campbell,,75
+Webster,4,State Senator,11,Denise Campbell,,108
+Webster,5,State Senator,11,Denise Campbell,,73
+Webster,8,State Senator,11,Denise Campbell,,100
+Webster,10,State Senator,11,Denise Campbell,,13
+Webster,15,State Senator,11,Denise Campbell,,118
+Webster,18,State Senator,11,Denise Campbell,,42
+Webster,21,State Senator,11,Denise Campbell,,69
+Webster,22,State Senator,11,Denise Campbell,,66
+Webster,23,State Senator,11,Denise Campbell,,111
+Webster,24,State Senator,11,Denise Campbell,,84
+Webster,27,State Senator,11,Denise Campbell,,53
+Webster,29,State Senator,11,Denise Campbell,,39
+Webster,Total,State Senator,11,Denise Campbell,,1061
+Webster,2,State Senator,11,Bruce Zeno Breuningen,,13
+Webster,3,State Senator,11,Bruce Zeno Breuningen,,8
+Webster,4,State Senator,11,Bruce Zeno Breuningen,,6
+Webster,5,State Senator,11,Bruce Zeno Breuningen,,8
+Webster,8,State Senator,11,Bruce Zeno Breuningen,,9
+Webster,10,State Senator,11,Bruce Zeno Breuningen,,2
+Webster,15,State Senator,11,Bruce Zeno Breuningen,,12
+Webster,18,State Senator,11,Bruce Zeno Breuningen,,10
+Webster,21,State Senator,11,Bruce Zeno Breuningen,,14
+Webster,22,State Senator,11,Bruce Zeno Breuningen,,24
+Webster,23,State Senator,11,Bruce Zeno Breuningen,,20
+Webster,24,State Senator,11,Bruce Zeno Breuningen,,6
+Webster,27,State Senator,11,Bruce Zeno Breuningen,,2
+Webster,29,State Senator,11,Bruce Zeno Breuningen,,6
+Webster,Total,State Senator,11,Bruce Zeno Breuningen,,140
+Webster,2,Member of House of Delegates,44,Duane Borchers Sr.,,60
+Webster,3,Member of House of Delegates,44,Duane Borchers Sr.,,66
+Webster,4,Member of House of Delegates,44,Duane Borchers Sr.,,48
+Webster,5,Member of House of Delegates,44,Duane Borchers Sr.,,51
+Webster,8,Member of House of Delegates,44,Duane Borchers Sr.,,65
+Webster,10,Member of House of Delegates,44,Duane Borchers Sr.,,15
+Webster,15,Member of House of Delegates,44,Duane Borchers Sr.,,82
+Webster,18,Member of House of Delegates,44,Duane Borchers Sr.,,29
+Webster,21,Member of House of Delegates,44,Duane Borchers Sr.,,59
+Webster,22,Member of House of Delegates,44,Duane Borchers Sr.,,90
+Webster,23,Member of House of Delegates,44,Duane Borchers Sr.,,75
+Webster,24,Member of House of Delegates,44,Duane Borchers Sr.,,60
+Webster,27,Member of House of Delegates,44,Duane Borchers Sr.,,54
+Webster,29,Member of House of Delegates,44,Duane Borchers Sr.,,29
+Webster,Total,Member of House of Delegates,44,Duane Borchers Sr.,,783
+Webster,2,Member of House of Delegates,44,Dana L. Lynch,,160
+Webster,3,Member of House of Delegates,44,Dana L. Lynch,,128
+Webster,4,Member of House of Delegates,44,Dana L. Lynch,,117
+Webster,5,Member of House of Delegates,44,Dana L. Lynch,,98
+Webster,8,Member of House of Delegates,44,Dana L. Lynch,,185
+Webster,10,Member of House of Delegates,44,Dana L. Lynch,,24
+Webster,15,Member of House of Delegates,44,Dana L. Lynch,,221
+Webster,18,Member of House of Delegates,44,Dana L. Lynch,,94
+Webster,21,Member of House of Delegates,44,Dana L. Lynch,,117
+Webster,22,Member of House of Delegates,44,Dana L. Lynch,,153
+Webster,23,Member of House of Delegates,44,Dana L. Lynch,,200
+Webster,24,Member of House of Delegates,44,Dana L. Lynch,,117
+Webster,27,Member of House of Delegates,44,Dana L. Lynch,,68
+Webster,29,Member of House of Delegates,44,Dana L. Lynch,,48
+Webster,Total,Member of House of Delegates,44,Dana L. Lynch,,1730
+Webster,2,Member of House of Delegates,44,Barbara Daniels,,6
+Webster,3,Member of House of Delegates,44,Barbara Daniels,,5
+Webster,4,Member of House of Delegates,44,Barbara Daniels,,8
+Webster,5,Member of House of Delegates,44,Barbara Daniels,,6
+Webster,8,Member of House of Delegates,44,Barbara Daniels,,6
+Webster,10,Member of House of Delegates,44,Barbara Daniels,,3
+Webster,15,Member of House of Delegates,44,Barbara Daniels,,10
+Webster,18,Member of House of Delegates,44,Barbara Daniels,,4
+Webster,21,Member of House of Delegates,44,Barbara Daniels,,10
+Webster,22,Member of House of Delegates,44,Barbara Daniels,,13
+Webster,23,Member of House of Delegates,44,Barbara Daniels,,8
+Webster,24,Member of House of Delegates,44,Barbara Daniels,,18
+Webster,27,Member of House of Delegates,44,Barbara Daniels,,6
+Webster,29,Member of House of Delegates,44,Barbara Daniels,,6
+Webster,Total,Member of House of Delegates,44,Barbara Daniels,,109
+Webster,2,Write-In,,Torli Bush,,63
+Webster,3,Write-In,,Torli Bush,,43
+Webster,4,Write-In,,Torli Bush,,44
+Webster,5,Write-In,,Torli Bush,,33
+Webster,8,Write-In,,Torli Bush,,33
+Webster,10,Write-In,,Torli Bush,,2
+Webster,15,Write-In,,Torli Bush,,14
+Webster,18,Write-In,,Torli Bush,,4
+Webster,21,Write-In,,Torli Bush,,9
+Webster,22,Write-In,,Torli Bush,,7
+Webster,23,Write-In,,Torli Bush,,21
+Webster,24,Write-In,,Torli Bush,,11
+Webster,27,Write-In,,Torli Bush,,11
+Webster,29,Write-In,,Torli Bush,,17
+Webster,Total,Write-In,,Torli Bush,,312
