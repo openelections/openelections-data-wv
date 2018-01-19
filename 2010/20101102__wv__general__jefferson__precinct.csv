@@ -1,0 +1,692 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson ,35B,Registered Voters,,,,1010
+Jefferson ,35A,Registered Voters,,,,953
+Jefferson ,34,Registered Voters,,,,1471
+Jefferson ,33,Registered Voters,,,,762
+Jefferson ,32,Registered Voters,,,,1318
+Jefferson ,31,Registered Voters,,,,1292
+Jefferson ,27,Registered Voters,,,,1505
+Jefferson ,28,Registered Voters,,,,1092
+Jefferson ,26,Registered Voters,,,,1318
+Jefferson ,25B,Registered Voters,,,,766
+Jefferson ,25A,Registered Voters,,,,850
+Jefferson ,22B,Registered Voters,,,,954
+Jefferson ,22A,Registered Voters,,,,949
+Jefferson ,16,Registered Voters,,,,989
+Jefferson ,23B,Registered Voters,,,,1174
+Jefferson ,23A,Registered Voters,,,,1014
+Jefferson ,21B,Registered Voters,,,,1248
+Jefferson ,21A,Registered Voters,,,,1277
+Jefferson ,20,Registered Voters,,,,820
+Jefferson ,19,Registered Voters,,,,548
+Jefferson ,17,Registered Voters,,,,1217
+Jefferson ,15,Registered Voters,,,,814
+Jefferson ,14,Registered Voters,,,,268
+Jefferson ,13B,Registered Voters,,,,843
+Jefferson ,13A,Registered Voters,,,,904
+Jefferson ,12,Registered Voters,,,,1568
+Jefferson ,7,Registered Voters,,,,1243
+Jefferson ,6,Registered Voters,,,,461
+Jefferson ,4B,Registered Voters,,,,1250
+Jefferson ,4A,Registered Voters,,,,1318
+Jefferson ,3,Registered Voters,,,,1280
+Jefferson ,2,Registered Voters,,,,1128
+Jefferson ,35B,Ballots Cast,,,,605
+Jefferson ,35A,Ballots Cast,,,,540
+Jefferson ,34,Ballots Cast,,,,805
+Jefferson ,33,Ballots Cast,,,,331
+Jefferson ,32,Ballots Cast,,,,725
+Jefferson ,31,Ballots Cast,,,,743
+Jefferson ,27,Ballots Cast,,,,639
+Jefferson ,28,Ballots Cast,,,,472
+Jefferson ,26,Ballots Cast,,,,646
+Jefferson ,25B,Ballots Cast,,,,377
+Jefferson ,25A,Ballots Cast,,,,428
+Jefferson ,22B,Ballots Cast,,,,444
+Jefferson ,22A,Ballots Cast,,,,464
+Jefferson ,16,Ballots Cast,,,,420
+Jefferson ,23B,Ballots Cast,,,,596
+Jefferson ,23A,Ballots Cast,,,,520
+Jefferson ,21B,Ballots Cast,,,,527
+Jefferson ,21A,Ballots Cast,,,,587
+Jefferson ,20,Ballots Cast,,,,429
+Jefferson ,19,Ballots Cast,,,,300
+Jefferson ,17,Ballots Cast,,,,499
+Jefferson ,15,Ballots Cast,,,,335
+Jefferson ,14,Ballots Cast,,,,159
+Jefferson ,13B,Ballots Cast,,,,409
+Jefferson ,13A,Ballots Cast,,,,471
+Jefferson ,12,Ballots Cast,,,,653
+Jefferson ,7,Ballots Cast,,,,390
+Jefferson ,6,Ballots Cast,,,,141
+Jefferson ,4B,Ballots Cast,,,,555
+Jefferson ,4A,Ballots Cast,,,,554
+Jefferson ,3,Ballots Cast,,,,620
+Jefferson ,2,Ballots Cast,,,,386
+Jefferson ,35B,Straight Party,,REP,,69
+Jefferson ,35A,Straight Party,,REP,,88
+Jefferson ,34,Straight Party,,REP,,125
+Jefferson ,33,Straight Party,,REP,,14
+Jefferson ,32,Straight Party,,REP,,159
+Jefferson ,31,Straight Party,,REP,,142
+Jefferson ,27,Straight Party,,REP,,166
+Jefferson ,28,Straight Party,,REP,,79
+Jefferson ,26,Straight Party,,REP,,165
+Jefferson ,25B,Straight Party,,REP,,85
+Jefferson ,25A,Straight Party,,REP,,93
+Jefferson ,22B,Straight Party,,REP,,124
+Jefferson ,22A,Straight Party,,REP,,111
+Jefferson ,16,Straight Party,,REP,,94
+Jefferson ,23B,Straight Party,,REP,,146
+Jefferson ,23A,Straight Party,,REP,,119
+Jefferson ,21B,Straight Party,,REP,,159
+Jefferson ,21A,Straight Party,,REP,,171
+Jefferson ,20,Straight Party,,REP,,99
+Jefferson ,19,Straight Party,,REP,,78
+Jefferson ,17,Straight Party,,REP,,123
+Jefferson ,15,Straight Party,,REP,,65
+Jefferson ,14,Straight Party,,REP,,17
+Jefferson ,13B,Straight Party,,REP,,86
+Jefferson ,13A,Straight Party,,REP,,109
+Jefferson ,12,Straight Party,,REP,,142
+Jefferson ,7,Straight Party,,REP,,54
+Jefferson ,6,Straight Party,,REP,,12
+Jefferson ,4B,Straight Party,,REP,,119
+Jefferson ,4A,Straight Party,,REP,,118
+Jefferson ,3,Straight Party,,REP,,92
+Jefferson ,2,Straight Party,,REP,,48
+Jefferson ,Total,Straight Party,,REP,,3271
+Jefferson ,35B,Straight Party,,DEM,,115
+Jefferson ,35A,Straight Party,,DEM,,82
+Jefferson ,34,Straight Party,,DEM,,163
+Jefferson ,33,Straight Party,,DEM,,82
+Jefferson ,32,Straight Party,,DEM,,131
+Jefferson ,31,Straight Party,,DEM,,115
+Jefferson ,27,Straight Party,,DEM,,119
+Jefferson ,28,Straight Party,,DEM,,92
+Jefferson ,26,Straight Party,,DEM,,76
+Jefferson ,25B,Straight Party,,DEM,,49
+Jefferson ,25A,Straight Party,,DEM,,49
+Jefferson ,22B,Straight Party,,DEM,,88
+Jefferson ,22A,Straight Party,,DEM,,82
+Jefferson ,16,Straight Party,,DEM,,90
+Jefferson ,23B,Straight Party,,DEM,,89
+Jefferson ,23A,Straight Party,,DEM,,94
+Jefferson ,21B,Straight Party,,DEM,,80
+Jefferson ,21A,Straight Party,,DEM,,93
+Jefferson ,20,Straight Party,,DEM,,69
+Jefferson ,19,Straight Party,,DEM,,43
+Jefferson ,17,Straight Party,,DEM,,94
+Jefferson ,15,Straight Party,,DEM,,74
+Jefferson ,14,Straight Party,,DEM,,28
+Jefferson ,13B,Straight Party,,DEM,,63
+Jefferson ,13A,Straight Party,,DEM,,73
+Jefferson ,12,Straight Party,,DEM,,129
+Jefferson ,7,Straight Party,,DEM,,107
+Jefferson ,6,Straight Party,,DEM,,47
+Jefferson ,4B,Straight Party,,DEM,,96
+Jefferson ,4A,Straight Party,,DEM,,110
+Jefferson ,3,Straight Party,,DEM,,125
+Jefferson ,2,Straight Party,,DEM,,119
+Jefferson ,Total,Straight Party,,DEM,,2866
+Jefferson ,35B,Straight Party,,CON,,0
+Jefferson ,35A,Straight Party,,CON,,1
+Jefferson ,34,Straight Party,,CON,,1
+Jefferson ,33,Straight Party,,CON,,1
+Jefferson ,32,Straight Party,,CON,,1
+Jefferson ,31,Straight Party,,CON,,0
+Jefferson ,27,Straight Party,,CON,,1
+Jefferson ,28,Straight Party,,CON,,4
+Jefferson ,26,Straight Party,,CON,,1
+Jefferson ,25B,Straight Party,,CON,,2
+Jefferson ,25A,Straight Party,,CON,,5
+Jefferson ,22B,Straight Party,,CON,,2
+Jefferson ,22A,Straight Party,,CON,,1
+Jefferson ,16,Straight Party,,CON,,0
+Jefferson ,23B,Straight Party,,CON,,1
+Jefferson ,23A,Straight Party,,CON,,3
+Jefferson ,21B,Straight Party,,CON,,1
+Jefferson ,21A,Straight Party,,CON,,0
+Jefferson ,20,Straight Party,,CON,,1
+Jefferson ,19,Straight Party,,CON,,2
+Jefferson ,17,Straight Party,,CON,,2
+Jefferson ,15,Straight Party,,CON,,1
+Jefferson ,14,Straight Party,,CON,,0
+Jefferson ,13B,Straight Party,,CON,,1
+Jefferson ,13A,Straight Party,,CON,,0
+Jefferson ,12,Straight Party,,CON,,1
+Jefferson ,7,Straight Party,,CON,,0
+Jefferson ,6,Straight Party,,CON,,1
+Jefferson ,4B,Straight Party,,CON,,2
+Jefferson ,4A,Straight Party,,CON,,1
+Jefferson ,3,Straight Party,,CON,,2
+Jefferson ,2,Straight Party,,CON,,2
+Jefferson ,Total,Straight Party,,CON,,41
+Jefferson ,35B,Straight Party,,MTN,,2
+Jefferson ,35A,Straight Party,,MTN,,0
+Jefferson ,34,Straight Party,,MTN,,3
+Jefferson ,33,Straight Party,,MTN,,0
+Jefferson ,32,Straight Party,,MTN,,1
+Jefferson ,31,Straight Party,,MTN,,0
+Jefferson ,27,Straight Party,,MTN,,1
+Jefferson ,28,Straight Party,,MTN,,1
+Jefferson ,26,Straight Party,,MTN,,1
+Jefferson ,25B,Straight Party,,MTN,,3
+Jefferson ,25A,Straight Party,,MTN,,0
+Jefferson ,22B,Straight Party,,MTN,,0
+Jefferson ,22A,Straight Party,,MTN,,0
+Jefferson ,16,Straight Party,,MTN,,6
+Jefferson ,23B,Straight Party,,MTN,,0
+Jefferson ,23A,Straight Party,,MTN,,1
+Jefferson ,21B,Straight Party,,MTN,,4
+Jefferson ,21A,Straight Party,,MTN,,2
+Jefferson ,20,Straight Party,,MTN,,0
+Jefferson ,19,Straight Party,,MTN,,0
+Jefferson ,17,Straight Party,,MTN,,1
+Jefferson ,15,Straight Party,,MTN,,1
+Jefferson ,14,Straight Party,,MTN,,0
+Jefferson ,13B,Straight Party,,MTN,,0
+Jefferson ,13A,Straight Party,,MTN,,0
+Jefferson ,12,Straight Party,,MTN,,1
+Jefferson ,7,Straight Party,,MTN,,0
+Jefferson ,6,Straight Party,,MTN,,1
+Jefferson ,4B,Straight Party,,MTN,,1
+Jefferson ,4A,Straight Party,,MTN,,2
+Jefferson ,3,Straight Party,,MTN,,0
+Jefferson ,2,Straight Party,,MTN,,1
+Jefferson ,Total ,Straight Party,,MTN,,33
+Jefferson ,35B,U.S. Senate,,REP,John R. Raese,193
+Jefferson ,35A,U.S. Senate,,REP,John R. Raese,195
+Jefferson ,34,U.S. Senate,,REP,John R. Raese,296
+Jefferson ,33,U.S. Senate,,REP,John R. Raese,47
+Jefferson ,32,U.S. Senate,,REP,John R. Raese,341
+Jefferson ,31,U.S. Senate,,REP,John R. Raese,293
+Jefferson ,27,U.S. Senate,,REP,John R. Raese,313
+Jefferson ,28,U.S. Senate,,REP,John R. Raese,205
+Jefferson ,26,U.S. Senate,,REP,John R. Raese,333
+Jefferson ,25B,U.S. Senate,,REP,John R. Raese,180
+Jefferson ,25A,U.S. Senate,,REP,John R. Raese,218
+Jefferson ,22B,U.S. Senate,,REP,John R. Raese,235
+Jefferson ,22A,U.S. Senate,,REP,John R. Raese,231
+Jefferson ,16,U.S. Senate,,REP,John R. Raese,192
+Jefferson ,23B,U.S. Senate,,REP,John R. Raese,319
+Jefferson ,23A,U.S. Senate,,REP,John R. Raese,266
+Jefferson ,21B,U.S. Senate,,REP,John R. Raese,290
+Jefferson ,21A,U.S. Senate,,REP,John R. Raese,306
+Jefferson ,20,U.S. Senate,,REP,John R. Raese,232
+Jefferson ,19,U.S. Senate,,REP,John R. Raese,156
+Jefferson ,17,U.S. Senate,,REP,John R. Raese,238
+Jefferson ,15,U.S. Senate,,REP,John R. Raese,130
+Jefferson ,14,U.S. Senate,,REP,John R. Raese,35
+Jefferson ,13B,U.S. Senate,,REP,John R. Raese,205
+Jefferson ,13A,U.S. Senate,,REP,John R. Raese,252
+Jefferson ,12,U.S. Senate,,REP,John R. Raese,320
+Jefferson ,7,U.S. Senate,,REP,John R. Raese,123
+Jefferson ,6,U.S. Senate,,REP,John R. Raese,41
+Jefferson ,4B,U.S. Senate,,REP,John R. Raese,262
+Jefferson ,4A,U.S. Senate,,REP,John R. Raese,262
+Jefferson ,3,U.S. Senate,,REP,John R. Raese,243
+Jefferson ,2,U.S. Senate,,REP,John R. Raese,130
+Jefferson ,Total,U.S. Senate,,REP,John R. Raese,7082
+Jefferson ,35B,U.S. Senate,,DEM,Joe Manchin III,381
+Jefferson ,35A,U.S. Senate,,DEM,Joe Manchin III,323
+Jefferson ,34,U.S. Senate,,DEM,Joe Manchin III,474
+Jefferson ,33,U.S. Senate,,DEM,Joe Manchin III,262
+Jefferson ,32,U.S. Senate,,DEM,Joe Manchin III,346
+Jefferson ,31,U.S. Senate,,DEM,Joe Manchin III,404
+Jefferson ,27,U.S. Senate,,DEM,Joe Manchin III,295
+Jefferson ,28,U.S. Senate,,DEM,Joe Manchin III,243
+Jefferson ,26,U.S. Senate,,DEM,Joe Manchin III,271
+Jefferson ,25B,U.S. Senate,,DEM,Joe Manchin III,175
+Jefferson ,25A,U.S. Senate,,DEM,Joe Manchin III,178
+Jefferson ,22B,U.S. Senate,,DEM,Joe Manchin III,194
+Jefferson ,22A,U.S. Senate,,DEM,Joe Manchin III,202
+Jefferson ,16,U.S. Senate,,DEM,Joe Manchin III,209
+Jefferson ,23B,U.S. Senate,,DEM,Joe Manchin III,264
+Jefferson ,23A,U.S. Senate,,DEM,Joe Manchin III,228
+Jefferson ,21B,U.S. Senate,,DEM,Joe Manchin III,201
+Jefferson ,21A,U.S. Senate,,DEM,Joe Manchin III,241
+Jefferson ,20,U.S. Senate,,DEM,Joe Manchin III,186
+Jefferson ,19,U.S. Senate,,DEM,Joe Manchin III,132
+Jefferson ,17,U.S. Senate,,DEM,Joe Manchin III,232
+Jefferson ,15,U.S. Senate,,DEM,Joe Manchin III,185
+Jefferson ,14,U.S. Senate,,DEM,Joe Manchin III,114
+Jefferson ,13B,U.S. Senate,,DEM,Joe Manchin III,183
+Jefferson ,13A,U.S. Senate,,DEM,Joe Manchin III,201
+Jefferson ,12,U.S. Senate,,DEM,Joe Manchin III,292
+Jefferson ,7,U.S. Senate,,DEM,Joe Manchin III,233
+Jefferson ,6,U.S. Senate,,DEM,Joe Manchin III,96
+Jefferson ,4B,U.S. Senate,,DEM,Joe Manchin III,260
+Jefferson ,4A,U.S. Senate,,DEM,Joe Manchin III,263
+Jefferson ,3,U.S. Senate,,DEM,Joe Manchin III,352
+Jefferson ,2,U.S. Senate,,DEM,Joe Manchin III,241
+Jefferson ,total,U.S. Senate,,DEM,Joe Manchin III,7861
+Jefferson ,35B,U.S. Senate,,CON,Jeff Becker,12
+Jefferson ,35A,U.S. Senate,,CON,Jeff Becker,8
+Jefferson ,34,U.S. Senate,,CON,Jeff Becker,14
+Jefferson ,33,U.S. Senate,,CON,Jeff Becker,2
+Jefferson ,32,U.S. Senate,,CON,Jeff Becker,15
+Jefferson ,31,U.S. Senate,,CON,Jeff Becker,19
+Jefferson ,27,U.S. Senate,,CON,Jeff Becker,25
+Jefferson ,28,U.S. Senate,,CON,Jeff Becker,11
+Jefferson ,26,U.S. Senate,,CON,Jeff Becker,26
+Jefferson ,25B,U.S. Senate,,CON,Jeff Becker,16
+Jefferson ,25A,U.S. Senate,,CON,Jeff Becker,20
+Jefferson ,22B,U.S. Senate,,CON,Jeff Becker,7
+Jefferson ,22A,U.S. Senate,,CON,Jeff Becker,19
+Jefferson ,16,U.S. Senate,,CON,Jeff Becker,10
+Jefferson ,23B,U.S. Senate,,CON,Jeff Becker,8
+Jefferson ,23A,U.S. Senate,,CON,Jeff Becker,11
+Jefferson ,21B,U.S. Senate,,CON,Jeff Becker,22
+Jefferson ,21A,U.S. Senate,,CON,Jeff Becker,16
+Jefferson ,20,U.S. Senate,,CON,Jeff Becker,9
+Jefferson ,19,U.S. Senate,,CON,Jeff Becker,5
+Jefferson ,17,U.S. Senate,,CON,Jeff Becker,17
+Jefferson ,15,U.S. Senate,,CON,Jeff Becker,10
+Jefferson ,14,U.S. Senate,,CON,Jeff Becker,1
+Jefferson ,13B,U.S. Senate,,CON,Jeff Becker,11
+Jefferson ,13A,U.S. Senate,,CON,Jeff Becker,6
+Jefferson ,12,U.S. Senate,,CON,Jeff Becker,24
+Jefferson ,7,U.S. Senate,,CON,Jeff Becker,20
+Jefferson ,6,U.S. Senate,,CON,Jeff Becker,1
+Jefferson ,4B,U.S. Senate,,CON,Jeff Becker,19
+Jefferson ,4A,U.S. Senate,,CON,Jeff Becker,18
+Jefferson ,3,U.S. Senate,,CON,Jeff Becker,12
+Jefferson ,2,U.S. Senate,,CON,Jeff Becker,8
+Jefferson ,Total,U.S. Senate,,CON,Jeff Becker,422
+Jefferson ,35B,U.S. Senate,,MTN,Jesse Johnson,16
+Jefferson ,35A,U.S. Senate,,MTN,Jesse Johnson,11
+Jefferson ,34,U.S. Senate,,MTN,Jesse Johnson,13
+Jefferson ,33,U.S. Senate,,MTN,Jesse Johnson,14
+Jefferson ,32,U.S. Senate,,MTN,Jesse Johnson,15
+Jefferson ,31,U.S. Senate,,MTN,Jesse Johnson,25
+Jefferson ,27,U.S. Senate,,MTN,Jesse Johnson,4
+Jefferson ,28,U.S. Senate,,MTN,Jesse Johnson,8
+Jefferson ,26,U.S. Senate,,MTN,Jesse Johnson,9
+Jefferson ,25B,U.S. Senate,,MTN,Jesse Johnson,3
+Jefferson ,25A,U.S. Senate,,MTN,Jesse Johnson,8
+Jefferson ,22B,U.S. Senate,,MTN,Jesse Johnson,6
+Jefferson ,22A,U.S. Senate,,MTN,Jesse Johnson,7
+Jefferson ,16,U.S. Senate,,MTN,Jesse Johnson,5
+Jefferson ,23B,U.S. Senate,,MTN,Jesse Johnson,3
+Jefferson ,23A,U.S. Senate,,MTN,Jesse Johnson,5
+Jefferson ,21B,U.S. Senate,,MTN,Jesse Johnson,7
+Jefferson ,21A,U.S. Senate,,MTN,Jesse Johnson,18
+Jefferson ,20,U.S. Senate,,MTN,Jesse Johnson,0
+Jefferson ,19,U.S. Senate,,MTN,Jesse Johnson,3
+Jefferson ,17,U.S. Senate,,MTN,Jesse Johnson,8
+Jefferson ,15,U.S. Senate,,MTN,Jesse Johnson,8
+Jefferson ,14,U.S. Senate,,MTN,Jesse Johnson,9
+Jefferson ,13B,U.S. Senate,,MTN,Jesse Johnson,6
+Jefferson ,13A,U.S. Senate,,MTN,Jesse Johnson,3
+Jefferson ,12,U.S. Senate,,MTN,Jesse Johnson,8
+Jefferson ,7,U.S. Senate,,MTN,Jesse Johnson,7
+Jefferson ,6,U.S. Senate,,MTN,Jesse Johnson,1
+Jefferson ,4B,U.S. Senate,,MTN,Jesse Johnson,10
+Jefferson ,4A,U.S. Senate,,MTN,Jesse Johnson,7
+Jefferson ,3,U.S. Senate,,MTN,Jesse Johnson,10
+Jefferson ,2,U.S. Senate,,MTN,Jesse Johnson,2
+Jefferson ,Total,U.S. Senate,,MTN,Jesse Johnson,259
+Jefferson ,35B,U.S. Senate,2,,Write-ins,1
+Jefferson ,35A,U.S. Senate,2,,Write-ins,0
+Jefferson ,34,U.S. Senate,2,,Write-ins,0
+Jefferson ,33,U.S. Senate,2,,Write-ins,2
+Jefferson ,32,U.S. Senate,2,,Write-ins,1
+Jefferson ,31,U.S. Senate,2,,Write-ins,0
+Jefferson ,27,U.S. Senate,2,,Write-ins,1
+Jefferson ,28,U.S. Senate,2,,Write-ins,2
+Jefferson ,26,U.S. Senate,2,,Write-ins,0
+Jefferson ,25B,U.S. Senate,2,,Write-ins,1
+Jefferson ,25A,U.S. Senate,2,,Write-ins,1
+Jefferson ,22B,U.S. Senate,2,,Write-ins,0
+Jefferson ,22A,U.S. Senate,2,,Write-ins,0
+Jefferson ,16,U.S. Senate,2,,Write-ins,0
+Jefferson ,23B,U.S. Senate,2,,Write-ins,0
+Jefferson ,23A,U.S. Senate,2,,Write-ins,1
+Jefferson ,21B,U.S. Senate,2,,Write-ins,0
+Jefferson ,21A,U.S. Senate,2,,Write-ins,1
+Jefferson ,20,U.S. Senate,2,,Write-ins,0
+Jefferson ,19,U.S. Senate,2,,Write-ins,0
+Jefferson ,17,U.S. Senate,2,,Write-ins,0
+Jefferson ,15,U.S. Senate,2,,Write-ins,0
+Jefferson ,14,U.S. Senate,2,,Write-ins,0
+Jefferson ,13B,U.S. Senate,2,,Write-ins,0
+Jefferson ,13A,U.S. Senate,2,,Write-ins,0
+Jefferson ,12,U.S. Senate,2,,Write-ins,2
+Jefferson ,7,U.S. Senate,2,,Write-ins,0
+Jefferson ,6,U.S. Senate,2,,Write-ins,0
+Jefferson ,4B,U.S. Senate,22,,Write-ins,0
+Jefferson ,4A,U.S. Senate,22,,Write-ins,0
+Jefferson ,3,U.S. Senate,2,,Write-ins,1
+Jefferson ,2,U.S. Senate,2,,Write-ins,0
+Jefferson ,Total,U.S. Senate,2,,Write-ins,14
+Jefferson ,35B,U.S. House,2,REP,Shelley Moore Capito,273
+Jefferson ,35A,U.S. House,2,REP,Shelley Moore Capito,281
+Jefferson ,34,U.S. House,2,REP,Shelley Moore Capito,399
+Jefferson ,33,U.S. House,2,REP,Shelley Moore Capito,229
+Jefferson ,32,U.S. House,2,REP,Shelley Moore Capito,306
+Jefferson ,31,U.S. House,2,REP,Shelley Moore Capito,334
+Jefferson ,27,U.S. House,2,REP,Shelley Moore Capito,240
+Jefferson ,28,U.S. House,2,REP,Shelley Moore Capito,174
+Jefferson ,26,U.S. House,2,REP,Shelley Moore Capito,192
+Jefferson ,25B,U.S. House,2,REP,Shelley Moore Capito,126
+Jefferson ,25A,U.S. House,2,REP,Shelley Moore Capito,131
+Jefferson ,22B,U.S. House,2,REP,Shelley Moore Capito,184
+Jefferson ,22A,U.S. House,2,REP,Shelley Moore Capito,275
+Jefferson ,16,U.S. House,2,REP,Shelley Moore Capito,240
+Jefferson ,23B,U.S. House,2,REP,Shelley Moore Capito,388
+Jefferson ,23A,U.S. House,2,REP,Shelley Moore Capito,331
+Jefferson ,21B,U.S. House,2,REP,Shelley Moore Capito,326
+Jefferson ,21A,U.S. House,2,REP,Shelley Moore Capito,358
+Jefferson ,20,U.S. House,2,REP,Shelley Moore Capito,272
+Jefferson ,19,U.S. House,2,REP,Shelley Moore Capito,192
+Jefferson ,17,U.S. House,2,REP,Shelley Moore Capito,282
+Jefferson ,15,U.S. House,2,REP,Shelley Moore Capito,183
+Jefferson ,14,U.S. House,2,REP,Shelley Moore Capito,55
+Jefferson ,13B,U.S. House,2,REP,Shelley Moore Capito,242
+Jefferson ,13A,U.S. House,2,REP,Shelley Moore Capito,292
+Jefferson ,12,U.S. House,2,REP,Shelley Moore Capito,393
+Jefferson ,7,U.S. House,2,REP,Shelley Moore Capito,177
+Jefferson ,6,U.S. House,2,REP,Shelley Moore Capito,49
+Jefferson ,4B,U.S. House,2,REP,Shelley Moore Capito,374
+Jefferson ,4A,U.S. House,2,REP,Shelley Moore Capito,305
+Jefferson ,3,U.S. House,2,REP,Shelley Moore Capito,333
+Jefferson ,2,U.S. House,2,REP,Shelley Moore Capito,178
+Jefferson ,total,U.S. House,2,REP,Shelley Moore Capito,8114
+Jefferson ,35B,U.S. House,2,DEM,Virginia Lynch Graf ,317
+Jefferson ,35A,U.S. House,2,DEM,Virginia Lynch Graf ,248
+Jefferson ,34,U.S. House,2,DEM,Virginia Lynch Graf ,380
+Jefferson ,33,U.S. House,2,DEM,Virginia Lynch Graf ,229
+Jefferson ,32,U.S. House,2,DEM,Virginia Lynch Graf ,306
+Jefferson ,31,U.S. House,2,DEM,Virginia Lynch Graf ,334
+Jefferson ,27,U.S. House,2,DEM,Virginia Lynch Graf ,240
+Jefferson ,28,U.S. House,2,DEM,Virginia Lynch Graf ,174
+Jefferson ,26,U.S. House,2,DEM,Virginia Lynch Graf ,192
+Jefferson ,25B,U.S. House,2,DEM,Virginia Lynch Graf ,126
+Jefferson ,25A,U.S. House,2,DEM,Virginia Lynch Graf ,131
+Jefferson ,22B,U.S. House,2,DEM,Virginia Lynch Graf ,184
+Jefferson ,22A,U.S. House,2,DEM,Virginia Lynch Graf ,179
+Jefferson ,16,U.S. House,2,DEM,Virginia Lynch Graf ,167
+Jefferson ,23B,U.S. House,2,DEM,Virginia Lynch Graf ,192
+Jefferson ,23A,U.S. House,2,DEM,Virginia Lynch Graf ,172
+Jefferson ,21B,U.S. House,2,DEM,Virginia Lynch Graf ,179
+Jefferson ,21A,U.S. House,2,DEM,Virginia Lynch Graf ,212
+Jefferson ,20,U.S. House,2,DEM,Virginia Lynch Graf ,152
+Jefferson ,19,U.S. House,2,DEM,Virginia Lynch Graf ,99
+Jefferson ,17,U.S. House,2,DEM,Virginia Lynch Graf ,201
+Jefferson ,15,U.S. House,2,DEM,Virginia Lynch Graf ,145
+Jefferson ,14,U.S. House,2,DEM,Virginia Lynch Graf ,102
+Jefferson ,13B,U.S. House,2,DEM,Virginia Lynch Graf ,154
+Jefferson ,13A,U.S. House,2,DEM,Virginia Lynch Graf ,162
+Jefferson ,12,U.S. House,2,DEM,Virginia Lynch Graf ,244
+Jefferson ,7,U.S. House,2,DEM,Virginia Lynch Graf ,198
+Jefferson ,6,U.S. House,2,DEM,Virginia Lynch Graf ,81
+Jefferson ,4B,U.S. House,2,DEM,Virginia Lynch Graf ,197
+,4A,U.S. House,2,DEM,Virginia Lynch Graf ,227
+Jefferson ,3,U.S. House,2,DEM,Virginia Lynch Graf ,281
+Jefferson ,2,U.S. House,2,DEM,Virginia Lynch Graf ,198
+Jefferson ,Total,U.S. House,2,DEM,Virginia Lynch Graf ,6403
+Jefferson ,35B,U.S. House,2,CON,Phil Hudok,6
+Jefferson ,35A,U.S. House,2,CON,Phil Hudok,2
+Jefferson ,34,U.S. House,2,CON,Phil Hudok,12
+Jefferson ,33,U.S. House,2,CON,Phil Hudok,3
+Jefferson ,32,U.S. House,2,CON,Phil Hudok,11
+Jefferson ,31,U.S. House,2,CON,Phil Hudok,10
+Jefferson ,27,U.S. House,2,CON,Phil Hudok,13
+Jefferson ,28,U.S. House,2,CON,Phil Hudok,2
+Jefferson ,26,U.S. House,2,CON,Phil Hudok,9
+Jefferson ,25B,U.S. House,2,CON,Phil Hudok,6
+Jefferson ,25A,U.S. House,2,CON,Phil Hudok,7
+Jefferson ,22B,U.S. House,2,CON,Phil Hudok,8
+Jefferson ,22A,U.S. House,2,CON,Phil Hudok,8
+Jefferson ,16,U.S. House,2,CON,Phil Hudok,8
+Jefferson ,23B,U.S. House,2,CON,Phil Hudok,8
+Jefferson ,23A,U.S. House,2,CON,Phil Hudok,5
+Jefferson ,21B,U.S. House,2,CON,Phil Hudok,15
+Jefferson ,21A,U.S. House,2,CON,Phil Hudok,10
+Jefferson ,20,U.S. House,2,CON,Phil Hudok,2
+Jefferson ,19,U.S. House,2,CON,Phil Hudok,3
+Jefferson ,17,U.S. House,2,CON,Phil Hudok,8
+Jefferson ,15,U.S. House,2,CON,Phil Hudok,2
+Jefferson ,14,U.S. House,2,CON,Phil Hudok,1
+Jefferson ,13B,U.S. House,2,CON,Phil Hudok,9
+Jefferson ,13A,U.S. House,2,CON,Phil Hudok,6
+Jefferson ,12,U.S. House,2,CON,Phil Hudok,5
+Jefferson ,7,U.S. House,2,CON,Phil Hudok,6
+Jefferson ,6,U.S. House,2,CON,Phil Hudok,3
+Jefferson ,4B,U.S. House,2,CON,Phil Hudok,9
+Jefferson ,4A,U.S. House,2,CON,Phil Hudok,13
+Jefferson ,3,U.S. House,2,CON,Phil Hudok,4
+Jefferson ,2,U.S. House,2,CON,Phil Hudok,2
+Jefferson ,,U.S. House,2,CON,Phil Hudok,216
+Jefferson ,35B,U.S. House,2,,Write-ins,0
+Jefferson ,35A,U.S. House,2,,Write-ins,0
+Jefferson ,34,U.S. House,2,,Write-ins,1
+Jefferson ,33,U.S. House,2,,Write-ins,0
+Jefferson ,32,U.S. House,2,,Write-ins,0
+Jefferson ,31,U.S. House,2,,Write-ins,0
+Jefferson ,27,U.S. House,2,,Write-ins,0
+Jefferson ,28,U.S. House,2,,Write-ins,1
+Jefferson ,26,U.S. House,2,,Write-ins,0
+Jefferson ,25B,U.S. House,2,,Write-ins,0
+Jefferson ,25A,U.S. House,2,,Write-ins,0
+Jefferson ,22B,U.S. House,2,,Write-ins,0
+Jefferson ,22A,U.S. House,2,,Write-ins,0
+Jefferson ,16,U.S. House,2,,Write-ins,0
+Jefferson ,23B,U.S. House,2,,Write-ins,0
+Jefferson ,23A,U.S. House,2,,Write-ins,0
+Jefferson ,21B,U.S. House,2,,Write-ins,0
+Jefferson ,21A,U.S. House,2,,Write-ins,0
+Jefferson ,20,U.S. House,2,,Write-ins,0
+Jefferson ,19,U.S. House,2,,Write-ins,0
+Jefferson ,17,U.S. House,2,,Write-ins,0
+Jefferson ,15,U.S. House,2,,Write-ins,0
+Jefferson ,14,U.S. House,2,,Write-ins,0
+Jefferson ,13B,U.S. House,2,,Write-ins,0
+Jefferson ,13A,U.S. House,2,,Write-ins,0
+Jefferson ,12,U.S. House,2,,Write-ins,2
+Jefferson ,7,U.S. House,2,,Write-ins,0
+Jefferson ,6,U.S. House,2,,Write-ins,0
+Jefferson ,4B,U.S. House,2,,Write-ins,0
+Jefferson ,4A,U.S. House,2,,Write-ins,0
+Jefferson ,3,U.S. House,2,,Write-ins,1
+Jefferson ,2,U.S. House,2,,Write-ins,0
+Jefferson ,Total ,U.S. House,2,,Write-ins,5
+Jefferson ,35B,State Senator ,16,REP,Craig Blair ,200
+Jefferson ,35A,State Senator ,16,REP,Craig Blair ,197
+Jefferson ,34,State Senator ,16,REP,Craig Blair ,271
+Jefferson ,33,State Senator ,16,REP,Craig Blair ,42
+Jefferson ,32,State Senator ,16,REP,Craig Blair ,307
+Jefferson ,31,State Senator ,16,REP,Craig Blair ,280
+Jefferson ,27,State Senator ,16,REP,Craig Blair ,315
+Jefferson ,28,State Senator ,16,REP,Craig Blair ,191
+Jefferson ,26,State Senator ,16,REP,Craig Blair ,327
+Jefferson ,25B,State Senator ,16,REP,Craig Blair ,171
+Jefferson ,25A,State Senator ,16,REP,Craig Blair ,212
+Jefferson ,22B,State Senator ,16,REP,Craig Blair ,226
+Jefferson ,22A,State Senator ,16,REP,Craig Blair ,226
+Jefferson ,16,State Senator ,16,REP,Craig Blair ,195
+Jefferson ,23B,State Senator ,16,REP,Craig Blair ,312
+Jefferson ,23A,State Senator ,16,REP,Craig Blair ,236
+Jefferson ,21B,State Senator ,16,REP,Craig Blair ,293
+Jefferson ,21A,State Senator ,16,REP,Craig Blair ,327
+Jefferson ,20,State Senator ,16,REP,Craig Blair ,227
+Jefferson ,19,State Senator ,16,REP,Craig Blair ,154
+Jefferson ,17,State Senator ,16,REP,Craig Blair ,263
+Jefferson ,15,State Senator ,16,REP,Craig Blair ,126
+Jefferson ,14,State Senator ,16,REP,Craig Blair ,35
+Jefferson ,13B,State Senator ,16,REP,Craig Blair ,201
+Jefferson ,13A,State Senator ,16,REP,Craig Blair ,232
+Jefferson ,12,State Senator ,16,REP,Craig Blair ,325
+Jefferson ,7,State Senator ,16,REP,Craig Blair ,114
+Jefferson ,6,State Senator ,16,REP,Craig Blair ,31
+Jefferson ,4B,State Senator ,16,REP,Craig Blair ,251
+Jefferson ,4A,State Senator ,16,REP,Craig Blair ,260
+Jefferson ,3,State Senator ,16,REP,Craig Blair ,211
+Jefferson ,2,State Senator ,16,REP,Craig Blair ,127
+Jefferson ,Total,State Senator ,16,REP,Craig Blair ,6885
+Jefferson ,35B,State Senator ,16,DEM,John Unger,398
+Jefferson ,35A,State Senator ,16,DEM,John Unger,329
+Jefferson ,34,State Senator ,16,DEM,John Unger,512
+Jefferson ,33,State Senator ,16,DEM,John Unger,271
+Jefferson ,32,State Senator ,16,DEM,John Unger,399
+Jefferson ,31,State Senator ,16,DEM,John Unger,449
+Jefferson ,27,State Senator ,16,DEM,John Unger,310
+Jefferson ,28,State Senator ,16,DEM,John Unger,271
+Jefferson ,26,State Senator ,16,DEM,John Unger,307
+Jefferson ,25B,State Senator ,16,DEM,John Unger,197
+Jefferson ,25A,State Senator ,16,DEM,John Unger,209
+Jefferson ,22B,State Senator ,16,DEM,John Unger,208
+Jefferson ,22A,State Senator ,16,DEM,John Unger,223
+Jefferson ,16,State Senator ,16,DEM,John Unger,215
+Jefferson ,23B,State Senator ,16,DEM,John Unger,266
+Jefferson ,23A,State Senator ,16,DEM,John Unger,259
+Jefferson ,21B,State Senator ,16,DEM,John Unger,217
+Jefferson ,21A,State Senator ,16,DEM,John Unger,252
+Jefferson ,20,State Senator ,16,DEM,John Unger,193
+Jefferson ,19,State Senator ,16,DEM,John Unger,139
+Jefferson ,17,State Senator ,16,DEM,John Unger,228
+Jefferson ,15,State Senator ,16,DEM,John Unger,203
+Jefferson ,14,State Senator ,16,DEM,John Unger,116
+Jefferson ,13B,State Senator ,16,DEM,John Unger,193
+Jefferson ,13A,State Senator ,16,DEM,John Unger,226
+Jefferson ,12,State Senator ,16,DEM,John Unger,300
+Jefferson ,7,State Senator ,16,DEM,John Unger,265
+Jefferson ,6,State Senator ,16,DEM,John Unger,107
+Jefferson ,4B,State Senator ,16,DEM,John Unger,290
+Jefferson ,4A,State Senator ,16,DEM,John Unger,276
+Jefferson ,3,State Senator ,16,DEM,John Unger,396
+Jefferson ,2,State Senator ,16,DEM,John Unger,248
+Jefferson ,Total,State Senator ,16,DEM,John Unger,8472
+Jefferson ,35B,State Senator ,16,,Write-ins,0
+Jefferson ,35A,State Senator ,16,,Write-ins,0
+Jefferson ,34,State Senator ,16,,Write-ins,1
+Jefferson ,33,State Senator ,16,,Write-ins,0
+Jefferson ,32,State Senator ,16,,Write-ins,0
+Jefferson ,31,State Senator ,16,,Write-ins,0
+Jefferson ,27,State Senator ,16,,Write-ins,0
+Jefferson ,28,State Senator ,16,,Write-ins,0
+Jefferson ,26,State Senator ,16,,Write-ins,1
+Jefferson ,25B,State Senator ,16,,Write-ins,0
+Jefferson ,25A,State Senator ,16,,Write-ins,0
+Jefferson ,22B,State Senator ,16,,Write-ins,0
+Jefferson ,22A,State Senator ,16,,Write-ins,1
+Jefferson ,16,State Senator ,16,,Write-ins,0
+Jefferson ,23B,State Senator ,16,,Write-ins,1
+Jefferson ,23A,State Senator ,16,,Write-ins,0
+Jefferson ,21B,State Senator ,16,,Write-ins,1
+Jefferson ,21A,State Senator ,16,,Write-ins,1
+Jefferson ,20,State Senator ,16,,Write-ins,0
+Jefferson ,19,State Senator ,16,,Write-ins,0
+Jefferson ,17,State Senator ,16,,Write-ins,0
+Jefferson ,15,State Senator ,16,,Write-ins,0
+Jefferson ,14,State Senator ,16,,Write-ins,0
+Jefferson ,13B,State Senator ,16,,Write-ins,0
+Jefferson ,13A,State Senator ,16,,Write-ins,0
+Jefferson ,12,State Senator ,16,,Write-ins,1
+Jefferson ,7,State Senator ,16,,Write-ins,0
+Jefferson ,6,State Senator ,16,,Write-ins,0
+Jefferson ,4B,State Senator ,16,,Write-ins,0
+Jefferson ,4A,State Senator ,16,,Write-ins,0
+Jefferson ,3,State Senator ,16,,Write-ins,2
+Jefferson ,2,State Senator ,16,,Write-ins,1
+Jefferson ,Total ,State Senator ,16,,Write-ins,10
+Jefferson ,35B,House of Delegates ,57,REP,Elliot Simon,223
+Jefferson ,35A,House of Delegates ,57,REP,Elliot Simon,207
+Jefferson ,34,House of Delegates ,57,REP,Elliot Simon,294
+Jefferson ,33,House of Delegates ,57,REP,Elliot Simon,43
+Jefferson ,32,House of Delegates ,57,REP,Elliot Simon,352
+Jefferson ,31,House of Delegates ,57,REP,Elliot Simon,316
+Jefferson ,27,House of Delegates ,57,REP,Elliot Simon,344
+Jefferson ,28,House of Delegates ,56,REP,Eric. L Householder,198
+Jefferson ,26,House of Delegates ,56,REP,Eric. L Householder,349
+Jefferson ,25B,House of Delegates ,56,REP,Eric. L Householder,179
+Jefferson ,25A,House of Delegates ,56,REP,Eric. L Householder,238
+Jefferson ,22B,House of Delegates ,56,REP,Eric. L Householder,213
+Jefferson ,22A,House of Delegates ,56,REP,Eric. L Householder,224
+Jefferson ,16,House of Delegates ,58,REP,Blake Thompson ,195
+Jefferson ,23B,House of Delegates ,58,REP,Blake Thompson ,298
+Jefferson ,23A,House of Delegates ,58,REP,Blake Thompson ,238
+Jefferson ,21B,House of Delegates ,58,REP,Blake Thompson ,278
+Jefferson ,21A,House of Delegates ,58,REP,Blake Thompson ,318
+Jefferson ,20,House of Delegates ,58,REP,Blake Thompson ,226
+Jefferson ,19,House of Delegates ,58,REP,Blake Thompson ,140
+Jefferson ,17,House of Delegates ,57,REP,Elliot Simon,296
+Jefferson ,15,House of Delegates ,57,REP,Elliot Simon,159
+Jefferson ,14,House of Delegates ,57,REP,Elliot Simon,45
+Jefferson ,13B,House of Delegates ,57,REP,Elliot Simon,209
+Jefferson ,13A,House of Delegates ,57,REP,Elliot Simon,266
+Jefferson ,12,House of Delegates ,57,REP,Elliot Simon,338
+Jefferson ,7,House of Delegates ,58,REP,Blake Thompson ,116
+Jefferson ,6,House of Delegates ,58,REP,Blake Thompson ,31
+Jefferson ,4B,House of Delegates ,58,REP,Blake Thompson ,274
+Jefferson ,4A,House of Delegates ,58,REP,Blake Thompson ,253
+Jefferson ,3,House of Delegates ,58,REP,Blake Thompson ,235
+Jefferson ,2,House of Delegates ,58,REP,Blake Thompson ,131
+Jefferson ,Total,House of Delegates ,,REP,,7226
+Jefferson ,35B,House of Delegates ,57,DEM,John Doyle,374
+Jefferson ,35A,House of Delegates ,57,DEM,John Doyle,324
+Jefferson ,34,House of Delegates ,57,DEM,John Doyle,495
+Jefferson ,33,House of Delegates ,57,DEM,John Doyle,278
+Jefferson ,32,House of Delegates ,57,DEM,John Doyle,351
+Jefferson ,31,House of Delegates ,57,DEM,John Doyle,421
+Jefferson ,27,House of Delegates ,57,DEM,John Doyle,280
+Jefferson ,28,House of Delegates ,56,DEM,Terry L. Walker,266
+Jefferson ,26,House of Delegates ,56,DEM,Terry L. Walker,288
+Jefferson ,25B,House of Delegates ,56,DEM,Terry L. Walker,186
+Jefferson ,25A,House of Delegates ,56,DEM,Terry L. Walker,183
+Jefferson ,22B,House of Delegates ,56,DEM,Terry L. Walker,212
+Jefferson ,22A,House of Delegates ,56,DEM,Terry L. Walker,228
+Jefferson ,16,House of Delegates ,58,DEM,Tiffany Lawrence,212
+Jefferson ,23B,House of Delegates ,58,DEM,Tiffany Lawrence,289
+Jefferson ,23A,House of Delegates ,58,DEM,Tiffany Lawrence,264
+Jefferson ,21B,House of Delegates ,58,DEM,Tiffany Lawrence,232
+Jefferson ,21A,House of Delegates ,58,DEM,Tiffany Lawrence,262
+Jefferson ,20,House of Delegates ,58,DEM,Tiffany Lawrence,197
+Jefferson ,19,House of Delegates ,58,DEM,Tiffany Lawrence,150
+Jefferson ,17,House of Delegates ,57,DEM,John Doyle,194
+Jefferson ,15,House of Delegates ,57,DEM,John Doyle,167
+Jefferson ,14,House of Delegates ,57,DEM,John Doyle,110
+Jefferson ,13B,House of Delegates ,57,DEM,John Doyle,184
+Jefferson ,13A,House of Delegates ,57,DEM,John Doyle,190
+Jefferson ,12,House of Delegates ,57,DEM,John Doyle,293
+Jefferson ,7,House of Delegates ,58,DEM,Tiffany Lawrence,264
+Jefferson ,6,House of Delegates ,58,DEM,Tiffany Lawrence,105
+Jefferson ,4B,House of Delegates ,58,DEM,Tiffany Lawrence,264
+Jefferson ,4A,House of Delegates ,58,DEM,Tiffany Lawrence,288
+Jefferson ,3,House of Delegates ,58,DEM,Tiffany Lawrence,364
+Jefferson ,2,House of Delegates ,58,DEM,Tiffany Lawrence,242
+Jefferson ,Total,House of Delegates ,,DEM,,8157
+Jefferson ,35B,House of Delegates ,57,,Write-ins,0
+Jefferson ,35A,House of Delegates ,57,,Write-ins,2
+Jefferson ,34,House of Delegates ,57,,Write-ins,0
+Jefferson ,33,House of Delegates ,57,,Write-ins,0
+Jefferson ,32,House of Delegates ,57,,Write-ins,1
+Jefferson ,31,House of Delegates ,57,,Write-ins,0
+Jefferson ,27,House of Delegates ,57,,Write-ins,2
+Jefferson ,28,House of Delegates ,56,,Write-ins,0
+Jefferson ,26,House of Delegates ,56,,Write-ins,0
+Jefferson ,25B,House of Delegates ,56,,Write-ins,1
+Jefferson ,25A,House of Delegates ,56,,Write-ins,0
+Jefferson ,22B,House of Delegates ,56,,Write-ins,0
+Jefferson ,22A,House of Delegates ,56,,Write-ins,0
+Jefferson ,16,House of Delegates ,58,,Write-ins,0
+Jefferson ,23B,House of Delegates ,58,,Write-ins,0
+Jefferson ,23A,House of Delegates ,58,,Write-ins,0
+Jefferson ,21B,House of Delegates ,58,,Write-ins,0
+Jefferson ,21A,House of Delegates ,58,,Write-ins,2
+Jefferson ,20,House of Delegates ,58,,Write-ins,0
+Jefferson ,19,House of Delegates ,58,,Write-ins,0
+Jefferson ,17,House of Delegates ,57,,Write-ins,0
+Jefferson ,15,House of Delegates ,57,,Write-ins,0
+Jefferson ,14,House of Delegates ,57,,Write-ins,0
+Jefferson ,13B,House of Delegates ,57,,Write-ins,1
+Jefferson ,13A,House of Delegates ,57,,Write-ins,0
+Jefferson ,12,House of Delegates ,57,,Write-ins,1
+Jefferson ,7,House of Delegates ,58,,Write-ins,0
+Jefferson ,6,House of Delegates ,58,,Write-ins,0
+Jefferson ,4B,House of Delegates ,58,,Write-ins,0
+Jefferson ,4A,House of Delegates ,58,,Write-ins,1
+Jefferson ,3,House of Delegates ,58,,Write-ins,1
+Jefferson ,2,House of Delegates ,58,,Write-ins,1
+Jefferson ,Total,House of Delegates ,,,Write-ins,13
