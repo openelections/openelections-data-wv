@@ -1,0 +1,506 @@
+county,precinct,office,district,party,candidate,votes
+Hampshire,2,Registered Voters,,,,798
+Hampshire,4,Registered Voters,,,,1058
+Hampshire,6,Registered Voters,,,,791
+Hampshire,7,Registered Voters,,,,1035
+Hampshire,8,Registered Voters,,,,380
+Hampshire,9,Registered Voters,,,,481
+Hampshire,10,Registered Voters,,,,553
+Hampshire,11,Registered Voters,,,,666
+Hampshire,12,Registered Voters,,,,647
+Hampshire,14,Registered Voters,,,,349
+Hampshire,15,Registered Voters,,,,619
+Hampshire,16,Registered Voters,,,,547
+Hampshire,17,Registered Voters,,,,486
+Hampshire,18,Registered Voters,,,,695
+Hampshire,19,Registered Voters,,,,517
+Hampshire,20,Registered Voters,,,,461
+Hampshire,21,Registered Voters,,,,796
+Hampshire,22,Registered Voters,,,,584
+Hampshire,23,Registered Voters,,,,420
+Hampshire,24,Registered Voters,,,,563
+Hampshire,25,Registered Voters,,,,947
+hampshire,26,Registered Voters,,,,333
+Hampshire,28,Registered Voters,,,,555
+Hampshire,2,Ballots Cast,,,,320
+Hampshire,4,Ballots Cast,,,,449
+Hampshire,6,Ballots Cast,,,,362
+Hampshire,7,Ballots Cast,,,,428
+Hampshire,8,Ballots Cast,,,,173
+Hampshire,9,Ballots Cast,,,,188
+Hampshire,10,Ballots Cast,,,,233
+Hampshire,11,Ballots Cast,,,,277
+Hampshire,12,Ballots Cast,,,,296
+Hampshire,14,Ballots Cast,,,,157
+Hampshire,15,Ballots Cast,,,,297
+Hampshire,16,Ballots Cast,,,,235
+Hampshire,17,Ballots Cast,,,,244
+Hampshire,18,Ballots Cast,,,,335
+Hampshire,19,Ballots Cast,,,,229
+Hampshire,20,Ballots Cast,,,,184
+Hampshire,21,Ballots Cast,,,,294
+Hampshire,22,Ballots Cast,,,,245
+Hampshire,23,Ballots Cast,,,,238
+Hampshire,24,Ballots Cast,,,,278
+Hampshire,25,Ballots Cast,,,,430
+hampshire,26,Ballots Cast,,,,128
+Hampshire,28,Ballots Cast,,,,231
+Hampshire,2,Straight Party Ticket,,REP,,71
+Hampshire,4,Straight Party Ticket,,REP,,111
+Hampshire,6,Straight Party Ticket,,REP,,80
+Hampshire,7,Straight Party Ticket,,REP,,130
+Hampshire,8,Straight Party Ticket,,REP,,37
+Hampshire,9,Straight Party Ticket,,REP,,53
+Hampshire,10,Straight Party Ticket,,REP,,40
+Hampshire,11,Straight Party Ticket,,REP,,61
+Hampshire,12,Straight Party Ticket,,REP,,43
+Hampshire,14,Straight Party Ticket,,REP,,53
+Hampshire,15,Straight Party Ticket,,REP,,61
+Hampshire,16,Straight Party Ticket,,REP,,29
+Hampshire,17,Straight Party Ticket,,REP,,38
+Hampshire,18,Straight Party Ticket,,REP,,48
+Hampshire,19,Straight Party Ticket,,REP,,27
+Hampshire,20,Straight Party Ticket,,REP,,18
+Hampshire,21,Straight Party Ticket,,REP,,71
+Hampshire,22,Straight Party Ticket,,REP,,33
+Hampshire,23,Straight Party Ticket,,REP,,33
+Hampshire,24,Straight Party Ticket,,REP,,34
+Hampshire,25,Straight Party Ticket,,REP,,73
+Hampshire,26,Straight Party Ticket,,REP,,21
+Hampshire,28,Straight Party Ticket,,REP,,50
+Hampshire,,Straight Party Ticket,,REP,,1215
+Hampshire,2,Straight Party Ticket,,DEM,,42
+Hampshire,4,Straight Party Ticket,,DEM,,52
+Hampshire,6,Straight Party Ticket,,DEM,,46
+Hampshire,7,Straight Party Ticket,,DEM,,46
+Hampshire,8,Straight Party Ticket,,DEM,,10
+Hampshire,9,Straight Party Ticket,,DEM,,19
+Hampshire,10,Straight Party Ticket,,DEM,,21
+Hampshire,11,Straight Party Ticket,,DEM,,15
+Hampshire,12,Straight Party Ticket,,DEM,,28
+Hampshire,14,Straight Party Ticket,,DEM,,22
+Hampshire,15,Straight Party Ticket,,DEM,,21
+Hampshire,16,Straight Party Ticket,,DEM,,20
+Hampshire,17,Straight Party Ticket,,DEM,,20
+Hampshire,18,Straight Party Ticket,,DEM,,30
+Hampshire,19,Straight Party Ticket,,DEM,,32
+Hampshire,20,Straight Party Ticket,,DEM,,31
+Hampshire,21,Straight Party Ticket,,DEM,,37
+Hampshire,22,Straight Party Ticket,,DEM,,27
+Hampshire,23,Straight Party Ticket,,DEM,,15
+Hampshire,24,Straight Party Ticket,,DEM,,28
+Hampshire,25,Straight Party Ticket,,DEM,,46
+Hampshire,26,Straight Party Ticket,,DEM,,15
+Hampshire,28,Straight Party Ticket,,DEM,,32
+Hampshire,,Straight Party Ticket,,DEM,,655
+hampshire,2,Straight Party Ticket,,CON,,0
+hampshire,4,Straight Party Ticket,,CON,,3
+hampshire,6,Straight Party Ticket,,CON,,4
+hampshire,7,Straight Party Ticket,,CON,,0
+hampshire,8,Straight Party Ticket,,CON,,0
+hampshire,9,Straight Party Ticket,,CON,,0
+hampshire,10,Straight Party Ticket,,CON,,2
+hampshire,11,Straight Party Ticket,,CON,,0
+hampshire,12,Straight Party Ticket,,CON,,0
+hampshire,14,Straight Party Ticket,,CON,,0
+hampshire,15,Straight Party Ticket,,CON,,0
+hampshire,16,Straight Party Ticket,,CON,,0
+hampshire,17,Straight Party Ticket,,CON,,0
+Hampshire,18,Straight Party Ticket,,CON,,0
+Hampshire,19,Straight Party Ticket,,CON,,0
+Hampshire,20,Straight Party Ticket,,CON,,0
+Hampshire,21,Straight Party Ticket,,CON,,1
+Hampshire,22,Straight Party Ticket,,CON,,0
+Hampshire,23,Straight Party Ticket,,CON,,1
+Hampshire,24,Straight Party Ticket,,CON,,0
+Hampshire,25,Straight Party Ticket,,CON,,0
+Hampshire,26,Straight Party Ticket,,CON,,1
+Hampshire,28,Straight Party Ticket,,CON,,3
+Hampshire,,Straight Party Ticket,,CON,,15
+Hampshire,2,Straight Party Ticket,,MTN,,2
+Hampshire,4,Straight Party Ticket,,MTN,,2
+Hampshire,6,Straight Party Ticket,,MTN,,2
+Hampshire,7,Straight Party Ticket,,MTN,,0
+Hampshire,8,Straight Party Ticket,,MTN,,1
+Hampshire,9,Straight Party Ticket,,MTN,,1
+Hampshire,10,Straight Party Ticket,,MTN,,0
+Hampshire,11,Straight Party Ticket,,MTN,,0
+Hampshire,12,Straight Party Ticket,,MTN,,0
+Hampshire,14,Straight Party Ticket,,MTN,,0
+Hampshire,15,Straight Party Ticket,,MTN,,0
+Hampshire,16,Straight Party Ticket,,MTN,,2
+Hampshire,17,Straight Party Ticket,,MTN,,2
+Hampshire,18,Straight Party Ticket,,MTN,,2
+Hampshire,19,Straight Party Ticket,,MTN,,0
+Hampshire,20,Straight Party Ticket,,MTN,,0
+Hampshire,21,Straight Party Ticket,,MTN,,1
+Hampshire,22,Straight Party Ticket,,MTN,,0
+Hampshire,23,Straight Party Ticket,,MTN,,0
+Hampshire,24,Straight Party Ticket,,MTN,,0
+Hampshire,25,Straight Party Ticket,,MTN,,0
+Hampshire,26,Straight Party Ticket,,MTN,,0
+Hampshire,28,Straight Party Ticket,,MTN,,7
+Total,,Straight Party Ticket,,,,22
+Hampshire,2,U.S. Senator ,,REP,John R. Raese,179
+Hampshire,4,U.S. Senator ,,REP,John R. Raese,251
+Hampshire,6,U.S. Senator ,,REP,John R. Raese,221
+Hampshire,7,U.S. Senator ,,REP,John R. Raese,259
+Hampshire,8,U.S. Senator ,,REP,John R. Raese,113
+Hampshire,9,U.S. Senator ,,REP,John R. Raese,110
+Hampshire,10,U.S. Senator ,,REP,John R. Raese,110
+Hampshire,11,U.S. Senator ,,REP,John R. Raese,189
+Hampshire,12,U.S. Senator ,,REP,John R. Raese,160
+Hampshire,14,U.S. Senator ,,REP,John R. Raese,68
+Hampshire,15,U.S. Senator ,,REP,John R. Raese,179
+Hampshire,16,U.S. Senator ,,REP,John R. Raese,103
+Hampshire,17,U.S. Senator ,,REP,John R. Raese,124
+Hampshire,18,U.S. Senator ,,REP,John R. Raese,187
+Hampshire,19,U.S. Senator ,,REP,John R. Raese,109
+Hampshire,20,U.S. Senator ,,REP,John R. Raese,84
+Hampshire,21,U.S. Senator ,,REP,John R. Raese,188
+Hampshire,22,U.S. Senator ,,REP,John R. Raese,127
+Hampshire,23,U.S. Senator ,,REP,John R. Raese,133
+Hampshire,24,U.S. Senator ,,REP,John R. Raese,146
+Hampshire,25,U.S. Senator ,,REP,John R. Raese,222
+Hampshire,26,U.S. Senator ,,REP,John R. Raese,59
+Hampshire,28,U.S. Senator ,,REP,John R. Raese,108
+Hampshire,,U.S. Senator ,,REP,John R. Raese,3429
+Hampshire,2,U.S. Senator ,,DEM,Joe Manchin III,128
+Hampshire,4,U.S. Senator ,,DEM,Joe Manchin III,179
+Hampshire,6,U.S. Senator ,,DEM,Joe Manchin III,131
+Hampshire,7,U.S. Senator ,,DEM,Joe Manchin III,153
+Hampshire,8,U.S. Senator ,,DEM,Joe Manchin III,56
+Hampshire,9,U.S. Senator ,,DEM,Joe Manchin III,66
+Hampshire,10,U.S. Senator ,,DEM,Joe Manchin III,111
+Hampshire,11,U.S. Senator ,,DEM,Joe Manchin III,77
+Hampshire,12,U.S. Senator ,,DEM,Joe Manchin III,119
+Hampshire,14,U.S. Senator ,,DEM,Joe Manchin III,82
+Hampshire,15,U.S. Senator ,,DEM,Joe Manchin III,104
+Hampshire,16,U.S. Senator ,,DEM,Joe Manchin III,118
+Hampshire,17,U.S. Senator ,,DEM,Joe Manchin III,117
+Hampshire,18,U.S. Senator ,,DEM,Joe Manchin III,138
+Hampshire,19,U.S. Senator ,,DEM,Joe Manchin III,110
+Hampshire,20,U.S. Senator ,,DEM,Joe Manchin III,95
+Hampshire,21,U.S. Senator ,,DEM,Joe Manchin III,90
+Hampshire,22,U.S. Senator ,,DEM,Joe Manchin III,109
+Hampshire,23,U.S. Senator ,,DEM,Joe Manchin III,97
+Hampshire,24,U.S. Senator ,,DEM,Joe Manchin III,123
+Hampshire,25,U.S. Senator ,,DEM,Joe Manchin III,196
+Hampshire,26,U.S. Senator ,,DEM,Joe Manchin III,66
+Hampshire,28,U.S. Senator ,,DEM,Joe Manchin III,112
+Hampshire,,U.S. Senator ,,DEM,Joe Manchin III,2577
+Hampshire,2,U.S. Senator ,,CON,Jeff Becker,6
+Hampshire,4,U.S. Senator ,,CON,Jeff Becker,10
+Hampshire,6,U.S. Senator ,,CON,Jeff Becker,5
+Hampshire,7,U.S. Senator ,,CON,Jeff Becker,8
+Hampshire,8,U.S. Senator ,,CON,Jeff Becker,2
+Hampshire,9,U.S. Senator ,,CON,Jeff Becker,6
+Hampshire,10,U.S. Senator ,,CON,Jeff Becker,7
+Hampshire,11,U.S. Senator ,,CON,Jeff Becker,4
+Hampshire,12,U.S. Senator ,,CON,Jeff Becker,8
+Hampshire,14,U.S. Senator ,,CON,Jeff Becker,4
+Hampshire,15,U.S. Senator ,,CON,Jeff Becker,13
+Hampshire,16,U.S. Senator ,,CON,Jeff Becker,8
+Hampshire,17,U.S. Senator ,,CON,Jeff Becker,1
+Hampshire,18,U.S. Senator ,,CON,Jeff Becker,5
+Hampshire,19,U.S. Senator ,,CON,Jeff Becker,2
+Hampshire,20,U.S. Senator ,,CON,Jeff Becker,2
+Hampshire,21,U.S. Senator ,,CON,Jeff Becker,8
+Hampshire,22,U.S. Senator ,,CON,Jeff Becker,6
+Hampshire,23,U.S. Senator ,,CON,Jeff Becker,6
+Hampshire,24,U.S. Senator ,,CON,Jeff Becker,3
+Hampshire,25,U.S. Senator ,,CON,Jeff Becker,6
+Hampshire,26,U.S. Senator ,,CON,Jeff Becker,2
+Hampshire,28,U.S. Senator ,,CON,Jeff Becker,6
+Hampshire,,U.S. Senator ,,CON,Jeff Becker,128
+Hampshire,2,U.S.Senator,,MTN,Jesse Johnson,1
+Hampshire,4,U.S. Senator ,,MTN,Jesse Johnson,5
+Hampshire,6,U.S. Senator ,,MTN,Jesse Johnson,4
+Hampshire,7,U.S. Senator ,,MTN,Jesse Johnson,2
+Hampshire,8,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,9,U.S. Senator ,,MTN,Jesse Johnson,2
+Hampshire,10,U.S. Senator ,,MTN,Jesse Johnson,3
+Hampshire,11,U.S. Senator ,,MTN,Jesse Johnson,5
+Hampshire,12,U.S. Senator ,,MTN,Jesse Johnson,2
+Hampshire,14,U.S. Senator ,,MTN,Jesse Johnson,0
+Hampshire,15,U.S. Senator ,,MTN,Jesse Johnson,0
+Hampshire,16,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,17,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,18,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,19,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,20,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,21,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,22,U.S. Senator ,,MTN,Jesse Johnson,2
+Hampshire,23,U.S. Senator ,,MTN,Jesse Johnson,1
+Hampshire,24,U.S. Senator ,,MTN,Jesse Johnson,4
+Hampshire,25,U.S. Senator ,,MTN,Jesse Johnson,3
+Hampshire,26,U.S. Senator ,,MTN,Jesse Johnson,0
+Hampshire,28,U.S. Senator ,,MTN,Jesse Johnson,4
+Hampshire,,U.S. Senator ,,MTN,Jesse Johnson,45
+Hampshire,2,U.S. Senator ,,,Write-ins,0
+Hampshire,4,U.S. Senator ,,,Write-ins,2
+Hampshire,6,U.S. Senator ,,,Write-ins,0
+Hampshire,7,U.S. Senator ,,,Write-ins,0
+Hampshire,8,U.S. Senator ,,,Write-ins,0
+Hampshire,9,U.S. Senator ,,,Write-ins,0
+Hampshire,10,U.S. Senator ,,,Write-ins,0
+Hampshire,11,U.S. Senator ,,,Write-ins,1
+Hampshire,12,U.S. Senator ,,,Write-ins,0
+Hampshire,14,U.S. Senator ,,,Write-ins,0
+Hampshire,15,U.S. Senator ,,,Write-ins,0
+Hampshire,16,U.S. Senator ,,,Write-ins,0
+Hampshire,17,U.S. Senator ,,,Write-ins,0
+Hampshire,18,U.S. Senator ,,,Write-ins,1
+Hampshire,19,U.S. Senator ,,,Write-ins,0
+Hampshire,20,U.S. Senator ,,,Write-ins,0
+Hampshire,21,U.S. Senator ,,,Write-ins,0
+Hampshire,22,U.S. Senator ,,,Write-ins,0
+Hampshire,23,U.S. Senator ,,,Write-ins,0
+Hampshire,24,U.S. Senator ,,,Write-ins,0
+Hampshire,25,U.S. Senator ,,,Write-ins,0
+Hampshire,26,U.S. Senator ,,,Write-ins,0
+Hampshire,28,U.S. Senator ,,,Write-ins,0
+Hampshire,,U.S. Senator ,,,Write-ins,4
+Hampshire,2,U.S. House,2,REP,Shelley Moore Capito ,236
+Hampshire,4,U.S. House,2,REP,Shelley Moore Capito ,312
+Hampshire,6,U.S. House,2,REP,Shelley Moore Capito ,271
+Hampshire,7,U.S. House,2,REP,Shelley Moore Capito ,311
+Hampshire,8,U.S. House,2,REP,Shelley Moore Capito ,137
+Hampshire,9,U.S. House,2,REP,Shelley Moore Capito ,137
+Hampshire,10,U.S. House,2,REP,Shelley Moore Capito ,166
+Hampshire,11,U.S. House,2,REP,Shelley Moore Capito ,217
+Hampshire,12,U.S. House,2,REP,Shelley Moore Capito ,213
+Hampshire,14,U.S. House,2,REP,Shelley Moore Capito ,100
+Hampshire,15,U.S. House,2,REP,Shelley Moore Capito ,224
+Hampshire,16,U.S. House,2,REP,Shelley Moore Capito ,160
+Hampshire,17,U.S. House,2,REP,Shelley Moore Capito ,184
+Hampshire,18,U.S. House,2,REP,Shelley Moore Capito ,259
+Hampshire,19,U.S. House,2,REP,Shelley Moore Capito ,165
+Hampshire,20,U.S. House,2,REP,Shelley Moore Capito ,118
+Hampshire,21,U.S. House,2,REP,Shelley Moore Capito ,219
+Hampshire,22,U.S. House,2,REP,Shelley Moore Capito ,165
+Hampshire,23,U.S. House,2,REP,Shelley Moore Capito ,180
+Hampshire,24,U.S. House,2,REP,Shelley Moore Capito ,209
+Hampshire,25,U.S. House,2,REP,Shelley Moore Capito ,304
+Hampshire,26,U.S. House,2,REP,Shelley Moore Capito ,84
+Hampshire,28,U.S. House,2,REP,Shelley Moore Capito ,155
+Hampshire,,U.S. House,2,REP,Shelley Moore Capito ,4526
+Hampshire,2,U.S. House,2,DEM,Virginia Lynch Graf,74
+Hampshire,4,U.S. House,2,DEM,Virginia Lynch Graf,120
+Hampshire,6,U.S. House,2,DEM,Virginia Lynch Graf,77
+Hampshire,7,U.S. House,2,DEM,Virginia Lynch Graf,101
+Hampshire,8,U.S. House,2,DEM,Virginia Lynch Graf,35
+Hampshire,9,U.S. House,2,DEM,Virginia Lynch Graf,42
+Hampshire,10,U.S. House,2,DEM,Virginia Lynch Graf,57
+Hampshire,11,U.S. House,2,DEM,Virginia Lynch Graf,49
+Hampshire,12,U.S. House,2,DEM,Virginia Lynch Graf,64
+Hampshire,14,U.S. House,2,DEM,Virginia Lynch Graf,51
+Hampshire,15,U.S. House,2,DEM,Virginia Lynch Graf,65
+Hampshire,16,U.S. House,2,DEM,Virginia Lynch Graf,59
+Hampshire,17,U.S. House,2,DEM,Virginia Lynch Graf,53
+Hampshire,18,U.S. House,2,DEM,Virginia Lynch Graf,64
+Hampshire,19,U.S. House,2,DEM,Virginia Lynch Graf,53
+Hampshire,20,U.S. House,2,DEM,Virginia Lynch Graf,53
+Hampshire,21,U.S. House,2,DEM,Virginia Lynch Graf,64
+Hampshire,22,U.S. House,2,DEM,Virginia Lynch Graf,73
+Hampshire,23,U.S. House,2,DEM,Virginia Lynch Graf,50
+Hampshire,24,U.S. House,2,DEM,Virginia Lynch Graf,61
+Hampshire,25,U.S. House,2,DEM,Virginia Lynch Graf,106
+Hampshire,26,U.S. House,2,DEM,Virginia Lynch Graf,39
+Hampshire,28,U.S. House,2,DEM,Virginia Lynch Graf,63
+Hampshire,,U.S. House,2,DEM,Virginia Lynch Graf,1473
+Hampshire,2,U.S. House,2,CON,Phil Hudok,3
+Hampshire,4,U.S. House,2,CON,Phil Hudok,10
+Hampshire,6,U.S. House,2,CON,Phil Hudok,8
+Hampshire,7,U.S. House,2,CON,Phil Hudok,6
+Hampshire,8,U.S. House,2,CON,Phil Hudok,1
+Hampshire,9,U.S. House,2,CON,Phil Hudok,4
+Hampshire,10,U.S. House,2,CON,Phil Hudok,6
+Hampshire,11,U.S. House,2,CON,Phil Hudok,4
+Hampshire,12,U.S. House,2,CON,Phil Hudok,8
+Hampshire,14,U.S. House,2,CON,Phil Hudok,3
+Hampshire,15,U.S. House,2,CON,Phil Hudok,3
+Hampshire,16,U.S. House,2,CON,Phil Hudok,6
+Hampshire,17,U.S. House,2,CON,Phil Hudok,2
+Hampshire,18,U.S. House,2,CON,Phil Hudok,3
+Hampshire,19,U.S. House,2,CON,Phil Hudok,3
+Hampshire,20,U.S. House,2,CON,Phil Hudok,4
+Hampshire,21,U.S. House,2,CON,Phil Hudok,2
+Hampshire,22,U.S. House,2,CON,Phil Hudok,4
+Hampshire,23,U.S. House,2,CON,Phil Hudok,1
+Hampshire,24,U.S. House,2,CON,Phil Hudok,3
+Hampshire,25,U.S. House,2,CON,Phil Hudok,7
+Hampshire,26,U.S. House,2,CON,Phil Hudok,1
+Hampshire,28,U.S. House,2,CON,Phil Hudok,7
+Hampshire,,U.S. House,2,CON,Phil Hudok,99
+Hampshire,2,U.S. House,2,,Write-ins,0
+Hampshire,4,U.S. House,2,,Write-ins,1
+Hampshire,6,U.S. House,2,,Write-ins,0
+Hampshire,7,U.S. House,2,,Write-ins,0
+Hampshire,8,U.S. House,2,,Write-ins,0
+Hampshire,9,U.S. House,2,,Write-ins,0
+Hampshire,10,U.S. House,2,,Write-ins,0
+Hampshire,11,U.S. House,2,,Write-ins,0
+Hampshire,12,U.S. House,2,,Write-ins,0
+Hampshire,14,U.S. House,2,,Write-ins,1
+Hampshire,15,U.S. House,2,,Write-ins,0
+Hampshire,16,U.S. House,2,,Write-ins,0
+Hampshire,17,U.S. House,2,,Write-ins,0
+Hampshire,18,U.S. House,2,,Write-ins,0
+Hampshire,19,U.S. House,2,,Write-ins,0
+Hampshire,20,U.S. House,2,,Write-ins,0
+Hampshire,21,U.S. House,2,,Write-ins,0
+Hampshire,22,U.S. House,2,,Write-ins,0
+Hampshire,23,U.S. House,2,,Write-ins,0
+Hampshire,24,U.S. House,2,,Write-ins,0
+Hampshire,25,U.S. House,2,,Write-ins,0
+Hampshire,26,U.S. House,2,,Write-ins,0
+Hampshire,28,U.S. House,2,,Write-ins,0
+Hampshire,,U.S. House,2,,Write-ins,2
+Hampshire,2,State Senator ,15,REP,Jeremy Donald Bauserman,168
+Hampshire,4,State Senator ,15,REP,Jeremy Donald Bauserman,247
+Hampshire,6,State Senator ,15,REP,Jeremy Donald Bauserman,209
+Hampshire,7,State Senator ,15,REP,Jeremy Donald Bauserman,227
+Hampshire,8,State Senator ,15,REP,Jeremy Donald Bauserman,92
+Hampshire,9,State Senator ,15,REP,Jeremy Donald Bauserman,105
+Hampshire,10,State Senator ,15,REP,Jeremy Donald Bauserman,93
+Hampshire,11,State Senator ,15,REP,Jeremy Donald Bauserman,160
+Hampshire,12,State Senator ,15,REP,Jeremy Donald Bauserman,136
+Hampshire,14,State Senator ,15,REP,Jeremy Donald Bauserman,48
+Hampshire,15,State Senator ,15,REP,Jeremy Donald Bauserman,138
+Hampshire,16,State Senator ,15,REP,Jeremy Donald Bauserman,65
+Hampshire,17,State Senator ,15,REP,Jeremy Donald Bauserman,90
+Hampshire,18,State Senator ,15,REP,Jeremy Donald Bauserman,115
+Hampshire,19,State Senator ,15,REP,Jeremy Donald Bauserman,83
+Hampshire,20,State Senator ,15,REP,Jeremy Donald Bauserman,52
+Hampshire,21,State Senator ,15,REP,Jeremy Donald Bauserman,134
+Hampshire,22,State Senator ,15,REP,Jeremy Donald Bauserman,97
+Hampshire,23,State Senator ,15,REP,Jeremy Donald Bauserman,82
+Hampshire,24,State Senator ,15,REP,Jeremy Donald Bauserman,114
+Hampshire,25,State Senator ,15,REP,Jeremy Donald Bauserman,186
+Hampshire,26,State Senator ,15,REP,Jeremy Donald Bauserman,50
+Hampshire,28,State Senator ,15,REP,Jeremy Donald Bauserman,97
+Hampshire,,State Senator ,15,REP,Jeremy Donald Bauserman,2788
+Hampshire,2,State Senator ,15,DEM,Walt Helmick,141
+Hampshire,4,State Senator ,15,DEM,Walt Helmick,182
+Hampshire,6,State Senator ,15,DEM,Walt Helmick,141
+Hampshire,7,State Senator ,15,DEM,Walt Helmick,174
+Hampshire,8,State Senator ,15,DEM,Walt Helmick,74
+Hampshire,9,State Senator ,15,DEM,Walt Helmick,72
+Hampshire,10,State Senator ,15,DEM,Walt Helmick,127
+Hampshire,11,State Senator ,15,DEM,Walt Helmick,98
+Hampshire,12,State Senator ,15,DEM,Walt Helmick,136
+Hampshire,14,State Senator ,15,DEM,Walt Helmick,106
+Hampshire,15,State Senator ,15,DEM,Walt Helmick,143
+Hampshire,16,State Senator ,15,DEM,Walt Helmick,147
+Hampshire,17,State Senator ,15,DEM,Walt Helmick,141
+Hampshire,18,State Senator ,15,DEM,Walt Helmick,198
+Hampshire,19,State Senator ,15,DEM,Walt Helmick,132
+Hampshire,20,State Senator ,15,DEM,Walt Helmick,117
+Hampshire,21,State Senator ,15,DEM,Walt Helmick,140
+Hampshire,22,State Senator ,15,DEM,Walt Helmick,135
+Hampshire,23,State Senator ,15,DEM,Walt Helmick,146
+Hampshire,24,State Senator ,15,DEM,Walt Helmick,154
+Hampshire,25,State Senator ,15,DEM,Walt Helmick,218
+Hampshire,26,State Senator ,15,DEM,Walt Helmick,70
+Hampshire,28,State Senator ,15,DEM,Walt Helmick,127
+Hampshire,,State Senator ,15,DEM,Walt Helmick,3119
+Hampshire,2,State Senator ,15,,Write-ins,0
+Hampshire,4,State Senator ,15,,Write-ins,1
+Hampshire,6,State Senator ,15,,Write-ins,0
+Hampshire,7,State Senator ,15,,Write-ins,0
+Hampshire,8,State Senator ,15,,Write-ins,0
+Hampshire,9,State Senator ,15,,Write-ins,0
+Hampshire,10,State Senator ,15,,Write-ins,0
+Hampshire,11,State Senator ,15,,Write-ins,0
+Hampshire,12,State Senator ,15,,Write-ins,1
+Hampshire,14,State Senator ,15,,Write-ins,0
+Hampshire,15,State Senator ,15,,Write-ins,0
+Hampshire,16,State Senator ,15,,Write-ins,0
+Hampshire,17,State Senator ,15,,Write-ins,0
+Hampshire,18,State Senator ,15,,Write-ins,1
+Hampshire,19,State Senator ,15,,Write-ins,0
+Hampshire,20,State Senator ,15,,Write-ins,0
+Hampshire,21,State Senator ,15,,Write-ins,0
+Hampshire,22,State Senator ,15,,Write-ins,1
+Hampshire,23,State Senator ,15,,Write-ins,0
+Hampshire,24,State Senator ,15,,Write-ins,0
+Hampshire,25,State Senator ,15,,Write-ins,0
+Hampshire,26,State Senator ,15,,Write-ins,0
+Hampshire,28,State Senator ,15,,Write-ins,0
+Hampshire,,State Senator ,15,,Write-ins,4
+Hampshire,8,House of Delegates,50,REP,Ruth Rowan,134
+Hampshire,9,House of Delegates,50,REP,Ruth Rowan,138
+Hampshire,10,House of Delegates,50,REP,Ruth Rowan,158
+Hampshire,11,House of Delegates,50,REP,Ruth Rowan,222
+Hampshire,12,House of Delegates,50,REP,Ruth Rowan,226
+Hampshire,14,House of Delegates,50,REP,Ruth Rowan,101
+Hampshire,15,House of Delegates,50,REP,Ruth Rowan,225
+Hampshire,16,House of Delegates,50,REP,Ruth Rowan,153
+Hampshire,17,House of Delegates,50,REP,Ruth Rowan,151
+Hampshire,18,House of Delegates,50,REP,Ruth Rowan,239
+Hampshire,19,House of Delegates,50,REP,Ruth Rowan,141
+Hampshire,20,House of Delegates,50,REP,Ruth Rowan,113
+Hampshire,22,House of Delegates,50,REP,Ruth Rowan,175
+Hampshire,23,House of Delegates,50,REP,Ruth Rowan,163
+Hampshire,24,House of Delegates,50,REP,Ruth Rowan,193
+Hampshire,25,House of Delegates,50,REP,Ruth Rowan,293
+Hampshire,26,House of Delegates,50,REP,Ruth Rowan,94
+Hampshire,28,House of Delegates,50,REP,Ruth Rowan,155
+Hampshire,,House of Delegates,50,REP,Ruth Rowan,3074
+Hampshire,8,House of Delegates,50,DEM,Alan Mitch Davis,38
+Hampshire,9,House of Delegates,50,DEM,Alan Mitch Davis,45
+Hampshire,10,House of Delegates,50,DEM,Alan Mitch Davis,69
+Hampshire,11,House of Delegates,50,DEM,Alan Mitch Davis,51
+Hampshire,12,House of Delegates,50,DEM,Alan Mitch Davis,65
+Hampshire,14,House of Delegates,50,DEM,Alan Mitch Davis,52
+Hampshire,15,House of Delegates,50,DEM,Alan Mitch Davis,67
+Hampshire,16,House of Delegates,50,DEM,Alan Mitch Davis,72
+Hampshire,17,House of Delegates,50,DEM,Alan Mitch Davis,80
+Hampshire,18,House of Delegates,50,DEM,Alan Mitch Davis,89
+Hampshire,19,House of Delegates,50,DEM,Alan Mitch Davis,84
+Hampshire,20,House of Delegates,50,DEM,Alan Mitch Davis,68
+Hampshire,22,House of Delegates,50,DEM,Alan Mitch Davis,62
+Hampshire,23,House of Delegates,50,DEM,Alan Mitch Davis,66
+Hampshire,24,House of Delegates,50,DEM,Alan Mitch Davis,80
+Hampshire,25,House of Delegates,50,DEM,Alan Mitch Davis,130
+Hampshire,26,House of Delegates,50,DEM,Alan Mitch Davis,33
+Hampshire,28,House of Delegates,50,DEM,Alan Mitch Davis,70
+Hampshire,,House of Delegates,50,DEM,Alan Mitch Davis,1221
+Hampshire,8,House of Delegates,50,,Write-ins,0
+Hampshire,9,House of Delegates,50,,Write-ins,0
+Hampshire,10,House of Delegates,50,,Write-ins,1
+Hampshire,11,House of Delegates,50,,Write-ins,0
+Hampshire,12,House of Delegates,50,,Write-ins,1
+Hampshire,14,House of Delegates,50,,Write-ins,0
+Hampshire,15,House of Delegates,50,,Write-ins,0
+Hampshire,16,House of Delegates,50,,Write-ins,0
+Hampshire,17,House of Delegates,50,,Write-ins,0
+Hampshire,18,House of Delegates,50,,Write-ins,1
+Hampshire,19,House of Delegates,50,,Write-ins,0
+Hampshire,20,House of Delegates,50,,Write-ins,0
+Hampshire,22,House of Delegates,50,,Write-ins,2
+Hampshire,23,House of Delegates,50,,Write-ins,0
+Hampshire,24,House of Delegates,50,,Write-ins,0
+Hampshire,25,House of Delegates,50,,Write-ins,0
+Hampshire,26,House of Delegates,50,,Write-ins,0
+Hampshire,28,House of Delegates,50,,Write-ins,1
+Hampshire,,House of Delegates,50,,Write-ins,6
+Hampshire,2,House of Delegates,51,REP,Daryl E Cowles,191
+Hampshire,4,House of Delegates,51,REP,Daryl E Cowles,259
+Hampshire,6,House of Delegates,51,REP,Daryl E Cowles,217
+Hampshire,7,House of Delegates,51,REP,Daryl E Cowles,262
+Hampshire,21,House of Delegates,51,REP,Daryl E Cowles,177
+Hampshire,,House of Delegates,51,REP,Daryl E Cowles,1106
+Hampshire,2,House of Delegates,51,DEM,Alton Wolfe Jr,112
+Hampshire,4,House of Delegates,51,DEM,Alton Wolfe Jr,182
+Hampshire,6,House of Delegates,51,DEM,Alton Wolfe Jr,129
+Hampshire,7,House of Delegates,51,DEM,Alton Wolfe Jr,142
+Hampshire,21,House of Delegates,51,DEM,Alton Wolfe Jr,90
+Hampshire,,House of Delegates,51,DEM,Alton Wolfe Jr,655
+Hampshire,2,House of Delegates,51,,Write-ins,0
+Hampshire,4,House of Delegates,51,,Write-ins,2
+Hampshire,6,House of Delegates,51,,Write-ins,3
+Hampshire,7,House of Delegates,51,,Write-ins,0
+Hampshire,21,House of Delegates,51,,Write-ins,1
+Hampshire,,House of Delegates,51,,Write-ins,6

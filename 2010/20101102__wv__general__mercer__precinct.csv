@@ -1,0 +1,899 @@
+county,precinct,office,district,candidate,party,votes
+Mercer,PRECINCT 1,Straight Party Ticket,,,Republican,21
+Mercer,PRECINCT 2,Straight Party Ticket,,,Republican,67
+Mercer,PRECINCT 3,Straight Party Ticket,,,Republican,63
+Mercer,PRECINCT 4,Straight Party Ticket,,,Republican,41
+Mercer,PRECINCT 5,Straight Party Ticket,,,Republican,42
+Mercer,PRECINCT 14,Straight Party Ticket,,,Republican,2
+Mercer,PRECINCT 15,Straight Party Ticket,,,Republican,25
+Mercer,PRECINCT 20,Straight Party Ticket,,,Republican,29
+Mercer,PRECINCT 27,Straight Party Ticket,,,Republican,38
+Mercer,PRECINCT 28,Straight Party Ticket,,,Republican,36
+Mercer,PRECINCT 29,Straight Party Ticket,,,Republican,19
+Mercer,PRECINCT 31,Straight Party Ticket,,,Republican,59
+Mercer,PRECINCT 32,Straight Party Ticket,,,Republican,33
+Mercer,PRECINCT 34,Straight Party Ticket,,,Republican,10
+Mercer,PRECINCT 36,Straight Party Ticket,,,Republican,77
+Mercer,PRECINCT 38,Straight Party Ticket,,,Republican,63
+Mercer,PRECINCT 39,Straight Party Ticket,,,Republican,30
+Mercer,PRECINCT 44,Straight Party Ticket,,,Republican,58
+Mercer,PRECINCT 46,Straight Party Ticket,,,Republican,17
+Mercer,PRECINCT 47,Straight Party Ticket,,,Republican,45
+Mercer,PRECINCT 48,Straight Party Ticket,,,Republican,26
+Mercer,PRECINCT 49 ,Straight Party Ticket,,,Republican,35
+Mercer,PRECINCT 52,Straight Party Ticket,,,Republican,29
+Mercer,PRECINCT 53,Straight Party Ticket,,,Republican,38
+Mercer,PRECINCT 54,Straight Party Ticket,,,Republican,61
+Mercer,PRECINCT 55,Straight Party Ticket,,,Republican,56
+Mercer,PRECINCT 56,Straight Party Ticket,,,Republican,22
+Mercer,PRECINCT 57,Straight Party Ticket,,,Republican,32
+Mercer,PRECINCT 58 ,Straight Party Ticket,,,Republican,35
+Mercer,PRECINCT 59,Straight Party Ticket,,,Republican,49
+Mercer,PRECINCT 60,Straight Party Ticket,,,Republican,11
+Mercer,PRECINCT 62,Straight Party Ticket,,,Republican,79
+Mercer,PRECINCT 64,Straight Party Ticket,,,Republican,65
+Mercer,PRECINCT 65,Straight Party Ticket,,,Republican,84
+Mercer,PRECINCT 66,Straight Party Ticket,,,Republican,20
+Mercer,PRECINCT 67,Straight Party Ticket,,,Republican,20
+Mercer,PRECINCT 68,Straight Party Ticket,,,Republican,12
+Mercer,PRECINCT 69,Straight Party Ticket,,,Republican,49
+Mercer,PRECINCT 71,Straight Party Ticket,,,Republican,88
+Mercer,PRECINCT 72,Straight Party Ticket,,,Republican,63
+Mercer,PRECINCT 73,Straight Party Ticket,,,Republican,73
+Mercer,PRECINCT 74,Straight Party Ticket,,,Republican,77
+Mercer,PRECINCT 75,Straight Party Ticket,,,Republican,82
+Mercer,PRECINCT 77,Straight Party Ticket,,,Republican,15
+Mercer,PRECINCT  78 ,Straight Party Ticket,,,Republican,22
+Mercer,PRECINCT  79 ,Straight Party Ticket,,,Republican,58
+Mercer,PRECINCT 80,Straight Party Ticket,,,Republican,41
+Mercer,PRECINCT 81,Straight Party Ticket,,,Republican,45
+Mercer,PRECINCT 82,Straight Party Ticket,,,Republican,22
+Mercer,PRECINCT 83,Straight Party Ticket,,,Republican,14
+Mercer,PRECINCT 84,Straight Party Ticket,,,Republican,10
+Mercer,PRECINCT 85,Straight Party Ticket,,,Republican,9
+Mercer,PRECINCT 86,Straight Party Ticket,,,Republican,28
+Mercer,PRECINCT 87,Straight Party Ticket,,,Republican,22
+Mercer,PRECINCT 88,Straight Party Ticket,,,Republican,99
+Mercer,PRECINCT 89,Straight Party Ticket,,,Republican,26
+Mercer,PRECINCT 95,Straight Party Ticket,,,Republican,32
+Mercer,PRECINCT 96,Straight Party Ticket,,,Republican,21
+Mercer,PRECINCT 98,Straight Party Ticket,,,Republican,68
+Mercer,TOTALS ,Straight Party Ticket,,,Republican,2413
+Mercer,PRECINCT 1,Straight Party Ticket,,,Democrat,20
+Mercer,PRECINCT 2,Straight Party Ticket,,,Democrat,65
+Mercer,PRECINCT 3,Straight Party Ticket,,,Democrat,55
+Mercer,PRECINCT 4,Straight Party Ticket,,,Democrat,36
+Mercer,PRECINCT 5,Straight Party Ticket,,,Democrat,29
+Mercer,PRECINCT 14,Straight Party Ticket,,,Democrat,126
+Mercer,PRECINCT 15,Straight Party Ticket,,,Democrat,54
+Mercer,PRECINCT 20,Straight Party Ticket,,,Democrat,82
+Mercer,PRECINCT 27,Straight Party Ticket,,,Democrat,22
+Mercer,PRECINCT 28,Straight Party Ticket,,,Democrat,30
+Mercer,PRECINCT 29,Straight Party Ticket,,,Democrat,14
+Mercer,PRECINCT 31,Straight Party Ticket,,,Democrat,60
+Mercer,PRECINCT 32,Straight Party Ticket,,,Democrat,26
+Mercer,PRECINCT 34,Straight Party Ticket,,,Democrat,45
+Mercer,PRECINCT 36,Straight Party Ticket,,,Democrat,40
+Mercer,PRECINCT 38,Straight Party Ticket,,,Democrat,31
+Mercer,PRECINCT 39,Straight Party Ticket,,,Democrat,21
+Mercer,PRECINCT 44,Straight Party Ticket,,,Democrat,49
+Mercer,PRECINCT 46,Straight Party Ticket,,,Democrat,38
+Mercer,PRECINCT 47,Straight Party Ticket,,,Democrat,21
+Mercer,PRECINCT 48,Straight Party Ticket,,,Democrat,23
+Mercer,PRECINCT 49 ,Straight Party Ticket,,,Democrat,25
+Mercer,PRECINCT 52,Straight Party Ticket,,,Democrat,25
+Mercer,PRECINCT 53,Straight Party Ticket,,,Democrat,37
+Mercer,PRECINCT 54,Straight Party Ticket,,,Democrat,27
+Mercer,PRECINCT 55,Straight Party Ticket,,,Democrat,28
+Mercer,PRECINCT 56,Straight Party Ticket,,,Democrat,16
+Mercer,PRECINCT 57,Straight Party Ticket,,,Democrat,46
+Mercer,PRECINCT 58 ,Straight Party Ticket,,,Democrat,45
+Mercer,PRECINCT 59,Straight Party Ticket,,,Democrat,19
+Mercer,PRECINCT 60,Straight Party Ticket,,,Democrat,11
+Mercer,PRECINCT 62,Straight Party Ticket,,,Democrat,50
+Mercer,PRECINCT 64,Straight Party Ticket,,,Democrat,24
+Mercer,PRECINCT 65,Straight Party Ticket,,,Democrat,54
+Mercer,PRECINCT 66,Straight Party Ticket,,,Democrat,32
+Mercer,PRECINCT 67,Straight Party Ticket,,,Democrat,44
+Mercer,PRECINCT 68,Straight Party Ticket,,,Democrat,21
+Mercer,PRECINCT 69,Straight Party Ticket,,,Democrat,54
+Mercer,PRECINCT 71,Straight Party Ticket,,,Democrat,75
+Mercer,PRECINCT 72,Straight Party Ticket,,,Democrat,45
+Mercer,PRECINCT 73,Straight Party Ticket,,,Democrat,56
+Mercer,PRECINCT 74,Straight Party Ticket,,,Democrat,85
+Mercer,PRECINCT 75,Straight Party Ticket,,,Democrat,94
+Mercer,PRECINCT 77,Straight Party Ticket,,,Democrat,41
+Mercer,PRECINCT  78 ,Straight Party Ticket,,,Democrat,29
+Mercer,PRECINCT  79 ,Straight Party Ticket,,,Democrat,57
+Mercer,PRECINCT 80,Straight Party Ticket,,,Democrat,77
+Mercer,PRECINCT 81,Straight Party Ticket,,,Democrat,58
+Mercer,PRECINCT 82,Straight Party Ticket,,,Democrat,43
+Mercer,PRECINCT 83,Straight Party Ticket,,,Democrat,9
+Mercer,PRECINCT 84,Straight Party Ticket,,,Democrat,17
+Mercer,PRECINCT 85,Straight Party Ticket,,,Democrat,24
+Mercer,PRECINCT 86,Straight Party Ticket,,,Democrat,43
+Mercer,PRECINCT 87,Straight Party Ticket,,,Democrat,36
+Mercer,PRECINCT 88,Straight Party Ticket,,,Democrat,95
+Mercer,PRECINCT 89,Straight Party Ticket,,,Democrat,20
+Mercer,PRECINCT 95,Straight Party Ticket,,,Democrat,33
+Mercer,PRECINCT 96,Straight Party Ticket,,,Democrat,20
+Mercer,PRECINCT 98,Straight Party Ticket,,,Democrat,37
+Mercer,TOTALS ,Straight Party Ticket,,,Democrat,2439
+Mercer,PRECINCT 1,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 2,Straight Party Ticket,,,Mountain,4
+Mercer,PRECINCT 3,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 4,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 5,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 14,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 15,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 20,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 27,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 28,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 29,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 31,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 32,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 34,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 36,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 38,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 39,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 44,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 46,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 47,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 48,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 49 ,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 52,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 53,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 54,Straight Party Ticket,,,Mountain,3
+Mercer,PRECINCT 55,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 56,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 57,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 58 ,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 59,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 60,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 62,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 64,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 65,Straight Party Ticket,,,Mountain,3
+Mercer,PRECINCT 66,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 67,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 68,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 69,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 71,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 72,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 73,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 74,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 75,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 77,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT  78 ,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT  79 ,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 80,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 81,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 82,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 83,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 84,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 85,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 86,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 87,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 88,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 89,Straight Party Ticket,,,Mountain,0
+Mercer,PRECINCT 95,Straight Party Ticket,,,Mountain,2
+Mercer,PRECINCT 96,Straight Party Ticket,,,Mountain,1
+Mercer,PRECINCT 98,Straight Party Ticket,,,Mountain,1
+Mercer,TOTALS ,Straight Party Ticket,,,Mountain,46
+Mercer,PRECINCT 1,U.S. Senator,,,John R. Raese,55
+Mercer,PRECINCT 2,U.S. Senator,,,John R. Raese,153
+Mercer,PRECINCT 3,U.S. Senator,,,John R. Raese,135
+Mercer,PRECINCT 4,U.S. Senator,,,John R. Raese,121
+Mercer,PRECINCT 5,U.S. Senator,,,John R. Raese,100
+Mercer,PRECINCT 14,U.S. Senator,,,John R. Raese,10
+Mercer,PRECINCT 15,U.S. Senator,,,John R. Raese,55
+Mercer,PRECINCT 20,U.S. Senator,,,John R. Raese,67
+Mercer,PRECINCT 27,U.S. Senator,,,John R. Raese,151
+Mercer,PRECINCT 28,U.S. Senator,,,John R. Raese,97
+Mercer,PRECINCT 29,U.S. Senator,,,John R. Raese,50
+Mercer,PRECINCT 31,U.S. Senator,,,John R. Raese,136
+Mercer,PRECINCT 32,U.S. Senator,,,John R. Raese,86
+Mercer,PRECINCT 34,U.S. Senator,,,John R. Raese,30
+Mercer,PRECINCT 36,U.S. Senator,,,John R. Raese,189
+Mercer,PRECINCT 38,U.S. Senator,,,John R. Raese,163
+Mercer,PRECINCT 39,U.S. Senator,,,John R. Raese,94
+Mercer,PRECINCT 44,U.S. Senator,,,John R. Raese,159
+Mercer,PRECINCT 46,U.S. Senator,,,John R. Raese,37
+Mercer,PRECINCT 47,U.S. Senator,,,John R. Raese,142
+Mercer,PRECINCT 48,U.S. Senator,,,John R. Raese,40
+Mercer,PRECINCT 49 ,U.S. Senator,,,John R. Raese,77
+Mercer,PRECINCT 52,U.S. Senator,,,John R. Raese,91
+Mercer,PRECINCT 53,U.S. Senator,,,John R. Raese,121
+Mercer,PRECINCT 54,U.S. Senator,,,John R. Raese,150
+Mercer,PRECINCT 55,U.S. Senator,,,John R. Raese,127
+Mercer,PRECINCT 56,U.S. Senator,,,John R. Raese,103
+Mercer,PRECINCT 57,U.S. Senator,,,John R. Raese,154
+Mercer,PRECINCT 58 ,U.S. Senator,,,John R. Raese,98
+Mercer,PRECINCT 59,U.S. Senator,,,John R. Raese,124
+Mercer,PRECINCT 60,U.S. Senator,,,John R. Raese,21
+Mercer,PRECINCT 62,U.S. Senator,,,John R. Raese,295
+Mercer,PRECINCT 64,U.S. Senator,,,John R. Raese,169
+Mercer,PRECINCT 65,U.S. Senator,,,John R. Raese,357
+Mercer,PRECINCT 66,U.S. Senator,,,John R. Raese,48
+Mercer,PRECINCT 67,U.S. Senator,,,John R. Raese,58
+Mercer,PRECINCT 68,U.S. Senator,,,John R. Raese,22
+Mercer,PRECINCT 69,U.S. Senator,,,John R. Raese,113
+Mercer,PRECINCT 71,U.S. Senator,,,John R. Raese,313
+Mercer,PRECINCT 72,U.S. Senator,,,John R. Raese,164
+Mercer,PRECINCT 73,U.S. Senator,,,John R. Raese,198
+Mercer,PRECINCT 74,U.S. Senator,,,John R. Raese,251
+Mercer,PRECINCT 75,U.S. Senator,,,John R. Raese,347
+Mercer,PRECINCT 77,U.S. Senator,,,John R. Raese,53
+Mercer,PRECINCT  78 ,U.S. Senator,,,John R. Raese,52
+Mercer,PRECINCT  79 ,U.S. Senator,,,John R. Raese,167
+Mercer,PRECINCT 80,U.S. Senator,,,John R. Raese,135
+Mercer,PRECINCT 81,U.S. Senator,,,John R. Raese,176
+Mercer,PRECINCT 82,U.S. Senator,,,John R. Raese,130
+Mercer,PRECINCT 83,U.S. Senator,,,John R. Raese,49
+Mercer,PRECINCT 84,U.S. Senator,,,John R. Raese,27
+Mercer,PRECINCT 85,U.S. Senator,,,John R. Raese,40
+Mercer,PRECINCT 86,U.S. Senator,,,John R. Raese,103
+Mercer,PRECINCT 87,U.S. Senator,,,John R. Raese,64
+Mercer,PRECINCT 88,U.S. Senator,,,John R. Raese,367
+Mercer,PRECINCT 89,U.S. Senator,,,John R. Raese,80
+Mercer,PRECINCT 95,U.S. Senator,,,John R. Raese,119
+Mercer,PRECINCT 96,U.S. Senator,,,John R. Raese,74
+Mercer,PRECINCT 98,U.S. Senator,,,John R. Raese,219
+Mercer,TOTALS ,U.S. Senator,,,John R. Raese,7326
+Mercer,PRECINCT 1,U.S. Senator,,,Joe Manchin III,64
+Mercer,PRECINCT 2,U.S. Senator,,,Joe Manchin III,189
+Mercer,PRECINCT 3,U.S. Senator,,,Joe Manchin III,130
+Mercer,PRECINCT 4,U.S. Senator,,,Joe Manchin III,155
+Mercer,PRECINCT 5,U.S. Senator,,,Joe Manchin III,103
+Mercer,PRECINCT 14,U.S. Senator,,,Joe Manchin III,171
+Mercer,PRECINCT 15,U.S. Senator,,,Joe Manchin III,100
+Mercer,PRECINCT 20,U.S. Senator,,,Joe Manchin III,150
+Mercer,PRECINCT 27,U.S. Senator,,,Joe Manchin III,103
+Mercer,PRECINCT 28,U.S. Senator,,,Joe Manchin III,99
+Mercer,PRECINCT 29,U.S. Senator,,,Joe Manchin III,56
+Mercer,PRECINCT 31,U.S. Senator,,,Joe Manchin III,192
+Mercer,PRECINCT 32,U.S. Senator,,,Joe Manchin III,87
+Mercer,PRECINCT 34,U.S. Senator,,,Joe Manchin III,89
+Mercer,PRECINCT 36,U.S. Senator,,,Joe Manchin III,155
+Mercer,PRECINCT 38,U.S. Senator,,,Joe Manchin III,144
+Mercer,PRECINCT 39,U.S. Senator,,,Joe Manchin III,78
+Mercer,PRECINCT 44,U.S. Senator,,,Joe Manchin III,134
+Mercer,PRECINCT 46,U.S. Senator,,,Joe Manchin III,90
+Mercer,PRECINCT 47,U.S. Senator,,,Joe Manchin III,118
+Mercer,PRECINCT 48,U.S. Senator,,,Joe Manchin III,38
+Mercer,PRECINCT 49 ,U.S. Senator,,,Joe Manchin III,87
+Mercer,PRECINCT 52,U.S. Senator,,,Joe Manchin III,74
+Mercer,PRECINCT 53,U.S. Senator,,,Joe Manchin III,101
+Mercer,PRECINCT 54,U.S. Senator,,,Joe Manchin III,100
+Mercer,PRECINCT 55,U.S. Senator,,,Joe Manchin III,75
+Mercer,PRECINCT 56,U.S. Senator,,,Joe Manchin III,122
+Mercer,PRECINCT 57,U.S. Senator,,,Joe Manchin III,216
+Mercer,PRECINCT 58 ,U.S. Senator,,,Joe Manchin III,113
+Mercer,PRECINCT 59,U.S. Senator,,,Joe Manchin III,73
+Mercer,PRECINCT 60,U.S. Senator,,,Joe Manchin III,26
+Mercer,PRECINCT 62,U.S. Senator,,,Joe Manchin III,202
+Mercer,PRECINCT 64,U.S. Senator,,,Joe Manchin III,94
+Mercer,PRECINCT 65,U.S. Senator,,,Joe Manchin III,334
+Mercer,PRECINCT 66,U.S. Senator,,,Joe Manchin III,69
+Mercer,PRECINCT 67,U.S. Senator,,,Joe Manchin III,117
+Mercer,PRECINCT 68,U.S. Senator,,,Joe Manchin III,55
+Mercer,PRECINCT 69,U.S. Senator,,,Joe Manchin III,148
+Mercer,PRECINCT 71,U.S. Senator,,,Joe Manchin III,295
+Mercer,PRECINCT 72,U.S. Senator,,,Joe Manchin III,165
+Mercer,PRECINCT 73,U.S. Senator,,,Joe Manchin III,196
+Mercer,PRECINCT 74,U.S. Senator,,,Joe Manchin III,282
+Mercer,PRECINCT 75,U.S. Senator,,,Joe Manchin III,359
+Mercer,PRECINCT 77,U.S. Senator,,,Joe Manchin III,109
+Mercer,PRECINCT  78 ,U.S. Senator,,,Joe Manchin III,75
+Mercer,PRECINCT  79 ,U.S. Senator,,,Joe Manchin III,145
+Mercer,PRECINCT 80,U.S. Senator,,,Joe Manchin III,173
+Mercer,PRECINCT 81,U.S. Senator,,,Joe Manchin III,158
+Mercer,PRECINCT 82,U.S. Senator,,,Joe Manchin III,202
+Mercer,PRECINCT 83,U.S. Senator,,,Joe Manchin III,43
+Mercer,PRECINCT 84,U.S. Senator,,,Joe Manchin III,54
+Mercer,PRECINCT 85,U.S. Senator,,,Joe Manchin III,54
+Mercer,PRECINCT 86,U.S. Senator,,,Joe Manchin III,125
+Mercer,PRECINCT 87,U.S. Senator,,,Joe Manchin III,103
+Mercer,PRECINCT 88,U.S. Senator,,,Joe Manchin III,338
+Mercer,PRECINCT 89,U.S. Senator,,,Joe Manchin III,65
+Mercer,PRECINCT 95,U.S. Senator,,,Joe Manchin III,118
+Mercer,PRECINCT 96,U.S. Senator,,,Joe Manchin III,71
+Mercer,PRECINCT 98,U.S. Senator,,,Joe Manchin III,188
+Mercer,TOTALS ,U.S. Senator,,,Joe Manchin III,7769
+Mercer,PRECINCT 1,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 2,U.S. Senator,,,Jeff Becker,3
+Mercer,PRECINCT 3,U.S. Senator,,,Jeff Becker,3
+Mercer,PRECINCT 4,U.S. Senator,,,Jeff Becker,3
+Mercer,PRECINCT 5,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 14,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 15,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 20,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 27,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 28,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 29,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 31,U.S. Senator,,,Jeff Becker,3
+Mercer,PRECINCT 32,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 34,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 36,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 38,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 39,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 44,U.S. Senator,,,Jeff Becker,9
+Mercer,PRECINCT 46,U.S. Senator,,,Jeff Becker,7
+Mercer,PRECINCT 47,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 48,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 49 ,U.S. Senator,,,Jeff Becker,8
+Mercer,PRECINCT 52,U.S. Senator,,,Jeff Becker,3
+Mercer,PRECINCT 53,U.S. Senator,,,Jeff Becker,6
+Mercer,PRECINCT 54,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 55,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 56,U.S. Senator,,,Jeff Becker,4
+Mercer,PRECINCT 57,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 58 ,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 59,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 60,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 62,U.S. Senator,,,Jeff Becker,5
+Mercer,PRECINCT 64,U.S. Senator,,,Jeff Becker,5
+Mercer,PRECINCT 65,U.S. Senator,,,Jeff Becker,16
+Mercer,PRECINCT 66,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 67,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 68,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 69,U.S. Senator,,,Jeff Becker,4
+Mercer,PRECINCT 71,U.S. Senator,,,Jeff Becker,12
+Mercer,PRECINCT 72,U.S. Senator,,,Jeff Becker,4
+Mercer,PRECINCT 73,U.S. Senator,,,Jeff Becker,6
+Mercer,PRECINCT 74,U.S. Senator,,,Jeff Becker,7
+Mercer,PRECINCT 75,U.S. Senator,,,Jeff Becker,6
+Mercer,PRECINCT 77,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT  78 ,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT  79 ,U.S. Senator,,,Jeff Becker,1
+Mercer,PRECINCT 80,U.S. Senator,,,Jeff Becker,5
+Mercer,PRECINCT 81,U.S. Senator,,,Jeff Becker,6
+Mercer,PRECINCT 82,U.S. Senator,,,Jeff Becker,8
+Mercer,PRECINCT 83,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 84,U.S. Senator,,,Jeff Becker,3
+Mercer,PRECINCT 85,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 86,U.S. Senator,,,Jeff Becker,6
+Mercer,PRECINCT 87,U.S. Senator,,,Jeff Becker,5
+Mercer,PRECINCT 88,U.S. Senator,,,Jeff Becker,4
+Mercer,PRECINCT 89,U.S. Senator,,,Jeff Becker,0
+Mercer,PRECINCT 95,U.S. Senator,,,Jeff Becker,5
+Mercer,PRECINCT 96,U.S. Senator,,,Jeff Becker,2
+Mercer,PRECINCT 98,U.S. Senator,,,Jeff Becker,4
+Mercer,TOTALS ,U.S. Senator,,,Jeff Becker,192
+Mercer,PRECINCT 1,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT 2,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT 3,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT 4,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 5,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 14,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 15,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 20,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 27,U.S. Senator,,,Jesse Johnson,0
+Mercer,PRECINCT 28,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 29,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 31,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 32,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 34,U.S. Senator,,,Jesse Johnson,0
+Mercer,PRECINCT 36,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 38,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 39,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 44,U.S. Senator,,,Jesse Johnson,16
+Mercer,PRECINCT 46,U.S. Senator,,,Jesse Johnson,7
+Mercer,PRECINCT 47,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 48,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 49 ,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 52,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 53,U.S. Senator,,,Jesse Johnson,5
+Mercer,PRECINCT 54,U.S. Senator,,,Jesse Johnson,7
+Mercer,PRECINCT 55,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 56,U.S. Senator,,,Jesse Johnson,9
+Mercer,PRECINCT 57,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 58 ,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 59,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT 60,U.S. Senator,,,Jesse Johnson,0
+Mercer,PRECINCT 62,U.S. Senator,,,Jesse Johnson,10
+Mercer,PRECINCT 64,U.S. Senator,,,Jesse Johnson,5
+Mercer,PRECINCT 65,U.S. Senator,,,Jesse Johnson,19
+Mercer,PRECINCT 66,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 67,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 68,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 69,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 71,U.S. Senator,,,Jesse Johnson,8
+Mercer,PRECINCT 72,U.S. Senator,,,Jesse Johnson,2
+Mercer,PRECINCT 73,U.S. Senator,,,Jesse Johnson,11
+Mercer,PRECINCT 74,U.S. Senator,,,Jesse Johnson,13
+Mercer,PRECINCT 75,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT 77,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT  78 ,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT  79 ,U.S. Senator,,,Jesse Johnson,7
+Mercer,PRECINCT 80,U.S. Senator,,,Jesse Johnson,9
+Mercer,PRECINCT 81,U.S. Senator,,,Jesse Johnson,8
+Mercer,PRECINCT 82,U.S. Senator,,,Jesse Johnson,5
+Mercer,PRECINCT 83,U.S. Senator,,,Jesse Johnson,5
+Mercer,PRECINCT 84,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 85,U.S. Senator,,,Jesse Johnson,1
+Mercer,PRECINCT 86,U.S. Senator,,,Jesse Johnson,6
+Mercer,PRECINCT 87,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 88,U.S. Senator,,,Jesse Johnson,21
+Mercer,PRECINCT 89,U.S. Senator,,,Jesse Johnson,4
+Mercer,PRECINCT 95,U.S. Senator,,,Jesse Johnson,7
+Mercer,PRECINCT 96,U.S. Senator,,,Jesse Johnson,3
+Mercer,PRECINCT 98,U.S. Senator,,,Jesse Johnson,6
+Mercer,TOTALS ,U.S. Senator,,,Jesse Johnson,295
+Mercer,PRECINCT 1,U.S. House,3,,"Elliott E. ""Spike"" Maynard",62
+Mercer,PRECINCT 2,U.S. House,3,,"Elliott E. ""Spike"" Maynard",183
+Mercer,PRECINCT 3,U.S. House,3,,"Elliott E. ""Spike"" Maynard",143
+Mercer,PRECINCT 4,U.S. House,3,,"Elliott E. ""Spike"" Maynard",145
+Mercer,PRECINCT 5,U.S. House,3,,"Elliott E. ""Spike"" Maynard",109
+Mercer,PRECINCT 14,U.S. House,3,,"Elliott E. ""Spike"" Maynard",12
+Mercer,PRECINCT 15,U.S. House,3,,"Elliott E. ""Spike"" Maynard",54
+Mercer,PRECINCT 20,U.S. House,3,,"Elliott E. ""Spike"" Maynard",71
+Mercer,PRECINCT 27,U.S. House,3,,"Elliott E. ""Spike"" Maynard",167
+Mercer,PRECINCT 28,U.S. House,3,,"Elliott E. ""Spike"" Maynard",108
+Mercer,PRECINCT 29,U.S. House,3,,"Elliott E. ""Spike"" Maynard",54
+Mercer,PRECINCT 31,U.S. House,3,,"Elliott E. ""Spike"" Maynard",158
+Mercer,PRECINCT 32,U.S. House,3,,"Elliott E. ""Spike"" Maynard",96
+Mercer,PRECINCT 34,U.S. House,3,,"Elliott E. ""Spike"" Maynard",33
+Mercer,PRECINCT 36,U.S. House,3,,"Elliott E. ""Spike"" Maynard",221
+Mercer,PRECINCT 38,U.S. House,3,,"Elliott E. ""Spike"" Maynard",194
+Mercer,PRECINCT 39,U.S. House,3,,"Elliott E. ""Spike"" Maynard",98
+Mercer,PRECINCT 44,U.S. House,3,,"Elliott E. ""Spike"" Maynard",179
+Mercer,PRECINCT 46,U.S. House,3,,"Elliott E. ""Spike"" Maynard",49
+Mercer,PRECINCT 47,U.S. House,3,,"Elliott E. ""Spike"" Maynard",158
+Mercer,PRECINCT 48,U.S. House,3,,"Elliott E. ""Spike"" Maynard",43
+Mercer,PRECINCT 49 ,U.S. House,3,,"Elliott E. ""Spike"" Maynard",88
+Mercer,PRECINCT 52,U.S. House,3,,"Elliott E. ""Spike"" Maynard",92
+Mercer,PRECINCT 53,U.S. House,3,,"Elliott E. ""Spike"" Maynard",138
+Mercer,PRECINCT 54,U.S. House,3,,"Elliott E. ""Spike"" Maynard",165
+Mercer,PRECINCT 55,U.S. House,3,,"Elliott E. ""Spike"" Maynard",130
+Mercer,PRECINCT 56,U.S. House,3,,"Elliott E. ""Spike"" Maynard",99
+Mercer,PRECINCT 57,U.S. House,3,,"Elliott E. ""Spike"" Maynard",156
+Mercer,PRECINCT 58 ,U.S. House,3,,"Elliott E. ""Spike"" Maynard",110
+Mercer,PRECINCT 59,U.S. House,3,,"Elliott E. ""Spike"" Maynard",122
+Mercer,PRECINCT 60,U.S. House,3,,"Elliott E. ""Spike"" Maynard",26
+Mercer,PRECINCT 62,U.S. House,3,,"Elliott E. ""Spike"" Maynard",310
+Mercer,PRECINCT 64,U.S. House,3,,"Elliott E. ""Spike"" Maynard",177
+Mercer,PRECINCT 65,U.S. House,3,,"Elliott E. ""Spike"" Maynard",407
+Mercer,PRECINCT 66,U.S. House,3,,"Elliott E. ""Spike"" Maynard",52
+Mercer,PRECINCT 67,U.S. House,3,,"Elliott E. ""Spike"" Maynard",62
+Mercer,PRECINCT 68,U.S. House,3,,"Elliott E. ""Spike"" Maynard",30
+Mercer,PRECINCT 69,U.S. House,3,,"Elliott E. ""Spike"" Maynard",113
+Mercer,PRECINCT 71,U.S. House,3,,"Elliott E. ""Spike"" Maynard",346
+Mercer,PRECINCT 72,U.S. House,3,,"Elliott E. ""Spike"" Maynard",175
+Mercer,PRECINCT 73,U.S. House,3,,"Elliott E. ""Spike"" Maynard",229
+Mercer,PRECINCT 74,U.S. House,3,,"Elliott E. ""Spike"" Maynard",279
+Mercer,PRECINCT 75,U.S. House,3,,"Elliott E. ""Spike"" Maynard",398
+Mercer,PRECINCT 77,U.S. House,3,,"Elliott E. ""Spike"" Maynard",61
+Mercer,PRECINCT  78 ,U.S. House,3,,"Elliott E. ""Spike"" Maynard",56
+Mercer,PRECINCT  79 ,U.S. House,3,,"Elliott E. ""Spike"" Maynard",180
+Mercer,PRECINCT 80,U.S. House,3,,"Elliott E. ""Spike"" Maynard",156
+Mercer,PRECINCT 81,U.S. House,3,,"Elliott E. ""Spike"" Maynard",177
+Mercer,PRECINCT 82,U.S. House,3,,"Elliott E. ""Spike"" Maynard",150
+Mercer,PRECINCT 83,U.S. House,3,,"Elliott E. ""Spike"" Maynard",50
+Mercer,PRECINCT 84,U.S. House,3,,"Elliott E. ""Spike"" Maynard",32
+Mercer,PRECINCT 85,U.S. House,3,,"Elliott E. ""Spike"" Maynard",49
+Mercer,PRECINCT 86,U.S. House,3,,"Elliott E. ""Spike"" Maynard",110
+Mercer,PRECINCT 87,U.S. House,3,,"Elliott E. ""Spike"" Maynard",74
+Mercer,PRECINCT 88,U.S. House,3,,"Elliott E. ""Spike"" Maynard",405
+Mercer,PRECINCT 89,U.S. House,3,,"Elliott E. ""Spike"" Maynard",83
+Mercer,PRECINCT 95,U.S. House,3,,"Elliott E. ""Spike"" Maynard",129
+Mercer,PRECINCT 96,U.S. House,3,,"Elliott E. ""Spike"" Maynard",84
+Mercer,PRECINCT 98,U.S. House,3,,"Elliott E. ""Spike"" Maynard",240
+Mercer,TOTALS ,U.S. House,3,,"Elliott E. ""Spike"" Maynard",8077
+Mercer,PRECINCT 1,U.S. House,3,,Nick Joe Rahall II,56
+Mercer,PRECINCT 2,U.S. House,3,,Nick Joe Rahall II,161
+Mercer,PRECINCT 3,U.S. House,3,,Nick Joe Rahall II,126
+Mercer,PRECINCT 4,U.S. House,3,,Nick Joe Rahall II,130
+Mercer,PRECINCT 5,U.S. House,3,,Nick Joe Rahall II,94
+Mercer,PRECINCT 14,U.S. House,3,,Nick Joe Rahall II,165
+Mercer,PRECINCT 15,U.S. House,3,,Nick Joe Rahall II,101
+Mercer,PRECINCT 20,U.S. House,3,,Nick Joe Rahall II,137
+Mercer,PRECINCT 27,U.S. House,3,,Nick Joe Rahall II,80
+Mercer,PRECINCT 28,U.S. House,3,,Nick Joe Rahall II,85
+Mercer,PRECINCT 29,U.S. House,3,,Nick Joe Rahall II,57
+Mercer,PRECINCT 31,U.S. House,3,,Nick Joe Rahall II,169
+Mercer,PRECINCT 32,U.S. House,3,,Nick Joe Rahall II,73
+Mercer,PRECINCT 34,U.S. House,3,,Nick Joe Rahall II,85
+Mercer,PRECINCT 36,U.S. House,3,,Nick Joe Rahall II,120
+Mercer,PRECINCT 38,U.S. House,3,,Nick Joe Rahall II,114
+Mercer,PRECINCT 39,U.S. House,3,,Nick Joe Rahall II,73
+Mercer,PRECINCT 44,U.S. House,3,,Nick Joe Rahall II,134
+Mercer,PRECINCT 46,U.S. House,3,,Nick Joe Rahall II,88
+Mercer,PRECINCT 47,U.S. House,3,,Nick Joe Rahall II,100
+Mercer,PRECINCT 48,U.S. House,3,,Nick Joe Rahall II,34
+Mercer,PRECINCT 49 ,U.S. House,3,,Nick Joe Rahall II,81
+Mercer,PRECINCT 52,U.S. House,3,,Nick Joe Rahall II,73
+Mercer,PRECINCT 53,U.S. House,3,,Nick Joe Rahall II,93
+Mercer,PRECINCT 54,U.S. House,3,,Nick Joe Rahall II,88
+Mercer,PRECINCT 55,U.S. House,3,,Nick Joe Rahall II,68
+Mercer,PRECINCT 56,U.S. House,3,,Nick Joe Rahall II,130
+Mercer,PRECINCT 57,U.S. House,3,,Nick Joe Rahall II,209
+Mercer,PRECINCT 58 ,U.S. House,3,,Nick Joe Rahall II,101
+Mercer,PRECINCT 59,U.S. House,3,,Nick Joe Rahall II,76
+Mercer,PRECINCT 60,U.S. House,3,,Nick Joe Rahall II,17
+Mercer,PRECINCT 62,U.S. House,3,,Nick Joe Rahall II,185
+Mercer,PRECINCT 64,U.S. House,3,,Nick Joe Rahall II,82
+Mercer,PRECINCT 65,U.S. House,3,,Nick Joe Rahall II,309
+Mercer,PRECINCT 66,U.S. House,3,,Nick Joe Rahall II,66
+Mercer,PRECINCT 67,U.S. House,3,,Nick Joe Rahall II,107
+Mercer,PRECINCT 68,U.S. House,3,,Nick Joe Rahall II,49
+Mercer,PRECINCT 69,U.S. House,3,,Nick Joe Rahall II,153
+Mercer,PRECINCT 71,U.S. House,3,,Nick Joe Rahall II,264
+Mercer,PRECINCT 72,U.S. House,3,,Nick Joe Rahall II,146
+Mercer,PRECINCT 73,U.S. House,3,,Nick Joe Rahall II,172
+Mercer,PRECINCT 74,U.S. House,3,,Nick Joe Rahall II,252
+Mercer,PRECINCT 75,U.S. House,3,,Nick Joe Rahall II,303
+Mercer,PRECINCT 77,U.S. House,3,,Nick Joe Rahall II,93
+Mercer,PRECINCT  78 ,U.S. House,3,,Nick Joe Rahall II,77
+Mercer,PRECINCT  79 ,U.S. House,3,,Nick Joe Rahall II,133
+Mercer,PRECINCT 80,U.S. House,3,,Nick Joe Rahall II,157
+Mercer,PRECINCT 81,U.S. House,3,,Nick Joe Rahall II,159
+Mercer,PRECINCT 82,U.S. House,3,,Nick Joe Rahall II,185
+Mercer,PRECINCT 83,U.S. House,3,,Nick Joe Rahall II,43
+Mercer,PRECINCT 84,U.S. House,3,,Nick Joe Rahall II,55
+Mercer,PRECINCT 85,U.S. House,3,,Nick Joe Rahall II,50
+Mercer,PRECINCT 86,U.S. House,3,,Nick Joe Rahall II,122
+Mercer,PRECINCT 87,U.S. House,3,,Nick Joe Rahall II,95
+Mercer,PRECINCT 88,U.S. House,3,,Nick Joe Rahall II,308
+Mercer,PRECINCT 89,U.S. House,3,,Nick Joe Rahall II,56
+Mercer,PRECINCT 95,U.S. House,3,,Nick Joe Rahall II,111
+Mercer,PRECINCT 96,U.S. House,3,,Nick Joe Rahall II,62
+Mercer,PRECINCT 98,U.S. House,3,,Nick Joe Rahall II,169
+Mercer,TOTALS ,U.S. House,3,,Nick Joe Rahall II,7081
+Mercer,PRECINCT 2,State Senate,6,,H. Truman Chafin,233
+Mercer,PRECINCT 3,State Senate,6,,H. Truman Chafin,180
+Mercer,PRECINCT 4,State Senate,6,,H. Truman Chafin,187
+Mercer,PRECINCT 5,State Senate,6,,H. Truman Chafin,125
+Mercer,PRECINCT 46,State Senate,6,,H. Truman Chafin,106
+Mercer,PRECINCT 49 ,State Senate,6,,H. Truman Chafin,96
+Mercer,PRECINCT 52,State Senate,6,,H. Truman Chafin,106
+Mercer,PRECINCT 53,State Senate,6,,H. Truman Chafin,130
+Mercer,PRECINCT 54,State Senate,6,,H. Truman Chafin,140
+Mercer,PRECINCT 55,State Senate,6,,H. Truman Chafin,103
+Mercer,PRECINCT 58 ,State Senate,6,,H. Truman Chafin,141
+Mercer,PRECINCT 60,State Senate,6,,H. Truman Chafin,28
+Mercer,PRECINCT 62,State Senate,6,,H. Truman Chafin,262
+Mercer,PRECINCT 66,State Senate,6,,H. Truman Chafin,76
+Mercer,PRECINCT 67,State Senate,6,,H. Truman Chafin,133
+Mercer,PRECINCT 68,State Senate,6,,H. Truman Chafin,62
+Mercer,PRECINCT 69,State Senate,6,,H. Truman Chafin,171
+Mercer,PRECINCT 71,State Senate,6,,H. Truman Chafin,386
+Mercer,PRECINCT 72,State Senate,6,,H. Truman Chafin,193
+Mercer,PRECINCT  79 ,State Senate,6,,H. Truman Chafin,202
+Mercer,PRECINCT 96,State Senate,6,,H. Truman Chafin,89
+Mercer,TOTALS ,State Senate,6,,H. Truman Chafin,3149
+Mercer,PRECINCT 1,State Senate,10,,John Barnes,70
+Mercer,PRECINCT 14,State Senate,10,,John Barnes,21
+Mercer,PRECINCT 15,State Senate,10,,John Barnes,60
+Mercer,PRECINCT 20,State Senate,10,,John Barnes,88
+Mercer,PRECINCT 27,State Senate,10,,John Barnes,159
+Mercer,PRECINCT 28,State Senate,10,,John Barnes,123
+Mercer,PRECINCT 29,State Senate,10,,John Barnes,63
+Mercer,PRECINCT 31,State Senate,10,,John Barnes,168
+Mercer,PRECINCT 32,State Senate,10,,John Barnes,97
+Mercer,PRECINCT 34,State Senate,10,,John Barnes,42
+Mercer,PRECINCT 36,State Senate,10,,John Barnes,215
+Mercer,PRECINCT 38,State Senate,10,,John Barnes,191
+Mercer,PRECINCT 39,State Senate,10,,John Barnes,94
+Mercer,PRECINCT 44,State Senate,10,,John Barnes,173
+Mercer,PRECINCT 47,State Senate,10,,John Barnes,158
+Mercer,PRECINCT 48,State Senate,10,,John Barnes,38
+Mercer,PRECINCT 56,State Senate,10,,John Barnes,104
+Mercer,PRECINCT 57,State Senate,10,,John Barnes,169
+Mercer,PRECINCT 59,State Senate,10,,John Barnes,112
+Mercer,PRECINCT 64,State Senate,10,,John Barnes,164
+Mercer,PRECINCT 65,State Senate,10,,John Barnes,407
+Mercer,PRECINCT 73,State Senate,10,,John Barnes,211
+Mercer,PRECINCT 74,State Senate,10,,John Barnes,279
+Mercer,PRECINCT 75,State Senate,10,,John Barnes,364
+Mercer,PRECINCT 77,State Senate,10,,John Barnes,70
+Mercer,PRECINCT   78,State Senate,10,,John Barnes,58
+Mercer,PRECINCT 80,State Senate,10,,John Barnes,151
+Mercer,PRECINCT 81,State Senate,10,,John Barnes,184
+Mercer,PRECINCT 82,State Senate,10,,John Barnes,141
+Mercer,PRECINCT 83,State Senate,10,,John Barnes,52
+Mercer,PRECINCT 84,State Senate,10,,John Barnes,37
+Mercer,PRECINCT 85,State Senate,10,,John Barnes,43
+Mercer,PRECINCT 86,State Senate,10,,John Barnes,110
+Mercer,PRECINCT 87,State Senate,10,,John Barnes,77
+Mercer,PRECINCT 88,State Senate,10,,John Barnes,383
+Mercer,PRECINCT 89,State Senate,10,,John Barnes,75
+Mercer,PRECINCT 95,State Senate,10,,John Barnes,137
+Mercer,PRECINCT 98,State Senate,10,,John Barnes,233
+Mercer,TOTALS ,State Senate,10,,John Barnes,5321
+Mercer,PRECINCT 1,State Senate,10,,Ronald F. (Ron) Miller,50
+Mercer,PRECINCT 14,State Senate,10,,Ronald F. (Ron) Miller,149
+Mercer,PRECINCT 15,State Senate,10,,Ronald F. (Ron) Miller,85
+Mercer,PRECINCT 20,State Senate,10,,Ronald F. (Ron) Miller,120
+Mercer,PRECINCT 27,State Senate,10,,Ronald F. (Ron) Miller,69
+Mercer,PRECINCT 28,State Senate,10,,Ronald F. (Ron) Miller,64
+Mercer,PRECINCT 29,State Senate,10,,Ronald F. (Ron) Miller,39
+Mercer,PRECINCT 31,State Senate,10,,Ronald F. (Ron) Miller,138
+Mercer,PRECINCT 32,State Senate,10,,Ronald F. (Ron) Miller,65
+Mercer,PRECINCT 34,State Senate,10,,Ronald F. (Ron) Miller,69
+Mercer,PRECINCT 36,State Senate,10,,Ronald F. (Ron) Miller,117
+Mercer,PRECINCT 38,State Senate,10,,Ronald F. (Ron) Miller,90
+Mercer,PRECINCT 39,State Senate,10,,Ronald F. (Ron) Miller,62
+Mercer,PRECINCT 44,State Senate,10,,Ronald F. (Ron) Miller,130
+Mercer,PRECINCT 47,State Senate,10,,Ronald F. (Ron) Miller,80
+Mercer,PRECINCT 48,State Senate,10,,Ronald F. (Ron) Miller,32
+Mercer,PRECINCT 56,State Senate,10,,Ronald F. (Ron) Miller,99
+Mercer,PRECINCT 57,State Senate,10,,Ronald F. (Ron) Miller,173
+Mercer,PRECINCT 59,State Senate,10,,Ronald F. (Ron) Miller,74
+Mercer,PRECINCT 64,State Senate,10,,Ronald F. (Ron) Miller,81
+Mercer,PRECINCT 65,State Senate,10,,Ronald F. (Ron) Miller,254
+Mercer,PRECINCT 73,State Senate,10,,Ronald F. (Ron) Miller,161
+Mercer,PRECINCT 74,State Senate,10,,Ronald F. (Ron) Miller,212
+Mercer,PRECINCT 75,State Senate,10,,Ronald F. (Ron) Miller,260
+Mercer,PRECINCT 77,State Senate,10,,Ronald F. (Ron) Miller,84
+Mercer,PRECINCT   78,State Senate,10,,Ronald F. (Ron) Miller,58
+Mercer,PRECINCT 80,State Senate,10,,Ronald F. (Ron) Miller,148
+Mercer,PRECINCT 81,State Senate,10,,Ronald F. (Ron) Miller,132
+Mercer,PRECINCT 82,State Senate,10,,Ronald F. (Ron) Miller,155
+Mercer,PRECINCT 83,State Senate,10,,Ronald F. (Ron) Miller,40
+Mercer,PRECINCT 84,State Senate,10,,Ronald F. (Ron) Miller,44
+Mercer,PRECINCT 85,State Senate,10,,Ronald F. (Ron) Miller,47
+Mercer,PRECINCT 86,State Senate,10,,Ronald F. (Ron) Miller,102
+Mercer,PRECINCT 87,State Senate,10,,Ronald F. (Ron) Miller,79
+Mercer,PRECINCT 88,State Senate,10,,Ronald F. (Ron) Miller,273
+Mercer,PRECINCT 89,State Senate,10,,Ronald F. (Ron) Miller,55
+Mercer,PRECINCT 95,State Senate,10,,Ronald F. (Ron) Miller,94
+Mercer,PRECINCT 98,State Senate,10,,Ronald F. (Ron) Miller,140
+Mercer,TOTALS ,State Senate,10,,Ronald F. (Ron) Miller,4124
+Mercer,PRECINCT 1,State Senate,10 unexpired term,,Philip L. Stevens,46
+Mercer,PRECINCT 14,State Senate,10 unexpired term,,Philip L. Stevens,9
+Mercer,PRECINCT 15,State Senate,10 unexpired term,,Philip L. Stevens,46
+Mercer,PRECINCT 20,State Senate,10 unexpired term,,Philip L. Stevens,63
+Mercer,PRECINCT 27,State Senate,10 unexpired term,,Philip L. Stevens,120
+Mercer,PRECINCT 28,State Senate,10 unexpired term,,Philip L. Stevens,91
+Mercer,PRECINCT 29,State Senate,10 unexpired term,,Philip L. Stevens,43
+Mercer,PRECINCT 31,State Senate,10 unexpired term,,Philip L. Stevens,128
+Mercer,PRECINCT 32,State Senate,10 unexpired term,,Philip L. Stevens,59
+Mercer,PRECINCT 34,State Senate,10 unexpired term,,Philip L. Stevens,24
+Mercer,PRECINCT 36,State Senate,10 unexpired term,,Philip L. Stevens,162
+Mercer,PRECINCT 38,State Senate,10 unexpired term,,Philip L. Stevens,140
+Mercer,PRECINCT 39,State Senate,10 unexpired term,,Philip L. Stevens,65
+Mercer,PRECINCT 44,State Senate,10 unexpired term,,Philip L. Stevens,132
+Mercer,PRECINCT 47,State Senate,10 unexpired term,,Philip L. Stevens,117
+Mercer,PRECINCT 48,State Senate,10 unexpired term,,Philip L. Stevens,36
+Mercer,PRECINCT 56,State Senate,10 unexpired term,,Philip L. Stevens,83
+Mercer,PRECINCT 57,State Senate,10 unexpired term,,Philip L. Stevens,128
+Mercer,PRECINCT 59,State Senate,10 unexpired term,,Philip L. Stevens,101
+Mercer,PRECINCT 64,State Senate,10 unexpired term,,Philip L. Stevens,150
+Mercer,PRECINCT 65,State Senate,10 unexpired term,,Philip L. Stevens,282
+Mercer,PRECINCT  73 ,State Senate,10 unexpired term,,Philip L. Stevens,157
+Mercer,PRECINCT  74 ,State Senate,10 unexpired term,,Philip L. Stevens,194
+Mercer,PRECINCT 75,State Senate,10 unexpired term,,Philip L. Stevens,239
+Mercer,PRECINCT 77,State Senate,10 unexpired term,,Philip L. Stevens,45
+Mercer,PRECINCT 78,State Senate,10 unexpired term,,Philip L. Stevens,42
+Mercer,PRECINCT 80,State Senate,10 unexpired term,,Philip L. Stevens,111
+Mercer,PRECINCT 81,State Senate,10 unexpired term,,Philip L. Stevens,121
+Mercer,PRECINCT 82,State Senate,10 unexpired term,,Philip L. Stevens,82
+Mercer,PRECINCT  83 ,State Senate,10 unexpired term,,Philip L. Stevens,35
+Mercer,PRECINCT 84,State Senate,10 unexpired term,,Philip L. Stevens,20
+Mercer,PRECINCT 85,State Senate,10 unexpired term,,Philip L. Stevens,29
+Mercer,PRECINCT 86,State Senate,10 unexpired term,,Philip L. Stevens,73
+Mercer,PRECINCT 87,State Senate,10 unexpired term,,Philip L. Stevens,51
+Mercer,PRECINCT 88,State Senate,10 unexpired term,,Philip L. Stevens,266
+Mercer,PRECINCT 89,State Senate,10 unexpired term,,Philip L. Stevens,55
+Mercer,PRECINCT 95,State Senate,10 unexpired term,,Philip L. Stevens,87
+Mercer,PRECINCT 98,State Senate,10 unexpired term,,Philip L. Stevens,157
+Mercer,TOTALS ,State Senate,10 unexpired term,,Philip L. Stevens,3789
+Mercer,PRECINCT 1,State Senate,10 unexpired term,,Mark Wills,78
+Mercer,PRECINCT 14,State Senate,10 unexpired term,,Mark Wills,162
+Mercer,PRECINCT 15,State Senate,10 unexpired term,,Mark Wills,102
+Mercer,PRECINCT 20,State Senate,10 unexpired term,,Mark Wills,144
+Mercer,PRECINCT 27,State Senate,10 unexpired term,,Mark Wills,119
+Mercer,PRECINCT 28,State Senate,10 unexpired term,,Mark Wills,94
+Mercer,PRECINCT 29,State Senate,10 unexpired term,,Mark Wills,64
+Mercer,PRECINCT 31,State Senate,10 unexpired term,,Mark Wills,191
+Mercer,PRECINCT 32,State Senate,10 unexpired term,,Mark Wills,101
+Mercer,PRECINCT 34,State Senate,10 unexpired term,,Mark Wills,89
+Mercer,PRECINCT 36,State Senate,10 unexpired term,,Mark Wills,175
+Mercer,PRECINCT 38,State Senate,10 unexpired term,,Mark Wills,151
+Mercer,PRECINCT 39,State Senate,10 unexpired term,,Mark Wills,99
+Mercer,PRECINCT 44,State Senate,10 unexpired term,,Mark Wills,177
+Mercer,PRECINCT 47,State Senate,10 unexpired term,,Mark Wills,135
+Mercer,PRECINCT 48,State Senate,10 unexpired term,,Mark Wills,40
+Mercer,PRECINCT 56,State Senate,10 unexpired term,,Mark Wills,139
+Mercer,PRECINCT 57,State Senate,10 unexpired term,,Mark Wills,233
+Mercer,PRECINCT 59,State Senate,10 unexpired term,,Mark Wills,98
+Mercer,PRECINCT 64,State Senate,10 unexpired term,,Mark Wills,101
+Mercer,PRECINCT 65,State Senate,10 unexpired term,,Mark Wills,403
+Mercer,PRECINCT  73 ,State Senate,10 unexpired term,,Mark Wills,239
+Mercer,PRECINCT  74 ,State Senate,10 unexpired term,,Mark Wills,330
+Mercer,PRECINCT 75,State Senate,10 unexpired term,,Mark Wills,439
+Mercer,PRECINCT 77,State Senate,10 unexpired term,,Mark Wills,111
+Mercer,PRECINCT 78,State Senate,10 unexpired term,,Mark Wills,82
+Mercer,PRECINCT 80,State Senate,10 unexpired term,,Mark Wills,203
+Mercer,PRECINCT 81,State Senate,10 unexpired term,,Mark Wills,215
+Mercer,PRECINCT 82,State Senate,10 unexpired term,,Mark Wills,246
+Mercer,PRECINCT  83 ,State Senate,10 unexpired term,,Mark Wills,58
+Mercer,PRECINCT 84,State Senate,10 unexpired term,,Mark Wills,61
+Mercer,PRECINCT 85,State Senate,10 unexpired term,,Mark Wills,66
+Mercer,PRECINCT 86,State Senate,10 unexpired term,,Mark Wills,155
+Mercer,PRECINCT 87,State Senate,10 unexpired term,,Mark Wills,119
+Mercer,PRECINCT 88,State Senate,10 unexpired term,,Mark Wills,423
+Mercer,PRECINCT 89,State Senate,10 unexpired term,,Mark Wills,87
+Mercer,PRECINCT 95,State Senate,10 unexpired term,,Mark Wills,150
+Mercer,PRECINCT 98,State Senate,10 unexpired term,,Mark Wills,248
+Mercer,TOTALS ,State Senate,10 unexpired term,,Mark Wills,6127
+Mercer,PRECINCT 2,House of Delegates,24,,Martyn Gearheart,250
+Mercer,PRECINCT 4,House of Delegates,24,,Martyn Gearheart,218
+Mercer,PRECINCT 5,House of Delegates,24,,Martyn Gearheart,149
+Mercer,PRECINCT 14,House of Delegates,24,,Martyn Gearheart,36
+Mercer,PRECINCT 15,House of Delegates,24,,Martyn Gearheart,93
+Mercer,PRECINCT 20,House of Delegates,24,,Martyn Gearheart,117
+Mercer,PRECINCT 27,House of Delegates,24,,Martyn Gearheart,195
+Mercer,PRECINCT 28,House of Delegates,24,,Martyn Gearheart,144
+Mercer,PRECINCT 29,House of Delegates,24,,Martyn Gearheart,87
+Mercer,PRECINCT 31,House of Delegates,24,,Martyn Gearheart,233
+Mercer,PRECINCT 32,House of Delegates,24,,Martyn Gearheart,141
+Mercer,PRECINCT 34,House of Delegates,24,,Martyn Gearheart,48
+Mercer,PRECINCT 36,House of Delegates,24,,Martyn Gearheart,278
+Mercer,PRECINCT 38,House of Delegates,24,,Martyn Gearheart,229
+Mercer,PRECINCT 39,House of Delegates,24,,Martyn Gearheart,126
+Mercer,PRECINCT 66,House of Delegates,24,,Martyn Gearheart,77
+Mercer,PRECINCT 67,House of Delegates,24,,Martyn Gearheart,100
+Mercer,PRECINCT 68,House of Delegates,24,,Martyn Gearheart,45
+Mercer,PRECINCT 79,House of Delegates,24,,Martyn Gearheart,231
+Mercer,TOTALS ,House of Delegates,24,,Martyn Gearheart,2797
+Mercer,PRECINCT 3,House of Delegates,22,,Shawn R. Spears,150
+Mercer,PRECINCT 46,House of Delegates,22,,Shawn R. Spears,41
+Mercer,PRECINCT 49,House of Delegates,22,,Shawn R. Spears,80
+Mercer,PRECINCT 55,House of Delegates,22,,Shawn R. Spears,125
+Mercer,PRECINCT 60,House of Delegates,22,,Shawn R. Spears,20
+Mercer,PRECINCT 69,House of Delegates,22,,Shawn R. Spears,115
+Mercer,PRECINCT 96,House of Delegates,22,,Shawn R. Spears,72
+Mercer,TOTALS ,House of Delegates,22,,Shawn R. Spears,603
+Mercer,PRECINCT 3,House of Delegates,22,,Linda Goode Phillips,131
+Mercer,PRECINCT 46,House of Delegates,22,,Linda Goode Phillips,78
+Mercer,PRECINCT 49,House of Delegates,22,,Linda Goode Phillips,79
+Mercer,PRECINCT 55,House of Delegates,22,,Linda Goode Phillips,78
+Mercer,PRECINCT 60,House of Delegates,22,,Linda Goode Phillips,23
+Mercer,PRECINCT 69,House of Delegates,22,,Linda Goode Phillips,129
+Mercer,PRECINCT 96,House of Delegates,22,,Linda Goode Phillips,61
+Mercer,TOTALS ,House of Delegates,22,,Linda Goode Phillips,579
+Mercer,PRECINCT 3,House of Delegates,22,,Daniel J. Hall,108
+Mercer,PRECINCT 46,House of Delegates,22,,Daniel J. Hall,73
+Mercer,PRECINCT 49,House of Delegates,22,,Daniel J. Hall,68
+Mercer,PRECINCT 55,House of Delegates,22,,Daniel J. Hall,52
+Mercer,PRECINCT 60,House of Delegates,22,,Daniel J. Hall,19
+Mercer,PRECINCT 69,House of Delegates,22,,Daniel J. Hall,106
+Mercer,PRECINCT 96,House of Delegates,22,,Daniel J. Hall,52
+Mercer,TOTALS ,House of Delegates,22,,Daniel J. Hall,478
+Mercer,PRECINCT 1,House of Delegates,25,,"Charles ""Chucky"" Terry JR",49
+Mercer,PRECINCT 44,House of Delegates,25,,"Charles ""Chucky"" Terry JR",138
+Mercer,PRECINCT 47,House of Delegates,25,,"Charles ""Chucky"" Terry JR",126
+Mercer,PRECINCT 48,House of Delegates,25,,"Charles ""Chucky"" Terry JR",38
+Mercer,PRECINCT 52,House of Delegates,25,,"Charles ""Chucky"" Terry JR",75
+Mercer,PRECINCT 53,House of Delegates,25,,"Charles ""Chucky"" Terry JR",98
+Mercer,PRECINCT 54,House of Delegates,25,,"Charles ""Chucky"" Terry JR",144
+Mercer,PRECINCT 56,House of Delegates,25,,"Charles ""Chucky"" Terry JR",81
+Mercer,PRECINCT 57,House of Delegates,25,,"Charles ""Chucky"" Terry JR",118
+Mercer,PRECINCT 58,House of Delegates,25,,"Charles ""Chucky"" Terry JR",72
+Mercer,PRECINCT 59,House of Delegates,25,,"Charles ""Chucky"" Terry JR",98
+Mercer,PRECINCT 62,House of Delegates,25,,"Charles ""Chucky"" Terry JR",220
+Mercer,PRECINCT 64,House of Delegates,25,,"Charles ""Chucky"" Terry JR",151
+Mercer,PRECINCT 65,House of Delegates,25,,"Charles ""Chucky"" Terry JR",265
+Mercer,PRECINCT 71,House of Delegates,25,,"Charles ""Chucky"" Terry JR",264
+Mercer,PRECINCT  72 ,House of Delegates,25,,"Charles ""Chucky"" Terry JR",136
+Mercer,PRECINCT  73 ,House of Delegates,25,,"Charles ""Chucky"" Terry JR",164
+Mercer,PRECINCT  74 ,House of Delegates,25,,"Charles ""Chucky"" Terry JR",197
+Mercer,PRECINCT 75,House of Delegates,25,,"Charles ""Chucky"" Terry JR",217
+Mercer,PRECINCT 77,House of Delegates,25,,"Charles ""Chucky"" Terry JR",47
+Mercer,PRECINCT 78,House of Delegates,25,,"Charles ""Chucky"" Terry JR",43
+Mercer,PRECINCT 80,House of Delegates,25,,"Charles ""Chucky"" Terry JR",111
+Mercer,PRECINCT 81,House of Delegates,25,,"Charles ""Chucky"" Terry JR",108
+Mercer,PRECINCT 82,House of Delegates,25,,"Charles ""Chucky"" Terry JR",91
+Mercer,PRECINCT  83 ,House of Delegates,25,,"Charles ""Chucky"" Terry JR",33
+Mercer,PRECINCT 84,House of Delegates,25,,"Charles ""Chucky"" Terry JR",26
+Mercer,PRECINCT 85,House of Delegates,25,,"Charles ""Chucky"" Terry JR",34
+Mercer,PRECINCT 86,House of Delegates,25,,"Charles ""Chucky"" Terry JR",72
+Mercer,PRECINCT 87,House of Delegates,25,,"Charles ""Chucky"" Terry JR",45
+Mercer,PRECINCT 88,House of Delegates,25,,"Charles ""Chucky"" Terry JR",281
+Mercer,PRECINCT 89,House of Delegates,25,,"Charles ""Chucky"" Terry JR",55
+Mercer,PRECINCT 95,House of Delegates,25,,"Charles ""Chucky"" Terry JR",98
+Mercer,PRECINCT 98,House of Delegates,25,,"Charles ""Chucky"" Terry JR",165
+Mercer,TOTALS ,House of Delegates,25,,"Charles ""Chucky"" Terry JR",3860
+Mercer,PRECINCT 1,House of Delegates,25,,Joe Ellington,56
+Mercer,PRECINCT 44,House of Delegates,25,,Joe Ellington,153
+Mercer,PRECINCT 47,House of Delegates,25,,Joe Ellington,132
+Mercer,PRECINCT 48,House of Delegates,25,,Joe Ellington,43
+Mercer,PRECINCT 52,House of Delegates,25,,Joe Ellington,84
+Mercer,PRECINCT 53,House of Delegates,25,,Joe Ellington,103
+Mercer,PRECINCT 54,House of Delegates,25,,Joe Ellington,138
+Mercer,PRECINCT 56,House of Delegates,25,,Joe Ellington,94
+Mercer,PRECINCT 57,House of Delegates,25,,Joe Ellington,143
+Mercer,PRECINCT 58,House of Delegates,25,,Joe Ellington,92
+Mercer,PRECINCT 59,House of Delegates,25,,Joe Ellington,101
+Mercer,PRECINCT 62,House of Delegates,25,,Joe Ellington,256
+Mercer,PRECINCT 64,House of Delegates,25,,Joe Ellington,148
+Mercer,PRECINCT 65,House of Delegates,25,,Joe Ellington,346
+Mercer,PRECINCT 71,House of Delegates,25,,Joe Ellington,299
+Mercer,PRECINCT  72 ,House of Delegates,25,,Joe Ellington,159
+Mercer,PRECINCT  73 ,House of Delegates,25,,Joe Ellington,183
+Mercer,PRECINCT  74 ,House of Delegates,25,,Joe Ellington,229
+Mercer,PRECINCT 75,House of Delegates,25,,Joe Ellington,360
+Mercer,PRECINCT 77,House of Delegates,25,,Joe Ellington,64
+Mercer,PRECINCT 78,House of Delegates,25,,Joe Ellington,51
+Mercer,PRECINCT 80,House of Delegates,25,,Joe Ellington,142
+Mercer,PRECINCT 81,House of Delegates,25,,Joe Ellington,163
+Mercer,PRECINCT 82,House of Delegates,25,,Joe Ellington,144
+Mercer,PRECINCT  83 ,House of Delegates,25,,Joe Ellington,46
+Mercer,PRECINCT 84,House of Delegates,25,,Joe Ellington,40
+Mercer,PRECINCT 85,House of Delegates,25,,Joe Ellington,37
+Mercer,PRECINCT 86,House of Delegates,25,,Joe Ellington,88
+Mercer,PRECINCT 87,House of Delegates,25,,Joe Ellington,72
+Mercer,PRECINCT 88,House of Delegates,25,,Joe Ellington,328
+Mercer,PRECINCT 89,House of Delegates,25,,Joe Ellington,66
+Mercer,PRECINCT 95,House of Delegates,25,,Joe Ellington,111
+Mercer,PRECINCT 98,House of Delegates,25,,Joe Ellington,222
+Mercer,TOTALS ,House of Delegates,25,,Joe Ellington,4693
+Mercer,PRECINCT 1,House of Delegates,25,,Bill Morefield,41
+Mercer,PRECINCT 44,House of Delegates,25,,Bill Morefield,91
+Mercer,PRECINCT 47,House of Delegates,25,,Bill Morefield,54
+Mercer,PRECINCT 48,House of Delegates,25,,Bill Morefield,27
+Mercer,PRECINCT 52,House of Delegates,25,,Bill Morefield,49
+Mercer,PRECINCT 53,House of Delegates,25,,Bill Morefield,66
+Mercer,PRECINCT 54,House of Delegates,25,,Bill Morefield,64
+Mercer,PRECINCT 56,House of Delegates,25,,Bill Morefield,80
+Mercer,PRECINCT 57,House of Delegates,25,,Bill Morefield,131
+Mercer,PRECINCT 58,House of Delegates,25,,Bill Morefield,107
+Mercer,PRECINCT 59,House of Delegates,25,,Bill Morefield,51
+Mercer,PRECINCT 62,House of Delegates,25,,Bill Morefield,116
+Mercer,PRECINCT 64,House of Delegates,25,,Bill Morefield,57
+Mercer,PRECINCT 65,House of Delegates,25,,Bill Morefield,207
+Mercer,PRECINCT 71,House of Delegates,25,,Bill Morefield,179
+Mercer,PRECINCT  72 ,House of Delegates,25,,Bill Morefield,101
+Mercer,PRECINCT  73 ,House of Delegates,25,,Bill Morefield,114
+Mercer,PRECINCT  74 ,House of Delegates,25,,Bill Morefield,156
+Mercer,PRECINCT 75,House of Delegates,25,,Bill Morefield,198
+Mercer,PRECINCT 77,House of Delegates,25,,Bill Morefield,71
+Mercer,PRECINCT 78,House of Delegates,25,,Bill Morefield,57
+Mercer,PRECINCT 80,House of Delegates,25,,Bill Morefield,118
+Mercer,PRECINCT 81,House of Delegates,25,,Bill Morefield,104
+Mercer,PRECINCT 82,House of Delegates,25,,Bill Morefield,102
+Mercer,PRECINCT  83 ,House of Delegates,25,,Bill Morefield,27
+Mercer,PRECINCT 84,House of Delegates,25,,Bill Morefield,30
+Mercer,PRECINCT 85,House of Delegates,25,,Bill Morefield,41
+Mercer,PRECINCT 86,House of Delegates,25,,Bill Morefield,93
+Mercer,PRECINCT 87,House of Delegates,25,,Bill Morefield,67
+Mercer,PRECINCT 88,House of Delegates,25,,Bill Morefield,199
+Mercer,PRECINCT 89,House of Delegates,25,,Bill Morefield,41
+Mercer,PRECINCT 95,House of Delegates,25,,Bill Morefield,79
+Mercer,PRECINCT 98,House of Delegates,25,,Bill Morefield,113
+Mercer,TOTALS ,House of Delegates,25,,Bill Morefield,3031
+Mercer,PRECINCT 1,House of Delegates,25,,John R. Frazier,67
+Mercer,PRECINCT 44,House of Delegates,25,,John R. Frazier,184
+Mercer,PRECINCT 47,House of Delegates,25,,John R. Frazier,148
+Mercer,PRECINCT 48,House of Delegates,25,,John R. Frazier,39
+Mercer,PRECINCT 52,House of Delegates,25,,John R. Frazier,92
+Mercer,PRECINCT 53,House of Delegates,25,,John R. Frazier,138
+Mercer,PRECINCT 54,House of Delegates,25,,John R. Frazier,113
+Mercer,PRECINCT 56,House of Delegates,25,,John R. Frazier,153
+Mercer,PRECINCT 57,House of Delegates,25,,John R. Frazier,262
+Mercer,PRECINCT 58,House of Delegates,25,,John R. Frazier,129
+Mercer,PRECINCT 59,House of Delegates,25,,John R. Frazier,93
+Mercer,PRECINCT 62,House of Delegates,25,,John R. Frazier,268
+Mercer,PRECINCT 64,House of Delegates,25,,John R. Frazier,104
+Mercer,PRECINCT 65,House of Delegates,25,,John R. Frazier,427
+Mercer,PRECINCT 71,House of Delegates,25,,John R. Frazier,372
+Mercer,PRECINCT  72 ,House of Delegates,25,,John R. Frazier,194
+Mercer,PRECINCT  73 ,House of Delegates,25,,John R. Frazier,243
+Mercer,PRECINCT  74 ,House of Delegates,25,,John R. Frazier,368
+Mercer,PRECINCT 75,House of Delegates,25,,John R. Frazier,461
+Mercer,PRECINCT 77,House of Delegates,25,,John R. Frazier,120
+Mercer,PRECINCT 78,House of Delegates,25,,John R. Frazier,79
+Mercer,PRECINCT 80,House of Delegates,25,,John R. Frazier,211
+Mercer,PRECINCT 81,House of Delegates,25,,John R. Frazier,224
+Mercer,PRECINCT 82,House of Delegates,25,,John R. Frazier,243
+Mercer,PRECINCT  83 ,House of Delegates,25,,John R. Frazier,59
+Mercer,PRECINCT 84,House of Delegates,25,,John R. Frazier,60
+Mercer,PRECINCT 85,House of Delegates,25,,John R. Frazier,67
+Mercer,PRECINCT 86,House of Delegates,25,,John R. Frazier,156
+Mercer,PRECINCT 87,House of Delegates,25,,John R. Frazier,115
+Mercer,PRECINCT 88,House of Delegates,25,,John R. Frazier,450
+Mercer,PRECINCT 89,House of Delegates,25,,John R. Frazier,84
+Mercer,PRECINCT 95,House of Delegates,25,,John R. Frazier,152
+Mercer,PRECINCT 98,House of Delegates,25,,John R. Frazier,220
+Mercer,TOTALS ,House of Delegates,25,,John R. Frazier,6095
