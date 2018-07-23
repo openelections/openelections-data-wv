@@ -1,0 +1,558 @@
+county,precinct,office,district,party,candidate,votes
+Roane,1 - Cooper's Roofing,President,,REP,Mitt Romney,213
+Roane,4 - Newton Community Center,President,,REP,Mitt Romney,138
+Roane,5 - Geary School,President,,REP,Mitt Romney,202
+Roane,6 - Amma Senior Citizens,President,,REP,Mitt Romney,125
+Roane,10 - Harper Church,President,,REP,Mitt Romney,133
+Roane,11 - Reedy Comm,President,,REP,Mitt Romney,197
+Roane,12 - Reedy School,President,,REP,Mitt Romney,44
+Roane,15 - Linden Club,President,,REP,Mitt Romney,101
+Roane,16 - Clover PSD,President,,REP,Mitt Romney,110
+Roane,18 - Heritage Park,President,,REP,Mitt Romney,106
+Roane,19 - Spencer Library,President,,REP,Mitt Romney,45
+Roane,20 - SMS,President,,REP,Mitt Romney,149
+Roane,21 - COA,President,,REP,Mitt Romney,75
+Roane,22 - RCHS,President,,REP,Mitt Romney,140
+Roane,23 - RGH,President,,REP,Mitt Romney,224
+Roane,25 - VFD S/R,President,,REP,Mitt Romney,262
+Roane,28 - Armory,President,,REP,Mitt Romney,156
+Roane,29 - Camp Shep.,President,,REP,Mitt Romney,170
+Roane,30 - Walton Community Center,President,,REP,Mitt Romney,246
+Roane,32 - Walton School,President,,REP,Mitt Romney,137
+Roane,1 - Cooper's Roofing,President,,DEM,Barack Obama,131
+Roane,4 - Newton Community Center,President,,DEM,Barack Obama,107
+Roane,5 - Geary School,President,,DEM,Barack Obama,117
+Roane,6 - Amma Senior Citizens,President,,DEM,Barack Obama,102
+Roane,10 - Harper Church,President,,DEM,Barack Obama,57
+Roane,11 - Reedy Comm,President,,DEM,Barack Obama,126
+Roane,12 - Reedy School,President,,DEM,Barack Obama,19
+Roane,15 - Linden Club,President,,DEM,Barack Obama,51
+Roane,16 - Clover PSD,President,,DEM,Barack Obama,92
+Roane,18 - Heritage Park,President,,DEM,Barack Obama,94
+Roane,19 - Spencer Library,President,,DEM,Barack Obama,59
+Roane,20 - SMS,President,,DEM,Barack Obama,92
+Roane,21 - COA,President,,DEM,Barack Obama,49
+Roane,22 - RCHS,President,,DEM,Barack Obama,111
+Roane,23 - RGH,President,,DEM,Barack Obama,169
+Roane,25 - VFD S/R,President,,DEM,Barack Obama,141
+Roane,28 - Armory,President,,DEM,Barack Obama,121
+Roane,29 - Camp Shep.,President,,DEM,Barack Obama,89
+Roane,30 - Walton Community Center,President,,DEM,Barack Obama,117
+Roane,32 - Walton School,President,,DEM,Barack Obama,84
+Roane,1 - Cooper's Roofing,President,,MTN,Jill Stein,1
+Roane,4 - Newton Community Center,President,,MTN,Jill Stein,2
+Roane,5 - Geary School,President,,MTN,Jill Stein,3
+Roane,6 - Amma Senior Citizens,President,,MTN,Jill Stein,2
+Roane,10 - Harper Church,President,,MTN,Jill Stein,2
+Roane,11 - Reedy Comm,President,,MTN,Jill Stein,6
+Roane,12 - Reedy School,President,,MTN,Jill Stein,0
+Roane,15 - Linden Club,President,,MTN,Jill Stein,1
+Roane,16 - Clover PSD,President,,MTN,Jill Stein,1
+Roane,18 - Heritage Park,President,,MTN,Jill Stein,1
+Roane,19 - Spencer Library,President,,MTN,Jill Stein,2
+Roane,20 - SMS,President,,MTN,Jill Stein,0
+Roane,21 - COA,President,,MTN,Jill Stein,3
+Roane,22 - RCHS,President,,MTN,Jill Stein,2
+Roane,23 - RGH,President,,MTN,Jill Stein,3
+Roane,25 - VFD S/R,President,,MTN,Jill Stein,6
+Roane,28 - Armory,President,,MTN,Jill Stein,4
+Roane,29 - Camp Shep.,President,,MTN,Jill Stein,1
+Roane,30 - Walton Community Center,President,,MTN,Jill Stein,2
+Roane,32 - Walton School,President,,MTN,Jill Stein,2
+Roane,1 - Cooper's Roofing,President,,LIB,Gary Johnson,2
+Roane,4 - Newton Community Center,President,,LIB,Gary Johnson,1
+Roane,5 - Geary School,President,,LIB,Gary Johnson,2
+Roane,6 - Amma Senior Citizens,President,,LIB,Gary Johnson,1
+Roane,10 - Harper Church,President,,LIB,Gary Johnson,3
+Roane,11 - Reedy Comm,President,,LIB,Gary Johnson,1
+Roane,12 - Reedy School,President,,LIB,Gary Johnson,1
+Roane,15 - Linden Club,President,,LIB,Gary Johnson,4
+Roane,16 - Clover PSD,President,,LIB,Gary Johnson,5
+Roane,18 - Heritage Park,President,,LIB,Gary Johnson,0
+Roane,19 - Spencer Library,President,,LIB,Gary Johnson,0
+Roane,20 - SMS,President,,LIB,Gary Johnson,0
+Roane,21 - COA,President,,LIB,Gary Johnson,2
+Roane,22 - RCHS,President,,LIB,Gary Johnson,5
+Roane,23 - RGH,President,,LIB,Gary Johnson,0
+Roane,25 - VFD S/R,President,,LIB,Gary Johnson,5
+Roane,28 - Armory,President,,LIB,Gary Johnson,1
+Roane,29 - Camp Shep.,President,,LIB,Gary Johnson,3
+Roane,30 - Walton Community Center,President,,LIB,Gary Johnson,3
+Roane,32 - Walton School,President,,LIB,Gary Johnson,0
+Roane,1 - Cooper's Roofing,President,,CON,Randall Terry,2
+Roane,4 - Newton Community Center,President,,CON,Randall Terry,2
+Roane,5 - Geary School,President,,CON,Randall Terry,7
+Roane,6 - Amma Senior Citizens,President,,CON,Randall Terry,1
+Roane,10 - Harper Church,President,,CON,Randall Terry,2
+Roane,11 - Reedy Comm,President,,CON,Randall Terry,1
+Roane,12 - Reedy School,President,,CON,Randall Terry,2
+Roane,15 - Linden Club,President,,CON,Randall Terry,1
+Roane,16 - Clover PSD,President,,CON,Randall Terry,1
+Roane,18 - Heritage Park,President,,CON,Randall Terry,1
+Roane,19 - Spencer Library,President,,CON,Randall Terry,0
+Roane,20 - SMS,President,,CON,Randall Terry,4
+Roane,21 - COA,President,,CON,Randall Terry,0
+Roane,22 - RCHS,President,,CON,Randall Terry,2
+Roane,23 - RGH,President,,CON,Randall Terry,2
+Roane,25 - VFD S/R,President,,CON,Randall Terry,1
+Roane,28 - Armory,President,,CON,Randall Terry,3
+Roane,29 - Camp Shep.,President,,CON,Randall Terry,3
+Roane,30 - Walton Community Center,President,,CON,Randall Terry,5
+Roane,32 - Walton School,President,,CON,Randall Terry,3
+Roane,1 - Cooper's Roofing,U.S. Senate,,REP,John R. Raese,117
+Roane,4 - Newton Community Center,U.S. Senate,,REP,John R. Raese,88
+Roane,5 - Geary School,U.S. Senate,,REP,John R. Raese,116
+Roane,6 - Amma Senior Citizens,U.S. Senate,,REP,John R. Raese,69
+Roane,10 - Harper Church,U.S. Senate,,REP,John R. Raese,87
+Roane,11 - Reedy Comm,U.S. Senate,,REP,John R. Raese,100
+Roane,12 - Reedy School,U.S. Senate,,REP,John R. Raese,19
+Roane,15 - Linden Club,U.S. Senate,,REP,John R. Raese,60
+Roane,16 - Clover PSD,U.S. Senate,,REP,John R. Raese,51
+Roane,18 - Heritage Park,U.S. Senate,,REP,John R. Raese,48
+Roane,19 - Spencer Library,U.S. Senate,,REP,John R. Raese,23
+Roane,20 - SMS,U.S. Senate,,REP,John R. Raese,76
+Roane,21 - COA,U.S. Senate,,REP,John R. Raese,42
+Roane,22 - RCHS,U.S. Senate,,REP,John R. Raese,73
+Roane,23 - RGH,U.S. Senate,,REP,John R. Raese,102
+Roane,25 - VFD S/R,U.S. Senate,,REP,John R. Raese,140
+Roane,28 - Armory,U.S. Senate,,REP,John R. Raese,74
+Roane,29 - Camp Shep.,U.S. Senate,,REP,John R. Raese,82
+Roane,30 - Walton Community Center,U.S. Senate,,REP,John R. Raese,146
+Roane,32 - Walton School,U.S. Senate,,REP,John R. Raese,79
+Roane,1 - Cooper's Roofing,U.S. Senate,,DEM,Joe Manchin III,215
+Roane,4 - Newton Community Center,U.S. Senate,,DEM,Joe Manchin III,151
+Roane,5 - Geary School,U.S. Senate,,DEM,Joe Manchin III,205
+Roane,6 - Amma Senior Citizens,U.S. Senate,,DEM,Joe Manchin III,147
+Roane,10 - Harper Church,U.S. Senate,,DEM,Joe Manchin III,100
+Roane,11 - Reedy Comm,U.S. Senate,,DEM,Joe Manchin III,222
+Roane,12 - Reedy School,U.S. Senate,,DEM,Joe Manchin III,44
+Roane,15 - Linden Club,U.S. Senate,,DEM,Joe Manchin III,89
+Roane,16 - Clover PSD,U.S. Senate,,DEM,Joe Manchin III,149
+Roane,18 - Heritage Park,U.S. Senate,,DEM,Joe Manchin III,136
+Roane,19 - Spencer Library,U.S. Senate,,DEM,Joe Manchin III,79
+Roane,20 - SMS,U.S. Senate,,DEM,Joe Manchin III,152
+Roane,21 - COA,U.S. Senate,,DEM,Joe Manchin III,86
+Roane,22 - RCHS,U.S. Senate,,DEM,Joe Manchin III,170
+Roane,23 - RGH,U.S. Senate,,DEM,Joe Manchin III,277
+Roane,25 - VFD S/R,U.S. Senate,,DEM,Joe Manchin III,246
+Roane,28 - Armory,U.S. Senate,,DEM,Joe Manchin III,205
+Roane,29 - Camp Shep.,U.S. Senate,,DEM,Joe Manchin III,173
+Roane,30 - Walton Community Center,U.S. Senate,,DEM,Joe Manchin III,206
+Roane,32 - Walton School,U.S. Senate,,DEM,Joe Manchin III,135
+Roane,1 - Cooper's Roofing,U.S. Senate,,MTN,Bob Henry Baber,15
+Roane,4 - Newton Community Center,U.S. Senate,,MTN,Bob Henry Baber,14
+Roane,5 - Geary School,U.S. Senate,,MTN,Bob Henry Baber,9
+Roane,6 - Amma Senior Citizens,U.S. Senate,,MTN,Bob Henry Baber,9
+Roane,10 - Harper Church,U.S. Senate,,MTN,Bob Henry Baber,11
+Roane,11 - Reedy Comm,U.S. Senate,,MTN,Bob Henry Baber,5
+Roane,12 - Reedy School,U.S. Senate,,MTN,Bob Henry Baber,
+Roane,15 - Linden Club,U.S. Senate,,MTN,Bob Henry Baber,16
+Roane,16 - Clover PSD,U.S. Senate,,MTN,Bob Henry Baber,10
+Roane,18 - Heritage Park,U.S. Senate,,MTN,Bob Henry Baber,7
+Roane,19 - Spencer Library,U.S. Senate,,MTN,Bob Henry Baber,2
+Roane,20 - SMS,U.S. Senate,,MTN,Bob Henry Baber,8
+Roane,21 - COA,U.S. Senate,,MTN,Bob Henry Baber,4
+Roane,22 - RCHS,U.S. Senate,,MTN,Bob Henry Baber,11
+Roane,23 - RGH,U.S. Senate,,MTN,Bob Henry Baber,10
+Roane,25 - VFD S/R,U.S. Senate,,MTN,Bob Henry Baber,22
+Roane,28 - Armory,U.S. Senate,,MTN,Bob Henry Baber,9
+Roane,29 - Camp Shep.,U.S. Senate,,MTN,Bob Henry Baber,10
+Roane,30 - Walton Community Center,U.S. Senate,,MTN,Bob Henry Baber,6
+Roane,32 - Walton School,U.S. Senate,,MTN,Bob Henry Baber,11
+Roane,1 - Cooper's Roofing,U.S. House,2,REP,Shelley Moore Capito,252
+Roane,4 - Newton Community Center,U.S. House,2,REP,Shelley Moore Capito,158
+Roane,5 - Geary School,U.S. House,2,REP,Shelley Moore Capito,232
+Roane,6 - Amma Senior Citizens,U.S. House,2,REP,Shelley Moore Capito,145
+Roane,10 - Harper Church,U.S. House,2,REP,Shelley Moore Capito,153
+Roane,11 - Reedy Comm,U.S. House,2,REP,Shelley Moore Capito,236
+Roane,12 - Reedy School,U.S. House,2,REP,Shelley Moore Capito,51
+Roane,15 - Linden Club,U.S. House,2,REP,Shelley Moore Capito,117
+Roane,16 - Clover PSD,U.S. House,2,REP,Shelley Moore Capito,145
+Roane,18 - Heritage Park,U.S. House,2,REP,Shelley Moore Capito,132
+Roane,19 - Spencer Library,U.S. House,2,REP,Shelley Moore Capito,67
+Roane,20 - SMS,U.S. House,2,REP,Shelley Moore Capito,176
+Roane,21 - COA,U.S. House,2,REP,Shelley Moore Capito,90
+Roane,22 - RCHS,U.S. House,2,REP,Shelley Moore Capito,182
+Roane,23 - RGH,U.S. House,2,REP,Shelley Moore Capito,276
+Roane,25 - VFD S/R,U.S. House,2,REP,Shelley Moore Capito,297
+Roane,28 - Armory,U.S. House,2,REP,Shelley Moore Capito,187
+Roane,29 - Camp Shep.,U.S. House,2,REP,Shelley Moore Capito,185
+Roane,30 - Walton Community Center,U.S. House,2,REP,Shelley Moore Capito,258
+Roane,32 - Walton School,U.S. House,2,REP,Shelley Moore Capito,157
+Roane,1 - Cooper's Roofing,U.S. House,2,DEM,Howard Swint,84
+Roane,4 - Newton Community Center,U.S. House,2,DEM,Howard Swint,89
+Roane,5 - Geary School,U.S. House,2,DEM,Howard Swint,93
+Roane,6 - Amma Senior Citizens,U.S. House,2,DEM,Howard Swint,75
+Roane,10 - Harper Church,U.S. House,2,DEM,Howard Swint,34
+Roane,11 - Reedy Comm,U.S. House,2,DEM,Howard Swint,84
+Roane,12 - Reedy School,U.S. House,2,DEM,Howard Swint,13
+Roane,15 - Linden Club,U.S. House,2,DEM,Howard Swint,41
+Roane,16 - Clover PSD,U.S. House,2,DEM,Howard Swint,61
+Roane,18 - Heritage Park,U.S. House,2,DEM,Howard Swint,55
+Roane,19 - Spencer Library,U.S. House,2,DEM,Howard Swint,32
+Roane,20 - SMS,U.S. House,2,DEM,Howard Swint,52
+Roane,21 - COA,U.S. House,2,DEM,Howard Swint,30
+Roane,22 - RCHS,U.S. House,2,DEM,Howard Swint,64
+Roane,23 - RGH,U.S. House,2,DEM,Howard Swint,103
+Roane,25 - VFD S/R,U.S. House,2,DEM,Howard Swint,99
+Roane,28 - Armory,U.S. House,2,DEM,Howard Swint,79
+Roane,29 - Camp Shep.,U.S. House,2,DEM,Howard Swint,65
+Roane,30 - Walton Community Center,U.S. House,2,DEM,Howard Swint,95
+Roane,32 - Walton School,U.S. House,2,DEM,Howard Swint,63
+Roane,1 - Cooper's Roofing,Governor,,REP,Bill Maloney,168
+Roane,4 - Newton Community Center,Governor,,REP,Bill Maloney,97
+Roane,5 - Geary School,Governor,,REP,Bill Maloney,145
+Roane,6 - Amma Senior Citizens,Governor,,REP,Bill Maloney,93
+Roane,10 - Harper Church,Governor,,REP,Bill Maloney,107
+Roane,11 - Reedy Comm,Governor,,REP,Bill Maloney,157
+Roane,12 - Reedy School,Governor,,REP,Bill Maloney,33
+Roane,15 - Linden Club,Governor,,REP,Bill Maloney,70
+Roane,16 - Clover PSD,Governor,,REP,Bill Maloney,80
+Roane,18 - Heritage Park,Governor,,REP,Bill Maloney,81
+Roane,19 - Spencer Library,Governor,,REP,Bill Maloney,30
+Roane,20 - SMS,Governor,,REP,Bill Maloney,115
+Roane,21 - COA,Governor,,REP,Bill Maloney,59
+Roane,22 - RCHS,Governor,,REP,Bill Maloney,97
+Roane,23 - RGH,Governor,,REP,Bill Maloney,142
+Roane,25 - VFD S/R,Governor,,REP,Bill Maloney,196
+Roane,28 - Armory,Governor,,REP,Bill Maloney,100
+Roane,29 - Camp Shep.,Governor,,REP,Bill Maloney,120
+Roane,30 - Walton Community Center,Governor,,REP,Bill Maloney,184
+Roane,32 - Walton School,Governor,,REP,Bill Maloney,111
+Roane,1 - Cooper's Roofing,Governor,,DEM,Earl Ray Tomblin,165
+Roane,4 - Newton Community Center,Governor,,DEM,Earl Ray Tomblin,136
+Roane,5 - Geary School,Governor,,DEM,Earl Ray Tomblin,170
+Roane,6 - Amma Senior Citizens,Governor,,DEM,Earl Ray Tomblin,125
+Roane,10 - Harper Church,Governor,,DEM,Earl Ray Tomblin,74
+Roane,11 - Reedy Comm,Governor,,DEM,Earl Ray Tomblin,166
+Roane,12 - Reedy School,Governor,,DEM,Earl Ray Tomblin,31
+Roane,15 - Linden Club,Governor,,DEM,Earl Ray Tomblin,82
+Roane,16 - Clover PSD,Governor,,DEM,Earl Ray Tomblin,118
+Roane,18 - Heritage Park,Governor,,DEM,Earl Ray Tomblin,111
+Roane,19 - Spencer Library,Governor,,DEM,Earl Ray Tomblin,69
+Roane,20 - SMS,Governor,,DEM,Earl Ray Tomblin,118
+Roane,21 - COA,Governor,,DEM,Earl Ray Tomblin,63
+Roane,22 - RCHS,Governor,,DEM,Earl Ray Tomblin,149
+Roane,23 - RGH,Governor,,DEM,Earl Ray Tomblin,240
+Roane,25 - VFD S/R,Governor,,DEM,Earl Ray Tomblin,195
+Roane,28 - Armory,Governor,,DEM,Earl Ray Tomblin,173
+Roane,29 - Camp Shep.,Governor,,DEM,Earl Ray Tomblin,131
+Roane,30 - Walton Community Center,Governor,,DEM,Earl Ray Tomblin,177
+Roane,32 - Walton School,Governor,,DEM,Earl Ray Tomblin,103
+Roane,1 - Cooper's Roofing,Governor,,MTN,Jesse Johnson,13
+Roane,4 - Newton Community Center,Governor,,MTN,Jesse Johnson,18
+Roane,5 - Geary School,Governor,,MTN,Jesse Johnson,9
+Roane,6 - Amma Senior Citizens,Governor,,MTN,Jesse Johnson,8
+Roane,10 - Harper Church,Governor,,MTN,Jesse Johnson,14
+Roane,11 - Reedy Comm,Governor,,MTN,Jesse Johnson,4
+Roane,12 - Reedy School,Governor,,MTN,Jesse Johnson,1
+Roane,15 - Linden Club,Governor,,MTN,Jesse Johnson,10
+Roane,16 - Clover PSD,Governor,,MTN,Jesse Johnson,9
+Roane,18 - Heritage Park,Governor,,MTN,Jesse Johnson,8
+Roane,19 - Spencer Library,Governor,,MTN,Jesse Johnson,3
+Roane,20 - SMS,Governor,,MTN,Jesse Johnson,3
+Roane,21 - COA,Governor,,MTN,Jesse Johnson,4
+Roane,22 - RCHS,Governor,,MTN,Jesse Johnson,9
+Roane,23 - RGH,Governor,,MTN,Jesse Johnson,12
+Roane,25 - VFD S/R,Governor,,MTN,Jesse Johnson,16
+Roane,28 - Armory,Governor,,MTN,Jesse Johnson,10
+Roane,29 - Camp Shep.,Governor,,MTN,Jesse Johnson,13
+Roane,30 - Walton Community Center,Governor,,MTN,Jesse Johnson,8
+Roane,32 - Walton School,Governor,,MTN,Jesse Johnson,12
+Roane,1 - Cooper's Roofing,Governor,,LIB,David Moran,5
+Roane,4 - Newton Community Center,Governor,,LIB,David Moran,2
+Roane,5 - Geary School,Governor,,LIB,David Moran,5
+Roane,6 - Amma Senior Citizens,Governor,,LIB,David Moran,2
+Roane,10 - Harper Church,Governor,,LIB,David Moran,3
+Roane,11 - Reedy Comm,Governor,,LIB,David Moran,5
+Roane,12 - Reedy School,Governor,,LIB,David Moran,
+Roane,15 - Linden Club,Governor,,LIB,David Moran,1
+Roane,16 - Clover PSD,Governor,,LIB,David Moran,4
+Roane,18 - Heritage Park,Governor,,LIB,David Moran,2
+Roane,19 - Spencer Library,Governor,,LIB,David Moran,4
+Roane,20 - SMS,Governor,,LIB,David Moran,2
+Roane,21 - COA,Governor,,LIB,David Moran,2
+Roane,22 - RCHS,Governor,,LIB,David Moran,3
+Roane,23 - RGH,Governor,,LIB,David Moran,3
+Roane,25 - VFD S/R,Governor,,LIB,David Moran,5
+Roane,28 - Armory,Governor,,LIB,David Moran,3
+Roane,29 - Camp Shep.,Governor,,LIB,David Moran,1
+Roane,30 - Walton Community Center,Governor,,LIB,David Moran,4
+Roane,32 - Walton School,Governor,,LIB,David Moran,
+Roane,1 - Cooper's Roofing,Secretary of State,,REP,Brian Savilla,123
+Roane,4 - Newton Community Center,Secretary of State,,REP,Brian Savilla,74
+Roane,5 - Geary School,Secretary of State,,REP,Brian Savilla,112
+Roane,6 - Amma Senior Citizens,Secretary of State,,REP,Brian Savilla,67
+Roane,10 - Harper Church,Secretary of State,,REP,Brian Savilla,94
+Roane,11 - Reedy Comm,Secretary of State,,REP,Brian Savilla,120
+Roane,12 - Reedy School,Secretary of State,,REP,Brian Savilla,21
+Roane,15 - Linden Club,Secretary of State,,REP,Brian Savilla,51
+Roane,16 - Clover PSD,Secretary of State,,REP,Brian Savilla,58
+Roane,18 - Heritage Park,Secretary of State,,REP,Brian Savilla,47
+Roane,19 - Spencer Library,Secretary of State,,REP,Brian Savilla,24
+Roane,20 - SMS,Secretary of State,,REP,Brian Savilla,72
+Roane,21 - COA,Secretary of State,,REP,Brian Savilla,50
+Roane,22 - RCHS,Secretary of State,,REP,Brian Savilla,83
+Roane,23 - RGH,Secretary of State,,REP,Brian Savilla,112
+Roane,25 - VFD S/R,Secretary of State,,REP,Brian Savilla,143
+Roane,28 - Armory,Secretary of State,,REP,Brian Savilla,68
+Roane,29 - Camp Shep.,Secretary of State,,REP,Brian Savilla,92
+Roane,30 - Walton Community Center,Secretary of State,,REP,Brian Savilla,149
+Roane,32 - Walton School,Secretary of State,,REP,Brian Savilla,77
+Roane,1 - Cooper's Roofing,Secretary of State,,DEM,Natalie Tennant,222
+Roane,4 - Newton Community Center,Secretary of State,,DEM,Natalie Tennant,174
+Roane,5 - Geary School,Secretary of State,,DEM,Natalie Tennant,213
+Roane,6 - Amma Senior Citizens,Secretary of State,,DEM,Natalie Tennant,161
+Roane,10 - Harper Church,Secretary of State,,DEM,Natalie Tennant,95
+Roane,11 - Reedy Comm,Secretary of State,,DEM,Natalie Tennant,200
+Roane,12 - Reedy School,Secretary of State,,DEM,Natalie Tennant,43
+Roane,15 - Linden Club,Secretary of State,,DEM,Natalie Tennant,107
+Roane,16 - Clover PSD,Secretary of State,,DEM,Natalie Tennant,156
+Roane,18 - Heritage Park,Secretary of State,,DEM,Natalie Tennant,146
+Roane,19 - Spencer Library,Secretary of State,,DEM,Natalie Tennant,79
+Roane,20 - SMS,Secretary of State,,DEM,Natalie Tennant,163
+Roane,21 - COA,Secretary of State,,DEM,Natalie Tennant,77
+Roane,22 - RCHS,Secretary of State,,DEM,Natalie Tennant,172
+Roane,23 - RGH,Secretary of State,,DEM,Natalie Tennant,274
+Roane,25 - VFD S/R,Secretary of State,,DEM,Natalie Tennant,253
+Roane,28 - Armory,Secretary of State,,DEM,Natalie Tennant,207
+Roane,29 - Camp Shep.,Secretary of State,,DEM,Natalie Tennant,167
+Roane,30 - Walton Community Center,Secretary of State,,DEM,Natalie Tennant,216
+Roane,32 - Walton School,Secretary of State,,DEM,Natalie Tennant,146
+Roane,1 - Cooper's Roofing,Auditor,,REP,Larry V. Faircloth,122
+Roane,4 - Newton Community Center,Auditor,,REP,Larry V. Faircloth,87
+Roane,5 - Geary School,Auditor,,REP,Larry V. Faircloth,128
+Roane,6 - Amma Senior Citizens,Auditor,,REP,Larry V. Faircloth,85
+Roane,10 - Harper Church,Auditor,,REP,Larry V. Faircloth,96
+Roane,11 - Reedy Comm,Auditor,,REP,Larry V. Faircloth,121
+Roane,12 - Reedy School,Auditor,,REP,Larry V. Faircloth,27
+Roane,15 - Linden Club,Auditor,,REP,Larry V. Faircloth,62
+Roane,16 - Clover PSD,Auditor,,REP,Larry V. Faircloth,57
+Roane,18 - Heritage Park,Auditor,,REP,Larry V. Faircloth,48
+Roane,19 - Spencer Library,Auditor,,REP,Larry V. Faircloth,27
+Roane,20 - SMS,Auditor,,REP,Larry V. Faircloth,67
+Roane,21 - COA,Auditor,,REP,Larry V. Faircloth,43
+Roane,22 - RCHS,Auditor,,REP,Larry V. Faircloth,87
+Roane,23 - RGH,Auditor,,REP,Larry V. Faircloth,111
+Roane,25 - VFD S/R,Auditor,,REP,Larry V. Faircloth,164
+Roane,28 - Armory,Auditor,,REP,Larry V. Faircloth,72
+Roane,29 - Camp Shep.,Auditor,,REP,Larry V. Faircloth,90
+Roane,30 - Walton Community Center,Auditor,,REP,Larry V. Faircloth,148
+Roane,32 - Walton School,Auditor,,REP,Larry V. Faircloth,95
+Roane,1 - Cooper's Roofing,Auditor,,DEM,Glen B. Gainer III,209
+Roane,4 - Newton Community Center,Auditor,,DEM,Glen B. Gainer III,155
+Roane,5 - Geary School,Auditor,,DEM,Glen B. Gainer III,190
+Roane,6 - Amma Senior Citizens,Auditor,,DEM,Glen B. Gainer III,135
+Roane,10 - Harper Church,Auditor,,DEM,Glen B. Gainer III,88
+Roane,11 - Reedy Comm,Auditor,,DEM,Glen B. Gainer III,194
+Roane,12 - Reedy School,Auditor,,DEM,Glen B. Gainer III,36
+Roane,15 - Linden Club,Auditor,,DEM,Glen B. Gainer III,90
+Roane,16 - Clover PSD,Auditor,,DEM,Glen B. Gainer III,150
+Roane,18 - Heritage Park,Auditor,,DEM,Glen B. Gainer III,141
+Roane,19 - Spencer Library,Auditor,,DEM,Glen B. Gainer III,74
+Roane,20 - SMS,Auditor,,DEM,Glen B. Gainer III,168
+Roane,21 - COA,Auditor,,DEM,Glen B. Gainer III,76
+Roane,22 - RCHS,Auditor,,DEM,Glen B. Gainer III,160
+Roane,23 - RGH,Auditor,,DEM,Glen B. Gainer III,266
+Roane,25 - VFD S/R,Auditor,,DEM,Glen B. Gainer III,224
+Roane,28 - Armory,Auditor,,DEM,Glen B. Gainer III,197
+Roane,29 - Camp Shep.,Auditor,,DEM,Glen B. Gainer III,165
+Roane,30 - Walton Community Center,Auditor,,DEM,Glen B. Gainer III,208
+Roane,32 - Walton School,Auditor,,DEM,Glen B. Gainer III,125
+Roane,1 - Cooper's Roofing,Treasurer,,REP,Mike Hall,157
+Roane,4 - Newton Community Center,Treasurer,,REP,Mike Hall,102
+Roane,5 - Geary School,Treasurer,,REP,Mike Hall,135
+Roane,6 - Amma Senior Citizens,Treasurer,,REP,Mike Hall,87
+Roane,10 - Harper Church,Treasurer,,REP,Mike Hall,102
+Roane,11 - Reedy Comm,Treasurer,,REP,Mike Hall,146
+Roane,12 - Reedy School,Treasurer,,REP,Mike Hall,32
+Roane,15 - Linden Club,Treasurer,,REP,Mike Hall,64
+Roane,16 - Clover PSD,Treasurer,,REP,Mike Hall,66
+Roane,18 - Heritage Park,Treasurer,,REP,Mike Hall,75
+Roane,19 - Spencer Library,Treasurer,,REP,Mike Hall,35
+Roane,20 - SMS,Treasurer,,REP,Mike Hall,109
+Roane,21 - COA,Treasurer,,REP,Mike Hall,51
+Roane,22 - RCHS,Treasurer,,REP,Mike Hall,103
+Roane,23 - RGH,Treasurer,,REP,Mike Hall,159
+Roane,25 - VFD S/R,Treasurer,,REP,Mike Hall,190
+Roane,28 - Armory,Treasurer,,REP,Mike Hall,96
+Roane,29 - Camp Shep.,Treasurer,,REP,Mike Hall,120
+Roane,30 - Walton Community Center,Treasurer,,REP,Mike Hall,181
+Roane,32 - Walton School,Treasurer,,REP,Mike Hall,99
+Roane,1 - Cooper's Roofing,Treasurer,,DEM,John D. Perdue,170
+Roane,4 - Newton Community Center,Treasurer,,DEM,John D. Perdue,143
+Roane,5 - Geary School,Treasurer,,DEM,John D. Perdue,183
+Roane,6 - Amma Senior Citizens,Treasurer,,DEM,John D. Perdue,137
+Roane,10 - Harper Church,Treasurer,,DEM,John D. Perdue,83
+Roane,11 - Reedy Comm,Treasurer,,DEM,John D. Perdue,166
+Roane,12 - Reedy School,Treasurer,,DEM,John D. Perdue,32
+Roane,15 - Linden Club,Treasurer,,DEM,John D. Perdue,89
+Roane,16 - Clover PSD,Treasurer,,DEM,John D. Perdue,141
+Roane,18 - Heritage Park,Treasurer,,DEM,John D. Perdue,121
+Roane,19 - Spencer Library,Treasurer,,DEM,John D. Perdue,66
+Roane,20 - SMS,Treasurer,,DEM,John D. Perdue,123
+Roane,21 - COA,Treasurer,,DEM,John D. Perdue,67
+Roane,22 - RCHS,Treasurer,,DEM,John D. Perdue,140
+Roane,23 - RGH,Treasurer,,DEM,John D. Perdue,215
+Roane,25 - VFD S/R,Treasurer,,DEM,John D. Perdue,204
+Roane,28 - Armory,Treasurer,,DEM,John D. Perdue,175
+Roane,29 - Camp Shep.,Treasurer,,DEM,John D. Perdue,139
+Roane,30 - Walton Community Center,Treasurer,,DEM,John D. Perdue,177
+Roane,32 - Walton School,Treasurer,,DEM,John D. Perdue,123
+Roane,1 - Cooper's Roofing,Commissioner of Agriculture,,REP,Kent Leonhardt,181
+Roane,4 - Newton Community Center,Commissioner of Agriculture,,REP,Kent Leonhardt,105
+Roane,5 - Geary School,Commissioner of Agriculture,,REP,Kent Leonhardt,157
+Roane,6 - Amma Senior Citizens,Commissioner of Agriculture,,REP,Kent Leonhardt,96
+Roane,10 - Harper Church,Commissioner of Agriculture,,REP,Kent Leonhardt,121
+Roane,11 - Reedy Comm,Commissioner of Agriculture,,REP,Kent Leonhardt,171
+Roane,12 - Reedy School,Commissioner of Agriculture,,REP,Kent Leonhardt,36
+Roane,15 - Linden Club,Commissioner of Agriculture,,REP,Kent Leonhardt,85
+Roane,16 - Clover PSD,Commissioner of Agriculture,,REP,Kent Leonhardt,87
+Roane,18 - Heritage Park,Commissioner of Agriculture,,REP,Kent Leonhardt,78
+Roane,19 - Spencer Library,Commissioner of Agriculture,,REP,Kent Leonhardt,44
+Roane,20 - SMS,Commissioner of Agriculture,,REP,Kent Leonhardt,120
+Roane,21 - COA,Commissioner of Agriculture,,REP,Kent Leonhardt,67
+Roane,22 - RCHS,Commissioner of Agriculture,,REP,Kent Leonhardt,143
+Roane,23 - RGH,Commissioner of Agriculture,,REP,Kent Leonhardt,180
+Roane,25 - VFD S/R,Commissioner of Agriculture,,REP,Kent Leonhardt,224
+Roane,28 - Armory,Commissioner of Agriculture,,REP,Kent Leonhardt,106
+Roane,29 - Camp Shep.,Commissioner of Agriculture,,REP,Kent Leonhardt,152
+Roane,30 - Walton Community Center,Commissioner of Agriculture,,REP,Kent Leonhardt,192
+Roane,32 - Walton School,Commissioner of Agriculture,,REP,Kent Leonhardt,114
+Roane,1 - Cooper's Roofing,Commissioner of Agriculture,,DEM,Walt Helmick,152
+Roane,4 - Newton Community Center,Commissioner of Agriculture,,DEM,Walt Helmick,140
+Roane,5 - Geary School,Commissioner of Agriculture,,DEM,Walt Helmick,159
+Roane,6 - Amma Senior Citizens,Commissioner of Agriculture,,DEM,Walt Helmick,125
+Roane,10 - Harper Church,Commissioner of Agriculture,,DEM,Walt Helmick,64
+Roane,11 - Reedy Comm,Commissioner of Agriculture,,DEM,Walt Helmick,144
+Roane,12 - Reedy School,Commissioner of Agriculture,,DEM,Walt Helmick,27
+Roane,15 - Linden Club,Commissioner of Agriculture,,DEM,Walt Helmick,71
+Roane,16 - Clover PSD,Commissioner of Agriculture,,DEM,Walt Helmick,119
+Roane,18 - Heritage Park,Commissioner of Agriculture,,DEM,Walt Helmick,108
+Roane,19 - Spencer Library,Commissioner of Agriculture,,DEM,Walt Helmick,55
+Roane,20 - SMS,Commissioner of Agriculture,,DEM,Walt Helmick,93
+Roane,21 - COA,Commissioner of Agriculture,,DEM,Walt Helmick,51
+Roane,22 - RCHS,Commissioner of Agriculture,,DEM,Walt Helmick,104
+Roane,23 - RGH,Commissioner of Agriculture,,DEM,Walt Helmick,178
+Roane,25 - VFD S/R,Commissioner of Agriculture,,DEM,Walt Helmick,165
+Roane,28 - Armory,Commissioner of Agriculture,,DEM,Walt Helmick,159
+Roane,29 - Camp Shep.,Commissioner of Agriculture,,DEM,Walt Helmick,104
+Roane,30 - Walton Community Center,Commissioner of Agriculture,,DEM,Walt Helmick,159
+Roane,32 - Walton School,Commissioner of Agriculture,,DEM,Walt Helmick,105
+Roane,1 - Cooper's Roofing,Attorney General,,REP,Patrick Morrisey,177
+Roane,4 - Newton Community Center,Attorney General,,REP,Patrick Morrisey,107
+Roane,5 - Geary School,Attorney General,,REP,Patrick Morrisey,160
+Roane,6 - Amma Senior Citizens,Attorney General,,REP,Patrick Morrisey,91
+Roane,10 - Harper Church,Attorney General,,REP,Patrick Morrisey,120
+Roane,11 - Reedy Comm,Attorney General,,REP,Patrick Morrisey,164
+Roane,12 - Reedy School,Attorney General,,REP,Patrick Morrisey,30
+Roane,15 - Linden Club,Attorney General,,REP,Patrick Morrisey,69
+Roane,16 - Clover PSD,Attorney General,,REP,Patrick Morrisey,83
+Roane,18 - Heritage Park,Attorney General,,REP,Patrick Morrisey,76
+Roane,19 - Spencer Library,Attorney General,,REP,Patrick Morrisey,34
+Roane,20 - SMS,Attorney General,,REP,Patrick Morrisey,113
+Roane,21 - COA,Attorney General,,REP,Patrick Morrisey,61
+Roane,22 - RCHS,Attorney General,,REP,Patrick Morrisey,106
+Roane,23 - RGH,Attorney General,,REP,Patrick Morrisey,174
+Roane,25 - VFD S/R,Attorney General,,REP,Patrick Morrisey,196
+Roane,28 - Armory,Attorney General,,REP,Patrick Morrisey,115
+Roane,29 - Camp Shep.,Attorney General,,REP,Patrick Morrisey,135
+Roane,30 - Walton Community Center,Attorney General,,REP,Patrick Morrisey,198
+Roane,32 - Walton School,Attorney General,,REP,Patrick Morrisey,113
+Roane,1 - Cooper's Roofing,Attorney General,,DEM,Darrell V. McGraw Jr.,164
+Roane,4 - Newton Community Center,Attorney General,,DEM,Darrell V. McGraw Jr.,141
+Roane,5 - Geary School,Attorney General,,DEM,Darrell V. McGraw Jr.,170
+Roane,6 - Amma Senior Citizens,Attorney General,,DEM,Darrell V. McGraw Jr.,136
+Roane,10 - Harper Church,Attorney General,,DEM,Darrell V. McGraw Jr.,71
+Roane,11 - Reedy Comm,Attorney General,,DEM,Darrell V. McGraw Jr.,159
+Roane,12 - Reedy School,Attorney General,,DEM,Darrell V. McGraw Jr.,31
+Roane,15 - Linden Club,Attorney General,,DEM,Darrell V. McGraw Jr.,90
+Roane,16 - Clover PSD,Attorney General,,DEM,Darrell V. McGraw Jr.,125
+Roane,18 - Heritage Park,Attorney General,,DEM,Darrell V. McGraw Jr.,116
+Roane,19 - Spencer Library,Attorney General,,DEM,Darrell V. McGraw Jr.,70
+Roane,20 - SMS,Attorney General,,DEM,Darrell V. McGraw Jr.,121
+Roane,21 - COA,Attorney General,,DEM,Darrell V. McGraw Jr.,62
+Roane,22 - RCHS,Attorney General,,DEM,Darrell V. McGraw Jr.,147
+Roane,23 - RGH,Attorney General,,DEM,Darrell V. McGraw Jr.,209
+Roane,25 - VFD S/R,Attorney General,,DEM,Darrell V. McGraw Jr.,207
+Roane,28 - Armory,Attorney General,,DEM,Darrell V. McGraw Jr.,168
+Roane,29 - Camp Shep.,Attorney General,,DEM,Darrell V. McGraw Jr.,128
+Roane,30 - Walton Community Center,Attorney General,,DEM,Darrell V. McGraw Jr.,168
+Roane,32 - Walton School,Attorney General,,DEM,Darrell V. McGraw Jr.,111
+Roane,4 - Newton Community Center,State Senate,3,REP,Donna J. Boley,168
+Roane,5 - Geary School,State Senate,3,REP,Donna J. Boley,253
+Roane,6 - Amma Senior Citizens,State Senate,3,REP,Donna J. Boley,158
+Roane,10 - Harper Church,State Senate,3,REP,Donna J. Boley,0
+Roane,15 - Linden Club,State Senate,3,REP,Donna J. Boley,118
+Roane,16 - Clover PSD,State Senate,3,REP,Donna J. Boley,170
+Roane,25 - VFD S/R,State Senate,3,REP,Donna J. Boley,313
+Roane,28 - Armory,State Senate,3,REP,Donna J. Boley,198
+Roane,29 - Camp Shep.,State Senate,3,REP,Donna J. Boley,0
+Roane,30 - Walton Community Center,State Senate,3,REP,Donna J. Boley,0
+Roane,32 - Walton School,State Senate,3,REP,Donna J. Boley,0
+Roane,1 - Cooper's Roofing,State Senate,4,REP,Mitch B. Carmichael,167
+Roane,10 - Harper Church,State Senate,4,REP,Mitch B. Carmichael,113
+Roane,11 - Reedy Comm,State Senate,4,REP,Mitch B. Carmichael,135
+Roane,12 - Reedy School,State Senate,4,REP,Mitch B. Carmichael,34
+Roane,18 - Heritage Park,State Senate,4,REP,Mitch B. Carmichael,71
+Roane,19 - Spencer Library,State Senate,4,REP,Mitch B. Carmichael,39
+Roane,20 - SMS,State Senate,4,REP,Mitch B. Carmichael,103
+Roane,21 - COA,State Senate,4,REP,Mitch B. Carmichael,63
+Roane,22 - RCHS,State Senate,4,REP,Mitch B. Carmichael,118
+Roane,23 - RGH,State Senate,4,REP,Mitch B. Carmichael,171
+Roane,29 - Camp Shep.,State Senate,4,REP,Mitch B. Carmichael,128
+Roane,30 - Walton Community Center,State Senate,4,REP,Mitch B. Carmichael,209
+Roane,32 - Walton School,State Senate,4,REP,Mitch B. Carmichael,117
+Roane,1 - Cooper's Roofing,State Senate,4,DEM,"Michael ""Mike"" Bright",171
+Roane,10 - Harper Church,State Senate,4,DEM,"Michael ""Mike"" Bright",79
+Roane,11 - Reedy Comm,State Senate,4,DEM,"Michael ""Mike"" Bright",184
+Roane,12 - Reedy School,State Senate,4,DEM,"Michael ""Mike"" Bright",29
+Roane,18 - Heritage Park,State Senate,4,DEM,"Michael ""Mike"" Bright",116
+Roane,19 - Spencer Library,State Senate,4,DEM,"Michael ""Mike"" Bright",63
+Roane,20 - SMS,State Senate,4,DEM,"Michael ""Mike"" Bright",118
+Roane,21 - COA,State Senate,4,DEM,"Michael ""Mike"" Bright",56
+Roane,22 - RCHS,State Senate,4,DEM,"Michael ""Mike"" Bright",121
+Roane,23 - RGH,State Senate,4,DEM,"Michael ""Mike"" Bright",206
+Roane,29 - Camp Shep.,State Senate,4,DEM,"Michael ""Mike"" Bright",121
+Roane,30 - Walton Community Center,State Senate,4,DEM,"Michael ""Mike"" Bright",145
+Roane,32 - Walton School,State Senate,4,DEM,"Michael ""Mike"" Bright",99
+Roane,1 - Cooper's Roofing,State House,11,REP,Bob Ashley,261
+Roane,4 - Newton Community Center,State House,11,REP,Bob Ashley,178
+Roane,5 - Geary School,State House,11,REP,Bob Ashley,235
+Roane,6 - Amma Senior Citizens,State House,11,REP,Bob Ashley,159
+Roane,10 - Harper Church,State House,11,REP,Bob Ashley,147
+Roane,11 - Reedy Comm,State House,11,REP,Bob Ashley,256
+Roane,12 - Reedy School,State House,11,REP,Bob Ashley,49
+Roane,15 - Linden Club,State House,11,REP,Bob Ashley,104
+Roane,16 - Clover PSD,State House,11,REP,Bob Ashley,162
+Roane,18 - Heritage Park,State House,11,REP,Bob Ashley,147
+Roane,19 - Spencer Library,State House,11,REP,Bob Ashley,74
+Roane,20 - SMS,State House,11,REP,Bob Ashley,193
+Roane,21 - COA,State House,11,REP,Bob Ashley,95
+Roane,22 - RCHS,State House,11,REP,Bob Ashley,193
+Roane,23 - RGH,State House,11,REP,Bob Ashley,298
+Roane,25 - VFD S/R,State House,11,REP,Bob Ashley,304
+Roane,28 - Armory,State House,11,REP,Bob Ashley,210
+Roane,29 - Camp Shep.,State House,11,REP,Bob Ashley,201
+Roane,30 - Walton Community Center,State House,11,REP,Bob Ashley,287
+Roane,32 - Walton School,State House,11,REP,Bob Ashley,158
+Roane,1 - Cooper's Roofing,State House,11,MTN,Mark Myers,54
+Roane,4 - Newton Community Center,State House,11,MTN,Mark Myers,36
+Roane,5 - Geary School,State House,11,MTN,Mark Myers,62
+Roane,6 - Amma Senior Citizens,State House,11,MTN,Mark Myers,38
+Roane,10 - Harper Church,State House,11,MTN,Mark Myers,38
+Roane,11 - Reedy Comm,State House,11,MTN,Mark Myers,58
+Roane,12 - Reedy School,State House,11,MTN,Mark Myers,9
+Roane,15 - Linden Club,State House,11,MTN,Mark Myers,46
+Roane,16 - Clover PSD,State House,11,MTN,Mark Myers,39
+Roane,18 - Heritage Park,State House,11,MTN,Mark Myers,40
+Roane,19 - Spencer Library,State House,11,MTN,Mark Myers,21
+Roane,20 - SMS,State House,11,MTN,Mark Myers,36
+Roane,21 - COA,State House,11,MTN,Mark Myers,24
+Roane,22 - RCHS,State House,11,MTN,Mark Myers,47
+Roane,23 - RGH,State House,11,MTN,Mark Myers,68
+Roane,25 - VFD S/R,State House,11,MTN,Mark Myers,86
+Roane,28 - Armory,State House,11,MTN,Mark Myers,50
+Roane,29 - Camp Shep.,State House,11,MTN,Mark Myers,50
+Roane,30 - Walton Community Center,State House,11,MTN,Mark Myers,56
+Roane,32 - Walton School,State House,11,MTN,Mark Myers,47
