@@ -1,0 +1,305 @@
+county,precinct,office,district,party,candidate,votes
+Mason,1,Straight Party,,,Republican,9
+Mason,2,Straight Party,,,Republican,1
+Mason,3,Straight Party,,,Republican,8
+Mason,4,Straight Party,,,Republican,11
+Mason,5,Straight Party,,,Republican,8
+Mason,6,Straight Party,,,Republican,4
+Mason,7,Straight Party,,,Republican,5
+Mason,8,Straight Party,,,Republican,9
+Mason,9,Straight Party,,,Republican,5
+Mason,10,Straight Party,,,Republican,6
+Mason,11,Straight Party,,,Republican,9
+Mason,12,Straight Party,,,Republican,13
+Mason,13,Straight Party,,,Republican,0
+Mason,14,Straight Party,,,Republican,17
+Mason,15,Straight Party,,,Republican,22
+Mason,16,Straight Party,,,Republican,7
+Mason,17,Straight Party,,,Republican,11
+Mason,18,Straight Party,,,Republican,13
+Mason,19,Straight Party,,,Republican,12
+Mason,20,Straight Party,,,Republican,15
+Mason,21,Straight Party,,,Republican,9
+Mason,22,Straight Party,,,Republican,7
+Mason,23,Straight Party,,,Republican,12
+Mason,24,Straight Party,,,Republican,8
+Mason,25,Straight Party,,,Republican,9
+Mason,26,Straight Party,,,Republican,15
+Mason,27,Straight Party,,,Republican,5
+Mason,28,Straight Party,,,Republican,11
+Mason,29,Straight Party,,,Republican,2
+Mason,30,Straight Party,,,Republican,11
+Mason,31,Straight Party,,,Republican,14
+Mason,32,Straight Party,,,Republican,22
+Mason,33,Straight Party,,,Republican,7
+Mason,34,Straight Party,,,Republican,9
+Mason,35,Straight Party,,,Republican,20
+Mason,36,Straight Party,,,Republican,9
+Mason,37,Straight Party,,,Republican,5
+Mason,38,Straight Party,,,Republican,15
+Mason,1,Straight Party,,,Democratic,8
+Mason,2,Straight Party,,,Democratic,10
+Mason,3,Straight Party,,,Democratic,14
+Mason,4,Straight Party,,,Democratic,29
+Mason,5,Straight Party,,,Democratic,7
+Mason,6,Straight Party,,,Democratic,7
+Mason,7,Straight Party,,,Democratic,13
+Mason,8,Straight Party,,,Democratic,10
+Mason,9,Straight Party,,,Democratic,15
+Mason,10,Straight Party,,,Democratic,17
+Mason,11,Straight Party,,,Democratic,14
+Mason,12,Straight Party,,,Democratic,15
+Mason,13,Straight Party,,,Democratic,4
+Mason,14,Straight Party,,,Democratic,28
+Mason,15,Straight Party,,,Democratic,9
+Mason,16,Straight Party,,,Democratic,7
+Mason,17,Straight Party,,,Democratic,6
+Mason,18,Straight Party,,,Democratic,16
+Mason,19,Straight Party,,,Democratic,24
+Mason,20,Straight Party,,,Democratic,15
+Mason,21,Straight Party,,,Democratic,13
+Mason,22,Straight Party,,,Democratic,9
+Mason,23,Straight Party,,,Democratic,9
+Mason,24,Straight Party,,,Democratic,6
+Mason,25,Straight Party,,,Democratic,9
+Mason,26,Straight Party,,,Democratic,9
+Mason,27,Straight Party,,,Democratic,14
+Mason,28,Straight Party,,,Democratic,10
+Mason,29,Straight Party,,,Democratic,5
+Mason,30,Straight Party,,,Democratic,16
+Mason,31,Straight Party,,,Democratic,5
+Mason,32,Straight Party,,,Democratic,14
+Mason,33,Straight Party,,,Democratic,9
+Mason,34,Straight Party,,,Democratic,8
+Mason,35,Straight Party,,,Democratic,28
+Mason,36,Straight Party,,,Democratic,8
+Mason,37,Straight Party,,,Democratic,14
+Mason,38,Straight Party,,,Democratic,22
+Mason,1,Straight Party,,,Mountain,0
+Mason,2,Straight Party,,,Mountain,0
+Mason,3,Straight Party,,,Mountain,0
+Mason,4,Straight Party,,,Mountain,3
+Mason,5,Straight Party,,,Mountain,0
+Mason,6,Straight Party,,,Mountain,0
+Mason,7,Straight Party,,,Mountain,3
+Mason,8,Straight Party,,,Mountain,0
+Mason,9,Straight Party,,,Mountain,0
+Mason,10,Straight Party,,,Mountain,0
+Mason,11,Straight Party,,,Mountain,1
+Mason,12,Straight Party,,,Mountain,0
+Mason,13,Straight Party,,,Mountain,0
+Mason,14,Straight Party,,,Mountain,1
+Mason,15,Straight Party,,,Mountain,0
+Mason,16,Straight Party,,,Mountain,0
+Mason,17,Straight Party,,,Mountain,0
+Mason,18,Straight Party,,,Mountain,0
+Mason,19,Straight Party,,,Mountain,0
+Mason,20,Straight Party,,,Mountain,0
+Mason,21,Straight Party,,,Mountain,0
+Mason,22,Straight Party,,,Mountain,0
+Mason,23,Straight Party,,,Mountain,1
+Mason,24,Straight Party,,,Mountain,0
+Mason,25,Straight Party,,,Mountain,0
+Mason,26,Straight Party,,,Mountain,0
+Mason,27,Straight Party,,,Mountain,1
+Mason,28,Straight Party,,,Mountain,0
+Mason,29,Straight Party,,,Mountain,0
+Mason,30,Straight Party,,,Mountain,0
+Mason,31,Straight Party,,,Mountain,1
+Mason,32,Straight Party,,,Mountain,0
+Mason,33,Straight Party,,,Mountain,0
+Mason,34,Straight Party,,,Mountain,0
+Mason,35,Straight Party,,,Mountain,1
+Mason,36,Straight Party,,,Mountain,1
+Mason,37,Straight Party,,,Mountain,0
+Mason,38,Straight Party,,,Mountain,1
+Mason,1,Governor,,REP,Bill Maloney,46
+Mason,2,Governor,,REP,Bill Maloney,15
+Mason,3,Governor,,REP,Bill Maloney,51
+Mason,4,Governor,,REP,Bill Maloney,64
+Mason,5,Governor,,REP,Bill Maloney,24
+Mason,6,Governor,,REP,Bill Maloney,18
+Mason,7,Governor,,REP,Bill Maloney,48
+Mason,8,Governor,,REP,Bill Maloney,50
+Mason,9,Governor,,REP,Bill Maloney,38
+Mason,10,Governor,,REP,Bill Maloney,73
+Mason,11,Governor,,REP,Bill Maloney,59
+Mason,12,Governor,,REP,Bill Maloney,105
+Mason,13,Governor,,REP,Bill Maloney,11
+Mason,14,Governor,,REP,Bill Maloney,103
+Mason,15,Governor,,REP,Bill Maloney,79
+Mason,16,Governor,,REP,Bill Maloney,98
+Mason,17,Governor,,REP,Bill Maloney,65
+Mason,18,Governor,,REP,Bill Maloney,62
+Mason,19,Governor,,REP,Bill Maloney,64
+Mason,20,Governor,,REP,Bill Maloney,62
+Mason,21,Governor,,REP,Bill Maloney,44
+Mason,22,Governor,,REP,Bill Maloney,42
+Mason,23,Governor,,REP,Bill Maloney,57
+Mason,24,Governor,,REP,Bill Maloney,43
+Mason,25,Governor,,REP,Bill Maloney,50
+Mason,26,Governor,,REP,Bill Maloney,54
+Mason,27,Governor,,REP,Bill Maloney,26
+Mason,28,Governor,,REP,Bill Maloney,23
+Mason,29,Governor,,REP,Bill Maloney,17
+Mason,30,Governor,,REP,Bill Maloney,79
+Mason,31,Governor,,REP,Bill Maloney,55
+Mason,32,Governor,,REP,Bill Maloney,97
+Mason,33,Governor,,REP,Bill Maloney,52
+Mason,34,Governor,,REP,Bill Maloney,33
+Mason,35,Governor,,REP,Bill Maloney,73
+Mason,36,Governor,,REP,Bill Maloney,42
+Mason,37,Governor,,REP,Bill Maloney,31
+Mason,38,Governor,,REP,Bill Maloney,104
+Mason,1,Governor,,DEM,Earl Ray Tomblin,47
+Mason,2,Governor,,DEM,Earl Ray Tomblin,25
+Mason,3,Governor,,DEM,Earl Ray Tomblin,48
+Mason,4,Governor,,DEM,Earl Ray Tomblin,106
+Mason,5,Governor,,DEM,Earl Ray Tomblin,36
+Mason,6,Governor,,DEM,Earl Ray Tomblin,37
+Mason,7,Governor,,DEM,Earl Ray Tomblin,81
+Mason,8,Governor,,DEM,Earl Ray Tomblin,43
+Mason,9,Governor,,DEM,Earl Ray Tomblin,80
+Mason,10,Governor,,DEM,Earl Ray Tomblin,84
+Mason,11,Governor,,DEM,Earl Ray Tomblin,73
+Mason,12,Governor,,DEM,Earl Ray Tomblin,86
+Mason,13,Governor,,DEM,Earl Ray Tomblin,33
+Mason,14,Governor,,DEM,Earl Ray Tomblin,98
+Mason,15,Governor,,DEM,Earl Ray Tomblin,58
+Mason,16,Governor,,DEM,Earl Ray Tomblin,104
+Mason,17,Governor,,DEM,Earl Ray Tomblin,44
+Mason,18,Governor,,DEM,Earl Ray Tomblin,79
+Mason,19,Governor,,DEM,Earl Ray Tomblin,101
+Mason,20,Governor,,DEM,Earl Ray Tomblin,63
+Mason,21,Governor,,DEM,Earl Ray Tomblin,59
+Mason,22,Governor,,DEM,Earl Ray Tomblin,47
+Mason,23,Governor,,DEM,Earl Ray Tomblin,60
+Mason,24,Governor,,DEM,Earl Ray Tomblin,52
+Mason,25,Governor,,DEM,Earl Ray Tomblin,50
+Mason,26,Governor,,DEM,Earl Ray Tomblin,49
+Mason,27,Governor,,DEM,Earl Ray Tomblin,48
+Mason,28,Governor,,DEM,Earl Ray Tomblin,26
+Mason,29,Governor,,DEM,Earl Ray Tomblin,11
+Mason,30,Governor,,DEM,Earl Ray Tomblin,72
+Mason,31,Governor,,DEM,Earl Ray Tomblin,35
+Mason,32,Governor,,DEM,Earl Ray Tomblin,54
+Mason,33,Governor,,DEM,Earl Ray Tomblin,42
+Mason,34,Governor,,DEM,Earl Ray Tomblin,33
+Mason,35,Governor,,DEM,Earl Ray Tomblin,70
+Mason,36,Governor,,DEM,Earl Ray Tomblin,58
+Mason,37,Governor,,DEM,Earl Ray Tomblin,47
+Mason,38,Governor,,DEM,Earl Ray Tomblin,82
+Mason,1,Governor,,MTN,Bob Henry Baber,5
+Mason,2,Governor,,MTN,Bob Henry Baber,0
+Mason,3,Governor,,MTN,Bob Henry Baber,1
+Mason,4,Governor,,MTN,Bob Henry Baber,3
+Mason,5,Governor,,MTN,Bob Henry Baber,0
+Mason,6,Governor,,MTN,Bob Henry Baber,0
+Mason,7,Governor,,MTN,Bob Henry Baber,1
+Mason,8,Governor,,MTN,Bob Henry Baber,0
+Mason,9,Governor,,MTN,Bob Henry Baber,1
+Mason,10,Governor,,MTN,Bob Henry Baber,0
+Mason,11,Governor,,MTN,Bob Henry Baber,0
+Mason,12,Governor,,MTN,Bob Henry Baber,2
+Mason,13,Governor,,MTN,Bob Henry Baber,0
+Mason,14,Governor,,MTN,Bob Henry Baber,1
+Mason,15,Governor,,MTN,Bob Henry Baber,4
+Mason,16,Governor,,MTN,Bob Henry Baber,0
+Mason,17,Governor,,MTN,Bob Henry Baber,0
+Mason,18,Governor,,MTN,Bob Henry Baber,4
+Mason,19,Governor,,MTN,Bob Henry Baber,1
+Mason,20,Governor,,MTN,Bob Henry Baber,0
+Mason,21,Governor,,MTN,Bob Henry Baber,1
+Mason,22,Governor,,MTN,Bob Henry Baber,1
+Mason,23,Governor,,MTN,Bob Henry Baber,2
+Mason,24,Governor,,MTN,Bob Henry Baber,0
+Mason,25,Governor,,MTN,Bob Henry Baber,0
+Mason,26,Governor,,MTN,Bob Henry Baber,1
+Mason,27,Governor,,MTN,Bob Henry Baber,1
+Mason,28,Governor,,MTN,Bob Henry Baber,1
+Mason,29,Governor,,MTN,Bob Henry Baber,0
+Mason,30,Governor,,MTN,Bob Henry Baber,0
+Mason,31,Governor,,MTN,Bob Henry Baber,1
+Mason,32,Governor,,MTN,Bob Henry Baber,1
+Mason,33,Governor,,MTN,Bob Henry Baber,0
+Mason,34,Governor,,MTN,Bob Henry Baber,0
+Mason,35,Governor,,MTN,Bob Henry Baber,0
+Mason,36,Governor,,MTN,Bob Henry Baber,3
+Mason,37,Governor,,MTN,Bob Henry Baber,0
+Mason,38,Governor,,MTN,Bob Henry Baber,3
+Mason,1,Governor,,IND,Marla Dee Ingels,7
+Mason,2,Governor,,IND,Marla Dee Ingels,2
+Mason,3,Governor,,IND,Marla Dee Ingels,6
+Mason,4,Governor,,IND,Marla Dee Ingels,11
+Mason,5,Governor,,IND,Marla Dee Ingels,6
+Mason,6,Governor,,IND,Marla Dee Ingels,14
+Mason,7,Governor,,IND,Marla Dee Ingels,12
+Mason,8,Governor,,IND,Marla Dee Ingels,14
+Mason,9,Governor,,IND,Marla Dee Ingels,31
+Mason,10,Governor,,IND,Marla Dee Ingels,1
+Mason,11,Governor,,IND,Marla Dee Ingels,0
+Mason,12,Governor,,IND,Marla Dee Ingels,5
+Mason,13,Governor,,IND,Marla Dee Ingels,6
+Mason,14,Governor,,IND,Marla Dee Ingels,4
+Mason,15,Governor,,IND,Marla Dee Ingels,2
+Mason,16,Governor,,IND,Marla Dee Ingels,2
+Mason,17,Governor,,IND,Marla Dee Ingels,5
+Mason,18,Governor,,IND,Marla Dee Ingels,2
+Mason,19,Governor,,IND,Marla Dee Ingels,1
+Mason,20,Governor,,IND,Marla Dee Ingels,2
+Mason,21,Governor,,IND,Marla Dee Ingels,3
+Mason,22,Governor,,IND,Marla Dee Ingels,2
+Mason,23,Governor,,IND,Marla Dee Ingels,2
+Mason,24,Governor,,IND,Marla Dee Ingels,1
+Mason,25,Governor,,IND,Marla Dee Ingels,2
+Mason,26,Governor,,IND,Marla Dee Ingels,2
+Mason,27,Governor,,IND,Marla Dee Ingels,1
+Mason,28,Governor,,IND,Marla Dee Ingels,1
+Mason,29,Governor,,IND,Marla Dee Ingels,0
+Mason,30,Governor,,IND,Marla Dee Ingels,7
+Mason,31,Governor,,IND,Marla Dee Ingels,2
+Mason,32,Governor,,IND,Marla Dee Ingels,4
+Mason,33,Governor,,IND,Marla Dee Ingels,3
+Mason,34,Governor,,IND,Marla Dee Ingels,4
+Mason,35,Governor,,IND,Marla Dee Ingels,0
+Mason,36,Governor,,IND,Marla Dee Ingels,4
+Mason,37,Governor,,IND,Marla Dee Ingels,1
+Mason,38,Governor,,IND,Marla Dee Ingels,4
+Mason,1,Governor,,ATP,Harry V. Bertram,0
+Mason,2,Governor,,ATP,Harry V. Bertram,0
+Mason,3,Governor,,ATP,Harry V. Bertram,0
+Mason,4,Governor,,ATP,Harry V. Bertram,0
+Mason,5,Governor,,ATP,Harry V. Bertram,0
+Mason,6,Governor,,ATP,Harry V. Bertram,0
+Mason,7,Governor,,ATP,Harry V. Bertram,0
+Mason,8,Governor,,ATP,Harry V. Bertram,0
+Mason,9,Governor,,ATP,Harry V. Bertram,0
+Mason,10,Governor,,ATP,Harry V. Bertram,1
+Mason,11,Governor,,ATP,Harry V. Bertram,1
+Mason,12,Governor,,ATP,Harry V. Bertram,0
+Mason,13,Governor,,ATP,Harry V. Bertram,0
+Mason,14,Governor,,ATP,Harry V. Bertram,0
+Mason,15,Governor,,ATP,Harry V. Bertram,0
+Mason,16,Governor,,ATP,Harry V. Bertram,0
+Mason,17,Governor,,ATP,Harry V. Bertram,2
+Mason,18,Governor,,ATP,Harry V. Bertram,2
+Mason,19,Governor,,ATP,Harry V. Bertram,0
+Mason,20,Governor,,ATP,Harry V. Bertram,0
+Mason,21,Governor,,ATP,Harry V. Bertram,1
+Mason,22,Governor,,ATP,Harry V. Bertram,1
+Mason,23,Governor,,ATP,Harry V. Bertram,0
+Mason,24,Governor,,ATP,Harry V. Bertram,1
+Mason,25,Governor,,ATP,Harry V. Bertram,0
+Mason,26,Governor,,ATP,Harry V. Bertram,0
+Mason,27,Governor,,ATP,Harry V. Bertram,0
+Mason,28,Governor,,ATP,Harry V. Bertram,0
+Mason,29,Governor,,ATP,Harry V. Bertram,0
+Mason,30,Governor,,ATP,Harry V. Bertram,0
+Mason,31,Governor,,ATP,Harry V. Bertram,0
+Mason,32,Governor,,ATP,Harry V. Bertram,0
+Mason,33,Governor,,ATP,Harry V. Bertram,0
+Mason,34,Governor,,ATP,Harry V. Bertram,0
+Mason,35,Governor,,ATP,Harry V. Bertram,0
+Mason,36,Governor,,ATP,Harry V. Bertram,1
+Mason,37,Governor,,ATP,Harry V. Bertram,0
+Mason,38,Governor,,ATP,Harry V. Bertram,0

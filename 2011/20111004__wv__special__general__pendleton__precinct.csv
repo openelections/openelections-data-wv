@@ -1,0 +1,196 @@
+county,precinct,office,district,party,candidate,votes,election_day_650,early_voting_650,election_day_ivo,early_voting_ivo,election_day,early_voting
+Pendleton,1,Registered Voters,,,,206,,,,,0,0
+Pendleton,1,Ballots Cast,,,,60,37,0,23,0,60,0
+Pendleton,1,Straight Party,,,Republican,5,3,0,2,0,5,0
+Pendleton,1,Straight Party,,,Democratic,6,4,0,2,0,6,0
+Pendleton,1,Straight Party,,,Mountain,1,0,0,1,0,1,0
+Pendleton,1,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,1,Straight Party,,,Under Votes,48,30,0,18,0,48,0
+Pendleton,1,Governor,,REP,Bill Maloney,40,23,0,17,0,40,0
+Pendleton,1,Governor,,DEM,Earl Ray Tomblin,14,10,0,4,0,14,0
+Pendleton,1,Governor,,MTN,Bob Henry Baber,2,1,0,1,0,2,0
+Pendleton,1,Governor,,IND,Marla Dee Ingels,3,3,0,0,0,3,0
+Pendleton,1,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,1,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,1,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,1,Governor,,,Under Votes,1,0,0,1,0,1,0
+Pendleton,2,Registered Voters,,,,525,,,,,0,0
+Pendleton,2,Ballots Cast,,,,98,66,0,32,0,98,0
+Pendleton,2,Straight Party,,,Republican,10,4,0,6,0,10,0
+Pendleton,2,Straight Party,,,Democratic,11,8,0,3,0,11,0
+Pendleton,2,Straight Party,,,Mountain,1,1,0,0,0,1,0
+Pendleton,2,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,2,Straight Party,,,Under Votes,76,53,0,23,0,76,0
+Pendleton,2,Governor,,REP,Bill Maloney,49,30,0,19,0,49,0
+Pendleton,2,Governor,,DEM,Earl Ray Tomblin,45,32,0,13,0,45,0
+Pendleton,2,Governor,,MTN,Bob Henry Baber,1,1,0,0,0,1,0
+Pendleton,2,Governor,,IND,Marla Dee Ingels,1,1,0,0,0,1,0
+Pendleton,2,Governor,,ATP,Harry V. Bertram,2,2,0,0,0,2,0
+Pendleton,2,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,2,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,2,Governor,,,Under Votes,0,0,0,0,0,0,0
+Pendleton,3,Registered Voters,,,,506,,,,,0,0
+Pendleton,3,Ballots Cast,,,,88,76,0,12,0,88,0
+Pendleton,3,Straight Party,,,Republican,12,9,0,3,0,12,0
+Pendleton,3,Straight Party,,,Democratic,17,16,0,1,0,17,0
+Pendleton,3,Straight Party,,,Mountain,1,1,0,0,0,1,0
+Pendleton,3,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,3,Straight Party,,,Under Votes,57,49,0,8,0,57,0
+Pendleton,3,Governor,,REP,Bill Maloney,55,45,0,10,0,55,0
+Pendleton,3,Governor,,DEM,Earl Ray Tomblin,29,27,0,2,0,29,0
+Pendleton,3,Governor,,MTN,Bob Henry Baber,0,0,0,0,0,0,0
+Pendleton,3,Governor,,IND,Marla Dee Ingels,3,3,0,0,0,3,0
+Pendleton,3,Governor,,ATP,Harry V. Bertram,1,1,0,0,0,1,0
+Pendleton,3,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,3,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,3,Governor,,,Under Votes,0,0,0,0,0,0,0
+Pendleton,5,Registered Voters,,,,451,,,,,0,0
+Pendleton,5,Ballots Cast,,,,106,76,0,30,0,106,0
+Pendleton,5,Straight Party,,,Republican,12,10,0,2,0,12,0
+Pendleton,5,Straight Party,,,Democratic,8,7,0,1,0,8,0
+Pendleton,5,Straight Party,,,Mountain,2,1,0,1,0,2,0
+Pendleton,5,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,5,Straight Party,,,Under Votes,84,58,0,26,0,84,0
+Pendleton,5,Governor,,REP,Bill Maloney,52,38,0,14,0,52,0
+Pendleton,5,Governor,,DEM,Earl Ray Tomblin,47,36,0,11,0,47,0
+Pendleton,5,Governor,,MTN,Bob Henry Baber,6,2,0,4,0,6,0
+Pendleton,5,Governor,,IND,Marla Dee Ingels,0,0,0,0,0,0,0
+Pendleton,5,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,5,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,5,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,5,Governor,,,Under Votes,1,0,0,1,0,1,0
+Pendleton,6,Registered Voters,,,,716,,,,,0,0
+Pendleton,6,Ballots Cast,,,,163,116,0,47,0,163,0
+Pendleton,6,Straight Party,,,Republican,22,12,0,10,0,22,0
+Pendleton,6,Straight Party,,,Democratic,29,25,0,4,0,29,0
+Pendleton,6,Straight Party,,,Mountain,3,2,0,1,0,3,0
+Pendleton,6,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,6,Straight Party,,,Under Votes,109,77,0,32,0,109,0
+Pendleton,6,Governor,,REP,Bill Maloney,77,56,0,21,0,77,0
+Pendleton,6,Governor,,DEM,Earl Ray Tomblin,74,55,0,19,0,74,0
+Pendleton,6,Governor,,MTN,Bob Henry Baber,7,5,0,2,0,7,0
+Pendleton,6,Governor,,IND,Marla Dee Ingels,4,0,0,4,0,4,0
+Pendleton,6,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,6,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,6,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,6,Governor,,,Under Votes,1,0,0,1,0,1,0
+Pendleton,7A,Registered Voters,,,,505,,,,,0,0
+Pendleton,7A,Ballots Cast,,,,138,121,0,17,0,138,0
+Pendleton,7A,Straight Party,,,Republican,11,11,0,0,0,11,0
+Pendleton,7A,Straight Party,,,Democratic,18,17,0,1,0,18,0
+Pendleton,7A,Straight Party,,,Mountain,3,3,0,0,0,3,0
+Pendleton,7A,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,7A,Straight Party,,,Under Votes,106,90,0,16,0,106,0
+Pendleton,7A,Governor,,REP,Bill Maloney,67,54,0,13,0,67,0
+Pendleton,7A,Governor,,DEM,Earl Ray Tomblin,64,60,0,4,0,64,0
+Pendleton,7A,Governor,,MTN,Bob Henry Baber,4,4,0,0,0,4,0
+Pendleton,7A,Governor,,IND,Marla Dee Ingels,3,3,0,0,0,3,0
+Pendleton,7A,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,7A,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,7A,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,7A,Governor,,,Under Votes,0,0,0,0,0,0,0
+Pendleton,7B,Registered Voters,,,,337,,,,,0,0
+Pendleton,7B,Ballots Cast,,,,91,67,0,24,0,91,0
+Pendleton,7B,Straight Party,,,Republican,9,9,0,0,0,9,0
+Pendleton,7B,Straight Party,,,Democratic,15,12,0,3,0,15,0
+Pendleton,7B,Straight Party,,,Mountain,1,1,0,0,0,1,0
+Pendleton,7B,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,7B,Straight Party,,,Under Votes,66,45,0,21,0,66,0
+Pendleton,7B,Governor,,REP,Bill Maloney,35,28,0,7,0,35,0
+Pendleton,7B,Governor,,DEM,Earl Ray Tomblin,51,36,0,15,0,51,0
+Pendleton,7B,Governor,,MTN,Bob Henry Baber,1,1,0,0,0,1,0
+Pendleton,7B,Governor,,IND,Marla Dee Ingels,2,1,0,1,0,2,0
+Pendleton,7B,Governor,,ATP,Harry V. Bertram,1,1,0,0,0,1,0
+Pendleton,7B,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,7B,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,7B,Governor,,,Under Votes,1,0,0,1,0,1,0
+Pendleton,8,Registered Voters,,,,516,,,,,0,0
+Pendleton,8,Ballots Cast,,,,124,121,0,3,0,124,0
+Pendleton,8,Straight Party,,,Republican,33,31,0,2,0,33,0
+Pendleton,8,Straight Party,,,Democratic,9,9,0,0,0,9,0
+Pendleton,8,Straight Party,,,Mountain,0,0,0,0,0,0,0
+Pendleton,8,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,8,Straight Party,,,Under Votes,82,81,0,1,0,82,0
+Pendleton,8,Governor,,REP,Bill Maloney,83,80,0,3,0,83,0
+Pendleton,8,Governor,,DEM,Earl Ray Tomblin,37,37,0,0,0,37,0
+Pendleton,8,Governor,,MTN,Bob Henry Baber,1,1,0,0,0,1,0
+Pendleton,8,Governor,,IND,Marla Dee Ingels,2,2,0,0,0,2,0
+Pendleton,8,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,8,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,8,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,8,Governor,,,Under Votes,1,1,0,0,0,1,0
+Pendleton,9,Registered Voters,,,,283,,,,,0,0
+Pendleton,9,Ballots Cast,,,,104,101,0,3,0,104,0
+Pendleton,9,Straight Party,,,Republican,8,8,0,0,0,8,0
+Pendleton,9,Straight Party,,,Democratic,13,13,0,0,0,13,0
+Pendleton,9,Straight Party,,,Mountain,0,0,0,0,0,0,0
+Pendleton,9,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,9,Straight Party,,,Under Votes,83,80,0,3,0,83,0
+Pendleton,9,Governor,,REP,Bill Maloney,65,63,0,2,0,65,0
+Pendleton,9,Governor,,DEM,Earl Ray Tomblin,37,36,0,1,0,37,0
+Pendleton,9,Governor,,MTN,Bob Henry Baber,2,2,0,0,0,2,0
+Pendleton,9,Governor,,IND,Marla Dee Ingels,0,0,0,0,0,0,0
+Pendleton,9,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,9,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,9,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,9,Governor,,,Under Votes,0,0,0,0,0,0,0
+Pendleton,11,Registered Voters,,,,410,,,,,0,0
+Pendleton,11,Ballots Cast,,,,69,41,0,28,0,69,0
+Pendleton,11,Straight Party,,,Republican,14,10,0,4,0,14,0
+Pendleton,11,Straight Party,,,Democratic,8,7,0,1,0,8,0
+Pendleton,11,Straight Party,,,Mountain,0,0,0,0,0,0,0
+Pendleton,11,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,11,Straight Party,,,Under Votes,46,23,0,23,0,46,0
+Pendleton,11,Governor,,REP,Bill Maloney,42,27,0,15,0,42,0
+Pendleton,11,Governor,,DEM,Earl Ray Tomblin,25,13,0,12,0,25,0
+Pendleton,11,Governor,,MTN,Bob Henry Baber,1,1,0,0,0,1,0
+Pendleton,11,Governor,,IND,Marla Dee Ingels,1,0,0,1,0,1,0
+Pendleton,11,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,11,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,11,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,11,Governor,,,Under Votes,0,0,0,0,0,0,0
+Pendleton,12,Registered Voters,,,,221,,,,,0,0
+Pendleton,12,Ballots Cast,,,,64,51,0,13,0,64,0
+Pendleton,12,Straight Party,,,Republican,11,11,0,0,0,11,0
+Pendleton,12,Straight Party,,,Democratic,5,4,0,1,0,5,0
+Pendleton,12,Straight Party,,,Mountain,2,2,0,0,0,2,0
+Pendleton,12,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,12,Straight Party,,,Under Votes,46,34,0,12,0,46,0
+Pendleton,12,Governor,,REP,Bill Maloney,31,27,0,4,0,31,0
+Pendleton,12,Governor,,DEM,Earl Ray Tomblin,27,20,0,7,0,27,0
+Pendleton,12,Governor,,MTN,Bob Henry Baber,4,3,0,1,0,4,0
+Pendleton,12,Governor,,IND,Marla Dee Ingels,0,0,0,0,0,0,0
+Pendleton,12,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,12,Governor,,,Write-ins,1,1,0,0,0,1,0
+Pendleton,12,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,12,Governor,,,Under Votes,1,0,0,1,0,1,0
+Pendleton,13,Registered Voters,,,,382,,,,,0,0
+Pendleton,13,Ballots Cast,,,,98,96,0,2,0,98,0
+Pendleton,13,Straight Party,,,Republican,13,13,0,0,0,13,0
+Pendleton,13,Straight Party,,,Democratic,3,3,0,0,0,3,0
+Pendleton,13,Straight Party,,,Mountain,0,0,0,0,0,0,0
+Pendleton,13,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,13,Straight Party,,,Under Votes,80,78,0,2,0,80,0
+Pendleton,13,Governor,,REP,Bill Maloney,79,77,0,2,0,79,0
+Pendleton,13,Governor,,DEM,Earl Ray Tomblin,11,11,0,0,0,11,0
+Pendleton,13,Governor,,MTN,Bob Henry Baber,3,3,0,0,0,3,0
+Pendleton,13,Governor,,IND,Marla Dee Ingels,2,2,0,0,0,2,0
+Pendleton,13,Governor,,ATP,Harry V. Bertram,1,1,0,0,0,1,0
+Pendleton,13,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,13,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,13,Governor,,,Under Votes,2,2,0,0,0,2,0
+Pendleton,14,Registered Voters,,,,313,,,,,0,0
+Pendleton,14,Ballots Cast,,,,92,62,0,30,0,92,0
+Pendleton,14,Straight Party,,,Republican,17,11,0,6,0,17,0
+Pendleton,14,Straight Party,,,Democratic,7,3,0,4,0,7,0
+Pendleton,14,Straight Party,,,Mountain,0,0,0,0,0,0,0
+Pendleton,14,Straight Party,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,14,Straight Party,,,Under Votes,67,47,0,20,0,67,0
+Pendleton,14,Governor,,REP,Bill Maloney,60,41,0,19,0,60,0
+Pendleton,14,Governor,,DEM,Earl Ray Tomblin,29,20,0,9,0,29,0
+Pendleton,14,Governor,,MTN,Bob Henry Baber,0,0,0,0,0,0,0
+Pendleton,14,Governor,,IND,Marla Dee Ingels,3,1,0,2,0,3,0
+Pendleton,14,Governor,,ATP,Harry V. Bertram,0,0,0,0,0,0,0
+Pendleton,14,Governor,,,Write-ins,0,0,0,0,0,0,0
+Pendleton,14,Governor,,,Over Votes,0,0,0,0,0,0,0
+Pendleton,14,Governor,,,Under Votes,0,0,0,0,0,0,0
