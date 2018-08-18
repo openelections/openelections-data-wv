@@ -1,0 +1,705 @@
+county,precinct,office,district,party,candidate,votes
+Barbour,1,President,,DEM,Barack Obama,70
+Barbour,2,President,,DEM,Barack Obama,168
+Barbour,3,President,,DEM,Barack Obama,142
+Barbour,4,President,,DEM,Barack Obama,141
+Barbour,5,President,,DEM,Barack Obama,165
+Barbour,6,President,,DEM,Barack Obama,92
+Barbour,7,President,,DEM,Barack Obama,197
+Barbour,8,President,,DEM,Barack Obama,145
+Barbour,9,President,,DEM,Barack Obama,55
+Barbour,10,President,,DEM,Barack Obama,68
+Barbour,11,President,,DEM,Barack Obama,102
+Barbour,12,President,,DEM,Barack Obama,121
+Barbour,13,President,,DEM,Barack Obama,171
+Barbour,14,President,,DEM,Barack Obama,41
+Barbour,15,President,,DEM,Barack Obama,28
+Barbour,16,President,,DEM,Barack Obama,62
+Barbour,1,President,,REP,Mitt Romney,166
+Barbour,2,President,,REP,Mitt Romney,436
+Barbour,3,President,,REP,Mitt Romney,379
+Barbour,4,President,,REP,Mitt Romney,411
+Barbour,5,President,,REP,Mitt Romney,325
+Barbour,6,President,,REP,Mitt Romney,108
+Barbour,7,President,,REP,Mitt Romney,273
+Barbour,8,President,,REP,Mitt Romney,375
+Barbour,9,President,,REP,Mitt Romney,145
+Barbour,10,President,,REP,Mitt Romney,213
+Barbour,11,President,,REP,Mitt Romney,113
+Barbour,12,President,,REP,Mitt Romney,274
+Barbour,13,President,,REP,Mitt Romney,328
+Barbour,14,President,,REP,Mitt Romney,109
+Barbour,15,President,,REP,Mitt Romney,76
+Barbour,16,President,,REP,Mitt Romney,93
+Barbour,1,President,,LIB,Gary Johnson,4
+Barbour,2,President,,LIB,Gary Johnson,9
+Barbour,3,President,,LIB,Gary Johnson,8
+Barbour,4,President,,LIB,Gary Johnson,4
+Barbour,5,President,,LIB,Gary Johnson,6
+Barbour,6,President,,LIB,Gary Johnson,3
+Barbour,7,President,,LIB,Gary Johnson,5
+Barbour,8,President,,LIB,Gary Johnson,6
+Barbour,9,President,,LIB,Gary Johnson,2
+Barbour,10,President,,LIB,Gary Johnson,0
+Barbour,11,President,,LIB,Gary Johnson,7
+Barbour,12,President,,LIB,Gary Johnson,6
+Barbour,13,President,,LIB,Gary Johnson,3
+Barbour,14,President,,LIB,Gary Johnson,2
+Barbour,15,President,,LIB,Gary Johnson,6
+Barbour,16,President,,LIB,Gary Johnson,0
+Barbour,1,President,,MTN,Jill Stein,1
+Barbour,2,President,,MTN,Jill Stein,6
+Barbour,3,President,,MTN,Jill Stein,7
+Barbour,4,President,,MTN,Jill Stein,9
+Barbour,5,President,,MTN,Jill Stein,1
+Barbour,6,President,,MTN,Jill Stein,1
+Barbour,7,President,,MTN,Jill Stein,4
+Barbour,8,President,,MTN,Jill Stein,3
+Barbour,9,President,,MTN,Jill Stein,1
+Barbour,10,President,,MTN,Jill Stein,2
+Barbour,11,President,,MTN,Jill Stein,2
+Barbour,12,President,,MTN,Jill Stein,4
+Barbour,13,President,,MTN,Jill Stein,8
+Barbour,14,President,,MTN,Jill Stein,0
+Barbour,15,President,,MTN,Jill Stein,2
+Barbour,16,President,,MTN,Jill Stein,2
+Barbour,1,President,,,Randall Terry,1
+Barbour,2,President,,,Randall Terry,3
+Barbour,3,President,,,Randall Terry,3
+Barbour,4,President,,,Randall Terry,8
+Barbour,5,President,,,Randall Terry,2
+Barbour,6,President,,,Randall Terry,3
+Barbour,7,President,,,Randall Terry,4
+Barbour,8,President,,,Randall Terry,3
+Barbour,9,President,,,Randall Terry,4
+Barbour,10,President,,,Randall Terry,2
+Barbour,11,President,,,Randall Terry,2
+Barbour,12,President,,,Randall Terry,4
+Barbour,13,President,,,Randall Terry,2
+Barbour,14,President,,,Randall Terry,0
+Barbour,15,President,,,Randall Terry,0
+Barbour,16,President,,,Randall Terry,4
+Barbour,1,U.S. Senate,,DEM,Joe Manchin III,141
+Barbour,2,U.S. Senate,,DEM,Joe Manchin III,350
+Barbour,3,U.S. Senate,,DEM,Joe Manchin III,317
+Barbour,4,U.S. Senate,,DEM,Joe Manchin III,319
+Barbour,5,U.S. Senate,,DEM,Joe Manchin III,309
+Barbour,6,U.S. Senate,,DEM,Joe Manchin III,143
+Barbour,7,U.S. Senate,,DEM,Joe Manchin III,289
+Barbour,8,U.S. Senate,,DEM,Joe Manchin III,300
+Barbour,9,U.S. Senate,,DEM,Joe Manchin III,107
+Barbour,10,U.S. Senate,,DEM,Joe Manchin III,133
+Barbour,11,U.S. Senate,,DEM,Joe Manchin III,154
+Barbour,12,U.S. Senate,,DEM,Joe Manchin III,227
+Barbour,13,U.S. Senate,,DEM,Joe Manchin III,306
+Barbour,14,U.S. Senate,,DEM,Joe Manchin III,85
+Barbour,15,U.S. Senate,,DEM,Joe Manchin III,63
+Barbour,16,U.S. Senate,,DEM,Joe Manchin III,115
+Barbour,1,U.S. Senate,,REP,John R. Raese,92
+Barbour,2,U.S. Senate,,REP,John R. Raese,240
+Barbour,3,U.S. Senate,,REP,John R. Raese,205
+Barbour,4,U.S. Senate,,REP,John R. Raese,249
+Barbour,5,U.S. Senate,,REP,John R. Raese,173
+Barbour,6,U.S. Senate,,REP,John R. Raese,62
+Barbour,7,U.S. Senate,,REP,John R. Raese,183
+Barbour,8,U.S. Senate,,REP,John R. Raese,218
+Barbour,9,U.S. Senate,,REP,John R. Raese,91
+Barbour,10,U.S. Senate,,REP,John R. Raese,135
+Barbour,11,U.S. Senate,,REP,John R. Raese,65
+Barbour,12,U.S. Senate,,REP,John R. Raese,160
+Barbour,13,U.S. Senate,,REP,John R. Raese,175
+Barbour,14,U.S. Senate,,REP,John R. Raese,63
+Barbour,15,U.S. Senate,,REP,John R. Raese,47
+Barbour,16,U.S. Senate,,REP,John R. Raese,41
+Barbour,1,U.S. Senate,,MTN,Bob Henry Baber,6
+Barbour,2,U.S. Senate,,MTN,Bob Henry Baber,22
+Barbour,3,U.S. Senate,,MTN,Bob Henry Baber,15
+Barbour,4,U.S. Senate,,MTN,Bob Henry Baber,11
+Barbour,5,U.S. Senate,,MTN,Bob Henry Baber,14
+Barbour,6,U.S. Senate,,MTN,Bob Henry Baber,6
+Barbour,7,U.S. Senate,,MTN,Bob Henry Baber,8
+Barbour,8,U.S. Senate,,MTN,Bob Henry Baber,10
+Barbour,9,U.S. Senate,,MTN,Bob Henry Baber,3
+Barbour,10,U.S. Senate,,MTN,Bob Henry Baber,12
+Barbour,11,U.S. Senate,,MTN,Bob Henry Baber,7
+Barbour,12,U.S. Senate,,MTN,Bob Henry Baber,16
+Barbour,13,U.S. Senate,,MTN,Bob Henry Baber,16
+Barbour,14,U.S. Senate,,MTN,Bob Henry Baber,0
+Barbour,15,U.S. Senate,,MTN,Bob Henry Baber,4
+Barbour,16,U.S. Senate,,MTN,Bob Henry Baber,1
+Barbour,1,U.S. House,1,DEM,Sue Thorn,72
+Barbour,2,U.S. House,1,DEM,Sue Thorn,181
+Barbour,3,U.S. House,1,DEM,Sue Thorn,162
+Barbour,4,U.S. House,1,DEM,Sue Thorn,166
+Barbour,5,U.S. House,1,DEM,Sue Thorn,150
+Barbour,6,U.S. House,1,DEM,Sue Thorn,99
+Barbour,7,U.S. House,1,DEM,Sue Thorn,189
+Barbour,8,U.S. House,1,DEM,Sue Thorn,147
+Barbour,9,U.S. House,1,DEM,Sue Thorn,52
+Barbour,10,U.S. House,1,DEM,Sue Thorn,67
+Barbour,11,U.S. House,1,DEM,Sue Thorn,92
+Barbour,12,U.S. House,1,DEM,Sue Thorn,130
+Barbour,13,U.S. House,1,DEM,Sue Thorn,159
+Barbour,14,U.S. House,1,DEM,Sue Thorn,44
+Barbour,15,U.S. House,1,DEM,Sue Thorn,34
+Barbour,16,U.S. House,1,DEM,Sue Thorn,66
+Barbour,1,U.S. House,1,REP,David B. McKinley,155
+Barbour,2,U.S. House,1,REP,David B. McKinley,406
+Barbour,3,U.S. House,1,REP,David B. McKinley,351
+Barbour,4,U.S. House,1,REP,David B. McKinley,368
+Barbour,5,U.S. House,1,REP,David B. McKinley,307
+Barbour,6,U.S. House,1,REP,David B. McKinley,89
+Barbour,7,U.S. House,1,REP,David B. McKinley,264
+Barbour,8,U.S. House,1,REP,David B. McKinley,350
+Barbour,9,U.S. House,1,REP,David B. McKinley,131
+Barbour,10,U.S. House,1,REP,David B. McKinley,197
+Barbour,11,U.S. House,1,REP,David B. McKinley,122
+Barbour,12,U.S. House,1,REP,David B. McKinley,255
+Barbour,13,U.S. House,1,REP,David B. McKinley,302
+Barbour,14,U.S. House,1,REP,David B. McKinley,99
+Barbour,15,U.S. House,1,REP,David B. McKinley,76
+Barbour,16,U.S. House,1,REP,David B. McKinley,77
+Barbour,1,U.S. House,1,,Write-ins,1
+Barbour,2,U.S. House,1,,Write-ins,0
+Barbour,3,U.S. House,1,,Write-ins,0
+Barbour,4,U.S. House,1,,Write-ins,0
+Barbour,5,U.S. House,1,,Write-ins,1
+Barbour,6,U.S. House,1,,Write-ins,0
+Barbour,7,U.S. House,1,,Write-ins,0
+Barbour,8,U.S. House,1,,Write-ins,0
+Barbour,9,U.S. House,1,,Write-ins,0
+Barbour,10,U.S. House,1,,Write-ins,0
+Barbour,11,U.S. House,1,,Write-ins,0
+Barbour,12,U.S. House,1,,Write-ins,0
+Barbour,13,U.S. House,1,,Write-ins,0
+Barbour,14,U.S. House,1,,Write-ins,0
+Barbour,15,U.S. House,1,,Write-ins,0
+Barbour,16,U.S. House,1,,Write-ins,1
+Barbour,1,Governor,,DEM,Earl Ray Tomblin,116
+Barbour,2,Governor,,DEM,Earl Ray Tomblin,288
+Barbour,3,Governor,,DEM,Earl Ray Tomblin,264
+Barbour,4,Governor,,DEM,Earl Ray Tomblin,259
+Barbour,5,Governor,,DEM,Earl Ray Tomblin,240
+Barbour,6,Governor,,DEM,Earl Ray Tomblin,133
+Barbour,7,Governor,,DEM,Earl Ray Tomblin,250
+Barbour,8,Governor,,DEM,Earl Ray Tomblin,230
+Barbour,9,Governor,,DEM,Earl Ray Tomblin,89
+Barbour,10,Governor,,DEM,Earl Ray Tomblin,109
+Barbour,11,Governor,,DEM,Earl Ray Tomblin,131
+Barbour,12,Governor,,DEM,Earl Ray Tomblin,174
+Barbour,13,Governor,,DEM,Earl Ray Tomblin,241
+Barbour,14,Governor,,DEM,Earl Ray Tomblin,73
+Barbour,15,Governor,,DEM,Earl Ray Tomblin,55
+Barbour,16,Governor,,DEM,Earl Ray Tomblin,105
+Barbour,1,Governor,,REP,Bill Maloney,119
+Barbour,2,Governor,,REP,Bill Maloney,308
+Barbour,3,Governor,,REP,Bill Maloney,264
+Barbour,4,Governor,,REP,Bill Maloney,301
+Barbour,5,Governor,,REP,Bill Maloney,235
+Barbour,6,Governor,,REP,Bill Maloney,69
+Barbour,7,Governor,,REP,Bill Maloney,216
+Barbour,8,Governor,,REP,Bill Maloney,282
+Barbour,9,Governor,,REP,Bill Maloney,111
+Barbour,10,Governor,,REP,Bill Maloney,157
+Barbour,11,Governor,,REP,Bill Maloney,82
+Barbour,12,Governor,,REP,Bill Maloney,221
+Barbour,13,Governor,,REP,Bill Maloney,247
+Barbour,14,Governor,,REP,Bill Maloney,72
+Barbour,15,Governor,,REP,Bill Maloney,53
+Barbour,16,Governor,,REP,Bill Maloney,52
+Barbour,1,Governor,,LIB,David Moran,3
+Barbour,2,Governor,,LIB,David Moran,6
+Barbour,3,Governor,,LIB,David Moran,7
+Barbour,4,Governor,,LIB,David Moran,13
+Barbour,5,Governor,,LIB,David Moran,7
+Barbour,6,Governor,,LIB,David Moran,2
+Barbour,7,Governor,,LIB,David Moran,11
+Barbour,8,Governor,,LIB,David Moran,13
+Barbour,9,Governor,,LIB,David Moran,3
+Barbour,10,Governor,,LIB,David Moran,6
+Barbour,11,Governor,,LIB,David Moran,7
+Barbour,12,Governor,,LIB,David Moran,7
+Barbour,13,Governor,,LIB,David Moran,6
+Barbour,14,Governor,,LIB,David Moran,2
+Barbour,15,Governor,,LIB,David Moran,5
+Barbour,16,Governor,,LIB,David Moran,1
+Barbour,1,Governor,,MTN,Jesse Johnson,3
+Barbour,2,Governor,,MTN,Jesse Johnson,13
+Barbour,3,Governor,,MTN,Jesse Johnson,6
+Barbour,4,Governor,,MTN,Jesse Johnson,5
+Barbour,5,Governor,,MTN,Jesse Johnson,12
+Barbour,6,Governor,,MTN,Jesse Johnson,3
+Barbour,7,Governor,,MTN,Jesse Johnson,10
+Barbour,8,Governor,,MTN,Jesse Johnson,7
+Barbour,9,Governor,,MTN,Jesse Johnson,4
+Barbour,10,Governor,,MTN,Jesse Johnson,8
+Barbour,11,Governor,,MTN,Jesse Johnson,6
+Barbour,12,Governor,,MTN,Jesse Johnson,9
+Barbour,13,Governor,,MTN,Jesse Johnson,8
+Barbour,14,Governor,,MTN,Jesse Johnson,3
+Barbour,15,Governor,,MTN,Jesse Johnson,3
+Barbour,16,Governor,,MTN,Jesse Johnson,1
+Barbour,1,Secretary of State,,DEM,Natalie E. Tennant,149
+Barbour,2,Secretary of State,,DEM,Natalie E. Tennant,365
+Barbour,3,Secretary of State,,DEM,Natalie E. Tennant,333
+Barbour,4,Secretary of State,,DEM,Natalie E. Tennant,338
+Barbour,5,Secretary of State,,DEM,Natalie E. Tennant,333
+Barbour,6,Secretary of State,,DEM,Natalie E. Tennant,151
+Barbour,7,Secretary of State,,DEM,Natalie E. Tennant,321
+Barbour,8,Secretary of State,,DEM,Natalie E. Tennant,328
+Barbour,9,Secretary of State,,DEM,Natalie E. Tennant,119
+Barbour,10,Secretary of State,,DEM,Natalie E. Tennant,145
+Barbour,11,Secretary of State,,DEM,Natalie E. Tennant,149
+Barbour,12,Secretary of State,,DEM,Natalie E. Tennant,249
+Barbour,13,Secretary of State,,DEM,Natalie E. Tennant,333
+Barbour,14,Secretary of State,,DEM,Natalie E. Tennant,100
+Barbour,15,Secretary of State,,DEM,Natalie E. Tennant,82
+Barbour,16,Secretary of State,,DEM,Natalie E. Tennant,113
+Barbour,1,Secretary of State,,REP,Brian Savilla,84
+Barbour,2,Secretary of State,,REP,Brian Savilla,214
+Barbour,3,Secretary of State,,REP,Brian Savilla,196
+Barbour,4,Secretary of State,,REP,Brian Savilla,216
+Barbour,5,Secretary of State,,REP,Brian Savilla,141
+Barbour,6,Secretary of State,,REP,Brian Savilla,51
+Barbour,7,Secretary of State,,REP,Brian Savilla,148
+Barbour,8,Secretary of State,,REP,Brian Savilla,182
+Barbour,9,Secretary of State,,REP,Brian Savilla,78
+Barbour,10,Secretary of State,,REP,Brian Savilla,122
+Barbour,11,Secretary of State,,REP,Brian Savilla,66
+Barbour,12,Secretary of State,,REP,Brian Savilla,142
+Barbour,13,Secretary of State,,REP,Brian Savilla,158
+Barbour,14,Secretary of State,,REP,Brian Savilla,49
+Barbour,15,Secretary of State,,REP,Brian Savilla,32
+Barbour,16,Secretary of State,,REP,Brian Savilla,38
+Barbour,1,State Auditor,,DEM,Glen B. Gainer III,132
+Barbour,2,State Auditor,,DEM,Glen B. Gainer III,310
+Barbour,3,State Auditor,,DEM,Glen B. Gainer III,290
+Barbour,4,State Auditor,,DEM,Glen B. Gainer III,288
+Barbour,5,State Auditor,,DEM,Glen B. Gainer III,270
+Barbour,6,State Auditor,,DEM,Glen B. Gainer III,133
+Barbour,7,State Auditor,,DEM,Glen B. Gainer III,276
+Barbour,8,State Auditor,,DEM,Glen B. Gainer III,296
+Barbour,9,State Auditor,,DEM,Glen B. Gainer III,94
+Barbour,10,State Auditor,,DEM,Glen B. Gainer III,121
+Barbour,11,State Auditor,,DEM,Glen B. Gainer III,140
+Barbour,12,State Auditor,,DEM,Glen B. Gainer III,207
+Barbour,13,State Auditor,,DEM,Glen B. Gainer III,283
+Barbour,14,State Auditor,,DEM,Glen B. Gainer III,85
+Barbour,15,State Auditor,,DEM,Glen B. Gainer III,60
+Barbour,16,State Auditor,,DEM,Glen B. Gainer III,95
+Barbour,1,State Auditor,,REP,Larry V. Faircloth,100
+Barbour,2,State Auditor,,REP,Larry V. Faircloth,265
+Barbour,3,State Auditor,,REP,Larry V. Faircloth,231
+Barbour,4,State Auditor,,REP,Larry V. Faircloth,246
+Barbour,5,State Auditor,,REP,Larry V. Faircloth,184
+Barbour,6,State Auditor,,REP,Larry V. Faircloth,58
+Barbour,7,State Auditor,,REP,Larry V. Faircloth,173
+Barbour,8,State Auditor,,REP,Larry V. Faircloth,207
+Barbour,9,State Auditor,,REP,Larry V. Faircloth,93
+Barbour,10,State Auditor,,REP,Larry V. Faircloth,143
+Barbour,11,State Auditor,,REP,Larry V. Faircloth,70
+Barbour,12,State Auditor,,REP,Larry V. Faircloth,172
+Barbour,13,State Auditor,,REP,Larry V. Faircloth,181
+Barbour,14,State Auditor,,REP,Larry V. Faircloth,61
+Barbour,15,State Auditor,,REP,Larry V. Faircloth,50
+Barbour,16,State Auditor,,REP,Larry V. Faircloth,45
+Barbour,1,State Treasurer,,DEM,John D. Perdue,131
+Barbour,2,State Treasurer,,DEM,John D. Perdue,318
+Barbour,3,State Treasurer,,DEM,John D. Perdue,277
+Barbour,4,State Treasurer,,DEM,John D. Perdue,290
+Barbour,5,State Treasurer,,DEM,John D. Perdue,283
+Barbour,6,State Treasurer,,DEM,John D. Perdue,134
+Barbour,7,State Treasurer,,DEM,John D. Perdue,288
+Barbour,8,State Treasurer,,DEM,John D. Perdue,283
+Barbour,9,State Treasurer,,DEM,John D. Perdue,85
+Barbour,10,State Treasurer,,DEM,John D. Perdue,133
+Barbour,11,State Treasurer,,DEM,John D. Perdue,140
+Barbour,12,State Treasurer,,DEM,John D. Perdue,214
+Barbour,13,State Treasurer,,DEM,John D. Perdue,284
+Barbour,14,State Treasurer,,DEM,John D. Perdue,86
+Barbour,15,State Treasurer,,DEM,John D. Perdue,60
+Barbour,16,State Treasurer,,DEM,John D. Perdue,103
+Barbour,1,State Treasurer,,REP,Mike Hall,103
+Barbour,2,State Treasurer,,REP,Mike Hall,257
+Barbour,3,State Treasurer,,REP,Mike Hall,245
+Barbour,4,State Treasurer,,REP,Mike Hall,247
+Barbour,5,State Treasurer,,REP,Mike Hall,174
+Barbour,6,State Treasurer,,REP,Mike Hall,54
+Barbour,7,State Treasurer,,REP,Mike Hall,172
+Barbour,8,State Treasurer,,REP,Mike Hall,221
+Barbour,9,State Treasurer,,REP,Mike Hall,100
+Barbour,10,State Treasurer,,REP,Mike Hall,133
+Barbour,11,State Treasurer,,REP,Mike Hall,70
+Barbour,12,State Treasurer,,REP,Mike Hall,174
+Barbour,13,State Treasurer,,REP,Mike Hall,188
+Barbour,14,State Treasurer,,REP,Mike Hall,62
+Barbour,15,State Treasurer,,REP,Mike Hall,53
+Barbour,16,State Treasurer,,REP,Mike Hall,41
+Barbour,1,Commissioner of Agriculture,,DEM,Walt Helmick,130
+Barbour,2,Commissioner of Agriculture,,DEM,Walt Helmick,271
+Barbour,3,Commissioner of Agriculture,,DEM,Walt Helmick,252
+Barbour,4,Commissioner of Agriculture,,DEM,Walt Helmick,266
+Barbour,5,Commissioner of Agriculture,,DEM,Walt Helmick,238
+Barbour,6,Commissioner of Agriculture,,DEM,Walt Helmick,116
+Barbour,7,Commissioner of Agriculture,,DEM,Walt Helmick,228
+Barbour,8,Commissioner of Agriculture,,DEM,Walt Helmick,230
+Barbour,9,Commissioner of Agriculture,,DEM,Walt Helmick,71
+Barbour,10,Commissioner of Agriculture,,DEM,Walt Helmick,88
+Barbour,11,Commissioner of Agriculture,,DEM,Walt Helmick,113
+Barbour,12,Commissioner of Agriculture,,DEM,Walt Helmick,192
+Barbour,13,Commissioner of Agriculture,,DEM,Walt Helmick,223
+Barbour,14,Commissioner of Agriculture,,DEM,Walt Helmick,71
+Barbour,15,Commissioner of Agriculture,,DEM,Walt Helmick,56
+Barbour,16,Commissioner of Agriculture,,DEM,Walt Helmick,91
+Barbour,1,Commissioner of Agriculture,,REP,Kent Leonhardt,98
+Barbour,2,Commissioner of Agriculture,,REP,Kent Leonhardt,300
+Barbour,3,Commissioner of Agriculture,,REP,Kent Leonhardt,263
+Barbour,4,Commissioner of Agriculture,,REP,Kent Leonhardt,267
+Barbour,5,Commissioner of Agriculture,,REP,Kent Leonhardt,216
+Barbour,6,Commissioner of Agriculture,,REP,Kent Leonhardt,69
+Barbour,7,Commissioner of Agriculture,,REP,Kent Leonhardt,210
+Barbour,8,Commissioner of Agriculture,,REP,Kent Leonhardt,258
+Barbour,9,Commissioner of Agriculture,,REP,Kent Leonhardt,110
+Barbour,10,Commissioner of Agriculture,,REP,Kent Leonhardt,168
+Barbour,11,Commissioner of Agriculture,,REP,Kent Leonhardt,90
+Barbour,12,Commissioner of Agriculture,,REP,Kent Leonhardt,194
+Barbour,13,Commissioner of Agriculture,,REP,Kent Leonhardt,238
+Barbour,14,Commissioner of Agriculture,,REP,Kent Leonhardt,76
+Barbour,15,Commissioner of Agriculture,,REP,Kent Leonhardt,54
+Barbour,16,Commissioner of Agriculture,,REP,Kent Leonhardt,50
+Barbour,1,Attorney General,,DEM,Darrell V. McGraw Jr.,117
+Barbour,2,Attorney General,,DEM,Darrell V. McGraw Jr.,276
+Barbour,3,Attorney General,,DEM,Darrell V. McGraw Jr.,240
+Barbour,4,Attorney General,,DEM,Darrell V. McGraw Jr.,254
+Barbour,5,Attorney General,,DEM,Darrell V. McGraw Jr.,247
+Barbour,6,Attorney General,,DEM,Darrell V. McGraw Jr.,124
+Barbour,7,Attorney General,,DEM,Darrell V. McGraw Jr.,253
+Barbour,8,Attorney General,,DEM,Darrell V. McGraw Jr.,245
+Barbour,9,Attorney General,,DEM,Darrell V. McGraw Jr.,81
+Barbour,10,Attorney General,,DEM,Darrell V. McGraw Jr.,99
+Barbour,11,Attorney General,,DEM,Darrell V. McGraw Jr.,134
+Barbour,12,Attorney General,,DEM,Darrell V. McGraw Jr.,196
+Barbour,13,Attorney General,,DEM,Darrell V. McGraw Jr.,244
+Barbour,14,Attorney General,,DEM,Darrell V. McGraw Jr.,77
+Barbour,15,Attorney General,,DEM,Darrell V. McGraw Jr.,54
+Barbour,16,Attorney General,,DEM,Darrell V. McGraw Jr.,110
+Barbour,1,Attorney General,,REP,Patrick Morrisey,121
+Barbour,2,Attorney General,,REP,Patrick Morrisey,320
+Barbour,3,Attorney General,,REP,Patrick Morrisey,291
+Barbour,4,Attorney General,,REP,Patrick Morrisey,305
+Barbour,5,Attorney General,,REP,Patrick Morrisey,232
+Barbour,6,Attorney General,,REP,Patrick Morrisey,73
+Barbour,7,Attorney General,,REP,Patrick Morrisey,221
+Barbour,8,Attorney General,,REP,Patrick Morrisey,276
+Barbour,9,Attorney General,,REP,Patrick Morrisey,116
+Barbour,10,Attorney General,,REP,Patrick Morrisey,173
+Barbour,11,Attorney General,,REP,Patrick Morrisey,84
+Barbour,12,Attorney General,,REP,Patrick Morrisey,208
+Barbour,13,Attorney General,,REP,Patrick Morrisey,240
+Barbour,14,Attorney General,,REP,Patrick Morrisey,73
+Barbour,15,Attorney General,,REP,Patrick Morrisey,57
+Barbour,16,Attorney General,,REP,Patrick Morrisey,47
+Barbour,1,State Senate,14,DEM,Bob Williams,168
+Barbour,2,State Senate,14,DEM,Bob Williams,410
+Barbour,3,State Senate,14,DEM,Bob Williams,369
+Barbour,4,State Senate,14,DEM,Bob Williams,367
+Barbour,5,State Senate,14,DEM,Bob Williams,342
+Barbour,6,State Senate,14,DEM,Bob Williams,147
+Barbour,7,State Senate,14,DEM,Bob Williams,356
+Barbour,8,State Senate,14,DEM,Bob Williams,353
+Barbour,9,State Senate,14,DEM,Bob Williams,128
+Barbour,10,State Senate,14,DEM,Bob Williams,182
+Barbour,11,State Senate,14,DEM,Bob Williams,156
+Barbour,12,State Senate,14,DEM,Bob Williams,281
+Barbour,13,State Senate,14,DEM,Bob Williams,336
+Barbour,14,State Senate,14,DEM,Bob Williams,114
+Barbour,15,State Senate,14,DEM,Bob Williams,89
+Barbour,16,State Senate,14,DEM,Bob Williams,124
+Barbour,1,State House,47,DEM,Mary M. Poling,141
+Barbour,2,State House,47,DEM,Mary M. Poling,323
+Barbour,3,State House,47,DEM,Mary M. Poling,290
+Barbour,4,State House,47,DEM,Mary M. Poling,274
+Barbour,5,State House,47,DEM,Mary M. Poling,269
+Barbour,6,State House,47,DEM,Mary M. Poling,118
+Barbour,7,State House,47,DEM,Mary M. Poling,277
+Barbour,8,State House,47,DEM,Mary M. Poling,298
+Barbour,9,State House,47,DEM,Mary M. Poling,99
+Barbour,10,State House,47,DEM,Mary M. Poling,149
+Barbour,11,State House,47,DEM,Mary M. Poling,145
+Barbour,12,State House,47,DEM,Mary M. Poling,201
+Barbour,13,State House,47,DEM,Mary M. Poling,272
+Barbour,14,State House,47,DEM,Mary M. Poling,77
+Barbour,15,State House,47,DEM,Mary M. Poling,64
+Barbour,16,State House,47,DEM,Mary M. Poling,98
+Barbour,1,State House,47,REP,John R. Rose Sr.,94
+Barbour,2,State House,47,REP,John R. Rose Sr.,261
+Barbour,3,State House,47,REP,John R. Rose Sr.,232
+Barbour,4,State House,47,REP,John R. Rose Sr.,278
+Barbour,5,State House,47,REP,John R. Rose Sr.,228
+Barbour,6,State House,47,REP,John R. Rose Sr.,82
+Barbour,7,State House,47,REP,John R. Rose Sr.,195
+Barbour,8,State House,47,REP,John R. Rose Sr.,214
+Barbour,9,State House,47,REP,John R. Rose Sr.,100
+Barbour,10,State House,47,REP,John R. Rose Sr.,128
+Barbour,11,State House,47,REP,John R. Rose Sr.,84
+Barbour,12,State House,47,REP,John R. Rose Sr.,183
+Barbour,13,State House,47,REP,John R. Rose Sr.,220
+Barbour,14,State House,47,REP,John R. Rose Sr.,73
+Barbour,15,State House,47,REP,John R. Rose Sr.,48
+Barbour,16,State House,47,REP,John R. Rose Sr.,58
+Barbour,1,Registered Voters,,,,482
+Barbour,1,Ballots Cast,,,,250
+Barbour,1,Straight Party,,,Republican,37
+Barbour,1,Straight Party,,,Democratic,20
+Barbour,1,Straight Party,,,Mountain,1
+Barbour,1,Straight Party,,,Libertarian,3
+Barbour,1,President,,,Write-ins,0
+Barbour,1,U.S. Senate,,,Write-ins,0
+Barbour,1,Governor,,,Write-ins,0
+Barbour,1,Secretary of State,,,Write-ins,0
+Barbour,1,State Auditor,,,Write-ins,0
+Barbour,1,State Treasurer,,,Write-ins,0
+Barbour,1,Commissioner of Agriculture,,,Write-ins,0
+Barbour,1,Attorney General,,,Write-ins,0
+Barbour,1,State Senate,14,,Write-ins,0
+Barbour,1,State House,47,,Write-ins,
+Barbour,2,Registered Voters,,,,967
+Barbour,2,Ballots Cast,,,,633
+Barbour,2,Straight Party,,,Republican,99
+Barbour,2,Straight Party,,,Democratic,44
+Barbour,2,Straight Party,,,Mountain,4
+Barbour,2,Straight Party,,,Libertarian,5
+Barbour,2,President,,,Write-ins,0
+Barbour,2,U.S. Senate,,,Write-ins,0
+Barbour,2,Governor,,,Write-ins,0
+Barbour,2,Secretary of State,,,Write-ins,1
+Barbour,2,State Auditor,,,Write-ins,0
+Barbour,2,State Treasurer,,,Write-ins,0
+Barbour,2,Commissioner of Agriculture,,,Write-ins,0
+Barbour,2,Attorney General,,,Write-ins,0
+Barbour,2,State Senate,14,,Write-ins,3
+Barbour,2,State House,47,,Write-ins,16
+Barbour,3,Registered Voters,,,,888
+Barbour,3,Ballots Cast,,,,555
+Barbour,3,Straight Party,,,Republican,80
+Barbour,3,Straight Party,,,Democratic,51
+Barbour,3,Straight Party,,,Mountain,3
+Barbour,3,Straight Party,,,Libertarian,2
+Barbour,3,President,,,Write-ins,0
+Barbour,3,U.S. Senate,,,Write-ins,0
+Barbour,3,Governor,,,Write-ins,0
+Barbour,3,Secretary of State,,,Write-ins,0
+Barbour,3,State Auditor,,,Write-ins,0
+Barbour,3,State Treasurer,,,Write-ins,0
+Barbour,3,Commissioner of Agriculture,,,Write-ins,1
+Barbour,3,Attorney General,,,Write-ins,0
+Barbour,3,State Senate,14,,Write-ins,1
+Barbour,3,State House,47,,Write-ins,10
+Barbour,4,Registered Voters,,,,976
+Barbour,4,Ballots Cast,,,,599
+Barbour,4,Straight Party,,,Republican,74
+Barbour,4,Straight Party,,,Democratic,41
+Barbour,4,Straight Party,,,Mountain,6
+Barbour,4,Straight Party,,,Libertarian,5
+Barbour,4,President,,,Write-ins,4
+Barbour,4,U.S. Senate,,,Write-ins,0
+Barbour,4,Governor,,,Write-ins,0
+Barbour,4,Secretary of State,,,Write-ins,0
+Barbour,4,State Auditor,,,Write-ins,0
+Barbour,4,State Treasurer,,,Write-ins,0
+Barbour,4,Commissioner of Agriculture,,,Write-ins,0
+Barbour,4,Attorney General,,,Write-ins,0
+Barbour,4,State Senate,14,,Write-ins,3
+Barbour,4,State House,47,,Write-ins,6
+Barbour,5,Registered Voters,,,,40
+Barbour,5,Ballots Cast,,,,512
+Barbour,5,Straight Party,,,Republican,32
+Barbour,5,Straight Party,,,Democratic,35
+Barbour,5,Straight Party,,,Mountain,0
+Barbour,5,Straight Party,,,Libertarian,0
+Barbour,5,President,,,Write-ins,2
+Barbour,5,U.S. Senate,,,Write-ins,0
+Barbour,5,Governor,,,Write-ins,0
+Barbour,5,Secretary of State,,,Write-ins,0
+Barbour,5,State Auditor,,,Write-ins,0
+Barbour,5,State Treasurer,,,Write-ins,0
+Barbour,5,Commissioner of Agriculture,,,Write-ins,0
+Barbour,5,Attorney General,,,Write-ins,0
+Barbour,5,State Senate,14,,Write-ins,2
+Barbour,5,State House,47,,Write-ins,0
+Barbour,6,Registered Voters,,,,349
+Barbour,6,Ballots Cast,,,,218
+Barbour,6,Straight Party,,,Republican,18
+Barbour,6,Straight Party,,,Democratic,31
+Barbour,6,Straight Party,,,Mountain,1
+Barbour,6,Straight Party,,,Libertarian,0
+Barbour,6,President,,,Write-ins,0
+Barbour,6,U.S. Senate,,,Write-ins,0
+Barbour,6,Governor,,,Write-ins,0
+Barbour,6,Secretary of State,,,Write-ins,0
+Barbour,6,State Auditor,,,Write-ins,0
+Barbour,6,State Treasurer,,,Write-ins,0
+Barbour,6,Commissioner of Agriculture,,,Write-ins,0
+Barbour,6,Attorney General,,,Write-ins,0
+Barbour,6,State Senate,14,,Write-ins,0
+Barbour,6,State House,47,,Write-ins,0
+Barbour,7,Registered Voters,,,,888
+Barbour,7,Ballots Cast,,,,499
+Barbour,7,Straight Party,,,Republican,48
+Barbour,7,Straight Party,,,Democratic,66
+Barbour,7,Straight Party,,,Mountain,1
+Barbour,7,Straight Party,,,Libertarian,2
+Barbour,7,President,,,Write-ins,4
+Barbour,7,U.S. Senate,,,Write-ins,0
+Barbour,7,Governor,,,Write-ins,0
+Barbour,7,Secretary of State,,,Write-ins,1
+Barbour,7,State Auditor,,,Write-ins,1
+Barbour,7,State Treasurer,,,Write-ins,0
+Barbour,7,Commissioner of Agriculture,,,Write-ins,1
+Barbour,7,Attorney General,,,Write-ins,0
+Barbour,7,State Senate,14,,Write-ins,4
+Barbour,7,State House,47,,Write-ins,2
+Barbour,8,Registered Voters,,,,749
+Barbour,8,Ballots Cast,,,,550
+Barbour,8,Straight Party,,,Republican,60
+Barbour,8,Straight Party,,,Democratic,34
+Barbour,8,Straight Party,,,Mountain,1
+Barbour,8,Straight Party,,,Libertarian,1
+Barbour,8,President,,,Write-ins,2
+Barbour,8,U.S. Senate,,,Write-ins,0
+Barbour,8,Governor,,,Write-ins,0
+Barbour,8,Secretary of State,,,Write-ins,0
+Barbour,8,State Auditor,,,Write-ins,0
+Barbour,8,State Treasurer,,,Write-ins,0
+Barbour,8,Commissioner of Agriculture,,,Write-ins,1
+Barbour,8,Attorney General,,,Write-ins,0
+Barbour,8,State Senate,14,,Write-ins,2
+Barbour,8,State House,47,,Write-ins,4
+Barbour,9,Registered Voters,,,,319
+Barbour,9,Ballots Cast,,,,211
+Barbour,9,Straight Party,,,Republican,26
+Barbour,9,Straight Party,,,Democratic,10
+Barbour,9,Straight Party,,,Mountain,1
+Barbour,9,Straight Party,,,Libertarian,1
+Barbour,9,President,,,Write-ins,0
+Barbour,9,U.S. Senate,,,Write-ins,0
+Barbour,9,Governor,,,Write-ins,0
+Barbour,9,Secretary of State,,,Write-ins,0
+Barbour,9,State Auditor,,,Write-ins,0
+Barbour,9,State Treasurer,,,Write-ins,0
+Barbour,9,Commissioner of Agriculture,,,Write-ins,0
+Barbour,9,Attorney General,,,Write-ins,0
+Barbour,9,State Senate,14,,Write-ins,0
+Barbour,9,State House,47,,Write-ins,0
+Barbour,10,Registered Voters,,,,436
+Barbour,10,Ballots Cast,,,,296
+Barbour,10,Straight Party,,,Republican,49
+Barbour,10,Straight Party,,,Democratic,14
+Barbour,10,Straight Party,,,Mountain,0
+Barbour,10,Straight Party,,,Libertarian,1
+Barbour,10,President,,,Write-ins,0
+Barbour,10,U.S. Senate,,,Write-ins,0
+Barbour,10,Governor,,,Write-ins,0
+Barbour,10,Secretary of State,,,Write-ins,0
+Barbour,10,State Auditor,,,Write-ins,0
+Barbour,10,State Treasurer,,,Write-ins,0
+Barbour,10,Commissioner of Agriculture,,,Write-ins,0
+Barbour,10,Attorney General,,,Write-ins,0
+Barbour,10,State Senate,14,,Write-ins,0
+Barbour,10,State House,47,,Write-ins,3
+Barbour,11,Registered Voters,,,,463
+Barbour,11,Ballots Cast,,,,233
+Barbour,11,Straight Party,,,Republican,22
+Barbour,11,Straight Party,,,Democratic,24
+Barbour,11,Straight Party,,,Mountain,0
+Barbour,11,Straight Party,,,Libertarian,2
+Barbour,11,President,,,Write-ins,1
+Barbour,11,U.S. Senate,,,Write-ins,0
+Barbour,11,Governor,,,Write-ins,0
+Barbour,11,Secretary of State,,,Write-ins,0
+Barbour,11,State Auditor,,,Write-ins,0
+Barbour,11,State Treasurer,,,Write-ins,0
+Barbour,11,Commissioner of Agriculture,,,Write-ins,0
+Barbour,11,Attorney General,,,Write-ins,0
+Barbour,11,State Senate,14,,Write-ins,1
+Barbour,11,State House,47,,Write-ins,1
+Barbour,12,Registered Voters,,,,702
+Barbour,12,Ballots Cast,,,,423
+Barbour,12,Straight Party,,,Republican,47
+Barbour,12,Straight Party,,,Democratic,47
+Barbour,12,Straight Party,,,Mountain,1
+Barbour,12,Straight Party,,,Libertarian,2
+Barbour,12,President,,,Write-ins,4
+Barbour,12,U.S. Senate,,,Write-ins,0
+Barbour,12,Governor,,,Write-ins,0
+Barbour,12,Secretary of State,,,Write-ins,0
+Barbour,12,State Auditor,,,Write-ins,0
+Barbour,12,State Treasurer,,,Write-ins,0
+Barbour,12,Commissioner of Agriculture,,,Write-ins,0
+Barbour,12,Attorney General,,,Write-ins,0
+Barbour,12,State Senate,14,,Write-ins,1
+Barbour,12,State House,47,,Write-ins,4
+Barbour,13,Registered Voters,,,,803
+Barbour,13,Ballots Cast,,,,520
+Barbour,13,Straight Party,,,Republican,47
+Barbour,13,Straight Party,,,Democratic,31
+Barbour,13,Straight Party,,,Mountain,1
+Barbour,13,Straight Party,,,Libertarian,1
+Barbour,13,President,,,Write-ins,0
+Barbour,13,U.S. Senate,,,Write-ins,0
+Barbour,13,Governor,,,Write-ins,0
+Barbour,13,Secretary of State,,,Write-ins,0
+Barbour,13,State Auditor,,,Write-ins,0
+Barbour,13,State Treasurer,,,Write-ins,0
+Barbour,13,Commissioner of Agriculture,,,Write-ins,0
+Barbour,13,Attorney General,,,Write-ins,0
+Barbour,13,State Senate,14,,Write-ins,1
+Barbour,13,State House,47,,Write-ins,4
+Barbour,14,Registered Voters,,,,272
+Barbour,14,Ballots Cast,,,,158
+Barbour,14,Straight Party,,,Republican,20
+Barbour,14,Straight Party,,,Democratic,15
+Barbour,14,Straight Party,,,Mountain,0
+Barbour,14,Straight Party,,,Libertarian,0
+Barbour,14,President,,,Write-ins,0
+Barbour,14,U.S. Senate,,,Write-ins,0
+Barbour,14,Governor,,,Write-ins,0
+Barbour,14,Secretary of State,,,Write-ins,0
+Barbour,14,State Auditor,,,Write-ins,0
+Barbour,14,State Treasurer,,,Write-ins,0
+Barbour,14,Commissioner of Agriculture,,,Write-ins,0
+Barbour,14,Attorney General,,,Write-ins,0
+Barbour,14,State Senate,14,,Write-ins,0
+Barbour,14,State House,47,,Write-ins,0
+Barbour,15,Registered Voters,,,,223
+Barbour,15,Ballots Cast,,,,117
+Barbour,15,Straight Party,,,Republican,11
+Barbour,15,Straight Party,,,Democratic,1
+Barbour,15,Straight Party,,,Mountain,0
+Barbour,15,Straight Party,,,Libertarian,1
+Barbour,15,President,,,Write-ins,0
+Barbour,15,U.S. Senate,,,Write-ins,0
+Barbour,15,Governor,,,Write-ins,0
+Barbour,15,Secretary of State,,,Write-ins,0
+Barbour,15,State Auditor,,,Write-ins,0
+Barbour,15,State Treasurer,,,Write-ins,0
+Barbour,15,Commissioner of Agriculture,,,Write-ins,0
+Barbour,15,Attorney General,,,Write-ins,0
+Barbour,15,State Senate,14,,Write-ins,0
+Barbour,15,State House,47,,Write-ins,0
+Barbour,16,Registered Voters,,,,303
+Barbour,16,Ballots Cast,,,,164
+Barbour,16,Straight Party,,,Republican,18
+Barbour,16,Straight Party,,,Democratic,28
+Barbour,16,Straight Party,,,Mountain,1
+Barbour,16,Straight Party,,,Libertarian,1
+Barbour,16,President,,,Write-ins,0
+Barbour,16,U.S. Senate,,,Write-ins,0
+Barbour,16,Governor,,,Write-ins,0
+Barbour,16,Secretary of State,,,Write-ins,0
+Barbour,16,State Auditor,,,Write-ins,0
+Barbour,16,State Treasurer,,,Write-ins,0
+Barbour,16,Commissioner of Agriculture,,,Write-ins,0
+Barbour,16,Attorney General,,,Write-ins,0
+Barbour,16,State Senate,14,,Write-ins,0
+Barbour,16,State House,47,,Write-ins,1
