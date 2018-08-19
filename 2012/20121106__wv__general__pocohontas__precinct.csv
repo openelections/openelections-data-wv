@@ -1,0 +1,496 @@
+county,precinct,office,district,party,candidate,votes
+Pocahontas,1,Straight Party,,,Republican,9
+Pocahontas,2,Straight Party,,,Republican,16
+Pocahontas,3,Straight Party,,,Republican,32
+Pocahontas,4,Straight Party,,,Republican,9
+Pocahontas,6,Straight Party,,,Republican,7
+Pocahontas,10,Straight Party,,,Republican,22
+Pocahontas,12,Straight Party,,,Republican,15
+Pocahontas,13,Straight Party,,,Republican,12
+Pocahontas,15,Straight Party,,,Republican,12
+Pocahontas,18,Straight Party,,,Republican,11
+Pocahontas,21,Straight Party,,,Republican,10
+Pocahontas,23,Straight Party,,,Republican,21
+Pocahontas,26,Straight Party,,,Republican,7
+Pocahontas,27,Straight Party,,,Republican,12
+Pocahontas,29,Straight Party,,,Republican,12
+Pocahontas,1,Straight Party,,,Democratic,11
+Pocahontas,2,Straight Party,,,Democratic,10
+Pocahontas,3,Straight Party,,,Democratic,21
+Pocahontas,4,Straight Party,,,Democratic,8
+Pocahontas,6,Straight Party,,,Democratic,13
+Pocahontas,10,Straight Party,,,Democratic,28
+Pocahontas,12,Straight Party,,,Democratic,8
+Pocahontas,13,Straight Party,,,Democratic,9
+Pocahontas,15,Straight Party,,,Democratic,14
+Pocahontas,18,Straight Party,,,Democratic,4
+Pocahontas,21,Straight Party,,,Democratic,10
+Pocahontas,23,Straight Party,,,Democratic,17
+Pocahontas,26,Straight Party,,,Democratic,13
+Pocahontas,27,Straight Party,,,Democratic,35
+Pocahontas,29,Straight Party,,,Democratic,18
+Pocahontas,1,Straight Party,,,Mountain,0
+Pocahontas,2,Straight Party,,,Mountain,3
+Pocahontas,3,Straight Party,,,Mountain,0
+Pocahontas,4,Straight Party,,,Mountain,0
+Pocahontas,6,Straight Party,,,Mountain,1
+Pocahontas,10,Straight Party,,,Mountain,1
+Pocahontas,12,Straight Party,,,Mountain,0
+Pocahontas,13,Straight Party,,,Mountain,1
+Pocahontas,15,Straight Party,,,Mountain,1
+Pocahontas,18,Straight Party,,,Mountain,0
+Pocahontas,21,Straight Party,,,Mountain,1
+Pocahontas,23,Straight Party,,,Mountain,0
+Pocahontas,26,Straight Party,,,Mountain,0
+Pocahontas,27,Straight Party,,,Mountain,2
+Pocahontas,29,Straight Party,,,Mountain,0
+Pocahontas,1,Straight Party,,,Libertarian,0
+Pocahontas,2,Straight Party,,,Libertarian,0
+Pocahontas,3,Straight Party,,,Libertarian,2
+Pocahontas,4,Straight Party,,,Libertarian,0
+Pocahontas,6,Straight Party,,,Libertarian,2
+Pocahontas,10,Straight Party,,,Libertarian,0
+Pocahontas,12,Straight Party,,,Libertarian,0
+Pocahontas,13,Straight Party,,,Libertarian,0
+Pocahontas,15,Straight Party,,,Libertarian,1
+Pocahontas,18,Straight Party,,,Libertarian,0
+Pocahontas,21,Straight Party,,,Libertarian,0
+Pocahontas,23,Straight Party,,,Libertarian,0
+Pocahontas,26,Straight Party,,,Libertarian,0
+Pocahontas,27,Straight Party,,,Libertarian,0
+Pocahontas,29,Straight Party,,,Libertarian,2
+Pocahontas,1,President,,REP,Mitt Romney,149
+Pocahontas,2,President,,REP,Mitt Romney,152
+Pocahontas,3,President,,REP,Mitt Romney,247
+Pocahontas,4,President,,REP,Mitt Romney,35
+Pocahontas,6,President,,REP,Mitt Romney,86
+Pocahontas,10,President,,REP,Mitt Romney,220
+Pocahontas,12,President,,REP,Mitt Romney,221
+Pocahontas,13,President,,REP,Mitt Romney,152
+Pocahontas,15,President,,REP,Mitt Romney,107
+Pocahontas,18,President,,REP,Mitt Romney,111
+Pocahontas,21,President,,REP,Mitt Romney,111
+Pocahontas,23,President,,REP,Mitt Romney,244
+Pocahontas,26,President,,REP,Mitt Romney,92
+Pocahontas,27,President,,REP,Mitt Romney,173
+Pocahontas,29,President,,REP,Mitt Romney,82
+Pocahontas,1,President,,DEM,Barack Obama,50
+Pocahontas,2,President,,DEM,Barack Obama,45
+Pocahontas,3,President,,DEM,Barack Obama,140
+Pocahontas,4,President,,DEM,Barack Obama,40
+Pocahontas,6,President,,DEM,Barack Obama,66
+Pocahontas,10,President,,DEM,Barack Obama,163
+Pocahontas,12,President,,DEM,Barack Obama,89
+Pocahontas,13,President,,DEM,Barack Obama,93
+Pocahontas,15,President,,DEM,Barack Obama,93
+Pocahontas,18,President,,DEM,Barack Obama,56
+Pocahontas,21,President,,DEM,Barack Obama,45
+Pocahontas,23,President,,DEM,Barack Obama,125
+Pocahontas,26,President,,DEM,Barack Obama,68
+Pocahontas,27,President,,DEM,Barack Obama,145
+Pocahontas,29,President,,DEM,Barack Obama,85
+Pocahontas,1,President,,MTN,Jill Stein,1
+Pocahontas,2,President,,MTN,Jill Stein,3
+Pocahontas,3,President,,MTN,Jill Stein,7
+Pocahontas,4,President,,MTN,Jill Stein,1
+Pocahontas,6,President,,MTN,Jill Stein,3
+Pocahontas,10,President,,MTN,Jill Stein,3
+Pocahontas,12,President,,MTN,Jill Stein,0
+Pocahontas,13,President,,MTN,Jill Stein,4
+Pocahontas,15,President,,MTN,Jill Stein,1
+Pocahontas,18,President,,MTN,Jill Stein,0
+Pocahontas,21,President,,MTN,Jill Stein,4
+Pocahontas,23,President,,MTN,Jill Stein,0
+Pocahontas,26,President,,MTN,Jill Stein,0
+Pocahontas,27,President,,MTN,Jill Stein,5
+Pocahontas,29,President,,MTN,Jill Stein,1
+Pocahontas,1,President,,LIB,Gary Johnson,2
+Pocahontas,2,President,,LIB,Gary Johnson,0
+Pocahontas,3,President,,LIB,Gary Johnson,3
+Pocahontas,4,President,,LIB,Gary Johnson,1
+Pocahontas,6,President,,LIB,Gary Johnson,5
+Pocahontas,10,President,,LIB,Gary Johnson,0
+Pocahontas,12,President,,LIB,Gary Johnson,1
+Pocahontas,13,President,,LIB,Gary Johnson,3
+Pocahontas,15,President,,LIB,Gary Johnson,5
+Pocahontas,18,President,,LIB,Gary Johnson,3
+Pocahontas,21,President,,LIB,Gary Johnson,1
+Pocahontas,23,President,,LIB,Gary Johnson,2
+Pocahontas,26,President,,LIB,Gary Johnson,2
+Pocahontas,27,President,,LIB,Gary Johnson,4
+Pocahontas,29,President,,LIB,Gary Johnson,1
+Pocahontas,1,President,,,Randall Terry,4
+Pocahontas,2,President,,,Randall Terry,2
+Pocahontas,3,President,,,Randall Terry,0
+Pocahontas,4,President,,,Randall Terry,1
+Pocahontas,6,President,,,Randall Terry,1
+Pocahontas,10,President,,,Randall Terry,1
+Pocahontas,12,President,,,Randall Terry,2
+Pocahontas,13,President,,,Randall Terry,3
+Pocahontas,15,President,,,Randall Terry,2
+Pocahontas,18,President,,,Randall Terry,1
+Pocahontas,21,President,,,Randall Terry,2
+Pocahontas,23,President,,,Randall Terry,2
+Pocahontas,26,President,,,Randall Terry,1
+Pocahontas,27,President,,,Randall Terry,2
+Pocahontas,29,President,,,Randall Terry,1
+Pocahontas,1,U.S. Senate,,REP,John R. Raese,64
+Pocahontas,2,U.S. Senate,,REP,John R. Raese,87
+Pocahontas,3,U.S. Senate,,REP,John R. Raese,117
+Pocahontas,4,U.S. Senate,,REP,John R. Raese,23
+Pocahontas,6,U.S. Senate,,REP,John R. Raese,45
+Pocahontas,10,U.S. Senate,,REP,John R. Raese,103
+Pocahontas,12,U.S. Senate,,REP,John R. Raese,121
+Pocahontas,13,U.S. Senate,,REP,John R. Raese,70
+Pocahontas,15,U.S. Senate,,REP,John R. Raese,62
+Pocahontas,18,U.S. Senate,,REP,John R. Raese,54
+Pocahontas,21,U.S. Senate,,REP,John R. Raese,65
+Pocahontas,23,U.S. Senate,,REP,John R. Raese,144
+Pocahontas,26,U.S. Senate,,REP,John R. Raese,52
+Pocahontas,27,U.S. Senate,,REP,John R. Raese,75
+Pocahontas,29,U.S. Senate,,REP,John R. Raese,59
+Pocahontas,1,U.S. Senate,,DEM,Joe Manchin III,124
+Pocahontas,2,U.S. Senate,,DEM,Joe Manchin III,108
+Pocahontas,3,U.S. Senate,,DEM,Joe Manchin III,242
+Pocahontas,4,U.S. Senate,,DEM,Joe Manchin III,45
+Pocahontas,6,U.S. Senate,,DEM,Joe Manchin III,105
+Pocahontas,10,U.S. Senate,,DEM,Joe Manchin III,244
+Pocahontas,12,U.S. Senate,,DEM,Joe Manchin III,164
+Pocahontas,13,U.S. Senate,,DEM,Joe Manchin III,161
+Pocahontas,15,U.S. Senate,,DEM,Joe Manchin III,125
+Pocahontas,18,U.S. Senate,,DEM,Joe Manchin III,105
+Pocahontas,21,U.S. Senate,,DEM,Joe Manchin III,80
+Pocahontas,23,U.S. Senate,,DEM,Joe Manchin III,196
+Pocahontas,26,U.S. Senate,,DEM,Joe Manchin III,91
+Pocahontas,27,U.S. Senate,,DEM,Joe Manchin III,212
+Pocahontas,29,U.S. Senate,,DEM,Joe Manchin III,90
+Pocahontas,1,U.S. Senate,,,Bob Henry Baber,11
+Pocahontas,2,U.S. Senate,,,Bob Henry Baber,4
+Pocahontas,3,U.S. Senate,,,Bob Henry Baber,31
+Pocahontas,4,U.S. Senate,,,Bob Henry Baber,8
+Pocahontas,6,U.S. Senate,,,Bob Henry Baber,3
+Pocahontas,10,U.S. Senate,,,Bob Henry Baber,21
+Pocahontas,12,U.S. Senate,,,Bob Henry Baber,14
+Pocahontas,13,U.S. Senate,,,Bob Henry Baber,19
+Pocahontas,15,U.S. Senate,,,Bob Henry Baber,13
+Pocahontas,18,U.S. Senate,,,Bob Henry Baber,8
+Pocahontas,21,U.S. Senate,,,Bob Henry Baber,13
+Pocahontas,23,U.S. Senate,,,Bob Henry Baber,18
+Pocahontas,26,U.S. Senate,,,Bob Henry Baber,16
+Pocahontas,27,U.S. Senate,,,Bob Henry Baber,38
+Pocahontas,29,U.S. Senate,,,Bob Henry Baber,24
+Pocahontas,1,U.S. House,3,REP,Rick Snuffer,62
+Pocahontas,2,U.S. House,3,REP,Rick Snuffer,95
+Pocahontas,3,U.S. House,3,REP,Rick Snuffer,135
+Pocahontas,4,U.S. House,3,REP,Rick Snuffer,22
+Pocahontas,6,U.S. House,3,REP,Rick Snuffer,43
+Pocahontas,10,U.S. House,3,REP,Rick Snuffer,130
+Pocahontas,12,U.S. House,3,REP,Rick Snuffer,127
+Pocahontas,13,U.S. House,3,REP,Rick Snuffer,92
+Pocahontas,15,U.S. House,3,REP,Rick Snuffer,69
+Pocahontas,18,U.S. House,3,REP,Rick Snuffer,60
+Pocahontas,21,U.S. House,3,REP,Rick Snuffer,62
+Pocahontas,23,U.S. House,3,REP,Rick Snuffer,146
+Pocahontas,26,U.S. House,3,REP,Rick Snuffer,66
+Pocahontas,27,U.S. House,3,REP,Rick Snuffer,105
+Pocahontas,29,U.S. House,3,REP,Rick Snuffer,66
+Pocahontas,1,U.S. House,3,DEM,Nick J. Rahall II,124
+Pocahontas,2,U.S. House,3,DEM,Nick J. Rahall II,94
+Pocahontas,3,U.S. House,3,DEM,Nick J. Rahall II,241
+Pocahontas,4,U.S. House,3,DEM,Nick J. Rahall II,52
+Pocahontas,6,U.S. House,3,DEM,Nick J. Rahall II,109
+Pocahontas,10,U.S. House,3,DEM,Nick J. Rahall II,243
+Pocahontas,12,U.S. House,3,DEM,Nick J. Rahall II,163
+Pocahontas,13,U.S. House,3,DEM,Nick J. Rahall II,156
+Pocahontas,15,U.S. House,3,DEM,Nick J. Rahall II,116
+Pocahontas,18,U.S. House,3,DEM,Nick J. Rahall II,99
+Pocahontas,21,U.S. House,3,DEM,Nick J. Rahall II,85
+Pocahontas,23,U.S. House,3,DEM,Nick J. Rahall II,201
+Pocahontas,26,U.S. House,3,DEM,Nick J. Rahall II,90
+Pocahontas,27,U.S. House,3,DEM,Nick J. Rahall II,217
+Pocahontas,29,U.S. House,3,DEM,Nick J. Rahall II,107
+Pocahontas,1,Governor,,REP,Bill Maloney,61
+Pocahontas,2,Governor,,REP,Bill Maloney,100
+Pocahontas,3,Governor,,REP,Bill Maloney,151
+Pocahontas,4,Governor,,REP,Bill Maloney,23
+Pocahontas,6,Governor,,REP,Bill Maloney,42
+Pocahontas,10,Governor,,REP,Bill Maloney,154
+Pocahontas,12,Governor,,REP,Bill Maloney,144
+Pocahontas,13,Governor,,REP,Bill Maloney,98
+Pocahontas,15,Governor,,REP,Bill Maloney,85
+Pocahontas,18,Governor,,REP,Bill Maloney,67
+Pocahontas,21,Governor,,REP,Bill Maloney,71
+Pocahontas,23,Governor,,REP,Bill Maloney,163
+Pocahontas,26,Governor,,REP,Bill Maloney,68
+Pocahontas,27,Governor,,REP,Bill Maloney,95
+Pocahontas,29,Governor,,REP,Bill Maloney,62
+Pocahontas,1,Governor,,DEM,Earl Ray Tomblin,132
+Pocahontas,2,Governor,,DEM,Earl Ray Tomblin,87
+Pocahontas,3,Governor,,DEM,Earl Ray Tomblin,207
+Pocahontas,4,Governor,,DEM,Earl Ray Tomblin,49
+Pocahontas,6,Governor,,DEM,Earl Ray Tomblin,108
+Pocahontas,10,Governor,,DEM,Earl Ray Tomblin,198
+Pocahontas,12,Governor,,DEM,Earl Ray Tomblin,143
+Pocahontas,13,Governor,,DEM,Earl Ray Tomblin,140
+Pocahontas,15,Governor,,DEM,Earl Ray Tomblin,102
+Pocahontas,18,Governor,,DEM,Earl Ray Tomblin,91
+Pocahontas,21,Governor,,DEM,Earl Ray Tomblin,75
+Pocahontas,23,Governor,,DEM,Earl Ray Tomblin,173
+Pocahontas,26,Governor,,DEM,Earl Ray Tomblin,73
+Pocahontas,27,Governor,,DEM,Earl Ray Tomblin,196
+Pocahontas,29,Governor,,DEM,Earl Ray Tomblin,89
+Pocahontas,1,Governor,,MTN,Jesse Johnson,8
+Pocahontas,2,Governor,,MTN,Jesse Johnson,12
+Pocahontas,3,Governor,,MTN,Jesse Johnson,19
+Pocahontas,4,Governor,,MTN,Jesse Johnson,3
+Pocahontas,6,Governor,,MTN,Jesse Johnson,3
+Pocahontas,10,Governor,,MTN,Jesse Johnson,17
+Pocahontas,12,Governor,,MTN,Jesse Johnson,12
+Pocahontas,13,Governor,,MTN,Jesse Johnson,6
+Pocahontas,15,Governor,,MTN,Jesse Johnson,13
+Pocahontas,18,Governor,,MTN,Jesse Johnson,6
+Pocahontas,21,Governor,,MTN,Jesse Johnson,7
+Pocahontas,23,Governor,,MTN,Jesse Johnson,17
+Pocahontas,26,Governor,,MTN,Jesse Johnson,12
+Pocahontas,27,Governor,,MTN,Jesse Johnson,30
+Pocahontas,29,Governor,,MTN,Jesse Johnson,20
+Pocahontas,1,Governor,,,David Moran,2
+Pocahontas,2,Governor,,,David Moran,2
+Pocahontas,3,Governor,,,David Moran,6
+Pocahontas,4,Governor,,,David Moran,0
+Pocahontas,6,Governor,,,David Moran,4
+Pocahontas,10,Governor,,,David Moran,11
+Pocahontas,12,Governor,,,David Moran,3
+Pocahontas,13,Governor,,,David Moran,6
+Pocahontas,15,Governor,,,David Moran,1
+Pocahontas,18,Governor,,,David Moran,3
+Pocahontas,21,Governor,,,David Moran,2
+Pocahontas,23,Governor,,,David Moran,8
+Pocahontas,26,Governor,,,David Moran,2
+Pocahontas,27,Governor,,,David Moran,6
+Pocahontas,29,Governor,,,David Moran,1
+Pocahontas,1,Secretary of State,,REP,Brian Savilla,57
+Pocahontas,2,Secretary of State,,REP,Brian Savilla,82
+Pocahontas,3,Secretary of State,,REP,Brian Savilla,122
+Pocahontas,4,Secretary of State,,REP,Brian Savilla,20
+Pocahontas,6,Secretary of State,,REP,Brian Savilla,45
+Pocahontas,10,Secretary of State,,REP,Brian Savilla,105
+Pocahontas,12,Secretary of State,,REP,Brian Savilla,106
+Pocahontas,13,Secretary of State,,REP,Brian Savilla,85
+Pocahontas,15,Secretary of State,,REP,Brian Savilla,47
+Pocahontas,18,Secretary of State,,REP,Brian Savilla,62
+Pocahontas,21,Secretary of State,,REP,Brian Savilla,62
+Pocahontas,23,Secretary of State,,REP,Brian Savilla,132
+Pocahontas,26,Secretary of State,,REP,Brian Savilla,45
+Pocahontas,27,Secretary of State,,REP,Brian Savilla,74
+Pocahontas,29,Secretary of State,,REP,Brian Savilla,48
+Pocahontas,1,Secretary of State,,DEM,Natalie E. Tennant,128
+Pocahontas,2,Secretary of State,,DEM,Natalie E. Tennant,105
+Pocahontas,3,Secretary of State,,DEM,Natalie E. Tennant,247
+Pocahontas,4,Secretary of State,,DEM,Natalie E. Tennant,49
+Pocahontas,6,Secretary of State,,DEM,Natalie E. Tennant,99
+Pocahontas,10,Secretary of State,,DEM,Natalie E. Tennant,259
+Pocahontas,12,Secretary of State,,DEM,Natalie E. Tennant,175
+Pocahontas,13,Secretary of State,,DEM,Natalie E. Tennant,158
+Pocahontas,15,Secretary of State,,DEM,Natalie E. Tennant,139
+Pocahontas,18,Secretary of State,,DEM,Natalie E. Tennant,88
+Pocahontas,21,Secretary of State,,DEM,Natalie E. Tennant,85
+Pocahontas,23,Secretary of State,,DEM,Natalie E. Tennant,207
+Pocahontas,26,Secretary of State,,DEM,Natalie E. Tennant,104
+Pocahontas,27,Secretary of State,,DEM,Natalie E. Tennant,238
+Pocahontas,29,Secretary of State,,DEM,Natalie E. Tennant,111
+Pocahontas,1,Auditor,,REP,Larry V. Faircloth,61
+Pocahontas,2,Auditor,,REP,Larry V. Faircloth,80
+Pocahontas,3,Auditor,,REP,Larry V. Faircloth,121
+Pocahontas,4,Auditor,,REP,Larry V. Faircloth,19
+Pocahontas,6,Auditor,,REP,Larry V. Faircloth,39
+Pocahontas,10,Auditor,,REP,Larry V. Faircloth,107
+Pocahontas,12,Auditor,,REP,Larry V. Faircloth,102
+Pocahontas,13,Auditor,,REP,Larry V. Faircloth,75
+Pocahontas,15,Auditor,,REP,Larry V. Faircloth,62
+Pocahontas,18,Auditor,,REP,Larry V. Faircloth,53
+Pocahontas,21,Auditor,,REP,Larry V. Faircloth,64
+Pocahontas,23,Auditor,,REP,Larry V. Faircloth,117
+Pocahontas,26,Auditor,,REP,Larry V. Faircloth,46
+Pocahontas,27,Auditor,,REP,Larry V. Faircloth,84
+Pocahontas,29,Auditor,,REP,Larry V. Faircloth,45
+Pocahontas,1,Auditor,,DEM,Glen B. Gainer III,126
+Pocahontas,2,Auditor,,DEM,Glen B. Gainer III,109
+Pocahontas,3,Auditor,,DEM,Glen B. Gainer III,242
+Pocahontas,4,Auditor,,DEM,Glen B. Gainer III,54
+Pocahontas,6,Auditor,,DEM,Glen B. Gainer III,109
+Pocahontas,10,Auditor,,DEM,Glen B. Gainer III,258
+Pocahontas,12,Auditor,,DEM,Glen B. Gainer III,181
+Pocahontas,13,Auditor,,DEM,Glen B. Gainer III,163
+Pocahontas,15,Auditor,,DEM,Glen B. Gainer III,119
+Pocahontas,18,Auditor,,DEM,Glen B. Gainer III,101
+Pocahontas,21,Auditor,,DEM,Glen B. Gainer III,81
+Pocahontas,23,Auditor,,DEM,Glen B. Gainer III,228
+Pocahontas,26,Auditor,,DEM,Glen B. Gainer III,99
+Pocahontas,27,Auditor,,DEM,Glen B. Gainer III,220
+Pocahontas,29,Auditor,,DEM,Glen B. Gainer III,119
+Pocahontas,1,Treasurer,,REP,Mike Hall,66
+Pocahontas,2,Treasurer,,REP,Mike Hall,90
+Pocahontas,3,Treasurer,,REP,Mike Hall,146
+Pocahontas,4,Treasurer,,REP,Mike Hall,20
+Pocahontas,6,Treasurer,,REP,Mike Hall,45
+Pocahontas,10,Treasurer,,REP,Mike Hall,135
+Pocahontas,12,Treasurer,,REP,Mike Hall,116
+Pocahontas,13,Treasurer,,REP,Mike Hall,89
+Pocahontas,15,Treasurer,,REP,Mike Hall,74
+Pocahontas,18,Treasurer,,REP,Mike Hall,76
+Pocahontas,21,Treasurer,,REP,Mike Hall,74
+Pocahontas,23,Treasurer,,REP,Mike Hall,135
+Pocahontas,26,Treasurer,,REP,Mike Hall,50
+Pocahontas,27,Treasurer,,REP,Mike Hall,85
+Pocahontas,29,Treasurer,,REP,Mike Hall,48
+Pocahontas,1,Treasurer,,DEM,John D. Perdue,119
+Pocahontas,2,Treasurer,,DEM,John D. Perdue,104
+Pocahontas,3,Treasurer,,DEM,John D. Perdue,217
+Pocahontas,4,Treasurer,,DEM,John D. Perdue,53
+Pocahontas,6,Treasurer,,DEM,John D. Perdue,100
+Pocahontas,10,Treasurer,,DEM,John D. Perdue,229
+Pocahontas,12,Treasurer,,DEM,John D. Perdue,166
+Pocahontas,13,Treasurer,,DEM,John D. Perdue,150
+Pocahontas,15,Treasurer,,DEM,John D. Perdue,111
+Pocahontas,18,Treasurer,,DEM,John D. Perdue,81
+Pocahontas,21,Treasurer,,DEM,John D. Perdue,76
+Pocahontas,23,Treasurer,,DEM,John D. Perdue,208
+Pocahontas,26,Treasurer,,DEM,John D. Perdue,93
+Pocahontas,27,Treasurer,,DEM,John D. Perdue,227
+Pocahontas,29,Treasurer,,DEM,John D. Perdue,110
+Pocahontas,1,Commissioner of Agriculture,,REP,Kent Leonhardt,64
+Pocahontas,2,Commissioner of Agriculture,,REP,Kent Leonhardt,76
+Pocahontas,3,Commissioner of Agriculture,,REP,Kent Leonhardt,146
+Pocahontas,4,Commissioner of Agriculture,,REP,Kent Leonhardt,32
+Pocahontas,6,Commissioner of Agriculture,,REP,Kent Leonhardt,61
+Pocahontas,10,Commissioner of Agriculture,,REP,Kent Leonhardt,114
+Pocahontas,12,Commissioner of Agriculture,,REP,Kent Leonhardt,111
+Pocahontas,13,Commissioner of Agriculture,,REP,Kent Leonhardt,79
+Pocahontas,15,Commissioner of Agriculture,,REP,Kent Leonhardt,72
+Pocahontas,18,Commissioner of Agriculture,,REP,Kent Leonhardt,59
+Pocahontas,21,Commissioner of Agriculture,,REP,Kent Leonhardt,71
+Pocahontas,23,Commissioner of Agriculture,,REP,Kent Leonhardt,141
+Pocahontas,26,Commissioner of Agriculture,,REP,Kent Leonhardt,72
+Pocahontas,27,Commissioner of Agriculture,,REP,Kent Leonhardt,121
+Pocahontas,29,Commissioner of Agriculture,,REP,Kent Leonhardt,66
+Pocahontas,1,Commissioner of Agriculture,,DEM,Walt Helmick,136
+Pocahontas,2,Commissioner of Agriculture,,DEM,Walt Helmick,123
+Pocahontas,3,Commissioner of Agriculture,,DEM,Walt Helmick,238
+Pocahontas,4,Commissioner of Agriculture,,DEM,Walt Helmick,46
+Pocahontas,6,Commissioner of Agriculture,,DEM,Walt Helmick,100
+Pocahontas,10,Commissioner of Agriculture,,DEM,Walt Helmick,267
+Pocahontas,12,Commissioner of Agriculture,,DEM,Walt Helmick,193
+Pocahontas,13,Commissioner of Agriculture,,DEM,Walt Helmick,175
+Pocahontas,15,Commissioner of Agriculture,,DEM,Walt Helmick,131
+Pocahontas,18,Commissioner of Agriculture,,DEM,Walt Helmick,110
+Pocahontas,21,Commissioner of Agriculture,,DEM,Walt Helmick,87
+Pocahontas,23,Commissioner of Agriculture,,DEM,Walt Helmick,227
+Pocahontas,26,Commissioner of Agriculture,,DEM,Walt Helmick,87
+Pocahontas,27,Commissioner of Agriculture,,DEM,Walt Helmick,198
+Pocahontas,29,Commissioner of Agriculture,,DEM,Walt Helmick,103
+Pocahontas,1,Attorney General,,REP,Patrick Morrisey,69
+Pocahontas,2,Attorney General,,REP,Patrick Morrisey,92
+Pocahontas,3,Attorney General,,REP,Patrick Morrisey,144
+Pocahontas,4,Attorney General,,REP,Patrick Morrisey,21
+Pocahontas,6,Attorney General,,REP,Patrick Morrisey,51
+Pocahontas,10,Attorney General,,REP,Patrick Morrisey,141
+Pocahontas,12,Attorney General,,REP,Patrick Morrisey,119
+Pocahontas,13,Attorney General,,REP,Patrick Morrisey,92
+Pocahontas,15,Attorney General,,REP,Patrick Morrisey,75
+Pocahontas,18,Attorney General,,REP,Patrick Morrisey,69
+Pocahontas,21,Attorney General,,REP,Patrick Morrisey,62
+Pocahontas,23,Attorney General,,REP,Patrick Morrisey,148
+Pocahontas,26,Attorney General,,REP,Patrick Morrisey,56
+Pocahontas,27,Attorney General,,REP,Patrick Morrisey,89
+Pocahontas,29,Attorney General,,REP,Patrick Morrisey,62
+Pocahontas,1,Attorney General,,DEM,Darrell V. McGraw Jr.,127
+Pocahontas,2,Attorney General,,DEM,Darrell V. McGraw Jr.,100
+Pocahontas,3,Attorney General,,DEM,Darrell V. McGraw Jr.,229
+Pocahontas,4,Attorney General,,DEM,Darrell V. McGraw Jr.,53
+Pocahontas,6,Attorney General,,DEM,Darrell V. McGraw Jr.,100
+Pocahontas,10,Attorney General,,DEM,Darrell V. McGraw Jr.,233
+Pocahontas,12,Attorney General,,DEM,Darrell V. McGraw Jr.,168
+Pocahontas,13,Attorney General,,DEM,Darrell V. McGraw Jr.,153
+Pocahontas,15,Attorney General,,DEM,Darrell V. McGraw Jr.,113
+Pocahontas,18,Attorney General,,DEM,Darrell V. McGraw Jr.,87
+Pocahontas,21,Attorney General,,DEM,Darrell V. McGraw Jr.,86
+Pocahontas,23,Attorney General,,DEM,Darrell V. McGraw Jr.,202
+Pocahontas,26,Attorney General,,DEM,Darrell V. McGraw Jr.,98
+Pocahontas,27,Attorney General,,DEM,Darrell V. McGraw Jr.,230
+Pocahontas,29,Attorney General,,DEM,Darrell V. McGraw Jr.,103
+Pocahontas,1,State Senate,11,REP,Clark Barnes,130
+Pocahontas,2,State Senate,11,REP,Clark Barnes,139
+Pocahontas,3,State Senate,11,REP,Clark Barnes,227
+Pocahontas,4,State Senate,11,REP,Clark Barnes,45
+Pocahontas,6,State Senate,11,REP,Clark Barnes,91
+Pocahontas,10,State Senate,11,REP,Clark Barnes,207
+Pocahontas,12,State Senate,11,REP,Clark Barnes,211
+Pocahontas,13,State Senate,11,REP,Clark Barnes,171
+Pocahontas,15,State Senate,11,REP,Clark Barnes,116
+Pocahontas,18,State Senate,11,REP,Clark Barnes,103
+Pocahontas,21,State Senate,11,REP,Clark Barnes,106
+Pocahontas,23,State Senate,11,REP,Clark Barnes,230
+Pocahontas,26,State Senate,11,REP,Clark Barnes,84
+Pocahontas,27,State Senate,11,REP,Clark Barnes,162
+Pocahontas,29,State Senate,11,REP,Clark Barnes,78
+Pocahontas,1,State Senate,11,DEM,Margaret Kerr Beckwith,62
+Pocahontas,2,State Senate,11,DEM,Margaret Kerr Beckwith,56
+Pocahontas,3,State Senate,11,DEM,Margaret Kerr Beckwith,151
+Pocahontas,4,State Senate,11,DEM,Margaret Kerr Beckwith,28
+Pocahontas,6,State Senate,11,DEM,Margaret Kerr Beckwith,61
+Pocahontas,10,State Senate,11,DEM,Margaret Kerr Beckwith,157
+Pocahontas,12,State Senate,11,DEM,Margaret Kerr Beckwith,82
+Pocahontas,13,State Senate,11,DEM,Margaret Kerr Beckwith,76
+Pocahontas,15,State Senate,11,DEM,Margaret Kerr Beckwith,78
+Pocahontas,18,State Senate,11,DEM,Margaret Kerr Beckwith,60
+Pocahontas,21,State Senate,11,DEM,Margaret Kerr Beckwith,50
+Pocahontas,23,State Senate,11,DEM,Margaret Kerr Beckwith,115
+Pocahontas,26,State Senate,11,DEM,Margaret Kerr Beckwith,65
+Pocahontas,27,State Senate,11,DEM,Margaret Kerr Beckwith,156
+Pocahontas,29,State Senate,11,DEM,Margaret Kerr Beckwith,84
+Pocahontas,1,State House,43,REP,Donna Auvil,67
+Pocahontas,2,State House,43,REP,Donna Auvil,91
+Pocahontas,3,State House,43,REP,Donna Auvil,117
+Pocahontas,4,State House,43,REP,Donna Auvil,22
+Pocahontas,6,State House,43,REP,Donna Auvil,42
+Pocahontas,10,State House,43,REP,Donna Auvil,135
+Pocahontas,12,State House,43,REP,Donna Auvil,100
+Pocahontas,13,State House,43,REP,Donna Auvil,72
+Pocahontas,15,State House,43,REP,Donna Auvil,63
+Pocahontas,18,State House,43,REP,Donna Auvil,55
+Pocahontas,21,State House,43,REP,Donna Auvil,62
+Pocahontas,23,State House,43,REP,Donna Auvil,103
+Pocahontas,26,State House,43,REP,Donna Auvil,50
+Pocahontas,27,State House,43,REP,Donna Auvil,74
+Pocahontas,29,State House,43,REP,Donna Auvil,48
+Pocahontas,1,State House,43,DEM,Denise L. Campbell,123
+Pocahontas,2,State House,43,DEM,Denise L. Campbell,125
+Pocahontas,3,State House,43,DEM,Denise L. Campbell,269
+Pocahontas,4,State House,43,DEM,Denise L. Campbell,46
+Pocahontas,6,State House,43,DEM,Denise L. Campbell,104
+Pocahontas,10,State House,43,DEM,Denise L. Campbell,241
+Pocahontas,12,State House,43,DEM,Denise L. Campbell,203
+Pocahontas,13,State House,43,DEM,Denise L. Campbell,169
+Pocahontas,15,State House,43,DEM,Denise L. Campbell,130
+Pocahontas,18,State House,43,DEM,Denise L. Campbell,99
+Pocahontas,21,State House,43,DEM,Denise L. Campbell,101
+Pocahontas,23,State House,43,DEM,Denise L. Campbell,218
+Pocahontas,26,State House,43,DEM,Denise L. Campbell,85
+Pocahontas,27,State House,43,DEM,Denise L. Campbell,228
+Pocahontas,29,State House,43,DEM,Denise L. Campbell,108
+Pocahontas,1,State House,43,DEM,Bill Hartman,120
+Pocahontas,2,State House,43,DEM,Bill Hartman,98
+Pocahontas,3,State House,43,DEM,Bill Hartman,238
+Pocahontas,4,State House,43,DEM,Bill Hartman,49
+Pocahontas,6,State House,43,DEM,Bill Hartman,114
+Pocahontas,10,State House,43,DEM,Bill Hartman,227
+Pocahontas,12,State House,43,DEM,Bill Hartman,179
+Pocahontas,13,State House,43,DEM,Bill Hartman,151
+Pocahontas,15,State House,43,DEM,Bill Hartman,102
+Pocahontas,18,State House,43,DEM,Bill Hartman,89
+Pocahontas,21,State House,43,DEM,Bill Hartman,91
+Pocahontas,23,State House,43,DEM,Bill Hartman,203
+Pocahontas,26,State House,43,DEM,Bill Hartman,93
+Pocahontas,27,State House,43,DEM,Bill Hartman,215
+Pocahontas,29,State House,43,DEM,Bill Hartman,92
