@@ -1,0 +1,379 @@
+county,precinct,office,district,party,candidate,votes
+Hardy,1A,President,,DEM,Barack Obama,60
+Hardy,2A,President,,DEM,Barack Obama,168
+Hardy,3,President,,DEM,Barack Obama,54
+Hardy,5,President,,DEM,Barack Obama,131
+Hardy,6,President,,DEM,Barack Obama,86
+Hardy,7,President,,DEM,Barack Obama,96
+Hardy,12A,President,,DEM,Barack Obama,157
+Hardy,13A,President,,DEM,Barack Obama,115
+Hardy,14A,President,,DEM,Barack Obama,151
+Hardy,15,President,,DEM,Barack Obama,55
+Hardy,16,President,,DEM,Barack Obama,190
+Hardy,18,President,,DEM,Barack Obama,94
+Hardy,19,President,,DEM,Barack Obama,97
+Hardy,20,President,,DEM,Barack Obama,28
+Hardy,1A,President,,REP,Mitt Romney,117
+Hardy,2A,President,,REP,Mitt Romney,367
+Hardy,3,President,,REP,Mitt Romney,136
+Hardy,5,President,,REP,Mitt Romney,279
+Hardy,6,President,,REP,Mitt Romney,234
+Hardy,7,President,,REP,Mitt Romney,272
+Hardy,12A,President,,REP,Mitt Romney,244
+Hardy,13A,President,,REP,Mitt Romney,218
+Hardy,14A,President,,REP,Mitt Romney,250
+Hardy,15,President,,REP,Mitt Romney,162
+Hardy,16,President,,REP,Mitt Romney,433
+Hardy,18,President,,REP,Mitt Romney,361
+Hardy,19,President,,REP,Mitt Romney,370
+Hardy,20,President,,REP,Mitt Romney,93
+Hardy,1A,President,,LIB,Gary Johnson,3
+Hardy,2A,President,,LIB,Gary Johnson,5
+Hardy,3,President,,LIB,Gary Johnson,3
+Hardy,5,President,,LIB,Gary Johnson,4
+Hardy,6,President,,LIB,Gary Johnson,4
+Hardy,7,President,,LIB,Gary Johnson,1
+Hardy,12A,President,,LIB,Gary Johnson,2
+Hardy,13A,President,,LIB,Gary Johnson,1
+Hardy,14A,President,,LIB,Gary Johnson,5
+Hardy,15,President,,LIB,Gary Johnson,5
+Hardy,16,President,,LIB,Gary Johnson,5
+Hardy,18,President,,LIB,Gary Johnson,6
+Hardy,19,President,,LIB,Gary Johnson,3
+Hardy,20,President,,LIB,Gary Johnson,0
+Hardy,1A,President,,MTN,Jill Stein,3
+Hardy,2A,President,,MTN,Jill Stein,8
+Hardy,3,President,,MTN,Jill Stein,2
+Hardy,5,President,,MTN,Jill Stein,0
+Hardy,6,President,,MTN,Jill Stein,7
+Hardy,7,President,,MTN,Jill Stein,2
+Hardy,12A,President,,MTN,Jill Stein,2
+Hardy,13A,President,,MTN,Jill Stein,4
+Hardy,14A,President,,MTN,Jill Stein,1
+Hardy,15,President,,MTN,Jill Stein,0
+Hardy,16,President,,MTN,Jill Stein,6
+Hardy,18,President,,MTN,Jill Stein,3
+Hardy,19,President,,MTN,Jill Stein,3
+Hardy,20,President,,MTN,Jill Stein,2
+Hardy,1A,President,,,Randall Terry,1
+Hardy,2A,President,,,Randall Terry,3
+Hardy,3,President,,,Randall Terry,1
+Hardy,5,President,,,Randall Terry,6
+Hardy,6,President,,,Randall Terry,7
+Hardy,7,President,,,Randall Terry,6
+Hardy,12A,President,,,Randall Terry,7
+Hardy,13A,President,,,Randall Terry,2
+Hardy,14A,President,,,Randall Terry,6
+Hardy,15,President,,,Randall Terry,2
+Hardy,16,President,,,Randall Terry,8
+Hardy,18,President,,,Randall Terry,1
+Hardy,19,President,,,Randall Terry,7
+Hardy,20,President,,,Randall Terry,3
+Hardy,1A,U.S. Senate,,DEM,Joe Manchin III,96
+Hardy,2A,U.S. Senate,,DEM,Joe Manchin III,298
+Hardy,3,U.S. Senate,,DEM,Joe Manchin III,104
+Hardy,5,U.S. Senate,,DEM,Joe Manchin III,233
+Hardy,6,U.S. Senate,,DEM,Joe Manchin III,171
+Hardy,7,U.S. Senate,,DEM,Joe Manchin III,168
+Hardy,12A,U.S. Senate,,DEM,Joe Manchin III,238
+Hardy,13A,U.S. Senate,,DEM,Joe Manchin III,200
+Hardy,14A,U.S. Senate,,DEM,Joe Manchin III,248
+Hardy,15,U.S. Senate,,DEM,Joe Manchin III,113
+Hardy,16,U.S. Senate,,DEM,Joe Manchin III,367
+Hardy,18,U.S. Senate,,DEM,Joe Manchin III,225
+Hardy,19,U.S. Senate,,DEM,Joe Manchin III,225
+Hardy,20,U.S. Senate,,DEM,Joe Manchin III,77
+Hardy,1A,U.S. Senate,,REP,John R. Raese,74
+Hardy,2A,U.S. Senate,,REP,John R. Raese,224
+Hardy,3,U.S. Senate,,REP,John R. Raese,87
+Hardy,5,U.S. Senate,,REP,John R. Raese,176
+Hardy,6,U.S. Senate,,REP,John R. Raese,159
+Hardy,7,U.S. Senate,,REP,John R. Raese,181
+Hardy,12A,U.S. Senate,,REP,John R. Raese,151
+Hardy,13A,U.S. Senate,,REP,John R. Raese,129
+Hardy,14A,U.S. Senate,,REP,John R. Raese,145
+Hardy,15,U.S. Senate,,REP,John R. Raese,95
+Hardy,16,U.S. Senate,,REP,John R. Raese,254
+Hardy,18,U.S. Senate,,REP,John R. Raese,217
+Hardy,19,U.S. Senate,,REP,John R. Raese,231
+Hardy,20,U.S. Senate,,REP,John R. Raese,47
+Hardy,1A,U.S. Senate,,MTN,Bob Henry Baber,5
+Hardy,2A,U.S. Senate,,MTN,Bob Henry Baber,18
+Hardy,3,U.S. Senate,,MTN,Bob Henry Baber,2
+Hardy,5,U.S. Senate,,MTN,Bob Henry Baber,9
+Hardy,6,U.S. Senate,,MTN,Bob Henry Baber,12
+Hardy,7,U.S. Senate,,MTN,Bob Henry Baber,12
+Hardy,12A,U.S. Senate,,MTN,Bob Henry Baber,11
+Hardy,13A,U.S. Senate,,MTN,Bob Henry Baber,3
+Hardy,14A,U.S. Senate,,MTN,Bob Henry Baber,13
+Hardy,15,U.S. Senate,,MTN,Bob Henry Baber,5
+Hardy,16,U.S. Senate,,MTN,Bob Henry Baber,14
+Hardy,18,U.S. Senate,,MTN,Bob Henry Baber,8
+Hardy,19,U.S. Senate,,MTN,Bob Henry Baber,8
+Hardy,20,U.S. Senate,,MTN,Bob Henry Baber,4
+Hardy,1A,U.S. House,2,DEM,Howard Swint,50
+Hardy,2A,U.S. House,2,DEM,Howard Swint,137
+Hardy,3,U.S. House,2,DEM,Howard Swint,33
+Hardy,5,U.S. House,2,DEM,Howard Swint,109
+Hardy,6,U.S. House,2,DEM,Howard Swint,74
+Hardy,7,U.S. House,2,DEM,Howard Swint,68
+Hardy,12A,U.S. House,2,DEM,Howard Swint,90
+Hardy,13A,U.S. House,2,DEM,Howard Swint,67
+Hardy,14A,U.S. House,2,DEM,Howard Swint,96
+Hardy,15,U.S. House,2,DEM,Howard Swint,46
+Hardy,16,U.S. House,2,DEM,Howard Swint,146
+Hardy,18,U.S. House,2,DEM,Howard Swint,80
+Hardy,19,U.S. House,2,DEM,Howard Swint,75
+Hardy,20,U.S. House,2,DEM,Howard Swint,23
+Hardy,1A,U.S. House,2,REP,Shelley Moore Capito,121
+Hardy,2A,U.S. House,2,REP,Shelley Moore Capito,387
+Hardy,3,U.S. House,2,REP,Shelley Moore Capito,161
+Hardy,5,U.S. House,2,REP,Shelley Moore Capito,300
+Hardy,6,U.S. House,2,REP,Shelley Moore Capito,266
+Hardy,7,U.S. House,2,REP,Shelley Moore Capito,288
+Hardy,12A,U.S. House,2,REP,Shelley Moore Capito,298
+Hardy,13A,U.S. House,2,REP,Shelley Moore Capito,256
+Hardy,14A,U.S. House,2,REP,Shelley Moore Capito,295
+Hardy,15,U.S. House,2,REP,Shelley Moore Capito,160
+Hardy,16,U.S. House,2,REP,Shelley Moore Capito,477
+Hardy,18,U.S. House,2,REP,Shelley Moore Capito,360
+Hardy,19,U.S. House,2,REP,Shelley Moore Capito,375
+Hardy,20,U.S. House,2,REP,Shelley Moore Capito,103
+Hardy,1A,Governor,,DEM,Earl Ray Tomblin,92
+Hardy,2A,Governor,,DEM,Earl Ray Tomblin,282
+Hardy,3,Governor,,DEM,Earl Ray Tomblin,104
+Hardy,5,Governor,,DEM,Earl Ray Tomblin,230
+Hardy,6,Governor,,DEM,Earl Ray Tomblin,167
+Hardy,7,Governor,,DEM,Earl Ray Tomblin,159
+Hardy,12A,Governor,,DEM,Earl Ray Tomblin,260
+Hardy,13A,Governor,,DEM,Earl Ray Tomblin,217
+Hardy,14A,Governor,,DEM,Earl Ray Tomblin,255
+Hardy,15,Governor,,DEM,Earl Ray Tomblin,122
+Hardy,16,Governor,,DEM,Earl Ray Tomblin,396
+Hardy,18,Governor,,DEM,Earl Ray Tomblin,244
+Hardy,19,Governor,,DEM,Earl Ray Tomblin,265
+Hardy,20,Governor,,DEM,Earl Ray Tomblin,75
+Hardy,1A,Governor,,REP,Bill Maloney,76
+Hardy,2A,Governor,,REP,Bill Maloney,237
+Hardy,3,Governor,,REP,Bill Maloney,84
+Hardy,5,Governor,,REP,Bill Maloney,175
+Hardy,6,Governor,,REP,Bill Maloney,161
+Hardy,7,Governor,,REP,Bill Maloney,195
+Hardy,12A,Governor,,REP,Bill Maloney,135
+Hardy,13A,Governor,,REP,Bill Maloney,116
+Hardy,14A,Governor,,REP,Bill Maloney,142
+Hardy,15,Governor,,REP,Bill Maloney,89
+Hardy,16,Governor,,REP,Bill Maloney,220
+Hardy,18,Governor,,REP,Bill Maloney,201
+Hardy,19,Governor,,REP,Bill Maloney,192
+Hardy,20,Governor,,REP,Bill Maloney,51
+Hardy,1A,Governor,,LIB,David Moran,4
+Hardy,2A,Governor,,LIB,David Moran,14
+Hardy,3,Governor,,LIB,David Moran,7
+Hardy,5,Governor,,LIB,David Moran,7
+Hardy,6,Governor,,LIB,David Moran,8
+Hardy,7,Governor,,LIB,David Moran,5
+Hardy,12A,Governor,,LIB,David Moran,4
+Hardy,13A,Governor,,LIB,David Moran,4
+Hardy,14A,Governor,,LIB,David Moran,6
+Hardy,15,Governor,,LIB,David Moran,3
+Hardy,16,Governor,,LIB,David Moran,10
+Hardy,18,Governor,,LIB,David Moran,10
+Hardy,19,Governor,,LIB,David Moran,7
+Hardy,20,Governor,,LIB,David Moran,2
+Hardy,1A,Governor,,MTN,Jesse Johnson,5
+Hardy,2A,Governor,,MTN,Jesse Johnson,14
+Hardy,3,Governor,,MTN,Jesse Johnson,2
+Hardy,5,Governor,,MTN,Jesse Johnson,11
+Hardy,6,Governor,,MTN,Jesse Johnson,7
+Hardy,7,Governor,,MTN,Jesse Johnson,11
+Hardy,12A,Governor,,MTN,Jesse Johnson,11
+Hardy,13A,Governor,,MTN,Jesse Johnson,3
+Hardy,14A,Governor,,MTN,Jesse Johnson,5
+Hardy,15,Governor,,MTN,Jesse Johnson,3
+Hardy,16,Governor,,MTN,Jesse Johnson,11
+Hardy,18,Governor,,MTN,Jesse Johnson,6
+Hardy,19,Governor,,MTN,Jesse Johnson,8
+Hardy,20,Governor,,MTN,Jesse Johnson,3
+Hardy,1A,Secretary of State,,DEM,Natalie E. Tennant,90
+Hardy,2A,Secretary of State,,DEM,Natalie E. Tennant,271
+Hardy,3,Secretary of State,,DEM,Natalie E. Tennant,98
+Hardy,5,Secretary of State,,DEM,Natalie E. Tennant,211
+Hardy,6,Secretary of State,,DEM,Natalie E. Tennant,153
+Hardy,7,Secretary of State,,DEM,Natalie E. Tennant,146
+Hardy,12A,Secretary of State,,DEM,Natalie E. Tennant,265
+Hardy,13A,Secretary of State,,DEM,Natalie E. Tennant,171
+Hardy,14A,Secretary of State,,DEM,Natalie E. Tennant,242
+Hardy,15,Secretary of State,,DEM,Natalie E. Tennant,96
+Hardy,16,Secretary of State,,DEM,Natalie E. Tennant,369
+Hardy,18,Secretary of State,,DEM,Natalie E. Tennant,249
+Hardy,19,Secretary of State,,DEM,Natalie E. Tennant,244
+Hardy,20,Secretary of State,,DEM,Natalie E. Tennant,75
+Hardy,1A,Secretary of State,,REP,Brian Savilla,79
+Hardy,2A,Secretary of State,,REP,Brian Savilla,244
+Hardy,3,Secretary of State,,REP,Brian Savilla,78
+Hardy,5,Secretary of State,,REP,Brian Savilla,183
+Hardy,6,Secretary of State,,REP,Brian Savilla,171
+Hardy,7,Secretary of State,,REP,Brian Savilla,201
+Hardy,12A,Secretary of State,,REP,Brian Savilla,115
+Hardy,13A,Secretary of State,,REP,Brian Savilla,132
+Hardy,14A,Secretary of State,,REP,Brian Savilla,138
+Hardy,15,Secretary of State,,REP,Brian Savilla,102
+Hardy,16,Secretary of State,,REP,Brian Savilla,221
+Hardy,18,Secretary of State,,REP,Brian Savilla,182
+Hardy,19,Secretary of State,,REP,Brian Savilla,175
+Hardy,20,Secretary of State,,REP,Brian Savilla,54
+Hardy,1A,State Auditor,,DEM,Glen B. Gainer III,82
+Hardy,2A,State Auditor,,DEM,Glen B. Gainer III,221
+Hardy,3,State Auditor,,DEM,Glen B. Gainer III,84
+Hardy,5,State Auditor,,DEM,Glen B. Gainer III,188
+Hardy,6,State Auditor,,DEM,Glen B. Gainer III,149
+Hardy,7,State Auditor,,DEM,Glen B. Gainer III,152
+Hardy,12A,State Auditor,,DEM,Glen B. Gainer III,217
+Hardy,13A,State Auditor,,DEM,Glen B. Gainer III,160
+Hardy,14A,State Auditor,,DEM,Glen B. Gainer III,211
+Hardy,15,State Auditor,,DEM,Glen B. Gainer III,86
+Hardy,16,State Auditor,,DEM,Glen B. Gainer III,333
+Hardy,18,State Auditor,,DEM,Glen B. Gainer III,230
+Hardy,19,State Auditor,,DEM,Glen B. Gainer III,210
+Hardy,20,State Auditor,,DEM,Glen B. Gainer III,62
+Hardy,1A,State Auditor,,REP,Larry V. Faircloth,88
+Hardy,2A,State Auditor,,REP,Larry V. Faircloth,292
+Hardy,3,State Auditor,,REP,Larry V. Faircloth,96
+Hardy,5,State Auditor,,REP,Larry V. Faircloth,204
+Hardy,6,State Auditor,,REP,Larry V. Faircloth,172
+Hardy,7,State Auditor,,REP,Larry V. Faircloth,196
+Hardy,12A,State Auditor,,REP,Larry V. Faircloth,159
+Hardy,13A,State Auditor,,REP,Larry V. Faircloth,150
+Hardy,14A,State Auditor,,REP,Larry V. Faircloth,163
+Hardy,15,State Auditor,,REP,Larry V. Faircloth,112
+Hardy,16,State Auditor,,REP,Larry V. Faircloth,266
+Hardy,18,State Auditor,,REP,Larry V. Faircloth,202
+Hardy,19,State Auditor,,REP,Larry V. Faircloth,213
+Hardy,20,State Auditor,,REP,Larry V. Faircloth,65
+Hardy,1A,State Treasurer,,DEM,John D. Perdue,100
+Hardy,2A,State Treasurer,,DEM,John D. Perdue,274
+Hardy,3,State Treasurer,,DEM,John D. Perdue,104
+Hardy,5,State Treasurer,,DEM,John D. Perdue,226
+Hardy,6,State Treasurer,,DEM,John D. Perdue,174
+Hardy,7,State Treasurer,,DEM,John D. Perdue,168
+Hardy,12A,State Treasurer,,DEM,John D. Perdue,270
+Hardy,13A,State Treasurer,,DEM,John D. Perdue,200
+Hardy,14A,State Treasurer,,DEM,John D. Perdue,257
+Hardy,15,State Treasurer,,DEM,John D. Perdue,124
+Hardy,16,State Treasurer,,DEM,John D. Perdue,426
+Hardy,18,State Treasurer,,DEM,John D. Perdue,280
+Hardy,19,State Treasurer,,DEM,John D. Perdue,308
+Hardy,20,State Treasurer,,DEM,John D. Perdue,77
+Hardy,1A,State Treasurer,,REP,Mike Hall,70
+Hardy,2A,State Treasurer,,REP,Mike Hall,240
+Hardy,3,State Treasurer,,REP,Mike Hall,75
+Hardy,5,State Treasurer,,REP,Mike Hall,176
+Hardy,6,State Treasurer,,REP,Mike Hall,149
+Hardy,7,State Treasurer,,REP,Mike Hall,178
+Hardy,12A,State Treasurer,,REP,Mike Hall,121
+Hardy,13A,State Treasurer,,REP,Mike Hall,113
+Hardy,14A,State Treasurer,,REP,Mike Hall,126
+Hardy,15,State Treasurer,,REP,Mike Hall,79
+Hardy,16,State Treasurer,,REP,Mike Hall,180
+Hardy,18,State Treasurer,,REP,Mike Hall,158
+Hardy,19,State Treasurer,,REP,Mike Hall,137
+Hardy,20,State Treasurer,,REP,Mike Hall,50
+Hardy,1A,Commissioner of Agriculture,,DEM,Walt Helmick,96
+Hardy,2A,Commissioner of Agriculture,,DEM,Walt Helmick,290
+Hardy,3,Commissioner of Agriculture,,DEM,Walt Helmick,123
+Hardy,5,Commissioner of Agriculture,,DEM,Walt Helmick,246
+Hardy,6,Commissioner of Agriculture,,DEM,Walt Helmick,189
+Hardy,7,Commissioner of Agriculture,,DEM,Walt Helmick,209
+Hardy,12A,Commissioner of Agriculture,,DEM,Walt Helmick,293
+Hardy,13A,Commissioner of Agriculture,,DEM,Walt Helmick,224
+Hardy,14A,Commissioner of Agriculture,,DEM,Walt Helmick,271
+Hardy,15,Commissioner of Agriculture,,DEM,Walt Helmick,131
+Hardy,16,Commissioner of Agriculture,,DEM,Walt Helmick,414
+Hardy,18,Commissioner of Agriculture,,DEM,Walt Helmick,292
+Hardy,19,Commissioner of Agriculture,,DEM,Walt Helmick,317
+Hardy,20,Commissioner of Agriculture,,DEM,Walt Helmick,85
+Hardy,1A,Commissioner of Agriculture,,REP,Kent Leonhardt,77
+Hardy,2A,Commissioner of Agriculture,,REP,Kent Leonhardt,234
+Hardy,3,Commissioner of Agriculture,,REP,Kent Leonhardt,65
+Hardy,5,Commissioner of Agriculture,,REP,Kent Leonhardt,172
+Hardy,6,Commissioner of Agriculture,,REP,Kent Leonhardt,146
+Hardy,7,Commissioner of Agriculture,,REP,Kent Leonhardt,149
+Hardy,12A,Commissioner of Agriculture,,REP,Kent Leonhardt,106
+Hardy,13A,Commissioner of Agriculture,,REP,Kent Leonhardt,109
+Hardy,14A,Commissioner of Agriculture,,REP,Kent Leonhardt,126
+Hardy,15,Commissioner of Agriculture,,REP,Kent Leonhardt,86
+Hardy,16,Commissioner of Agriculture,,REP,Kent Leonhardt,214
+Hardy,18,Commissioner of Agriculture,,REP,Kent Leonhardt,160
+Hardy,19,Commissioner of Agriculture,,REP,Kent Leonhardt,149
+Hardy,20,Commissioner of Agriculture,,REP,Kent Leonhardt,45
+Hardy,1A,Attorney General,,DEM,Darrell V. McGraw Jr.,81
+Hardy,2A,Attorney General,,DEM,Darrell V. McGraw Jr.,225
+Hardy,3,Attorney General,,DEM,Darrell V. McGraw Jr.,83
+Hardy,5,Attorney General,,DEM,Darrell V. McGraw Jr.,206
+Hardy,6,Attorney General,,DEM,Darrell V. McGraw Jr.,143
+Hardy,7,Attorney General,,DEM,Darrell V. McGraw Jr.,127
+Hardy,12A,Attorney General,,DEM,Darrell V. McGraw Jr.,246
+Hardy,13A,Attorney General,,DEM,Darrell V. McGraw Jr.,149
+Hardy,14A,Attorney General,,DEM,Darrell V. McGraw Jr.,224
+Hardy,15,Attorney General,,DEM,Darrell V. McGraw Jr.,82
+Hardy,16,Attorney General,,DEM,Darrell V. McGraw Jr.,330
+Hardy,18,Attorney General,,DEM,Darrell V. McGraw Jr.,219
+Hardy,19,Attorney General,,DEM,Darrell V. McGraw Jr.,240
+Hardy,20,Attorney General,,DEM,Darrell V. McGraw Jr.,59
+Hardy,1A,Attorney General,,REP,Patrick Morrisey,92
+Hardy,2A,Attorney General,,REP,Patrick Morrisey,298
+Hardy,3,Attorney General,,REP,Patrick Morrisey,97
+Hardy,5,Attorney General,,REP,Patrick Morrisey,197
+Hardy,6,Attorney General,,REP,Patrick Morrisey,185
+Hardy,7,Attorney General,,REP,Patrick Morrisey,230
+Hardy,12A,Attorney General,,REP,Patrick Morrisey,140
+Hardy,13A,Attorney General,,REP,Patrick Morrisey,170
+Hardy,14A,Attorney General,,REP,Patrick Morrisey,169
+Hardy,15,Attorney General,,REP,Patrick Morrisey,119
+Hardy,16,Attorney General,,REP,Patrick Morrisey,272
+Hardy,18,Attorney General,,REP,Patrick Morrisey,225
+Hardy,19,Attorney General,,REP,Patrick Morrisey,200
+Hardy,20,Attorney General,,REP,Patrick Morrisey,69
+Hardy,1A,State Senate,14,DEM,Bob Williams,112
+Hardy,2A,State Senate,14,DEM,Bob Williams,377
+Hardy,3,State Senate,14,DEM,Bob Williams,125
+Hardy,5,State Senate,14,DEM,Bob Williams,288
+Hardy,6,State Senate,14,DEM,Bob Williams,224
+Hardy,7,State Senate,14,DEM,Bob Williams,235
+Hardy,12A,State Senate,14,DEM,Bob Williams,303
+Hardy,13A,State Senate,14,DEM,Bob Williams,225
+Hardy,14A,State Senate,14,DEM,Bob Williams,294
+Hardy,15,State Senate,14,DEM,Bob Williams,143
+Hardy,16,State Senate,14,DEM,Bob Williams,458
+Hardy,18,State Senate,14,DEM,Bob Williams,313
+Hardy,19,State Senate,14,DEM,Bob Williams,320
+Hardy,20,State Senate,14,DEM,Bob Williams,92
+Hardy,1A,State House,55,DEM,Isaac Sponaugle,90
+Hardy,2A,State House,55,DEM,Isaac Sponaugle,254
+Hardy,3,State House,55,DEM,Isaac Sponaugle,101
+Hardy,5,State House,55,DEM,Isaac Sponaugle,205
+Hardy,6,State House,55,DEM,Isaac Sponaugle,142
+Hardy,7,State House,55,DEM,Isaac Sponaugle,151
+Hardy,12A,State House,55,DEM,Isaac Sponaugle,269
+Hardy,13A,State House,55,DEM,Isaac Sponaugle,188
+Hardy,14A,State House,55,DEM,Isaac Sponaugle,243
+Hardy,15,State House,55,DEM,Isaac Sponaugle,104
+Hardy,16,State House,55,DEM,Isaac Sponaugle,374
+Hardy,18,State House,55,DEM,Isaac Sponaugle,262
+Hardy,19,State House,55,DEM,Isaac Sponaugle,281
+Hardy,20,State House,55,DEM,Isaac Sponaugle,76
+Hardy,1A,State House,55,REP,Stephen G. Smith,84
+Hardy,2A,State House,55,REP,Stephen G. Smith,278
+Hardy,3,State House,55,REP,Stephen G. Smith,84
+Hardy,5,State House,55,REP,Stephen G. Smith,209
+Hardy,6,State House,55,REP,Stephen G. Smith,191
+Hardy,7,State House,55,REP,Stephen G. Smith,213
+Hardy,12A,State House,55,REP,Stephen G. Smith,136
+Hardy,13A,State House,55,REP,Stephen G. Smith,136
+Hardy,14A,State House,55,REP,Stephen G. Smith,157
+Hardy,15,State House,55,REP,Stephen G. Smith,107
+Hardy,16,State House,55,REP,Stephen G. Smith,252
+Hardy,18,State House,55,REP,Stephen G. Smith,187
+Hardy,19,State House,55,REP,Stephen G. Smith,182
+Hardy,20,State House,55,REP,Stephen G. Smith,52

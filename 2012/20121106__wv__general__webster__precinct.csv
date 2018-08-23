@@ -1,0 +1,393 @@
+county,precinct,office,district,party,candidate,votes
+Webster,2,President,,DEM,Barack Obama,89
+Webster,3,President,,DEM,Barack Obama,62
+Webster,4,President,,DEM,Barack Obama,117
+Webster,5,President,,DEM,Barack Obama,56
+Webster,8,President,,DEM,Barack Obama,103
+Webster,10,President,,DEM,Barack Obama,14
+Webster,15,President,,DEM,Barack Obama,108
+Webster,18,President,,DEM,Barack Obama,36
+Webster,21,President,,DEM,Barack Obama,50
+Webster,22,President,,DEM,Barack Obama,55
+Webster,23,President,,DEM,Barack Obama,91
+Webster,24,President,,DEM,Barack Obama,86
+Webster,27,President,,DEM,Barack Obama,46
+Webster,29,President,,DEM,Barack Obama,34
+Webster,2,President,,REP,Mitt Romney,185
+Webster,3,President,,REP,Mitt Romney,148
+Webster,4,President,,REP,Mitt Romney,99
+Webster,5,President,,REP,Mitt Romney,115
+Webster,8,President,,REP,Mitt Romney,180
+Webster,10,President,,REP,Mitt Romney,31
+Webster,15,President,,REP,Mitt Romney,197
+Webster,18,President,,REP,Mitt Romney,73
+Webster,21,President,,REP,Mitt Romney,100
+Webster,22,President,,REP,Mitt Romney,155
+Webster,23,President,,REP,Mitt Romney,163
+Webster,24,President,,REP,Mitt Romney,130
+Webster,27,President,,REP,Mitt Romney,83
+Webster,29,President,,REP,Mitt Romney,51
+Webster,2,President,,LIB,Gary Johnson,0
+Webster,3,President,,LIB,Gary Johnson,4
+Webster,4,President,,LIB,Gary Johnson,2
+Webster,5,President,,LIB,Gary Johnson,0
+Webster,8,President,,LIB,Gary Johnson,1
+Webster,10,President,,LIB,Gary Johnson,1
+Webster,15,President,,LIB,Gary Johnson,3
+Webster,18,President,,LIB,Gary Johnson,0
+Webster,21,President,,LIB,Gary Johnson,3
+Webster,22,President,,LIB,Gary Johnson,1
+Webster,23,President,,LIB,Gary Johnson,4
+Webster,24,President,,LIB,Gary Johnson,1
+Webster,27,President,,LIB,Gary Johnson,0
+Webster,29,President,,LIB,Gary Johnson,1
+Webster,2,President,,MTN,Jill Stein,1
+Webster,3,President,,MTN,Jill Stein,4
+Webster,4,President,,MTN,Jill Stein,3
+Webster,5,President,,MTN,Jill Stein,2
+Webster,8,President,,MTN,Jill Stein,1
+Webster,10,President,,MTN,Jill Stein,2
+Webster,15,President,,MTN,Jill Stein,2
+Webster,18,President,,MTN,Jill Stein,0
+Webster,21,President,,MTN,Jill Stein,1
+Webster,22,President,,MTN,Jill Stein,5
+Webster,23,President,,MTN,Jill Stein,2
+Webster,24,President,,MTN,Jill Stein,4
+Webster,27,President,,MTN,Jill Stein,0
+Webster,29,President,,MTN,Jill Stein,2
+Webster,2,President,,,Randall Terry,1
+Webster,3,President,,,Randall Terry,6
+Webster,4,President,,,Randall Terry,2
+Webster,5,President,,,Randall Terry,6
+Webster,8,President,,,Randall Terry,3
+Webster,10,President,,,Randall Terry,2
+Webster,15,President,,,Randall Terry,3
+Webster,18,President,,,Randall Terry,8
+Webster,21,President,,,Randall Terry,1
+Webster,22,President,,,Randall Terry,4
+Webster,23,President,,,Randall Terry,6
+Webster,24,President,,,Randall Terry,1
+Webster,27,President,,,Randall Terry,2
+Webster,29,President,,,Randall Terry,3
+Webster,2,U.S. Senate,,DEM,Joe Manchin III,184
+Webster,3,U.S. Senate,,DEM,Joe Manchin III,155
+Webster,4,U.S. Senate,,DEM,Joe Manchin III,155
+Webster,5,U.S. Senate,,DEM,Joe Manchin III,155
+Webster,8,U.S. Senate,,DEM,Joe Manchin III,200
+Webster,10,U.S. Senate,,DEM,Joe Manchin III,22
+Webster,15,U.S. Senate,,DEM,Joe Manchin III,212
+Webster,18,U.S. Senate,,DEM,Joe Manchin III,64
+Webster,21,U.S. Senate,,DEM,Joe Manchin III,97
+Webster,22,U.S. Senate,,DEM,Joe Manchin III,124
+Webster,23,U.S. Senate,,DEM,Joe Manchin III,170
+Webster,24,U.S. Senate,,DEM,Joe Manchin III,120
+Webster,27,U.S. Senate,,DEM,Joe Manchin III,59
+Webster,29,U.S. Senate,,DEM,Joe Manchin III,64
+Webster,2,U.S. Senate,,REP,John R. Raese,80
+Webster,3,U.S. Senate,,REP,John R. Raese,59
+Webster,4,U.S. Senate,,REP,John R. Raese,56
+Webster,5,U.S. Senate,,REP,John R. Raese,61
+Webster,8,U.S. Senate,,REP,John R. Raese,79
+Webster,10,U.S. Senate,,REP,John R. Raese,24
+Webster,15,U.S. Senate,,REP,John R. Raese,93
+Webster,18,U.S. Senate,,REP,John R. Raese,49
+Webster,21,U.S. Senate,,REP,John R. Raese,56
+Webster,22,U.S. Senate,,REP,John R. Raese,86
+Webster,23,U.S. Senate,,REP,John R. Raese,77
+Webster,24,U.S. Senate,,REP,John R. Raese,87
+Webster,27,U.S. Senate,,REP,John R. Raese,51
+Webster,29,U.S. Senate,,REP,John R. Raese,30
+Webster,2,U.S. Senate,,MTN,Bob Henry Baber,16
+Webster,3,U.S. Senate,,MTN,Bob Henry Baber,9
+Webster,4,U.S. Senate,,MTN,Bob Henry Baber,11
+Webster,5,U.S. Senate,,MTN,Bob Henry Baber,18
+Webster,8,U.S. Senate,,MTN,Bob Henry Baber,9
+Webster,10,U.S. Senate,,MTN,Bob Henry Baber,3
+Webster,15,U.S. Senate,,MTN,Bob Henry Baber,15
+Webster,18,U.S. Senate,,MTN,Bob Henry Baber,7
+Webster,21,U.S. Senate,,MTN,Bob Henry Baber,9
+Webster,22,U.S. Senate,,MTN,Bob Henry Baber,11
+Webster,23,U.S. Senate,,MTN,Bob Henry Baber,22
+Webster,24,U.S. Senate,,MTN,Bob Henry Baber,12
+Webster,27,U.S. Senate,,MTN,Bob Henry Baber,9
+Webster,29,U.S. Senate,,MTN,Bob Henry Baber,3
+Webster,2,U.S. House,3,DEM,Nick J. Rahall II,182
+Webster,3,U.S. House,3,DEM,Nick J. Rahall II,161
+Webster,4,U.S. House,3,DEM,Nick J. Rahall II,161
+Webster,5,U.S. House,3,DEM,Nick J. Rahall II,124
+Webster,8,U.S. House,3,DEM,Nick J. Rahall II,196
+Webster,10,U.S. House,3,DEM,Nick J. Rahall II,26
+Webster,15,U.S. House,3,DEM,Nick J. Rahall II,206
+Webster,18,U.S. House,3,DEM,Nick J. Rahall II,78
+Webster,21,U.S. House,3,DEM,Nick J. Rahall II,98
+Webster,22,U.S. House,3,DEM,Nick J. Rahall II,127
+Webster,23,U.S. House,3,DEM,Nick J. Rahall II,162
+Webster,24,U.S. House,3,DEM,Nick J. Rahall II,138
+Webster,27,U.S. House,3,DEM,Nick J. Rahall II,77
+Webster,29,U.S. House,3,DEM,Nick J. Rahall II,65
+Webster,2,U.S. House,3,REP,Rick Snuffer,89
+Webster,3,U.S. House,3,REP,Rick Snuffer,56
+Webster,4,U.S. House,3,REP,Rick Snuffer,56
+Webster,5,U.S. House,3,REP,Rick Snuffer,53
+Webster,8,U.S. House,3,REP,Rick Snuffer,86
+Webster,10,U.S. House,3,REP,Rick Snuffer,20
+Webster,15,U.S. House,3,REP,Rick Snuffer,103
+Webster,18,U.S. House,3,REP,Rick Snuffer,34
+Webster,21,U.S. House,3,REP,Rick Snuffer,59
+Webster,22,U.S. House,3,REP,Rick Snuffer,92
+Webster,23,U.S. House,3,REP,Rick Snuffer,98
+Webster,24,U.S. House,3,REP,Rick Snuffer,73
+Webster,27,U.S. House,3,REP,Rick Snuffer,45
+Webster,29,U.S. House,3,REP,Rick Snuffer,29
+Webster,2,Governor,,DEM,Earl Ray Tomblin,171
+Webster,3,Governor,,DEM,Earl Ray Tomblin,137
+Webster,4,Governor,,DEM,Earl Ray Tomblin,145
+Webster,5,Governor,,DEM,Earl Ray Tomblin,98
+Webster,8,Governor,,DEM,Earl Ray Tomblin,178
+Webster,10,Governor,,DEM,Earl Ray Tomblin,23
+Webster,15,Governor,,DEM,Earl Ray Tomblin,185
+Webster,18,Governor,,DEM,Earl Ray Tomblin,71
+Webster,21,Governor,,DEM,Earl Ray Tomblin,96
+Webster,22,Governor,,DEM,Earl Ray Tomblin,118
+Webster,23,Governor,,DEM,Earl Ray Tomblin,157
+Webster,24,Governor,,DEM,Earl Ray Tomblin,127
+Webster,27,Governor,,DEM,Earl Ray Tomblin,66
+Webster,29,Governor,,DEM,Earl Ray Tomblin,63
+Webster,2,Governor,,REP,Bill Maloney,96
+Webster,3,Governor,,REP,Bill Maloney,78
+Webster,4,Governor,,REP,Bill Maloney,73
+Webster,5,Governor,,REP,Bill Maloney,75
+Webster,8,Governor,,REP,Bill Maloney,95
+Webster,10,Governor,,REP,Bill Maloney,25
+Webster,15,Governor,,REP,Bill Maloney,122
+Webster,18,Governor,,REP,Bill Maloney,44
+Webster,21,Governor,,REP,Bill Maloney,60
+Webster,22,Governor,,REP,Bill Maloney,93
+Webster,23,Governor,,REP,Bill Maloney,94
+Webster,24,Governor,,REP,Bill Maloney,85
+Webster,27,Governor,,REP,Bill Maloney,55
+Webster,29,Governor,,REP,Bill Maloney,24
+Webster,2,Governor,,LIB,David Moran,2
+Webster,3,Governor,,LIB,David Moran,4
+Webster,4,Governor,,LIB,David Moran,1
+Webster,5,Governor,,LIB,David Moran,3
+Webster,8,Governor,,LIB,David Moran,5
+Webster,10,Governor,,LIB,David Moran,1
+Webster,15,Governor,,LIB,David Moran,25
+Webster,18,Governor,,LIB,David Moran,2
+Webster,21,Governor,,LIB,David Moran,1
+Webster,22,Governor,,LIB,David Moran,4
+Webster,23,Governor,,LIB,David Moran,4
+Webster,24,Governor,,LIB,David Moran,4
+Webster,27,Governor,,LIB,David Moran,3
+Webster,29,Governor,,LIB,David Moran,5
+Webster,2,Governor,,MTN,Jesse Johnson,11
+Webster,3,Governor,,MTN,Jesse Johnson,7
+Webster,4,Governor,,MTN,Jesse Johnson,8
+Webster,5,Governor,,MTN,Jesse Johnson,6
+Webster,8,Governor,,MTN,Jesse Johnson,10
+Webster,10,Governor,,MTN,Jesse Johnson,1
+Webster,15,Governor,,MTN,Jesse Johnson,10
+Webster,18,Governor,,MTN,Jesse Johnson,3
+Webster,21,Governor,,MTN,Jesse Johnson,7
+Webster,22,Governor,,MTN,Jesse Johnson,6
+Webster,23,Governor,,MTN,Jesse Johnson,14
+Webster,24,Governor,,MTN,Jesse Johnson,14
+Webster,27,Governor,,MTN,Jesse Johnson,4
+Webster,29,Governor,,MTN,Jesse Johnson,3
+Webster,2,Secretary of State,,DEM,Natalie E. Tennant,216
+Webster,3,Secretary of State,,DEM,Natalie E. Tennant,153
+Webster,4,Secretary of State,,DEM,Natalie E. Tennant,181
+Webster,5,Secretary of State,,DEM,Natalie E. Tennant,133
+Webster,8,Secretary of State,,DEM,Natalie E. Tennant,202
+Webster,10,Secretary of State,,DEM,Natalie E. Tennant,33
+Webster,15,Secretary of State,,DEM,Natalie E. Tennant,0
+Webster,18,Secretary of State,,DEM,Natalie E. Tennant,82
+Webster,21,Secretary of State,,DEM,Natalie E. Tennant,123
+Webster,22,Secretary of State,,DEM,Natalie E. Tennant,153
+Webster,23,Secretary of State,,DEM,Natalie E. Tennant,141
+Webster,24,Secretary of State,,DEM,Natalie E. Tennant,190
+Webster,27,Secretary of State,,DEM,Natalie E. Tennant,85
+Webster,29,Secretary of State,,DEM,Natalie E. Tennant,74
+Webster,2,Secretary of State,,REP,Brian Savilla,60
+Webster,3,Secretary of State,,REP,Brian Savilla,67
+Webster,4,Secretary of State,,REP,Brian Savilla,37
+Webster,5,Secretary of State,,REP,Brian Savilla,41
+Webster,8,Secretary of State,,REP,Brian Savilla,76
+Webster,10,Secretary of State,,REP,Brian Savilla,13
+Webster,15,Secretary of State,,REP,Brian Savilla,82
+Webster,18,Secretary of State,,REP,Brian Savilla,25
+Webster,21,Secretary of State,,REP,Brian Savilla,37
+Webster,22,Secretary of State,,REP,Brian Savilla,67
+Webster,23,Secretary of State,,REP,Brian Savilla,66
+Webster,24,Secretary of State,,REP,Brian Savilla,72
+Webster,27,Secretary of State,,REP,Brian Savilla,34
+Webster,29,Secretary of State,,REP,Brian Savilla,15
+Webster,2,State Auditor,,DEM,Glen B. Gainer III,183
+Webster,3,State Auditor,,DEM,Glen B. Gainer III,140
+Webster,4,State Auditor,,DEM,Glen B. Gainer III,160
+Webster,5,State Auditor,,DEM,Glen B. Gainer III,117
+Webster,8,State Auditor,,DEM,Glen B. Gainer III,189
+Webster,10,State Auditor,,DEM,Glen B. Gainer III,22
+Webster,15,State Auditor,,DEM,Glen B. Gainer III,220
+Webster,18,State Auditor,,DEM,Glen B. Gainer III,84
+Webster,21,State Auditor,,DEM,Glen B. Gainer III,101
+Webster,22,State Auditor,,DEM,Glen B. Gainer III,141
+Webster,23,State Auditor,,DEM,Glen B. Gainer III,176
+Webster,24,State Auditor,,DEM,Glen B. Gainer III,127
+Webster,27,State Auditor,,DEM,Glen B. Gainer III,75
+Webster,29,State Auditor,,DEM,Glen B. Gainer III,65
+Webster,2,State Auditor,,REP,Larry V. Faircloth,76
+Webster,3,State Auditor,,REP,Larry V. Faircloth,69
+Webster,4,State Auditor,,REP,Larry V. Faircloth,42
+Webster,5,State Auditor,,REP,Larry V. Faircloth,49
+Webster,8,State Auditor,,REP,Larry V. Faircloth,80
+Webster,10,State Auditor,,REP,Larry V. Faircloth,21
+Webster,15,State Auditor,,REP,Larry V. Faircloth,80
+Webster,18,State Auditor,,REP,Larry V. Faircloth,26
+Webster,21,State Auditor,,REP,Larry V. Faircloth,53
+Webster,22,State Auditor,,REP,Larry V. Faircloth,70
+Webster,23,State Auditor,,REP,Larry V. Faircloth,76
+Webster,24,State Auditor,,REP,Larry V. Faircloth,72
+Webster,27,State Auditor,,REP,Larry V. Faircloth,41
+Webster,29,State Auditor,,REP,Larry V. Faircloth,21
+Webster,2,State Treasurer,,DEM,John D. Perdue,190
+Webster,3,State Treasurer,,DEM,John D. Perdue,145
+Webster,4,State Treasurer,,DEM,John D. Perdue,156
+Webster,5,State Treasurer,,DEM,John D. Perdue,112
+Webster,8,State Treasurer,,DEM,John D. Perdue,176
+Webster,10,State Treasurer,,DEM,John D. Perdue,22
+Webster,15,State Treasurer,,DEM,John D. Perdue,219
+Webster,18,State Treasurer,,DEM,John D. Perdue,79
+Webster,21,State Treasurer,,DEM,John D. Perdue,100
+Webster,22,State Treasurer,,DEM,John D. Perdue,140
+Webster,23,State Treasurer,,DEM,John D. Perdue,170
+Webster,24,State Treasurer,,DEM,John D. Perdue,125
+Webster,27,State Treasurer,,DEM,John D. Perdue,48
+Webster,29,State Treasurer,,DEM,John D. Perdue,68
+Webster,2,State Treasurer,,REP,Mike Hall,74
+Webster,3,State Treasurer,,REP,Mike Hall,70
+Webster,4,State Treasurer,,REP,Mike Hall,47
+Webster,5,State Treasurer,,REP,Mike Hall,58
+Webster,8,State Treasurer,,REP,Mike Hall,93
+Webster,10,State Treasurer,,REP,Mike Hall,22
+Webster,15,State Treasurer,,REP,Mike Hall,85
+Webster,18,State Treasurer,,REP,Mike Hall,32
+Webster,21,State Treasurer,,REP,Mike Hall,56
+Webster,22,State Treasurer,,REP,Mike Hall,74
+Webster,23,State Treasurer,,REP,Mike Hall,86
+Webster,24,State Treasurer,,REP,Mike Hall,74
+Webster,27,State Treasurer,,REP,Mike Hall,40
+Webster,29,State Treasurer,,REP,Mike Hall,24
+Webster,2,Commissioner of Agriculture,,DEM,Walt Helmick,211
+Webster,3,Commissioner of Agriculture,,DEM,Walt Helmick,147
+Webster,4,Commissioner of Agriculture,,DEM,Walt Helmick,158
+Webster,5,Commissioner of Agriculture,,DEM,Walt Helmick,131
+Webster,8,Commissioner of Agriculture,,DEM,Walt Helmick,186
+Webster,10,Commissioner of Agriculture,,DEM,Walt Helmick,27
+Webster,15,Commissioner of Agriculture,,DEM,Walt Helmick,224
+Webster,18,Commissioner of Agriculture,,DEM,Walt Helmick,82
+Webster,21,Commissioner of Agriculture,,DEM,Walt Helmick,103
+Webster,22,Commissioner of Agriculture,,DEM,Walt Helmick,144
+Webster,23,Commissioner of Agriculture,,DEM,Walt Helmick,186
+Webster,24,Commissioner of Agriculture,,DEM,Walt Helmick,138
+Webster,27,Commissioner of Agriculture,,DEM,Walt Helmick,86
+Webster,29,Commissioner of Agriculture,,DEM,Walt Helmick,73
+Webster,2,Commissioner of Agriculture,,REP,Kent Leonhardt,60
+Webster,3,Commissioner of Agriculture,,REP,Kent Leonhardt,69
+Webster,4,Commissioner of Agriculture,,REP,Kent Leonhardt,57
+Webster,5,Commissioner of Agriculture,,REP,Kent Leonhardt,45
+Webster,8,Commissioner of Agriculture,,REP,Kent Leonhardt,91
+Webster,10,Commissioner of Agriculture,,REP,Kent Leonhardt,19
+Webster,15,Commissioner of Agriculture,,REP,Kent Leonhardt,82
+Webster,18,Commissioner of Agriculture,,REP,Kent Leonhardt,23
+Webster,21,Commissioner of Agriculture,,REP,Kent Leonhardt,54
+Webster,22,Commissioner of Agriculture,,REP,Kent Leonhardt,74
+Webster,23,Commissioner of Agriculture,,REP,Kent Leonhardt,77
+Webster,24,Commissioner of Agriculture,,REP,Kent Leonhardt,64
+Webster,27,Commissioner of Agriculture,,REP,Kent Leonhardt,39
+Webster,29,Commissioner of Agriculture,,REP,Kent Leonhardt,19
+Webster,2,Attorney General,,DEM,Darrell V. McGraw Jr.,176
+Webster,3,Attorney General,,DEM,Darrell V. McGraw Jr.,131
+Webster,4,Attorney General,,DEM,Darrell V. McGraw Jr.,152
+Webster,5,Attorney General,,DEM,Darrell V. McGraw Jr.,96
+Webster,8,Attorney General,,DEM,Darrell V. McGraw Jr.,178
+Webster,10,Attorney General,,DEM,Darrell V. McGraw Jr.,22
+Webster,15,Attorney General,,DEM,Darrell V. McGraw Jr.,200
+Webster,18,Attorney General,,DEM,Darrell V. McGraw Jr.,70
+Webster,21,Attorney General,,DEM,Darrell V. McGraw Jr.,91
+Webster,22,Attorney General,,DEM,Darrell V. McGraw Jr.,127
+Webster,23,Attorney General,,DEM,Darrell V. McGraw Jr.,162
+Webster,24,Attorney General,,DEM,Darrell V. McGraw Jr.,123
+Webster,27,Attorney General,,DEM,Darrell V. McGraw Jr.,66
+Webster,29,Attorney General,,DEM,Darrell V. McGraw Jr.,57
+Webster,2,Attorney General,,REP,Patrick Morrisey,92
+Webster,3,Attorney General,,REP,Patrick Morrisey,88
+Webster,4,Attorney General,,REP,Patrick Morrisey,63
+Webster,5,Attorney General,,REP,Patrick Morrisey,76
+Webster,8,Attorney General,,REP,Patrick Morrisey,100
+Webster,10,Attorney General,,REP,Patrick Morrisey,23
+Webster,15,Attorney General,,REP,Patrick Morrisey,109
+Webster,18,Attorney General,,REP,Patrick Morrisey,46
+Webster,21,Attorney General,,REP,Patrick Morrisey,66
+Webster,22,Attorney General,,REP,Patrick Morrisey,93
+Webster,23,Attorney General,,REP,Patrick Morrisey,101
+Webster,24,Attorney General,,REP,Patrick Morrisey,85
+Webster,27,Attorney General,,REP,Patrick Morrisey,55
+Webster,29,Attorney General,,REP,Patrick Morrisey,35
+Webster,2,State Senate,11,DEM,Margaret Kerr Beckwith,118
+Webster,3,State Senate,11,DEM,Margaret Kerr Beckwith,88
+Webster,4,State Senate,11,DEM,Margaret Kerr Beckwith,117
+Webster,5,State Senate,11,DEM,Margaret Kerr Beckwith,86
+Webster,8,State Senate,11,DEM,Margaret Kerr Beckwith,122
+Webster,10,State Senate,11,DEM,Margaret Kerr Beckwith,24
+Webster,15,State Senate,11,DEM,Margaret Kerr Beckwith,149
+Webster,18,State Senate,11,DEM,Margaret Kerr Beckwith,58
+Webster,21,State Senate,11,DEM,Margaret Kerr Beckwith,79
+Webster,22,State Senate,11,DEM,Margaret Kerr Beckwith,96
+Webster,23,State Senate,11,DEM,Margaret Kerr Beckwith,122
+Webster,24,State Senate,11,DEM,Margaret Kerr Beckwith,91
+Webster,27,State Senate,11,DEM,Margaret Kerr Beckwith,60
+Webster,29,State Senate,11,DEM,Margaret Kerr Beckwith,55
+Webster,2,State Senate,11,REP,Clark Barnes,140
+Webster,3,State Senate,11,REP,Clark Barnes,125
+Webster,4,State Senate,11,REP,Clark Barnes,89
+Webster,5,State Senate,11,REP,Clark Barnes,80
+Webster,8,State Senate,11,REP,Clark Barnes,136
+Webster,10,State Senate,11,REP,Clark Barnes,22
+Webster,15,State Senate,11,REP,Clark Barnes,147
+Webster,18,State Senate,11,REP,Clark Barnes,51
+Webster,21,State Senate,11,REP,Clark Barnes,74
+Webster,22,State Senate,11,REP,Clark Barnes,115
+Webster,23,State Senate,11,REP,Clark Barnes,122
+Webster,24,State Senate,11,REP,Clark Barnes,102
+Webster,27,State Senate,11,REP,Clark Barnes,59
+Webster,29,State Senate,11,REP,Clark Barnes,32
+Webster,2,State House,44,DEM,Dana L. Lynch,187
+Webster,3,State House,44,DEM,Dana L. Lynch,152
+Webster,4,State House,44,DEM,Dana L. Lynch,149
+Webster,5,State House,44,DEM,Dana L. Lynch,126
+Webster,8,State House,44,DEM,Dana L. Lynch,204
+Webster,10,State House,44,DEM,Dana L. Lynch,29
+Webster,15,State House,44,DEM,Dana L. Lynch,220
+Webster,18,State House,44,DEM,Dana L. Lynch,99
+Webster,21,State House,44,DEM,Dana L. Lynch,116
+Webster,22,State House,44,DEM,Dana L. Lynch,156
+Webster,23,State House,44,DEM,Dana L. Lynch,188
+Webster,24,State House,44,DEM,Dana L. Lynch,127
+Webster,27,State House,44,DEM,Dana L. Lynch,72
+Webster,29,State House,44,DEM,Dana L. Lynch,62
+Webster,2,State House,44,REP,Robert Karnes,81
+Webster,3,State House,44,REP,Robert Karnes,71
+Webster,4,State House,44,REP,Robert Karnes,67
+Webster,5,State House,44,REP,Robert Karnes,54
+Webster,8,State House,44,REP,Robert Karnes,84
+Webster,10,State House,44,REP,Robert Karnes,18
+Webster,15,State House,44,REP,Robert Karnes,93
+Webster,18,State House,44,REP,Robert Karnes,17
+Webster,21,State House,44,REP,Robert Karnes,45
+Webster,22,State House,44,REP,Robert Karnes,64
+Webster,23,State House,44,REP,Robert Karnes,81
+Webster,24,State House,44,REP,Robert Karnes,87
+Webster,27,State House,44,REP,Robert Karnes,53
+Webster,29,State House,44,REP,Robert Karnes,32

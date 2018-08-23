@@ -1,0 +1,325 @@
+county,precinct,office,district,party,candidate,votes
+Doddridge,2,President,,DEM,Barack Obama,73
+Doddridge,4,President,,DEM,Barack Obama,32
+Doddridge,6,President,,DEM,Barack Obama,43
+Doddridge,9,President,,DEM,Barack Obama,56
+Doddridge,10,President,,DEM,Barack Obama,69
+Doddridge,13,President,,DEM,Barack Obama,50
+Doddridge,14,President,,DEM,Barack Obama,32
+Doddridge,17,President,,DEM,Barack Obama,47
+Doddridge,18,President,,DEM,Barack Obama,18
+Doddridge,20,President,,DEM,Barack Obama,47
+Doddridge,22,President,,DEM,Barack Obama,46
+Doddridge,24,President,,DEM,Barack Obama,62
+Doddridge,2,President,,REP,Mitt Romney,272
+Doddridge,4,President,,REP,Mitt Romney,73
+Doddridge,6,President,,REP,Mitt Romney,149
+Doddridge,9,President,,REP,Mitt Romney,174
+Doddridge,10,President,,REP,Mitt Romney,268
+Doddridge,13,President,,REP,Mitt Romney,187
+Doddridge,14,President,,REP,Mitt Romney,149
+Doddridge,17,President,,REP,Mitt Romney,195
+Doddridge,18,President,,REP,Mitt Romney,78
+Doddridge,20,President,,REP,Mitt Romney,183
+Doddridge,22,President,,REP,Mitt Romney,125
+Doddridge,24,President,,REP,Mitt Romney,277
+Doddridge,2,President,,LIB,Gary Johnson,4
+Doddridge,4,President,,LIB,Gary Johnson,0
+Doddridge,6,President,,LIB,Gary Johnson,0
+Doddridge,9,President,,LIB,Gary Johnson,3
+Doddridge,10,President,,LIB,Gary Johnson,1
+Doddridge,13,President,,LIB,Gary Johnson,4
+Doddridge,14,President,,LIB,Gary Johnson,1
+Doddridge,17,President,,LIB,Gary Johnson,3
+Doddridge,18,President,,LIB,Gary Johnson,1
+Doddridge,20,President,,LIB,Gary Johnson,1
+Doddridge,22,President,,LIB,Gary Johnson,1
+Doddridge,24,President,,LIB,Gary Johnson,3
+Doddridge,2,President,,MTN,Jill Stein,2
+Doddridge,4,President,,MTN,Jill Stein,1
+Doddridge,6,President,,MTN,Jill Stein,1
+Doddridge,9,President,,MTN,Jill Stein,1
+Doddridge,10,President,,MTN,Jill Stein,1
+Doddridge,13,President,,MTN,Jill Stein,4
+Doddridge,14,President,,MTN,Jill Stein,1
+Doddridge,17,President,,MTN,Jill Stein,5
+Doddridge,18,President,,MTN,Jill Stein,2
+Doddridge,20,President,,MTN,Jill Stein,4
+Doddridge,22,President,,MTN,Jill Stein,0
+Doddridge,24,President,,MTN,Jill Stein,3
+Doddridge,2,President,,,Randall Terry,1
+Doddridge,4,President,,,Randall Terry,2
+Doddridge,6,President,,,Randall Terry,0
+Doddridge,9,President,,,Randall Terry,1
+Doddridge,10,President,,,Randall Terry,1
+Doddridge,13,President,,,Randall Terry,4
+Doddridge,14,President,,,Randall Terry,1
+Doddridge,17,President,,,Randall Terry,2
+Doddridge,18,President,,,Randall Terry,1
+Doddridge,20,President,,,Randall Terry,2
+Doddridge,22,President,,,Randall Terry,0
+Doddridge,24,President,,,Randall Terry,2
+Doddridge,2,U.S. Senate,,DEM,Joe Manchin III,166
+Doddridge,4,U.S. Senate,,DEM,Joe Manchin III,41
+Doddridge,6,U.S. Senate,,DEM,Joe Manchin III,78
+Doddridge,9,U.S. Senate,,DEM,Joe Manchin III,109
+Doddridge,10,U.S. Senate,,DEM,Joe Manchin III,119
+Doddridge,13,U.S. Senate,,DEM,Joe Manchin III,102
+Doddridge,14,U.S. Senate,,DEM,Joe Manchin III,78
+Doddridge,17,U.S. Senate,,DEM,Joe Manchin III,88
+Doddridge,18,U.S. Senate,,DEM,Joe Manchin III,36
+Doddridge,20,U.S. Senate,,DEM,Joe Manchin III,97
+Doddridge,22,U.S. Senate,,DEM,Joe Manchin III,82
+Doddridge,24,U.S. Senate,,DEM,Joe Manchin III,146
+Doddridge,2,U.S. Senate,,REP,John R. Raese,177
+Doddridge,4,U.S. Senate,,REP,John R. Raese,58
+Doddridge,6,U.S. Senate,,REP,John R. Raese,108
+Doddridge,9,U.S. Senate,,REP,John R. Raese,126
+Doddridge,10,U.S. Senate,,REP,John R. Raese,203
+Doddridge,13,U.S. Senate,,REP,John R. Raese,126
+Doddridge,14,U.S. Senate,,REP,John R. Raese,106
+Doddridge,17,U.S. Senate,,REP,John R. Raese,146
+Doddridge,18,U.S. Senate,,REP,John R. Raese,56
+Doddridge,20,U.S. Senate,,REP,John R. Raese,121
+Doddridge,22,U.S. Senate,,REP,John R. Raese,81
+Doddridge,24,U.S. Senate,,REP,John R. Raese,181
+Doddridge,2,U.S. Senate,,MTN,Bob Henry Baber,7
+Doddridge,4,U.S. Senate,,MTN,Bob Henry Baber,5
+Doddridge,6,U.S. Senate,,MTN,Bob Henry Baber,4
+Doddridge,9,U.S. Senate,,MTN,Bob Henry Baber,5
+Doddridge,10,U.S. Senate,,MTN,Bob Henry Baber,11
+Doddridge,13,U.S. Senate,,MTN,Bob Henry Baber,20
+Doddridge,14,U.S. Senate,,MTN,Bob Henry Baber,3
+Doddridge,17,U.S. Senate,,MTN,Bob Henry Baber,14
+Doddridge,18,U.S. Senate,,MTN,Bob Henry Baber,6
+Doddridge,20,U.S. Senate,,MTN,Bob Henry Baber,9
+Doddridge,22,U.S. Senate,,MTN,Bob Henry Baber,3
+Doddridge,24,U.S. Senate,,MTN,Bob Henry Baber,8
+Doddridge,2,U.S. House,1,DEM,Sue Thorn,71
+Doddridge,4,U.S. House,1,DEM,Sue Thorn,33
+Doddridge,6,U.S. House,1,DEM,Sue Thorn,38
+Doddridge,9,U.S. House,1,DEM,Sue Thorn,52
+Doddridge,10,U.S. House,1,DEM,Sue Thorn,64
+Doddridge,13,U.S. House,1,DEM,Sue Thorn,52
+Doddridge,14,U.S. House,1,DEM,Sue Thorn,38
+Doddridge,17,U.S. House,1,DEM,Sue Thorn,51
+Doddridge,18,U.S. House,1,DEM,Sue Thorn,27
+Doddridge,20,U.S. House,1,DEM,Sue Thorn,41
+Doddridge,22,U.S. House,1,DEM,Sue Thorn,39
+Doddridge,24,U.S. House,1,DEM,Sue Thorn,53
+Doddridge,2,U.S. House,1,REP,David B. McKinley,264
+Doddridge,4,U.S. House,1,REP,David B. McKinley,66
+Doddridge,6,U.S. House,1,REP,David B. McKinley,139
+Doddridge,9,U.S. House,1,REP,David B. McKinley,174
+Doddridge,10,U.S. House,1,REP,David B. McKinley,252
+Doddridge,13,U.S. House,1,REP,David B. McKinley,179
+Doddridge,14,U.S. House,1,REP,David B. McKinley,139
+Doddridge,17,U.S. House,1,REP,David B. McKinley,189
+Doddridge,18,U.S. House,1,REP,David B. McKinley,69
+Doddridge,20,U.S. House,1,REP,David B. McKinley,175
+Doddridge,22,U.S. House,1,REP,David B. McKinley,121
+Doddridge,24,U.S. House,1,REP,David B. McKinley,257
+Doddridge,2,Governor,,DEM,Earl Ray Tomblin,118
+Doddridge,4,Governor,,DEM,Earl Ray Tomblin,38
+Doddridge,6,Governor,,DEM,Earl Ray Tomblin,72
+Doddridge,9,Governor,,DEM,Earl Ray Tomblin,80
+Doddridge,10,Governor,,DEM,Earl Ray Tomblin,103
+Doddridge,13,Governor,,DEM,Earl Ray Tomblin,75
+Doddridge,14,Governor,,DEM,Earl Ray Tomblin,56
+Doddridge,17,Governor,,DEM,Earl Ray Tomblin,60
+Doddridge,18,Governor,,DEM,Earl Ray Tomblin,31
+Doddridge,20,Governor,,DEM,Earl Ray Tomblin,76
+Doddridge,22,Governor,,DEM,Earl Ray Tomblin,58
+Doddridge,24,Governor,,DEM,Earl Ray Tomblin,105
+Doddridge,2,Governor,,REP,Bill Maloney,222
+Doddridge,4,Governor,,REP,Bill Maloney,57
+Doddridge,6,Governor,,REP,Bill Maloney,109
+Doddridge,9,Governor,,REP,Bill Maloney,144
+Doddridge,10,Governor,,REP,Bill Maloney,217
+Doddridge,13,Governor,,REP,Bill Maloney,148
+Doddridge,14,Governor,,REP,Bill Maloney,122
+Doddridge,17,Governor,,REP,Bill Maloney,170
+Doddridge,18,Governor,,REP,Bill Maloney,65
+Doddridge,20,Governor,,REP,Bill Maloney,148
+Doddridge,22,Governor,,REP,Bill Maloney,101
+Doddridge,24,Governor,,REP,Bill Maloney,218
+Doddridge,2,Governor,,LIB,David Moran,3
+Doddridge,4,Governor,,LIB,David Moran,1
+Doddridge,6,Governor,,LIB,David Moran,1
+Doddridge,9,Governor,,LIB,David Moran,2
+Doddridge,10,Governor,,LIB,David Moran,2
+Doddridge,13,Governor,,LIB,David Moran,6
+Doddridge,14,Governor,,LIB,David Moran,4
+Doddridge,17,Governor,,LIB,David Moran,3
+Doddridge,18,Governor,,LIB,David Moran,2
+Doddridge,20,Governor,,LIB,David Moran,2
+Doddridge,22,Governor,,LIB,David Moran,5
+Doddridge,24,Governor,,LIB,David Moran,7
+Doddridge,2,Governor,,MTN,Jesse Johnson,7
+Doddridge,4,Governor,,MTN,Jesse Johnson,7
+Doddridge,6,Governor,,MTN,Jesse Johnson,4
+Doddridge,9,Governor,,MTN,Jesse Johnson,9
+Doddridge,10,Governor,,MTN,Jesse Johnson,8
+Doddridge,13,Governor,,MTN,Jesse Johnson,16
+Doddridge,14,Governor,,MTN,Jesse Johnson,2
+Doddridge,17,Governor,,MTN,Jesse Johnson,18
+Doddridge,18,Governor,,MTN,Jesse Johnson,4
+Doddridge,20,Governor,,MTN,Jesse Johnson,7
+Doddridge,22,Governor,,MTN,Jesse Johnson,4
+Doddridge,24,Governor,,MTN,Jesse Johnson,8
+Doddridge,2,Secretary of State,,DEM,Natalie E. Tennant,185
+Doddridge,4,Secretary of State,,DEM,Natalie E. Tennant,49
+Doddridge,6,Secretary of State,,DEM,Natalie E. Tennant,112
+Doddridge,9,Secretary of State,,DEM,Natalie E. Tennant,133
+Doddridge,10,Secretary of State,,DEM,Natalie E. Tennant,166
+Doddridge,13,Secretary of State,,DEM,Natalie E. Tennant,130
+Doddridge,14,Secretary of State,,DEM,Natalie E. Tennant,102
+Doddridge,17,Secretary of State,,DEM,Natalie E. Tennant,130
+Doddridge,18,Secretary of State,,DEM,Natalie E. Tennant,47
+Doddridge,20,Secretary of State,,DEM,Natalie E. Tennant,118
+Doddridge,22,Secretary of State,,DEM,Natalie E. Tennant,99
+Doddridge,24,Secretary of State,,DEM,Natalie E. Tennant,157
+Doddridge,2,Secretary of State,,REP,Brian Savilla,150
+Doddridge,4,Secretary of State,,REP,Brian Savilla,50
+Doddridge,6,Secretary of State,,REP,Brian Savilla,71
+Doddridge,9,Secretary of State,,REP,Brian Savilla,98
+Doddridge,10,Secretary of State,,REP,Brian Savilla,148
+Doddridge,13,Secretary of State,,REP,Brian Savilla,106
+Doddridge,14,Secretary of State,,REP,Brian Savilla,76
+Doddridge,17,Secretary of State,,REP,Brian Savilla,104
+Doddridge,18,Secretary of State,,REP,Brian Savilla,49
+Doddridge,20,Secretary of State,,REP,Brian Savilla,103
+Doddridge,22,Secretary of State,,REP,Brian Savilla,63
+Doddridge,24,Secretary of State,,REP,Brian Savilla,169
+Doddridge,2,State Auditor,,DEM,Glen B. Gainer III,170
+Doddridge,4,State Auditor,,DEM,Glen B. Gainer III,49
+Doddridge,6,State Auditor,,DEM,Glen B. Gainer III,89
+Doddridge,9,State Auditor,,DEM,Glen B. Gainer III,107
+Doddridge,10,State Auditor,,DEM,Glen B. Gainer III,140
+Doddridge,13,State Auditor,,DEM,Glen B. Gainer III,113
+Doddridge,14,State Auditor,,DEM,Glen B. Gainer III,90
+Doddridge,17,State Auditor,,DEM,Glen B. Gainer III,121
+Doddridge,18,State Auditor,,DEM,Glen B. Gainer III,42
+Doddridge,20,State Auditor,,DEM,Glen B. Gainer III,103
+Doddridge,22,State Auditor,,DEM,Glen B. Gainer III,79
+Doddridge,24,State Auditor,,DEM,Glen B. Gainer III,156
+Doddridge,2,State Auditor,,REP,Larry V. Faircloth,160
+Doddridge,4,State Auditor,,REP,Larry V. Faircloth,47
+Doddridge,6,State Auditor,,REP,Larry V. Faircloth,88
+Doddridge,9,State Auditor,,REP,Larry V. Faircloth,107
+Doddridge,10,State Auditor,,REP,Larry V. Faircloth,173
+Doddridge,13,State Auditor,,REP,Larry V. Faircloth,116
+Doddridge,14,State Auditor,,REP,Larry V. Faircloth,87
+Doddridge,17,State Auditor,,REP,Larry V. Faircloth,110
+Doddridge,18,State Auditor,,REP,Larry V. Faircloth,54
+Doddridge,20,State Auditor,,REP,Larry V. Faircloth,118
+Doddridge,22,State Auditor,,REP,Larry V. Faircloth,75
+Doddridge,24,State Auditor,,REP,Larry V. Faircloth,162
+Doddridge,2,State Treasurer,,DEM,John D. Perdue,150
+Doddridge,4,State Treasurer,,DEM,John D. Perdue,43
+Doddridge,6,State Treasurer,,DEM,John D. Perdue,83
+Doddridge,9,State Treasurer,,DEM,John D. Perdue,105
+Doddridge,10,State Treasurer,,DEM,John D. Perdue,141
+Doddridge,13,State Treasurer,,DEM,John D. Perdue,90
+Doddridge,14,State Treasurer,,DEM,John D. Perdue,82
+Doddridge,17,State Treasurer,,DEM,John D. Perdue,101
+Doddridge,18,State Treasurer,,DEM,John D. Perdue,38
+Doddridge,20,State Treasurer,,DEM,John D. Perdue,89
+Doddridge,22,State Treasurer,,DEM,John D. Perdue,71
+Doddridge,24,State Treasurer,,DEM,John D. Perdue,113
+Doddridge,2,State Treasurer,,REP,Mike Hall,187
+Doddridge,4,State Treasurer,,REP,Mike Hall,49
+Doddridge,6,State Treasurer,,REP,Mike Hall,94
+Doddridge,9,State Treasurer,,REP,Mike Hall,116
+Doddridge,10,State Treasurer,,REP,Mike Hall,169
+Doddridge,13,State Treasurer,,REP,Mike Hall,135
+Doddridge,14,State Treasurer,,REP,Mike Hall,91
+Doddridge,17,State Treasurer,,REP,Mike Hall,133
+Doddridge,18,State Treasurer,,REP,Mike Hall,57
+Doddridge,20,State Treasurer,,REP,Mike Hall,132
+Doddridge,22,State Treasurer,,REP,Mike Hall,90
+Doddridge,24,State Treasurer,,REP,Mike Hall,198
+Doddridge,2,Commissioner of Agriculture,,DEM,Walt Helmick,102
+Doddridge,4,Commissioner of Agriculture,,DEM,Walt Helmick,30
+Doddridge,6,Commissioner of Agriculture,,DEM,Walt Helmick,77
+Doddridge,9,Commissioner of Agriculture,,DEM,Walt Helmick,79
+Doddridge,10,Commissioner of Agriculture,,DEM,Walt Helmick,101
+Doddridge,13,Commissioner of Agriculture,,DEM,Walt Helmick,79
+Doddridge,14,Commissioner of Agriculture,,DEM,Walt Helmick,53
+Doddridge,17,Commissioner of Agriculture,,DEM,Walt Helmick,74
+Doddridge,18,Commissioner of Agriculture,,DEM,Walt Helmick,22
+Doddridge,20,Commissioner of Agriculture,,DEM,Walt Helmick,64
+Doddridge,22,Commissioner of Agriculture,,DEM,Walt Helmick,52
+Doddridge,24,Commissioner of Agriculture,,DEM,Walt Helmick,91
+Doddridge,2,Commissioner of Agriculture,,REP,Kent Leonhardt,231
+Doddridge,4,Commissioner of Agriculture,,REP,Kent Leonhardt,68
+Doddridge,6,Commissioner of Agriculture,,REP,Kent Leonhardt,99
+Doddridge,9,Commissioner of Agriculture,,REP,Kent Leonhardt,135
+Doddridge,10,Commissioner of Agriculture,,REP,Kent Leonhardt,205
+Doddridge,13,Commissioner of Agriculture,,REP,Kent Leonhardt,151
+Doddridge,14,Commissioner of Agriculture,,REP,Kent Leonhardt,115
+Doddridge,17,Commissioner of Agriculture,,REP,Kent Leonhardt,154
+Doddridge,18,Commissioner of Agriculture,,REP,Kent Leonhardt,69
+Doddridge,20,Commissioner of Agriculture,,REP,Kent Leonhardt,145
+Doddridge,22,Commissioner of Agriculture,,REP,Kent Leonhardt,99
+Doddridge,24,Commissioner of Agriculture,,REP,Kent Leonhardt,213
+Doddridge,2,Attorney General,,DEM,Darrell V. McGraw Jr.,125
+Doddridge,4,Attorney General,,DEM,Darrell V. McGraw Jr.,43
+Doddridge,6,Attorney General,,DEM,Darrell V. McGraw Jr.,70
+Doddridge,9,Attorney General,,DEM,Darrell V. McGraw Jr.,93
+Doddridge,10,Attorney General,,DEM,Darrell V. McGraw Jr.,101
+Doddridge,13,Attorney General,,DEM,Darrell V. McGraw Jr.,86
+Doddridge,14,Attorney General,,DEM,Darrell V. McGraw Jr.,66
+Doddridge,17,Attorney General,,DEM,Darrell V. McGraw Jr.,85
+Doddridge,18,Attorney General,,DEM,Darrell V. McGraw Jr.,29
+Doddridge,20,Attorney General,,DEM,Darrell V. McGraw Jr.,67
+Doddridge,22,Attorney General,,DEM,Darrell V. McGraw Jr.,70
+Doddridge,24,Attorney General,,DEM,Darrell V. McGraw Jr.,108
+Doddridge,2,Attorney General,,REP,Patrick Morrisey,221
+Doddridge,4,Attorney General,,REP,Patrick Morrisey,54
+Doddridge,6,Attorney General,,REP,Patrick Morrisey,110
+Doddridge,9,Attorney General,,REP,Patrick Morrisey,131
+Doddridge,10,Attorney General,,REP,Patrick Morrisey,217
+Doddridge,13,Attorney General,,REP,Patrick Morrisey,150
+Doddridge,14,Attorney General,,REP,Patrick Morrisey,114
+Doddridge,17,Attorney General,,REP,Patrick Morrisey,152
+Doddridge,18,Attorney General,,REP,Patrick Morrisey,66
+Doddridge,20,Attorney General,,REP,Patrick Morrisey,156
+Doddridge,22,Attorney General,,REP,Patrick Morrisey,94
+Doddridge,24,Attorney General,,REP,Patrick Morrisey,216
+Doddridge,2,State Senate,2,DEM,Jeffrey V. Kessler,216
+Doddridge,4,State Senate,2,DEM,Jeffrey V. Kessler,63
+Doddridge,6,State Senate,2,DEM,Jeffrey V. Kessler,120
+Doddridge,9,State Senate,2,DEM,Jeffrey V. Kessler,135
+Doddridge,10,State Senate,2,DEM,Jeffrey V. Kessler,190
+Doddridge,13,State Senate,2,DEM,Jeffrey V. Kessler,143
+Doddridge,14,State Senate,2,DEM,Jeffrey V. Kessler,114
+Doddridge,17,State Senate,2,DEM,Jeffrey V. Kessler,135
+Doddridge,18,State Senate,2,DEM,Jeffrey V. Kessler,57
+Doddridge,20,State Senate,2,DEM,Jeffrey V. Kessler,132
+Doddridge,22,State Senate,2,DEM,Jeffrey V. Kessler,109
+Doddridge,24,State Senate,2,DEM,Jeffrey V. Kessler,192
+Doddridge,2,State House,6,DEM,Charlie Delauder,81
+Doddridge,4,State House,6,DEM,Charlie Delauder,32
+Doddridge,6,State House,6,DEM,Charlie Delauder,48
+Doddridge,9,State House,6,DEM,Charlie Delauder,66
+Doddridge,10,State House,6,DEM,Charlie Delauder,77
+Doddridge,13,State House,6,DEM,Charlie Delauder,69
+Doddridge,14,State House,6,DEM,Charlie Delauder,44
+Doddridge,17,State House,6,DEM,Charlie Delauder,59
+Doddridge,18,State House,6,DEM,Charlie Delauder,28
+Doddridge,20,State House,6,DEM,Charlie Delauder,50
+Doddridge,22,State House,6,DEM,Charlie Delauder,48
+Doddridge,24,State House,6,DEM,Charlie Delauder,60
+Doddridge,2,State House,6,REP,W.M. Roger Romine,257
+Doddridge,4,State House,6,REP,W.M. Roger Romine,68
+Doddridge,6,State House,6,REP,W.M. Roger Romine,135
+Doddridge,9,State House,6,REP,W.M. Roger Romine,164
+Doddridge,10,State House,6,REP,W.M. Roger Romine,250
+Doddridge,13,State House,6,REP,W.M. Roger Romine,168
+Doddridge,14,State House,6,REP,W.M. Roger Romine,135
+Doddridge,17,State House,6,REP,W.M. Roger Romine,177
+Doddridge,18,State House,6,REP,W.M. Roger Romine,68
+Doddridge,20,State House,6,REP,W.M. Roger Romine,176
+Doddridge,22,State House,6,REP,W.M. Roger Romine,112
+Doddridge,24,State House,6,REP,W.M. Roger Romine,268

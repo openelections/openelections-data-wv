@@ -1,0 +1,287 @@
+county,precinct,office,district,party,candidate,votes
+Clay,1,President,,DEM,Barack Obama,50
+Clay,4,President,,DEM,Barack Obama,25
+Clay,12,President,,DEM,Barack Obama,68
+Clay,15,President,,DEM,Barack Obama,114
+Clay,17,President,,DEM,Barack Obama,135
+Clay,24,President,,DEM,Barack Obama,69
+Clay,25,President,,DEM,Barack Obama,124
+Clay,29,President,,DEM,Barack Obama,122
+Clay,33,President,,DEM,Barack Obama,77
+Clay,36,President,,DEM,Barack Obama,94
+Clay,37,President,,DEM,Barack Obama,53
+Clay,1,President,,REP,Mitt Romney,69
+Clay,4,President,,REP,Mitt Romney,49
+Clay,12,President,,REP,Mitt Romney,78
+Clay,15,President,,REP,Mitt Romney,228
+Clay,17,President,,REP,Mitt Romney,279
+Clay,24,President,,REP,Mitt Romney,117
+Clay,25,President,,REP,Mitt Romney,152
+Clay,29,President,,REP,Mitt Romney,402
+Clay,33,President,,REP,Mitt Romney,225
+Clay,36,President,,REP,Mitt Romney,223
+Clay,37,President,,REP,Mitt Romney,149
+Clay,1,President,,LIB,Gary Johnson,0
+Clay,4,President,,LIB,Gary Johnson,0
+Clay,12,President,,LIB,Gary Johnson,3
+Clay,15,President,,LIB,Gary Johnson,5
+Clay,17,President,,LIB,Gary Johnson,0
+Clay,24,President,,LIB,Gary Johnson,4
+Clay,25,President,,LIB,Gary Johnson,3
+Clay,29,President,,LIB,Gary Johnson,1
+Clay,33,President,,LIB,Gary Johnson,3
+Clay,36,President,,LIB,Gary Johnson,4
+Clay,37,President,,LIB,Gary Johnson,1
+Clay,1,President,,MTN,Jill Stein,0
+Clay,4,President,,MTN,Jill Stein,1
+Clay,12,President,,MTN,Jill Stein,0
+Clay,15,President,,MTN,Jill Stein,4
+Clay,17,President,,MTN,Jill Stein,7
+Clay,24,President,,MTN,Jill Stein,1
+Clay,25,President,,MTN,Jill Stein,5
+Clay,29,President,,MTN,Jill Stein,6
+Clay,33,President,,MTN,Jill Stein,8
+Clay,36,President,,MTN,Jill Stein,5
+Clay,37,President,,MTN,Jill Stein,1
+Clay,1,President,,,Randall Terry,4
+Clay,4,President,,,Randall Terry,2
+Clay,12,President,,,Randall Terry,2
+Clay,15,President,,,Randall Terry,15
+Clay,17,President,,,Randall Terry,6
+Clay,24,President,,,Randall Terry,1
+Clay,25,President,,,Randall Terry,3
+Clay,29,President,,,Randall Terry,10
+Clay,33,President,,,Randall Terry,2
+Clay,36,President,,,Randall Terry,1
+Clay,37,President,,,Randall Terry,2
+Clay,1,U.S. Senate,,DEM,Joe Manchin III,101
+Clay,4,U.S. Senate,,DEM,Joe Manchin III,39
+Clay,12,U.S. Senate,,DEM,Joe Manchin III,117
+Clay,15,U.S. Senate,,DEM,Joe Manchin III,230
+Clay,17,U.S. Senate,,DEM,Joe Manchin III,259
+Clay,24,U.S. Senate,,DEM,Joe Manchin III,118
+Clay,25,U.S. Senate,,DEM,Joe Manchin III,206
+Clay,29,U.S. Senate,,DEM,Joe Manchin III,348
+Clay,33,U.S. Senate,,DEM,Joe Manchin III,161
+Clay,36,U.S. Senate,,DEM,Joe Manchin III,209
+Clay,37,U.S. Senate,,DEM,Joe Manchin III,105
+Clay,1,U.S. Senate,,REP,John R. Raese,18
+Clay,4,U.S. Senate,,REP,John R. Raese,36
+Clay,12,U.S. Senate,,REP,John R. Raese,29
+Clay,15,U.S. Senate,,REP,John R. Raese,117
+Clay,17,U.S. Senate,,REP,John R. Raese,142
+Clay,24,U.S. Senate,,REP,John R. Raese,68
+Clay,25,U.S. Senate,,REP,John R. Raese,77
+Clay,29,U.S. Senate,,REP,John R. Raese,174
+Clay,33,U.S. Senate,,REP,John R. Raese,135
+Clay,36,U.S. Senate,,REP,John R. Raese,101
+Clay,37,U.S. Senate,,REP,John R. Raese,96
+Clay,1,U.S. Senate,,MTN,Bob Henry Baber,3
+Clay,4,U.S. Senate,,MTN,Bob Henry Baber,2
+Clay,12,U.S. Senate,,MTN,Bob Henry Baber,5
+Clay,15,U.S. Senate,,MTN,Bob Henry Baber,20
+Clay,17,U.S. Senate,,MTN,Bob Henry Baber,24
+Clay,24,U.S. Senate,,MTN,Bob Henry Baber,9
+Clay,25,U.S. Senate,,MTN,Bob Henry Baber,12
+Clay,29,U.S. Senate,,MTN,Bob Henry Baber,20
+Clay,33,U.S. Senate,,MTN,Bob Henry Baber,14
+Clay,36,U.S. Senate,,MTN,Bob Henry Baber,18
+Clay,37,U.S. Senate,,MTN,Bob Henry Baber,5
+Clay,1,U.S. House,3,DEM,Nick J. Rahall II,37
+Clay,4,U.S. House,3,DEM,Nick J. Rahall II,23
+Clay,12,U.S. House,3,DEM,Nick J. Rahall II,53
+Clay,15,U.S. House,3,DEM,Nick J. Rahall II,94
+Clay,17,U.S. House,3,DEM,Nick J. Rahall II,105
+Clay,24,U.S. House,3,DEM,Nick J. Rahall II,64
+Clay,25,U.S. House,3,DEM,Nick J. Rahall II,103
+Clay,29,U.S. House,3,DEM,Nick J. Rahall II,108
+Clay,33,U.S. House,3,DEM,Nick J. Rahall II,57
+Clay,36,U.S. House,3,DEM,Nick J. Rahall II,78
+Clay,37,U.S. House,3,DEM,Nick J. Rahall II,49
+Clay,1,U.S. House,3,REP,Rick Snuffer,81
+Clay,4,U.S. House,3,REP,Rick Snuffer,52
+Clay,12,U.S. House,3,REP,Rick Snuffer,97
+Clay,15,U.S. House,3,REP,Rick Snuffer,267
+Clay,17,U.S. House,3,REP,Rick Snuffer,314
+Clay,24,U.S. House,3,REP,Rick Snuffer,126
+Clay,25,U.S. House,3,REP,Rick Snuffer,187
+Clay,29,U.S. House,3,REP,Rick Snuffer,427
+Clay,33,U.S. House,3,REP,Rick Snuffer,252
+Clay,36,U.S. House,3,REP,Rick Snuffer,243
+Clay,37,U.S. House,3,REP,Rick Snuffer,155
+Clay,1,Governor,,DEM,Earl Ray Tomblin,79
+Clay,4,Governor,,DEM,Earl Ray Tomblin,35
+Clay,12,Governor,,DEM,Earl Ray Tomblin,105
+Clay,15,Governor,,DEM,Earl Ray Tomblin,201
+Clay,17,Governor,,DEM,Earl Ray Tomblin,231
+Clay,24,Governor,,DEM,Earl Ray Tomblin,97
+Clay,25,Governor,,DEM,Earl Ray Tomblin,175
+Clay,29,Governor,,DEM,Earl Ray Tomblin,283
+Clay,33,Governor,,DEM,Earl Ray Tomblin,138
+Clay,36,Governor,,DEM,Earl Ray Tomblin,172
+Clay,37,Governor,,DEM,Earl Ray Tomblin,89
+Clay,1,Governor,,REP,Bill Maloney,39
+Clay,4,Governor,,REP,Bill Maloney,40
+Clay,12,Governor,,REP,Bill Maloney,38
+Clay,15,Governor,,REP,Bill Maloney,148
+Clay,17,Governor,,REP,Bill Maloney,180
+Clay,24,Governor,,REP,Bill Maloney,84
+Clay,25,Governor,,REP,Bill Maloney,104
+Clay,29,Governor,,REP,Bill Maloney,237
+Clay,33,Governor,,REP,Bill Maloney,160
+Clay,36,Governor,,REP,Bill Maloney,132
+Clay,37,Governor,,REP,Bill Maloney,116
+Clay,1,Governor,,LIB,David Moran,1
+Clay,4,Governor,,LIB,David Moran,0
+Clay,12,Governor,,LIB,David Moran,3
+Clay,15,Governor,,LIB,David Moran,6
+Clay,17,Governor,,LIB,David Moran,1
+Clay,24,Governor,,LIB,David Moran,2
+Clay,25,Governor,,LIB,David Moran,2
+Clay,29,Governor,,LIB,David Moran,2
+Clay,33,Governor,,LIB,David Moran,2
+Clay,36,Governor,,LIB,David Moran,1
+Clay,37,Governor,,LIB,David Moran,0
+Clay,1,Governor,,MTN,Jesse Johnson,2
+Clay,4,Governor,,MTN,Jesse Johnson,2
+Clay,12,Governor,,MTN,Jesse Johnson,5
+Clay,15,Governor,,MTN,Jesse Johnson,14
+Clay,17,Governor,,MTN,Jesse Johnson,17
+Clay,24,Governor,,MTN,Jesse Johnson,11
+Clay,25,Governor,,MTN,Jesse Johnson,15
+Clay,29,Governor,,MTN,Jesse Johnson,22
+Clay,33,Governor,,MTN,Jesse Johnson,13
+Clay,36,Governor,,MTN,Jesse Johnson,23
+Clay,37,Governor,,MTN,Jesse Johnson,2
+Clay,1,Secretary of State,,DEM,Natalie E. Tennant,90
+Clay,4,Secretary of State,,DEM,Natalie E. Tennant,43
+Clay,12,Secretary of State,,DEM,Natalie E. Tennant,110
+Clay,15,Secretary of State,,DEM,Natalie E. Tennant,252
+Clay,17,Secretary of State,,DEM,Natalie E. Tennant,322
+Clay,24,Secretary of State,,DEM,Natalie E. Tennant,130
+Clay,25,Secretary of State,,DEM,Natalie E. Tennant,219
+Clay,29,Secretary of State,,DEM,Natalie E. Tennant,366
+Clay,33,Secretary of State,,DEM,Natalie E. Tennant,192
+Clay,36,Secretary of State,,DEM,Natalie E. Tennant,223
+Clay,37,Secretary of State,,DEM,Natalie E. Tennant,114
+Clay,1,Secretary of State,,REP,Brian Savilla,29
+Clay,4,Secretary of State,,REP,Brian Savilla,31
+Clay,12,Secretary of State,,REP,Brian Savilla,33
+Clay,15,Secretary of State,,REP,Brian Savilla,108
+Clay,17,Secretary of State,,REP,Brian Savilla,100
+Clay,24,Secretary of State,,REP,Brian Savilla,63
+Clay,25,Secretary of State,,REP,Brian Savilla,69
+Clay,29,Secretary of State,,REP,Brian Savilla,158
+Clay,33,Secretary of State,,REP,Brian Savilla,119
+Clay,36,Secretary of State,,REP,Brian Savilla,96
+Clay,37,Secretary of State,,REP,Brian Savilla,90
+Clay,1,State Auditor,,DEM,Glen B. Gainer III,79
+Clay,4,State Auditor,,DEM,Glen B. Gainer III,40
+Clay,12,State Auditor,,DEM,Glen B. Gainer III,108
+Clay,15,State Auditor,,DEM,Glen B. Gainer III,238
+Clay,17,State Auditor,,DEM,Glen B. Gainer III,263
+Clay,24,State Auditor,,DEM,Glen B. Gainer III,101
+Clay,25,State Auditor,,DEM,Glen B. Gainer III,205
+Clay,29,State Auditor,,DEM,Glen B. Gainer III,318
+Clay,33,State Auditor,,DEM,Glen B. Gainer III,178
+Clay,36,State Auditor,,DEM,Glen B. Gainer III,185
+Clay,37,State Auditor,,DEM,Glen B. Gainer III,113
+Clay,1,State Auditor,,REP,Larry V. Faircloth,35
+Clay,4,State Auditor,,REP,Larry V. Faircloth,33
+Clay,12,State Auditor,,REP,Larry V. Faircloth,37
+Clay,15,State Auditor,,REP,Larry V. Faircloth,110
+Clay,17,State Auditor,,REP,Larry V. Faircloth,133
+Clay,24,State Auditor,,REP,Larry V. Faircloth,82
+Clay,25,State Auditor,,REP,Larry V. Faircloth,77
+Clay,29,State Auditor,,REP,Larry V. Faircloth,188
+Clay,33,State Auditor,,REP,Larry V. Faircloth,113
+Clay,36,State Auditor,,REP,Larry V. Faircloth,124
+Clay,37,State Auditor,,REP,Larry V. Faircloth,86
+Clay,1,State Treasurer,,DEM,John D. Perdue,73
+Clay,4,State Treasurer,,DEM,John D. Perdue,41
+Clay,12,State Treasurer,,DEM,John D. Perdue,113
+Clay,15,State Treasurer,,DEM,John D. Perdue,226
+Clay,17,State Treasurer,,DEM,John D. Perdue,282
+Clay,24,State Treasurer,,DEM,John D. Perdue,106
+Clay,25,State Treasurer,,DEM,John D. Perdue,198
+Clay,29,State Treasurer,,DEM,John D. Perdue,328
+Clay,33,State Treasurer,,DEM,John D. Perdue,178
+Clay,36,State Treasurer,,DEM,John D. Perdue,169
+Clay,37,State Treasurer,,DEM,John D. Perdue,109
+Clay,1,State Treasurer,,REP,Mike Hall,38
+Clay,4,State Treasurer,,REP,Mike Hall,32
+Clay,12,State Treasurer,,REP,Mike Hall,33
+Clay,15,State Treasurer,,REP,Mike Hall,123
+Clay,17,State Treasurer,,REP,Mike Hall,123
+Clay,24,State Treasurer,,REP,Mike Hall,81
+Clay,25,State Treasurer,,REP,Mike Hall,85
+Clay,29,State Treasurer,,REP,Mike Hall,188
+Clay,33,State Treasurer,,REP,Mike Hall,120
+Clay,36,State Treasurer,,REP,Mike Hall,133
+Clay,37,State Treasurer,,REP,Mike Hall,93
+Clay,1,Commissioner of Agriculture,,DEM,Walt Helmick,72
+Clay,4,Commissioner of Agriculture,,DEM,Walt Helmick,40
+Clay,12,Commissioner of Agriculture,,DEM,Walt Helmick,90
+Clay,15,Commissioner of Agriculture,,DEM,Walt Helmick,190
+Clay,17,Commissioner of Agriculture,,DEM,Walt Helmick,240
+Clay,24,Commissioner of Agriculture,,DEM,Walt Helmick,97
+Clay,25,Commissioner of Agriculture,,DEM,Walt Helmick,185
+Clay,29,Commissioner of Agriculture,,DEM,Walt Helmick,281
+Clay,33,Commissioner of Agriculture,,DEM,Walt Helmick,157
+Clay,36,Commissioner of Agriculture,,DEM,Walt Helmick,171
+Clay,37,Commissioner of Agriculture,,DEM,Walt Helmick,106
+Clay,1,Commissioner of Agriculture,,REP,Kent Leonhardt,42
+Clay,4,Commissioner of Agriculture,,REP,Kent Leonhardt,33
+Clay,12,Commissioner of Agriculture,,REP,Kent Leonhardt,52
+Clay,15,Commissioner of Agriculture,,REP,Kent Leonhardt,152
+Clay,17,Commissioner of Agriculture,,REP,Kent Leonhardt,157
+Clay,24,Commissioner of Agriculture,,REP,Kent Leonhardt,82
+Clay,25,Commissioner of Agriculture,,REP,Kent Leonhardt,92
+Clay,29,Commissioner of Agriculture,,REP,Kent Leonhardt,213
+Clay,33,Commissioner of Agriculture,,REP,Kent Leonhardt,137
+Clay,36,Commissioner of Agriculture,,REP,Kent Leonhardt,133
+Clay,37,Commissioner of Agriculture,,REP,Kent Leonhardt,89
+Clay,1,Attorney General,,DEM,Darrell V. McGraw Jr.,65
+Clay,4,Attorney General,,DEM,Darrell V. McGraw Jr.,35
+Clay,12,Attorney General,,DEM,Darrell V. McGraw Jr.,96
+Clay,15,Attorney General,,DEM,Darrell V. McGraw Jr.,206
+Clay,17,Attorney General,,DEM,Darrell V. McGraw Jr.,237
+Clay,24,Attorney General,,DEM,Darrell V. McGraw Jr.,100
+Clay,25,Attorney General,,DEM,Darrell V. McGraw Jr.,179
+Clay,29,Attorney General,,DEM,Darrell V. McGraw Jr.,290
+Clay,33,Attorney General,,DEM,Darrell V. McGraw Jr.,143
+Clay,36,Attorney General,,DEM,Darrell V. McGraw Jr.,170
+Clay,37,Attorney General,,DEM,Darrell V. McGraw Jr.,84
+Clay,1,Attorney General,,REP,Patrick Morrisey,53
+Clay,4,Attorney General,,REP,Patrick Morrisey,40
+Clay,12,Attorney General,,REP,Patrick Morrisey,49
+Clay,15,Attorney General,,REP,Patrick Morrisey,154
+Clay,17,Attorney General,,REP,Patrick Morrisey,179
+Clay,24,Attorney General,,REP,Patrick Morrisey,89
+Clay,25,Attorney General,,REP,Patrick Morrisey,108
+Clay,29,Attorney General,,REP,Patrick Morrisey,237
+Clay,33,Attorney General,,REP,Patrick Morrisey,163
+Clay,36,Attorney General,,REP,Patrick Morrisey,148
+Clay,37,Attorney General,,REP,Patrick Morrisey,119
+Clay,1,State Senate,12,DEM,Doug Facemire,97
+Clay,4,State Senate,12,DEM,Doug Facemire,54
+Clay,12,State Senate,12,DEM,Doug Facemire,117
+Clay,15,State Senate,12,DEM,Doug Facemire,262
+Clay,17,State Senate,12,DEM,Doug Facemire,334
+Clay,24,State Senate,12,DEM,Doug Facemire,133
+Clay,25,State Senate,12,DEM,Doug Facemire,218
+Clay,29,State Senate,12,DEM,Doug Facemire,386
+Clay,33,State Senate,12,DEM,Doug Facemire,203
+Clay,36,State Senate,12,DEM,Doug Facemire,226
+Clay,37,State Senate,12,DEM,Doug Facemire,136
+Clay,1,State House,33,DEM,David A. Walker,103
+Clay,4,State House,33,DEM,David A. Walker,51
+Clay,12,State House,33,DEM,David A. Walker,119
+Clay,15,State House,33,DEM,David A. Walker,302
+Clay,17,State House,33,DEM,David A. Walker,351
+Clay,24,State House,33,DEM,David A. Walker,151
+Clay,25,State House,33,DEM,David A. Walker,232
+Clay,29,State House,32,DEM,David A. Walker,871
+Clay,33,State House,33,DEM,David A. Walker,228
+Clay,36,State House,33,DEM,David A. Walker,250
+Clay,37,State House,33,DEM,David A. Walker,147
