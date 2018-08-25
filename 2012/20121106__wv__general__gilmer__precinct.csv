@@ -1,0 +1,365 @@
+county,precinct,office,district,party,candidate,votes
+Gilmer,1,President,,DEM,Barack Obama,63
+Gilmer,5,President,,DEM,Barack Obama,91
+Gilmer,6,President,,DEM,Barack Obama,48
+Gilmer,12,President,,DEM,Barack Obama,65
+Gilmer,13,President,,DEM,Barack Obama,40
+Gilmer,14,President,,DEM,Barack Obama,0
+Gilmer,15,President,,DEM,Barack Obama,9
+Gilmer,16,President,,DEM,Barack Obama,184
+Gilmer,17,President,,DEM,Barack Obama,94
+Gilmer,18,President,,DEM,Barack Obama,49
+Gilmer,20,President,,DEM,Barack Obama,27
+Gilmer,24,President,,DEM,Barack Obama,93
+Gilmer,27,President,,DEM,Barack Obama,39
+Gilmer,31,President,,DEM,Barack Obama,38
+Gilmer,1,President,,REP,Mitt Romney,204
+Gilmer,5,President,,REP,Mitt Romney,159
+Gilmer,6,President,,REP,Mitt Romney,116
+Gilmer,12,President,,REP,Mitt Romney,137
+Gilmer,13,President,,REP,Mitt Romney,90
+Gilmer,14,President,,REP,Mitt Romney,3
+Gilmer,15,President,,REP,Mitt Romney,11
+Gilmer,16,President,,REP,Mitt Romney,174
+Gilmer,17,President,,REP,Mitt Romney,152
+Gilmer,18,President,,REP,Mitt Romney,87
+Gilmer,20,President,,REP,Mitt Romney,43
+Gilmer,24,President,,REP,Mitt Romney,184
+Gilmer,27,President,,REP,Mitt Romney,140
+Gilmer,31,President,,REP,Mitt Romney,95
+Gilmer,1,President,,LIB,Gary Johnson,1
+Gilmer,5,President,,LIB,Gary Johnson,1
+Gilmer,6,President,,LIB,Gary Johnson,2
+Gilmer,12,President,,LIB,Gary Johnson,2
+Gilmer,13,President,,LIB,Gary Johnson,1
+Gilmer,14,President,,LIB,Gary Johnson,0
+Gilmer,15,President,,LIB,Gary Johnson,0
+Gilmer,16,President,,LIB,Gary Johnson,5
+Gilmer,17,President,,LIB,Gary Johnson,7
+Gilmer,18,President,,LIB,Gary Johnson,2
+Gilmer,20,President,,LIB,Gary Johnson,1
+Gilmer,24,President,,LIB,Gary Johnson,2
+Gilmer,27,President,,LIB,Gary Johnson,2
+Gilmer,31,President,,LIB,Gary Johnson,1
+Gilmer,1,President,,MTN,Jill Stein,1
+Gilmer,5,President,,MTN,Jill Stein,3
+Gilmer,6,President,,MTN,Jill Stein,2
+Gilmer,12,President,,MTN,Jill Stein,3
+Gilmer,13,President,,MTN,Jill Stein,2
+Gilmer,14,President,,MTN,Jill Stein,0
+Gilmer,15,President,,MTN,Jill Stein,1
+Gilmer,16,President,,MTN,Jill Stein,3
+Gilmer,17,President,,MTN,Jill Stein,4
+Gilmer,18,President,,MTN,Jill Stein,0
+Gilmer,20,President,,MTN,Jill Stein,0
+Gilmer,24,President,,MTN,Jill Stein,3
+Gilmer,27,President,,MTN,Jill Stein,2
+Gilmer,31,President,,MTN,Jill Stein,1
+Gilmer,1,President,,,Randall Terry,4
+Gilmer,5,President,,,Randall Terry,2
+Gilmer,6,President,,,Randall Terry,0
+Gilmer,12,President,,,Randall Terry,2
+Gilmer,13,President,,,Randall Terry,2
+Gilmer,14,President,,,Randall Terry,1
+Gilmer,15,President,,,Randall Terry,0
+Gilmer,16,President,,,Randall Terry,4
+Gilmer,17,President,,,Randall Terry,1
+Gilmer,18,President,,,Randall Terry,0
+Gilmer,20,President,,,Randall Terry,3
+Gilmer,24,President,,,Randall Terry,0
+Gilmer,27,President,,,Randall Terry,1
+Gilmer,31,President,,,Randall Terry,2
+Gilmer,1,U.S. Senate,,DEM,Joe Manchin III,152
+Gilmer,5,U.S. Senate,,DEM,Joe Manchin III,131
+Gilmer,6,U.S. Senate,,DEM,Joe Manchin III,81
+Gilmer,12,U.S. Senate,,DEM,Joe Manchin III,110
+Gilmer,13,U.S. Senate,,DEM,Joe Manchin III,55
+Gilmer,14,U.S. Senate,,DEM,Joe Manchin III,2
+Gilmer,15,U.S. Senate,,DEM,Joe Manchin III,12
+Gilmer,16,U.S. Senate,,DEM,Joe Manchin III,248
+Gilmer,17,U.S. Senate,,DEM,Joe Manchin III,177
+Gilmer,18,U.S. Senate,,DEM,Joe Manchin III,81
+Gilmer,20,U.S. Senate,,DEM,Joe Manchin III,44
+Gilmer,24,U.S. Senate,,DEM,Joe Manchin III,167
+Gilmer,27,U.S. Senate,,DEM,Joe Manchin III,81
+Gilmer,31,U.S. Senate,,DEM,Joe Manchin III,68
+Gilmer,1,U.S. Senate,,REP,John R. Raese,109
+Gilmer,5,U.S. Senate,,REP,John R. Raese,100
+Gilmer,6,U.S. Senate,,REP,John R. Raese,82
+Gilmer,12,U.S. Senate,,REP,John R. Raese,79
+Gilmer,13,U.S. Senate,,REP,John R. Raese,59
+Gilmer,14,U.S. Senate,,REP,John R. Raese,0
+Gilmer,15,U.S. Senate,,REP,John R. Raese,5
+Gilmer,16,U.S. Senate,,REP,John R. Raese,79
+Gilmer,17,U.S. Senate,,REP,John R. Raese,68
+Gilmer,18,U.S. Senate,,REP,John R. Raese,37
+Gilmer,20,U.S. Senate,,REP,John R. Raese,24
+Gilmer,24,U.S. Senate,,REP,John R. Raese,85
+Gilmer,27,U.S. Senate,,REP,John R. Raese,94
+Gilmer,31,U.S. Senate,,REP,John R. Raese,60
+Gilmer,1,U.S. Senate,,MTN,Bob Henry Baber,17
+Gilmer,5,U.S. Senate,,MTN,Bob Henry Baber,20
+Gilmer,6,U.S. Senate,,MTN,Bob Henry Baber,5
+Gilmer,12,U.S. Senate,,MTN,Bob Henry Baber,22
+Gilmer,13,U.S. Senate,,MTN,Bob Henry Baber,20
+Gilmer,14,U.S. Senate,,MTN,Bob Henry Baber,2
+Gilmer,15,U.S. Senate,,MTN,Bob Henry Baber,4
+Gilmer,16,U.S. Senate,,MTN,Bob Henry Baber,44
+Gilmer,17,U.S. Senate,,MTN,Bob Henry Baber,22
+Gilmer,18,U.S. Senate,,MTN,Bob Henry Baber,21
+Gilmer,20,U.S. Senate,,MTN,Bob Henry Baber,6
+Gilmer,24,U.S. Senate,,MTN,Bob Henry Baber,31
+Gilmer,27,U.S. Senate,,MTN,Bob Henry Baber,10
+Gilmer,31,U.S. Senate,,MTN,Bob Henry Baber,14
+Gilmer,1,U.S. House,1,DEM,Sue Thorn,88
+Gilmer,5,U.S. House,1,DEM,Sue Thorn,92
+Gilmer,6,U.S. House,1,DEM,Sue Thorn,55
+Gilmer,12,U.S. House,1,DEM,Sue Thorn,77
+Gilmer,13,U.S. House,1,DEM,Sue Thorn,52
+Gilmer,14,U.S. House,1,DEM,Sue Thorn,2
+Gilmer,15,U.S. House,1,DEM,Sue Thorn,7
+Gilmer,16,U.S. House,1,DEM,Sue Thorn,180
+Gilmer,17,U.S. House,1,DEM,Sue Thorn,116
+Gilmer,18,U.S. House,1,DEM,Sue Thorn,56
+Gilmer,20,U.S. House,1,DEM,Sue Thorn,27
+Gilmer,24,U.S. House,1,DEM,Sue Thorn,106
+Gilmer,27,U.S. House,1,DEM,Sue Thorn,63
+Gilmer,31,U.S. House,1,DEM,Sue Thorn,55
+Gilmer,1,U.S. House,1,REP,David B. McKinley,169
+Gilmer,5,U.S. House,1,REP,David B. McKinley,135
+Gilmer,6,U.S. House,1,REP,David B. McKinley,109
+Gilmer,12,U.S. House,1,REP,David B. McKinley,118
+Gilmer,13,U.S. House,1,REP,David B. McKinley,78
+Gilmer,14,U.S. House,1,REP,David B. McKinley,2
+Gilmer,15,U.S. House,1,REP,David B. McKinley,10
+Gilmer,16,U.S. House,1,REP,David B. McKinley,177
+Gilmer,17,U.S. House,1,REP,David B. McKinley,136
+Gilmer,18,U.S. House,1,REP,David B. McKinley,70
+Gilmer,20,U.S. House,1,REP,David B. McKinley,45
+Gilmer,24,U.S. House,1,REP,David B. McKinley,155
+Gilmer,27,U.S. House,1,REP,David B. McKinley,114
+Gilmer,31,U.S. House,1,REP,David B. McKinley,78
+Gilmer,1,Governor,,DEM,Earl Ray Tomblin,134
+Gilmer,5,Governor,,DEM,Earl Ray Tomblin,139
+Gilmer,6,Governor,,DEM,Earl Ray Tomblin,66
+Gilmer,12,Governor,,DEM,Earl Ray Tomblin,105
+Gilmer,13,Governor,,DEM,Earl Ray Tomblin,49
+Gilmer,14,Governor,,DEM,Earl Ray Tomblin,3
+Gilmer,15,Governor,,DEM,Earl Ray Tomblin,9
+Gilmer,16,Governor,,DEM,Earl Ray Tomblin,251
+Gilmer,17,Governor,,DEM,Earl Ray Tomblin,180
+Gilmer,18,Governor,,DEM,Earl Ray Tomblin,77
+Gilmer,20,Governor,,DEM,Earl Ray Tomblin,37
+Gilmer,24,Governor,,DEM,Earl Ray Tomblin,155
+Gilmer,27,Governor,,DEM,Earl Ray Tomblin,77
+Gilmer,31,Governor,,DEM,Earl Ray Tomblin,63
+Gilmer,1,Governor,,REP,Bill Maloney,131
+Gilmer,5,Governor,,REP,Bill Maloney,97
+Gilmer,6,Governor,,REP,Bill Maloney,98
+Gilmer,12,Governor,,REP,Bill Maloney,92
+Gilmer,13,Governor,,REP,Bill Maloney,76
+Gilmer,14,Governor,,REP,Bill Maloney,1
+Gilmer,15,Governor,,REP,Bill Maloney,10
+Gilmer,16,Governor,,REP,Bill Maloney,101
+Gilmer,17,Governor,,REP,Bill Maloney,78
+Gilmer,18,Governor,,REP,Bill Maloney,52
+Gilmer,20,Governor,,REP,Bill Maloney,30
+Gilmer,24,Governor,,REP,Bill Maloney,103
+Gilmer,27,Governor,,REP,Bill Maloney,97
+Gilmer,31,Governor,,REP,Bill Maloney,67
+Gilmer,1,Governor,,LIB,David Moran,1
+Gilmer,5,Governor,,LIB,David Moran,2
+Gilmer,6,Governor,,LIB,David Moran,2
+Gilmer,12,Governor,,LIB,David Moran,5
+Gilmer,13,Governor,,LIB,David Moran,1
+Gilmer,14,Governor,,LIB,David Moran,0
+Gilmer,15,Governor,,LIB,David Moran,0
+Gilmer,16,Governor,,LIB,David Moran,4
+Gilmer,17,Governor,,LIB,David Moran,3
+Gilmer,18,Governor,,LIB,David Moran,4
+Gilmer,20,Governor,,LIB,David Moran,2
+Gilmer,24,Governor,,LIB,David Moran,7
+Gilmer,27,Governor,,LIB,David Moran,5
+Gilmer,31,Governor,,LIB,David Moran,1
+Gilmer,1,Governor,,MTN,Jesse Johnson,6
+Gilmer,5,Governor,,MTN,Jesse Johnson,11
+Gilmer,6,Governor,,MTN,Jesse Johnson,4
+Gilmer,12,Governor,,MTN,Jesse Johnson,5
+Gilmer,13,Governor,,MTN,Jesse Johnson,8
+Gilmer,14,Governor,,MTN,Jesse Johnson,0
+Gilmer,15,Governor,,MTN,Jesse Johnson,1
+Gilmer,16,Governor,,MTN,Jesse Johnson,11
+Gilmer,17,Governor,,MTN,Jesse Johnson,5
+Gilmer,18,Governor,,MTN,Jesse Johnson,8
+Gilmer,20,Governor,,MTN,Jesse Johnson,4
+Gilmer,24,Governor,,MTN,Jesse Johnson,13
+Gilmer,27,Governor,,MTN,Jesse Johnson,6
+Gilmer,31,Governor,,MTN,Jesse Johnson,7
+Gilmer,1,Secretary of State,,DEM,Natalie E. Tennant,164
+Gilmer,5,Secretary of State,,DEM,Natalie E. Tennant,154
+Gilmer,6,Secretary of State,,DEM,Natalie E. Tennant,88
+Gilmer,12,Secretary of State,,DEM,Natalie E. Tennant,138
+Gilmer,13,Secretary of State,,DEM,Natalie E. Tennant,76
+Gilmer,14,Secretary of State,,DEM,Natalie E. Tennant,4
+Gilmer,15,Secretary of State,,DEM,Natalie E. Tennant,16
+Gilmer,16,Secretary of State,,DEM,Natalie E. Tennant,270
+Gilmer,17,Secretary of State,,DEM,Natalie E. Tennant,193
+Gilmer,18,Secretary of State,,DEM,Natalie E. Tennant,90
+Gilmer,20,Secretary of State,,DEM,Natalie E. Tennant,44
+Gilmer,24,Secretary of State,,DEM,Natalie E. Tennant,205
+Gilmer,27,Secretary of State,,DEM,Natalie E. Tennant,114
+Gilmer,31,Secretary of State,,DEM,Natalie E. Tennant,97
+Gilmer,1,Secretary of State,,REP,Brian Savilla,95
+Gilmer,5,Secretary of State,,REP,Brian Savilla,72
+Gilmer,6,Secretary of State,,REP,Brian Savilla,72
+Gilmer,12,Secretary of State,,REP,Brian Savilla,56
+Gilmer,13,Secretary of State,,REP,Brian Savilla,52
+Gilmer,14,Secretary of State,,REP,Brian Savilla,0
+Gilmer,15,Secretary of State,,REP,Brian Savilla,4
+Gilmer,16,Secretary of State,,REP,Brian Savilla,84
+Gilmer,17,Secretary of State,,REP,Brian Savilla,60
+Gilmer,18,Secretary of State,,REP,Brian Savilla,40
+Gilmer,20,Secretary of State,,REP,Brian Savilla,27
+Gilmer,24,Secretary of State,,REP,Brian Savilla,71
+Gilmer,27,Secretary of State,,REP,Brian Savilla,62
+Gilmer,31,Secretary of State,,REP,Brian Savilla,36
+Gilmer,1,State Auditor,,DEM,Glen B. Gainer III,186
+Gilmer,5,State Auditor,,DEM,Glen B. Gainer III,175
+Gilmer,6,State Auditor,,DEM,Glen B. Gainer III,96
+Gilmer,12,State Auditor,,DEM,Glen B. Gainer III,140
+Gilmer,13,State Auditor,,DEM,Glen B. Gainer III,81
+Gilmer,14,State Auditor,,DEM,Glen B. Gainer III,3
+Gilmer,15,State Auditor,,DEM,Glen B. Gainer III,14
+Gilmer,16,State Auditor,,DEM,Glen B. Gainer III,279
+Gilmer,17,State Auditor,,DEM,Glen B. Gainer III,205
+Gilmer,18,State Auditor,,DEM,Glen B. Gainer III,102
+Gilmer,20,State Auditor,,DEM,Glen B. Gainer III,51
+Gilmer,24,State Auditor,,DEM,Glen B. Gainer III,195
+Gilmer,27,State Auditor,,DEM,Glen B. Gainer III,97
+Gilmer,31,State Auditor,,DEM,Glen B. Gainer III,93
+Gilmer,1,State Auditor,,REP,Larry V. Faircloth,80
+Gilmer,5,State Auditor,,REP,Larry V. Faircloth,59
+Gilmer,6,State Auditor,,REP,Larry V. Faircloth,69
+Gilmer,12,State Auditor,,REP,Larry V. Faircloth,52
+Gilmer,13,State Auditor,,REP,Larry V. Faircloth,45
+Gilmer,14,State Auditor,,REP,Larry V. Faircloth,1
+Gilmer,15,State Auditor,,REP,Larry V. Faircloth,3
+Gilmer,16,State Auditor,,REP,Larry V. Faircloth,70
+Gilmer,17,State Auditor,,REP,Larry V. Faircloth,58
+Gilmer,18,State Auditor,,REP,Larry V. Faircloth,29
+Gilmer,20,State Auditor,,REP,Larry V. Faircloth,19
+Gilmer,24,State Auditor,,REP,Larry V. Faircloth,66
+Gilmer,27,State Auditor,,REP,Larry V. Faircloth,78
+Gilmer,31,State Auditor,,REP,Larry V. Faircloth,38
+Gilmer,1,State Treasurer,,DEM,John D. Perdue,162
+Gilmer,5,State Treasurer,,DEM,John D. Perdue,169
+Gilmer,6,State Treasurer,,DEM,John D. Perdue,89
+Gilmer,12,State Treasurer,,DEM,John D. Perdue,131
+Gilmer,13,State Treasurer,,DEM,John D. Perdue,71
+Gilmer,14,State Treasurer,,DEM,John D. Perdue,4
+Gilmer,15,State Treasurer,,DEM,John D. Perdue,12
+Gilmer,16,State Treasurer,,DEM,John D. Perdue,248
+Gilmer,17,State Treasurer,,DEM,John D. Perdue,188
+Gilmer,18,State Treasurer,,DEM,John D. Perdue,84
+Gilmer,20,State Treasurer,,DEM,John D. Perdue,48
+Gilmer,24,State Treasurer,,DEM,John D. Perdue,177
+Gilmer,27,State Treasurer,,DEM,John D. Perdue,88
+Gilmer,31,State Treasurer,,DEM,John D. Perdue,85
+Gilmer,1,State Treasurer,,REP,Mike Hall,99
+Gilmer,5,State Treasurer,,REP,Mike Hall,67
+Gilmer,6,State Treasurer,,REP,Mike Hall,72
+Gilmer,12,State Treasurer,,REP,Mike Hall,62
+Gilmer,13,State Treasurer,,REP,Mike Hall,54
+Gilmer,14,State Treasurer,,REP,Mike Hall,0
+Gilmer,15,State Treasurer,,REP,Mike Hall,7
+Gilmer,16,State Treasurer,,REP,Mike Hall,94
+Gilmer,17,State Treasurer,,REP,Mike Hall,67
+Gilmer,18,State Treasurer,,REP,Mike Hall,41
+Gilmer,20,State Treasurer,,REP,Mike Hall,23
+Gilmer,24,State Treasurer,,REP,Mike Hall,83
+Gilmer,27,State Treasurer,,REP,Mike Hall,89
+Gilmer,31,State Treasurer,,REP,Mike Hall,46
+Gilmer,1,Commissioner of Agriculture,,DEM,Walt Helmick,150
+Gilmer,5,Commissioner of Agriculture,,DEM,Walt Helmick,147
+Gilmer,6,Commissioner of Agriculture,,DEM,Walt Helmick,83
+Gilmer,12,Commissioner of Agriculture,,DEM,Walt Helmick,119
+Gilmer,13,Commissioner of Agriculture,,DEM,Walt Helmick,66
+Gilmer,14,Commissioner of Agriculture,,DEM,Walt Helmick,4
+Gilmer,15,Commissioner of Agriculture,,DEM,Walt Helmick,11
+Gilmer,16,Commissioner of Agriculture,,DEM,Walt Helmick,229
+Gilmer,17,Commissioner of Agriculture,,DEM,Walt Helmick,178
+Gilmer,18,Commissioner of Agriculture,,DEM,Walt Helmick,83
+Gilmer,20,Commissioner of Agriculture,,DEM,Walt Helmick,41
+Gilmer,24,Commissioner of Agriculture,,DEM,Walt Helmick,163
+Gilmer,27,Commissioner of Agriculture,,DEM,Walt Helmick,82
+Gilmer,31,Commissioner of Agriculture,,DEM,Walt Helmick,74
+Gilmer,1,Commissioner of Agriculture,,REP,Kent Leonhardt,100
+Gilmer,5,Commissioner of Agriculture,,REP,Kent Leonhardt,71
+Gilmer,6,Commissioner of Agriculture,,REP,Kent Leonhardt,74
+Gilmer,12,Commissioner of Agriculture,,REP,Kent Leonhardt,65
+Gilmer,13,Commissioner of Agriculture,,REP,Kent Leonhardt,59
+Gilmer,14,Commissioner of Agriculture,,REP,Kent Leonhardt,0
+Gilmer,15,Commissioner of Agriculture,,REP,Kent Leonhardt,4
+Gilmer,16,Commissioner of Agriculture,,REP,Kent Leonhardt,104
+Gilmer,17,Commissioner of Agriculture,,REP,Kent Leonhardt,72
+Gilmer,18,Commissioner of Agriculture,,REP,Kent Leonhardt,48
+Gilmer,20,Commissioner of Agriculture,,REP,Kent Leonhardt,28
+Gilmer,24,Commissioner of Agriculture,,REP,Kent Leonhardt,99
+Gilmer,27,Commissioner of Agriculture,,REP,Kent Leonhardt,93
+Gilmer,31,Commissioner of Agriculture,,REP,Kent Leonhardt,56
+Gilmer,1,Attorney General,,DEM,Darrell V. McGraw Jr.,121
+Gilmer,5,Attorney General,,DEM,Darrell V. McGraw Jr.,139
+Gilmer,6,Attorney General,,DEM,Darrell V. McGraw Jr.,71
+Gilmer,12,Attorney General,,DEM,Darrell V. McGraw Jr.,99
+Gilmer,13,Attorney General,,DEM,Darrell V. McGraw Jr.,54
+Gilmer,14,Attorney General,,DEM,Darrell V. McGraw Jr.,0
+Gilmer,15,Attorney General,,DEM,Darrell V. McGraw Jr.,12
+Gilmer,16,Attorney General,,DEM,Darrell V. McGraw Jr.,225
+Gilmer,17,Attorney General,,DEM,Darrell V. McGraw Jr.,166
+Gilmer,18,Attorney General,,DEM,Darrell V. McGraw Jr.,71
+Gilmer,20,Attorney General,,DEM,Darrell V. McGraw Jr.,41
+Gilmer,24,Attorney General,,DEM,Darrell V. McGraw Jr.,145
+Gilmer,27,Attorney General,,DEM,Darrell V. McGraw Jr.,70
+Gilmer,31,Attorney General,,DEM,Darrell V. McGraw Jr.,76
+Gilmer,1,Attorney General,,REP,Patrick Morrisey,137
+Gilmer,5,Attorney General,,REP,Patrick Morrisey,94
+Gilmer,6,Attorney General,,REP,Patrick Morrisey,93
+Gilmer,12,Attorney General,,REP,Patrick Morrisey,107
+Gilmer,13,Attorney General,,REP,Patrick Morrisey,77
+Gilmer,14,Attorney General,,REP,Patrick Morrisey,4
+Gilmer,15,Attorney General,,REP,Patrick Morrisey,8
+Gilmer,16,Attorney General,,REP,Patrick Morrisey,125
+Gilmer,17,Attorney General,,REP,Patrick Morrisey,92
+Gilmer,18,Attorney General,,REP,Patrick Morrisey,60
+Gilmer,20,Attorney General,,REP,Patrick Morrisey,29
+Gilmer,24,Attorney General,,REP,Patrick Morrisey,125
+Gilmer,27,Attorney General,,REP,Patrick Morrisey,109
+Gilmer,31,Attorney General,,REP,Patrick Morrisey,55
+Gilmer,1,State Senate,2,DEM,Jeffrey V. Kessler,177
+Gilmer,5,State Senate,2,DEM,Jeffrey V. Kessler,164
+Gilmer,6,State Senate,2,DEM,Jeffrey V. Kessler,115
+Gilmer,12,State Senate,2,DEM,Jeffrey V. Kessler,132
+Gilmer,13,State Senate,2,DEM,Jeffrey V. Kessler,72
+Gilmer,14,State Senate,12,DEM,Doug Facemire,4
+Gilmer,15,State Senate,12,DEM,Doug Facemire,16
+Gilmer,16,State Senate,12,DEM,Doug Facemire,296
+Gilmer,17,State Senate,12,DEM,Doug Facemire,204
+Gilmer,18,State Senate,12,DEM,Doug Facemire,105
+Gilmer,20,State Senate,12,DEM,Doug Facemire,52
+Gilmer,24,State Senate,2,DEM,Jeffrey V. Kessler,182
+Gilmer,27,State Senate,2,DEM,Jeffrey V. Kessler,113
+Gilmer,31,State Senate,2,DEM,Jeffrey V. Kessler,99
+Gilmer,1,State House,33,DEM,David A. Walker,201
+Gilmer,5,State House,34,DEM,Brent Boggs,206
+Gilmer,6,State House,33,DEM,David A. Walker,127
+Gilmer,12,State House,33,DEM,David A. Walker,149
+Gilmer,13,State House,33,DEM,David A. Walker,84
+Gilmer,14,State House,33,DEM,David A. Walker,4
+Gilmer,15,State House,33,DEM,David A. Walker,14
+Gilmer,16,State House,34,DEM,Brent Boggs,312
+Gilmer,17,State House,34,DEM,Brent Boggs,226
+Gilmer,18,State House,34,DEM,Brent Boggs,121
+Gilmer,20,State House,34,DEM,Brent Boggs,59
+Gilmer,24,State House,33,DEM,David A. Walker,201
+Gilmer,27,State House,33,DEM,David A. Walker,121
+Gilmer,31,State House,33,DEM,David A. Walker,102
