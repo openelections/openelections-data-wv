@@ -1,0 +1,794 @@
+county,precinct,office,district,party,candidate,votes
+Mineral,1,President,,DEM,Barack Obama,104
+Mineral,2,President,,DEM,Barack Obama,107
+Mineral,3,President,,DEM,Barack Obama,13
+Mineral,4,President,,DEM,Barack Obama,69
+Mineral,5,President,,DEM,Barack Obama,105
+Mineral,7,President,,DEM,Barack Obama,182
+Mineral,8,President,,DEM,Barack Obama,59
+Mineral,9,President,,DEM,Barack Obama,113
+Mineral,10,President,,DEM,Barack Obama,129
+Mineral,11,President,,DEM,Barack Obama,162
+Mineral,12,President,,DEM,Barack Obama,93
+Mineral,13,President,,DEM,Barack Obama,80
+Mineral,15,President,,DEM,Barack Obama,123
+Mineral,16,President,,DEM,Barack Obama,89
+Mineral,18,President,,DEM,Barack Obama,54
+Mineral,19,President,,DEM,Barack Obama,95
+Mineral,20,President,,DEM,Barack Obama,79
+Mineral,21,President,,DEM,Barack Obama,47
+Mineral,22,President,,DEM,Barack Obama,52
+Mineral,23,President,,DEM,Barack Obama,129
+Mineral,24,President,,DEM,Barack Obama,101
+Mineral,25,President,,DEM,Barack Obama,84
+Mineral,26,President,,DEM,Barack Obama,78
+Mineral,27,President,,DEM,Barack Obama,119
+Mineral,28,President,,DEM,Barack Obama,57
+Mineral,30,President,,DEM,Barack Obama,151
+Mineral,31,President,,DEM,Barack Obama,100
+Mineral,32,President,,DEM,Barack Obama,85
+Mineral,33,President,,DEM,Barack Obama,101
+Mineral,34,President,,DEM,Barack Obama,94
+Mineral,35,President,,DEM,Barack Obama,31
+Mineral,1,President,,REP,Mitt Romney,421
+Mineral,2,President,,REP,Mitt Romney,384
+Mineral,3,President,,REP,Mitt Romney,82
+Mineral,4,President,,REP,Mitt Romney,299
+Mineral,5,President,,REP,Mitt Romney,362
+Mineral,7,President,,REP,Mitt Romney,485
+Mineral,8,President,,REP,Mitt Romney,256
+Mineral,9,President,,REP,Mitt Romney,339
+Mineral,10,President,,REP,Mitt Romney,385
+Mineral,11,President,,REP,Mitt Romney,438
+Mineral,12,President,,REP,Mitt Romney,185
+Mineral,13,President,,REP,Mitt Romney,159
+Mineral,15,President,,REP,Mitt Romney,261
+Mineral,16,President,,REP,Mitt Romney,142
+Mineral,18,President,,REP,Mitt Romney,106
+Mineral,19,President,,REP,Mitt Romney,119
+Mineral,20,President,,REP,Mitt Romney,77
+Mineral,21,President,,REP,Mitt Romney,75
+Mineral,22,President,,REP,Mitt Romney,74
+Mineral,23,President,,REP,Mitt Romney,194
+Mineral,24,President,,REP,Mitt Romney,235
+Mineral,25,President,,REP,Mitt Romney,253
+Mineral,26,President,,REP,Mitt Romney,193
+Mineral,27,President,,REP,Mitt Romney,459
+Mineral,28,President,,REP,Mitt Romney,231
+Mineral,30,President,,REP,Mitt Romney,119
+Mineral,31,President,,REP,Mitt Romney,279
+Mineral,32,President,,REP,Mitt Romney,278
+Mineral,33,President,,REP,Mitt Romney,328
+Mineral,34,President,,REP,Mitt Romney,391
+Mineral,35,President,,REP,Mitt Romney,224
+Mineral,1,President,,LIB,Gary Johnson,5
+Mineral,2,President,,LIB,Gary Johnson,4
+Mineral,3,President,,LIB,Gary Johnson,0
+Mineral,4,President,,LIB,Gary Johnson,3
+Mineral,5,President,,LIB,Gary Johnson,6
+Mineral,7,President,,LIB,Gary Johnson,5
+Mineral,8,President,,LIB,Gary Johnson,1
+Mineral,9,President,,LIB,Gary Johnson,5
+Mineral,10,President,,LIB,Gary Johnson,3
+Mineral,11,President,,LIB,Gary Johnson,5
+Mineral,12,President,,LIB,Gary Johnson,7
+Mineral,13,President,,LIB,Gary Johnson,1
+Mineral,15,President,,LIB,Gary Johnson,2
+Mineral,16,President,,LIB,Gary Johnson,4
+Mineral,18,President,,LIB,Gary Johnson,3
+Mineral,19,President,,LIB,Gary Johnson,4
+Mineral,20,President,,LIB,Gary Johnson,1
+Mineral,21,President,,LIB,Gary Johnson,2
+Mineral,22,President,,LIB,Gary Johnson,4
+Mineral,23,President,,LIB,Gary Johnson,5
+Mineral,24,President,,LIB,Gary Johnson,2
+Mineral,25,President,,LIB,Gary Johnson,2
+Mineral,26,President,,LIB,Gary Johnson,5
+Mineral,27,President,,LIB,Gary Johnson,5
+Mineral,28,President,,LIB,Gary Johnson,2
+Mineral,30,President,,LIB,Gary Johnson,5
+Mineral,31,President,,LIB,Gary Johnson,9
+Mineral,32,President,,LIB,Gary Johnson,4
+Mineral,33,President,,LIB,Gary Johnson,2
+Mineral,34,President,,LIB,Gary Johnson,2
+Mineral,35,President,,LIB,Gary Johnson,2
+Mineral,1,President,,MTN,Jill Stein,1
+Mineral,2,President,,MTN,Jill Stein,8
+Mineral,3,President,,MTN,Jill Stein,0
+Mineral,4,President,,MTN,Jill Stein,1
+Mineral,5,President,,MTN,Jill Stein,1
+Mineral,7,President,,MTN,Jill Stein,7
+Mineral,8,President,,MTN,Jill Stein,2
+Mineral,9,President,,MTN,Jill Stein,3
+Mineral,10,President,,MTN,Jill Stein,1
+Mineral,11,President,,MTN,Jill Stein,1
+Mineral,12,President,,MTN,Jill Stein,2
+Mineral,13,President,,MTN,Jill Stein,3
+Mineral,15,President,,MTN,Jill Stein,3
+Mineral,16,President,,MTN,Jill Stein,1
+Mineral,18,President,,MTN,Jill Stein,0
+Mineral,19,President,,MTN,Jill Stein,2
+Mineral,20,President,,MTN,Jill Stein,1
+Mineral,21,President,,MTN,Jill Stein,1
+Mineral,22,President,,MTN,Jill Stein,1
+Mineral,23,President,,MTN,Jill Stein,1
+Mineral,24,President,,MTN,Jill Stein,2
+Mineral,25,President,,MTN,Jill Stein,1
+Mineral,26,President,,MTN,Jill Stein,1
+Mineral,27,President,,MTN,Jill Stein,3
+Mineral,28,President,,MTN,Jill Stein,1
+Mineral,30,President,,MTN,Jill Stein,3
+Mineral,31,President,,MTN,Jill Stein,3
+Mineral,32,President,,MTN,Jill Stein,3
+Mineral,33,President,,MTN,Jill Stein,4
+Mineral,34,President,,MTN,Jill Stein,2
+Mineral,35,President,,MTN,Jill Stein,1
+Mineral,1,President,,,Randall Terry,1
+Mineral,2,President,,,Randall Terry,4
+Mineral,3,President,,,Randall Terry,1
+Mineral,4,President,,,Randall Terry,3
+Mineral,5,President,,,Randall Terry,3
+Mineral,7,President,,,Randall Terry,4
+Mineral,8,President,,,Randall Terry,3
+Mineral,9,President,,,Randall Terry,0
+Mineral,10,President,,,Randall Terry,7
+Mineral,11,President,,,Randall Terry,3
+Mineral,12,President,,,Randall Terry,2
+Mineral,13,President,,,Randall Terry,0
+Mineral,15,President,,,Randall Terry,1
+Mineral,16,President,,,Randall Terry,3
+Mineral,18,President,,,Randall Terry,1
+Mineral,19,President,,,Randall Terry,2
+Mineral,20,President,,,Randall Terry,0
+Mineral,21,President,,,Randall Terry,1
+Mineral,22,President,,,Randall Terry,3
+Mineral,23,President,,,Randall Terry,2
+Mineral,24,President,,,Randall Terry,1
+Mineral,25,President,,,Randall Terry,5
+Mineral,26,President,,,Randall Terry,5
+Mineral,27,President,,,Randall Terry,2
+Mineral,28,President,,,Randall Terry,4
+Mineral,30,President,,,Randall Terry,4
+Mineral,31,President,,,Randall Terry,4
+Mineral,32,President,,,Randall Terry,2
+Mineral,33,President,,,Randall Terry,8
+Mineral,34,President,,,Randall Terry,4
+Mineral,35,President,,,Randall Terry,4
+Mineral,1,U.S. Senate,,DEM,Joe Manchin III,238
+Mineral,2,U.S. Senate,,DEM,Joe Manchin III,255
+Mineral,3,U.S. Senate,,DEM,Joe Manchin III,40
+Mineral,4,U.S. Senate,,DEM,Joe Manchin III,176
+Mineral,5,U.S. Senate,,DEM,Joe Manchin III,187
+Mineral,7,U.S. Senate,,DEM,Joe Manchin III,308
+Mineral,8,U.S. Senate,,DEM,Joe Manchin III,161
+Mineral,9,U.S. Senate,,DEM,Joe Manchin III,227
+Mineral,10,U.S. Senate,,DEM,Joe Manchin III,249
+Mineral,11,U.S. Senate,,DEM,Joe Manchin III,283
+Mineral,12,U.S. Senate,,DEM,Joe Manchin III,154
+Mineral,13,U.S. Senate,,DEM,Joe Manchin III,133
+Mineral,15,U.S. Senate,,DEM,Joe Manchin III,210
+Mineral,16,U.S. Senate,,DEM,Joe Manchin III,148
+Mineral,18,U.S. Senate,,DEM,Joe Manchin III,96
+Mineral,19,U.S. Senate,,DEM,Joe Manchin III,143
+Mineral,20,U.S. Senate,,DEM,Joe Manchin III,110
+Mineral,21,U.S. Senate,,DEM,Joe Manchin III,82
+Mineral,22,U.S. Senate,,DEM,Joe Manchin III,86
+Mineral,23,U.S. Senate,,DEM,Joe Manchin III,204
+Mineral,24,U.S. Senate,,DEM,Joe Manchin III,199
+Mineral,25,U.S. Senate,,DEM,Joe Manchin III,195
+Mineral,26,U.S. Senate,,DEM,Joe Manchin III,163
+Mineral,27,U.S. Senate,,DEM,Joe Manchin III,292
+Mineral,28,U.S. Senate,,DEM,Joe Manchin III,131
+Mineral,30,U.S. Senate,,DEM,Joe Manchin III,202
+Mineral,31,U.S. Senate,,DEM,Joe Manchin III,203
+Mineral,32,U.S. Senate,,DEM,Joe Manchin III,167
+Mineral,33,U.S. Senate,,DEM,Joe Manchin III,244
+Mineral,34,U.S. Senate,,DEM,Joe Manchin III,227
+Mineral,35,U.S. Senate,,DEM,Joe Manchin III,110
+Mineral,1,U.S. Senate,,REP,John R. Raese,287
+Mineral,2,U.S. Senate,,REP,John R. Raese,235
+Mineral,3,U.S. Senate,,REP,John R. Raese,53
+Mineral,4,U.S. Senate,,REP,John R. Raese,191
+Mineral,5,U.S. Senate,,REP,John R. Raese,278
+Mineral,7,U.S. Senate,,REP,John R. Raese,357
+Mineral,8,U.S. Senate,,REP,John R. Raese,159
+Mineral,9,U.S. Senate,,REP,John R. Raese,224
+Mineral,10,U.S. Senate,,REP,John R. Raese,264
+Mineral,11,U.S. Senate,,REP,John R. Raese,314
+Mineral,12,U.S. Senate,,REP,John R. Raese,128
+Mineral,13,U.S. Senate,,REP,John R. Raese,106
+Mineral,15,U.S. Senate,,REP,John R. Raese,165
+Mineral,16,U.S. Senate,,REP,John R. Raese,85
+Mineral,18,U.S. Senate,,REP,John R. Raese,64
+Mineral,19,U.S. Senate,,REP,John R. Raese,72
+Mineral,20,U.S. Senate,,REP,John R. Raese,42
+Mineral,21,U.S. Senate,,REP,John R. Raese,44
+Mineral,22,U.S. Senate,,REP,John R. Raese,48
+Mineral,23,U.S. Senate,,REP,John R. Raese,120
+Mineral,24,U.S. Senate,,REP,John R. Raese,131
+Mineral,25,U.S. Senate,,REP,John R. Raese,148
+Mineral,26,U.S. Senate,,REP,John R. Raese,115
+Mineral,27,U.S. Senate,,REP,John R. Raese,285
+Mineral,28,U.S. Senate,,REP,John R. Raese,163
+Mineral,30,U.S. Senate,,REP,John R. Raese,80
+Mineral,31,U.S. Senate,,REP,John R. Raese,183
+Mineral,32,U.S. Senate,,REP,John R. Raese,196
+Mineral,33,U.S. Senate,,REP,John R. Raese,200
+Mineral,34,U.S. Senate,,REP,John R. Raese,254
+Mineral,35,U.S. Senate,,REP,John R. Raese,151
+Mineral,1,U.S. Senate,,MTN,Bob Henry Baber,7
+Mineral,2,U.S. Senate,,MTN,Bob Henry Baber,9
+Mineral,3,U.S. Senate,,MTN,Bob Henry Baber,4
+Mineral,4,U.S. Senate,,MTN,Bob Henry Baber,12
+Mineral,5,U.S. Senate,,MTN,Bob Henry Baber,11
+Mineral,7,U.S. Senate,,MTN,Bob Henry Baber,10
+Mineral,8,U.S. Senate,,MTN,Bob Henry Baber,3
+Mineral,9,U.S. Senate,,MTN,Bob Henry Baber,7
+Mineral,10,U.S. Senate,,MTN,Bob Henry Baber,9
+Mineral,11,U.S. Senate,,MTN,Bob Henry Baber,10
+Mineral,12,U.S. Senate,,MTN,Bob Henry Baber,5
+Mineral,13,U.S. Senate,,MTN,Bob Henry Baber,5
+Mineral,15,U.S. Senate,,MTN,Bob Henry Baber,3
+Mineral,16,U.S. Senate,,MTN,Bob Henry Baber,4
+Mineral,18,U.S. Senate,,MTN,Bob Henry Baber,5
+Mineral,19,U.S. Senate,,MTN,Bob Henry Baber,6
+Mineral,20,U.S. Senate,,MTN,Bob Henry Baber,1
+Mineral,21,U.S. Senate,,MTN,Bob Henry Baber,4
+Mineral,22,U.S. Senate,,MTN,Bob Henry Baber,2
+Mineral,23,U.S. Senate,,MTN,Bob Henry Baber,8
+Mineral,24,U.S. Senate,,MTN,Bob Henry Baber,8
+Mineral,25,U.S. Senate,,MTN,Bob Henry Baber,3
+Mineral,26,U.S. Senate,,MTN,Bob Henry Baber,5
+Mineral,27,U.S. Senate,,MTN,Bob Henry Baber,9
+Mineral,28,U.S. Senate,,MTN,Bob Henry Baber,6
+Mineral,30,U.S. Senate,,MTN,Bob Henry Baber,2
+Mineral,31,U.S. Senate,,MTN,Bob Henry Baber,3
+Mineral,32,U.S. Senate,,MTN,Bob Henry Baber,5
+Mineral,33,U.S. Senate,,MTN,Bob Henry Baber,4
+Mineral,34,U.S. Senate,,MTN,Bob Henry Baber,9
+Mineral,35,U.S. Senate,,MTN,Bob Henry Baber,4
+Mineral,1,U.S. House,1,DEM,Sue Thorn,126
+Mineral,2,U.S. House,1,DEM,Sue Thorn,125
+Mineral,3,U.S. House,1,DEM,Sue Thorn,19
+Mineral,4,U.S. House,1,DEM,Sue Thorn,94
+Mineral,5,U.S. House,1,DEM,Sue Thorn,116
+Mineral,7,U.S. House,1,DEM,Sue Thorn,204
+Mineral,8,U.S. House,1,DEM,Sue Thorn,97
+Mineral,9,U.S. House,1,DEM,Sue Thorn,119
+Mineral,10,U.S. House,1,DEM,Sue Thorn,143
+Mineral,11,U.S. House,1,DEM,Sue Thorn,185
+Mineral,12,U.S. House,1,DEM,Sue Thorn,109
+Mineral,13,U.S. House,1,DEM,Sue Thorn,89
+Mineral,15,U.S. House,1,DEM,Sue Thorn,131
+Mineral,16,U.S. House,1,DEM,Sue Thorn,92
+Mineral,18,U.S. House,1,DEM,Sue Thorn,56
+Mineral,19,U.S. House,1,DEM,Sue Thorn,85
+Mineral,20,U.S. House,1,DEM,Sue Thorn,79
+Mineral,21,U.S. House,1,DEM,Sue Thorn,49
+Mineral,22,U.S. House,1,DEM,Sue Thorn,49
+Mineral,23,U.S. House,1,DEM,Sue Thorn,136
+Mineral,24,U.S. House,1,DEM,Sue Thorn,118
+Mineral,25,U.S. House,1,DEM,Sue Thorn,91
+Mineral,26,U.S. House,1,DEM,Sue Thorn,90
+Mineral,27,U.S. House,1,DEM,Sue Thorn,131
+Mineral,28,U.S. House,1,DEM,Sue Thorn,74
+Mineral,30,U.S. House,1,DEM,Sue Thorn,150
+Mineral,31,U.S. House,1,DEM,Sue Thorn,133
+Mineral,32,U.S. House,1,DEM,Sue Thorn,104
+Mineral,33,U.S. House,1,DEM,Sue Thorn,121
+Mineral,34,U.S. House,1,DEM,Sue Thorn,131
+Mineral,35,U.S. House,1,DEM,Sue Thorn,42
+Mineral,1,U.S. House,1,REP,David B. McKinley,377
+Mineral,2,U.S. House,1,REP,David B. McKinley,349
+Mineral,3,U.S. House,1,REP,David B. McKinley,70
+Mineral,4,U.S. House,1,REP,David B. McKinley,273
+Mineral,5,U.S. House,1,REP,David B. McKinley,335
+Mineral,7,U.S. House,1,REP,David B. McKinley,431
+Mineral,8,U.S. House,1,REP,David B. McKinley,208
+Mineral,9,U.S. House,1,REP,David B. McKinley,325
+Mineral,10,U.S. House,1,REP,David B. McKinley,356
+Mineral,11,U.S. House,1,REP,David B. McKinley,400
+Mineral,12,U.S. House,1,REP,David B. McKinley,165
+Mineral,13,U.S. House,1,REP,David B. McKinley,140
+Mineral,15,U.S. House,1,REP,David B. McKinley,221
+Mineral,16,U.S. House,1,REP,David B. McKinley,129
+Mineral,18,U.S. House,1,REP,David B. McKinley,101
+Mineral,19,U.S. House,1,REP,David B. McKinley,125
+Mineral,20,U.S. House,1,REP,David B. McKinley,70
+Mineral,21,U.S. House,1,REP,David B. McKinley,80
+Mineral,22,U.S. House,1,REP,David B. McKinley,83
+Mineral,23,U.S. House,1,REP,David B. McKinley,183
+Mineral,24,U.S. House,1,REP,David B. McKinley,207
+Mineral,25,U.S. House,1,REP,David B. McKinley,242
+Mineral,26,U.S. House,1,REP,David B. McKinley,183
+Mineral,27,U.S. House,1,REP,David B. McKinley,431
+Mineral,28,U.S. House,1,REP,David B. McKinley,210
+Mineral,30,U.S. House,1,REP,David B. McKinley,124
+Mineral,31,U.S. House,1,REP,David B. McKinley,243
+Mineral,32,U.S. House,1,REP,David B. McKinley,252
+Mineral,33,U.S. House,1,REP,David B. McKinley,310
+Mineral,34,U.S. House,1,REP,David B. McKinley,338
+Mineral,35,U.S. House,1,REP,David B. McKinley,211
+Mineral,1,Governor,,DEM,Earl Ray Tomblin,207
+Mineral,2,Governor,,DEM,Earl Ray Tomblin,214
+Mineral,3,Governor,,DEM,Earl Ray Tomblin,36
+Mineral,4,Governor,,DEM,Earl Ray Tomblin,150
+Mineral,5,Governor,,DEM,Earl Ray Tomblin,152
+Mineral,7,Governor,,DEM,Earl Ray Tomblin,271
+Mineral,8,Governor,,DEM,Earl Ray Tomblin,143
+Mineral,9,Governor,,DEM,Earl Ray Tomblin,177
+Mineral,10,Governor,,DEM,Earl Ray Tomblin,210
+Mineral,11,Governor,,DEM,Earl Ray Tomblin,230
+Mineral,12,Governor,,DEM,Earl Ray Tomblin,141
+Mineral,13,Governor,,DEM,Earl Ray Tomblin,127
+Mineral,15,Governor,,DEM,Earl Ray Tomblin,175
+Mineral,16,Governor,,DEM,Earl Ray Tomblin,124
+Mineral,18,Governor,,DEM,Earl Ray Tomblin,83
+Mineral,19,Governor,,DEM,Earl Ray Tomblin,123
+Mineral,20,Governor,,DEM,Earl Ray Tomblin,98
+Mineral,21,Governor,,DEM,Earl Ray Tomblin,63
+Mineral,22,Governor,,DEM,Earl Ray Tomblin,83
+Mineral,23,Governor,,DEM,Earl Ray Tomblin,189
+Mineral,24,Governor,,DEM,Earl Ray Tomblin,181
+Mineral,25,Governor,,DEM,Earl Ray Tomblin,151
+Mineral,26,Governor,,DEM,Earl Ray Tomblin,132
+Mineral,27,Governor,,DEM,Earl Ray Tomblin,256
+Mineral,28,Governor,,DEM,Earl Ray Tomblin,126
+Mineral,30,Governor,,DEM,Earl Ray Tomblin,190
+Mineral,31,Governor,,DEM,Earl Ray Tomblin,179
+Mineral,32,Governor,,DEM,Earl Ray Tomblin,143
+Mineral,33,Governor,,DEM,Earl Ray Tomblin,214
+Mineral,34,Governor,,DEM,Earl Ray Tomblin,209
+Mineral,35,Governor,,DEM,Earl Ray Tomblin,97
+Mineral,1,Governor,,REP,Bill Maloney,298
+Mineral,2,Governor,,REP,Bill Maloney,269
+Mineral,3,Governor,,REP,Bill Maloney,54
+Mineral,4,Governor,,REP,Bill Maloney,218
+Mineral,5,Governor,,REP,Bill Maloney,305
+Mineral,7,Governor,,REP,Bill Maloney,379
+Mineral,8,Governor,,REP,Bill Maloney,164
+Mineral,9,Governor,,REP,Bill Maloney,261
+Mineral,10,Governor,,REP,Bill Maloney,296
+Mineral,11,Governor,,REP,Bill Maloney,357
+Mineral,12,Governor,,REP,Bill Maloney,135
+Mineral,13,Governor,,REP,Bill Maloney,109
+Mineral,15,Governor,,REP,Bill Maloney,189
+Mineral,16,Governor,,REP,Bill Maloney,100
+Mineral,18,Governor,,REP,Bill Maloney,76
+Mineral,19,Governor,,REP,Bill Maloney,91
+Mineral,20,Governor,,REP,Bill Maloney,56
+Mineral,21,Governor,,REP,Bill Maloney,63
+Mineral,22,Governor,,REP,Bill Maloney,49
+Mineral,23,Governor,,REP,Bill Maloney,134
+Mineral,24,Governor,,REP,Bill Maloney,148
+Mineral,25,Governor,,REP,Bill Maloney,193
+Mineral,26,Governor,,REP,Bill Maloney,140
+Mineral,27,Governor,,REP,Bill Maloney,319
+Mineral,28,Governor,,REP,Bill Maloney,164
+Mineral,30,Governor,,REP,Bill Maloney,89
+Mineral,31,Governor,,REP,Bill Maloney,195
+Mineral,32,Governor,,REP,Bill Maloney,214
+Mineral,33,Governor,,REP,Bill Maloney,221
+Mineral,34,Governor,,REP,Bill Maloney,264
+Mineral,35,Governor,,REP,Bill Maloney,158
+Mineral,1,Governor,,LIB,David Moran,10
+Mineral,2,Governor,,LIB,David Moran,6
+Mineral,3,Governor,,LIB,David Moran,3
+Mineral,4,Governor,,LIB,David Moran,4
+Mineral,5,Governor,,LIB,David Moran,13
+Mineral,7,Governor,,LIB,David Moran,12
+Mineral,8,Governor,,LIB,David Moran,11
+Mineral,9,Governor,,LIB,David Moran,10
+Mineral,10,Governor,,LIB,David Moran,7
+Mineral,11,Governor,,LIB,David Moran,12
+Mineral,12,Governor,,LIB,David Moran,7
+Mineral,13,Governor,,LIB,David Moran,5
+Mineral,15,Governor,,LIB,David Moran,5
+Mineral,16,Governor,,LIB,David Moran,9
+Mineral,18,Governor,,LIB,David Moran,5
+Mineral,19,Governor,,LIB,David Moran,2
+Mineral,20,Governor,,LIB,David Moran,2
+Mineral,21,Governor,,LIB,David Moran,1
+Mineral,22,Governor,,LIB,David Moran,1
+Mineral,23,Governor,,LIB,David Moran,4
+Mineral,24,Governor,,LIB,David Moran,3
+Mineral,25,Governor,,LIB,David Moran,7
+Mineral,26,Governor,,LIB,David Moran,3
+Mineral,27,Governor,,LIB,David Moran,9
+Mineral,28,Governor,,LIB,David Moran,6
+Mineral,30,Governor,,LIB,David Moran,2
+Mineral,31,Governor,,LIB,David Moran,13
+Mineral,32,Governor,,LIB,David Moran,7
+Mineral,33,Governor,,LIB,David Moran,8
+Mineral,34,Governor,,LIB,David Moran,5
+Mineral,35,Governor,,LIB,David Moran,5
+Mineral,1,Governor,,MTN,Jesse Johnson,5
+Mineral,2,Governor,,MTN,Jesse Johnson,3
+Mineral,3,Governor,,MTN,Jesse Johnson,2
+Mineral,4,Governor,,MTN,Jesse Johnson,6
+Mineral,5,Governor,,MTN,Jesse Johnson,7
+Mineral,7,Governor,,MTN,Jesse Johnson,8
+Mineral,8,Governor,,MTN,Jesse Johnson,2
+Mineral,9,Governor,,MTN,Jesse Johnson,6
+Mineral,10,Governor,,MTN,Jesse Johnson,6
+Mineral,11,Governor,,MTN,Jesse Johnson,4
+Mineral,12,Governor,,MTN,Jesse Johnson,5
+Mineral,13,Governor,,MTN,Jesse Johnson,4
+Mineral,15,Governor,,MTN,Jesse Johnson,8
+Mineral,16,Governor,,MTN,Jesse Johnson,0
+Mineral,18,Governor,,MTN,Jesse Johnson,1
+Mineral,19,Governor,,MTN,Jesse Johnson,1
+Mineral,20,Governor,,MTN,Jesse Johnson,2
+Mineral,21,Governor,,MTN,Jesse Johnson,4
+Mineral,22,Governor,,MTN,Jesse Johnson,2
+Mineral,23,Governor,,MTN,Jesse Johnson,6
+Mineral,24,Governor,,MTN,Jesse Johnson,5
+Mineral,25,Governor,,MTN,Jesse Johnson,0
+Mineral,26,Governor,,MTN,Jesse Johnson,3
+Mineral,27,Governor,,MTN,Jesse Johnson,3
+Mineral,28,Governor,,MTN,Jesse Johnson,3
+Mineral,30,Governor,,MTN,Jesse Johnson,1
+Mineral,31,Governor,,MTN,Jesse Johnson,2
+Mineral,32,Governor,,MTN,Jesse Johnson,4
+Mineral,33,Governor,,MTN,Jesse Johnson,4
+Mineral,34,Governor,,MTN,Jesse Johnson,12
+Mineral,35,Governor,,MTN,Jesse Johnson,1
+Mineral,1,Secretary of State,,DEM,Natalie E. Tennant,170
+Mineral,2,Secretary of State,,DEM,Natalie E. Tennant,179
+Mineral,3,Secretary of State,,DEM,Natalie E. Tennant,29
+Mineral,4,Secretary of State,,DEM,Natalie E. Tennant,129
+Mineral,5,Secretary of State,,DEM,Natalie E. Tennant,157
+Mineral,7,Secretary of State,,DEM,Natalie E. Tennant,263
+Mineral,8,Secretary of State,,DEM,Natalie E. Tennant,125
+Mineral,9,Secretary of State,,DEM,Natalie E. Tennant,172
+Mineral,10,Secretary of State,,DEM,Natalie E. Tennant,199
+Mineral,11,Secretary of State,,DEM,Natalie E. Tennant,221
+Mineral,12,Secretary of State,,DEM,Natalie E. Tennant,135
+Mineral,13,Secretary of State,,DEM,Natalie E. Tennant,103
+Mineral,15,Secretary of State,,DEM,Natalie E. Tennant,165
+Mineral,16,Secretary of State,,DEM,Natalie E. Tennant,126
+Mineral,18,Secretary of State,,DEM,Natalie E. Tennant,72
+Mineral,19,Secretary of State,,DEM,Natalie E. Tennant,122
+Mineral,20,Secretary of State,,DEM,Natalie E. Tennant,88
+Mineral,21,Secretary of State,,DEM,Natalie E. Tennant,67
+Mineral,22,Secretary of State,,DEM,Natalie E. Tennant,74
+Mineral,23,Secretary of State,,DEM,Natalie E. Tennant,184
+Mineral,24,Secretary of State,,DEM,Natalie E. Tennant,171
+Mineral,25,Secretary of State,,DEM,Natalie E. Tennant,137
+Mineral,26,Secretary of State,,DEM,Natalie E. Tennant,135
+Mineral,27,Secretary of State,,DEM,Natalie E. Tennant,239
+Mineral,28,Secretary of State,,DEM,Natalie E. Tennant,108
+Mineral,30,Secretary of State,,DEM,Natalie E. Tennant,188
+Mineral,31,Secretary of State,,DEM,Natalie E. Tennant,180
+Mineral,32,Secretary of State,,DEM,Natalie E. Tennant,130
+Mineral,33,Secretary of State,,DEM,Natalie E. Tennant,203
+Mineral,34,Secretary of State,,DEM,Natalie E. Tennant,198
+Mineral,35,Secretary of State,,DEM,Natalie E. Tennant,69
+Mineral,1,Secretary of State,,REP,Brian Savilla,329
+Mineral,2,Secretary of State,,REP,Brian Savilla,284
+Mineral,3,Secretary of State,,REP,Brian Savilla,60
+Mineral,4,Secretary of State,,REP,Brian Savilla,235
+Mineral,5,Secretary of State,,REP,Brian Savilla,298
+Mineral,7,Secretary of State,,REP,Brian Savilla,374
+Mineral,8,Secretary of State,,REP,Brian Savilla,176
+Mineral,9,Secretary of State,,REP,Brian Savilla,258
+Mineral,10,Secretary of State,,REP,Brian Savilla,294
+Mineral,11,Secretary of State,,REP,Brian Savilla,353
+Mineral,12,Secretary of State,,REP,Brian Savilla,137
+Mineral,13,Secretary of State,,REP,Brian Savilla,129
+Mineral,15,Secretary of State,,REP,Brian Savilla,186
+Mineral,16,Secretary of State,,REP,Brian Savilla,93
+Mineral,18,Secretary of State,,REP,Brian Savilla,82
+Mineral,19,Secretary of State,,REP,Brian Savilla,81
+Mineral,20,Secretary of State,,REP,Brian Savilla,57
+Mineral,21,Secretary of State,,REP,Brian Savilla,62
+Mineral,22,Secretary of State,,REP,Brian Savilla,57
+Mineral,23,Secretary of State,,REP,Brian Savilla,131
+Mineral,24,Secretary of State,,REP,Brian Savilla,148
+Mineral,25,Secretary of State,,REP,Brian Savilla,197
+Mineral,26,Secretary of State,,REP,Brian Savilla,128
+Mineral,27,Secretary of State,,REP,Brian Savilla,326
+Mineral,28,Secretary of State,,REP,Brian Savilla,172
+Mineral,30,Secretary of State,,REP,Brian Savilla,86
+Mineral,31,Secretary of State,,REP,Brian Savilla,191
+Mineral,32,Secretary of State,,REP,Brian Savilla,221
+Mineral,33,Secretary of State,,REP,Brian Savilla,222
+Mineral,34,Secretary of State,,REP,Brian Savilla,266
+Mineral,35,Secretary of State,,REP,Brian Savilla,173
+Mineral,1,State Auditor,,DEM,Glen B. Gainer III,143
+Mineral,2,State Auditor,,DEM,Glen B. Gainer III,158
+Mineral,3,State Auditor,,DEM,Glen B. Gainer III,27
+Mineral,4,State Auditor,,DEM,Glen B. Gainer III,116
+Mineral,5,State Auditor,,DEM,Glen B. Gainer III,120
+Mineral,7,State Auditor,,DEM,Glen B. Gainer III,226
+Mineral,8,State Auditor,,DEM,Glen B. Gainer III,102
+Mineral,9,State Auditor,,DEM,Glen B. Gainer III,128
+Mineral,10,State Auditor,,DEM,Glen B. Gainer III,139
+Mineral,11,State Auditor,,DEM,Glen B. Gainer III,176
+Mineral,12,State Auditor,,DEM,Glen B. Gainer III,112
+Mineral,13,State Auditor,,DEM,Glen B. Gainer III,87
+Mineral,15,State Auditor,,DEM,Glen B. Gainer III,138
+Mineral,16,State Auditor,,DEM,Glen B. Gainer III,104
+Mineral,18,State Auditor,,DEM,Glen B. Gainer III,67
+Mineral,19,State Auditor,,DEM,Glen B. Gainer III,98
+Mineral,20,State Auditor,,DEM,Glen B. Gainer III,83
+Mineral,21,State Auditor,,DEM,Glen B. Gainer III,58
+Mineral,22,State Auditor,,DEM,Glen B. Gainer III,68
+Mineral,23,State Auditor,,DEM,Glen B. Gainer III,160
+Mineral,24,State Auditor,,DEM,Glen B. Gainer III,143
+Mineral,25,State Auditor,,DEM,Glen B. Gainer III,111
+Mineral,26,State Auditor,,DEM,Glen B. Gainer III,107
+Mineral,27,State Auditor,,DEM,Glen B. Gainer III,182
+Mineral,28,State Auditor,,DEM,Glen B. Gainer III,92
+Mineral,30,State Auditor,,DEM,Glen B. Gainer III,171
+Mineral,31,State Auditor,,DEM,Glen B. Gainer III,127
+Mineral,32,State Auditor,,DEM,Glen B. Gainer III,110
+Mineral,33,State Auditor,,DEM,Glen B. Gainer III,157
+Mineral,34,State Auditor,,DEM,Glen B. Gainer III,154
+Mineral,35,State Auditor,,DEM,Glen B. Gainer III,63
+Mineral,1,State Auditor,,REP,Larry V. Faircloth,347
+Mineral,2,State Auditor,,REP,Larry V. Faircloth,302
+Mineral,3,State Auditor,,REP,Larry V. Faircloth,63
+Mineral,4,State Auditor,,REP,Larry V. Faircloth,245
+Mineral,5,State Auditor,,REP,Larry V. Faircloth,324
+Mineral,7,State Auditor,,REP,Larry V. Faircloth,400
+Mineral,8,State Auditor,,REP,Larry V. Faircloth,192
+Mineral,9,State Auditor,,REP,Larry V. Faircloth,306
+Mineral,10,State Auditor,,REP,Larry V. Faircloth,347
+Mineral,11,State Auditor,,REP,Larry V. Faircloth,382
+Mineral,12,State Auditor,,REP,Larry V. Faircloth,158
+Mineral,13,State Auditor,,REP,Larry V. Faircloth,145
+Mineral,15,State Auditor,,REP,Larry V. Faircloth,212
+Mineral,16,State Auditor,,REP,Larry V. Faircloth,117
+Mineral,18,State Auditor,,REP,Larry V. Faircloth,89
+Mineral,19,State Auditor,,REP,Larry V. Faircloth,110
+Mineral,20,State Auditor,,REP,Larry V. Faircloth,63
+Mineral,21,State Auditor,,REP,Larry V. Faircloth,68
+Mineral,22,State Auditor,,REP,Larry V. Faircloth,61
+Mineral,23,State Auditor,,REP,Larry V. Faircloth,149
+Mineral,24,State Auditor,,REP,Larry V. Faircloth,173
+Mineral,25,State Auditor,,REP,Larry V. Faircloth,220
+Mineral,26,State Auditor,,REP,Larry V. Faircloth,157
+Mineral,27,State Auditor,,REP,Larry V. Faircloth,376
+Mineral,28,State Auditor,,REP,Larry V. Faircloth,186
+Mineral,30,State Auditor,,REP,Larry V. Faircloth,104
+Mineral,31,State Auditor,,REP,Larry V. Faircloth,238
+Mineral,32,State Auditor,,REP,Larry V. Faircloth,239
+Mineral,33,State Auditor,,REP,Larry V. Faircloth,268
+Mineral,34,State Auditor,,REP,Larry V. Faircloth,318
+Mineral,35,State Auditor,,REP,Larry V. Faircloth,183
+Mineral,1,State Treasurer,,DEM,John D. Perdue,178
+Mineral,2,State Treasurer,,DEM,John D. Perdue,198
+Mineral,3,State Treasurer,,DEM,John D. Perdue,30
+Mineral,4,State Treasurer,,DEM,John D. Perdue,140
+Mineral,5,State Treasurer,,DEM,John D. Perdue,137
+Mineral,7,State Treasurer,,DEM,John D. Perdue,267
+Mineral,8,State Treasurer,,DEM,John D. Perdue,122
+Mineral,9,State Treasurer,,DEM,John D. Perdue,168
+Mineral,10,State Treasurer,,DEM,John D. Perdue,183
+Mineral,11,State Treasurer,,DEM,John D. Perdue,212
+Mineral,12,State Treasurer,,DEM,John D. Perdue,139
+Mineral,13,State Treasurer,,DEM,John D. Perdue,102
+Mineral,15,State Treasurer,,DEM,John D. Perdue,168
+Mineral,16,State Treasurer,,DEM,John D. Perdue,128
+Mineral,18,State Treasurer,,DEM,John D. Perdue,80
+Mineral,19,State Treasurer,,DEM,John D. Perdue,107
+Mineral,20,State Treasurer,,DEM,John D. Perdue,96
+Mineral,21,State Treasurer,,DEM,John D. Perdue,63
+Mineral,22,State Treasurer,,DEM,John D. Perdue,78
+Mineral,23,State Treasurer,,DEM,John D. Perdue,175
+Mineral,24,State Treasurer,,DEM,John D. Perdue,170
+Mineral,25,State Treasurer,,DEM,John D. Perdue,137
+Mineral,26,State Treasurer,,DEM,John D. Perdue,134
+Mineral,27,State Treasurer,,DEM,John D. Perdue,238
+Mineral,28,State Treasurer,,DEM,John D. Perdue,112
+Mineral,30,State Treasurer,,DEM,John D. Perdue,189
+Mineral,31,State Treasurer,,DEM,John D. Perdue,164
+Mineral,32,State Treasurer,,DEM,John D. Perdue,114
+Mineral,33,State Treasurer,,DEM,John D. Perdue,186
+Mineral,34,State Treasurer,,DEM,John D. Perdue,213
+Mineral,35,State Treasurer,,DEM,John D. Perdue,81
+Mineral,1,State Treasurer,,REP,Mike Hall,318
+Mineral,2,State Treasurer,,REP,Mike Hall,270
+Mineral,3,State Treasurer,,REP,Mike Hall,59
+Mineral,4,State Treasurer,,REP,Mike Hall,229
+Mineral,5,State Treasurer,,REP,Mike Hall,315
+Mineral,7,State Treasurer,,REP,Mike Hall,360
+Mineral,8,State Treasurer,,REP,Mike Hall,180
+Mineral,9,State Treasurer,,REP,Mike Hall,270
+Mineral,10,State Treasurer,,REP,Mike Hall,306
+Mineral,11,State Treasurer,,REP,Mike Hall,359
+Mineral,12,State Treasurer,,REP,Mike Hall,133
+Mineral,13,State Treasurer,,REP,Mike Hall,131
+Mineral,15,State Treasurer,,REP,Mike Hall,188
+Mineral,16,State Treasurer,,REP,Mike Hall,95
+Mineral,18,State Treasurer,,REP,Mike Hall,78
+Mineral,19,State Treasurer,,REP,Mike Hall,98
+Mineral,20,State Treasurer,,REP,Mike Hall,51
+Mineral,21,State Treasurer,,REP,Mike Hall,58
+Mineral,22,State Treasurer,,REP,Mike Hall,55
+Mineral,23,State Treasurer,,REP,Mike Hall,143
+Mineral,24,State Treasurer,,REP,Mike Hall,150
+Mineral,25,State Treasurer,,REP,Mike Hall,197
+Mineral,26,State Treasurer,,REP,Mike Hall,130
+Mineral,27,State Treasurer,,REP,Mike Hall,324
+Mineral,28,State Treasurer,,REP,Mike Hall,170
+Mineral,30,State Treasurer,,REP,Mike Hall,84
+Mineral,31,State Treasurer,,REP,Mike Hall,205
+Mineral,32,State Treasurer,,REP,Mike Hall,235
+Mineral,33,State Treasurer,,REP,Mike Hall,234
+Mineral,34,State Treasurer,,REP,Mike Hall,255
+Mineral,35,State Treasurer,,REP,Mike Hall,164
+Mineral,1,Commissioner of Agriculture,,DEM,Walt Helmick,171
+Mineral,2,Commissioner of Agriculture,,DEM,Walt Helmick,149
+Mineral,3,Commissioner of Agriculture,,DEM,Walt Helmick,23
+Mineral,4,Commissioner of Agriculture,,DEM,Walt Helmick,118
+Mineral,5,Commissioner of Agriculture,,DEM,Walt Helmick,128
+Mineral,7,Commissioner of Agriculture,,DEM,Walt Helmick,212
+Mineral,8,Commissioner of Agriculture,,DEM,Walt Helmick,116
+Mineral,9,Commissioner of Agriculture,,DEM,Walt Helmick,140
+Mineral,10,Commissioner of Agriculture,,DEM,Walt Helmick,160
+Mineral,11,Commissioner of Agriculture,,DEM,Walt Helmick,199
+Mineral,12,Commissioner of Agriculture,,DEM,Walt Helmick,119
+Mineral,13,Commissioner of Agriculture,,DEM,Walt Helmick,98
+Mineral,15,Commissioner of Agriculture,,DEM,Walt Helmick,145
+Mineral,16,Commissioner of Agriculture,,DEM,Walt Helmick,105
+Mineral,18,Commissioner of Agriculture,,DEM,Walt Helmick,70
+Mineral,19,Commissioner of Agriculture,,DEM,Walt Helmick,95
+Mineral,20,Commissioner of Agriculture,,DEM,Walt Helmick,76
+Mineral,21,Commissioner of Agriculture,,DEM,Walt Helmick,50
+Mineral,22,Commissioner of Agriculture,,DEM,Walt Helmick,70
+Mineral,23,Commissioner of Agriculture,,DEM,Walt Helmick,167
+Mineral,24,Commissioner of Agriculture,,DEM,Walt Helmick,146
+Mineral,25,Commissioner of Agriculture,,DEM,Walt Helmick,105
+Mineral,26,Commissioner of Agriculture,,DEM,Walt Helmick,112
+Mineral,27,Commissioner of Agriculture,,DEM,Walt Helmick,207
+Mineral,28,Commissioner of Agriculture,,DEM,Walt Helmick,107
+Mineral,30,Commissioner of Agriculture,,DEM,Walt Helmick,159
+Mineral,31,Commissioner of Agriculture,,DEM,Walt Helmick,160
+Mineral,32,Commissioner of Agriculture,,DEM,Walt Helmick,110
+Mineral,33,Commissioner of Agriculture,,DEM,Walt Helmick,156
+Mineral,34,Commissioner of Agriculture,,DEM,Walt Helmick,199
+Mineral,35,Commissioner of Agriculture,,DEM,Walt Helmick,81
+Mineral,1,Commissioner of Agriculture,,REP,Kent Leonhardt,323
+Mineral,2,Commissioner of Agriculture,,REP,Kent Leonhardt,309
+Mineral,3,Commissioner of Agriculture,,REP,Kent Leonhardt,63
+Mineral,4,Commissioner of Agriculture,,REP,Kent Leonhardt,246
+Mineral,5,Commissioner of Agriculture,,REP,Kent Leonhardt,317
+Mineral,7,Commissioner of Agriculture,,REP,Kent Leonhardt,416
+Mineral,8,Commissioner of Agriculture,,REP,Kent Leonhardt,183
+Mineral,9,Commissioner of Agriculture,,REP,Kent Leonhardt,292
+Mineral,10,Commissioner of Agriculture,,REP,Kent Leonhardt,329
+Mineral,11,Commissioner of Agriculture,,REP,Kent Leonhardt,363
+Mineral,12,Commissioner of Agriculture,,REP,Kent Leonhardt,147
+Mineral,13,Commissioner of Agriculture,,REP,Kent Leonhardt,132
+Mineral,15,Commissioner of Agriculture,,REP,Kent Leonhardt,204
+Mineral,16,Commissioner of Agriculture,,REP,Kent Leonhardt,117
+Mineral,18,Commissioner of Agriculture,,REP,Kent Leonhardt,86
+Mineral,19,Commissioner of Agriculture,,REP,Kent Leonhardt,105
+Mineral,20,Commissioner of Agriculture,,REP,Kent Leonhardt,67
+Mineral,21,Commissioner of Agriculture,,REP,Kent Leonhardt,71
+Mineral,22,Commissioner of Agriculture,,REP,Kent Leonhardt,65
+Mineral,23,Commissioner of Agriculture,,REP,Kent Leonhardt,144
+Mineral,24,Commissioner of Agriculture,,REP,Kent Leonhardt,171
+Mineral,25,Commissioner of Agriculture,,REP,Kent Leonhardt,220
+Mineral,26,Commissioner of Agriculture,,REP,Kent Leonhardt,149
+Mineral,27,Commissioner of Agriculture,,REP,Kent Leonhardt,347
+Mineral,28,Commissioner of Agriculture,,REP,Kent Leonhardt,177
+Mineral,30,Commissioner of Agriculture,,REP,Kent Leonhardt,111
+Mineral,31,Commissioner of Agriculture,,REP,Kent Leonhardt,205
+Mineral,32,Commissioner of Agriculture,,REP,Kent Leonhardt,238
+Mineral,33,Commissioner of Agriculture,,REP,Kent Leonhardt,262
+Mineral,34,Commissioner of Agriculture,,REP,Kent Leonhardt,269
+Mineral,35,Commissioner of Agriculture,,REP,Kent Leonhardt,167
+Mineral,1,Attorney General,,DEM,Darrell V. McGraw Jr.,147
+Mineral,2,Attorney General,,DEM,Darrell V. McGraw Jr.,161
+Mineral,3,Attorney General,,DEM,Darrell V. McGraw Jr.,29
+Mineral,4,Attorney General,,DEM,Darrell V. McGraw Jr.,110
+Mineral,5,Attorney General,,DEM,Darrell V. McGraw Jr.,123
+Mineral,7,Attorney General,,DEM,Darrell V. McGraw Jr.,216
+Mineral,8,Attorney General,,DEM,Darrell V. McGraw Jr.,120
+Mineral,9,Attorney General,,DEM,Darrell V. McGraw Jr.,131
+Mineral,10,Attorney General,,DEM,Darrell V. McGraw Jr.,142
+Mineral,11,Attorney General,,DEM,Darrell V. McGraw Jr.,175
+Mineral,12,Attorney General,,DEM,Darrell V. McGraw Jr.,106
+Mineral,13,Attorney General,,DEM,Darrell V. McGraw Jr.,90
+Mineral,15,Attorney General,,DEM,Darrell V. McGraw Jr.,133
+Mineral,16,Attorney General,,DEM,Darrell V. McGraw Jr.,112
+Mineral,18,Attorney General,,DEM,Darrell V. McGraw Jr.,62
+Mineral,19,Attorney General,,DEM,Darrell V. McGraw Jr.,97
+Mineral,20,Attorney General,,DEM,Darrell V. McGraw Jr.,83
+Mineral,21,Attorney General,,DEM,Darrell V. McGraw Jr.,51
+Mineral,22,Attorney General,,DEM,Darrell V. McGraw Jr.,67
+Mineral,23,Attorney General,,DEM,Darrell V. McGraw Jr.,171
+Mineral,24,Attorney General,,DEM,Darrell V. McGraw Jr.,139
+Mineral,25,Attorney General,,DEM,Darrell V. McGraw Jr.,113
+Mineral,26,Attorney General,,DEM,Darrell V. McGraw Jr.,117
+Mineral,27,Attorney General,,DEM,Darrell V. McGraw Jr.,175
+Mineral,28,Attorney General,,DEM,Darrell V. McGraw Jr.,99
+Mineral,30,Attorney General,,DEM,Darrell V. McGraw Jr.,166
+Mineral,31,Attorney General,,DEM,Darrell V. McGraw Jr.,140
+Mineral,32,Attorney General,,DEM,Darrell V. McGraw Jr.,104
+Mineral,33,Attorney General,,DEM,Darrell V. McGraw Jr.,174
+Mineral,34,Attorney General,,DEM,Darrell V. McGraw Jr.,175
+Mineral,35,Attorney General,,DEM,Darrell V. McGraw Jr.,61
+Mineral,1,Attorney General,,REP,Patrick Morrisey,357
+Mineral,2,Attorney General,,REP,Patrick Morrisey,305
+Mineral,3,Attorney General,,REP,Patrick Morrisey,60
+Mineral,4,Attorney General,,REP,Patrick Morrisey,256
+Mineral,5,Attorney General,,REP,Patrick Morrisey,334
+Mineral,7,Attorney General,,REP,Patrick Morrisey,424
+Mineral,8,Attorney General,,REP,Patrick Morrisey,184
+Mineral,9,Attorney General,,REP,Patrick Morrisey,307
+Mineral,10,Attorney General,,REP,Patrick Morrisey,361
+Mineral,11,Attorney General,,REP,Patrick Morrisey,406
+Mineral,12,Attorney General,,REP,Patrick Morrisey,172
+Mineral,13,Attorney General,,REP,Patrick Morrisey,146
+Mineral,15,Attorney General,,REP,Patrick Morrisey,226
+Mineral,16,Attorney General,,REP,Patrick Morrisey,118
+Mineral,18,Attorney General,,REP,Patrick Morrisey,101
+Mineral,19,Attorney General,,REP,Patrick Morrisey,110
+Mineral,20,Attorney General,,REP,Patrick Morrisey,65
+Mineral,21,Attorney General,,REP,Patrick Morrisey,78
+Mineral,22,Attorney General,,REP,Patrick Morrisey,68
+Mineral,23,Attorney General,,REP,Patrick Morrisey,150
+Mineral,24,Attorney General,,REP,Patrick Morrisey,190
+Mineral,25,Attorney General,,REP,Patrick Morrisey,227
+Mineral,26,Attorney General,,REP,Patrick Morrisey,151
+Mineral,27,Attorney General,,REP,Patrick Morrisey,387
+Mineral,28,Attorney General,,REP,Patrick Morrisey,189
+Mineral,30,Attorney General,,REP,Patrick Morrisey,106
+Mineral,31,Attorney General,,REP,Patrick Morrisey,237
+Mineral,32,Attorney General,,REP,Patrick Morrisey,255
+Mineral,33,Attorney General,,REP,Patrick Morrisey,259
+Mineral,34,Attorney General,,REP,Patrick Morrisey,303
+Mineral,35,Attorney General,,REP,Patrick Morrisey,191
+Mineral,3,State Senate,14,DEM,Bob Williams,87
+Mineral,8,State Senate,14,DEM,Bob Williams,194
+Mineral,16,State Senate,14,DEM,Bob Williams,171
+Mineral,18,State Senate,14,DEM,Bob Williams,117
+Mineral,19,State Senate,14,DEM,Bob Williams,161
+Mineral,20,State Senate,14,DEM,Bob Williams,104
+Mineral,21,State Senate,14,DEM,Bob Williams,90
+Mineral,22,State Senate,14,DEM,Bob Williams,108
+Mineral,23,State Senate,14,DEM,Bob Williams,259
+Mineral,24,State Senate,14,DEM,Bob Williams,251
+Mineral,25,State Senate,14,DEM,Bob Williams,227
+Mineral,30,State Senate,14,DEM,Bob Williams,226
+Mineral,33,State Senate,14,DEM,Bob Williams,293
+Mineral,1,State Senate,15,REP,Craig P. Blair,254
+Mineral,2,State Senate,15,REP,Craig P. Blair,268
+Mineral,4,State Senate,15,REP,Craig P. Blair,199
+Mineral,5,State Senate,15,REP,Craig P. Blair,269
+Mineral,7,State Senate,15,REP,Craig P. Blair,349
+Mineral,9,State Senate,15,REP,Craig P. Blair,255
+Mineral,10,State Senate,15,REP,Craig P. Blair,281
+Mineral,11,State Senate,15,REP,Craig P. Blair,337
+Mineral,12,State Senate,15,REP,Craig P. Blair,135
+Mineral,13,State Senate,15,REP,Craig P. Blair,116
+Mineral,15,State Senate,15,REP,Craig P. Blair,197
+Mineral,26,State Senate,15,REP,Craig P. Blair,126
+Mineral,27,State Senate,15,REP,Craig P. Blair,328
+Mineral,28,State Senate,15,REP,Craig P. Blair,153
+Mineral,31,State Senate,15,REP,Craig P. Blair,194
+Mineral,32,State Senate,15,REP,Craig P. Blair,217
+Mineral,34,State Senate,15,REP,Craig P. Blair,267
+Mineral,35,State Senate,15,REP,Craig P. Blair,166
+Mineral,1,State Senate,15,CON,Daniel Litten,167
+Mineral,2,State Senate,15,CON,Daniel Litten,179
+Mineral,4,State Senate,15,CON,Daniel Litten,152
+Mineral,5,State Senate,15,CON,Daniel Litten,153
+Mineral,7,State Senate,15,CON,Daniel Litten,226
+Mineral,9,State Senate,15,CON,Daniel Litten,155
+Mineral,10,State Senate,15,CON,Daniel Litten,173
+Mineral,11,State Senate,15,CON,Daniel Litten,174
+Mineral,12,State Senate,15,CON,Daniel Litten,102
+Mineral,13,State Senate,15,CON,Daniel Litten,90
+Mineral,15,State Senate,15,CON,Daniel Litten,118
+Mineral,26,State Senate,15,CON,Daniel Litten,117
+Mineral,27,State Senate,15,CON,Daniel Litten,204
+Mineral,28,State Senate,15,CON,Daniel Litten,118
+Mineral,31,State Senate,15,CON,Daniel Litten,150
+Mineral,32,State Senate,15,CON,Daniel Litten,116
+Mineral,34,State Senate,15,CON,Daniel Litten,174
+Mineral,35,State Senate,15,CON,Daniel Litten,79

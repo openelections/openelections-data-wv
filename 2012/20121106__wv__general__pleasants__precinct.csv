@@ -1,0 +1,288 @@
+county,precinct,office,district,party,candidate,votes
+Pleasants,1,President,,DEM,Barack Obama,105
+Pleasants,2,President,,DEM,Barack Obama,128
+Pleasants,3,President,,DEM,Barack Obama,55
+Pleasants,4,President,,DEM,Barack Obama,38
+Pleasants,5,President,,DEM,Barack Obama,64
+Pleasants,6,President,,DEM,Barack Obama,139
+Pleasants,7,President,,DEM,Barack Obama,41
+Pleasants,8,President,,DEM,Barack Obama,36
+Pleasants,9,President,,DEM,Barack Obama,105
+Pleasants,10,President,,DEM,Barack Obama,137
+Pleasants,11,President,,DEM,Barack Obama,107
+Pleasants,1,President,,REP,Mitt Romney,214
+Pleasants,2,President,,REP,Mitt Romney,206
+Pleasants,3,President,,REP,Mitt Romney,68
+Pleasants,4,President,,REP,Mitt Romney,94
+Pleasants,5,President,,REP,Mitt Romney,166
+Pleasants,6,President,,REP,Mitt Romney,358
+Pleasants,7,President,,REP,Mitt Romney,97
+Pleasants,8,President,,REP,Mitt Romney,101
+Pleasants,9,President,,REP,Mitt Romney,179
+Pleasants,10,President,,REP,Mitt Romney,251
+Pleasants,11,President,,REP,Mitt Romney,91
+Pleasants,1,President,,LIB,Gary Johnson,5
+Pleasants,2,President,,LIB,Gary Johnson,1
+Pleasants,3,President,,LIB,Gary Johnson,3
+Pleasants,4,President,,LIB,Gary Johnson,2
+Pleasants,5,President,,LIB,Gary Johnson,1
+Pleasants,6,President,,LIB,Gary Johnson,6
+Pleasants,7,President,,LIB,Gary Johnson,0
+Pleasants,8,President,,LIB,Gary Johnson,0
+Pleasants,9,President,,LIB,Gary Johnson,7
+Pleasants,10,President,,LIB,Gary Johnson,1
+Pleasants,11,President,,LIB,Gary Johnson,0
+Pleasants,1,President,,MTN,Jill Stein,3
+Pleasants,2,President,,MTN,Jill Stein,1
+Pleasants,3,President,,MTN,Jill Stein,0
+Pleasants,4,President,,MTN,Jill Stein,1
+Pleasants,5,President,,MTN,Jill Stein,1
+Pleasants,6,President,,MTN,Jill Stein,2
+Pleasants,7,President,,MTN,Jill Stein,0
+Pleasants,8,President,,MTN,Jill Stein,2
+Pleasants,9,President,,MTN,Jill Stein,2
+Pleasants,10,President,,MTN,Jill Stein,4
+Pleasants,11,President,,MTN,Jill Stein,1
+Pleasants,1,President,,,Randall Terry,3
+Pleasants,2,President,,,Randall Terry,0
+Pleasants,3,President,,,Randall Terry,0
+Pleasants,4,President,,,Randall Terry,1
+Pleasants,5,President,,,Randall Terry,3
+Pleasants,6,President,,,Randall Terry,1
+Pleasants,7,President,,,Randall Terry,1
+Pleasants,8,President,,,Randall Terry,1
+Pleasants,9,President,,,Randall Terry,3
+Pleasants,10,President,,,Randall Terry,3
+Pleasants,11,President,,,Randall Terry,1
+Pleasants,1,U.S. Senate,,DEM,Joe Manchin III,213
+Pleasants,2,U.S. Senate,,DEM,Joe Manchin III,223
+Pleasants,3,U.S. Senate,,DEM,Joe Manchin III,93
+Pleasants,4,U.S. Senate,,DEM,Joe Manchin III,71
+Pleasants,5,U.S. Senate,,DEM,Joe Manchin III,119
+Pleasants,6,U.S. Senate,,DEM,Joe Manchin III,308
+Pleasants,7,U.S. Senate,,DEM,Joe Manchin III,66
+Pleasants,8,U.S. Senate,,DEM,Joe Manchin III,87
+Pleasants,9,U.S. Senate,,DEM,Joe Manchin III,201
+Pleasants,10,U.S. Senate,,DEM,Joe Manchin III,242
+Pleasants,11,U.S. Senate,,DEM,Joe Manchin III,156
+Pleasants,1,U.S. Senate,,REP,John R. Raese,103
+Pleasants,2,U.S. Senate,,REP,John R. Raese,105
+Pleasants,3,U.S. Senate,,REP,John R. Raese,36
+Pleasants,4,U.S. Senate,,REP,John R. Raese,54
+Pleasants,5,U.S. Senate,,REP,John R. Raese,102
+Pleasants,6,U.S. Senate,,REP,John R. Raese,180
+Pleasants,7,U.S. Senate,,REP,John R. Raese,61
+Pleasants,8,U.S. Senate,,REP,John R. Raese,47
+Pleasants,9,U.S. Senate,,REP,John R. Raese,85
+Pleasants,10,U.S. Senate,,REP,John R. Raese,145
+Pleasants,11,U.S. Senate,,REP,John R. Raese,43
+Pleasants,1,U.S. Senate,,MTN,Bob Henry Baber,7
+Pleasants,2,U.S. Senate,,MTN,Bob Henry Baber,2
+Pleasants,3,U.S. Senate,,MTN,Bob Henry Baber,1
+Pleasants,4,U.S. Senate,,MTN,Bob Henry Baber,6
+Pleasants,5,U.S. Senate,,MTN,Bob Henry Baber,4
+Pleasants,6,U.S. Senate,,MTN,Bob Henry Baber,10
+Pleasants,7,U.S. Senate,,MTN,Bob Henry Baber,8
+Pleasants,8,U.S. Senate,,MTN,Bob Henry Baber,4
+Pleasants,9,U.S. Senate,,MTN,Bob Henry Baber,3
+Pleasants,10,U.S. Senate,,MTN,Bob Henry Baber,7
+Pleasants,11,U.S. Senate,,MTN,Bob Henry Baber,4
+Pleasants,1,U.S. House,1,DEM,Sue Thorn,115
+Pleasants,2,U.S. House,1,DEM,Sue Thorn,111
+Pleasants,3,U.S. House,1,DEM,Sue Thorn,55
+Pleasants,4,U.S. House,1,DEM,Sue Thorn,32
+Pleasants,5,U.S. House,1,DEM,Sue Thorn,69
+Pleasants,6,U.S. House,1,DEM,Sue Thorn,134
+Pleasants,7,U.S. House,1,DEM,Sue Thorn,44
+Pleasants,8,U.S. House,1,DEM,Sue Thorn,42
+Pleasants,9,U.S. House,1,DEM,Sue Thorn,97
+Pleasants,10,U.S. House,1,DEM,Sue Thorn,107
+Pleasants,11,U.S. House,1,DEM,Sue Thorn,89
+Pleasants,1,U.S. House,1,REP,David B. McKinley,197
+Pleasants,2,U.S. House,1,REP,David B. McKinley,198
+Pleasants,3,U.S. House,1,REP,David B. McKinley,67
+Pleasants,4,U.S. House,1,REP,David B. McKinley,93
+Pleasants,5,U.S. House,1,REP,David B. McKinley,144
+Pleasants,6,U.S. House,1,REP,David B. McKinley,338
+Pleasants,7,U.S. House,1,REP,David B. McKinley,86
+Pleasants,8,U.S. House,1,REP,David B. McKinley,84
+Pleasants,9,U.S. House,1,REP,David B. McKinley,181
+Pleasants,10,U.S. House,1,REP,David B. McKinley,260
+Pleasants,11,U.S. House,1,REP,David B. McKinley,106
+Pleasants,1,Governor,,DEM,Earl Ray Tomblin,161
+Pleasants,2,Governor,,DEM,Earl Ray Tomblin,184
+Pleasants,3,Governor,,DEM,Earl Ray Tomblin,88
+Pleasants,4,Governor,,DEM,Earl Ray Tomblin,64
+Pleasants,5,Governor,,DEM,Earl Ray Tomblin,109
+Pleasants,6,Governor,,DEM,Earl Ray Tomblin,235
+Pleasants,7,Governor,,DEM,Earl Ray Tomblin,57
+Pleasants,8,Governor,,DEM,Earl Ray Tomblin,71
+Pleasants,9,Governor,,DEM,Earl Ray Tomblin,153
+Pleasants,10,Governor,,DEM,Earl Ray Tomblin,198
+Pleasants,11,Governor,,DEM,Earl Ray Tomblin,132
+Pleasants,1,Governor,,REP,Bill Maloney,158
+Pleasants,2,Governor,,REP,Bill Maloney,139
+Pleasants,3,Governor,,REP,Bill Maloney,38
+Pleasants,4,Governor,,REP,Bill Maloney,65
+Pleasants,5,Governor,,REP,Bill Maloney,118
+Pleasants,6,Governor,,REP,Bill Maloney,262
+Pleasants,7,Governor,,REP,Bill Maloney,73
+Pleasants,8,Governor,,REP,Bill Maloney,62
+Pleasants,9,Governor,,REP,Bill Maloney,133
+Pleasants,10,Governor,,REP,Bill Maloney,191
+Pleasants,11,Governor,,REP,Bill Maloney,67
+Pleasants,1,Governor,,LIB,David Moran,5
+Pleasants,2,Governor,,LIB,David Moran,6
+Pleasants,3,Governor,,LIB,David Moran,1
+Pleasants,4,Governor,,LIB,David Moran,4
+Pleasants,5,Governor,,LIB,David Moran,3
+Pleasants,6,Governor,,LIB,David Moran,1
+Pleasants,7,Governor,,LIB,David Moran,1
+Pleasants,8,Governor,,LIB,David Moran,3
+Pleasants,9,Governor,,LIB,David Moran,3
+Pleasants,10,Governor,,LIB,David Moran,2
+Pleasants,11,Governor,,LIB,David Moran,2
+Pleasants,1,Governor,,MTN,Jesse Johnson,1
+Pleasants,2,Governor,,MTN,Jesse Johnson,2
+Pleasants,3,Governor,,MTN,Jesse Johnson,2
+Pleasants,4,Governor,,MTN,Jesse Johnson,1
+Pleasants,5,Governor,,MTN,Jesse Johnson,2
+Pleasants,6,Governor,,MTN,Jesse Johnson,4
+Pleasants,7,Governor,,MTN,Jesse Johnson,6
+Pleasants,8,Governor,,MTN,Jesse Johnson,2
+Pleasants,9,Governor,,MTN,Jesse Johnson,4
+Pleasants,10,Governor,,MTN,Jesse Johnson,4
+Pleasants,11,Governor,,MTN,Jesse Johnson,3
+Pleasants,1,Secretary of State,,DEM,Natalie E. Tennant,180
+Pleasants,2,Secretary of State,,DEM,Natalie E. Tennant,204
+Pleasants,3,Secretary of State,,DEM,Natalie E. Tennant,91
+Pleasants,4,Secretary of State,,DEM,Natalie E. Tennant,75
+Pleasants,5,Secretary of State,,DEM,Natalie E. Tennant,114
+Pleasants,6,Secretary of State,,DEM,Natalie E. Tennant,271
+Pleasants,7,Secretary of State,,DEM,Natalie E. Tennant,70
+Pleasants,8,Secretary of State,,DEM,Natalie E. Tennant,74
+Pleasants,9,Secretary of State,,DEM,Natalie E. Tennant,170
+Pleasants,10,Secretary of State,,DEM,Natalie E. Tennant,233
+Pleasants,11,Secretary of State,,DEM,Natalie E. Tennant,142
+Pleasants,1,Secretary of State,,REP,Brian Savilla,136
+Pleasants,2,Secretary of State,,REP,Brian Savilla,113
+Pleasants,3,Secretary of State,,REP,Brian Savilla,32
+Pleasants,4,Secretary of State,,REP,Brian Savilla,48
+Pleasants,5,Secretary of State,,REP,Brian Savilla,99
+Pleasants,6,Secretary of State,,REP,Brian Savilla,211
+Pleasants,7,Secretary of State,,REP,Brian Savilla,61
+Pleasants,8,Secretary of State,,REP,Brian Savilla,58
+Pleasants,9,Secretary of State,,REP,Brian Savilla,109
+Pleasants,10,Secretary of State,,REP,Brian Savilla,149
+Pleasants,11,Secretary of State,,REP,Brian Savilla,58
+Pleasants,1,State Auditor,,DEM,Glen B. Gainer III,216
+Pleasants,2,State Auditor,,DEM,Glen B. Gainer III,224
+Pleasants,3,State Auditor,,DEM,Glen B. Gainer III,98
+Pleasants,4,State Auditor,,DEM,Glen B. Gainer III,81
+Pleasants,5,State Auditor,,DEM,Glen B. Gainer III,142
+Pleasants,6,State Auditor,,DEM,Glen B. Gainer III,310
+Pleasants,7,State Auditor,,DEM,Glen B. Gainer III,85
+Pleasants,8,State Auditor,,DEM,Glen B. Gainer III,86
+Pleasants,9,State Auditor,,DEM,Glen B. Gainer III,193
+Pleasants,10,State Auditor,,DEM,Glen B. Gainer III,258
+Pleasants,11,State Auditor,,DEM,Glen B. Gainer III,155
+Pleasants,1,State Auditor,,REP,Larry V. Faircloth,94
+Pleasants,2,State Auditor,,REP,Larry V. Faircloth,90
+Pleasants,3,State Auditor,,REP,Larry V. Faircloth,24
+Pleasants,4,State Auditor,,REP,Larry V. Faircloth,46
+Pleasants,5,State Auditor,,REP,Larry V. Faircloth,73
+Pleasants,6,State Auditor,,REP,Larry V. Faircloth,166
+Pleasants,7,State Auditor,,REP,Larry V. Faircloth,46
+Pleasants,8,State Auditor,,REP,Larry V. Faircloth,46
+Pleasants,9,State Auditor,,REP,Larry V. Faircloth,91
+Pleasants,10,State Auditor,,REP,Larry V. Faircloth,125
+Pleasants,11,State Auditor,,REP,Larry V. Faircloth,45
+Pleasants,1,State Treasurer,,DEM,John D. Perdue,176
+Pleasants,2,State Treasurer,,DEM,John D. Perdue,182
+Pleasants,3,State Treasurer,,DEM,John D. Perdue,87
+Pleasants,4,State Treasurer,,DEM,John D. Perdue,68
+Pleasants,5,State Treasurer,,DEM,John D. Perdue,112
+Pleasants,6,State Treasurer,,DEM,John D. Perdue,251
+Pleasants,7,State Treasurer,,DEM,John D. Perdue,67
+Pleasants,8,State Treasurer,,DEM,John D. Perdue,68
+Pleasants,9,State Treasurer,,DEM,John D. Perdue,165
+Pleasants,10,State Treasurer,,DEM,John D. Perdue,204
+Pleasants,11,State Treasurer,,DEM,John D. Perdue,132
+Pleasants,1,State Treasurer,,REP,Mike Hall,124
+Pleasants,2,State Treasurer,,REP,Mike Hall,128
+Pleasants,3,State Treasurer,,REP,Mike Hall,32
+Pleasants,4,State Treasurer,,REP,Mike Hall,57
+Pleasants,5,State Treasurer,,REP,Mike Hall,101
+Pleasants,6,State Treasurer,,REP,Mike Hall,217
+Pleasants,7,State Treasurer,,REP,Mike Hall,62
+Pleasants,8,State Treasurer,,REP,Mike Hall,60
+Pleasants,9,State Treasurer,,REP,Mike Hall,114
+Pleasants,10,State Treasurer,,REP,Mike Hall,172
+Pleasants,11,State Treasurer,,REP,Mike Hall,61
+Pleasants,1,Commissioner of Agriculture,,DEM,Walt Helmick,125
+Pleasants,2,Commissioner of Agriculture,,DEM,Walt Helmick,145
+Pleasants,3,Commissioner of Agriculture,,DEM,Walt Helmick,63
+Pleasants,4,Commissioner of Agriculture,,DEM,Walt Helmick,47
+Pleasants,5,Commissioner of Agriculture,,DEM,Walt Helmick,76
+Pleasants,6,Commissioner of Agriculture,,DEM,Walt Helmick,186
+Pleasants,7,Commissioner of Agriculture,,DEM,Walt Helmick,56
+Pleasants,8,Commissioner of Agriculture,,DEM,Walt Helmick,53
+Pleasants,9,Commissioner of Agriculture,,DEM,Walt Helmick,127
+Pleasants,10,Commissioner of Agriculture,,DEM,Walt Helmick,153
+Pleasants,11,Commissioner of Agriculture,,DEM,Walt Helmick,112
+Pleasants,1,Commissioner of Agriculture,,REP,Kent Leonhardt,172
+Pleasants,2,Commissioner of Agriculture,,REP,Kent Leonhardt,155
+Pleasants,3,Commissioner of Agriculture,,REP,Kent Leonhardt,53
+Pleasants,4,Commissioner of Agriculture,,REP,Kent Leonhardt,77
+Pleasants,5,Commissioner of Agriculture,,REP,Kent Leonhardt,132
+Pleasants,6,Commissioner of Agriculture,,REP,Kent Leonhardt,269
+Pleasants,7,Commissioner of Agriculture,,REP,Kent Leonhardt,74
+Pleasants,8,Commissioner of Agriculture,,REP,Kent Leonhardt,76
+Pleasants,9,Commissioner of Agriculture,,REP,Kent Leonhardt,143
+Pleasants,10,Commissioner of Agriculture,,REP,Kent Leonhardt,212
+Pleasants,11,Commissioner of Agriculture,,REP,Kent Leonhardt,78
+Pleasants,1,Attorney General,,DEM,Darrell V. McGraw Jr.,153
+Pleasants,2,Attorney General,,DEM,Darrell V. McGraw Jr.,153
+Pleasants,3,Attorney General,,DEM,Darrell V. McGraw Jr.,84
+Pleasants,4,Attorney General,,DEM,Darrell V. McGraw Jr.,68
+Pleasants,5,Attorney General,,DEM,Darrell V. McGraw Jr.,97
+Pleasants,6,Attorney General,,DEM,Darrell V. McGraw Jr.,190
+Pleasants,7,Attorney General,,DEM,Darrell V. McGraw Jr.,67
+Pleasants,8,Attorney General,,DEM,Darrell V. McGraw Jr.,63
+Pleasants,9,Attorney General,,DEM,Darrell V. McGraw Jr.,140
+Pleasants,10,Attorney General,,DEM,Darrell V. McGraw Jr.,178
+Pleasants,11,Attorney General,,DEM,Darrell V. McGraw Jr.,122
+Pleasants,1,Attorney General,,REP,Patrick Morrisey,164
+Pleasants,2,Attorney General,,REP,Patrick Morrisey,165
+Pleasants,3,Attorney General,,REP,Patrick Morrisey,38
+Pleasants,4,Attorney General,,REP,Patrick Morrisey,58
+Pleasants,5,Attorney General,,REP,Patrick Morrisey,123
+Pleasants,6,Attorney General,,REP,Patrick Morrisey,288
+Pleasants,7,Attorney General,,REP,Patrick Morrisey,67
+Pleasants,8,Attorney General,,REP,Patrick Morrisey,70
+Pleasants,9,Attorney General,,REP,Patrick Morrisey,143
+Pleasants,10,Attorney General,,REP,Patrick Morrisey,208
+Pleasants,11,Attorney General,,REP,Patrick Morrisey,76
+Pleasants,1,State Senate,3,REP,Donna J. Boley,264
+Pleasants,2,State Senate,3,REP,Donna J. Boley,288
+Pleasants,3,State Senate,3,REP,Donna J. Boley,93
+Pleasants,4,State Senate,3,REP,Donna J. Boley,116
+Pleasants,5,State Senate,3,REP,Donna J. Boley,189
+Pleasants,6,State Senate,3,REP,Donna J. Boley,419
+Pleasants,7,State Senate,3,REP,Donna J. Boley,117
+Pleasants,8,State Senate,3,REP,Donna J. Boley,119
+Pleasants,9,State Senate,3,REP,Donna J. Boley,235
+Pleasants,10,State Senate,3,REP,Donna J. Boley,341
+Pleasants,11,State Senate,3,REP,Donna J. Boley,170
+Pleasants,1,State House,7,REP,"Lynwood ""Woody"" Ireland",257
+Pleasants,2,State House,7,REP,"Lynwood ""Woody"" Ireland",269
+Pleasants,3,State House,7,REP,"Lynwood ""Woody"" Ireland",90
+Pleasants,4,State House,7,REP,"Lynwood ""Woody"" Ireland",114
+Pleasants,5,State House,7,REP,"Lynwood ""Woody"" Ireland",185
+Pleasants,6,State House,7,REP,"Lynwood ""Woody"" Ireland",407
+Pleasants,8,State House,7,REP,"Lynwood ""Woody"" Ireland",106
+Pleasants,9,State House,7,REP,"Lynwood ""Woody"" Ireland",222
+Pleasants,10,State House,7,REP,"Lynwood ""Woody"" Ireland",322
+Pleasants,11,State House,7,REP,"Lynwood ""Woody"" Ireland",162
+Pleasants,7,State House,6,DEM,Charlie Delauder,53
+Pleasants,7,State House,6,REP,William Roger Romine,78
