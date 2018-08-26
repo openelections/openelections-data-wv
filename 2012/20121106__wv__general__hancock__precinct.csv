@@ -1,0 +1,701 @@
+county,precinct,office,district,party,candidate,votes
+Hancock,1,President,,DEM,Barack Obama,172
+Hancock,2,President,,DEM,Barack Obama,144
+Hancock,3,President,,DEM,Barack Obama,194
+Hancock,5,President,,DEM,Barack Obama,141
+Hancock,6,President,,DEM,Barack Obama,184
+Hancock,7,President,,DEM,Barack Obama,81
+Hancock,8,President,,DEM,Barack Obama,202
+Hancock,9,President,,DEM,Barack Obama,165
+Hancock,10,President,,DEM,Barack Obama,168
+Hancock,11,President,,DEM,Barack Obama,146
+Hancock,12,President,,DEM,Barack Obama,194
+Hancock,13,President,,DEM,Barack Obama,134
+Hancock,14,President,,DEM,Barack Obama,169
+Hancock,16,President,,DEM,Barack Obama,239
+Hancock,17,President,,DEM,Barack Obama,129
+Hancock,18,President,,DEM,Barack Obama,160
+Hancock,19,President,,DEM,Barack Obama,218
+Hancock,20,President,,DEM,Barack Obama,300
+Hancock,21,President,,DEM,Barack Obama,190
+Hancock,22,President,,DEM,Barack Obama,226
+Hancock,23,President,,DEM,Barack Obama,224
+Hancock,24,President,,DEM,Barack Obama,135
+Hancock,25,President,,DEM,Barack Obama,178
+Hancock,27,President,,DEM,Barack Obama,192
+Hancock,28,President,,DEM,Barack Obama,342
+Hancock,1,President,,REP,Mitt Romney,280
+Hancock,2,President,,REP,Mitt Romney,240
+Hancock,3,President,,REP,Mitt Romney,278
+Hancock,5,President,,REP,Mitt Romney,198
+Hancock,6,President,,REP,Mitt Romney,401
+Hancock,7,President,,REP,Mitt Romney,162
+Hancock,8,President,,REP,Mitt Romney,457
+Hancock,9,President,,REP,Mitt Romney,375
+Hancock,10,President,,REP,Mitt Romney,232
+Hancock,11,President,,REP,Mitt Romney,310
+Hancock,12,President,,REP,Mitt Romney,412
+Hancock,13,President,,REP,Mitt Romney,315
+Hancock,14,President,,REP,Mitt Romney,208
+Hancock,16,President,,REP,Mitt Romney,133
+Hancock,17,President,,REP,Mitt Romney,258
+Hancock,18,President,,REP,Mitt Romney,229
+Hancock,19,President,,REP,Mitt Romney,230
+Hancock,20,President,,REP,Mitt Romney,347
+Hancock,21,President,,REP,Mitt Romney,321
+Hancock,22,President,,REP,Mitt Romney,268
+Hancock,23,President,,REP,Mitt Romney,347
+Hancock,24,President,,REP,Mitt Romney,207
+Hancock,25,President,,REP,Mitt Romney,266
+Hancock,27,President,,REP,Mitt Romney,311
+Hancock,28,President,,REP,Mitt Romney,441
+Hancock,1,President,,LIB,Gary Johnson,6
+Hancock,2,President,,LIB,Gary Johnson,4
+Hancock,3,President,,LIB,Gary Johnson,4
+Hancock,5,President,,LIB,Gary Johnson,2
+Hancock,6,President,,LIB,Gary Johnson,3
+Hancock,7,President,,LIB,Gary Johnson,2
+Hancock,8,President,,LIB,Gary Johnson,3
+Hancock,9,President,,LIB,Gary Johnson,5
+Hancock,10,President,,LIB,Gary Johnson,6
+Hancock,11,President,,LIB,Gary Johnson,1
+Hancock,12,President,,LIB,Gary Johnson,4
+Hancock,13,President,,LIB,Gary Johnson,3
+Hancock,14,President,,LIB,Gary Johnson,3
+Hancock,16,President,,LIB,Gary Johnson,6
+Hancock,17,President,,LIB,Gary Johnson,6
+Hancock,18,President,,LIB,Gary Johnson,5
+Hancock,19,President,,LIB,Gary Johnson,5
+Hancock,20,President,,LIB,Gary Johnson,4
+Hancock,21,President,,LIB,Gary Johnson,6
+Hancock,22,President,,LIB,Gary Johnson,8
+Hancock,23,President,,LIB,Gary Johnson,3
+Hancock,24,President,,LIB,Gary Johnson,3
+Hancock,25,President,,LIB,Gary Johnson,4
+Hancock,27,President,,LIB,Gary Johnson,4
+Hancock,28,President,,LIB,Gary Johnson,11
+Hancock,1,President,,MTN,Jill Stein,2
+Hancock,2,President,,MTN,Jill Stein,2
+Hancock,3,President,,MTN,Jill Stein,6
+Hancock,5,President,,MTN,Jill Stein,3
+Hancock,6,President,,MTN,Jill Stein,6
+Hancock,7,President,,MTN,Jill Stein,1
+Hancock,8,President,,MTN,Jill Stein,1
+Hancock,9,President,,MTN,Jill Stein,3
+Hancock,10,President,,MTN,Jill Stein,3
+Hancock,11,President,,MTN,Jill Stein,2
+Hancock,12,President,,MTN,Jill Stein,6
+Hancock,13,President,,MTN,Jill Stein,1
+Hancock,14,President,,MTN,Jill Stein,0
+Hancock,16,President,,MTN,Jill Stein,1
+Hancock,17,President,,MTN,Jill Stein,2
+Hancock,18,President,,MTN,Jill Stein,2
+Hancock,19,President,,MTN,Jill Stein,2
+Hancock,20,President,,MTN,Jill Stein,3
+Hancock,21,President,,MTN,Jill Stein,2
+Hancock,22,President,,MTN,Jill Stein,2
+Hancock,23,President,,MTN,Jill Stein,2
+Hancock,24,President,,MTN,Jill Stein,4
+Hancock,25,President,,MTN,Jill Stein,4
+Hancock,27,President,,MTN,Jill Stein,4
+Hancock,28,President,,MTN,Jill Stein,1
+Hancock,1,President,,,Randall Terry,3
+Hancock,2,President,,,Randall Terry,0
+Hancock,3,President,,,Randall Terry,8
+Hancock,5,President,,,Randall Terry,2
+Hancock,6,President,,,Randall Terry,8
+Hancock,7,President,,,Randall Terry,1
+Hancock,8,President,,,Randall Terry,4
+Hancock,9,President,,,Randall Terry,6
+Hancock,10,President,,,Randall Terry,8
+Hancock,11,President,,,Randall Terry,3
+Hancock,12,President,,,Randall Terry,5
+Hancock,13,President,,,Randall Terry,2
+Hancock,14,President,,,Randall Terry,3
+Hancock,16,President,,,Randall Terry,4
+Hancock,17,President,,,Randall Terry,0
+Hancock,18,President,,,Randall Terry,1
+Hancock,19,President,,,Randall Terry,7
+Hancock,20,President,,,Randall Terry,3
+Hancock,21,President,,,Randall Terry,3
+Hancock,22,President,,,Randall Terry,5
+Hancock,23,President,,,Randall Terry,2
+Hancock,24,President,,,Randall Terry,1
+Hancock,25,President,,,Randall Terry,1
+Hancock,27,President,,,Randall Terry,4
+Hancock,28,President,,,Randall Terry,5
+Hancock,1,U.S. Senate,,DEM,Joe Manchin III,299
+Hancock,2,U.S. Senate,,DEM,Joe Manchin III,257
+Hancock,3,U.S. Senate,,DEM,Joe Manchin III,351
+Hancock,5,U.S. Senate,,DEM,Joe Manchin III,233
+Hancock,6,U.S. Senate,,DEM,Joe Manchin III,390
+Hancock,7,U.S. Senate,,DEM,Joe Manchin III,156
+Hancock,8,U.S. Senate,,DEM,Joe Manchin III,406
+Hancock,9,U.S. Senate,,DEM,Joe Manchin III,343
+Hancock,10,U.S. Senate,,DEM,Joe Manchin III,290
+Hancock,11,U.S. Senate,,DEM,Joe Manchin III,296
+Hancock,12,U.S. Senate,,DEM,Joe Manchin III,396
+Hancock,13,U.S. Senate,,DEM,Joe Manchin III,285
+Hancock,14,U.S. Senate,,DEM,Joe Manchin III,255
+Hancock,16,U.S. Senate,,DEM,Joe Manchin III,252
+Hancock,17,U.S. Senate,,DEM,Joe Manchin III,216
+Hancock,18,U.S. Senate,,DEM,Joe Manchin III,265
+Hancock,19,U.S. Senate,,DEM,Joe Manchin III,317
+Hancock,20,U.S. Senate,,DEM,Joe Manchin III,458
+Hancock,21,U.S. Senate,,DEM,Joe Manchin III,337
+Hancock,22,U.S. Senate,,DEM,Joe Manchin III,354
+Hancock,23,U.S. Senate,,DEM,Joe Manchin III,377
+Hancock,24,U.S. Senate,,DEM,Joe Manchin III,232
+Hancock,25,U.S. Senate,,DEM,Joe Manchin III,291
+Hancock,27,U.S. Senate,,DEM,Joe Manchin III,344
+Hancock,28,U.S. Senate,,DEM,Joe Manchin III,520
+Hancock,1,U.S. Senate,,REP,John R. Raese,135
+Hancock,2,U.S. Senate,,REP,John R. Raese,120
+Hancock,3,U.S. Senate,,REP,John R. Raese,119
+Hancock,5,U.S. Senate,,REP,John R. Raese,91
+Hancock,6,U.S. Senate,,REP,John R. Raese,186
+Hancock,7,U.S. Senate,,REP,John R. Raese,86
+Hancock,8,U.S. Senate,,REP,John R. Raese,216
+Hancock,9,U.S. Senate,,REP,John R. Raese,169
+Hancock,10,U.S. Senate,,REP,John R. Raese,108
+Hancock,11,U.S. Senate,,REP,John R. Raese,147
+Hancock,12,U.S. Senate,,REP,John R. Raese,204
+Hancock,13,U.S. Senate,,REP,John R. Raese,155
+Hancock,14,U.S. Senate,,REP,John R. Raese,119
+Hancock,16,U.S. Senate,,REP,John R. Raese,79
+Hancock,17,U.S. Senate,,REP,John R. Raese,167
+Hancock,18,U.S. Senate,,REP,John R. Raese,121
+Hancock,19,U.S. Senate,,REP,John R. Raese,124
+Hancock,20,U.S. Senate,,REP,John R. Raese,178
+Hancock,21,U.S. Senate,,REP,John R. Raese,162
+Hancock,22,U.S. Senate,,REP,John R. Raese,127
+Hancock,23,U.S. Senate,,REP,John R. Raese,170
+Hancock,24,U.S. Senate,,REP,John R. Raese,110
+Hancock,25,U.S. Senate,,REP,John R. Raese,141
+Hancock,27,U.S. Senate,,REP,John R. Raese,144
+Hancock,28,U.S. Senate,,REP,John R. Raese,250
+Hancock,1,U.S. Senate,,MTN,Bob Henry Baber,9
+Hancock,2,U.S. Senate,,MTN,Bob Henry Baber,3
+Hancock,3,U.S. Senate,,MTN,Bob Henry Baber,7
+Hancock,5,U.S. Senate,,MTN,Bob Henry Baber,7
+Hancock,6,U.S. Senate,,MTN,Bob Henry Baber,9
+Hancock,7,U.S. Senate,,MTN,Bob Henry Baber,3
+Hancock,8,U.S. Senate,,MTN,Bob Henry Baber,11
+Hancock,9,U.S. Senate,,MTN,Bob Henry Baber,10
+Hancock,10,U.S. Senate,,MTN,Bob Henry Baber,9
+Hancock,11,U.S. Senate,,MTN,Bob Henry Baber,5
+Hancock,12,U.S. Senate,,MTN,Bob Henry Baber,11
+Hancock,13,U.S. Senate,,MTN,Bob Henry Baber,9
+Hancock,14,U.S. Senate,,MTN,Bob Henry Baber,5
+Hancock,16,U.S. Senate,,MTN,Bob Henry Baber,7
+Hancock,17,U.S. Senate,,MTN,Bob Henry Baber,4
+Hancock,18,U.S. Senate,,MTN,Bob Henry Baber,2
+Hancock,19,U.S. Senate,,MTN,Bob Henry Baber,7
+Hancock,20,U.S. Senate,,MTN,Bob Henry Baber,8
+Hancock,21,U.S. Senate,,MTN,Bob Henry Baber,10
+Hancock,22,U.S. Senate,,MTN,Bob Henry Baber,10
+Hancock,23,U.S. Senate,,MTN,Bob Henry Baber,7
+Hancock,24,U.S. Senate,,MTN,Bob Henry Baber,6
+Hancock,25,U.S. Senate,,MTN,Bob Henry Baber,6
+Hancock,27,U.S. Senate,,MTN,Bob Henry Baber,6
+Hancock,28,U.S. Senate,,MTN,Bob Henry Baber,15
+Hancock,1,U.S. House,1,DEM,Sue Thorn,170
+Hancock,2,U.S. House,1,DEM,Sue Thorn,153
+Hancock,3,U.S. House,1,DEM,Sue Thorn,207
+Hancock,5,U.S. House,1,DEM,Sue Thorn,149
+Hancock,6,U.S. House,1,DEM,Sue Thorn,199
+Hancock,7,U.S. House,1,DEM,Sue Thorn,84
+Hancock,8,U.S. House,1,DEM,Sue Thorn,190
+Hancock,9,U.S. House,1,DEM,Sue Thorn,167
+Hancock,10,U.S. House,1,DEM,Sue Thorn,168
+Hancock,11,U.S. House,1,DEM,Sue Thorn,135
+Hancock,12,U.S. House,1,DEM,Sue Thorn,190
+Hancock,13,U.S. House,1,DEM,Sue Thorn,136
+Hancock,14,U.S. House,1,DEM,Sue Thorn,161
+Hancock,16,U.S. House,1,DEM,Sue Thorn,199
+Hancock,17,U.S. House,1,DEM,Sue Thorn,119
+Hancock,18,U.S. House,1,DEM,Sue Thorn,148
+Hancock,19,U.S. House,1,DEM,Sue Thorn,182
+Hancock,20,U.S. House,1,DEM,Sue Thorn,277
+Hancock,21,U.S. House,1,DEM,Sue Thorn,166
+Hancock,22,U.S. House,1,DEM,Sue Thorn,217
+Hancock,23,U.S. House,1,DEM,Sue Thorn,234
+Hancock,24,U.S. House,1,DEM,Sue Thorn,136
+Hancock,25,U.S. House,1,DEM,Sue Thorn,183
+Hancock,27,U.S. House,1,DEM,Sue Thorn,195
+Hancock,28,U.S. House,1,DEM,Sue Thorn,311
+Hancock,1,U.S. House,1,REP,David B. McKinley,239
+Hancock,2,U.S. House,1,REP,David B. McKinley,212
+Hancock,3,U.S. House,1,REP,David B. McKinley,246
+Hancock,5,U.S. House,1,REP,David B. McKinley,174
+Hancock,6,U.S. House,1,REP,David B. McKinley,355
+Hancock,7,U.S. House,1,REP,David B. McKinley,158
+Hancock,8,U.S. House,1,REP,David B. McKinley,417
+Hancock,9,U.S. House,1,REP,David B. McKinley,331
+Hancock,10,U.S. House,1,REP,David B. McKinley,226
+Hancock,11,U.S. House,1,REP,David B. McKinley,298
+Hancock,12,U.S. House,1,REP,David B. McKinley,401
+Hancock,13,U.S. House,1,REP,David B. McKinley,289
+Hancock,14,U.S. House,1,REP,David B. McKinley,197
+Hancock,16,U.S. House,1,REP,David B. McKinley,131
+Hancock,17,U.S. House,1,REP,David B. McKinley,254
+Hancock,18,U.S. House,1,REP,David B. McKinley,219
+Hancock,19,U.S. House,1,REP,David B. McKinley,244
+Hancock,20,U.S. House,1,REP,David B. McKinley,339
+Hancock,21,U.S. House,1,REP,David B. McKinley,314
+Hancock,22,U.S. House,1,REP,David B. McKinley,260
+Hancock,23,U.S. House,1,REP,David B. McKinley,299
+Hancock,24,U.S. House,1,REP,David B. McKinley,199
+Hancock,25,U.S. House,1,REP,David B. McKinley,236
+Hancock,27,U.S. House,1,REP,David B. McKinley,262
+Hancock,28,U.S. House,1,REP,David B. McKinley,440
+Hancock,1,Governor,,DEM,Earl Ray Tomblin,231
+Hancock,2,Governor,,DEM,Earl Ray Tomblin,192
+Hancock,3,Governor,,DEM,Earl Ray Tomblin,258
+Hancock,5,Governor,,DEM,Earl Ray Tomblin,186
+Hancock,6,Governor,,DEM,Earl Ray Tomblin,258
+Hancock,7,Governor,,DEM,Earl Ray Tomblin,107
+Hancock,8,Governor,,DEM,Earl Ray Tomblin,315
+Hancock,9,Governor,,DEM,Earl Ray Tomblin,254
+Hancock,10,Governor,,DEM,Earl Ray Tomblin,224
+Hancock,11,Governor,,DEM,Earl Ray Tomblin,217
+Hancock,12,Governor,,DEM,Earl Ray Tomblin,277
+Hancock,13,Governor,,DEM,Earl Ray Tomblin,201
+Hancock,14,Governor,,DEM,Earl Ray Tomblin,209
+Hancock,16,Governor,,DEM,Earl Ray Tomblin,250
+Hancock,17,Governor,,DEM,Earl Ray Tomblin,167
+Hancock,18,Governor,,DEM,Earl Ray Tomblin,197
+Hancock,19,Governor,,DEM,Earl Ray Tomblin,242
+Hancock,20,Governor,,DEM,Earl Ray Tomblin,374
+Hancock,21,Governor,,DEM,Earl Ray Tomblin,263
+Hancock,22,Governor,,DEM,Earl Ray Tomblin,288
+Hancock,23,Governor,,DEM,Earl Ray Tomblin,300
+Hancock,24,Governor,,DEM,Earl Ray Tomblin,175
+Hancock,25,Governor,,DEM,Earl Ray Tomblin,220
+Hancock,27,Governor,,DEM,Earl Ray Tomblin,267
+Hancock,28,Governor,,DEM,Earl Ray Tomblin,405
+Hancock,1,Governor,,REP,Bill Maloney,210
+Hancock,2,Governor,,REP,Bill Maloney,182
+Hancock,3,Governor,,REP,Bill Maloney,196
+Hancock,5,Governor,,REP,Bill Maloney,140
+Hancock,6,Governor,,REP,Bill Maloney,314
+Hancock,7,Governor,,REP,Bill Maloney,133
+Hancock,8,Governor,,REP,Bill Maloney,320
+Hancock,9,Governor,,REP,Bill Maloney,273
+Hancock,10,Governor,,REP,Bill Maloney,173
+Hancock,11,Governor,,REP,Bill Maloney,217
+Hancock,12,Governor,,REP,Bill Maloney,325
+Hancock,13,Governor,,REP,Bill Maloney,233
+Hancock,14,Governor,,REP,Bill Maloney,152
+Hancock,16,Governor,,REP,Bill Maloney,109
+Hancock,17,Governor,,REP,Bill Maloney,214
+Hancock,18,Governor,,REP,Bill Maloney,180
+Hancock,19,Governor,,REP,Bill Maloney,200
+Hancock,20,Governor,,REP,Bill Maloney,261
+Hancock,21,Governor,,REP,Bill Maloney,241
+Hancock,22,Governor,,REP,Bill Maloney,189
+Hancock,23,Governor,,REP,Bill Maloney,250
+Hancock,24,Governor,,REP,Bill Maloney,164
+Hancock,25,Governor,,REP,Bill Maloney,205
+Hancock,27,Governor,,REP,Bill Maloney,231
+Hancock,28,Governor,,REP,Bill Maloney,342
+Hancock,1,Governor,,LIB,David Moran,8
+Hancock,2,Governor,,LIB,David Moran,5
+Hancock,3,Governor,,LIB,David Moran,15
+Hancock,5,Governor,,LIB,David Moran,7
+Hancock,6,Governor,,LIB,David Moran,9
+Hancock,7,Governor,,LIB,David Moran,4
+Hancock,8,Governor,,LIB,David Moran,9
+Hancock,9,Governor,,LIB,David Moran,8
+Hancock,10,Governor,,LIB,David Moran,6
+Hancock,11,Governor,,LIB,David Moran,1
+Hancock,12,Governor,,LIB,David Moran,6
+Hancock,13,Governor,,LIB,David Moran,7
+Hancock,14,Governor,,LIB,David Moran,9
+Hancock,16,Governor,,LIB,David Moran,9
+Hancock,17,Governor,,LIB,David Moran,6
+Hancock,18,Governor,,LIB,David Moran,2
+Hancock,19,Governor,,LIB,David Moran,7
+Hancock,20,Governor,,LIB,David Moran,7
+Hancock,21,Governor,,LIB,David Moran,6
+Hancock,22,Governor,,LIB,David Moran,12
+Hancock,23,Governor,,LIB,David Moran,3
+Hancock,24,Governor,,LIB,David Moran,4
+Hancock,25,Governor,,LIB,David Moran,8
+Hancock,27,Governor,,LIB,David Moran,6
+Hancock,28,Governor,,LIB,David Moran,22
+Hancock,1,Governor,,MTN,Jesse Johnson,8
+Hancock,2,Governor,,MTN,Jesse Johnson,2
+Hancock,3,Governor,,MTN,Jesse Johnson,11
+Hancock,5,Governor,,MTN,Jesse Johnson,8
+Hancock,6,Governor,,MTN,Jesse Johnson,12
+Hancock,7,Governor,,MTN,Jesse Johnson,6
+Hancock,8,Governor,,MTN,Jesse Johnson,10
+Hancock,9,Governor,,MTN,Jesse Johnson,10
+Hancock,10,Governor,,MTN,Jesse Johnson,10
+Hancock,11,Governor,,MTN,Jesse Johnson,12
+Hancock,12,Governor,,MTN,Jesse Johnson,9
+Hancock,13,Governor,,MTN,Jesse Johnson,7
+Hancock,14,Governor,,MTN,Jesse Johnson,4
+Hancock,16,Governor,,MTN,Jesse Johnson,6
+Hancock,17,Governor,,MTN,Jesse Johnson,3
+Hancock,18,Governor,,MTN,Jesse Johnson,6
+Hancock,19,Governor,,MTN,Jesse Johnson,4
+Hancock,20,Governor,,MTN,Jesse Johnson,3
+Hancock,21,Governor,,MTN,Jesse Johnson,7
+Hancock,22,Governor,,MTN,Jesse Johnson,6
+Hancock,23,Governor,,MTN,Jesse Johnson,7
+Hancock,24,Governor,,MTN,Jesse Johnson,6
+Hancock,25,Governor,,MTN,Jesse Johnson,7
+Hancock,27,Governor,,MTN,Jesse Johnson,5
+Hancock,28,Governor,,MTN,Jesse Johnson,15
+Hancock,1,Secretary of State,,DEM,Natalie E. Tennant,259
+Hancock,2,Secretary of State,,DEM,Natalie E. Tennant,217
+Hancock,3,Secretary of State,,DEM,Natalie E. Tennant,291
+Hancock,5,Secretary of State,,DEM,Natalie E. Tennant,196
+Hancock,6,Secretary of State,,DEM,Natalie E. Tennant,321
+Hancock,7,Secretary of State,,DEM,Natalie E. Tennant,136
+Hancock,8,Secretary of State,,DEM,Natalie E. Tennant,323
+Hancock,9,Secretary of State,,DEM,Natalie E. Tennant,292
+Hancock,10,Secretary of State,,DEM,Natalie E. Tennant,270
+Hancock,11,Secretary of State,,DEM,Natalie E. Tennant,232
+Hancock,12,Secretary of State,,DEM,Natalie E. Tennant,340
+Hancock,13,Secretary of State,,DEM,Natalie E. Tennant,231
+Hancock,14,Secretary of State,,DEM,Natalie E. Tennant,228
+Hancock,16,Secretary of State,,DEM,Natalie E. Tennant,252
+Hancock,17,Secretary of State,,DEM,Natalie E. Tennant,183
+Hancock,18,Secretary of State,,DEM,Natalie E. Tennant,225
+Hancock,19,Secretary of State,,DEM,Natalie E. Tennant,274
+Hancock,20,Secretary of State,,DEM,Natalie E. Tennant,405
+Hancock,21,Secretary of State,,DEM,Natalie E. Tennant,277
+Hancock,22,Secretary of State,,DEM,Natalie E. Tennant,327
+Hancock,23,Secretary of State,,DEM,Natalie E. Tennant,361
+Hancock,24,Secretary of State,,DEM,Natalie E. Tennant,205
+Hancock,25,Secretary of State,,DEM,Natalie E. Tennant,254
+Hancock,27,Secretary of State,,DEM,Natalie E. Tennant,294
+Hancock,28,Secretary of State,,DEM,Natalie E. Tennant,467
+Hancock,1,Secretary of State,,REP,Brian Savilla,152
+Hancock,2,Secretary of State,,REP,Brian Savilla,147
+Hancock,3,Secretary of State,,REP,Brian Savilla,160
+Hancock,5,Secretary of State,,REP,Brian Savilla,118
+Hancock,6,Secretary of State,,REP,Brian Savilla,235
+Hancock,7,Secretary of State,,REP,Brian Savilla,99
+Hancock,8,Secretary of State,,REP,Brian Savilla,269
+Hancock,9,Secretary of State,,REP,Brian Savilla,205
+Hancock,10,Secretary of State,,REP,Brian Savilla,113
+Hancock,11,Secretary of State,,REP,Brian Savilla,188
+Hancock,12,Secretary of State,,REP,Brian Savilla,237
+Hancock,13,Secretary of State,,REP,Brian Savilla,192
+Hancock,14,Secretary of State,,REP,Brian Savilla,133
+Hancock,16,Secretary of State,,REP,Brian Savilla,88
+Hancock,17,Secretary of State,,REP,Brian Savilla,189
+Hancock,18,Secretary of State,,REP,Brian Savilla,144
+Hancock,19,Secretary of State,,REP,Brian Savilla,160
+Hancock,20,Secretary of State,,REP,Brian Savilla,199
+Hancock,21,Secretary of State,,REP,Brian Savilla,199
+Hancock,22,Secretary of State,,REP,Brian Savilla,154
+Hancock,23,Secretary of State,,REP,Brian Savilla,179
+Hancock,24,Secretary of State,,REP,Brian Savilla,124
+Hancock,25,Secretary of State,,REP,Brian Savilla,158
+Hancock,27,Secretary of State,,REP,Brian Savilla,171
+Hancock,28,Secretary of State,,REP,Brian Savilla,280
+Hancock,1,State Auditor,,DEM,Glen B. Gainer III,219
+Hancock,2,State Auditor,,DEM,Glen B. Gainer III,204
+Hancock,3,State Auditor,,DEM,Glen B. Gainer III,266
+Hancock,5,State Auditor,,DEM,Glen B. Gainer III,169
+Hancock,6,State Auditor,,DEM,Glen B. Gainer III,272
+Hancock,7,State Auditor,,DEM,Glen B. Gainer III,123
+Hancock,8,State Auditor,,DEM,Glen B. Gainer III,290
+Hancock,9,State Auditor,,DEM,Glen B. Gainer III,272
+Hancock,10,State Auditor,,DEM,Glen B. Gainer III,258
+Hancock,11,State Auditor,,DEM,Glen B. Gainer III,217
+Hancock,12,State Auditor,,DEM,Glen B. Gainer III,298
+Hancock,13,State Auditor,,DEM,Glen B. Gainer III,211
+Hancock,14,State Auditor,,DEM,Glen B. Gainer III,202
+Hancock,16,State Auditor,,DEM,Glen B. Gainer III,241
+Hancock,17,State Auditor,,DEM,Glen B. Gainer III,164
+Hancock,18,State Auditor,,DEM,Glen B. Gainer III,213
+Hancock,19,State Auditor,,DEM,Glen B. Gainer III,255
+Hancock,20,State Auditor,,DEM,Glen B. Gainer III,377
+Hancock,21,State Auditor,,DEM,Glen B. Gainer III,260
+Hancock,22,State Auditor,,DEM,Glen B. Gainer III,303
+Hancock,23,State Auditor,,DEM,Glen B. Gainer III,346
+Hancock,24,State Auditor,,DEM,Glen B. Gainer III,196
+Hancock,25,State Auditor,,DEM,Glen B. Gainer III,245
+Hancock,27,State Auditor,,DEM,Glen B. Gainer III,268
+Hancock,28,State Auditor,,DEM,Glen B. Gainer III,426
+Hancock,1,State Auditor,,REP,Larry V. Faircloth,187
+Hancock,2,State Auditor,,REP,Larry V. Faircloth,148
+Hancock,3,State Auditor,,REP,Larry V. Faircloth,175
+Hancock,5,State Auditor,,REP,Larry V. Faircloth,136
+Hancock,6,State Auditor,,REP,Larry V. Faircloth,272
+Hancock,7,State Auditor,,REP,Larry V. Faircloth,109
+Hancock,8,State Auditor,,REP,Larry V. Faircloth,288
+Hancock,9,State Auditor,,REP,Larry V. Faircloth,213
+Hancock,10,State Auditor,,REP,Larry V. Faircloth,125
+Hancock,11,State Auditor,,REP,Larry V. Faircloth,192
+Hancock,12,State Auditor,,REP,Larry V. Faircloth,271
+Hancock,13,State Auditor,,REP,Larry V. Faircloth,204
+Hancock,14,State Auditor,,REP,Larry V. Faircloth,153
+Hancock,16,State Auditor,,REP,Larry V. Faircloth,92
+Hancock,17,State Auditor,,REP,Larry V. Faircloth,200
+Hancock,18,State Auditor,,REP,Larry V. Faircloth,152
+Hancock,19,State Auditor,,REP,Larry V. Faircloth,165
+Hancock,20,State Auditor,,REP,Larry V. Faircloth,220
+Hancock,21,State Auditor,,REP,Larry V. Faircloth,208
+Hancock,22,State Auditor,,REP,Larry V. Faircloth,163
+Hancock,23,State Auditor,,REP,Larry V. Faircloth,186
+Hancock,24,State Auditor,,REP,Larry V. Faircloth,132
+Hancock,25,State Auditor,,REP,Larry V. Faircloth,160
+Hancock,27,State Auditor,,REP,Larry V. Faircloth,190
+Hancock,28,State Auditor,,REP,Larry V. Faircloth,295
+Hancock,1,State Treasurer,,DEM,John D. Perdue,237
+Hancock,2,State Treasurer,,DEM,John D. Perdue,206
+Hancock,3,State Treasurer,,DEM,John D. Perdue,262
+Hancock,5,State Treasurer,,DEM,John D. Perdue,181
+Hancock,6,State Treasurer,,DEM,John D. Perdue,267
+Hancock,7,State Treasurer,,DEM,John D. Perdue,119
+Hancock,8,State Treasurer,,DEM,John D. Perdue,306
+Hancock,9,State Treasurer,,DEM,John D. Perdue,298
+Hancock,10,State Treasurer,,DEM,John D. Perdue,250
+Hancock,11,State Treasurer,,DEM,John D. Perdue,201
+Hancock,12,State Treasurer,,DEM,John D. Perdue,282
+Hancock,13,State Treasurer,,DEM,John D. Perdue,201
+Hancock,14,State Treasurer,,DEM,John D. Perdue,204
+Hancock,16,State Treasurer,,DEM,John D. Perdue,232
+Hancock,17,State Treasurer,,DEM,John D. Perdue,168
+Hancock,18,State Treasurer,,DEM,John D. Perdue,201
+Hancock,19,State Treasurer,,DEM,John D. Perdue,257
+Hancock,20,State Treasurer,,DEM,John D. Perdue,370
+Hancock,21,State Treasurer,,DEM,John D. Perdue,259
+Hancock,22,State Treasurer,,DEM,John D. Perdue,293
+Hancock,23,State Treasurer,,DEM,John D. Perdue,316
+Hancock,24,State Treasurer,,DEM,John D. Perdue,182
+Hancock,25,State Treasurer,,DEM,John D. Perdue,235
+Hancock,27,State Treasurer,,DEM,John D. Perdue,254
+Hancock,28,State Treasurer,,DEM,John D. Perdue,408
+Hancock,1,State Treasurer,,REP,Mike Hall,180
+Hancock,2,State Treasurer,,REP,Mike Hall,150
+Hancock,3,State Treasurer,,REP,Mike Hall,180
+Hancock,5,State Treasurer,,REP,Mike Hall,130
+Hancock,6,State Treasurer,,REP,Mike Hall,278
+Hancock,7,State Treasurer,,REP,Mike Hall,113
+Hancock,8,State Treasurer,,REP,Mike Hall,293
+Hancock,9,State Treasurer,,REP,Mike Hall,216
+Hancock,10,State Treasurer,,REP,Mike Hall,131
+Hancock,11,State Treasurer,,REP,Mike Hall,213
+Hancock,12,State Treasurer,,REP,Mike Hall,290
+Hancock,13,State Treasurer,,REP,Mike Hall,214
+Hancock,14,State Treasurer,,REP,Mike Hall,150
+Hancock,16,State Treasurer,,REP,Mike Hall,114
+Hancock,17,State Treasurer,,REP,Mike Hall,202
+Hancock,18,State Treasurer,,REP,Mike Hall,163
+Hancock,19,State Treasurer,,REP,Mike Hall,176
+Hancock,20,State Treasurer,,REP,Mike Hall,225
+Hancock,21,State Treasurer,,REP,Mike Hall,214
+Hancock,22,State Treasurer,,REP,Mike Hall,185
+Hancock,23,State Treasurer,,REP,Mike Hall,212
+Hancock,24,State Treasurer,,REP,Mike Hall,145
+Hancock,25,State Treasurer,,REP,Mike Hall,171
+Hancock,27,State Treasurer,,REP,Mike Hall,208
+Hancock,28,State Treasurer,,REP,Mike Hall,321
+Hancock,1,Commissioner of Agriculture,,DEM,Walt Helmick,188
+Hancock,2,Commissioner of Agriculture,,DEM,Walt Helmick,183
+Hancock,3,Commissioner of Agriculture,,DEM,Walt Helmick,227
+Hancock,5,Commissioner of Agriculture,,DEM,Walt Helmick,148
+Hancock,6,Commissioner of Agriculture,,DEM,Walt Helmick,219
+Hancock,7,Commissioner of Agriculture,,DEM,Walt Helmick,110
+Hancock,8,Commissioner of Agriculture,,DEM,Walt Helmick,242
+Hancock,9,Commissioner of Agriculture,,DEM,Walt Helmick,231
+Hancock,10,Commissioner of Agriculture,,DEM,Walt Helmick,178
+Hancock,11,Commissioner of Agriculture,,DEM,Walt Helmick,181
+Hancock,12,Commissioner of Agriculture,,DEM,Walt Helmick,263
+Hancock,13,Commissioner of Agriculture,,DEM,Walt Helmick,199
+Hancock,14,Commissioner of Agriculture,,DEM,Walt Helmick,183
+Hancock,16,Commissioner of Agriculture,,DEM,Walt Helmick,220
+Hancock,17,Commissioner of Agriculture,,DEM,Walt Helmick,149
+Hancock,18,Commissioner of Agriculture,,DEM,Walt Helmick,181
+Hancock,19,Commissioner of Agriculture,,DEM,Walt Helmick,245
+Hancock,20,Commissioner of Agriculture,,DEM,Walt Helmick,335
+Hancock,21,Commissioner of Agriculture,,DEM,Walt Helmick,227
+Hancock,22,Commissioner of Agriculture,,DEM,Walt Helmick,274
+Hancock,23,Commissioner of Agriculture,,DEM,Walt Helmick,272
+Hancock,24,Commissioner of Agriculture,,DEM,Walt Helmick,164
+Hancock,25,Commissioner of Agriculture,,DEM,Walt Helmick,208
+Hancock,27,Commissioner of Agriculture,,DEM,Walt Helmick,225
+Hancock,28,Commissioner of Agriculture,,DEM,Walt Helmick,371
+Hancock,1,Commissioner of Agriculture,,REP,Kent Leonhardt,223
+Hancock,2,Commissioner of Agriculture,,REP,Kent Leonhardt,171
+Hancock,3,Commissioner of Agriculture,,REP,Kent Leonhardt,213
+Hancock,5,Commissioner of Agriculture,,REP,Kent Leonhardt,154
+Hancock,6,Commissioner of Agriculture,,REP,Kent Leonhardt,318
+Hancock,7,Commissioner of Agriculture,,REP,Kent Leonhardt,126
+Hancock,8,Commissioner of Agriculture,,REP,Kent Leonhardt,352
+Hancock,9,Commissioner of Agriculture,,REP,Kent Leonhardt,267
+Hancock,10,Commissioner of Agriculture,,REP,Kent Leonhardt,196
+Hancock,11,Commissioner of Agriculture,,REP,Kent Leonhardt,222
+Hancock,12,Commissioner of Agriculture,,REP,Kent Leonhardt,300
+Hancock,13,Commissioner of Agriculture,,REP,Kent Leonhardt,207
+Hancock,14,Commissioner of Agriculture,,REP,Kent Leonhardt,173
+Hancock,16,Commissioner of Agriculture,,REP,Kent Leonhardt,122
+Hancock,17,Commissioner of Agriculture,,REP,Kent Leonhardt,209
+Hancock,18,Commissioner of Agriculture,,REP,Kent Leonhardt,178
+Hancock,19,Commissioner of Agriculture,,REP,Kent Leonhardt,172
+Hancock,20,Commissioner of Agriculture,,REP,Kent Leonhardt,252
+Hancock,21,Commissioner of Agriculture,,REP,Kent Leonhardt,238
+Hancock,22,Commissioner of Agriculture,,REP,Kent Leonhardt,185
+Hancock,23,Commissioner of Agriculture,,REP,Kent Leonhardt,237
+Hancock,24,Commissioner of Agriculture,,REP,Kent Leonhardt,154
+Hancock,25,Commissioner of Agriculture,,REP,Kent Leonhardt,189
+Hancock,27,Commissioner of Agriculture,,REP,Kent Leonhardt,226
+Hancock,28,Commissioner of Agriculture,,REP,Kent Leonhardt,346
+Hancock,1,Attorney General,,DEM,Darrell V. McGraw Jr.,216
+Hancock,2,Attorney General,,DEM,Darrell V. McGraw Jr.,185
+Hancock,3,Attorney General,,DEM,Darrell V. McGraw Jr.,248
+Hancock,5,Attorney General,,DEM,Darrell V. McGraw Jr.,171
+Hancock,6,Attorney General,,DEM,Darrell V. McGraw Jr.,251
+Hancock,7,Attorney General,,DEM,Darrell V. McGraw Jr.,115
+Hancock,8,Attorney General,,DEM,Darrell V. McGraw Jr.,277
+Hancock,9,Attorney General,,DEM,Darrell V. McGraw Jr.,253
+Hancock,10,Attorney General,,DEM,Darrell V. McGraw Jr.,211
+Hancock,11,Attorney General,,DEM,Darrell V. McGraw Jr.,197
+Hancock,12,Attorney General,,DEM,Darrell V. McGraw Jr.,267
+Hancock,13,Attorney General,,DEM,Darrell V. McGraw Jr.,187
+Hancock,14,Attorney General,,DEM,Darrell V. McGraw Jr.,186
+Hancock,16,Attorney General,,DEM,Darrell V. McGraw Jr.,235
+Hancock,17,Attorney General,,DEM,Darrell V. McGraw Jr.,144
+Hancock,18,Attorney General,,DEM,Darrell V. McGraw Jr.,181
+Hancock,19,Attorney General,,DEM,Darrell V. McGraw Jr.,244
+Hancock,20,Attorney General,,DEM,Darrell V. McGraw Jr.,370
+Hancock,21,Attorney General,,DEM,Darrell V. McGraw Jr.,229
+Hancock,22,Attorney General,,DEM,Darrell V. McGraw Jr.,277
+Hancock,23,Attorney General,,DEM,Darrell V. McGraw Jr.,281
+Hancock,24,Attorney General,,DEM,Darrell V. McGraw Jr.,167
+Hancock,25,Attorney General,,DEM,Darrell V. McGraw Jr.,218
+Hancock,27,Attorney General,,DEM,Darrell V. McGraw Jr.,230
+Hancock,28,Attorney General,,DEM,Darrell V. McGraw Jr.,387
+Hancock,1,Attorney General,,REP,Patrick Morrisey,212
+Hancock,2,Attorney General,,REP,Patrick Morrisey,188
+Hancock,3,Attorney General,,REP,Patrick Morrisey,208
+Hancock,5,Attorney General,,REP,Patrick Morrisey,150
+Hancock,6,Attorney General,,REP,Patrick Morrisey,319
+Hancock,7,Attorney General,,REP,Patrick Morrisey,126
+Hancock,8,Attorney General,,REP,Patrick Morrisey,337
+Hancock,9,Attorney General,,REP,Patrick Morrisey,264
+Hancock,10,Attorney General,,REP,Patrick Morrisey,185
+Hancock,11,Attorney General,,REP,Patrick Morrisey,227
+Hancock,12,Attorney General,,REP,Patrick Morrisey,327
+Hancock,13,Attorney General,,REP,Patrick Morrisey,247
+Hancock,14,Attorney General,,REP,Patrick Morrisey,178
+Hancock,16,Attorney General,,REP,Patrick Morrisey,113
+Hancock,17,Attorney General,,REP,Patrick Morrisey,235
+Hancock,18,Attorney General,,REP,Patrick Morrisey,194
+Hancock,19,Attorney General,,REP,Patrick Morrisey,207
+Hancock,20,Attorney General,,REP,Patrick Morrisey,253
+Hancock,21,Attorney General,,REP,Patrick Morrisey,263
+Hancock,22,Attorney General,,REP,Patrick Morrisey,218
+Hancock,23,Attorney General,,REP,Patrick Morrisey,271
+Hancock,24,Attorney General,,REP,Patrick Morrisey,171
+Hancock,25,Attorney General,,REP,Patrick Morrisey,206
+Hancock,27,Attorney General,,REP,Patrick Morrisey,254
+Hancock,28,Attorney General,,REP,Patrick Morrisey,374
+Hancock,1,State Senate,1,DEM,Jack Yost,165
+Hancock,2,State Senate,1,DEM,Jack Yost,146
+Hancock,3,State Senate,1,DEM,Jack Yost,180
+Hancock,5,State Senate,1,DEM,Jack Yost,109
+Hancock,6,State Senate,1,DEM,Jack Yost,180
+Hancock,7,State Senate,1,DEM,Jack Yost,90
+Hancock,8,State Senate,1,DEM,Jack Yost,241
+Hancock,9,State Senate,1,DEM,Jack Yost,191
+Hancock,10,State Senate,1,DEM,Jack Yost,176
+Hancock,11,State Senate,1,DEM,Jack Yost,178
+Hancock,12,State Senate,1,DEM,Jack Yost,272
+Hancock,13,State Senate,1,DEM,Jack Yost,198
+Hancock,14,State Senate,1,DEM,Jack Yost,192
+Hancock,16,State Senate,1,DEM,Jack Yost,230
+Hancock,17,State Senate,1,DEM,Jack Yost,154
+Hancock,18,State Senate,1,DEM,Jack Yost,191
+Hancock,19,State Senate,1,DEM,Jack Yost,244
+Hancock,20,State Senate,1,DEM,Jack Yost,343
+Hancock,21,State Senate,1,DEM,Jack Yost,247
+Hancock,22,State Senate,1,DEM,Jack Yost,283
+Hancock,23,State Senate,1,DEM,Jack Yost,302
+Hancock,24,State Senate,1,DEM,Jack Yost,170
+Hancock,25,State Senate,1,DEM,Jack Yost,212
+Hancock,27,State Senate,1,DEM,Jack Yost,266
+Hancock,28,State Senate,1,DEM,Jack Yost,431
+Hancock,1,State Senate,1,REP,Pat McGeehan,293
+Hancock,2,State Senate,1,REP,Pat McGeehan,239
+Hancock,3,State Senate,1,REP,Pat McGeehan,305
+Hancock,5,State Senate,1,REP,Pat McGeehan,235
+Hancock,6,State Senate,1,REP,Pat McGeehan,413
+Hancock,7,State Senate,1,REP,Pat McGeehan,158
+Hancock,8,State Senate,1,REP,Pat McGeehan,404
+Hancock,9,State Senate,1,REP,Pat McGeehan,349
+Hancock,10,State Senate,1,REP,Pat McGeehan,238
+Hancock,11,State Senate,1,REP,Pat McGeehan,272
+Hancock,12,State Senate,1,REP,Pat McGeehan,332
+Hancock,13,State Senate,1,REP,Pat McGeehan,239
+Hancock,14,State Senate,1,REP,Pat McGeehan,178
+Hancock,16,State Senate,1,REP,Pat McGeehan,128
+Hancock,17,State Senate,1,REP,Pat McGeehan,236
+Hancock,18,State Senate,1,REP,Pat McGeehan,196
+Hancock,19,State Senate,1,REP,Pat McGeehan,213
+Hancock,20,State Senate,1,REP,Pat McGeehan,296
+Hancock,21,State Senate,1,REP,Pat McGeehan,261
+Hancock,22,State Senate,1,REP,Pat McGeehan,211
+Hancock,23,State Senate,1,REP,Pat McGeehan,259
+Hancock,24,State Senate,1,REP,Pat McGeehan,175
+Hancock,25,State Senate,1,REP,Pat McGeehan,214
+Hancock,27,State Senate,1,REP,Pat McGeehan,235
+Hancock,28,State Senate,1,REP,Pat McGeehan,341
+Hancock,1,State House,1,DEM,,534
+Hancock,2,State House,1,DEM,,469
+Hancock,3,State House,1,DEM,,559
+Hancock,5,State House,1,DEM,,403
+Hancock,6,State House,1,DEM,,661
+Hancock,7,State House,1,DEM,,272
+Hancock,8,State House,1,DEM,,710
+Hancock,9,State House,1,DEM,,635
+Hancock,10,State House,1,DEM,,513
+Hancock,11,State House,1,DEM,,489
+Hancock,12,State House,1,DEM,,681
+Hancock,13,State House,1,DEM,,487
+Hancock,14,State House,1,DEM,,457
+Hancock,16,State House,1,DEM,,457
+Hancock,17,State House,1,DEM,,365
+Hancock,18,State House,1,DEM,,401
+Hancock,19,State House,1,DEM,,533
+Hancock,20,State House,1,DEM,,751
+Hancock,21,State House,1,DEM,,552
+Hancock,22,State House,1,DEM,,572
+Hancock,23,State House,1,DEM,,670
+Hancock,24,State House,1,DEM,,376
+Hancock,25,State House,1,DEM,,471
+Hancock,27,State House,1,DEM,,549
+Hancock,28,State House,1,DEM,,873
+Hancock,1,State House,1,REP,,230
+Hancock,2,State House,1,REP,,189
+Hancock,3,State House,1,REP,,229
+Hancock,5,State House,1,REP,,161
+Hancock,6,State House,1,REP,,347
+Hancock,7,State House,1,REP,,144
+Hancock,8,State House,1,REP,,383
+Hancock,9,State House,1,REP,,295
+Hancock,10,State House,1,REP,,190
+Hancock,11,State House,1,REP,,272
+Hancock,12,State House,1,REP,,409
+Hancock,13,State House,1,REP,,293
+Hancock,14,State House,1,REP,,212
+Hancock,16,State House,1,REP,,184
+Hancock,17,State House,1,REP,,331
+Hancock,18,State House,1,REP,,268
+Hancock,19,State House,1,REP,,254
+Hancock,20,State House,1,REP,,361
+Hancock,21,State House,1,REP,,337
+Hancock,22,State House,1,REP,,294
+Hancock,23,State House,1,REP,,310
+Hancock,24,State House,1,REP,,216
+Hancock,25,State House,1,REP,,282
+Hancock,27,State House,1,REP,,324
+Hancock,28,State House,1,REP,,509
