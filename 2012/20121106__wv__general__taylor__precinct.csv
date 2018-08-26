@@ -1,0 +1,514 @@
+county,precinct,office,district,party,candidate,votes
+Taylor,1,President,,DEM,Barack Obama,144
+Taylor,2,President,,DEM,Barack Obama,151
+Taylor,3,President,,DEM,Barack Obama,134
+Taylor,4,President,,DEM,Barack Obama,89
+Taylor,5,President,,DEM,Barack Obama,102
+Taylor,6,President,,DEM,Barack Obama,56
+Taylor,9,President,,DEM,Barack Obama,70
+Taylor,10,President,,DEM,Barack Obama,180
+Taylor,11,President,,DEM,Barack Obama,43
+Taylor,12,President,,DEM,Barack Obama,144
+Taylor,14,President,,DEM,Barack Obama,106
+Taylor,17,President,,DEM,Barack Obama,95
+Taylor,19,President,,DEM,Barack Obama,117
+Taylor,23,President,,DEM,Barack Obama,83
+Taylor,25,President,,DEM,Barack Obama,44
+Taylor,26,President,,DEM,Barack Obama,50
+Taylor,29,President,,DEM,Barack Obama,80
+Taylor,31,President,,DEM,Barack Obama,105
+Taylor,36,President,,DEM,Barack Obama,148
+Taylor,1,President,,REP,Mitt Romney,372
+Taylor,2,President,,REP,Mitt Romney,275
+Taylor,3,President,,REP,Mitt Romney,334
+Taylor,4,President,,REP,Mitt Romney,133
+Taylor,5,President,,REP,Mitt Romney,299
+Taylor,6,President,,REP,Mitt Romney,132
+Taylor,9,President,,REP,Mitt Romney,161
+Taylor,10,President,,REP,Mitt Romney,380
+Taylor,11,President,,REP,Mitt Romney,106
+Taylor,12,President,,REP,Mitt Romney,260
+Taylor,14,President,,REP,Mitt Romney,148
+Taylor,17,President,,REP,Mitt Romney,194
+Taylor,19,President,,REP,Mitt Romney,240
+Taylor,23,President,,REP,Mitt Romney,104
+Taylor,25,President,,REP,Mitt Romney,59
+Taylor,26,President,,REP,Mitt Romney,82
+Taylor,29,President,,REP,Mitt Romney,132
+Taylor,31,President,,REP,Mitt Romney,106
+Taylor,36,President,,REP,Mitt Romney,323
+Taylor,1,President,,LIB,Gary Johnson,1
+Taylor,2,President,,LIB,Gary Johnson,0
+Taylor,3,President,,LIB,Gary Johnson,5
+Taylor,4,President,,LIB,Gary Johnson,1
+Taylor,5,President,,LIB,Gary Johnson,2
+Taylor,6,President,,LIB,Gary Johnson,1
+Taylor,9,President,,LIB,Gary Johnson,3
+Taylor,10,President,,LIB,Gary Johnson,2
+Taylor,11,President,,LIB,Gary Johnson,2
+Taylor,12,President,,LIB,Gary Johnson,1
+Taylor,14,President,,LIB,Gary Johnson,7
+Taylor,17,President,,LIB,Gary Johnson,1
+Taylor,19,President,,LIB,Gary Johnson,6
+Taylor,23,President,,LIB,Gary Johnson,1
+Taylor,25,President,,LIB,Gary Johnson,0
+Taylor,26,President,,LIB,Gary Johnson,0
+Taylor,29,President,,LIB,Gary Johnson,2
+Taylor,31,President,,LIB,Gary Johnson,3
+Taylor,36,President,,LIB,Gary Johnson,6
+Taylor,1,President,,MTN,Jill Stein,6
+Taylor,2,President,,MTN,Jill Stein,3
+Taylor,3,President,,MTN,Jill Stein,1
+Taylor,4,President,,MTN,Jill Stein,2
+Taylor,5,President,,MTN,Jill Stein,5
+Taylor,6,President,,MTN,Jill Stein,2
+Taylor,9,President,,MTN,Jill Stein,2
+Taylor,10,President,,MTN,Jill Stein,4
+Taylor,11,President,,MTN,Jill Stein,1
+Taylor,12,President,,MTN,Jill Stein,0
+Taylor,14,President,,MTN,Jill Stein,1
+Taylor,17,President,,MTN,Jill Stein,2
+Taylor,19,President,,MTN,Jill Stein,3
+Taylor,23,President,,MTN,Jill Stein,3
+Taylor,25,President,,MTN,Jill Stein,1
+Taylor,26,President,,MTN,Jill Stein,1
+Taylor,29,President,,MTN,Jill Stein,4
+Taylor,31,President,,MTN,Jill Stein,2
+Taylor,36,President,,MTN,Jill Stein,5
+Taylor,1,President,,,Randall Terry,2
+Taylor,2,President,,,Randall Terry,3
+Taylor,3,President,,,Randall Terry,3
+Taylor,4,President,,,Randall Terry,6
+Taylor,5,President,,,Randall Terry,3
+Taylor,6,President,,,Randall Terry,0
+Taylor,9,President,,,Randall Terry,1
+Taylor,10,President,,,Randall Terry,2
+Taylor,11,President,,,Randall Terry,0
+Taylor,12,President,,,Randall Terry,2
+Taylor,14,President,,,Randall Terry,3
+Taylor,17,President,,,Randall Terry,2
+Taylor,19,President,,,Randall Terry,4
+Taylor,23,President,,,Randall Terry,2
+Taylor,25,President,,,Randall Terry,0
+Taylor,26,President,,,Randall Terry,0
+Taylor,29,President,,,Randall Terry,0
+Taylor,31,President,,,Randall Terry,0
+Taylor,36,President,,,Randall Terry,2
+Taylor,1,U.S. Senate,,DEM,Joe Manchin III,275
+Taylor,2,U.S. Senate,,DEM,Joe Manchin III,265
+Taylor,3,U.S. Senate,,DEM,Joe Manchin III,283
+Taylor,4,U.S. Senate,,DEM,Joe Manchin III,134
+Taylor,5,U.S. Senate,,DEM,Joe Manchin III,216
+Taylor,6,U.S. Senate,,DEM,Joe Manchin III,107
+Taylor,9,U.S. Senate,,DEM,Joe Manchin III,129
+Taylor,10,U.S. Senate,,DEM,Joe Manchin III,290
+Taylor,11,U.S. Senate,,DEM,Joe Manchin III,76
+Taylor,12,U.S. Senate,,DEM,Joe Manchin III,222
+Taylor,14,U.S. Senate,,DEM,Joe Manchin III,160
+Taylor,17,U.S. Senate,,DEM,Joe Manchin III,186
+Taylor,19,U.S. Senate,,DEM,Joe Manchin III,195
+Taylor,23,U.S. Senate,,DEM,Joe Manchin III,118
+Taylor,25,U.S. Senate,,DEM,Joe Manchin III,68
+Taylor,26,U.S. Senate,,DEM,Joe Manchin III,81
+Taylor,29,U.S. Senate,,DEM,Joe Manchin III,136
+Taylor,31,U.S. Senate,,DEM,Joe Manchin III,138
+Taylor,36,U.S. Senate,,DEM,Joe Manchin III,274
+Taylor,1,U.S. Senate,,REP,John R. Raese,243
+Taylor,2,U.S. Senate,,REP,John R. Raese,164
+Taylor,3,U.S. Senate,,REP,John R. Raese,187
+Taylor,4,U.S. Senate,,REP,John R. Raese,88
+Taylor,5,U.S. Senate,,REP,John R. Raese,181
+Taylor,6,U.S. Senate,,REP,John R. Raese,76
+Taylor,9,U.S. Senate,,REP,John R. Raese,109
+Taylor,10,U.S. Senate,,REP,John R. Raese,262
+Taylor,11,U.S. Senate,,REP,John R. Raese,71
+Taylor,12,U.S. Senate,,REP,John R. Raese,171
+Taylor,14,U.S. Senate,,REP,John R. Raese,99
+Taylor,17,U.S. Senate,,REP,John R. Raese,102
+Taylor,19,U.S. Senate,,REP,John R. Raese,164
+Taylor,23,U.S. Senate,,REP,John R. Raese,70
+Taylor,25,U.S. Senate,,REP,John R. Raese,37
+Taylor,26,U.S. Senate,,REP,John R. Raese,52
+Taylor,29,U.S. Senate,,REP,John R. Raese,77
+Taylor,31,U.S. Senate,,REP,John R. Raese,69
+Taylor,36,U.S. Senate,,REP,John R. Raese,200
+Taylor,1,U.S. Senate,,MTN,Bob Henry Baber,12
+Taylor,2,U.S. Senate,,MTN,Bob Henry Baber,9
+Taylor,3,U.S. Senate,,MTN,Bob Henry Baber,8
+Taylor,4,U.S. Senate,,MTN,Bob Henry Baber,8
+Taylor,5,U.S. Senate,,MTN,Bob Henry Baber,9
+Taylor,6,U.S. Senate,,MTN,Bob Henry Baber,1
+Taylor,9,U.S. Senate,,MTN,Bob Henry Baber,1
+Taylor,10,U.S. Senate,,MTN,Bob Henry Baber,15
+Taylor,11,U.S. Senate,,MTN,Bob Henry Baber,7
+Taylor,12,U.S. Senate,,MTN,Bob Henry Baber,4
+Taylor,14,U.S. Senate,,MTN,Bob Henry Baber,9
+Taylor,17,U.S. Senate,,MTN,Bob Henry Baber,4
+Taylor,19,U.S. Senate,,MTN,Bob Henry Baber,9
+Taylor,23,U.S. Senate,,MTN,Bob Henry Baber,9
+Taylor,25,U.S. Senate,,MTN,Bob Henry Baber,1
+Taylor,26,U.S. Senate,,MTN,Bob Henry Baber,2
+Taylor,29,U.S. Senate,,MTN,Bob Henry Baber,6
+Taylor,31,U.S. Senate,,MTN,Bob Henry Baber,13
+Taylor,36,U.S. Senate,,MTN,Bob Henry Baber,15
+Taylor,1,U.S. House,1,DEM,Sue Thorn,164
+Taylor,2,U.S. House,1,DEM,Sue Thorn,146
+Taylor,3,U.S. House,1,DEM,Sue Thorn,151
+Taylor,4,U.S. House,1,DEM,Sue Thorn,88
+Taylor,5,U.S. House,1,DEM,Sue Thorn,130
+Taylor,6,U.S. House,1,DEM,Sue Thorn,61
+Taylor,9,U.S. House,1,DEM,Sue Thorn,77
+Taylor,10,U.S. House,1,DEM,Sue Thorn,186
+Taylor,11,U.S. House,1,DEM,Sue Thorn,56
+Taylor,12,U.S. House,1,DEM,Sue Thorn,145
+Taylor,14,U.S. House,1,DEM,Sue Thorn,115
+Taylor,17,U.S. House,1,DEM,Sue Thorn,115
+Taylor,19,U.S. House,1,DEM,Sue Thorn,130
+Taylor,23,U.S. House,1,DEM,Sue Thorn,86
+Taylor,25,U.S. House,1,DEM,Sue Thorn,42
+Taylor,26,U.S. House,1,DEM,Sue Thorn,58
+Taylor,29,U.S. House,1,DEM,Sue Thorn,83
+Taylor,31,U.S. House,1,DEM,Sue Thorn,99
+Taylor,36,U.S. House,1,DEM,Sue Thorn,165
+Taylor,1,U.S. House,1,REP,David B. McKinley,352
+Taylor,2,U.S. House,1,REP,David B. McKinley,280
+Taylor,3,U.S. House,1,REP,David B. McKinley,322
+Taylor,4,U.S. House,1,REP,David B. McKinley,136
+Taylor,5,U.S. House,1,REP,David B. McKinley,263
+Taylor,6,U.S. House,1,REP,David B. McKinley,120
+Taylor,9,U.S. House,1,REP,David B. McKinley,154
+Taylor,10,U.S. House,1,REP,David B. McKinley,354
+Taylor,11,U.S. House,1,REP,David B. McKinley,94
+Taylor,12,U.S. House,1,REP,David B. McKinley,240
+Taylor,14,U.S. House,1,REP,David B. McKinley,144
+Taylor,17,U.S. House,1,REP,David B. McKinley,169
+Taylor,19,U.S. House,1,REP,David B. McKinley,222
+Taylor,23,U.S. House,1,REP,David B. McKinley,99
+Taylor,25,U.S. House,1,REP,David B. McKinley,60
+Taylor,26,U.S. House,1,REP,David B. McKinley,66
+Taylor,29,U.S. House,1,REP,David B. McKinley,130
+Taylor,31,U.S. House,1,REP,David B. McKinley,121
+Taylor,36,U.S. House,1,REP,David B. McKinley,303
+Taylor,1,Governor,,DEM,Earl Ray Tomblin,229
+Taylor,2,Governor,,DEM,Earl Ray Tomblin,215
+Taylor,3,Governor,,DEM,Earl Ray Tomblin,210
+Taylor,4,Governor,,DEM,Earl Ray Tomblin,117
+Taylor,5,Governor,,DEM,Earl Ray Tomblin,161
+Taylor,6,Governor,,DEM,Earl Ray Tomblin,103
+Taylor,9,Governor,,DEM,Earl Ray Tomblin,94
+Taylor,10,Governor,,DEM,Earl Ray Tomblin,240
+Taylor,11,Governor,,DEM,Earl Ray Tomblin,62
+Taylor,12,Governor,,DEM,Earl Ray Tomblin,182
+Taylor,14,Governor,,DEM,Earl Ray Tomblin,149
+Taylor,17,Governor,,DEM,Earl Ray Tomblin,147
+Taylor,19,Governor,,DEM,Earl Ray Tomblin,167
+Taylor,23,Governor,,DEM,Earl Ray Tomblin,99
+Taylor,25,Governor,,DEM,Earl Ray Tomblin,56
+Taylor,26,Governor,,DEM,Earl Ray Tomblin,73
+Taylor,29,Governor,,DEM,Earl Ray Tomblin,112
+Taylor,31,Governor,,DEM,Earl Ray Tomblin,110
+Taylor,36,Governor,,DEM,Earl Ray Tomblin,229
+Taylor,1,Governor,,REP,Bill Maloney,291
+Taylor,2,Governor,,REP,Bill Maloney,202
+Taylor,3,Governor,,REP,Bill Maloney,256
+Taylor,4,Governor,,REP,Bill Maloney,107
+Taylor,5,Governor,,REP,Bill Maloney,232
+Taylor,6,Governor,,REP,Bill Maloney,87
+Taylor,9,Governor,,REP,Bill Maloney,140
+Taylor,10,Governor,,REP,Bill Maloney,313
+Taylor,11,Governor,,REP,Bill Maloney,80
+Taylor,12,Governor,,REP,Bill Maloney,212
+Taylor,14,Governor,,REP,Bill Maloney,108
+Taylor,17,Governor,,REP,Bill Maloney,137
+Taylor,19,Governor,,REP,Bill Maloney,184
+Taylor,23,Governor,,REP,Bill Maloney,82
+Taylor,25,Governor,,REP,Bill Maloney,46
+Taylor,26,Governor,,REP,Bill Maloney,59
+Taylor,29,Governor,,REP,Bill Maloney,102
+Taylor,31,Governor,,REP,Bill Maloney,94
+Taylor,36,Governor,,REP,Bill Maloney,237
+Taylor,1,Governor,,LIB,David Moran,4
+Taylor,2,Governor,,LIB,David Moran,9
+Taylor,3,Governor,,LIB,David Moran,4
+Taylor,4,Governor,,LIB,David Moran,6
+Taylor,5,Governor,,LIB,David Moran,7
+Taylor,6,Governor,,LIB,David Moran,1
+Taylor,9,Governor,,LIB,David Moran,2
+Taylor,10,Governor,,LIB,David Moran,9
+Taylor,11,Governor,,LIB,David Moran,6
+Taylor,12,Governor,,LIB,David Moran,7
+Taylor,14,Governor,,LIB,David Moran,1
+Taylor,17,Governor,,LIB,David Moran,7
+Taylor,19,Governor,,LIB,David Moran,8
+Taylor,23,Governor,,LIB,David Moran,5
+Taylor,25,Governor,,LIB,David Moran,2
+Taylor,26,Governor,,LIB,David Moran,1
+Taylor,29,Governor,,LIB,David Moran,1
+Taylor,31,Governor,,LIB,David Moran,8
+Taylor,36,Governor,,LIB,David Moran,11
+Taylor,1,Governor,,MTN,Jesse Johnson,6
+Taylor,2,Governor,,MTN,Jesse Johnson,10
+Taylor,3,Governor,,MTN,Jesse Johnson,6
+Taylor,4,Governor,,MTN,Jesse Johnson,2
+Taylor,5,Governor,,MTN,Jesse Johnson,7
+Taylor,6,Governor,,MTN,Jesse Johnson,0
+Taylor,9,Governor,,MTN,Jesse Johnson,3
+Taylor,10,Governor,,MTN,Jesse Johnson,6
+Taylor,11,Governor,,MTN,Jesse Johnson,4
+Taylor,12,Governor,,MTN,Jesse Johnson,1
+Taylor,14,Governor,,MTN,Jesse Johnson,6
+Taylor,17,Governor,,MTN,Jesse Johnson,2
+Taylor,19,Governor,,MTN,Jesse Johnson,5
+Taylor,23,Governor,,MTN,Jesse Johnson,7
+Taylor,25,Governor,,MTN,Jesse Johnson,2
+Taylor,26,Governor,,MTN,Jesse Johnson,0
+Taylor,29,Governor,,MTN,Jesse Johnson,4
+Taylor,31,Governor,,MTN,Jesse Johnson,10
+Taylor,36,Governor,,MTN,Jesse Johnson,6
+Taylor,1,Secretary of State,,DEM,Natalie E. Tennant,324
+Taylor,2,Secretary of State,,DEM,Natalie E. Tennant,295
+Taylor,3,Secretary of State,,DEM,Natalie E. Tennant,315
+Taylor,4,Secretary of State,,DEM,Natalie E. Tennant,158
+Taylor,5,Secretary of State,,DEM,Natalie E. Tennant,256
+Taylor,6,Secretary of State,,DEM,Natalie E. Tennant,127
+Taylor,9,Secretary of State,,DEM,Natalie E. Tennant,149
+Taylor,10,Secretary of State,,DEM,Natalie E. Tennant,350
+Taylor,11,Secretary of State,,DEM,Natalie E. Tennant,100
+Taylor,12,Secretary of State,,DEM,Natalie E. Tennant,271
+Taylor,14,Secretary of State,,DEM,Natalie E. Tennant,200
+Taylor,17,Secretary of State,,DEM,Natalie E. Tennant,209
+Taylor,19,Secretary of State,,DEM,Natalie E. Tennant,245
+Taylor,23,Secretary of State,,DEM,Natalie E. Tennant,132
+Taylor,25,Secretary of State,,DEM,Natalie E. Tennant,78
+Taylor,26,Secretary of State,,DEM,Natalie E. Tennant,104
+Taylor,29,Secretary of State,,DEM,Natalie E. Tennant,150
+Taylor,31,Secretary of State,,DEM,Natalie E. Tennant,157
+Taylor,36,Secretary of State,,DEM,Natalie E. Tennant,325
+Taylor,1,Secretary of State,,REP,Brian Savilla,192
+Taylor,2,Secretary of State,,REP,Brian Savilla,134
+Taylor,3,Secretary of State,,REP,Brian Savilla,150
+Taylor,4,Secretary of State,,REP,Brian Savilla,69
+Taylor,5,Secretary of State,,REP,Brian Savilla,146
+Taylor,6,Secretary of State,,REP,Brian Savilla,59
+Taylor,9,Secretary of State,,REP,Brian Savilla,84
+Taylor,10,Secretary of State,,REP,Brian Savilla,207
+Taylor,11,Secretary of State,,REP,Brian Savilla,48
+Taylor,12,Secretary of State,,REP,Brian Savilla,122
+Taylor,14,Secretary of State,,REP,Brian Savilla,63
+Taylor,17,Secretary of State,,REP,Brian Savilla,83
+Taylor,19,Secretary of State,,REP,Brian Savilla,118
+Taylor,23,Secretary of State,,REP,Brian Savilla,54
+Taylor,25,Secretary of State,,REP,Brian Savilla,27
+Taylor,26,Secretary of State,,REP,Brian Savilla,23
+Taylor,29,Secretary of State,,REP,Brian Savilla,68
+Taylor,31,Secretary of State,,REP,Brian Savilla,62
+Taylor,36,Secretary of State,,REP,Brian Savilla,152
+Taylor,1,State Auditor,,DEM,Glen B. Gainer III,272
+Taylor,2,State Auditor,,DEM,Glen B. Gainer III,257
+Taylor,3,State Auditor,,DEM,Glen B. Gainer III,259
+Taylor,4,State Auditor,,DEM,Glen B. Gainer III,147
+Taylor,5,State Auditor,,DEM,Glen B. Gainer III,205
+Taylor,6,State Auditor,,DEM,Glen B. Gainer III,101
+Taylor,9,State Auditor,,DEM,Glen B. Gainer III,130
+Taylor,10,State Auditor,,DEM,Glen B. Gainer III,305
+Taylor,11,State Auditor,,DEM,Glen B. Gainer III,84
+Taylor,12,State Auditor,,DEM,Glen B. Gainer III,236
+Taylor,14,State Auditor,,DEM,Glen B. Gainer III,161
+Taylor,17,State Auditor,,DEM,Glen B. Gainer III,183
+Taylor,19,State Auditor,,DEM,Glen B. Gainer III,209
+Taylor,23,State Auditor,,DEM,Glen B. Gainer III,119
+Taylor,25,State Auditor,,DEM,Glen B. Gainer III,67
+Taylor,26,State Auditor,,DEM,Glen B. Gainer III,84
+Taylor,29,State Auditor,,DEM,Glen B. Gainer III,125
+Taylor,31,State Auditor,,DEM,Glen B. Gainer III,138
+Taylor,36,State Auditor,,DEM,Glen B. Gainer III,267
+Taylor,1,State Auditor,,REP,Larry V. Faircloth,222
+Taylor,2,State Auditor,,REP,Larry V. Faircloth,155
+Taylor,3,State Auditor,,REP,Larry V. Faircloth,191
+Taylor,4,State Auditor,,REP,Larry V. Faircloth,75
+Taylor,5,State Auditor,,REP,Larry V. Faircloth,180
+Taylor,6,State Auditor,,REP,Larry V. Faircloth,81
+Taylor,9,State Auditor,,REP,Larry V. Faircloth,96
+Taylor,10,State Auditor,,REP,Larry V. Faircloth,238
+Taylor,11,State Auditor,,REP,Larry V. Faircloth,62
+Taylor,12,State Auditor,,REP,Larry V. Faircloth,148
+Taylor,14,State Auditor,,REP,Larry V. Faircloth,96
+Taylor,17,State Auditor,,REP,Larry V. Faircloth,98
+Taylor,19,State Auditor,,REP,Larry V. Faircloth,146
+Taylor,23,State Auditor,,REP,Larry V. Faircloth,68
+Taylor,25,State Auditor,,REP,Larry V. Faircloth,35
+Taylor,26,State Auditor,,REP,Larry V. Faircloth,38
+Taylor,29,State Auditor,,REP,Larry V. Faircloth,85
+Taylor,31,State Auditor,,REP,Larry V. Faircloth,77
+Taylor,36,State Auditor,,REP,Larry V. Faircloth,194
+Taylor,1,State Treasurer,,DEM,John D. Perdue,268
+Taylor,2,State Treasurer,,DEM,John D. Perdue,264
+Taylor,3,State Treasurer,,DEM,John D. Perdue,260
+Taylor,4,State Treasurer,,DEM,John D. Perdue,139
+Taylor,5,State Treasurer,,DEM,John D. Perdue,204
+Taylor,6,State Treasurer,,DEM,John D. Perdue,102
+Taylor,9,State Treasurer,,DEM,John D. Perdue,129
+Taylor,10,State Treasurer,,DEM,John D. Perdue,312
+Taylor,11,State Treasurer,,DEM,John D. Perdue,81
+Taylor,12,State Treasurer,,DEM,John D. Perdue,253
+Taylor,14,State Treasurer,,DEM,John D. Perdue,170
+Taylor,17,State Treasurer,,DEM,John D. Perdue,185
+Taylor,19,State Treasurer,,DEM,John D. Perdue,203
+Taylor,23,State Treasurer,,DEM,John D. Perdue,119
+Taylor,25,State Treasurer,,DEM,John D. Perdue,68
+Taylor,26,State Treasurer,,DEM,John D. Perdue,87
+Taylor,29,State Treasurer,,DEM,John D. Perdue,126
+Taylor,31,State Treasurer,,DEM,John D. Perdue,149
+Taylor,36,State Treasurer,,DEM,John D. Perdue,274
+Taylor,1,State Treasurer,,REP,Mike Hall,235
+Taylor,2,State Treasurer,,REP,Mike Hall,151
+Taylor,3,State Treasurer,,REP,Mike Hall,194
+Taylor,4,State Treasurer,,REP,Mike Hall,82
+Taylor,5,State Treasurer,,REP,Mike Hall,187
+Taylor,6,State Treasurer,,REP,Mike Hall,80
+Taylor,9,State Treasurer,,REP,Mike Hall,97
+Taylor,10,State Treasurer,,REP,Mike Hall,238
+Taylor,11,State Treasurer,,REP,Mike Hall,63
+Taylor,12,State Treasurer,,REP,Mike Hall,134
+Taylor,14,State Treasurer,,REP,Mike Hall,88
+Taylor,17,State Treasurer,,REP,Mike Hall,98
+Taylor,19,State Treasurer,,REP,Mike Hall,154
+Taylor,23,State Treasurer,,REP,Mike Hall,65
+Taylor,25,State Treasurer,,REP,Mike Hall,35
+Taylor,26,State Treasurer,,REP,Mike Hall,38
+Taylor,29,State Treasurer,,REP,Mike Hall,85
+Taylor,31,State Treasurer,,REP,Mike Hall,68
+Taylor,36,State Treasurer,,REP,Mike Hall,189
+Taylor,1,Commissioner of Agriculture,,DEM,Walt Helmick,204
+Taylor,2,Commissioner of Agriculture,,DEM,Walt Helmick,191
+Taylor,3,Commissioner of Agriculture,,DEM,Walt Helmick,181
+Taylor,4,Commissioner of Agriculture,,DEM,Walt Helmick,102
+Taylor,5,Commissioner of Agriculture,,DEM,Walt Helmick,157
+Taylor,6,Commissioner of Agriculture,,DEM,Walt Helmick,71
+Taylor,9,Commissioner of Agriculture,,DEM,Walt Helmick,76
+Taylor,10,Commissioner of Agriculture,,DEM,Walt Helmick,208
+Taylor,11,Commissioner of Agriculture,,DEM,Walt Helmick,60
+Taylor,12,Commissioner of Agriculture,,DEM,Walt Helmick,148
+Taylor,14,Commissioner of Agriculture,,DEM,Walt Helmick,117
+Taylor,17,Commissioner of Agriculture,,DEM,Walt Helmick,143
+Taylor,19,Commissioner of Agriculture,,DEM,Walt Helmick,177
+Taylor,23,Commissioner of Agriculture,,DEM,Walt Helmick,93
+Taylor,25,Commissioner of Agriculture,,DEM,Walt Helmick,49
+Taylor,26,Commissioner of Agriculture,,DEM,Walt Helmick,58
+Taylor,29,Commissioner of Agriculture,,DEM,Walt Helmick,93
+Taylor,31,Commissioner of Agriculture,,DEM,Walt Helmick,105
+Taylor,36,Commissioner of Agriculture,,DEM,Walt Helmick,204
+Taylor,1,Commissioner of Agriculture,,REP,Kent Leonhardt,282
+Taylor,2,Commissioner of Agriculture,,REP,Kent Leonhardt,228
+Taylor,3,Commissioner of Agriculture,,REP,Kent Leonhardt,265
+Taylor,4,Commissioner of Agriculture,,REP,Kent Leonhardt,117
+Taylor,5,Commissioner of Agriculture,,REP,Kent Leonhardt,233
+Taylor,6,Commissioner of Agriculture,,REP,Kent Leonhardt,105
+Taylor,9,Commissioner of Agriculture,,REP,Kent Leonhardt,144
+Taylor,10,Commissioner of Agriculture,,REP,Kent Leonhardt,331
+Taylor,11,Commissioner of Agriculture,,REP,Kent Leonhardt,84
+Taylor,12,Commissioner of Agriculture,,REP,Kent Leonhardt,226
+Taylor,14,Commissioner of Agriculture,,REP,Kent Leonhardt,130
+Taylor,17,Commissioner of Agriculture,,REP,Kent Leonhardt,136
+Taylor,19,Commissioner of Agriculture,,REP,Kent Leonhardt,176
+Taylor,23,Commissioner of Agriculture,,REP,Kent Leonhardt,92
+Taylor,25,Commissioner of Agriculture,,REP,Kent Leonhardt,53
+Taylor,26,Commissioner of Agriculture,,REP,Kent Leonhardt,60
+Taylor,29,Commissioner of Agriculture,,REP,Kent Leonhardt,119
+Taylor,31,Commissioner of Agriculture,,REP,Kent Leonhardt,108
+Taylor,36,Commissioner of Agriculture,,REP,Kent Leonhardt,264
+Taylor,1,Attorney General,,DEM,Darrell V. McGraw Jr.,207
+Taylor,2,Attorney General,,DEM,Darrell V. McGraw Jr.,219
+Taylor,3,Attorney General,,DEM,Darrell V. McGraw Jr.,209
+Taylor,4,Attorney General,,DEM,Darrell V. McGraw Jr.,125
+Taylor,5,Attorney General,,DEM,Darrell V. McGraw Jr.,177
+Taylor,6,Attorney General,,DEM,Darrell V. McGraw Jr.,89
+Taylor,9,Attorney General,,DEM,Darrell V. McGraw Jr.,101
+Taylor,10,Attorney General,,DEM,Darrell V. McGraw Jr.,257
+Taylor,11,Attorney General,,DEM,Darrell V. McGraw Jr.,72
+Taylor,12,Attorney General,,DEM,Darrell V. McGraw Jr.,182
+Taylor,14,Attorney General,,DEM,Darrell V. McGraw Jr.,159
+Taylor,17,Attorney General,,DEM,Darrell V. McGraw Jr.,160
+Taylor,19,Attorney General,,DEM,Darrell V. McGraw Jr.,174
+Taylor,23,Attorney General,,DEM,Darrell V. McGraw Jr.,112
+Taylor,25,Attorney General,,DEM,Darrell V. McGraw Jr.,65
+Taylor,26,Attorney General,,DEM,Darrell V. McGraw Jr.,73
+Taylor,29,Attorney General,,DEM,Darrell V. McGraw Jr.,110
+Taylor,31,Attorney General,,DEM,Darrell V. McGraw Jr.,127
+Taylor,36,Attorney General,,DEM,Darrell V. McGraw Jr.,238
+Taylor,1,Attorney General,,REP,Patrick Morrisey,305
+Taylor,2,Attorney General,,REP,Patrick Morrisey,208
+Taylor,3,Attorney General,,REP,Patrick Morrisey,251
+Taylor,4,Attorney General,,REP,Patrick Morrisey,103
+Taylor,5,Attorney General,,REP,Patrick Morrisey,221
+Taylor,6,Attorney General,,REP,Patrick Morrisey,94
+Taylor,9,Attorney General,,REP,Patrick Morrisey,131
+Taylor,10,Attorney General,,REP,Patrick Morrisey,300
+Taylor,11,Attorney General,,REP,Patrick Morrisey,76
+Taylor,12,Attorney General,,REP,Patrick Morrisey,205
+Taylor,14,Attorney General,,REP,Patrick Morrisey,109
+Taylor,17,Attorney General,,REP,Patrick Morrisey,127
+Taylor,19,Attorney General,,REP,Patrick Morrisey,188
+Taylor,23,Attorney General,,REP,Patrick Morrisey,74
+Taylor,25,Attorney General,,REP,Patrick Morrisey,40
+Taylor,26,Attorney General,,REP,Patrick Morrisey,55
+Taylor,29,Attorney General,,REP,Patrick Morrisey,105
+Taylor,31,Attorney General,,REP,Patrick Morrisey,91
+Taylor,36,Attorney General,,REP,Patrick Morrisey,239
+Taylor,1,State Senate,14,DEM,Bob Williams,381
+Taylor,2,State Senate,14,DEM,Bob Williams,350
+Taylor,3,State Senate,14,DEM,Bob Williams,354
+Taylor,4,State Senate,14,DEM,Bob Williams,180
+Taylor,5,State Senate,14,DEM,Bob Williams,291
+Taylor,6,State Senate,14,DEM,Bob Williams,134
+Taylor,9,State Senate,14,DEM,Bob Williams,163
+Taylor,10,State Senate,14,DEM,Bob Williams,413
+Taylor,11,State Senate,14,DEM,Bob Williams,109
+Taylor,12,State Senate,14,DEM,Bob Williams,309
+Taylor,14,State Senate,14,DEM,Bob Williams,211
+Taylor,17,State Senate,14,DEM,Bob Williams,231
+Taylor,19,State Senate,14,DEM,Bob Williams,273
+Taylor,23,State Senate,14,DEM,Bob Williams,162
+Taylor,25,State Senate,14,DEM,Bob Williams,85
+Taylor,26,State Senate,14,DEM,Bob Williams,98
+Taylor,29,State Senate,14,DEM,Bob Williams,179
+Taylor,31,State Senate,14,DEM,Bob Williams,177
+Taylor,36,State Senate,14,DEM,Bob Williams,380
+Taylor,1,State House,49,DEM,Mike Manypenny,215
+Taylor,2,State House,49,DEM,Mike Manypenny,237
+Taylor,3,State House,49,DEM,Mike Manypenny,208
+Taylor,4,State House,49,DEM,Mike Manypenny,138
+Taylor,5,State House,48,DEM,,619
+Taylor,6,State House,49,DEM,Mike Manypenny,92
+Taylor,9,State House,49,DEM,Mike Manypenny,109
+Taylor,10,State House,49,DEM,Mike Manypenny,307
+Taylor,11,State House,49,DEM,Mike Manypenny,67
+Taylor,12,State House,49,DEM,Mike Manypenny,219
+Taylor,14,State House,49,DEM,Mike Manypenny,135
+Taylor,17,State House,49,DEM,Mike Manypenny,156
+Taylor,19,State House,49,DEM,Mike Manypenny,171
+Taylor,23,State House,49,DEM,Mike Manypenny,113
+Taylor,25,State House,49,DEM,Mike Manypenny,55
+Taylor,26,State House,49,DEM,Mike Manypenny,72
+Taylor,29,State House,49,DEM,Mike Manypenny,119
+Taylor,31,State House,49,DEM,Mike Manypenny,136
+Taylor,36,State House,49,DEM,Mike Manypenny,248
+Taylor,1,State House,49,REP,Jeff Tansill,291
+Taylor,2,State House,49,REP,Jeff Tansill,193
+Taylor,3,State House,49,REP,Jeff Tansill,247
+Taylor,4,State House,49,REP,Jeff Tansill,88
+Taylor,5,State House,48,,,739
+Taylor,6,State House,49,REP,Jeff Tansill,96
+Taylor,9,State House,49,REP,Jeff Tansill,125
+Taylor,10,State House,49,REP,Jeff Tansill,252
+Taylor,11,State House,49,REP,Jeff Tansill,82
+Taylor,12,State House,49,REP,Jeff Tansill,172
+Taylor,14,State House,49,REP,Jeff Tansill,129
+Taylor,17,State House,49,REP,Jeff Tansill,132
+Taylor,19,State House,49,REP,Jeff Tansill,180
+Taylor,23,State House,49,REP,Jeff Tansill,79
+Taylor,25,State House,49,REP,Jeff Tansill,50
+Taylor,26,State House,49,REP,Jeff Tansill,51
+Taylor,29,State House,49,REP,Jeff Tansill,97
+Taylor,31,State House,49,REP,Jeff Tansill,80
+Taylor,36,State House,49,REP,Jeff Tansill,230
