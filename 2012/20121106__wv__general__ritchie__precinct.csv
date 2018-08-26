@@ -1,0 +1,391 @@
+county,precinct,office,district,party,candidate,votes
+Ritchie,1,President,,DEM,Barack Obama,68
+Ritchie,2,President,,DEM,Barack Obama,75
+Ritchie,3,President,,DEM,Barack Obama,74
+Ritchie,4,President,,DEM,Barack Obama,71
+Ritchie,5,President,,DEM,Barack Obama,65
+Ritchie,6,President,,DEM,Barack Obama,51
+Ritchie,7,President,,DEM,Barack Obama,25
+Ritchie,8,President,,DEM,Barack Obama,61
+Ritchie,9,President,,DEM,Barack Obama,16
+Ritchie,10,President,,DEM,Barack Obama,86
+Ritchie,11,President,,DEM,Barack Obama,40
+Ritchie,12,President,,DEM,Barack Obama,48
+Ritchie,13,President,,DEM,Barack Obama,24
+Ritchie,14,President,,DEM,Barack Obama,45
+Ritchie,15,President,,DEM,Barack Obama,19
+Ritchie,1,President,,REP,Mitt Romney,251
+Ritchie,2,President,,REP,Mitt Romney,201
+Ritchie,3,President,,REP,Mitt Romney,243
+Ritchie,4,President,,REP,Mitt Romney,256
+Ritchie,5,President,,REP,Mitt Romney,206
+Ritchie,6,President,,REP,Mitt Romney,208
+Ritchie,7,President,,REP,Mitt Romney,113
+Ritchie,8,President,,REP,Mitt Romney,245
+Ritchie,9,President,,REP,Mitt Romney,110
+Ritchie,10,President,,REP,Mitt Romney,332
+Ritchie,11,President,,REP,Mitt Romney,126
+Ritchie,12,President,,REP,Mitt Romney,259
+Ritchie,13,President,,REP,Mitt Romney,73
+Ritchie,14,President,,REP,Mitt Romney,171
+Ritchie,15,President,,REP,Mitt Romney,127
+Ritchie,1,President,,LIB,Gary Johnson,2
+Ritchie,2,President,,LIB,Gary Johnson,4
+Ritchie,3,President,,LIB,Gary Johnson,2
+Ritchie,4,President,,LIB,Gary Johnson,5
+Ritchie,5,President,,LIB,Gary Johnson,4
+Ritchie,6,President,,LIB,Gary Johnson,2
+Ritchie,7,President,,LIB,Gary Johnson,0
+Ritchie,8,President,,LIB,Gary Johnson,2
+Ritchie,9,President,,LIB,Gary Johnson,0
+Ritchie,10,President,,LIB,Gary Johnson,6
+Ritchie,11,President,,LIB,Gary Johnson,0
+Ritchie,12,President,,LIB,Gary Johnson,3
+Ritchie,13,President,,LIB,Gary Johnson,2
+Ritchie,14,President,,LIB,Gary Johnson,2
+Ritchie,15,President,,LIB,Gary Johnson,2
+Ritchie,1,President,,MTN,Jill Stein,4
+Ritchie,2,President,,MTN,Jill Stein,2
+Ritchie,3,President,,MTN,Jill Stein,1
+Ritchie,4,President,,MTN,Jill Stein,4
+Ritchie,5,President,,MTN,Jill Stein,3
+Ritchie,6,President,,MTN,Jill Stein,1
+Ritchie,7,President,,MTN,Jill Stein,0
+Ritchie,8,President,,MTN,Jill Stein,4
+Ritchie,9,President,,MTN,Jill Stein,3
+Ritchie,10,President,,MTN,Jill Stein,4
+Ritchie,11,President,,MTN,Jill Stein,2
+Ritchie,12,President,,MTN,Jill Stein,2
+Ritchie,13,President,,MTN,Jill Stein,2
+Ritchie,14,President,,MTN,Jill Stein,0
+Ritchie,15,President,,MTN,Jill Stein,0
+Ritchie,1,President,,,Randall Terry,2
+Ritchie,2,President,,,Randall Terry,5
+Ritchie,3,President,,,Randall Terry,1
+Ritchie,4,President,,,Randall Terry,1
+Ritchie,5,President,,,Randall Terry,3
+Ritchie,6,President,,,Randall Terry,1
+Ritchie,7,President,,,Randall Terry,1
+Ritchie,8,President,,,Randall Terry,2
+Ritchie,9,President,,,Randall Terry,0
+Ritchie,10,President,,,Randall Terry,3
+Ritchie,11,President,,,Randall Terry,1
+Ritchie,12,President,,,Randall Terry,6
+Ritchie,13,President,,,Randall Terry,1
+Ritchie,14,President,,,Randall Terry,2
+Ritchie,15,President,,,Randall Terry,2
+Ritchie,1,U.S. Senate,,DEM,Joe Manchin III,170
+Ritchie,2,U.S. Senate,,DEM,Joe Manchin III,146
+Ritchie,3,U.S. Senate,,DEM,Joe Manchin III,174
+Ritchie,4,U.S. Senate,,DEM,Joe Manchin III,175
+Ritchie,5,U.S. Senate,,DEM,Joe Manchin III,142
+Ritchie,6,U.S. Senate,,DEM,Joe Manchin III,134
+Ritchie,7,U.S. Senate,,DEM,Joe Manchin III,70
+Ritchie,8,U.S. Senate,,DEM,Joe Manchin III,151
+Ritchie,9,U.S. Senate,,DEM,Joe Manchin III,58
+Ritchie,10,U.S. Senate,,DEM,Joe Manchin III,269
+Ritchie,11,U.S. Senate,,DEM,Joe Manchin III,82
+Ritchie,12,U.S. Senate,,DEM,Joe Manchin III,157
+Ritchie,13,U.S. Senate,,DEM,Joe Manchin III,49
+Ritchie,14,U.S. Senate,,DEM,Joe Manchin III,115
+Ritchie,15,U.S. Senate,,DEM,Joe Manchin III,77
+Ritchie,1,U.S. Senate,,REP,John R. Raese,147
+Ritchie,2,U.S. Senate,,REP,John R. Raese,136
+Ritchie,3,U.S. Senate,,REP,John R. Raese,141
+Ritchie,4,U.S. Senate,,REP,John R. Raese,143
+Ritchie,5,U.S. Senate,,REP,John R. Raese,131
+Ritchie,6,U.S. Senate,,REP,John R. Raese,123
+Ritchie,7,U.S. Senate,,REP,John R. Raese,65
+Ritchie,8,U.S. Senate,,REP,John R. Raese,147
+Ritchie,9,U.S. Senate,,REP,John R. Raese,69
+Ritchie,10,U.S. Senate,,REP,John R. Raese,151
+Ritchie,11,U.S. Senate,,REP,John R. Raese,76
+Ritchie,12,U.S. Senate,,REP,John R. Raese,145
+Ritchie,13,U.S. Senate,,REP,John R. Raese,49
+Ritchie,14,U.S. Senate,,REP,John R. Raese,104
+Ritchie,15,U.S. Senate,,REP,John R. Raese,69
+Ritchie,1,U.S. Senate,,MTN,Bob Henry Baber,6
+Ritchie,2,U.S. Senate,,MTN,Bob Henry Baber,4
+Ritchie,3,U.S. Senate,,MTN,Bob Henry Baber,5
+Ritchie,4,U.S. Senate,,MTN,Bob Henry Baber,12
+Ritchie,5,U.S. Senate,,MTN,Bob Henry Baber,6
+Ritchie,6,U.S. Senate,,MTN,Bob Henry Baber,5
+Ritchie,7,U.S. Senate,,MTN,Bob Henry Baber,5
+Ritchie,8,U.S. Senate,,MTN,Bob Henry Baber,9
+Ritchie,9,U.S. Senate,,MTN,Bob Henry Baber,2
+Ritchie,10,U.S. Senate,,MTN,Bob Henry Baber,8
+Ritchie,11,U.S. Senate,,MTN,Bob Henry Baber,11
+Ritchie,12,U.S. Senate,,MTN,Bob Henry Baber,10
+Ritchie,13,U.S. Senate,,MTN,Bob Henry Baber,7
+Ritchie,14,U.S. Senate,,MTN,Bob Henry Baber,4
+Ritchie,15,U.S. Senate,,MTN,Bob Henry Baber,4
+Ritchie,1,U.S. House,1,DEM,Sue Thorn,61
+Ritchie,2,U.S. House,1,DEM,Sue Thorn,63
+Ritchie,3,U.S. House,1,DEM,Sue Thorn,67
+Ritchie,4,U.S. House,1,DEM,Sue Thorn,73
+Ritchie,5,U.S. House,1,DEM,Sue Thorn,57
+Ritchie,6,U.S. House,1,DEM,Sue Thorn,51
+Ritchie,7,U.S. House,1,DEM,Sue Thorn,26
+Ritchie,8,U.S. House,1,DEM,Sue Thorn,69
+Ritchie,9,U.S. House,1,DEM,Sue Thorn,18
+Ritchie,10,U.S. House,1,DEM,Sue Thorn,98
+Ritchie,11,U.S. House,1,DEM,Sue Thorn,39
+Ritchie,12,U.S. House,1,DEM,Sue Thorn,50
+Ritchie,13,U.S. House,1,DEM,Sue Thorn,30
+Ritchie,14,U.S. House,1,DEM,Sue Thorn,40
+Ritchie,15,U.S. House,1,DEM,Sue Thorn,24
+Ritchie,1,U.S. House,1,REP,David B. McKinley,239
+Ritchie,2,U.S. House,1,REP,David B. McKinley,205
+Ritchie,3,U.S. House,1,REP,David B. McKinley,242
+Ritchie,4,U.S. House,1,REP,David B. McKinley,233
+Ritchie,5,U.S. House,1,REP,David B. McKinley,193
+Ritchie,6,U.S. House,1,REP,David B. McKinley,191
+Ritchie,7,U.S. House,1,REP,David B. McKinley,104
+Ritchie,8,U.S. House,1,REP,David B. McKinley,218
+Ritchie,9,U.S. House,1,REP,David B. McKinley,106
+Ritchie,10,U.S. House,1,REP,David B. McKinley,306
+Ritchie,11,U.S. House,1,REP,David B. McKinley,122
+Ritchie,12,U.S. House,1,REP,David B. McKinley,234
+Ritchie,13,U.S. House,1,REP,David B. McKinley,71
+Ritchie,14,U.S. House,1,REP,David B. McKinley,171
+Ritchie,15,U.S. House,1,REP,David B. McKinley,115
+Ritchie,1,Governor,,DEM,Earl Ray Tomblin,124
+Ritchie,2,Governor,,DEM,Earl Ray Tomblin,114
+Ritchie,3,Governor,,DEM,Earl Ray Tomblin,130
+Ritchie,4,Governor,,DEM,Earl Ray Tomblin,117
+Ritchie,5,Governor,,DEM,Earl Ray Tomblin,112
+Ritchie,6,Governor,,DEM,Earl Ray Tomblin,108
+Ritchie,7,Governor,,DEM,Earl Ray Tomblin,53
+Ritchie,8,Governor,,DEM,Earl Ray Tomblin,125
+Ritchie,9,Governor,,DEM,Earl Ray Tomblin,38
+Ritchie,10,Governor,,DEM,Earl Ray Tomblin,169
+Ritchie,11,Governor,,DEM,Earl Ray Tomblin,53
+Ritchie,12,Governor,,DEM,Earl Ray Tomblin,116
+Ritchie,13,Governor,,DEM,Earl Ray Tomblin,28
+Ritchie,14,Governor,,DEM,Earl Ray Tomblin,92
+Ritchie,15,Governor,,DEM,Earl Ray Tomblin,59
+Ritchie,1,Governor,,REP,Bill Maloney,185
+Ritchie,2,Governor,,REP,Bill Maloney,165
+Ritchie,3,Governor,,REP,Bill Maloney,176
+Ritchie,4,Governor,,REP,Bill Maloney,195
+Ritchie,5,Governor,,REP,Bill Maloney,162
+Ritchie,6,Governor,,REP,Bill Maloney,141
+Ritchie,7,Governor,,REP,Bill Maloney,75
+Ritchie,8,Governor,,REP,Bill Maloney,176
+Ritchie,9,Governor,,REP,Bill Maloney,84
+Ritchie,10,Governor,,REP,Bill Maloney,242
+Ritchie,11,Governor,,REP,Bill Maloney,100
+Ritchie,12,Governor,,REP,Bill Maloney,188
+Ritchie,13,Governor,,REP,Bill Maloney,71
+Ritchie,14,Governor,,REP,Bill Maloney,127
+Ritchie,15,Governor,,REP,Bill Maloney,84
+Ritchie,1,Governor,,LIB,David Moran,2
+Ritchie,2,Governor,,LIB,David Moran,1
+Ritchie,3,Governor,,LIB,David Moran,4
+Ritchie,4,Governor,,LIB,David Moran,6
+Ritchie,5,Governor,,LIB,David Moran,4
+Ritchie,6,Governor,,LIB,David Moran,4
+Ritchie,7,Governor,,LIB,David Moran,0
+Ritchie,8,Governor,,LIB,David Moran,6
+Ritchie,9,Governor,,LIB,David Moran,2
+Ritchie,10,Governor,,LIB,David Moran,3
+Ritchie,11,Governor,,LIB,David Moran,3
+Ritchie,12,Governor,,LIB,David Moran,4
+Ritchie,13,Governor,,LIB,David Moran,1
+Ritchie,14,Governor,,LIB,David Moran,4
+Ritchie,15,Governor,,LIB,David Moran,0
+Ritchie,1,Governor,,MTN,Jesse Johnson,8
+Ritchie,2,Governor,,MTN,Jesse Johnson,6
+Ritchie,3,Governor,,MTN,Jesse Johnson,3
+Ritchie,4,Governor,,MTN,Jesse Johnson,9
+Ritchie,5,Governor,,MTN,Jesse Johnson,2
+Ritchie,6,Governor,,MTN,Jesse Johnson,6
+Ritchie,7,Governor,,MTN,Jesse Johnson,5
+Ritchie,8,Governor,,MTN,Jesse Johnson,6
+Ritchie,9,Governor,,MTN,Jesse Johnson,3
+Ritchie,10,Governor,,MTN,Jesse Johnson,7
+Ritchie,11,Governor,,MTN,Jesse Johnson,12
+Ritchie,12,Governor,,MTN,Jesse Johnson,6
+Ritchie,13,Governor,,MTN,Jesse Johnson,4
+Ritchie,14,Governor,,MTN,Jesse Johnson,1
+Ritchie,15,Governor,,MTN,Jesse Johnson,6
+Ritchie,1,Secretary of State,,DEM,Natalie E. Tennant,140
+Ritchie,2,Secretary of State,,DEM,Natalie E. Tennant,141
+Ritchie,3,Secretary of State,,DEM,Natalie E. Tennant,150
+Ritchie,4,Secretary of State,,DEM,Natalie E. Tennant,155
+Ritchie,5,Secretary of State,,DEM,Natalie E. Tennant,132
+Ritchie,6,Secretary of State,,DEM,Natalie E. Tennant,122
+Ritchie,7,Secretary of State,,DEM,Natalie E. Tennant,62
+Ritchie,8,Secretary of State,,DEM,Natalie E. Tennant,140
+Ritchie,9,Secretary of State,,DEM,Natalie E. Tennant,57
+Ritchie,10,Secretary of State,,DEM,Natalie E. Tennant,248
+Ritchie,11,Secretary of State,,DEM,Natalie E. Tennant,79
+Ritchie,12,Secretary of State,,DEM,Natalie E. Tennant,147
+Ritchie,13,Secretary of State,,DEM,Natalie E. Tennant,49
+Ritchie,14,Secretary of State,,DEM,Natalie E. Tennant,127
+Ritchie,15,Secretary of State,,DEM,Natalie E. Tennant,60
+Ritchie,1,Secretary of State,,REP,Brian Savilla,165
+Ritchie,2,Secretary of State,,REP,Brian Savilla,127
+Ritchie,3,Secretary of State,,REP,Brian Savilla,147
+Ritchie,4,Secretary of State,,REP,Brian Savilla,147
+Ritchie,5,Secretary of State,,REP,Brian Savilla,125
+Ritchie,6,Secretary of State,,REP,Brian Savilla,128
+Ritchie,7,Secretary of State,,REP,Brian Savilla,71
+Ritchie,8,Secretary of State,,REP,Brian Savilla,158
+Ritchie,9,Secretary of State,,REP,Brian Savilla,62
+Ritchie,10,Secretary of State,,REP,Brian Savilla,147
+Ritchie,11,Secretary of State,,REP,Brian Savilla,81
+Ritchie,12,Secretary of State,,REP,Brian Savilla,145
+Ritchie,13,Secretary of State,,REP,Brian Savilla,51
+Ritchie,14,Secretary of State,,REP,Brian Savilla,85
+Ritchie,15,Secretary of State,,REP,Brian Savilla,77
+Ritchie,1,State Auditor,,DEM,Glen B. Gainer III,153
+Ritchie,2,State Auditor,,DEM,Glen B. Gainer III,146
+Ritchie,3,State Auditor,,DEM,Glen B. Gainer III,157
+Ritchie,4,State Auditor,,DEM,Glen B. Gainer III,153
+Ritchie,5,State Auditor,,DEM,Glen B. Gainer III,135
+Ritchie,6,State Auditor,,DEM,Glen B. Gainer III,139
+Ritchie,7,State Auditor,,DEM,Glen B. Gainer III,61
+Ritchie,8,State Auditor,,DEM,Glen B. Gainer III,158
+Ritchie,9,State Auditor,,DEM,Glen B. Gainer III,58
+Ritchie,10,State Auditor,,DEM,Glen B. Gainer III,237
+Ritchie,11,State Auditor,,DEM,Glen B. Gainer III,78
+Ritchie,12,State Auditor,,DEM,Glen B. Gainer III,163
+Ritchie,13,State Auditor,,DEM,Glen B. Gainer III,57
+Ritchie,14,State Auditor,,DEM,Glen B. Gainer III,125
+Ritchie,15,State Auditor,,DEM,Glen B. Gainer III,79
+Ritchie,1,State Auditor,,REP,Larry V. Faircloth,147
+Ritchie,2,State Auditor,,REP,Larry V. Faircloth,125
+Ritchie,3,State Auditor,,REP,Larry V. Faircloth,138
+Ritchie,4,State Auditor,,REP,Larry V. Faircloth,144
+Ritchie,5,State Auditor,,REP,Larry V. Faircloth,115
+Ritchie,6,State Auditor,,REP,Larry V. Faircloth,113
+Ritchie,7,State Auditor,,REP,Larry V. Faircloth,72
+Ritchie,8,State Auditor,,REP,Larry V. Faircloth,141
+Ritchie,9,State Auditor,,REP,Larry V. Faircloth,64
+Ritchie,10,State Auditor,,REP,Larry V. Faircloth,155
+Ritchie,11,State Auditor,,REP,Larry V. Faircloth,82
+Ritchie,12,State Auditor,,REP,Larry V. Faircloth,127
+Ritchie,13,State Auditor,,REP,Larry V. Faircloth,45
+Ritchie,14,State Auditor,,REP,Larry V. Faircloth,84
+Ritchie,15,State Auditor,,REP,Larry V. Faircloth,57
+Ritchie,1,State Treasurer,,DEM,John D. Perdue,121
+Ritchie,2,State Treasurer,,DEM,John D. Perdue,109
+Ritchie,3,State Treasurer,,DEM,John D. Perdue,123
+Ritchie,4,State Treasurer,,DEM,John D. Perdue,117
+Ritchie,5,State Treasurer,,DEM,John D. Perdue,107
+Ritchie,6,State Treasurer,,DEM,John D. Perdue,111
+Ritchie,7,State Treasurer,,DEM,John D. Perdue,51
+Ritchie,8,State Treasurer,,DEM,John D. Perdue,124
+Ritchie,9,State Treasurer,,DEM,John D. Perdue,49
+Ritchie,10,State Treasurer,,DEM,John D. Perdue,178
+Ritchie,11,State Treasurer,,DEM,John D. Perdue,61
+Ritchie,12,State Treasurer,,DEM,John D. Perdue,110
+Ritchie,13,State Treasurer,,DEM,John D. Perdue,45
+Ritchie,14,State Treasurer,,DEM,John D. Perdue,90
+Ritchie,15,State Treasurer,,DEM,John D. Perdue,59
+Ritchie,1,State Treasurer,,REP,Mike Hall,182
+Ritchie,2,State Treasurer,,REP,Mike Hall,159
+Ritchie,3,State Treasurer,,REP,Mike Hall,173
+Ritchie,4,State Treasurer,,REP,Mike Hall,182
+Ritchie,5,State Treasurer,,REP,Mike Hall,146
+Ritchie,6,State Treasurer,,REP,Mike Hall,132
+Ritchie,7,State Treasurer,,REP,Mike Hall,82
+Ritchie,8,State Treasurer,,REP,Mike Hall,169
+Ritchie,9,State Treasurer,,REP,Mike Hall,73
+Ritchie,10,State Treasurer,,REP,Mike Hall,206
+Ritchie,11,State Treasurer,,REP,Mike Hall,98
+Ritchie,12,State Treasurer,,REP,Mike Hall,170
+Ritchie,13,State Treasurer,,REP,Mike Hall,54
+Ritchie,14,State Treasurer,,REP,Mike Hall,121
+Ritchie,15,State Treasurer,,REP,Mike Hall,76
+Ritchie,1,Commissioner of Agriculture,,DEM,Walt Helmick,93
+Ritchie,2,Commissioner of Agriculture,,DEM,Walt Helmick,88
+Ritchie,3,Commissioner of Agriculture,,DEM,Walt Helmick,95
+Ritchie,4,Commissioner of Agriculture,,DEM,Walt Helmick,104
+Ritchie,5,Commissioner of Agriculture,,DEM,Walt Helmick,82
+Ritchie,6,Commissioner of Agriculture,,DEM,Walt Helmick,76
+Ritchie,7,Commissioner of Agriculture,,DEM,Walt Helmick,44
+Ritchie,8,Commissioner of Agriculture,,DEM,Walt Helmick,98
+Ritchie,9,Commissioner of Agriculture,,DEM,Walt Helmick,33
+Ritchie,10,Commissioner of Agriculture,,DEM,Walt Helmick,121
+Ritchie,11,Commissioner of Agriculture,,DEM,Walt Helmick,55
+Ritchie,12,Commissioner of Agriculture,,DEM,Walt Helmick,76
+Ritchie,13,Commissioner of Agriculture,,DEM,Walt Helmick,35
+Ritchie,14,Commissioner of Agriculture,,DEM,Walt Helmick,61
+Ritchie,15,Commissioner of Agriculture,,DEM,Walt Helmick,25
+Ritchie,1,Commissioner of Agriculture,,REP,Kent Leonhardt,203
+Ritchie,2,Commissioner of Agriculture,,REP,Kent Leonhardt,179
+Ritchie,3,Commissioner of Agriculture,,REP,Kent Leonhardt,199
+Ritchie,4,Commissioner of Agriculture,,REP,Kent Leonhardt,191
+Ritchie,5,Commissioner of Agriculture,,REP,Kent Leonhardt,169
+Ritchie,6,Commissioner of Agriculture,,REP,Kent Leonhardt,169
+Ritchie,7,Commissioner of Agriculture,,REP,Kent Leonhardt,88
+Ritchie,8,Commissioner of Agriculture,,REP,Kent Leonhardt,196
+Ritchie,9,Commissioner of Agriculture,,REP,Kent Leonhardt,87
+Ritchie,10,Commissioner of Agriculture,,REP,Kent Leonhardt,256
+Ritchie,11,Commissioner of Agriculture,,REP,Kent Leonhardt,103
+Ritchie,12,Commissioner of Agriculture,,REP,Kent Leonhardt,200
+Ritchie,13,Commissioner of Agriculture,,REP,Kent Leonhardt,64
+Ritchie,14,Commissioner of Agriculture,,REP,Kent Leonhardt,140
+Ritchie,15,Commissioner of Agriculture,,REP,Kent Leonhardt,111
+Ritchie,1,Attorney General,,DEM,Darrell V. McGraw Jr.,120
+Ritchie,2,Attorney General,,DEM,Darrell V. McGraw Jr.,112
+Ritchie,3,Attorney General,,DEM,Darrell V. McGraw Jr.,120
+Ritchie,4,Attorney General,,DEM,Darrell V. McGraw Jr.,121
+Ritchie,5,Attorney General,,DEM,Darrell V. McGraw Jr.,102
+Ritchie,6,Attorney General,,DEM,Darrell V. McGraw Jr.,97
+Ritchie,7,Attorney General,,DEM,Darrell V. McGraw Jr.,44
+Ritchie,8,Attorney General,,DEM,Darrell V. McGraw Jr.,100
+Ritchie,9,Attorney General,,DEM,Darrell V. McGraw Jr.,39
+Ritchie,10,Attorney General,,DEM,Darrell V. McGraw Jr.,160
+Ritchie,11,Attorney General,,DEM,Darrell V. McGraw Jr.,58
+Ritchie,12,Attorney General,,DEM,Darrell V. McGraw Jr.,95
+Ritchie,13,Attorney General,,DEM,Darrell V. McGraw Jr.,38
+Ritchie,14,Attorney General,,DEM,Darrell V. McGraw Jr.,81
+Ritchie,15,Attorney General,,DEM,Darrell V. McGraw Jr.,46
+Ritchie,1,Attorney General,,REP,Patrick Morrisey,185
+Ritchie,2,Attorney General,,REP,Patrick Morrisey,162
+Ritchie,3,Attorney General,,REP,Patrick Morrisey,188
+Ritchie,4,Attorney General,,REP,Patrick Morrisey,194
+Ritchie,5,Attorney General,,REP,Patrick Morrisey,168
+Ritchie,6,Attorney General,,REP,Patrick Morrisey,158
+Ritchie,7,Attorney General,,REP,Patrick Morrisey,90
+Ritchie,8,Attorney General,,REP,Patrick Morrisey,199
+Ritchie,9,Attorney General,,REP,Patrick Morrisey,86
+Ritchie,10,Attorney General,,REP,Patrick Morrisey,245
+Ritchie,11,Attorney General,,REP,Patrick Morrisey,105
+Ritchie,12,Attorney General,,REP,Patrick Morrisey,203
+Ritchie,13,Attorney General,,REP,Patrick Morrisey,64
+Ritchie,14,Attorney General,,REP,Patrick Morrisey,138
+Ritchie,15,Attorney General,,REP,Patrick Morrisey,97
+Ritchie,1,State Senate,2,DEM,Jeffrey V. Kessler,192
+Ritchie,2,State Senate,2,DEM,Jeffrey V. Kessler,185
+Ritchie,3,State Senate,2,DEM,Jeffrey V. Kessler,197
+Ritchie,4,State Senate,2,DEM,Jeffrey V. Kessler,203
+Ritchie,5,State Senate,2,DEM,Jeffrey V. Kessler,174
+Ritchie,6,State Senate,2,DEM,Jeffrey V. Kessler,161
+Ritchie,7,State Senate,2,DEM,Jeffrey V. Kessler,90
+Ritchie,8,State Senate,2,DEM,Jeffrey V. Kessler,207
+Ritchie,9,State Senate,2,DEM,Jeffrey V. Kessler,71
+Ritchie,10,State Senate,2,DEM,Jeffrey V. Kessler,282
+Ritchie,11,State Senate,2,DEM,Jeffrey V. Kessler,110
+Ritchie,12,State Senate,2,DEM,Jeffrey V. Kessler,210
+Ritchie,13,State Senate,2,DEM,Jeffrey V. Kessler,67
+Ritchie,14,State Senate,2,DEM,Jeffrey V. Kessler,154
+Ritchie,15,State Senate,2,DEM,Jeffrey V. Kessler,105
+Ritchie,1,State House,7,REP,"Lynwood ""Woody"" Ireland",274
+Ritchie,2,State House,7,REP,"Lynwood ""Woody"" Ireland",244
+Ritchie,3,State House,7,REP,"Lynwood ""Woody"" Ireland",270
+Ritchie,4,State House,7,REP,"Lynwood ""Woody"" Ireland",287
+Ritchie,5,State House,7,REP,"Lynwood ""Woody"" Ireland",231
+Ritchie,6,State House,7,REP,"Lynwood ""Woody"" Ireland",223
+Ritchie,7,State House,7,REP,"Lynwood ""Woody"" Ireland",117
+Ritchie,8,State House,7,REP,"Lynwood ""Woody"" Ireland",276
+Ritchie,9,State House,7,REP,"Lynwood ""Woody"" Ireland",112
+Ritchie,10,State House,7,REP,"Lynwood ""Woody"" Ireland",363
+Ritchie,11,State House,7,REP,"Lynwood ""Woody"" Ireland",138
+Ritchie,12,State House,7,REP,"Lynwood ""Woody"" Ireland",272
+Ritchie,13,State House,7,REP,"Lynwood ""Woody"" Ireland",92
+Ritchie,14,State House,7,REP,"Lynwood ""Woody"" Ireland",191
+Ritchie,15,State House,7,REP,"Lynwood ""Woody"" Ireland",132
