@@ -1,0 +1,373 @@
+county,precinct,office,district,party,candidate,votes
+Tyler,1,Straight Party,,,Republican,40
+Tyler,2,Straight Party,,,Republican,44
+Tyler,3,Straight Party,,,Republican,45
+Tyler,4,Straight Party,,,Republican,54
+Tyler,5,Straight Party,,,Republican,86
+Tyler,6,Straight Party,,,Republican,56
+Tyler,7,Straight Party,,,Republican,11
+Tyler,8,Straight Party,,,Republican,56
+Tyler,9,Straight Party,,,Republican,36
+Tyler,10,Straight Party,,,Republican,47
+Tyler,11,Straight Party,,,Republican,56
+Tyler,12,Straight Party,,,Republican,21
+Tyler,1,Straight Party,,,Democratic,13
+Tyler,2,Straight Party,,,Democratic,16
+Tyler,3,Straight Party,,,Democratic,22
+Tyler,4,Straight Party,,,Democratic,27
+Tyler,5,Straight Party,,,Democratic,43
+Tyler,6,Straight Party,,,Democratic,29
+Tyler,7,Straight Party,,,Democratic,8
+Tyler,8,Straight Party,,,Democratic,46
+Tyler,9,Straight Party,,,Democratic,21
+Tyler,10,Straight Party,,,Democratic,9
+Tyler,11,Straight Party,,,Democratic,46
+Tyler,12,Straight Party,,,Democratic,5
+Tyler,1,Straight Party,,,Mountain,0
+Tyler,2,Straight Party,,,Mountain,0
+Tyler,3,Straight Party,,,Mountain,1
+Tyler,4,Straight Party,,,Mountain,1
+Tyler,5,Straight Party,,,Mountain,0
+Tyler,6,Straight Party,,,Mountain,1
+Tyler,7,Straight Party,,,Mountain,0
+Tyler,8,Straight Party,,,Mountain,0
+Tyler,9,Straight Party,,,Mountain,0
+Tyler,10,Straight Party,,,Mountain,0
+Tyler,11,Straight Party,,,Mountain,0
+Tyler,12,Straight Party,,,Mountain,2
+Tyler,1,Straight Party,,,Libertarian,1
+Tyler,2,Straight Party,,,Libertarian,0
+Tyler,3,Straight Party,,,Libertarian,3
+Tyler,4,Straight Party,,,Libertarian,0
+Tyler,5,Straight Party,,,Libertarian,2
+Tyler,6,Straight Party,,,Libertarian,1
+Tyler,7,Straight Party,,,Libertarian,0
+Tyler,8,Straight Party,,,Libertarian,0
+Tyler,9,Straight Party,,,Libertarian,0
+Tyler,10,Straight Party,,,Libertarian,0
+Tyler,11,Straight Party,,,Libertarian,0
+Tyler,12,Straight Party,,,Libertarian,0
+Tyler,1,President,,DEM,Barack Obama,59
+Tyler,2,President,,DEM,Barack Obama,60
+Tyler,3,President,,DEM,Barack Obama,83
+Tyler,4,President,,DEM,Barack Obama,86
+Tyler,5,President,,DEM,Barack Obama,137
+Tyler,6,President,,DEM,Barack Obama,79
+Tyler,7,President,,DEM,Barack Obama,25
+Tyler,8,President,,DEM,Barack Obama,131
+Tyler,9,President,,DEM,Barack Obama,59
+Tyler,10,President,,DEM,Barack Obama,39
+Tyler,11,President,,DEM,Barack Obama,117
+Tyler,12,President,,DEM,Barack Obama,15
+Tyler,1,President,,REP,Mitt Romney,184
+Tyler,2,President,,REP,Mitt Romney,194
+Tyler,3,President,,REP,Mitt Romney,189
+Tyler,4,President,,REP,Mitt Romney,320
+Tyler,5,President,,REP,Mitt Romney,312
+Tyler,6,President,,REP,Mitt Romney,228
+Tyler,7,President,,REP,Mitt Romney,66
+Tyler,8,President,,REP,Mitt Romney,246
+Tyler,9,President,,REP,Mitt Romney,114
+Tyler,10,President,,REP,Mitt Romney,169
+Tyler,11,President,,REP,Mitt Romney,231
+Tyler,12,President,,REP,Mitt Romney,61
+Tyler,1,President,,LIB,Gary Johnson,2
+Tyler,2,President,,LIB,Gary Johnson,2
+Tyler,3,President,,LIB,Gary Johnson,6
+Tyler,4,President,,LIB,Gary Johnson,3
+Tyler,5,President,,LIB,Gary Johnson,2
+Tyler,6,President,,LIB,Gary Johnson,3
+Tyler,7,President,,LIB,Gary Johnson,0
+Tyler,8,President,,LIB,Gary Johnson,3
+Tyler,9,President,,LIB,Gary Johnson,3
+Tyler,10,President,,LIB,Gary Johnson,0
+Tyler,11,President,,LIB,Gary Johnson,4
+Tyler,12,President,,LIB,Gary Johnson,1
+Tyler,1,President,,MTN,Jill Stein,0
+Tyler,2,President,,MTN,Jill Stein,1
+Tyler,3,President,,MTN,Jill Stein,2
+Tyler,4,President,,MTN,Jill Stein,4
+Tyler,5,President,,MTN,Jill Stein,3
+Tyler,6,President,,MTN,Jill Stein,4
+Tyler,7,President,,MTN,Jill Stein,0
+Tyler,8,President,,MTN,Jill Stein,4
+Tyler,9,President,,MTN,Jill Stein,1
+Tyler,10,President,,MTN,Jill Stein,2
+Tyler,11,President,,MTN,Jill Stein,1
+Tyler,12,President,,MTN,Jill Stein,2
+Tyler,1,President,,,Randall Terry,2
+Tyler,2,President,,,Randall Terry,3
+Tyler,3,President,,,Randall Terry,1
+Tyler,4,President,,,Randall Terry,2
+Tyler,5,President,,,Randall Terry,3
+Tyler,6,President,,,Randall Terry,2
+Tyler,7,President,,,Randall Terry,4
+Tyler,8,President,,,Randall Terry,0
+Tyler,9,President,,,Randall Terry,1
+Tyler,10,President,,,Randall Terry,1
+Tyler,11,President,,,Randall Terry,3
+Tyler,12,President,,,Randall Terry,0
+Tyler,1,U.S. Senate,,DEM,Joe Manchin III,119
+Tyler,2,U.S. Senate,,DEM,Joe Manchin III,127
+Tyler,3,U.S. Senate,,DEM,Joe Manchin III,159
+Tyler,4,U.S. Senate,,DEM,Joe Manchin III,229
+Tyler,5,U.S. Senate,,DEM,Joe Manchin III,269
+Tyler,6,U.S. Senate,,DEM,Joe Manchin III,177
+Tyler,7,U.S. Senate,,DEM,Joe Manchin III,42
+Tyler,8,U.S. Senate,,DEM,Joe Manchin III,250
+Tyler,9,U.S. Senate,,DEM,Joe Manchin III,93
+Tyler,10,U.S. Senate,,DEM,Joe Manchin III,89
+Tyler,11,U.S. Senate,,DEM,Joe Manchin III,216
+Tyler,12,U.S. Senate,,DEM,Joe Manchin III,33
+Tyler,1,U.S. Senate,,REP,John R. Raese,122
+Tyler,2,U.S. Senate,,REP,John R. Raese,118
+Tyler,3,U.S. Senate,,REP,John R. Raese,110
+Tyler,4,U.S. Senate,,REP,John R. Raese,165
+Tyler,5,U.S. Senate,,REP,John R. Raese,173
+Tyler,6,U.S. Senate,,REP,John R. Raese,127
+Tyler,7,U.S. Senate,,REP,John R. Raese,47
+Tyler,8,U.S. Senate,,REP,John R. Raese,121
+Tyler,9,U.S. Senate,,REP,John R. Raese,78
+Tyler,10,U.S. Senate,,REP,John R. Raese,114
+Tyler,11,U.S. Senate,,REP,John R. Raese,127
+Tyler,12,U.S. Senate,,REP,John R. Raese,40
+Tyler,1,U.S. Senate,,MTN,Bob Henry Baber,8
+Tyler,2,U.S. Senate,,MTN,Bob Henry Baber,8
+Tyler,3,U.S. Senate,,MTN,Bob Henry Baber,2
+Tyler,4,U.S. Senate,,MTN,Bob Henry Baber,11
+Tyler,5,U.S. Senate,,MTN,Bob Henry Baber,11
+Tyler,6,U.S. Senate,,MTN,Bob Henry Baber,7
+Tyler,7,U.S. Senate,,MTN,Bob Henry Baber,3
+Tyler,8,U.S. Senate,,MTN,Bob Henry Baber,9
+Tyler,9,U.S. Senate,,MTN,Bob Henry Baber,6
+Tyler,10,U.S. Senate,,MTN,Bob Henry Baber,4
+Tyler,11,U.S. Senate,,MTN,Bob Henry Baber,1
+Tyler,12,U.S. Senate,,MTN,Bob Henry Baber,6
+Tyler,1,U.S. House,1,DEM,Sue Thorn,65
+Tyler,2,U.S. House,1,DEM,Sue Thorn,59
+Tyler,3,U.S. House,1,DEM,Sue Thorn,78
+Tyler,4,U.S. House,1,DEM,Sue Thorn,85
+Tyler,5,U.S. House,1,DEM,Sue Thorn,111
+Tyler,6,U.S. House,1,DEM,Sue Thorn,73
+Tyler,7,U.S. House,1,DEM,Sue Thorn,30
+Tyler,8,U.S. House,1,DEM,Sue Thorn,124
+Tyler,9,U.S. House,1,DEM,Sue Thorn,54
+Tyler,10,U.S. House,1,DEM,Sue Thorn,33
+Tyler,11,U.S. House,1,DEM,Sue Thorn,118
+Tyler,12,U.S. House,1,DEM,Sue Thorn,17
+Tyler,1,U.S. House,1,REP,David B. McKinley,170
+Tyler,2,U.S. House,1,REP,David B. McKinley,196
+Tyler,3,U.S. House,1,REP,David B. McKinley,196
+Tyler,4,U.S. House,1,REP,David B. McKinley,295
+Tyler,5,U.S. House,1,REP,David B. McKinley,324
+Tyler,6,U.S. House,1,REP,David B. McKinley,234
+Tyler,7,U.S. House,1,REP,David B. McKinley,58
+Tyler,8,U.S. House,1,REP,David B. McKinley,238
+Tyler,9,U.S. House,1,REP,David B. McKinley,114
+Tyler,10,U.S. House,1,REP,David B. McKinley,158
+Tyler,11,U.S. House,1,REP,David B. McKinley,213
+Tyler,12,U.S. House,1,REP,David B. McKinley,55
+Tyler,1,Governor,,DEM,Earl Ray Tomblin,101
+Tyler,2,Governor,,DEM,Earl Ray Tomblin,108
+Tyler,3,Governor,,DEM,Earl Ray Tomblin,125
+Tyler,4,Governor,,DEM,Earl Ray Tomblin,175
+Tyler,5,Governor,,DEM,Earl Ray Tomblin,203
+Tyler,6,Governor,,DEM,Earl Ray Tomblin,124
+Tyler,7,Governor,,DEM,Earl Ray Tomblin,40
+Tyler,8,Governor,,DEM,Earl Ray Tomblin,201
+Tyler,9,Governor,,DEM,Earl Ray Tomblin,77
+Tyler,10,Governor,,DEM,Earl Ray Tomblin,64
+Tyler,11,Governor,,DEM,Earl Ray Tomblin,183
+Tyler,12,Governor,,DEM,Earl Ray Tomblin,23
+Tyler,1,Governor,,REP,Bill Maloney,135
+Tyler,2,Governor,,REP,Bill Maloney,144
+Tyler,3,Governor,,REP,Bill Maloney,156
+Tyler,4,Governor,,REP,Bill Maloney,218
+Tyler,5,Governor,,REP,Bill Maloney,235
+Tyler,6,Governor,,REP,Bill Maloney,176
+Tyler,7,Governor,,REP,Bill Maloney,52
+Tyler,8,Governor,,REP,Bill Maloney,168
+Tyler,9,Governor,,REP,Bill Maloney,88
+Tyler,10,Governor,,REP,Bill Maloney,136
+Tyler,11,Governor,,REP,Bill Maloney,157
+Tyler,12,Governor,,REP,Bill Maloney,46
+Tyler,1,Governor,,LIB,David Moran,4
+Tyler,2,Governor,,LIB,David Moran,3
+Tyler,3,Governor,,LIB,David Moran,1
+Tyler,4,Governor,,LIB,David Moran,6
+Tyler,5,Governor,,LIB,David Moran,8
+Tyler,6,Governor,,LIB,David Moran,3
+Tyler,7,Governor,,LIB,David Moran,2
+Tyler,8,Governor,,LIB,David Moran,4
+Tyler,9,Governor,,LIB,David Moran,4
+Tyler,10,Governor,,LIB,David Moran,0
+Tyler,11,Governor,,LIB,David Moran,3
+Tyler,12,Governor,,LIB,David Moran,3
+Tyler,1,Governor,,MTN,Jesse Johnson,6
+Tyler,2,Governor,,MTN,Jesse Johnson,3
+Tyler,3,Governor,,MTN,Jesse Johnson,1
+Tyler,4,Governor,,MTN,Jesse Johnson,7
+Tyler,5,Governor,,MTN,Jesse Johnson,9
+Tyler,6,Governor,,MTN,Jesse Johnson,7
+Tyler,7,Governor,,MTN,Jesse Johnson,2
+Tyler,8,Governor,,MTN,Jesse Johnson,10
+Tyler,9,Governor,,MTN,Jesse Johnson,9
+Tyler,10,Governor,,MTN,Jesse Johnson,4
+Tyler,11,Governor,,MTN,Jesse Johnson,5
+Tyler,12,Governor,,MTN,Jesse Johnson,5
+Tyler,1,Secretary of State,,DEM,Natalie E. Tennant,116
+Tyler,2,Secretary of State,,DEM,Natalie E. Tennant,115
+Tyler,3,Secretary of State,,DEM,Natalie E. Tennant,133
+Tyler,4,Secretary of State,,DEM,Natalie E. Tennant,204
+Tyler,5,Secretary of State,,DEM,Natalie E. Tennant,232
+Tyler,6,Secretary of State,,DEM,Natalie E. Tennant,158
+Tyler,7,Secretary of State,,DEM,Natalie E. Tennant,50
+Tyler,8,Secretary of State,,DEM,Natalie E. Tennant,228
+Tyler,9,Secretary of State,,DEM,Natalie E. Tennant,89
+Tyler,10,Secretary of State,,DEM,Natalie E. Tennant,78
+Tyler,11,Secretary of State,,DEM,Natalie E. Tennant,197
+Tyler,12,Secretary of State,,DEM,Natalie E. Tennant,32
+Tyler,1,Secretary of State,,REP,Brian Savilla,118
+Tyler,2,Secretary of State,,REP,Brian Savilla,125
+Tyler,3,Secretary of State,,REP,Brian Savilla,139
+Tyler,4,Secretary of State,,REP,Brian Savilla,184
+Tyler,5,Secretary of State,,REP,Brian Savilla,199
+Tyler,6,Secretary of State,,REP,Brian Savilla,142
+Tyler,7,Secretary of State,,REP,Brian Savilla,42
+Tyler,8,Secretary of State,,REP,Brian Savilla,143
+Tyler,9,Secretary of State,,REP,Brian Savilla,81
+Tyler,10,Secretary of State,,REP,Brian Savilla,120
+Tyler,11,Secretary of State,,REP,Brian Savilla,139
+Tyler,12,Secretary of State,,REP,Brian Savilla,41
+Tyler,1,State Auditor,,DEM,Glen B. Gainer III,122
+Tyler,2,State Auditor,,DEM,Glen B. Gainer III,118
+Tyler,3,State Auditor,,DEM,Glen B. Gainer III,151
+Tyler,4,State Auditor,,DEM,Glen B. Gainer III,190
+Tyler,5,State Auditor,,DEM,Glen B. Gainer III,233
+Tyler,6,State Auditor,,DEM,Glen B. Gainer III,160
+Tyler,7,State Auditor,,DEM,Glen B. Gainer III,47
+Tyler,8,State Auditor,,DEM,Glen B. Gainer III,233
+Tyler,9,State Auditor,,DEM,Glen B. Gainer III,103
+Tyler,10,State Auditor,,DEM,Glen B. Gainer III,91
+Tyler,11,State Auditor,,DEM,Glen B. Gainer III,199
+Tyler,12,State Auditor,,DEM,Glen B. Gainer III,35
+Tyler,1,State Auditor,,REP,Larry V. Faircloth,110
+Tyler,2,State Auditor,,REP,Larry V. Faircloth,114
+Tyler,3,State Auditor,,REP,Larry V. Faircloth,119
+Tyler,4,State Auditor,,REP,Larry V. Faircloth,186
+Tyler,5,State Auditor,,REP,Larry V. Faircloth,200
+Tyler,6,State Auditor,,REP,Larry V. Faircloth,136
+Tyler,7,State Auditor,,REP,Larry V. Faircloth,42
+Tyler,8,State Auditor,,REP,Larry V. Faircloth,133
+Tyler,9,State Auditor,,REP,Larry V. Faircloth,69
+Tyler,10,State Auditor,,REP,Larry V. Faircloth,106
+Tyler,11,State Auditor,,REP,Larry V. Faircloth,137
+Tyler,12,State Auditor,,REP,Larry V. Faircloth,37
+Tyler,1,State Treasurer,,DEM,John D. Perdue,100
+Tyler,2,State Treasurer,,DEM,John D. Perdue,103
+Tyler,3,State Treasurer,,DEM,John D. Perdue,130
+Tyler,4,State Treasurer,,DEM,John D. Perdue,170
+Tyler,5,State Treasurer,,DEM,John D. Perdue,188
+Tyler,6,State Treasurer,,DEM,John D. Perdue,135
+Tyler,7,State Treasurer,,DEM,John D. Perdue,35
+Tyler,8,State Treasurer,,DEM,John D. Perdue,197
+Tyler,9,State Treasurer,,DEM,John D. Perdue,86
+Tyler,10,State Treasurer,,DEM,John D. Perdue,65
+Tyler,11,State Treasurer,,DEM,John D. Perdue,170
+Tyler,12,State Treasurer,,DEM,John D. Perdue,27
+Tyler,1,State Treasurer,,REP,Mike Hall,130
+Tyler,2,State Treasurer,,REP,Mike Hall,129
+Tyler,3,State Treasurer,,REP,Mike Hall,135
+Tyler,4,State Treasurer,,REP,Mike Hall,207
+Tyler,5,State Treasurer,,REP,Mike Hall,238
+Tyler,6,State Treasurer,,REP,Mike Hall,161
+Tyler,7,State Treasurer,,REP,Mike Hall,55
+Tyler,8,State Treasurer,,REP,Mike Hall,166
+Tyler,9,State Treasurer,,REP,Mike Hall,88
+Tyler,10,State Treasurer,,REP,Mike Hall,129
+Tyler,11,State Treasurer,,REP,Mike Hall,159
+Tyler,12,State Treasurer,,REP,Mike Hall,44
+Tyler,1,Commissioner of Agriculture,,DEM,Walt Helmick,66
+Tyler,2,Commissioner of Agriculture,,DEM,Walt Helmick,71
+Tyler,3,Commissioner of Agriculture,,DEM,Walt Helmick,87
+Tyler,4,Commissioner of Agriculture,,DEM,Walt Helmick,114
+Tyler,5,Commissioner of Agriculture,,DEM,Walt Helmick,164
+Tyler,6,Commissioner of Agriculture,,DEM,Walt Helmick,98
+Tyler,7,Commissioner of Agriculture,,DEM,Walt Helmick,31
+Tyler,8,Commissioner of Agriculture,,DEM,Walt Helmick,163
+Tyler,9,Commissioner of Agriculture,,DEM,Walt Helmick,73
+Tyler,10,Commissioner of Agriculture,,DEM,Walt Helmick,45
+Tyler,11,Commissioner of Agriculture,,DEM,Walt Helmick,138
+Tyler,12,Commissioner of Agriculture,,DEM,Walt Helmick,29
+Tyler,1,Commissioner of Agriculture,,REP,Kent Leonhardt,161
+Tyler,2,Commissioner of Agriculture,,REP,Kent Leonhardt,154
+Tyler,3,Commissioner of Agriculture,,REP,Kent Leonhardt,175
+Tyler,4,Commissioner of Agriculture,,REP,Kent Leonhardt,251
+Tyler,5,Commissioner of Agriculture,,REP,Kent Leonhardt,262
+Tyler,6,Commissioner of Agriculture,,REP,Kent Leonhardt,198
+Tyler,7,Commissioner of Agriculture,,REP,Kent Leonhardt,55
+Tyler,8,Commissioner of Agriculture,,REP,Kent Leonhardt,190
+Tyler,9,Commissioner of Agriculture,,REP,Kent Leonhardt,96
+Tyler,10,Commissioner of Agriculture,,REP,Kent Leonhardt,152
+Tyler,11,Commissioner of Agriculture,,REP,Kent Leonhardt,188
+Tyler,12,Commissioner of Agriculture,,REP,Kent Leonhardt,42
+Tyler,1,Attorney General,,DEM,Darrell V. McGraw Jr.,97
+Tyler,2,Attorney General,,DEM,Darrell V. McGraw Jr.,90
+Tyler,3,Attorney General,,DEM,Darrell V. McGraw Jr.,104
+Tyler,4,Attorney General,,DEM,Darrell V. McGraw Jr.,170
+Tyler,5,Attorney General,,DEM,Darrell V. McGraw Jr.,180
+Tyler,6,Attorney General,,DEM,Darrell V. McGraw Jr.,130
+Tyler,7,Attorney General,,DEM,Darrell V. McGraw Jr.,40
+Tyler,8,Attorney General,,DEM,Darrell V. McGraw Jr.,197
+Tyler,9,Attorney General,,DEM,Darrell V. McGraw Jr.,80
+Tyler,10,Attorney General,,DEM,Darrell V. McGraw Jr.,62
+Tyler,11,Attorney General,,DEM,Darrell V. McGraw Jr.,162
+Tyler,12,Attorney General,,DEM,Darrell V. McGraw Jr.,29
+Tyler,1,Attorney General,,REP,Patrick Morrisey,142
+Tyler,2,Attorney General,,REP,Patrick Morrisey,150
+Tyler,3,Attorney General,,REP,Patrick Morrisey,172
+Tyler,4,Attorney General,,REP,Patrick Morrisey,221
+Tyler,5,Attorney General,,REP,Patrick Morrisey,260
+Tyler,6,Attorney General,,REP,Patrick Morrisey,174
+Tyler,7,Attorney General,,REP,Patrick Morrisey,52
+Tyler,8,Attorney General,,REP,Patrick Morrisey,178
+Tyler,9,Attorney General,,REP,Patrick Morrisey,92
+Tyler,10,Attorney General,,REP,Patrick Morrisey,136
+Tyler,11,Attorney General,,REP,Patrick Morrisey,175
+Tyler,12,Attorney General,,REP,Patrick Morrisey,47
+Tyler,1,State Senate,2,DEM,Jeffrey V. Kessler,156
+Tyler,2,State Senate,2,DEM,Jeffrey V. Kessler,153
+Tyler,3,State Senate,2,DEM,Jeffrey V. Kessler,191
+Tyler,4,State Senate,2,DEM,Jeffrey V. Kessler,266
+Tyler,5,State Senate,2,DEM,Jeffrey V. Kessler,322
+Tyler,6,State Senate,2,DEM,Jeffrey V. Kessler,213
+Tyler,7,State Senate,2,DEM,Jeffrey V. Kessler,63
+Tyler,8,State Senate,2,DEM,Jeffrey V. Kessler,297
+Tyler,9,State Senate,2,DEM,Jeffrey V. Kessler,129
+Tyler,10,State Senate,2,DEM,Jeffrey V. Kessler,120
+Tyler,11,State Senate,2,DEM,Jeffrey V. Kessler,241
+Tyler,12,State Senate,2,DEM,Jeffrey V. Kessler,43
+Tyler,1,State House,6,DEM,Charlie Delauder,94
+Tyler,2,State House,6,DEM,Charlie Delauder,106
+Tyler,3,State House,6,DEM,Charlie Delauder,113
+Tyler,4,State House,6,DEM,Charlie Delauder,159
+Tyler,5,State House,6,DEM,Charlie Delauder,145
+Tyler,6,State House,6,DEM,Charlie Delauder,94
+Tyler,7,State House,6,DEM,Charlie Delauder,43
+Tyler,8,State House,6,DEM,Charlie Delauder,152
+Tyler,9,State House,6,DEM,Charlie Delauder,73
+Tyler,10,State House,6,DEM,Charlie Delauder,64
+Tyler,11,State House,6,DEM,Charlie Delauder,146
+Tyler,12,State House,6,DEM,Charlie Delauder,34
+Tyler,1,State House,6,REP,Wm. Roger Romine,148
+Tyler,2,State House,6,REP,Wm. Roger Romine,147
+Tyler,3,State House,6,REP,Wm. Roger Romine,165
+Tyler,4,State House,6,REP,Wm. Roger Romine,239
+Tyler,5,State House,6,REP,Wm. Roger Romine,303
+Tyler,6,State House,6,REP,Wm. Roger Romine,216
+Tyler,7,State House,6,REP,Wm. Roger Romine,51
+Tyler,8,State House,6,REP,Wm. Roger Romine,220
+Tyler,9,State House,6,REP,Wm. Roger Romine,104
+Tyler,10,State House,6,REP,Wm. Roger Romine,139
+Tyler,11,State House,6,REP,Wm. Roger Romine,197
+Tyler,12,State House,6,REP,Wm. Roger Romine,43
