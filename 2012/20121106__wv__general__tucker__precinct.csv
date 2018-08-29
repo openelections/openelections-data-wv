@@ -1,0 +1,364 @@
+county,precinct,office,district,party,candidate,votes
+Tucker,1,President,,DEM,Barack Obama,24
+Tucker,2,President,,DEM,Barack Obama,100
+Tucker,3,President,,DEM,Barack Obama,83
+Tucker,4,President,,DEM,Barack Obama,56
+Tucker,5,President,,DEM,Barack Obama,113
+Tucker,10,President,,DEM,Barack Obama,30
+Tucker,12,President,,DEM,Barack Obama,120
+Tucker,14,President,,DEM,Barack Obama,36
+Tucker,15,President,,DEM,Barack Obama,140
+Tucker,16,President,,DEM,Barack Obama,107
+Tucker,24,President,,DEM,Barack Obama,71
+Tucker,1,President,,REP,Mitt Romney,126
+Tucker,2,President,,REP,Mitt Romney,333
+Tucker,3,President,,REP,Mitt Romney,246
+Tucker,4,President,,REP,Mitt Romney,170
+Tucker,5,President,,REP,Mitt Romney,305
+Tucker,10,President,,REP,Mitt Romney,106
+Tucker,12,President,,REP,Mitt Romney,154
+Tucker,14,President,,REP,Mitt Romney,94
+Tucker,15,President,,REP,Mitt Romney,182
+Tucker,16,President,,REP,Mitt Romney,226
+Tucker,24,President,,REP,Mitt Romney,234
+Tucker,1,President,,LIB,Gary Johnson,2
+Tucker,2,President,,LIB,Gary Johnson,3
+Tucker,3,President,,LIB,Gary Johnson,3
+Tucker,4,President,,LIB,Gary Johnson,0
+Tucker,5,President,,LIB,Gary Johnson,3
+Tucker,10,President,,LIB,Gary Johnson,1
+Tucker,12,President,,LIB,Gary Johnson,5
+Tucker,14,President,,LIB,Gary Johnson,1
+Tucker,15,President,,LIB,Gary Johnson,3
+Tucker,16,President,,LIB,Gary Johnson,4
+Tucker,24,President,,LIB,Gary Johnson,5
+Tucker,1,President,,MTN,Jill Stein,0
+Tucker,2,President,,MTN,Jill Stein,7
+Tucker,3,President,,MTN,Jill Stein,3
+Tucker,4,President,,MTN,Jill Stein,0
+Tucker,5,President,,MTN,Jill Stein,2
+Tucker,10,President,,MTN,Jill Stein,0
+Tucker,12,President,,MTN,Jill Stein,0
+Tucker,14,President,,MTN,Jill Stein,2
+Tucker,15,President,,MTN,Jill Stein,2
+Tucker,16,President,,MTN,Jill Stein,2
+Tucker,24,President,,MTN,Jill Stein,2
+Tucker,1,President,,,Randall Terry,2
+Tucker,2,President,,,Randall Terry,4
+Tucker,3,President,,,Randall Terry,2
+Tucker,4,President,,,Randall Terry,3
+Tucker,5,President,,,Randall Terry,9
+Tucker,10,President,,,Randall Terry,2
+Tucker,12,President,,,Randall Terry,5
+Tucker,14,President,,,Randall Terry,0
+Tucker,15,President,,,Randall Terry,0
+Tucker,16,President,,,Randall Terry,3
+Tucker,24,President,,,Randall Terry,2
+Tucker,1,Registered Voters,,,,230
+Tucker,1,Ballots Cast,,,,160
+Tucker,1,Straight Party,,,Republican,19
+Tucker,1,Straight Party,,,Democratic,9
+Tucker,1,Straight Party,,,Mountain,2
+Tucker,1,Straight Party,,,Libertarian,0
+Tucker,1,U.S. Senate,,DEM,Joe Manchin III,75
+Tucker,2,U.S. Senate,,DEM,Joe Manchin III,268
+Tucker,3,U.S. Senate,,DEM,Joe Manchin III,194
+Tucker,4,U.S. Senate,,DEM,Joe Manchin III,128
+Tucker,5,U.S. Senate,,DEM,Joe Manchin III,235
+Tucker,10,U.S. Senate,,DEM,Joe Manchin III,63
+Tucker,12,U.S. Senate,,DEM,Joe Manchin III,202
+Tucker,14,U.S. Senate,,DEM,Joe Manchin III,67
+Tucker,15,U.S. Senate,,DEM,Joe Manchin III,194
+Tucker,16,U.S. Senate,,DEM,Joe Manchin III,180
+Tucker,24,U.S. Senate,,DEM,Joe Manchin III,174
+Tucker,1,U.S. Senate,,REP,John R. Raese,79
+Tucker,2,U.S. Senate,,REP,John R. Raese,181
+Tucker,3,U.S. Senate,,REP,John R. Raese,135
+Tucker,4,U.S. Senate,,REP,John R. Raese,101
+Tucker,5,U.S. Senate,,REP,John R. Raese,192
+Tucker,10,U.S. Senate,,REP,John R. Raese,74
+Tucker,12,U.S. Senate,,REP,John R. Raese,71
+Tucker,14,U.S. Senate,,REP,John R. Raese,61
+Tucker,15,U.S. Senate,,REP,John R. Raese,116
+Tucker,16,U.S. Senate,,REP,John R. Raese,150
+Tucker,24,U.S. Senate,,REP,John R. Raese,142
+Tucker,1,U.S. Senate,,MTN,Bob Henry Baber,2
+Tucker,2,U.S. Senate,,MTN,Bob Henry Baber,2
+Tucker,3,U.S. Senate,,MTN,Bob Henry Baber,8
+Tucker,4,U.S. Senate,,MTN,Bob Henry Baber,6
+Tucker,5,U.S. Senate,,MTN,Bob Henry Baber,15
+Tucker,10,U.S. Senate,,MTN,Bob Henry Baber,5
+Tucker,12,U.S. Senate,,MTN,Bob Henry Baber,14
+Tucker,14,U.S. Senate,,MTN,Bob Henry Baber,3
+Tucker,15,U.S. Senate,,MTN,Bob Henry Baber,14
+Tucker,16,U.S. Senate,,MTN,Bob Henry Baber,10
+Tucker,24,U.S. Senate,,MTN,Bob Henry Baber,5
+Tucker,1,U.S. House,1,DEM,Sue Thorn,39
+Tucker,2,U.S. House,1,DEM,Sue Thorn,142
+Tucker,3,U.S. House,1,DEM,Sue Thorn,84
+Tucker,4,U.S. House,1,DEM,Sue Thorn,65
+Tucker,5,U.S. House,1,DEM,Sue Thorn,125
+Tucker,10,U.S. House,1,DEM,Sue Thorn,35
+Tucker,12,U.S. House,1,DEM,Sue Thorn,114
+Tucker,14,U.S. House,1,DEM,Sue Thorn,41
+Tucker,15,U.S. House,1,DEM,Sue Thorn,137
+Tucker,16,U.S. House,1,DEM,Sue Thorn,118
+Tucker,24,U.S. House,1,DEM,Sue Thorn,82
+Tucker,1,U.S. House,1,REP,David B. McKinley,106
+Tucker,2,U.S. House,1,REP,David B. McKinley,278
+Tucker,3,U.S. House,1,REP,David B. McKinley,231
+Tucker,4,U.S. House,1,REP,David B. McKinley,153
+Tucker,5,U.S. House,1,REP,David B. McKinley,282
+Tucker,10,U.S. House,1,REP,David B. McKinley,97
+Tucker,12,U.S. House,1,REP,David B. McKinley,156
+Tucker,14,U.S. House,1,REP,David B. McKinley,82
+Tucker,15,U.S. House,1,REP,David B. McKinley,175
+Tucker,16,U.S. House,1,REP,David B. McKinley,204
+Tucker,24,U.S. House,1,REP,David B. McKinley,203
+Tucker,1,Governor,,DEM,Earl Ray Tomblin,65
+Tucker,2,Governor,,DEM,Earl Ray Tomblin,236
+Tucker,3,Governor,,DEM,Earl Ray Tomblin,168
+Tucker,4,Governor,,DEM,Earl Ray Tomblin,118
+Tucker,5,Governor,,DEM,Earl Ray Tomblin,210
+Tucker,10,Governor,,DEM,Earl Ray Tomblin,62
+Tucker,12,Governor,,DEM,Earl Ray Tomblin,160
+Tucker,14,Governor,,DEM,Earl Ray Tomblin,54
+Tucker,15,Governor,,DEM,Earl Ray Tomblin,151
+Tucker,16,Governor,,DEM,Earl Ray Tomblin,163
+Tucker,24,Governor,,DEM,Earl Ray Tomblin,140
+Tucker,1,Governor,,REP,Bill Maloney,82
+Tucker,2,Governor,,REP,Bill Maloney,194
+Tucker,3,Governor,,REP,Bill Maloney,155
+Tucker,4,Governor,,REP,Bill Maloney,107
+Tucker,5,Governor,,REP,Bill Maloney,198
+Tucker,10,Governor,,REP,Bill Maloney,71
+Tucker,12,Governor,,REP,Bill Maloney,96
+Tucker,14,Governor,,REP,Bill Maloney,70
+Tucker,15,Governor,,REP,Bill Maloney,145
+Tucker,16,Governor,,REP,Bill Maloney,143
+Tucker,24,Governor,,REP,Bill Maloney,159
+Tucker,1,Governor,,LIB,David Moran,5
+Tucker,2,Governor,,LIB,David Moran,13
+Tucker,3,Governor,,LIB,David Moran,11
+Tucker,4,Governor,,LIB,David Moran,11
+Tucker,5,Governor,,LIB,David Moran,11
+Tucker,10,Governor,,LIB,David Moran,10
+Tucker,12,Governor,,LIB,David Moran,20
+Tucker,14,Governor,,LIB,David Moran,1
+Tucker,15,Governor,,LIB,David Moran,12
+Tucker,16,Governor,,LIB,David Moran,18
+Tucker,24,Governor,,LIB,David Moran,18
+Tucker,1,Governor,,MTN,Jesse Johnson,0
+Tucker,2,Governor,,MTN,Jesse Johnson,4
+Tucker,3,Governor,,MTN,Jesse Johnson,2
+Tucker,4,Governor,,MTN,Jesse Johnson,1
+Tucker,5,Governor,,MTN,Jesse Johnson,12
+Tucker,10,Governor,,MTN,Jesse Johnson,2
+Tucker,12,Governor,,MTN,Jesse Johnson,11
+Tucker,14,Governor,,MTN,Jesse Johnson,6
+Tucker,15,Governor,,MTN,Jesse Johnson,13
+Tucker,16,Governor,,MTN,Jesse Johnson,12
+Tucker,24,Governor,,MTN,Jesse Johnson,1
+Tucker,1,Secretary of State,,DEM,Natalie E. Tennant,89
+Tucker,2,Secretary of State,,DEM,Natalie E. Tennant,273
+Tucker,3,Secretary of State,,DEM,Natalie E. Tennant,195
+Tucker,4,Secretary of State,,DEM,Natalie E. Tennant,138
+Tucker,5,Secretary of State,,DEM,Natalie E. Tennant,238
+Tucker,10,Secretary of State,,DEM,Natalie E. Tennant,74
+Tucker,12,Secretary of State,,DEM,Natalie E. Tennant,191
+Tucker,14,Secretary of State,,DEM,Natalie E. Tennant,63
+Tucker,15,Secretary of State,,DEM,Natalie E. Tennant,202
+Tucker,16,Secretary of State,,DEM,Natalie E. Tennant,203
+Tucker,24,Secretary of State,,DEM,Natalie E. Tennant,178
+Tucker,1,Secretary of State,,REP,Brian Savilla,56
+Tucker,2,Secretary of State,,REP,Brian Savilla,145
+Tucker,3,Secretary of State,,REP,Brian Savilla,116
+Tucker,4,Secretary of State,,REP,Brian Savilla,79
+Tucker,5,Secretary of State,,REP,Brian Savilla,164
+Tucker,10,Secretary of State,,REP,Brian Savilla,59
+Tucker,12,Secretary of State,,REP,Brian Savilla,80
+Tucker,14,Secretary of State,,REP,Brian Savilla,57
+Tucker,15,Secretary of State,,REP,Brian Savilla,106
+Tucker,16,Secretary of State,,REP,Brian Savilla,116
+Tucker,24,Secretary of State,,REP,Brian Savilla,105
+Tucker,1,State Auditor,,DEM,Glen B. Gainer III,82
+Tucker,2,State Auditor,,DEM,Glen B. Gainer III,246
+Tucker,3,State Auditor,,DEM,Glen B. Gainer III,197
+Tucker,4,State Auditor,,DEM,Glen B. Gainer III,118
+Tucker,5,State Auditor,,DEM,Glen B. Gainer III,225
+Tucker,10,State Auditor,,DEM,Glen B. Gainer III,76
+Tucker,12,State Auditor,,DEM,Glen B. Gainer III,181
+Tucker,14,State Auditor,,DEM,Glen B. Gainer III,57
+Tucker,15,State Auditor,,DEM,Glen B. Gainer III,160
+Tucker,16,State Auditor,,DEM,Glen B. Gainer III,185
+Tucker,24,State Auditor,,DEM,Glen B. Gainer III,150
+Tucker,1,State Auditor,,REP,Larry V. Faircloth,64
+Tucker,2,State Auditor,,REP,Larry V. Faircloth,159
+Tucker,3,State Auditor,,REP,Larry V. Faircloth,116
+Tucker,4,State Auditor,,REP,Larry V. Faircloth,87
+Tucker,5,State Auditor,,REP,Larry V. Faircloth,177
+Tucker,10,State Auditor,,REP,Larry V. Faircloth,56
+Tucker,12,State Auditor,,REP,Larry V. Faircloth,83
+Tucker,14,State Auditor,,REP,Larry V. Faircloth,56
+Tucker,15,State Auditor,,REP,Larry V. Faircloth,135
+Tucker,16,State Auditor,,REP,Larry V. Faircloth,133
+Tucker,24,State Auditor,,REP,Larry V. Faircloth,124
+Tucker,1,State Treasurer,,DEM,John D. Perdue,81
+Tucker,2,State Treasurer,,DEM,John D. Perdue,244
+Tucker,3,State Treasurer,,DEM,John D. Perdue,200
+Tucker,4,State Treasurer,,DEM,John D. Perdue,123
+Tucker,5,State Treasurer,,DEM,John D. Perdue,209
+Tucker,10,State Treasurer,,DEM,John D. Perdue,76
+Tucker,12,State Treasurer,,DEM,John D. Perdue,178
+Tucker,14,State Treasurer,,DEM,John D. Perdue,60
+Tucker,15,State Treasurer,,DEM,John D. Perdue,158
+Tucker,16,State Treasurer,,DEM,John D. Perdue,172
+Tucker,24,State Treasurer,,DEM,John D. Perdue,160
+Tucker,1,State Treasurer,,REP,Mike Hall,63
+Tucker,2,State Treasurer,,REP,Mike Hall,162
+Tucker,3,State Treasurer,,REP,Mike Hall,114
+Tucker,4,State Treasurer,,REP,Mike Hall,84
+Tucker,5,State Treasurer,,REP,Mike Hall,189
+Tucker,10,State Treasurer,,REP,Mike Hall,55
+Tucker,12,State Treasurer,,REP,Mike Hall,83
+Tucker,14,State Treasurer,,REP,Mike Hall,56
+Tucker,15,State Treasurer,,REP,Mike Hall,132
+Tucker,16,State Treasurer,,REP,Mike Hall,141
+Tucker,24,State Treasurer,,REP,Mike Hall,110
+Tucker,1,Commissioner of Agriculture,,DEM,Walt Helmick,94
+Tucker,2,Commissioner of Agriculture,,DEM,Walt Helmick,277
+Tucker,3,Commissioner of Agriculture,,DEM,Walt Helmick,221
+Tucker,4,Commissioner of Agriculture,,DEM,Walt Helmick,138
+Tucker,5,Commissioner of Agriculture,,DEM,Walt Helmick,239
+Tucker,10,Commissioner of Agriculture,,DEM,Walt Helmick,69
+Tucker,12,Commissioner of Agriculture,,DEM,Walt Helmick,165
+Tucker,14,Commissioner of Agriculture,,DEM,Walt Helmick,57
+Tucker,15,Commissioner of Agriculture,,DEM,Walt Helmick,180
+Tucker,16,Commissioner of Agriculture,,DEM,Walt Helmick,206
+Tucker,24,Commissioner of Agriculture,,DEM,Walt Helmick,174
+Tucker,1,Commissioner of Agriculture,,REP,Kent Leonhardt,50
+Tucker,2,Commissioner of Agriculture,,REP,Kent Leonhardt,144
+Tucker,3,Commissioner of Agriculture,,REP,Kent Leonhardt,89
+Tucker,4,Commissioner of Agriculture,,REP,Kent Leonhardt,72
+Tucker,5,Commissioner of Agriculture,,REP,Kent Leonhardt,170
+Tucker,10,Commissioner of Agriculture,,REP,Kent Leonhardt,68
+Tucker,12,Commissioner of Agriculture,,REP,Kent Leonhardt,99
+Tucker,14,Commissioner of Agriculture,,REP,Kent Leonhardt,61
+Tucker,15,Commissioner of Agriculture,,REP,Kent Leonhardt,122
+Tucker,16,Commissioner of Agriculture,,REP,Kent Leonhardt,108
+Tucker,24,Commissioner of Agriculture,,REP,Kent Leonhardt,115
+Tucker,1,Attorney General,,DEM,Darrell V. McGraw Jr.,69
+Tucker,2,Attorney General,,DEM,Darrell V. McGraw Jr.,208
+Tucker,3,Attorney General,,DEM,Darrell V. McGraw Jr.,142
+Tucker,4,Attorney General,,DEM,Darrell V. McGraw Jr.,102
+Tucker,5,Attorney General,,DEM,Darrell V. McGraw Jr.,187
+Tucker,10,Attorney General,,DEM,Darrell V. McGraw Jr.,61
+Tucker,12,Attorney General,,DEM,Darrell V. McGraw Jr.,151
+Tucker,14,Attorney General,,DEM,Darrell V. McGraw Jr.,52
+Tucker,15,Attorney General,,DEM,Darrell V. McGraw Jr.,148
+Tucker,16,Attorney General,,DEM,Darrell V. McGraw Jr.,147
+Tucker,24,Attorney General,,DEM,Darrell V. McGraw Jr.,145
+Tucker,1,Attorney General,,REP,Patrick Morrisey,80
+Tucker,2,Attorney General,,REP,Patrick Morrisey,217
+Tucker,3,Attorney General,,REP,Patrick Morrisey,176
+Tucker,4,Attorney General,,REP,Patrick Morrisey,124
+Tucker,5,Attorney General,,REP,Patrick Morrisey,229
+Tucker,10,Attorney General,,REP,Patrick Morrisey,74
+Tucker,12,Attorney General,,REP,Patrick Morrisey,123
+Tucker,14,Attorney General,,REP,Patrick Morrisey,69
+Tucker,15,Attorney General,,REP,Patrick Morrisey,155
+Tucker,16,Attorney General,,REP,Patrick Morrisey,176
+Tucker,24,Attorney General,,REP,Patrick Morrisey,153
+Tucker,1,State Senate,14,DEM,Bob Williams,100
+Tucker,2,State Senate,14,DEM,Bob Williams,308
+Tucker,3,State Senate,14,DEM,Bob Williams,219
+Tucker,4,State Senate,14,DEM,Bob Williams,138
+Tucker,5,State Senate,14,DEM,Bob Williams,274
+Tucker,10,State Senate,14,DEM,Bob Williams,92
+Tucker,12,State Senate,14,DEM,Bob Williams,211
+Tucker,14,State Senate,14,DEM,Bob Williams,68
+Tucker,15,State Senate,14,DEM,Bob Williams,204
+Tucker,16,State Senate,14,DEM,Bob Williams,241
+Tucker,24,State Senate,14,DEM,Bob Williams,198
+Tucker,1,State House,53,DEM,Stan Shaver,79
+Tucker,2,State House,53,DEM,Stan Shaver,221
+Tucker,3,State House,47,DEM,Mary M. Poling,150
+Tucker,4,State House,47,DEM,Mary M. Poling,106
+Tucker,5,State House,47,DEM,Mary M. Poling,197
+Tucker,10,State House,47,DEM,Mary M. Poling,64
+Tucker,12,State House,53,DEM,Stan Shaver,149
+Tucker,14,State House,53,DEM,Stan Shaver,47
+Tucker,15,State House,53,DEM,Stan Shaver,161
+Tucker,16,State House,53,DEM,Stan Shaver,166
+Tucker,24,State House,53,DEM,Stan Shaver,147
+Tucker,1,State House,53,REP,Randy E. Smith,71
+Tucker,2,State House,53,REP,Randy E. Smith,209
+Tucker,3,State House,47,REP,John R. Rose Sr.,147
+Tucker,4,State House,47,REP,John R. Rose Sr.,103
+Tucker,5,State House,47,REP,John R. Rose Sr.,193
+Tucker,10,State House,47,REP,John R. Rose Sr.,66
+Tucker,12,State House,53,REP,Randy E. Smith,125
+Tucker,14,State House,53,REP,Randy E. Smith,75
+Tucker,15,State House,53,REP,Randy E. Smith,145
+Tucker,16,State House,53,REP,Randy E. Smith,167
+Tucker,24,State House,53,REP,Randy E. Smith,154
+Tucker,2,Registered Voters,,,,741
+Tucker,2,Ballots Cast,,,,461
+Tucker,2,Straight Party,,,Republican,39
+Tucker,2,Straight Party,,,Democratic,48
+Tucker,2,Straight Party,,,Mountain,3
+Tucker,2,Straight Party,,,Libertarian,1
+Tucker,3,Registered Voters,,,,579
+Tucker,3,Ballots Cast,,,,346
+Tucker,3,Straight Party,,,Republican,27
+Tucker,3,Straight Party,,,Democratic,31
+Tucker,3,Straight Party,,,Mountain,0
+Tucker,3,Straight Party,,,Libertarian,1
+Tucker,4,Registered Voters,,,,428
+Tucker,4,Ballots Cast,,,,246
+Tucker,4,Straight Party,,,Republican,17
+Tucker,4,Straight Party,,,Democratic,19
+Tucker,4,Straight Party,,,Mountain,2
+Tucker,4,Straight Party,,,Libertarian,2
+Tucker,5,Registered Voters,,,,723
+Tucker,5,Ballots Cast,,,,449
+Tucker,5,Straight Party,,,Republican,36
+Tucker,5,Straight Party,,,Democratic,25
+Tucker,5,Straight Party,,,Mountain,0
+Tucker,5,Straight Party,,,Libertarian,2
+Tucker,10,Registered Voters,,,,268
+Tucker,10,Ballots Cast,,,,147
+Tucker,10,Straight Party,,,Republican,14
+Tucker,10,Straight Party,,,Democratic,17
+Tucker,10,Straight Party,,,Mountain,1
+Tucker,10,Straight Party,,,Libertarian,1
+Tucker,12,Registered Voters,,,,518
+Tucker,12,Ballots Cast,,,,294
+Tucker,12,Straight Party,,,Republican,24
+Tucker,12,Straight Party,,,Democratic,30
+Tucker,12,Straight Party,,,Mountain,0
+Tucker,12,Straight Party,,,Libertarian,3
+Tucker,14,Registered Voters,,,,213
+Tucker,14,Ballots Cast,,,,138
+Tucker,14,Straight Party,,,Republican,15
+Tucker,14,Straight Party,,,Democratic,14
+Tucker,14,Straight Party,,,Mountain,0
+Tucker,14,Straight Party,,,Libertarian,2
+Tucker,15,Registered Voters,,,,464
+Tucker,15,Ballots Cast,,,,331
+Tucker,15,Straight Party,,,Republican,33
+Tucker,15,Straight Party,,,Democratic,36
+Tucker,15,Straight Party,,,Mountain,0
+Tucker,15,Straight Party,,,Libertarian,1
+Tucker,16,Registered Voters,,,,622
+Tucker,16,Ballots Cast,,,,345
+Tucker,16,Straight Party,,,Republican,39
+Tucker,16,Straight Party,,,Democratic,32
+Tucker,16,Straight Party,,,Mountain,2
+Tucker,16,Straight Party,,,Libertarian,2
+Tucker,24,Registered Voters,,,,508
+Tucker,24,Ballots Cast,,,,325
+Tucker,24,Straight Party,,,Republican,32
+Tucker,24,Straight Party,,,Democratic,24
+Tucker,24,Straight Party,,,Mountain,2
+Tucker,24,Straight Party,,,Libertarian,2
