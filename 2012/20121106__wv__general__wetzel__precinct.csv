@@ -1,0 +1,617 @@
+county,precinct,office,district,party,candidate,votes
+Wetzel,4,President,,DEM,Barack Obama,95
+Wetzel,5,President,,DEM,Barack Obama,26
+Wetzel,10,President,,DEM,Barack Obama,153
+Wetzel,15,President,,DEM,Barack Obama,42
+Wetzel,16,President,,DEM,Barack Obama,90
+Wetzel,18,President,,DEM,Barack Obama,27
+Wetzel,21,President,,DEM,Barack Obama,160
+Wetzel,24,President,,DEM,Barack Obama,56
+Wetzel,27,President,,DEM,Barack Obama,41
+Wetzel,29,President,,DEM,Barack Obama,85
+Wetzel,33,President,,DEM,Barack Obama,117
+Wetzel,36,President,,DEM,Barack Obama,77
+Wetzel,38,President,,DEM,Barack Obama,112
+Wetzel,39,President,,DEM,Barack Obama,107
+Wetzel,40,President,,DEM,Barack Obama,69
+Wetzel,42,President,,DEM,Barack Obama,166
+Wetzel,43,President,,DEM,Barack Obama,187
+Wetzel,44,President,,DEM,Barack Obama,146
+Wetzel,45,President,,DEM,Barack Obama,33
+Wetzel,46,President,,DEM,Barack Obama,109
+Wetzel,48,President,,DEM,Barack Obama,154
+Wetzel,50,President,,DEM,Barack Obama,165
+Wetzel,4,President,,REP,Mitt Romney,139
+Wetzel,5,President,,REP,Mitt Romney,69
+Wetzel,10,President,,REP,Mitt Romney,247
+Wetzel,15,President,,REP,Mitt Romney,91
+Wetzel,16,President,,REP,Mitt Romney,166
+Wetzel,18,President,,REP,Mitt Romney,64
+Wetzel,21,President,,REP,Mitt Romney,203
+Wetzel,24,President,,REP,Mitt Romney,70
+Wetzel,27,President,,REP,Mitt Romney,57
+Wetzel,29,President,,REP,Mitt Romney,122
+Wetzel,33,President,,REP,Mitt Romney,176
+Wetzel,36,President,,REP,Mitt Romney,79
+Wetzel,38,President,,REP,Mitt Romney,198
+Wetzel,39,President,,REP,Mitt Romney,253
+Wetzel,40,President,,REP,Mitt Romney,104
+Wetzel,42,President,,REP,Mitt Romney,269
+Wetzel,43,President,,REP,Mitt Romney,328
+Wetzel,44,President,,REP,Mitt Romney,181
+Wetzel,45,President,,REP,Mitt Romney,35
+Wetzel,46,President,,REP,Mitt Romney,158
+Wetzel,48,President,,REP,Mitt Romney,205
+Wetzel,50,President,,REP,Mitt Romney,259
+Wetzel,4,President,,LIB,Gary Johnson,3
+Wetzel,5,President,,LIB,Gary Johnson,1
+Wetzel,10,President,,LIB,Gary Johnson,3
+Wetzel,15,President,,LIB,Gary Johnson,3
+Wetzel,16,President,,LIB,Gary Johnson,4
+Wetzel,18,President,,LIB,Gary Johnson,1
+Wetzel,21,President,,LIB,Gary Johnson,5
+Wetzel,24,President,,LIB,Gary Johnson,1
+Wetzel,27,President,,LIB,Gary Johnson,0
+Wetzel,29,President,,LIB,Gary Johnson,1
+Wetzel,33,President,,LIB,Gary Johnson,7
+Wetzel,36,President,,LIB,Gary Johnson,6
+Wetzel,38,President,,LIB,Gary Johnson,1
+Wetzel,39,President,,LIB,Gary Johnson,6
+Wetzel,40,President,,LIB,Gary Johnson,1
+Wetzel,42,President,,LIB,Gary Johnson,3
+Wetzel,43,President,,LIB,Gary Johnson,2
+Wetzel,44,President,,LIB,Gary Johnson,2
+Wetzel,45,President,,LIB,Gary Johnson,0
+Wetzel,46,President,,LIB,Gary Johnson,5
+Wetzel,48,President,,LIB,Gary Johnson,3
+Wetzel,50,President,,LIB,Gary Johnson,7
+Wetzel,4,President,,MTN,Jill Stein,4
+Wetzel,5,President,,MTN,Jill Stein,1
+Wetzel,10,President,,MTN,Jill Stein,3
+Wetzel,15,President,,MTN,Jill Stein,0
+Wetzel,16,President,,MTN,Jill Stein,2
+Wetzel,18,President,,MTN,Jill Stein,1
+Wetzel,21,President,,MTN,Jill Stein,6
+Wetzel,24,President,,MTN,Jill Stein,1
+Wetzel,27,President,,MTN,Jill Stein,2
+Wetzel,29,President,,MTN,Jill Stein,3
+Wetzel,33,President,,MTN,Jill Stein,5
+Wetzel,36,President,,MTN,Jill Stein,1
+Wetzel,38,President,,MTN,Jill Stein,2
+Wetzel,39,President,,MTN,Jill Stein,3
+Wetzel,40,President,,MTN,Jill Stein,1
+Wetzel,42,President,,MTN,Jill Stein,4
+Wetzel,43,President,,MTN,Jill Stein,3
+Wetzel,44,President,,MTN,Jill Stein,1
+Wetzel,45,President,,MTN,Jill Stein,0
+Wetzel,46,President,,MTN,Jill Stein,5
+Wetzel,48,President,,MTN,Jill Stein,5
+Wetzel,50,President,,MTN,Jill Stein,4
+Wetzel,4,President,,,Randall Terry,1
+Wetzel,5,President,,,Randall Terry,2
+Wetzel,10,President,,,Randall Terry,2
+Wetzel,15,President,,,Randall Terry,0
+Wetzel,16,President,,,Randall Terry,2
+Wetzel,18,President,,,Randall Terry,1
+Wetzel,21,President,,,Randall Terry,2
+Wetzel,24,President,,,Randall Terry,0
+Wetzel,27,President,,,Randall Terry,0
+Wetzel,29,President,,,Randall Terry,2
+Wetzel,33,President,,,Randall Terry,0
+Wetzel,36,President,,,Randall Terry,0
+Wetzel,38,President,,,Randall Terry,4
+Wetzel,39,President,,,Randall Terry,4
+Wetzel,40,President,,,Randall Terry,8
+Wetzel,42,President,,,Randall Terry,4
+Wetzel,43,President,,,Randall Terry,2
+Wetzel,44,President,,,Randall Terry,4
+Wetzel,45,President,,,Randall Terry,0
+Wetzel,46,President,,,Randall Terry,3
+Wetzel,48,President,,,Randall Terry,0
+Wetzel,50,President,,,Randall Terry,3
+Wetzel,4,U.S. Senate,,DEM,Joe Manchin III,154
+Wetzel,5,U.S. Senate,,DEM,Joe Manchin III,47
+Wetzel,10,U.S. Senate,,DEM,Joe Manchin III,240
+Wetzel,15,U.S. Senate,,DEM,Joe Manchin III,90
+Wetzel,16,U.S. Senate,,DEM,Joe Manchin III,181
+Wetzel,18,U.S. Senate,,DEM,Joe Manchin III,49
+Wetzel,21,U.S. Senate,,DEM,Joe Manchin III,277
+Wetzel,24,U.S. Senate,,DEM,Joe Manchin III,87
+Wetzel,27,U.S. Senate,,DEM,Joe Manchin III,64
+Wetzel,29,U.S. Senate,,DEM,Joe Manchin III,140
+Wetzel,33,U.S. Senate,,DEM,Joe Manchin III,197
+Wetzel,36,U.S. Senate,,DEM,Joe Manchin III,121
+Wetzel,38,U.S. Senate,,DEM,Joe Manchin III,216
+Wetzel,39,U.S. Senate,,DEM,Joe Manchin III,219
+Wetzel,40,U.S. Senate,,DEM,Joe Manchin III,125
+Wetzel,42,U.S. Senate,,DEM,Joe Manchin III,304
+Wetzel,43,U.S. Senate,,DEM,Joe Manchin III,323
+Wetzel,44,U.S. Senate,,DEM,Joe Manchin III,233
+Wetzel,45,U.S. Senate,,DEM,Joe Manchin III,50
+Wetzel,46,U.S. Senate,,DEM,Joe Manchin III,193
+Wetzel,48,U.S. Senate,,DEM,Joe Manchin III,252
+Wetzel,50,U.S. Senate,,DEM,Joe Manchin III,304
+Wetzel,4,U.S. Senate,,REP,John R. Raese,79
+Wetzel,5,U.S. Senate,,REP,John R. Raese,44
+Wetzel,10,U.S. Senate,,REP,John R. Raese,170
+Wetzel,15,U.S. Senate,,REP,John R. Raese,41
+Wetzel,16,U.S. Senate,,REP,John R. Raese,74
+Wetzel,18,U.S. Senate,,REP,John R. Raese,41
+Wetzel,21,U.S. Senate,,REP,John R. Raese,85
+Wetzel,24,U.S. Senate,,REP,John R. Raese,33
+Wetzel,27,U.S. Senate,,REP,John R. Raese,33
+Wetzel,29,U.S. Senate,,REP,John R. Raese,62
+Wetzel,33,U.S. Senate,,REP,John R. Raese,94
+Wetzel,36,U.S. Senate,,REP,John R. Raese,38
+Wetzel,38,U.S. Senate,,REP,John R. Raese,97
+Wetzel,39,U.S. Senate,,REP,John R. Raese,130
+Wetzel,40,U.S. Senate,,REP,John R. Raese,50
+Wetzel,42,U.S. Senate,,REP,John R. Raese,127
+Wetzel,43,U.S. Senate,,REP,John R. Raese,174
+Wetzel,44,U.S. Senate,,REP,John R. Raese,94
+Wetzel,45,U.S. Senate,,REP,John R. Raese,15
+Wetzel,46,U.S. Senate,,REP,John R. Raese,73
+Wetzel,48,U.S. Senate,,REP,John R. Raese,109
+Wetzel,50,U.S. Senate,,REP,John R. Raese,121
+Wetzel,4,U.S. Senate,,MTN,Bob Henry Baber,11
+Wetzel,5,U.S. Senate,,MTN,Bob Henry Baber,5
+Wetzel,10,U.S. Senate,,MTN,Bob Henry Baber,10
+Wetzel,15,U.S. Senate,,MTN,Bob Henry Baber,6
+Wetzel,16,U.S. Senate,,MTN,Bob Henry Baber,3
+Wetzel,18,U.S. Senate,,MTN,Bob Henry Baber,2
+Wetzel,21,U.S. Senate,,MTN,Bob Henry Baber,3
+Wetzel,24,U.S. Senate,,MTN,Bob Henry Baber,4
+Wetzel,27,U.S. Senate,,MTN,Bob Henry Baber,2
+Wetzel,29,U.S. Senate,,MTN,Bob Henry Baber,8
+Wetzel,33,U.S. Senate,,MTN,Bob Henry Baber,11
+Wetzel,36,U.S. Senate,,MTN,Bob Henry Baber,7
+Wetzel,38,U.S. Senate,,MTN,Bob Henry Baber,5
+Wetzel,39,U.S. Senate,,MTN,Bob Henry Baber,10
+Wetzel,40,U.S. Senate,,MTN,Bob Henry Baber,4
+Wetzel,42,U.S. Senate,,MTN,Bob Henry Baber,7
+Wetzel,43,U.S. Senate,,MTN,Bob Henry Baber,10
+Wetzel,44,U.S. Senate,,MTN,Bob Henry Baber,2
+Wetzel,45,U.S. Senate,,MTN,Bob Henry Baber,1
+Wetzel,46,U.S. Senate,,MTN,Bob Henry Baber,8
+Wetzel,48,U.S. Senate,,MTN,Bob Henry Baber,8
+Wetzel,50,U.S. Senate,,MTN,Bob Henry Baber,8
+Wetzel,4,U.S. House,1,DEM,Sue Thorn,109
+Wetzel,5,U.S. House,1,DEM,Sue Thorn,32
+Wetzel,10,U.S. House,1,DEM,Sue Thorn,159
+Wetzel,15,U.S. House,1,DEM,Sue Thorn,47
+Wetzel,16,U.S. House,1,DEM,Sue Thorn,112
+Wetzel,18,U.S. House,1,DEM,Sue Thorn,21
+Wetzel,21,U.S. House,1,DEM,Sue Thorn,157
+Wetzel,24,U.S. House,1,DEM,Sue Thorn,54
+Wetzel,27,U.S. House,1,DEM,Sue Thorn,48
+Wetzel,29,U.S. House,1,DEM,Sue Thorn,102
+Wetzel,33,U.S. House,1,DEM,Sue Thorn,111
+Wetzel,36,U.S. House,1,DEM,Sue Thorn,62
+Wetzel,38,U.S. House,1,DEM,Sue Thorn,113
+Wetzel,39,U.S. House,1,DEM,Sue Thorn,100
+Wetzel,40,U.S. House,1,DEM,Sue Thorn,68
+Wetzel,42,U.S. House,1,DEM,Sue Thorn,167
+Wetzel,43,U.S. House,1,DEM,Sue Thorn,163
+Wetzel,44,U.S. House,1,DEM,Sue Thorn,132
+Wetzel,45,U.S. House,1,DEM,Sue Thorn,31
+Wetzel,46,U.S. House,1,DEM,Sue Thorn,112
+Wetzel,48,U.S. House,1,DEM,Sue Thorn,136
+Wetzel,50,U.S. House,1,DEM,Sue Thorn,155
+Wetzel,4,U.S. House,1,REP,David B. McKinley,130
+Wetzel,5,U.S. House,1,REP,David B. McKinley,63
+Wetzel,10,U.S. House,1,REP,David B. McKinley,235
+Wetzel,15,U.S. House,1,REP,David B. McKinley,86
+Wetzel,16,U.S. House,1,REP,David B. McKinley,131
+Wetzel,18,U.S. House,1,REP,David B. McKinley,64
+Wetzel,21,U.S. House,1,REP,David B. McKinley,189
+Wetzel,24,U.S. House,1,REP,David B. McKinley,70
+Wetzel,27,U.S. House,1,REP,David B. McKinley,47
+Wetzel,29,U.S. House,1,REP,David B. McKinley,103
+Wetzel,33,U.S. House,1,REP,David B. McKinley,187
+Wetzel,36,U.S. House,1,REP,David B. McKinley,91
+Wetzel,38,U.S. House,1,REP,David B. McKinley,194
+Wetzel,39,U.S. House,1,REP,David B. McKinley,252
+Wetzel,40,U.S. House,1,REP,David B. McKinley,101
+Wetzel,42,U.S. House,1,REP,David B. McKinley,248
+Wetzel,43,U.S. House,1,REP,David B. McKinley,336
+Wetzel,44,U.S. House,1,REP,David B. McKinley,193
+Wetzel,45,U.S. House,1,REP,David B. McKinley,35
+Wetzel,46,U.S. House,1,REP,David B. McKinley,145
+Wetzel,48,U.S. House,1,REP,David B. McKinley,220
+Wetzel,50,U.S. House,1,REP,David B. McKinley,266
+Wetzel,4,Governor,,DEM,Earl Ray Tomblin,135
+Wetzel,5,Governor,,DEM,Earl Ray Tomblin,41
+Wetzel,10,Governor,,DEM,Earl Ray Tomblin,228
+Wetzel,15,Governor,,DEM,Earl Ray Tomblin,82
+Wetzel,16,Governor,,DEM,Earl Ray Tomblin,145
+Wetzel,18,Governor,,DEM,Earl Ray Tomblin,49
+Wetzel,21,Governor,,DEM,Earl Ray Tomblin,238
+Wetzel,24,Governor,,DEM,Earl Ray Tomblin,80
+Wetzel,27,Governor,,DEM,Earl Ray Tomblin,70
+Wetzel,29,Governor,,DEM,Earl Ray Tomblin,129
+Wetzel,33,Governor,,DEM,Earl Ray Tomblin,162
+Wetzel,36,Governor,,DEM,Earl Ray Tomblin,92
+Wetzel,38,Governor,,DEM,Earl Ray Tomblin,170
+Wetzel,39,Governor,,DEM,Earl Ray Tomblin,171
+Wetzel,40,Governor,,DEM,Earl Ray Tomblin,103
+Wetzel,42,Governor,,DEM,Earl Ray Tomblin,266
+Wetzel,43,Governor,,DEM,Earl Ray Tomblin,265
+Wetzel,44,Governor,,DEM,Earl Ray Tomblin,205
+Wetzel,45,Governor,,DEM,Earl Ray Tomblin,37
+Wetzel,46,Governor,,DEM,Earl Ray Tomblin,170
+Wetzel,48,Governor,,DEM,Earl Ray Tomblin,196
+Wetzel,50,Governor,,DEM,Earl Ray Tomblin,248
+Wetzel,4,Governor,,REP,Bill Maloney,91
+Wetzel,5,Governor,,REP,Bill Maloney,54
+Wetzel,10,Governor,,REP,Bill Maloney,183
+Wetzel,15,Governor,,REP,Bill Maloney,50
+Wetzel,16,Governor,,REP,Bill Maloney,106
+Wetzel,18,Governor,,REP,Bill Maloney,38
+Wetzel,21,Governor,,REP,Bill Maloney,131
+Wetzel,24,Governor,,REP,Bill Maloney,44
+Wetzel,27,Governor,,REP,Bill Maloney,32
+Wetzel,29,Governor,,REP,Bill Maloney,75
+Wetzel,33,Governor,,REP,Bill Maloney,119
+Wetzel,36,Governor,,REP,Bill Maloney,56
+Wetzel,38,Governor,,REP,Bill Maloney,139
+Wetzel,39,Governor,,REP,Bill Maloney,185
+Wetzel,40,Governor,,REP,Bill Maloney,71
+Wetzel,42,Governor,,REP,Bill Maloney,168
+Wetzel,43,Governor,,REP,Bill Maloney,243
+Wetzel,44,Governor,,REP,Bill Maloney,124
+Wetzel,45,Governor,,REP,Bill Maloney,29
+Wetzel,46,Governor,,REP,Bill Maloney,99
+Wetzel,48,Governor,,REP,Bill Maloney,158
+Wetzel,50,Governor,,REP,Bill Maloney,172
+Wetzel,4,Governor,,LIB,David Moran,6
+Wetzel,5,Governor,,LIB,David Moran,1
+Wetzel,10,Governor,,LIB,David Moran,2
+Wetzel,15,Governor,,LIB,David Moran,2
+Wetzel,16,Governor,,LIB,David Moran,2
+Wetzel,18,Governor,,LIB,David Moran,1
+Wetzel,21,Governor,,LIB,David Moran,2
+Wetzel,24,Governor,,LIB,David Moran,1
+Wetzel,27,Governor,,LIB,David Moran,0
+Wetzel,29,Governor,,LIB,David Moran,4
+Wetzel,33,Governor,,LIB,David Moran,8
+Wetzel,36,Governor,,LIB,David Moran,8
+Wetzel,38,Governor,,LIB,David Moran,3
+Wetzel,39,Governor,,LIB,David Moran,3
+Wetzel,40,Governor,,LIB,David Moran,4
+Wetzel,42,Governor,,LIB,David Moran,4
+Wetzel,43,Governor,,LIB,David Moran,4
+Wetzel,44,Governor,,LIB,David Moran,0
+Wetzel,45,Governor,,LIB,David Moran,1
+Wetzel,46,Governor,,LIB,David Moran,4
+Wetzel,48,Governor,,LIB,David Moran,6
+Wetzel,50,Governor,,LIB,David Moran,9
+Wetzel,4,Governor,,MTN,Jesse Johnson,7
+Wetzel,5,Governor,,MTN,Jesse Johnson,3
+Wetzel,10,Governor,,MTN,Jesse Johnson,6
+Wetzel,15,Governor,,MTN,Jesse Johnson,5
+Wetzel,16,Governor,,MTN,Jesse Johnson,7
+Wetzel,18,Governor,,MTN,Jesse Johnson,5
+Wetzel,21,Governor,,MTN,Jesse Johnson,5
+Wetzel,24,Governor,,MTN,Jesse Johnson,2
+Wetzel,27,Governor,,MTN,Jesse Johnson,0
+Wetzel,29,Governor,,MTN,Jesse Johnson,3
+Wetzel,33,Governor,,MTN,Jesse Johnson,12
+Wetzel,36,Governor,,MTN,Jesse Johnson,7
+Wetzel,38,Governor,,MTN,Jesse Johnson,3
+Wetzel,39,Governor,,MTN,Jesse Johnson,5
+Wetzel,40,Governor,,MTN,Jesse Johnson,4
+Wetzel,42,Governor,,MTN,Jesse Johnson,4
+Wetzel,43,Governor,,MTN,Jesse Johnson,7
+Wetzel,44,Governor,,MTN,Jesse Johnson,6
+Wetzel,45,Governor,,MTN,Jesse Johnson,1
+Wetzel,46,Governor,,MTN,Jesse Johnson,4
+Wetzel,48,Governor,,MTN,Jesse Johnson,12
+Wetzel,50,Governor,,MTN,Jesse Johnson,9
+a,4,Secretary of State,,DEM,Natalie E. Tennant,169
+Wetzel,5,Secretary of State,,DEM,Natalie E. Tennant,57
+Wetzel,10,Secretary of State,,DEM,Natalie E. Tennant,270
+Wetzel,15,Secretary of State,,DEM,Natalie E. Tennant,97
+Wetzel,16,Secretary of State,,DEM,Natalie E. Tennant,190
+Wetzel,18,Secretary of State,,DEM,Natalie E. Tennant,54
+Wetzel,21,Secretary of State,,DEM,Natalie E. Tennant,274
+Wetzel,24,Secretary of State,,DEM,Natalie E. Tennant,88
+Wetzel,27,Secretary of State,,DEM,Natalie E. Tennant,72
+Wetzel,29,Secretary of State,,DEM,Natalie E. Tennant,154
+Wetzel,33,Secretary of State,,DEM,Natalie E. Tennant,198
+Wetzel,36,Secretary of State,,DEM,Natalie E. Tennant,123
+Wetzel,38,Secretary of State,,DEM,Natalie E. Tennant,201
+Wetzel,39,Secretary of State,,DEM,Natalie E. Tennant,234
+Wetzel,40,Secretary of State,,DEM,Natalie E. Tennant,126
+Wetzel,42,Secretary of State,,DEM,Natalie E. Tennant,301
+Wetzel,43,Secretary of State,,DEM,Natalie E. Tennant,330
+Wetzel,44,Secretary of State,,DEM,Natalie E. Tennant,237
+Wetzel,45,Secretary of State,,DEM,Natalie E. Tennant,50
+Wetzel,46,Secretary of State,,DEM,Natalie E. Tennant,194
+Wetzel,48,Secretary of State,,DEM,Natalie E. Tennant,262
+Wetzel,50,Secretary of State,,DEM,Natalie E. Tennant,291
+Wetzel,4,Secretary of State,,REP,Brian Savilla,65
+Wetzel,5,Secretary of State,,REP,Brian Savilla,35
+Wetzel,10,Secretary of State,,REP,Brian Savilla,133
+Wetzel,15,Secretary of State,,REP,Brian Savilla,40
+Wetzel,16,Secretary of State,,REP,Brian Savilla,65
+Wetzel,18,Secretary of State,,REP,Brian Savilla,30
+Wetzel,21,Secretary of State,,REP,Brian Savilla,83
+Wetzel,24,Secretary of State,,REP,Brian Savilla,34
+Wetzel,27,Secretary of State,,REP,Brian Savilla,28
+Wetzel,29,Secretary of State,,REP,Brian Savilla,53
+Wetzel,33,Secretary of State,,REP,Brian Savilla,95
+Wetzel,36,Secretary of State,,REP,Brian Savilla,34
+Wetzel,38,Secretary of State,,REP,Brian Savilla,108
+Wetzel,39,Secretary of State,,REP,Brian Savilla,121
+Wetzel,40,Secretary of State,,REP,Brian Savilla,44
+Wetzel,42,Secretary of State,,REP,Brian Savilla,123
+Wetzel,43,Secretary of State,,REP,Brian Savilla,164
+Wetzel,44,Secretary of State,,REP,Brian Savilla,90
+Wetzel,45,Secretary of State,,REP,Brian Savilla,17
+Wetzel,46,Secretary of State,,REP,Brian Savilla,66
+Wetzel,48,Secretary of State,,REP,Brian Savilla,94
+Wetzel,50,Secretary of State,,REP,Brian Savilla,139
+Wetzel,4,State Auditor,,DEM,Glen B. Gainer III,160
+Wetzel,5,State Auditor,,DEM,Glen B. Gainer III,49
+Wetzel,10,State Auditor,,DEM,Glen B. Gainer III,243
+Wetzel,15,State Auditor,,DEM,Glen B. Gainer III,92
+Wetzel,16,State Auditor,,DEM,Glen B. Gainer III,182
+Wetzel,18,State Auditor,,DEM,Glen B. Gainer III,52
+Wetzel,21,State Auditor,,DEM,Glen B. Gainer III,263
+Wetzel,24,State Auditor,,DEM,Glen B. Gainer III,86
+Wetzel,27,State Auditor,,DEM,Glen B. Gainer III,73
+Wetzel,29,State Auditor,,DEM,Glen B. Gainer III,136
+Wetzel,33,State Auditor,,DEM,Glen B. Gainer III,185
+Wetzel,36,State Auditor,,DEM,Glen B. Gainer III,115
+Wetzel,38,State Auditor,,DEM,Glen B. Gainer III,209
+Wetzel,39,State Auditor,,DEM,Glen B. Gainer III,228
+Wetzel,40,State Auditor,,DEM,Glen B. Gainer III,121
+Wetzel,42,State Auditor,,DEM,Glen B. Gainer III,287
+Wetzel,43,State Auditor,,DEM,Glen B. Gainer III,325
+Wetzel,44,State Auditor,,DEM,Glen B. Gainer III,224
+Wetzel,45,State Auditor,,DEM,Glen B. Gainer III,51
+Wetzel,46,State Auditor,,DEM,Glen B. Gainer III,198
+Wetzel,48,State Auditor,,DEM,Glen B. Gainer III,248
+Wetzel,50,State Auditor,,DEM,Glen B. Gainer III,283
+Wetzel,4,State Auditor,,REP,Larry V. Faircloth,73
+Wetzel,5,State Auditor,,REP,Larry V. Faircloth,42
+Wetzel,10,State Auditor,,REP,Larry V. Faircloth,152
+Wetzel,15,State Auditor,,REP,Larry V. Faircloth,47
+Wetzel,16,State Auditor,,REP,Larry V. Faircloth,64
+Wetzel,18,State Auditor,,REP,Larry V. Faircloth,35
+Wetzel,21,State Auditor,,REP,Larry V. Faircloth,87
+Wetzel,24,State Auditor,,REP,Larry V. Faircloth,35
+Wetzel,27,State Auditor,,REP,Larry V. Faircloth,24
+Wetzel,29,State Auditor,,REP,Larry V. Faircloth,69
+Wetzel,33,State Auditor,,REP,Larry V. Faircloth,102
+Wetzel,36,State Auditor,,REP,Larry V. Faircloth,40
+Wetzel,38,State Auditor,,REP,Larry V. Faircloth,100
+Wetzel,39,State Auditor,,REP,Larry V. Faircloth,119
+Wetzel,40,State Auditor,,REP,Larry V. Faircloth,51
+Wetzel,42,State Auditor,,REP,Larry V. Faircloth,129
+Wetzel,43,State Auditor,,REP,Larry V. Faircloth,169
+Wetzel,44,State Auditor,,REP,Larry V. Faircloth,96
+Wetzel,45,State Auditor,,REP,Larry V. Faircloth,15
+Wetzel,46,State Auditor,,REP,Larry V. Faircloth,62
+Wetzel,48,State Auditor,,REP,Larry V. Faircloth,108
+Wetzel,50,State Auditor,,REP,Larry V. Faircloth,141
+Wetzel,4,State Treasurer,,DEM,John D. Perdue,147
+Wetzel,5,State Treasurer,,DEM,John D. Perdue,43
+Wetzel,10,State Treasurer,,DEM,John D. Perdue,237
+Wetzel,15,State Treasurer,,DEM,John D. Perdue,86
+Wetzel,16,State Treasurer,,DEM,John D. Perdue,151
+Wetzel,18,State Treasurer,,DEM,John D. Perdue,51
+Wetzel,21,State Treasurer,,DEM,John D. Perdue,230
+Wetzel,24,State Treasurer,,DEM,John D. Perdue,84
+Wetzel,27,State Treasurer,,DEM,John D. Perdue,63
+Wetzel,29,State Treasurer,,DEM,John D. Perdue,139
+Wetzel,33,State Treasurer,,DEM,John D. Perdue,172
+Wetzel,36,State Treasurer,,DEM,John D. Perdue,108
+Wetzel,38,State Treasurer,,DEM,John D. Perdue,177
+Wetzel,39,State Treasurer,,DEM,John D. Perdue,196
+Wetzel,40,State Treasurer,,DEM,John D. Perdue,110
+Wetzel,42,State Treasurer,,DEM,John D. Perdue,272
+Wetzel,43,State Treasurer,,DEM,John D. Perdue,304
+Wetzel,44,State Treasurer,,DEM,John D. Perdue,211
+Wetzel,45,State Treasurer,,DEM,John D. Perdue,47
+Wetzel,46,State Treasurer,,DEM,John D. Perdue,171
+Wetzel,48,State Treasurer,,DEM,John D. Perdue,215
+Wetzel,50,State Treasurer,,DEM,John D. Perdue,251
+Wetzel,4,State Treasurer,,REP,Mike Hall,84
+Wetzel,5,State Treasurer,,REP,Mike Hall,46
+Wetzel,10,State Treasurer,,REP,Mike Hall,158
+Wetzel,15,State Treasurer,,REP,Mike Hall,50
+Wetzel,16,State Treasurer,,REP,Mike Hall,95
+Wetzel,18,State Treasurer,,REP,Mike Hall,34
+Wetzel,21,State Treasurer,,REP,Mike Hall,109
+Wetzel,24,State Treasurer,,REP,Mike Hall,39
+Wetzel,27,State Treasurer,,REP,Mike Hall,31
+Wetzel,29,State Treasurer,,REP,Mike Hall,66
+Wetzel,33,State Treasurer,,REP,Mike Hall,115
+Wetzel,36,State Treasurer,,REP,Mike Hall,46
+Wetzel,38,State Treasurer,,REP,Mike Hall,129
+Wetzel,39,State Treasurer,,REP,Mike Hall,156
+Wetzel,40,State Treasurer,,REP,Mike Hall,59
+Wetzel,42,State Treasurer,,REP,Mike Hall,151
+Wetzel,43,State Treasurer,,REP,Mike Hall,193
+Wetzel,44,State Treasurer,,REP,Mike Hall,109
+Wetzel,45,State Treasurer,,REP,Mike Hall,20
+Wetzel,46,State Treasurer,,REP,Mike Hall,89
+Wetzel,48,State Treasurer,,REP,Mike Hall,134
+Wetzel,50,State Treasurer,,REP,Mike Hall,169
+Wetzel,4,Commissioner of Agriculture,,DEM,Walt Helmick,122
+Wetzel,5,Commissioner of Agriculture,,DEM,Walt Helmick,31
+Wetzel,10,Commissioner of Agriculture,,DEM,Walt Helmick,168
+Wetzel,15,Commissioner of Agriculture,,DEM,Walt Helmick,69
+Wetzel,16,Commissioner of Agriculture,,DEM,Walt Helmick,131
+Wetzel,18,Commissioner of Agriculture,,DEM,Walt Helmick,39
+Wetzel,21,Commissioner of Agriculture,,DEM,Walt Helmick,187
+Wetzel,24,Commissioner of Agriculture,,DEM,Walt Helmick,69
+Wetzel,27,Commissioner of Agriculture,,DEM,Walt Helmick,60
+Wetzel,29,Commissioner of Agriculture,,DEM,Walt Helmick,118
+Wetzel,33,Commissioner of Agriculture,,DEM,Walt Helmick,147
+Wetzel,36,Commissioner of Agriculture,,DEM,Walt Helmick,92
+Wetzel,38,Commissioner of Agriculture,,DEM,Walt Helmick,154
+Wetzel,39,Commissioner of Agriculture,,DEM,Walt Helmick,153
+Wetzel,40,Commissioner of Agriculture,,DEM,Walt Helmick,97
+Wetzel,42,Commissioner of Agriculture,,DEM,Walt Helmick,224
+Wetzel,43,Commissioner of Agriculture,,DEM,Walt Helmick,241
+Wetzel,44,Commissioner of Agriculture,,DEM,Walt Helmick,179
+Wetzel,45,Commissioner of Agriculture,,DEM,Walt Helmick,45
+Wetzel,46,Commissioner of Agriculture,,DEM,Walt Helmick,163
+Wetzel,48,Commissioner of Agriculture,,DEM,Walt Helmick,200
+Wetzel,50,Commissioner of Agriculture,,DEM,Walt Helmick,228
+Wetzel,4,Commissioner of Agriculture,,REP,Kent Leonhardt,104
+Wetzel,5,Commissioner of Agriculture,,REP,Kent Leonhardt,57
+Wetzel,10,Commissioner of Agriculture,,REP,Kent Leonhardt,220
+Wetzel,15,Commissioner of Agriculture,,REP,Kent Leonhardt,66
+Wetzel,16,Commissioner of Agriculture,,REP,Kent Leonhardt,105
+Wetzel,18,Commissioner of Agriculture,,REP,Kent Leonhardt,41
+Wetzel,21,Commissioner of Agriculture,,REP,Kent Leonhardt,151
+Wetzel,24,Commissioner of Agriculture,,REP,Kent Leonhardt,49
+Wetzel,27,Commissioner of Agriculture,,REP,Kent Leonhardt,35
+Wetzel,29,Commissioner of Agriculture,,REP,Kent Leonhardt,85
+Wetzel,33,Commissioner of Agriculture,,REP,Kent Leonhardt,132
+Wetzel,36,Commissioner of Agriculture,,REP,Kent Leonhardt,56
+Wetzel,38,Commissioner of Agriculture,,REP,Kent Leonhardt,144
+Wetzel,39,Commissioner of Agriculture,,REP,Kent Leonhardt,190
+Wetzel,40,Commissioner of Agriculture,,REP,Kent Leonhardt,69
+Wetzel,42,Commissioner of Agriculture,,REP,Kent Leonhardt,180
+Wetzel,43,Commissioner of Agriculture,,REP,Kent Leonhardt,235
+Wetzel,44,Commissioner of Agriculture,,REP,Kent Leonhardt,134
+Wetzel,45,Commissioner of Agriculture,,REP,Kent Leonhardt,21
+Wetzel,46,Commissioner of Agriculture,,REP,Kent Leonhardt,95
+Wetzel,48,Commissioner of Agriculture,,REP,Kent Leonhardt,140
+Wetzel,50,Commissioner of Agriculture,,REP,Kent Leonhardt,184
+Wetzel,4,Attorney General,,DEM,Darrell V. McGraw Jr.,148
+Wetzel,5,Attorney General,,DEM,Darrell V. McGraw Jr.,42
+Wetzel,10,Attorney General,,DEM,Darrell V. McGraw Jr.,225
+Wetzel,15,Attorney General,,DEM,Darrell V. McGraw Jr.,77
+Wetzel,16,Attorney General,,DEM,Darrell V. McGraw Jr.,142
+Wetzel,18,Attorney General,,DEM,Darrell V. McGraw Jr.,51
+Wetzel,21,Attorney General,,DEM,Darrell V. McGraw Jr.,226
+Wetzel,24,Attorney General,,DEM,Darrell V. McGraw Jr.,76
+Wetzel,27,Attorney General,,DEM,Darrell V. McGraw Jr.,68
+Wetzel,29,Attorney General,,DEM,Darrell V. McGraw Jr.,139
+Wetzel,33,Attorney General,,DEM,Darrell V. McGraw Jr.,158
+Wetzel,36,Attorney General,,DEM,Darrell V. McGraw Jr.,97
+Wetzel,38,Attorney General,,DEM,Darrell V. McGraw Jr.,165
+Wetzel,39,Attorney General,,DEM,Darrell V. McGraw Jr.,164
+Wetzel,40,Attorney General,,DEM,Darrell V. McGraw Jr.,102
+Wetzel,42,Attorney General,,DEM,Darrell V. McGraw Jr.,241
+Wetzel,43,Attorney General,,DEM,Darrell V. McGraw Jr.,247
+Wetzel,44,Attorney General,,DEM,Darrell V. McGraw Jr.,182
+Wetzel,45,Attorney General,,DEM,Darrell V. McGraw Jr.,36
+Wetzel,46,Attorney General,,DEM,Darrell V. McGraw Jr.,156
+Wetzel,48,Attorney General,,DEM,Darrell V. McGraw Jr.,210
+Wetzel,50,Attorney General,,DEM,Darrell V. McGraw Jr.,227
+Wetzel,4,Attorney General,,REP,Patrick Morrisey,94
+Wetzel,5,Attorney General,,REP,Patrick Morrisey,51
+Wetzel,10,Attorney General,,REP,Patrick Morrisey,174
+Wetzel,15,Attorney General,,REP,Patrick Morrisey,62
+Wetzel,16,Attorney General,,REP,Patrick Morrisey,111
+Wetzel,18,Attorney General,,REP,Patrick Morrisey,40
+Wetzel,21,Attorney General,,REP,Patrick Morrisey,130
+Wetzel,24,Attorney General,,REP,Patrick Morrisey,47
+Wetzel,27,Attorney General,,REP,Patrick Morrisey,33
+Wetzel,29,Attorney General,,REP,Patrick Morrisey,68
+Wetzel,33,Attorney General,,REP,Patrick Morrisey,141
+Wetzel,36,Attorney General,,REP,Patrick Morrisey,62
+Wetzel,38,Attorney General,,REP,Patrick Morrisey,146
+Wetzel,39,Attorney General,,REP,Patrick Morrisey,195
+Wetzel,40,Attorney General,,REP,Patrick Morrisey,71
+Wetzel,42,Attorney General,,REP,Patrick Morrisey,191
+Wetzel,43,Attorney General,,REP,Patrick Morrisey,260
+Wetzel,44,Attorney General,,REP,Patrick Morrisey,146
+Wetzel,45,Attorney General,,REP,Patrick Morrisey,31
+Wetzel,46,Attorney General,,REP,Patrick Morrisey,111
+Wetzel,48,Attorney General,,REP,Patrick Morrisey,155
+Wetzel,50,Attorney General,,REP,Patrick Morrisey,200
+Wetzel,4,State Senate,2,DEM,Jeffrey V. Kessler,196
+Wetzel,5,State Senate,2,DEM,Jeffrey V. Kessler,71
+Wetzel,10,State Senate,2,DEM,Jeffrey V. Kessler,313
+Wetzel,15,State Senate,2,DEM,Jeffrey V. Kessler,116
+Wetzel,16,State Senate,2,DEM,Jeffrey V. Kessler,222
+Wetzel,18,State Senate,2,DEM,Jeffrey V. Kessler,70
+Wetzel,21,State Senate,2,DEM,Jeffrey V. Kessler,296
+Wetzel,24,State Senate,2,DEM,Jeffrey V. Kessler,107
+Wetzel,27,State Senate,2,DEM,Jeffrey V. Kessler,79
+Wetzel,29,State Senate,2,DEM,Jeffrey V. Kessler,169
+Wetzel,33,State Senate,2,DEM,Jeffrey V. Kessler,250
+Wetzel,36,State Senate,2,DEM,Jeffrey V. Kessler,138
+Wetzel,38,State Senate,2,DEM,Jeffrey V. Kessler,256
+Wetzel,39,State Senate,2,DEM,Jeffrey V. Kessler,288
+Wetzel,40,State Senate,2,DEM,Jeffrey V. Kessler,147
+Wetzel,42,State Senate,2,DEM,Jeffrey V. Kessler,377
+Wetzel,43,State Senate,2,DEM,Jeffrey V. Kessler,418
+Wetzel,44,State Senate,2,DEM,Jeffrey V. Kessler,279
+Wetzel,45,State Senate,2,DEM,Jeffrey V. Kessler,57
+Wetzel,46,State Senate,2,DEM,Jeffrey V. Kessler,226
+Wetzel,48,State Senate,2,DEM,Jeffrey V. Kessler,311
+Wetzel,50,State Senate,2,DEM,Jeffrey V. Kessler,369
+Wetzel,4,State House,5,DEM,Dave Pethtel,178
+Wetzel,5,State House,5,DEM,Dave Pethtel,65
+Wetzel,10,State House,5,DEM,Dave Pethtel,346
+Wetzel,15,State House,5,DEM,Dave Pethtel,104
+Wetzel,16,State House,5,DEM,Dave Pethtel,178
+Wetzel,18,State House,5,DEM,Dave Pethtel,61
+Wetzel,21,State House,5,DEM,Dave Pethtel,288
+Wetzel,24,State House,5,DEM,Dave Pethtel,100
+Wetzel,27,State House,5,DEM,Dave Pethtel,76
+Wetzel,29,State House,5,DEM,Dave Pethtel,142
+Wetzel,33,State House,5,DEM,Dave Pethtel,222
+Wetzel,36,State House,5,DEM,Dave Pethtel,116
+Wetzel,38,State House,5,DEM,Dave Pethtel,217
+Wetzel,39,State House,5,DEM,Dave Pethtel,261
+Wetzel,40,State House,5,DEM,Dave Pethtel,139
+Wetzel,42,State House,5,DEM,Dave Pethtel,326
+Wetzel,43,State House,5,DEM,Dave Pethtel,375
+Wetzel,44,State House,5,DEM,Dave Pethtel,253
+Wetzel,45,State House,5,DEM,Dave Pethtel,49
+Wetzel,46,State House,5,DEM,Dave Pethtel,210
+Wetzel,48,State House,5,DEM,Dave Pethtel,277
+Wetzel,50,State House,5,DEM,Dave Pethtel,327
+Wetzel,4,State House,5,MTN,Raymond V. Davis III,
+Wetzel,5,State House,5,MTN,Raymond V. Davis III,
+Wetzel,10,State House,5,MTN,Raymond V. Davis III,
+Wetzel,15,State House,5,MTN,Raymond V. Davis III,
+Wetzel,16,State House,5,MTN,Raymond V. Davis III,
+Wetzel,18,State House,5,MTN,Raymond V. Davis III,
+Wetzel,21,State House,5,MTN,Raymond V. Davis III,
+Wetzel,24,State House,5,MTN,Raymond V. Davis III,
+Wetzel,27,State House,5,MTN,Raymond V. Davis III,
+Wetzel,29,State House,5,MTN,Raymond V. Davis III,
+Wetzel,33,State House,5,MTN,Raymond V. Davis III,
+Wetzel,36,State House,5,MTN,Raymond V. Davis III,
+Wetzel,38,State House,5,MTN,Raymond V. Davis III,
+Wetzel,39,State House,5,MTN,Raymond V. Davis III,
+Wetzel,40,State House,5,MTN,Raymond V. Davis III,
+Wetzel,42,State House,5,MTN,Raymond V. Davis III,
+Wetzel,43,State House,5,MTN,Raymond V. Davis III,
+Wetzel,44,State House,5,MTN,Raymond V. Davis III,
+Wetzel,45,State House,5,MTN,Raymond V. Davis III,
+Wetzel,46,State House,5,MTN,Raymond V. Davis III,
+Wetzel,48,State House,5,MTN,Raymond V. Davis III,
+Wetzel,50,State House,5,MTN,Raymond V. Davis III,
+Wetzel,4,State House,5,CON,Denzil W. Sloan,
+Wetzel,5,State House,5,CON,Denzil W. Sloan,
+Wetzel,10,State House,5,CON,Denzil W. Sloan,
+Wetzel,15,State House,5,CON,Denzil W. Sloan,
+Wetzel,16,State House,5,CON,Denzil W. Sloan,
+Wetzel,18,State House,5,CON,Denzil W. Sloan,
+Wetzel,21,State House,5,CON,Denzil W. Sloan,
+Wetzel,24,State House,5,CON,Denzil W. Sloan,
+Wetzel,27,State House,5,CON,Denzil W. Sloan,
+Wetzel,29,State House,5,CON,Denzil W. Sloan,
+Wetzel,33,State House,5,CON,Denzil W. Sloan,
+Wetzel,36,State House,5,CON,Denzil W. Sloan,
+Wetzel,38,State House,5,CON,Denzil W. Sloan,
+Wetzel,39,State House,5,CON,Denzil W. Sloan,
+Wetzel,40,State House,5,CON,Denzil W. Sloan,
+Wetzel,42,State House,5,CON,Denzil W. Sloan,
+Wetzel,43,State House,5,CON,Denzil W. Sloan,
+Wetzel,44,State House,5,CON,Denzil W. Sloan,
+Wetzel,45,State House,5,CON,Denzil W. Sloan,
+Wetzel,46,State House,5,CON,Denzil W. Sloan,
+Wetzel,48,State House,5,CON,Denzil W. Sloan,
+Wetzel,50,State House,5,CON,Denzil W. Sloan,
