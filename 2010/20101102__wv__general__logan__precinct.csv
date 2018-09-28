@@ -1,0 +1,1441 @@
+county,precinct,office,district,Candidate,party,Votes
+Logan,precinct 1,Registered Voters,,,,1189
+Logan,precinct 2,Registered Voters,,,,1312
+Logan,precinct 4,Registered Voters,,,,1181
+Logan,precinct 5,Registered Voters,,,,1329
+Logan,precinct 6,Registered Voters,,,,842
+Logan,precinct 7,Registered Voters,,,,967
+Logan,precinct 8,Registered Voters,,,,709
+Logan,precinct 10,Registered Voters,,,,379
+Logan,precinct 11,Registered Voters,,,,504
+Logan,precinct 13,Registered Voters,,,,447
+Logan,precinct 14,Registered Voters,,,,277
+Logan,precinct 15,Registered Voters,,,,1248
+Logan,precinct 20,Registered Voters,,,,1196
+Logan,precinct 21,Registered Voters,,,,656
+Logan,precinct 22,Registered Voters,,,,540
+Logan,precinct 25,Registered Voters,,,,1059
+Logan,precinct 26,Registered Voters,,,,778
+Logan,precinct 27,Registered Voters,,,,1488
+Logan,precinct 28,Registered Voters,,,,355
+Logan,precinct 31,Registered Voters,,,,378
+Logan,precinct 36,Registered Voters,,,,432
+Logan,precinct 37,Registered Voters,,,,402
+Logan,precinct 39,Registered Voters,,,,1026
+Logan,precinct 40,Registered Voters,,,,506
+Logan,precinct 41,Registered Voters,,,,699
+Logan,precinct 43,Registered Voters,,,,796
+Logan,precinct 45,Registered Voters,,,,1143
+Logan,precinct 46,Registered Voters,,,,564
+Logan,precinct 47,Registered Voters,,,,485
+Logan,precinct 49,Registered Voters,,,,1248
+Logan,precinct 50,Registered Voters,,,,807
+Logan,precinct 53,Registered Voters,,,,999
+Logan,precinct 54,Registered Voters,,,,641
+Logan,precinct 55,Registered Voters,,,,587
+Logan,precinct 56,Registered Voters,,,,455
+Logan,Total,Registered Voters,,,,27624
+Logan,precinct 1,Ballots Cast,,,,356
+Logan,precinct 2,Ballots Cast,,,,409
+Logan,precinct 4,Ballots Cast,,,,487
+Logan,precinct 5,Ballots Cast,,,,442
+Logan,precinct 6,Ballots Cast,,,,379
+Logan,precinct 7,Ballots Cast,,,,377
+Logan,precinct 8,Ballots Cast,,,,222
+Logan,precinct 10,Ballots Cast,,,,134
+Logan,precinct 11,Ballots Cast,,,,210
+Logan,precinct 13,Ballots Cast,,,,166
+Logan,precinct 14,Ballots Cast,,,,145
+Logan,precinct 15,Ballots Cast,,,,541
+Logan,precinct 20,Ballots Cast,,,,334
+Logan,precinct 21,Ballots Cast,,,,224
+Logan,precinct 22,Ballots Cast,,,,164
+Logan,precinct 25,Ballots Cast,,,,267
+Logan,precinct 26,Ballots Cast,,,,292
+Logan,precinct 27,Ballots Cast,,,,439
+Logan,precinct 28,Ballots Cast,,,,118
+Logan,precinct 31,Ballots Cast,,,,119
+Logan,precinct 36,Ballots Cast,,,,192
+Logan,precinct 37,Ballots Cast,,,,180
+Logan,precinct 39,Ballots Cast,,,,256
+Logan,precinct 40,Ballots Cast,,,,179
+Logan,precinct 41,Ballots Cast,,,,244
+Logan,precinct 43,Ballots Cast,,,,281
+Logan,precinct 45,Ballots Cast,,,,339
+Logan,precinct 46,Ballots Cast,,,,182
+Logan,precinct 47,Ballots Cast,,,,187
+Logan,precinct 49,Ballots Cast,,,,407
+Logan,precinct 50,Ballots Cast,,,,240
+Logan,precinct 53,Ballots Cast,,,,352
+Logan,precinct 54,Ballots Cast,,,,215
+Logan,precinct 55,Ballots Cast,,,,197
+Logan,precinct 56,Ballots Cast,,,,103
+Logan,Total,Ballots Cast,,,,9379
+Logan,precinct 1,Straight Party,,,Republican,17
+Logan,precinct 2,Straight Party,,,Republican,32
+Logan,precinct 4,Straight Party,,,Republican,39
+Logan,precinct 5,Straight Party,,,Republican,22
+Logan,precinct 6,Straight Party,,,Republican,24
+Logan,precinct 7,Straight Party,,,Republican,22
+Logan,precinct 8,Straight Party,,,Republican,20
+Logan,precinct 10,Straight Party,,,Republican,7
+Logan,precinct 11,Straight Party,,,Republican,11
+Logan,precinct 13,Straight Party,,,Republican,6
+Logan,precinct 14,Straight Party,,,Republican,4
+Logan,precinct 15,Straight Party,,,Republican,22
+Logan,precinct 20,Straight Party,,,Republican,17
+Logan,precinct 21,Straight Party,,,Republican,15
+Logan,precinct 22,Straight Party,,,Republican,10
+Logan,precinct 25,Straight Party,,,Republican,29
+Logan,precinct 26,Straight Party,,,Republican,15
+Logan,precinct 27,Straight Party,,,Republican,32
+Logan,precinct 28,Straight Party,,,Republican,3
+Logan,precinct 31,Straight Party,,,Republican,8
+Logan,precinct 36,Straight Party,,,Republican,7
+Logan,precinct 37,Straight Party,,,Republican,9
+Logan,precinct 39,Straight Party,,,Republican,12
+Logan,precinct 40,Straight Party,,,Republican,11
+Logan,precinct 41,Straight Party,,,Republican,11
+Logan,precinct 43,Straight Party,,,Republican,14
+Logan,precinct 45,Straight Party,,,Republican,13
+Logan,precinct 46,Straight Party,,,Republican,11
+Logan,precinct 47,Straight Party,,,Republican,13
+Logan,precinct 49,Straight Party,,,Republican,25
+Logan,precinct 50,Straight Party,,,Republican,11
+Logan,precinct 53,Straight Party,,,Republican,21
+Logan,precinct 54,Straight Party,,,Republican,10
+Logan,precinct 55,Straight Party,,,Republican,11
+Logan,precinct 56,Straight Party,,,Republican,5
+Logan,Total,Straight Party,,,Republican,539
+Logan,precinct 1,Straight Party,,,Democratic,124
+Logan,precinct 2,Straight Party,,,Democratic,113
+Logan,precinct 4,Straight Party,,,Democratic,57
+Logan,precinct 5,Straight Party,,,Democratic,114
+Logan,precinct 6,Straight Party,,,Democratic,55
+Logan,precinct 7,Straight Party,,,Democratic,68
+Logan,precinct 8,Straight Party,,,Democratic,71
+Logan,precinct 10,Straight Party,,,Democratic,30
+Logan,precinct 11,Straight Party,,,Democratic,29
+Logan,precinct 13,Straight Party,,,Democratic,32
+Logan,precinct 14,Straight Party,,,Democratic,26
+Logan,precinct 15,Straight Party,,,Democratic,78
+Logan,precinct 20,Straight Party,,,Democratic,90
+Logan,precinct 21,Straight Party,,,Democratic,85
+Logan,precinct 22,Straight Party,,,Democratic,70
+Logan,precinct 25,Straight Party,,,Democratic,107
+Logan,precinct 26,Straight Party,,,Democratic,63
+Logan,precinct 27,Straight Party,,,Democratic,115
+Logan,precinct 28,Straight Party,,,Democratic,51
+Logan,precinct 31,Straight Party,,,Democratic,22
+Logan,precinct 36,Straight Party,,,Democratic,33
+Logan,precinct 37,Straight Party,,,Democratic,31
+Logan,precinct 39,Straight Party,,,Democratic,52
+Logan,precinct 40,Straight Party,,,Democratic,63
+Logan,precinct 41,Straight Party,,,Democratic,36
+Logan,precinct 43,Straight Party,,,Democratic,42
+Logan,precinct 45,Straight Party,,,Democratic,72
+Logan,precinct 46,Straight Party,,,Democratic,34
+Logan,precinct 47,Straight Party,,,Democratic,48
+Logan,precinct 49,Straight Party,,,Democratic,79
+Logan,precinct 50,Straight Party,,,Democratic,73
+Logan,precinct 53,Straight Party,,,Democratic,53
+Logan,precinct 54,Straight Party,,,Democratic,70
+Logan,precinct 55,Straight Party,,,Democratic,52
+Logan,precinct 56,Straight Party,,,Democratic,24
+Logan,Total,Straight Party,,,Democratic,2162
+Logan,precinct 1,Straight Party,,,Mountain,1
+Logan,precinct 2,Straight Party,,,Mountain,0
+Logan,precinct 4,Straight Party,,,Mountain,0
+Logan,precinct 5,Straight Party,,,Mountain,0
+Logan,precinct 6,Straight Party,,,Mountain,0
+Logan,precinct 7,Straight Party,,,Mountain,0
+Logan,precinct 8,Straight Party,,,Mountain,0
+Logan,precinct 10,Straight Party,,,Mountain,1
+Logan,precinct 11,Straight Party,,,Mountain,1
+Logan,precinct 13,Straight Party,,,Mountain,0
+Logan,precinct 14,Straight Party,,,Mountain,0
+Logan,precinct 15,Straight Party,,,Mountain,2
+Logan,precinct 20,Straight Party,,,Mountain,3
+Logan,precinct 21,Straight Party,,,Mountain,2
+Logan,precinct 22,Straight Party,,,Mountain,1
+Logan,precinct 25,Straight Party,,,Mountain,0
+Logan,precinct 26,Straight Party,,,Mountain,0
+Logan,precinct 27,Straight Party,,,Mountain,1
+Logan,precinct 28,Straight Party,,,Mountain,0
+Logan,precinct 31,Straight Party,,,Mountain,0
+Logan,precinct 36,Straight Party,,,Mountain,0
+Logan,precinct 37,Straight Party,,,Mountain,0
+Logan,precinct 39,Straight Party,,,Mountain,1
+Logan,precinct 40,Straight Party,,,Mountain,0
+Logan,precinct 41,Straight Party,,,Mountain,2
+Logan,precinct 43,Straight Party,,,Mountain,1
+Logan,precinct 45,Straight Party,,,Mountain,2
+Logan,precinct 46,Straight Party,,,Mountain,1
+Logan,precinct 47,Straight Party,,,Mountain,1
+Logan,precinct 49,Straight Party,,,Mountain,0
+Logan,precinct 50,Straight Party,,,Mountain,0
+Logan,precinct 53,Straight Party,,,Mountain,1
+Logan,precinct 54,Straight Party,,,Mountain,0
+Logan,precinct 55,Straight Party,,,Mountain,0
+Logan,precinct 56,Straight Party,,,Mountain,0
+Logan,Total,Straight Party,,,Mountain,21
+Logan,precinct 1,U.S. Senate,,John R. Raese,,64
+Logan,precinct 2,U.S. Senate,,John R. Raese,,127
+Logan,precinct 4,U.S. Senate,,John R. Raese,,191
+Logan,precinct 5,U.S. Senate,,John R. Raese,,113
+Logan,precinct 6,U.S. Senate,,John R. Raese,,135
+Logan,precinct 7,U.S. Senate,,John R. Raese,,119
+Logan,precinct 8,U.S. Senate,,John R. Raese,,73
+Logan,precinct 10,U.S. Senate,,John R. Raese,,32
+Logan,precinct 11,U.S. Senate,,John R. Raese,,70
+Logan,precinct 13,U.S. Senate,,John R. Raese,,47
+Logan,precinct 14,U.S. Senate,,John R. Raese,,44
+Logan,precinct 15,U.S. Senate,,John R. Raese,,201
+Logan,precinct 20,U.S. Senate,,John R. Raese,,75
+Logan,precinct 21,U.S. Senate,,John R. Raese,,38
+Logan,precinct 22,U.S. Senate,,John R. Raese,,21
+Logan,precinct 25,U.S. Senate,,John R. Raese,,63
+Logan,precinct 26,U.S. Senate,,John R. Raese,,80
+Logan,precinct 27,U.S. Senate,,John R. Raese,,104
+Logan,precinct 28,U.S. Senate,,John R. Raese,,18
+Logan,precinct 31,U.S. Senate,,John R. Raese,,39
+Logan,precinct 36,U.S. Senate,,John R. Raese,,52
+Logan,precinct 37,U.S. Senate,,John R. Raese,,53
+Logan,precinct 39,U.S. Senate,,John R. Raese,,73
+Logan,precinct 40,U.S. Senate,,John R. Raese,,27
+Logan,precinct 41,U.S. Senate,,John R. Raese,,89
+Logan,precinct 43,U.S. Senate,,John R. Raese,,79
+Logan,precinct 45,U.S. Senate,,John R. Raese,,92
+Logan,precinct 46,U.S. Senate,,John R. Raese,,56
+Logan,precinct 47,U.S. Senate,,John R. Raese,,53
+Logan,precinct 49,U.S. Senate,,John R. Raese,,121
+Logan,precinct 50,U.S. Senate,,John R. Raese,,56
+Logan,precinct 53,U.S. Senate,,John R. Raese,,109
+Logan,precinct 54,U.S. Senate,,John R. Raese,,42
+Logan,precinct 55,U.S. Senate,,John R. Raese,,44
+Logan,precinct 56,U.S. Senate,,John R. Raese,,18
+Logan,Total,U.S. Senate,,John R. Raese,,2618
+Logan,precinct 1,U.S. Senate,,Joe Manchin III,,281
+Logan,precinct 2,U.S. Senate,,Joe Manchin III,,265
+Logan,precinct 4,U.S. Senate,,Joe Manchin III,,279
+Logan,precinct 5,U.S. Senate,,Joe Manchin III,,313
+Logan,precinct 6,U.S. Senate,,Joe Manchin III,,224
+Logan,precinct 7,U.S. Senate,,Joe Manchin III,,244
+Logan,precinct 8,U.S. Senate,,Joe Manchin III,,139
+Logan,precinct 10,U.S. Senate,,Joe Manchin III,,94
+Logan,precinct 11,U.S. Senate,,Joe Manchin III,,129
+Logan,precinct 13,U.S. Senate,,Joe Manchin III,,112
+Logan,precinct 14,U.S. Senate,,Joe Manchin III,,94
+Logan,precinct 15,U.S. Senate,,Joe Manchin III,,321
+Logan,precinct 20,U.S. Senate,,Joe Manchin III,,238
+Logan,precinct 21,U.S. Senate,,Joe Manchin III,,175
+Logan,precinct 22,U.S. Senate,,Joe Manchin III,,137
+Logan,precinct 25,U.S. Senate,,Joe Manchin III,,194
+Logan,precinct 26,U.S. Senate,,Joe Manchin III,,197
+Logan,precinct 27,U.S. Senate,,Joe Manchin III,,312
+Logan,precinct 28,U.S. Senate,,Joe Manchin III,,97
+Logan,precinct 31,U.S. Senate,,Joe Manchin III,,71
+Logan,precinct 36,U.S. Senate,,Joe Manchin III,,135
+Logan,precinct 37,U.S. Senate,,Joe Manchin III,,124
+Logan,precinct 39,U.S. Senate,,Joe Manchin III,,168
+Logan,precinct 40,U.S. Senate,,Joe Manchin III,,137
+Logan,precinct 41,U.S. Senate,,Joe Manchin III,,144
+Logan,precinct 43,U.S. Senate,,Joe Manchin III,,193
+Logan,precinct 45,U.S. Senate,,Joe Manchin III,,240
+Logan,precinct 46,U.S. Senate,,Joe Manchin III,,121
+Logan,precinct 47,U.S. Senate,,Joe Manchin III,,128
+Logan,precinct 49,U.S. Senate,,Joe Manchin III,,273
+Logan,precinct 50,U.S. Senate,,Joe Manchin III,,173
+Logan,precinct 53,U.S. Senate,,Joe Manchin III,,224
+Logan,precinct 54,U.S. Senate,,Joe Manchin III,,165
+Logan,precinct 55,U.S. Senate,,Joe Manchin III,,150
+Logan,precinct 56,U.S. Senate,,Joe Manchin III,,82
+Logan,Total,U.S. Senate,,Joe Manchin III,,6373
+Logan,precinct 1,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 2,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 4,U.S. Senate,,Jeff Becker,,3
+Logan,precinct 5,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 6,U.S. Senate,,Jeff Becker,,3
+Logan,precinct 7,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 8,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 10,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 11,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 13,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 14,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 15,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 20,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 21,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 22,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 25,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 26,U.S. Senate,,Jeff Becker,,4
+Logan,precinct 27,U.S. Senate,,Jeff Becker,,3
+Logan,precinct 28,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 31,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 36,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 37,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 39,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 40,U.S. Senate,,Jeff Becker,,2
+Logan,precinct 41,U.S. Senate,,Jeff Becker,,4
+Logan,precinct 43,U.S. Senate,,Jeff Becker,,3
+Logan,precinct 45,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 46,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 47,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 49,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 50,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 53,U.S. Senate,,Jeff Becker,,3
+Logan,precinct 54,U.S. Senate,,Jeff Becker,,1
+Logan,precinct 55,U.S. Senate,,Jeff Becker,,0
+Logan,precinct 56,U.S. Senate,,Jeff Becker,,1
+Logan,Total,U.S. Senate,,Jeff Becker,,50
+Logan,precinct 1,U.S. Senate,,Jesse Johnson,,1
+Logan,precinct 2,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 4,U.S. Senate,,Jesse Johnson,,5
+Logan,precinct 5,U.S. Senate,,Jesse Johnson,,7
+Logan,precinct 6,U.S. Senate,,Jesse Johnson,,10
+Logan,precinct 7,U.S. Senate,,Jesse Johnson,,3
+Logan,precinct 8,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 10,U.S. Senate,,Jesse Johnson,,5
+Logan,precinct 11,U.S. Senate,,Jesse Johnson,,5
+Logan,precinct 13,U.S. Senate,,Jesse Johnson,,0
+Logan,precinct 14,U.S. Senate,,Jesse Johnson,,0
+Logan,precinct 15,U.S. Senate,,Jesse Johnson,,3
+Logan,precinct 20,U.S. Senate,,Jesse Johnson,,7
+Logan,precinct 21,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 22,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 25,U.S. Senate,,Jesse Johnson,,1
+Logan,precinct 26,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 27,U.S. Senate,,Jesse Johnson,,6
+Logan,precinct 28,U.S. Senate,,Jesse Johnson,,0
+Logan,precinct 31,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 36,U.S. Senate,,Jesse Johnson,,1
+Logan,precinct 37,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 39,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 40,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 41,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 43,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 45,U.S. Senate,,Jesse Johnson,,3
+Logan,precinct 46,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 47,U.S. Senate,,Jesse Johnson,,1
+Logan,precinct 49,U.S. Senate,,Jesse Johnson,,5
+Logan,precinct 50,U.S. Senate,,Jesse Johnson,,4
+Logan,precinct 53,U.S. Senate,,Jesse Johnson,,5
+Logan,precinct 54,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 55,U.S. Senate,,Jesse Johnson,,2
+Logan,precinct 56,U.S. Senate,,Jesse Johnson,,1
+Logan,Total,U.S. Senate,,Jesse Johnson,,113
+Logan,precinct 1,U.S. Senate,,Write In,,0
+Logan,precinct 2,U.S. Senate,,Write In,,0
+Logan,precinct 4,U.S. Senate,,Write In,,0
+Logan,precinct 5,U.S. Senate,,Write In,,0
+Logan,precinct 6,U.S. Senate,,Write In,,0
+Logan,precinct 7,U.S. Senate,,Write In,,0
+Logan,precinct 8,U.S. Senate,,Write In,,0
+Logan,precinct 10,U.S. Senate,,Write In,,0
+Logan,precinct 11,U.S. Senate,,Write In,,0
+Logan,precinct 13,U.S. Senate,,Write In,,1
+Logan,precinct 14,U.S. Senate,,Write In,,0
+Logan,precinct 15,U.S. Senate,,Write In,,0
+Logan,precinct 20,U.S. Senate,,Write In,,0
+Logan,precinct 21,U.S. Senate,,Write In,,0
+Logan,precinct 22,U.S. Senate,,Write In,,0
+Logan,precinct 25,U.S. Senate,,Write In,,0
+Logan,precinct 26,U.S. Senate,,Write In,,0
+Logan,precinct 27,U.S. Senate,,Write In,,0
+Logan,precinct 28,U.S. Senate,,Write In,,0
+Logan,precinct 31,U.S. Senate,,Write In,,0
+Logan,precinct 36,U.S. Senate,,Write In,,0
+Logan,precinct 37,U.S. Senate,,Write In,,0
+Logan,precinct 39,U.S. Senate,,Write In,,0
+Logan,precinct 40,U.S. Senate,,Write In,,0
+Logan,precinct 41,U.S. Senate,,Write In,,0
+Logan,precinct 43,U.S. Senate,,Write In,,0
+Logan,precinct 45,U.S. Senate,,Write In,,1
+Logan,precinct 46,U.S. Senate,,Write In,,0
+Logan,precinct 47,U.S. Senate,,Write In,,0
+Logan,precinct 49,U.S. Senate,,Write In,,0
+Logan,precinct 50,U.S. Senate,,Write In,,0
+Logan,precinct 53,U.S. Senate,,Write In,,0
+Logan,precinct 54,U.S. Senate,,Write In,,0
+Logan,precinct 55,U.S. Senate,,Write In,,0
+Logan,precinct 56,U.S. Senate,,Write In,,0
+Logan,Total,U.S. Senate,,Write In,,2
+Logan,precinct 1,U.S. House,3,"Elliott E. ""Spike"" Maynard",,86
+Logan,precinct 2,U.S. House,3,"Elliott E. ""Spike"" Maynard",,158
+Logan,precinct 4,U.S. House,3,"Elliott E. ""Spike"" Maynard",,233
+Logan,precinct 5,U.S. House,3,"Elliott E. ""Spike"" Maynard",,153
+Logan,precinct 6,U.S. House,3,"Elliott E. ""Spike"" Maynard",,169
+Logan,precinct 7,U.S. House,3,"Elliott E. ""Spike"" Maynard",,155
+Logan,precinct 8,U.S. House,3,"Elliott E. ""Spike"" Maynard",,84
+Logan,precinct 10,U.S. House,3,"Elliott E. ""Spike"" Maynard",,50
+Logan,precinct 11,U.S. House,3,"Elliott E. ""Spike"" Maynard",,75
+Logan,precinct 13,U.S. House,3,"Elliott E. ""Spike"" Maynard",,49
+Logan,precinct 14,U.S. House,3,"Elliott E. ""Spike"" Maynard",,61
+Logan,precinct 15,U.S. House,3,"Elliott E. ""Spike"" Maynard",,232
+Logan,precinct 20,U.S. House,3,"Elliott E. ""Spike"" Maynard",,98
+Logan,precinct 21,U.S. House,3,"Elliott E. ""Spike"" Maynard",,61
+Logan,precinct 22,U.S. House,3,"Elliott E. ""Spike"" Maynard",,28
+Logan,precinct 25,U.S. House,3,"Elliott E. ""Spike"" Maynard",,77
+Logan,precinct 26,U.S. House,3,"Elliott E. ""Spike"" Maynard",,80
+Logan,precinct 27,U.S. House,3,"Elliott E. ""Spike"" Maynard",,117
+Logan,precinct 28,U.S. House,3,"Elliott E. ""Spike"" Maynard",,24
+Logan,precinct 31,U.S. House,3,"Elliott E. ""Spike"" Maynard",,39
+Logan,precinct 36,U.S. House,3,"Elliott E. ""Spike"" Maynard",,71
+Logan,precinct 37,U.S. House,3,"Elliott E. ""Spike"" Maynard",,81
+Logan,precinct 39,U.S. House,3,"Elliott E. ""Spike"" Maynard",,99
+Logan,precinct 40,U.S. House,3,"Elliott E. ""Spike"" Maynard",,37
+Logan,precinct 41,U.S. House,3,"Elliott E. ""Spike"" Maynard",,121
+Logan,precinct 43,U.S. House,3,"Elliott E. ""Spike"" Maynard",,121
+Logan,precinct 45,U.S. House,3,"Elliott E. ""Spike"" Maynard",,117
+Logan,precinct 46,U.S. House,3,"Elliott E. ""Spike"" Maynard",,73
+Logan,precinct 47,U.S. House,3,"Elliott E. ""Spike"" Maynard",,69
+Logan,precinct 49,U.S. House,3,"Elliott E. ""Spike"" Maynard",,189
+Logan,precinct 50,U.S. House,3,"Elliott E. ""Spike"" Maynard",,78
+Logan,precinct 53,U.S. House,3,"Elliott E. ""Spike"" Maynard",,138
+Logan,precinct 54,U.S. House,3,"Elliott E. ""Spike"" Maynard",,52
+Logan,precinct 55,U.S. House,3,"Elliott E. ""Spike"" Maynard",,53
+Logan,precinct 56,U.S. House,3,"Elliott E. ""Spike"" Maynard",,31
+Logan,Total,U.S. House,3,"Elliott E. ""Spike"" Maynard",,3359
+Logan,precinct 1,U.S. House,3,Nick Joe Rahall II,,250
+Logan,precinct 2,U.S. House,3,Nick Joe Rahall II,,230
+Logan,precinct 4,U.S. House,3,Nick Joe Rahall II,,232
+Logan,precinct 5,U.S. House,3,Nick Joe Rahall II,,267
+Logan,precinct 6,U.S. House,3,Nick Joe Rahall II,,189
+Logan,precinct 7,U.S. House,3,Nick Joe Rahall II,,197
+Logan,precinct 8,U.S. House,3,Nick Joe Rahall II,,125
+Logan,precinct 10,U.S. House,3,Nick Joe Rahall II,,77
+Logan,precinct 11,U.S. House,3,Nick Joe Rahall II,,126
+Logan,precinct 13,U.S. House,3,Nick Joe Rahall II,,107
+Logan,precinct 14,U.S. House,3,Nick Joe Rahall II,,71
+Logan,precinct 15,U.S. House,3,Nick Joe Rahall II,,267
+Logan,precinct 20,U.S. House,3,Nick Joe Rahall II,,224
+Logan,precinct 21,U.S. House,3,Nick Joe Rahall II,,150
+Logan,precinct 22,U.S. House,3,Nick Joe Rahall II,,124
+Logan,precinct 25,U.S. House,3,Nick Joe Rahall II,,181
+Logan,precinct 26,U.S. House,3,Nick Joe Rahall II,,192
+Logan,precinct 27,U.S. House,3,Nick Joe Rahall II,,299
+Logan,precinct 28,U.S. House,3,Nick Joe Rahall II,,90
+Logan,precinct 31,U.S. House,3,Nick Joe Rahall II,,70
+Logan,precinct 36,U.S. House,3,Nick Joe Rahall II,,116
+Logan,precinct 37,U.S. House,3,Nick Joe Rahall II,,92
+Logan,precinct 39,U.S. House,3,Nick Joe Rahall II,,140
+Logan,precinct 40,U.S. House,3,Nick Joe Rahall II,,127
+Logan,precinct 41,U.S. House,3,Nick Joe Rahall II,,115
+Logan,precinct 43,U.S. House,3,Nick Joe Rahall II,,140
+Logan,precinct 45,U.S. House,3,Nick Joe Rahall II,,203
+Logan,precinct 46,U.S. House,3,Nick Joe Rahall II,,95
+Logan,precinct 47,U.S. House,3,Nick Joe Rahall II,,106
+Logan,precinct 49,U.S. House,3,Nick Joe Rahall II,,199
+Logan,precinct 50,U.S. House,3,Nick Joe Rahall II,,153
+Logan,precinct 53,U.S. House,3,Nick Joe Rahall II,,193
+Logan,precinct 54,U.S. House,3,Nick Joe Rahall II,,1521
+Logan,precinct 55,U.S. House,3,Nick Joe Rahall II,,140
+Logan,precinct 56,U.S. House,3,Nick Joe Rahall II,,68
+Logan,Total,U.S. House,3,Nick Joe Rahall II,,5507
+Logan,precinct 1,U.S. House,3,Write In,,1
+Logan,precinct 2,U.S. House,3,Write In,,0
+Logan,precinct 4,U.S. House,3,Write In,,0
+Logan,precinct 5,U.S. House,3,Write In,,2
+Logan,precinct 6,U.S. House,3,Write In,,1
+Logan,precinct 7,U.S. House,3,Write In,,1
+Logan,precinct 8,U.S. House,3,Write In,,0
+Logan,precinct 10,U.S. House,3,Write In,,0
+Logan,precinct 11,U.S. House,3,Write In,,0
+Logan,precinct 13,U.S. House,3,Write In,,0
+Logan,precinct 14,U.S. House,3,Write In,,0
+Logan,precinct 15,U.S. House,3,Write In,,3
+Logan,precinct 20,U.S. House,3,Write In,,2
+Logan,precinct 21,U.S. House,3,Write In,,0
+Logan,precinct 22,U.S. House,3,Write In,,0
+Logan,precinct 25,U.S. House,3,Write In,,0
+Logan,precinct 26,U.S. House,3,Write In,,0
+Logan,precinct 27,U.S. House,3,Write In,,0
+Logan,precinct 28,U.S. House,3,Write In,,0
+Logan,precinct 31,U.S. House,3,Write In,,0
+Logan,precinct 36,U.S. House,3,Write In,,0
+Logan,precinct 37,U.S. House,3,Write In,,0
+Logan,precinct 39,U.S. House,3,Write In,,0
+Logan,precinct 40,U.S. House,3,Write In,,0
+Logan,precinct 41,U.S. House,3,Write In,,0
+Logan,precinct 43,U.S. House,3,Write In,,1
+Logan,precinct 45,U.S. House,3,Write In,,3
+Logan,precinct 46,U.S. House,3,Write In,,1
+Logan,precinct 47,U.S. House,3,Write In,,0
+Logan,precinct 49,U.S. House,3,Write In,,0
+Logan,precinct 50,U.S. House,3,Write In,,0
+Logan,precinct 53,U.S. House,3,Write In,,0
+Logan,precinct 54,U.S. House,3,Write In,,0
+Logan,precinct 55,U.S. House,3,Write In,,2
+Logan,precinct 56,U.S. House,3,Write In,,0
+Logan,Total,U.S. House,3,Write In,,17
+Logan,precinct 1,State Senate,7,Ron Stollings,,255
+Logan,precinct 2,State Senate,7,Ron Stollings,,311
+Logan,precinct 4,State Senate,7,Ron Stollings,,333
+Logan,precinct 5,State Senate,7,Ron Stollings,,321
+Logan,precinct 6,State Senate,7,Ron Stollings,,263
+Logan,precinct 7,State Senate,7,Ron Stollings,,268
+Logan,precinct 8,State Senate,7,Ron Stollings,,170
+Logan,precinct 10,State Senate,7,Ron Stollings,,109
+Logan,precinct 11,State Senate,7,Ron Stollings,,153
+Logan,precinct 13,State Senate,7,Ron Stollings,,117
+Logan,precinct 14,State Senate,7,Ron Stollings,,108
+Logan,precinct 15,State Senate,7,Ron Stollings,,357
+Logan,precinct 20,State Senate,7,Ron Stollings,,226
+Logan,precinct 21,State Senate,7,Ron Stollings,,167
+Logan,precinct 22,State Senate,7,Ron Stollings,,130
+Logan,precinct 25,State Senate,7,Ron Stollings,,207
+Logan,precinct 26,State Senate,7,Ron Stollings,,203
+Logan,precinct 27,State Senate,7,Ron Stollings,,313
+Logan,precinct 28,State Senate,7,Ron Stollings,,84
+Logan,precinct 31,State Senate,7,Ron Stollings,,84
+Logan,precinct 36,State Senate,7,Ron Stollings,,135
+Logan,precinct 37,State Senate,7,Ron Stollings,,128
+Logan,precinct 39,State Senate,7,Ron Stollings,,181
+Logan,precinct 40,State Senate,7,Ron Stollings,,132
+Logan,precinct 41,State Senate,7,Ron Stollings,,163
+Logan,precinct 43,State Senate,7,Ron Stollings,,205
+Logan,precinct 45,State Senate,7,Ron Stollings,,252
+Logan,precinct 46,State Senate,7,Ron Stollings,,122
+Logan,precinct 47,State Senate,7,Ron Stollings,,137
+Logan,precinct 49,State Senate,7,Ron Stollings,,276
+Logan,precinct 50,State Senate,7,Ron Stollings,,179
+Logan,precinct 53,State Senate,7,Ron Stollings,,243
+Logan,precinct 54,State Senate,7,Ron Stollings,,160
+Logan,precinct 55,State Senate,7,Ron Stollings,,147
+Logan,precinct 56,State Senate,7,Ron Stollings,,75
+Logan,Total,State Senate,7,Ron Stollings,,6714
+Logan,precinct 1,State Senate,7,Write In,,1
+Logan,precinct 2,State Senate,7,Write In,,0
+Logan,precinct 4,State Senate,7,Write In,,2
+Logan,precinct 5,State Senate,7,Write In,,3
+Logan,precinct 6,State Senate,7,Write In,,0
+Logan,precinct 7,State Senate,7,Write In,,1
+Logan,precinct 8,State Senate,7,Write In,,0
+Logan,precinct 10,State Senate,7,Write In,,0
+Logan,precinct 11,State Senate,7,Write In,,1
+Logan,precinct 13,State Senate,7,Write In,,0
+Logan,precinct 14,State Senate,7,Write In,,0
+Logan,precinct 15,State Senate,7,Write In,,1
+Logan,precinct 20,State Senate,7,Write In,,1
+Logan,precinct 21,State Senate,7,Write In,,0
+Logan,precinct 22,State Senate,7,Write In,,0
+Logan,precinct 25,State Senate,7,Write In,,0
+Logan,precinct 26,State Senate,7,Write In,,0
+Logan,precinct 27,State Senate,7,Write In,,2
+Logan,precinct 28,State Senate,7,Write In,,0
+Logan,precinct 31,State Senate,7,Write In,,1
+Logan,precinct 36,State Senate,7,Write In,,0
+Logan,precinct 37,State Senate,7,Write In,,1
+Logan,precinct 39,State Senate,7,Write In,,1
+Logan,precinct 40,State Senate,7,Write In,,0
+Logan,precinct 41,State Senate,7,Write In,,0
+Logan,precinct 43,State Senate,7,Write In,,0
+Logan,precinct 45,State Senate,7,Write In,,1
+Logan,precinct 46,State Senate,7,Write In,,1
+Logan,precinct 47,State Senate,7,Write In,,1
+Logan,precinct 49,State Senate,7,Write In,,0
+Logan,precinct 50,State Senate,7,Write In,,0
+Logan,precinct 53,State Senate,7,Write In,,1
+Logan,precinct 54,State Senate,7,Write In,,0
+Logan,precinct 55,State Senate,7,Write In,,1
+Logan,precinct 56,State Senate,7,Write In,,0
+Logan,Total,State Senate,7,Write In,,20
+Logan,precinct 1,House of Delegates,19,Elias Gregory,,30
+Logan,precinct 2,House of Delegates,19,Elias Gregory,,50
+Logan,precinct 4,House of Delegates,19,Elias Gregory,,82
+Logan,precinct 5,House of Delegates,19,Elias Gregory,,47
+Logan,precinct 6,House of Delegates,19,Elias Gregory,,61
+Logan,precinct 7,House of Delegates,19,Elias Gregory,,55
+Logan,precinct 8,House of Delegates,19,Elias Gregory,,35
+Logan,precinct 10,House of Delegates,19,Elias Gregory,,16
+Logan,precinct 11,House of Delegates,19,Elias Gregory,,37
+Logan,precinct 13,House of Delegates,19,Elias Gregory,,17
+Logan,precinct 14,House of Delegates,19,Elias Gregory,,15
+Logan,precinct 15,House of Delegates,19,Elias Gregory,,87
+Logan,precinct 20,House of Delegates,19,Elias Gregory,,24
+Logan,precinct 21,House of Delegates,19,Elias Gregory,,19
+Logan,precinct 22,House of Delegates,19,Elias Gregory,,7
+Logan,precinct 25,House of Delegates,19,Elias Gregory,,32
+Logan,precinct 26,House of Delegates,19,Elias Gregory,,19
+Logan,precinct 27,House of Delegates,19,Elias Gregory,,51
+Logan,precinct 28,House of Delegates,19,Elias Gregory,,6
+Logan,precinct 31,House of Delegates,19,Elias Gregory,,25
+Logan,precinct 36,House of Delegates,19,Elias Gregory,,14
+Logan,precinct 37,House of Delegates,19,Elias Gregory,,23
+Logan,precinct 39,House of Delegates,19,Elias Gregory,,33
+Logan,precinct 40,House of Delegates,19,Elias Gregory,,20
+Logan,precinct 41,House of Delegates,19,Elias Gregory,,31
+Logan,precinct 43,House of Delegates,19,Elias Gregory,,32
+Logan,precinct 45,House of Delegates,19,Elias Gregory,,31
+Logan,precinct 46,House of Delegates,19,Elias Gregory,,28
+Logan,precinct 47,House of Delegates,19,Elias Gregory,,23
+Logan,precinct 49,House of Delegates,19,Elias Gregory,,54
+Logan,precinct 50,House of Delegates,19,Elias Gregory,,22
+Logan,precinct 53,House of Delegates,19,Elias Gregory,,51
+Logan,precinct 54,House of Delegates,19,Elias Gregory,,14
+Logan,precinct 55,House of Delegates,19,Elias Gregory,,21
+Logan,precinct 56,House of Delegates,19,Elias Gregory,,15
+Logan,Total,House of Delegates,19,Elias Gregory,,1127
+Logan,precinct 1,House of Delegates,19,Chad Story,,41
+Logan,precinct 2,House of Delegates,19,Chad Story,,71
+Logan,precinct 4,House of Delegates,19,Chad Story,,110
+Logan,precinct 5,House of Delegates,19,Chad Story,,71
+Logan,precinct 6,House of Delegates,19,Chad Story,,95
+Logan,precinct 7,House of Delegates,19,Chad Story,,88
+Logan,precinct 8,House of Delegates,19,Chad Story,,53
+Logan,precinct 10,House of Delegates,19,Chad Story,,34
+Logan,precinct 11,House of Delegates,19,Chad Story,,49
+Logan,precinct 13,House of Delegates,19,Chad Story,,37
+Logan,precinct 14,House of Delegates,19,Chad Story,,31
+Logan,precinct 15,House of Delegates,19,Chad Story,,115
+Logan,precinct 20,House of Delegates,19,Chad Story,,130
+Logan,precinct 21,House of Delegates,19,Chad Story,,63
+Logan,precinct 22,House of Delegates,19,Chad Story,,49
+Logan,precinct 25,House of Delegates,19,Chad Story,,120
+Logan,precinct 26,House of Delegates,19,Chad Story,,122
+Logan,precinct 27,House of Delegates,19,Chad Story,,163
+Logan,precinct 28,House of Delegates,19,Chad Story,,19
+Logan,precinct 31,House of Delegates,19,Chad Story,,37
+Logan,precinct 36,House of Delegates,19,Chad Story,,39
+Logan,precinct 37,House of Delegates,19,Chad Story,,44
+Logan,precinct 39,House of Delegates,19,Chad Story,,52
+Logan,precinct 40,House of Delegates,19,Chad Story,,39
+Logan,precinct 41,House of Delegates,19,Chad Story,,56
+Logan,precinct 43,House of Delegates,19,Chad Story,,53
+Logan,precinct 45,House of Delegates,19,Chad Story,,59
+Logan,precinct 46,House of Delegates,19,Chad Story,,36
+Logan,precinct 47,House of Delegates,19,Chad Story,,31
+Logan,precinct 49,House of Delegates,19,Chad Story,,80
+Logan,precinct 50,House of Delegates,19,Chad Story,,44
+Logan,precinct 53,House of Delegates,19,Chad Story,,69
+Logan,precinct 54,House of Delegates,19,Chad Story,,37
+Logan,precinct 55,House of Delegates,19,Chad Story,,28
+Logan,precinct 56,House of Delegates,19,Chad Story,,19
+Logan,Total,House of Delegates,19,Chad Story,,2184
+Logan,precinct 1,House of Delegates,19,Josh Stowers,,196
+Logan,precinct 2,House of Delegates,19,Josh Stowers,,200
+Logan,precinct 4,House of Delegates,19,Josh Stowers,,183
+Logan,precinct 5,House of Delegates,19,Josh Stowers,,219
+Logan,precinct 6,House of Delegates,19,Josh Stowers,,151
+Logan,precinct 7,House of Delegates,19,Josh Stowers,,152
+Logan,precinct 8,House of Delegates,19,Josh Stowers,,106
+Logan,precinct 10,House of Delegates,19,Josh Stowers,,67
+Logan,precinct 11,House of Delegates,19,Josh Stowers,,85
+Logan,precinct 13,House of Delegates,19,Josh Stowers,,59
+Logan,precinct 14,House of Delegates,19,Josh Stowers,,56
+Logan,precinct 15,House of Delegates,19,Josh Stowers,,199
+Logan,precinct 20,House of Delegates,19,Josh Stowers,,130
+Logan,precinct 21,House of Delegates,19,Josh Stowers,,107
+Logan,precinct 22,House of Delegates,19,Josh Stowers,,62
+Logan,precinct 25,House of Delegates,19,Josh Stowers,,125
+Logan,precinct 26,House of Delegates,19,Josh Stowers,,100
+Logan,precinct 27,House of Delegates,19,Josh Stowers,,171
+Logan,precinct 28,House of Delegates,19,Josh Stowers,,55
+Logan,precinct 31,House of Delegates,19,Josh Stowers,,49
+Logan,precinct 36,House of Delegates,19,Josh Stowers,,71
+Logan,precinct 37,House of Delegates,19,Josh Stowers,,63
+Logan,precinct 39,House of Delegates,19,Josh Stowers,,109
+Logan,precinct 40,House of Delegates,19,Josh Stowers,,81
+Logan,precinct 41,House of Delegates,19,Josh Stowers,,81
+Logan,precinct 43,House of Delegates,19,Josh Stowers,,98
+Logan,precinct 45,House of Delegates,19,Josh Stowers,,154
+Logan,precinct 46,House of Delegates,19,Josh Stowers,,64
+Logan,precinct 47,House of Delegates,19,Josh Stowers,,77
+Logan,precinct 49,House of Delegates,19,Josh Stowers,,158
+Logan,precinct 50,House of Delegates,19,Josh Stowers,,133
+Logan,precinct 53,House of Delegates,19,Josh Stowers,,123
+Logan,precinct 54,House of Delegates,19,Josh Stowers,,102
+Logan,precinct 55,House of Delegates,19,Josh Stowers,,90
+Logan,precinct 56,House of Delegates,19,Josh Stowers,,44
+Logan,Total,House of Delegates,19,Josh Stowers,,3920
+Logan,precinct 1,House of Delegates,19,Greg Butcher,,242
+Logan,precinct 2,House of Delegates,19,Greg Butcher,,270
+Logan,precinct 4,House of Delegates,19,Greg Butcher,,272
+Logan,precinct 5,House of Delegates,19,Greg Butcher,,281
+Logan,precinct 6,House of Delegates,19,Greg Butcher,,192
+Logan,precinct 7,House of Delegates,19,Greg Butcher,,219
+Logan,precinct 8,House of Delegates,19,Greg Butcher,,130
+Logan,precinct 10,House of Delegates,19,Greg Butcher,,81
+Logan,precinct 11,House of Delegates,19,Greg Butcher,,121
+Logan,precinct 13,House of Delegates,19,Greg Butcher,,86
+Logan,precinct 14,House of Delegates,19,Greg Butcher,,76
+Logan,precinct 15,House of Delegates,19,Greg Butcher,,234
+Logan,precinct 20,House of Delegates,19,Greg Butcher,,175
+Logan,precinct 21,House of Delegates,19,Greg Butcher,,130
+Logan,precinct 22,House of Delegates,19,Greg Butcher,,76
+Logan,precinct 25,House of Delegates,19,Greg Butcher,,150
+Logan,precinct 26,House of Delegates,19,Greg Butcher,,128
+Logan,precinct 27,House of Delegates,19,Greg Butcher,,203
+Logan,precinct 28,House of Delegates,19,Greg Butcher,,64
+Logan,precinct 31,House of Delegates,19,Greg Butcher,,63
+Logan,precinct 36,House of Delegates,19,Greg Butcher,,89
+Logan,precinct 37,House of Delegates,19,Greg Butcher,,87
+Logan,precinct 39,House of Delegates,19,Greg Butcher,,141
+Logan,precinct 40,House of Delegates,19,Greg Butcher,,105
+Logan,precinct 41,House of Delegates,19,Greg Butcher,,116
+Logan,precinct 43,House of Delegates,19,Greg Butcher,,129
+Logan,precinct 45,House of Delegates,19,Greg Butcher,,172
+Logan,precinct 46,House of Delegates,19,Greg Butcher,,78
+Logan,precinct 47,House of Delegates,19,Greg Butcher,,86
+Logan,precinct 49,House of Delegates,19,Greg Butcher,,194
+Logan,precinct 50,House of Delegates,19,Greg Butcher,,153
+Logan,precinct 53,House of Delegates,19,Greg Butcher,,152
+Logan,precinct 54,House of Delegates,19,Greg Butcher,,119
+Logan,precinct 55,House of Delegates,19,Greg Butcher,,104
+Logan,precinct 56,House of Delegates,19,Greg Butcher,,56
+Logan,Total,House of Delegates,19,Greg Butcher,,4974
+Logan,precinct 1,House of Delegates,19,Ralph Rodighiero,,264
+Logan,precinct 2,House of Delegates,19,Ralph Rodighiero,,303
+Logan,precinct 4,House of Delegates,19,Ralph Rodighiero,,339
+Logan,precinct 5,House of Delegates,19,Ralph Rodighiero,,314
+Logan,precinct 6,House of Delegates,19,Ralph Rodighiero,,258
+Logan,precinct 7,House of Delegates,19,Ralph Rodighiero,,286
+Logan,precinct 8,House of Delegates,19,Ralph Rodighiero,,160
+Logan,precinct 10,House of Delegates,19,Ralph Rodighiero,,100
+Logan,precinct 11,House of Delegates,19,Ralph Rodighiero,,166
+Logan,precinct 13,House of Delegates,19,Ralph Rodighiero,,127
+Logan,precinct 14,House of Delegates,19,Ralph Rodighiero,,115
+Logan,precinct 15,House of Delegates,19,Ralph Rodighiero,,418
+Logan,precinct 20,House of Delegates,19,Ralph Rodighiero,,189
+Logan,precinct 21,House of Delegates,19,Ralph Rodighiero,,128
+Logan,precinct 22,House of Delegates,19,Ralph Rodighiero,,72
+Logan,precinct 25,House of Delegates,19,Ralph Rodighiero,,158
+Logan,precinct 26,House of Delegates,19,Ralph Rodighiero,,151
+Logan,precinct 27,House of Delegates,19,Ralph Rodighiero,,231
+Logan,precinct 28,House of Delegates,19,Ralph Rodighiero,,71
+Logan,precinct 31,House of Delegates,19,Ralph Rodighiero,,69
+Logan,precinct 36,House of Delegates,19,Ralph Rodighiero,,142
+Logan,precinct 37,House of Delegates,19,Ralph Rodighiero,,138
+Logan,precinct 39,House of Delegates,19,Ralph Rodighiero,,201
+Logan,precinct 40,House of Delegates,19,Ralph Rodighiero,,118
+Logan,precinct 41,House of Delegates,19,Ralph Rodighiero,,181
+Logan,precinct 43,House of Delegates,19,Ralph Rodighiero,,202
+Logan,precinct 45,House of Delegates,19,Ralph Rodighiero,,269
+Logan,precinct 46,House of Delegates,19,Ralph Rodighiero,,146
+Logan,precinct 47,House of Delegates,19,Ralph Rodighiero,,149
+Logan,precinct 49,House of Delegates,19,Ralph Rodighiero,,305
+Logan,precinct 50,House of Delegates,19,Ralph Rodighiero,,181
+Logan,precinct 53,House of Delegates,19,Ralph Rodighiero,,271
+Logan,precinct 54,House of Delegates,19,Ralph Rodighiero,,166
+Logan,precinct 55,House of Delegates,19,Ralph Rodighiero,,152
+Logan,precinct 56,House of Delegates,19,Ralph Rodighiero,,74
+Logan,Total,House of Delegates,19,Ralph Rodighiero,,6613
+Logan,precinct 1,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,190
+Logan,precinct 2,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,200
+Logan,precinct 4,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,211
+Logan,precinct 5,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,228
+Logan,precinct 6,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,185
+Logan,precinct 7,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,183
+Logan,precinct 8,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,121
+Logan,precinct 10,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,76
+Logan,precinct 11,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,97
+Logan,precinct 13,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,96
+Logan,precinct 14,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,84
+Logan,precinct 15,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,248
+Logan,precinct 20,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,247
+Logan,precinct 21,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,171
+Logan,precinct 22,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,127
+Logan,precinct 25,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,198
+Logan,precinct 26,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,221
+Logan,precinct 27,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,325
+Logan,precinct 28,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,93
+Logan,precinct 31,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,50
+Logan,precinct 36,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,115
+Logan,precinct 37,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,93
+Logan,precinct 39,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,123
+Logan,precinct 40,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,124
+Logan,precinct 41,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,117
+Logan,precinct 43,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,142
+Logan,precinct 45,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,185
+Logan,precinct 46,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,90
+Logan,precinct 47,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,104
+Logan,precinct 49,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,207
+Logan,precinct 50,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,138
+Logan,precinct 53,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,171
+Logan,precinct 54,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,125
+Logan,precinct 55,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,114
+Logan,precinct 56,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,51
+Logan,Total,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,5240
+Logan,precinct 1,House of Delegates,19,Write In,,0
+Logan,precinct 2,House of Delegates,19,Write In,,0
+Logan,precinct 4,House of Delegates,19,Write In,,0
+Logan,precinct 5,House of Delegates,19,Write In,,7
+Logan,precinct 6,House of Delegates,19,Write In,,0
+Logan,precinct 7,House of Delegates,19,Write In,,0
+Logan,precinct 8,House of Delegates,19,Write In,,0
+Logan,precinct 10,House of Delegates,19,Write In,,0
+Logan,precinct 11,House of Delegates,19,Write In,,0
+Logan,precinct 13,House of Delegates,19,Write In,,0
+Logan,precinct 14,House of Delegates,19,Write In,,0
+Logan,precinct 15,House of Delegates,19,Write In,,0
+Logan,precinct 20,House of Delegates,19,Write In,,1
+Logan,precinct 21,House of Delegates,19,Write In,,0
+Logan,precinct 22,House of Delegates,19,Write In,,0
+Logan,precinct 25,House of Delegates,19,Write In,,0
+Logan,precinct 26,House of Delegates,19,Write In,,0
+Logan,precinct 27,House of Delegates,19,Write In,,0
+Logan,precinct 28,House of Delegates,19,Write In,,0
+Logan,precinct 31,House of Delegates,19,Write In,,0
+Logan,precinct 36,House of Delegates,19,Write In,,0
+Logan,precinct 37,House of Delegates,19,Write In,,0
+Logan,precinct 39,House of Delegates,19,Write In,,0
+Logan,precinct 40,House of Delegates,19,Write In,,0
+Logan,precinct 41,House of Delegates,19,Write In,,0
+Logan,precinct 43,House of Delegates,19,Write In,,0
+Logan,precinct 45,House of Delegates,19,Write In,,2
+Logan,precinct 46,House of Delegates,19,Write In,,0
+Logan,precinct 47,House of Delegates,19,Write In,,0
+Logan,precinct 49,House of Delegates,19,Write In,,0
+Logan,precinct 50,House of Delegates,19,Write In,,0
+Logan,precinct 53,House of Delegates,19,Write In,,2
+Logan,precinct 54,House of Delegates,19,Write In,,0
+Logan,precinct 55,House of Delegates,19,Write In,,0
+Logan,precinct 56,House of Delegates,19,Write In,,0
+Logan,Total,House of Delegates,19,Write In,,12
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
