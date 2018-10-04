@@ -1,0 +1,211 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,2,Governor,,REP,Bill Maloney,35
+Lincoln,2,Governor,,DEM,Earl Ray Tomblin,67
+Lincoln,2,Governor,,MTN,Bob Henry Baber,3
+Lincoln,2,Governor,,IND,Marla Dee Ingels,0
+Lincoln,2,Governor,,ATP,Harry V. Bertram,0
+Lincoln,2,Governor,,,Write-ins,1
+Lincoln,3,Governor,,REP,Bill Maloney,48
+Lincoln,3,Governor,,DEM,Earl Ray Tomblin,100
+Lincoln,3,Governor,,MTN,Bob Henry Baber,1
+Lincoln,3,Governor,,IND,Marla Dee Ingels,0
+Lincoln,3,Governor,,ATP,Harry V. Bertram,0
+Lincoln,3,Governor,,,Write-ins,0
+Lincoln,4,Governor,,REP,Bill Maloney,39
+Lincoln,4,Governor,,DEM,Earl Ray Tomblin,81
+Lincoln,4,Governor,,MTN,Bob Henry Baber,1
+Lincoln,4,Governor,,IND,Marla Dee Ingels,2
+Lincoln,4,Governor,,ATP,Harry V. Bertram,1
+Lincoln,4,Governor,,,Write-ins,0
+Lincoln,5A,Governor,,REP,Bill Maloney,30
+Lincoln,5A,Governor,,DEM,Earl Ray Tomblin,58
+Lincoln,5A,Governor,,MTN,Bob Henry Baber,4
+Lincoln,5A,Governor,,IND,Marla Dee Ingels,2
+Lincoln,5A,Governor,,ATP,Harry V. Bertram,0
+Lincoln,5A,Governor,,,Write-ins,0
+Lincoln,5B,Governor,,REP,Bill Maloney,26
+Lincoln,5B,Governor,,DEM,Earl Ray Tomblin,69
+Lincoln,5B,Governor,,MTN,Bob Henry Baber,1
+Lincoln,5B,Governor,,IND,Marla Dee Ingels,0
+Lincoln,5B,Governor,,ATP,Harry V. Bertram,0
+Lincoln,5B,Governor,,,Write-ins,0
+Lincoln,8,Governor,,REP,Bill Maloney,43
+Lincoln,8,Governor,,DEM,Earl Ray Tomblin,62
+Lincoln,8,Governor,,MTN,Bob Henry Baber,1
+Lincoln,8,Governor,,IND,Marla Dee Ingels,0
+Lincoln,8,Governor,,ATP,Harry V. Bertram,0
+Lincoln,8,Governor,,,Write-ins,0
+Lincoln,30,Governor,,REP,Bill Maloney,93
+Lincoln,30,Governor,,DEM,Earl Ray Tomblin,119
+Lincoln,30,Governor,,MTN,Bob Henry Baber,3
+Lincoln,30,Governor,,IND,Marla Dee Ingels,4
+Lincoln,30,Governor,,ATP,Harry V. Bertram,0
+Lincoln,30,Governor,,,Write-ins,0
+Lincoln,31,Governor,,REP,Bill Maloney,119
+Lincoln,31,Governor,,DEM,Earl Ray Tomblin,94
+Lincoln,31,Governor,,MTN,Bob Henry Baber,2
+Lincoln,31,Governor,,IND,Marla Dee Ingels,0
+Lincoln,31,Governor,,ATP,Harry V. Bertram,0
+Lincoln,31,Governor,,,Write-ins,0
+Lincoln,32,Governor,,REP,Bill Maloney,29
+Lincoln,32,Governor,,DEM,Earl Ray Tomblin,69
+Lincoln,32,Governor,,MTN,Bob Henry Baber,3
+Lincoln,32,Governor,,IND,Marla Dee Ingels,0
+Lincoln,32,Governor,,ATP,Harry V. Bertram,1
+Lincoln,32,Governor,,,Write-ins,0
+Lincoln,33,Governor,,REP,Bill Maloney,40
+Lincoln,33,Governor,,DEM,Earl Ray Tomblin,38
+Lincoln,33,Governor,,MTN,Bob Henry Baber,2
+Lincoln,33,Governor,,IND,Marla Dee Ingels,1
+Lincoln,33,Governor,,ATP,Harry V. Bertram,0
+Lincoln,33,Governor,,,Write-ins,0
+Lincoln,6,Governor,,REP,Bill Maloney,5
+Lincoln,6,Governor,,DEM,Earl Ray Tomblin,23
+Lincoln,6,Governor,,MTN,Bob Henry Baber,0
+Lincoln,6,Governor,,IND,Marla Dee Ingels,0
+Lincoln,6,Governor,,ATP,Harry V. Bertram,0
+Lincoln,6,Governor,,,Write-ins,0
+Lincoln,7,Governor,,REP,Bill Maloney,36
+Lincoln,7,Governor,,DEM,Earl Ray Tomblin,59
+Lincoln,7,Governor,,MTN,Bob Henry Baber,4
+Lincoln,7,Governor,,IND,Marla Dee Ingels,2
+Lincoln,7,Governor,,ATP,Harry V. Bertram,0
+Lincoln,7,Governor,,,Write-ins,0
+Lincoln,9,Governor,,REP,Bill Maloney,32
+Lincoln,9,Governor,,DEM,Earl Ray Tomblin,47
+Lincoln,9,Governor,,MTN,Bob Henry Baber,5
+Lincoln,9,Governor,,IND,Marla Dee Ingels,0
+Lincoln,9,Governor,,ATP,Harry V. Bertram,1
+Lincoln,9,Governor,,,Write-ins,0
+Lincoln,10,Governor,,REP,Bill Maloney,38
+Lincoln,10,Governor,,DEM,Earl Ray Tomblin,72
+Lincoln,10,Governor,,MTN,Bob Henry Baber,0
+Lincoln,10,Governor,,IND,Marla Dee Ingels,0
+Lincoln,10,Governor,,ATP,Harry V. Bertram,0
+Lincoln,10,Governor,,,Write-ins,0
+Lincoln,17,Governor,,REP,Bill Maloney,12
+Lincoln,17,Governor,,DEM,Earl Ray Tomblin,37
+Lincoln,17,Governor,,MTN,Bob Henry Baber,0
+Lincoln,17,Governor,,IND,Marla Dee Ingels,1
+Lincoln,17,Governor,,ATP,Harry V. Bertram,0
+Lincoln,17,Governor,,,Write-ins,0
+Lincoln,18,Governor,,REP,Bill Maloney,16
+Lincoln,18,Governor,,DEM,Earl Ray Tomblin,22
+Lincoln,18,Governor,,MTN,Bob Henry Baber,0
+Lincoln,18,Governor,,IND,Marla Dee Ingels,0
+Lincoln,18,Governor,,ATP,Harry V. Bertram,0
+Lincoln,18,Governor,,,Write-ins,0
+Lincoln,24A,Governor,,REP,Bill Maloney,27
+Lincoln,24A,Governor,,DEM,Earl Ray Tomblin,71
+Lincoln,24A,Governor,,MTN,Bob Henry Baber,1
+Lincoln,24A,Governor,,IND,Marla Dee Ingels,0
+Lincoln,24A,Governor,,ATP,Harry V. Bertram,0
+Lincoln,24A,Governor,,,Write-ins,0
+Lincoln,24B,Governor,,REP,Bill Maloney,22
+Lincoln,24B,Governor,,DEM,Earl Ray Tomblin,53
+Lincoln,24B,Governor,,MTN,Bob Henry Baber,1
+Lincoln,24B,Governor,,IND,Marla Dee Ingels,1
+Lincoln,24B,Governor,,ATP,Harry V. Bertram,0
+Lincoln,24B,Governor,,,Write-ins,0
+Lincoln,25A,Governor,,REP,Bill Maloney,34
+Lincoln,25A,Governor,,DEM,Earl Ray Tomblin,51
+Lincoln,25A,Governor,,MTN,Bob Henry Baber,0
+Lincoln,25A,Governor,,IND,Marla Dee Ingels,0
+Lincoln,25A,Governor,,ATP,Harry V. Bertram,0
+Lincoln,25A,Governor,,,Write-ins,0
+Lincoln,25B,Governor,,REP,Bill Maloney,25
+Lincoln,25B,Governor,,DEM,Earl Ray Tomblin,31
+Lincoln,25B,Governor,,MTN,Bob Henry Baber,2
+Lincoln,25B,Governor,,IND,Marla Dee Ingels,1
+Lincoln,25B,Governor,,ATP,Harry V. Bertram,0
+Lincoln,25B,Governor,,,Write-ins,0
+Lincoln,27,Governor,,REP,Bill Maloney,21
+Lincoln,27,Governor,,DEM,Earl Ray Tomblin,47
+Lincoln,27,Governor,,MTN,Bob Henry Baber,2
+Lincoln,27,Governor,,IND,Marla Dee Ingels,0
+Lincoln,27,Governor,,ATP,Harry V. Bertram,0
+Lincoln,27,Governor,,,Write-ins,0
+Lincoln,28,Governor,,REP,Bill Maloney,28
+Lincoln,28,Governor,,DEM,Earl Ray Tomblin,52
+Lincoln,28,Governor,,MTN,Bob Henry Baber,2
+Lincoln,28,Governor,,IND,Marla Dee Ingels,0
+Lincoln,28,Governor,,ATP,Harry V. Bertram,0
+Lincoln,28,Governor,,,Write-ins,0
+Lincoln,29,Governor,,REP,Bill Maloney,18
+Lincoln,29,Governor,,DEM,Earl Ray Tomblin,32
+Lincoln,29,Governor,,MTN,Bob Henry Baber,1
+Lincoln,29,Governor,,IND,Marla Dee Ingels,1
+Lincoln,29,Governor,,ATP,Harry V. Bertram,0
+Lincoln,29,Governor,,,Write-ins,0
+Lincoln,12,Governor,,REP,Bill Maloney,24
+Lincoln,12,Governor,,DEM,Earl Ray Tomblin,45
+Lincoln,12,Governor,,MTN,Bob Henry Baber,0
+Lincoln,12,Governor,,IND,Marla Dee Ingels,1
+Lincoln,12,Governor,,ATP,Harry V. Bertram,0
+Lincoln,12,Governor,,,Write-ins,0
+Lincoln,20,Governor,,REP,Bill Maloney,9
+Lincoln,20,Governor,,DEM,Earl Ray Tomblin,12
+Lincoln,20,Governor,,MTN,Bob Henry Baber,1
+Lincoln,20,Governor,,IND,Marla Dee Ingels,0
+Lincoln,20,Governor,,ATP,Harry V. Bertram,0
+Lincoln,20,Governor,,,Write-ins,0
+Lincoln,19,Governor,,REP,Bill Maloney,9
+Lincoln,19,Governor,,DEM,Earl Ray Tomblin,46
+Lincoln,19,Governor,,MTN,Bob Henry Baber,1
+Lincoln,19,Governor,,IND,Marla Dee Ingels,1
+Lincoln,19,Governor,,ATP,Harry V. Bertram,0
+Lincoln,19,Governor,,,Write-ins,0
+Lincoln,21,Governor,,REP,Bill Maloney,18
+Lincoln,21,Governor,,DEM,Earl Ray Tomblin,72
+Lincoln,21,Governor,,MTN,Bob Henry Baber,0
+Lincoln,21,Governor,,IND,Marla Dee Ingels,0
+Lincoln,21,Governor,,ATP,Harry V. Bertram,1
+Lincoln,21,Governor,,,Write-ins,0
+Lincoln,22,Governor,,REP,Bill Maloney,17
+Lincoln,22,Governor,,DEM,Earl Ray Tomblin,34
+Lincoln,22,Governor,,MTN,Bob Henry Baber,0
+Lincoln,22,Governor,,IND,Marla Dee Ingels,0
+Lincoln,22,Governor,,ATP,Harry V. Bertram,0
+Lincoln,22,Governor,,,Write-ins,0
+Lincoln,23,Governor,,REP,Bill Maloney,4
+Lincoln,23,Governor,,DEM,Earl Ray Tomblin,27
+Lincoln,23,Governor,,MTN,Bob Henry Baber,0
+Lincoln,23,Governor,,IND,Marla Dee Ingels,0
+Lincoln,23,Governor,,ATP,Harry V. Bertram,0
+Lincoln,23,Governor,,,Write-ins,0
+Lincoln,26,Governor,,REP,Bill Maloney,40
+Lincoln,26,Governor,,DEM,Earl Ray Tomblin,76
+Lincoln,26,Governor,,MTN,Bob Henry Baber,0
+Lincoln,26,Governor,,IND,Marla Dee Ingels,0
+Lincoln,26,Governor,,ATP,Harry V. Bertram,0
+Lincoln,26,Governor,,,Write-ins,0
+Lincoln,13,Governor,,REP,Bill Maloney,11
+Lincoln,13,Governor,,DEM,Earl Ray Tomblin,114
+Lincoln,13,Governor,,MTN,Bob Henry Baber,0
+Lincoln,13,Governor,,IND,Marla Dee Ingels,0
+Lincoln,13,Governor,,ATP,Harry V. Bertram,0
+Lincoln,13,Governor,,,Write-ins,0
+Lincoln,14A,Governor,,REP,Bill Maloney,14
+Lincoln,14A,Governor,,DEM,Earl Ray Tomblin,75
+Lincoln,14A,Governor,,MTN,Bob Henry Baber,0
+Lincoln,14A,Governor,,IND,Marla Dee Ingels,0
+Lincoln,14A,Governor,,ATP,Harry V. Bertram,0
+Lincoln,14A,Governor,,,Write-ins,0
+Lincoln,14B,Governor,,REP,Bill Maloney,7
+Lincoln,14B,Governor,,DEM,Earl Ray Tomblin,73
+Lincoln,14B,Governor,,MTN,Bob Henry Baber,0
+Lincoln,14B,Governor,,IND,Marla Dee Ingels,0
+Lincoln,14B,Governor,,ATP,Harry V. Bertram,0
+Lincoln,14B,Governor,,,Write-ins,0
+Lincoln,15,Governor,,REP,Bill Maloney,19
+Lincoln,15,Governor,,DEM,Earl Ray Tomblin,156
+Lincoln,15,Governor,,MTN,Bob Henry Baber,0
+Lincoln,15,Governor,,IND,Marla Dee Ingels,1
+Lincoln,15,Governor,,ATP,Harry V. Bertram,0
+Lincoln,15,Governor,,,Write-ins,0
+Lincoln,16,Governor,,REP,Bill Maloney,16
+Lincoln,16,Governor,,DEM,Earl Ray Tomblin,96
+Lincoln,16,Governor,,MTN,Bob Henry Baber,0
+Lincoln,16,Governor,,IND,Marla Dee Ingels,0
+Lincoln,16,Governor,,ATP,Harry V. Bertram,0
+Lincoln,16,Governor,,,Write-ins,0

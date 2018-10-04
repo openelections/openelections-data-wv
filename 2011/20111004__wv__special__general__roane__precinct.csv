@@ -1,0 +1,102 @@
+county,precinct,office,district,party,candidate,votes
+Roane,1,Governor,,REP,Bill Maloney,108
+Roane,4,Governor,,REP,Bill Maloney,56
+Roane,5,Governor,,REP,Bill Maloney,76
+Roane,6,Governor,,REP,Bill Maloney,59
+Roane,10,Governor,,REP,Bill Maloney,84
+Roane,11,Governor,,REP,Bill Maloney,101
+Roane,12,Governor,,REP,Bill Maloney,25
+Roane,15,Governor,,REP,Bill Maloney,44
+Roane,16,Governor,,REP,Bill Maloney,47
+Roane,18,Governor,,REP,Bill Maloney,43
+Roane,19,Governor,,REP,Bill Maloney,20
+Roane,20,Governor,,REP,Bill Maloney,85
+Roane,21,Governor,,REP,Bill Maloney,40
+Roane,22,Governor,,REP,Bill Maloney,51
+Roane,23,Governor,,REP,Bill Maloney,75
+Roane,25,Governor,,REP,Bill Maloney,103
+Roane,28,Governor,,REP,Bill Maloney,58
+Roane,29,Governor,,REP,Bill Maloney,79
+Roane,30,Governor,,REP,Bill Maloney,87
+Roane,32,Governor,,REP,Bill Maloney,48
+Roane,1,Governor,,DEM,Earl Ray Tomblin,91
+Roane,4,Governor,,DEM,Earl Ray Tomblin,72
+Roane,5,Governor,,DEM,Earl Ray Tomblin,78
+Roane,6,Governor,,DEM,Earl Ray Tomblin,76
+Roane,10,Governor,,DEM,Earl Ray Tomblin,36
+Roane,11,Governor,,DEM,Earl Ray Tomblin,75
+Roane,12,Governor,,DEM,Earl Ray Tomblin,18
+Roane,15,Governor,,DEM,Earl Ray Tomblin,25
+Roane,16,Governor,,DEM,Earl Ray Tomblin,47
+Roane,18,Governor,,DEM,Earl Ray Tomblin,58
+Roane,19,Governor,,DEM,Earl Ray Tomblin,28
+Roane,20,Governor,,DEM,Earl Ray Tomblin,73
+Roane,21,Governor,,DEM,Earl Ray Tomblin,31
+Roane,22,Governor,,DEM,Earl Ray Tomblin,62
+Roane,23,Governor,,DEM,Earl Ray Tomblin,115
+Roane,25,Governor,,DEM,Earl Ray Tomblin,76
+Roane,28,Governor,,DEM,Earl Ray Tomblin,79
+Roane,29,Governor,,DEM,Earl Ray Tomblin,52
+Roane,30,Governor,,DEM,Earl Ray Tomblin,87
+Roane,32,Governor,,DEM,Earl Ray Tomblin,49
+Roane,1,Governor,,MTN,Bob Henry Baber,4
+Roane,4,Governor,,MTN,Bob Henry Baber,6
+Roane,5,Governor,,MTN,Bob Henry Baber,2
+Roane,6,Governor,,MTN,Bob Henry Baber,3
+Roane,10,Governor,,MTN,Bob Henry Baber,3
+Roane,11,Governor,,MTN,Bob Henry Baber,5
+Roane,12,Governor,,MTN,Bob Henry Baber,1
+Roane,15,Governor,,MTN,Bob Henry Baber,3
+Roane,16,Governor,,MTN,Bob Henry Baber,3
+Roane,18,Governor,,MTN,Bob Henry Baber,6
+Roane,19,Governor,,MTN,Bob Henry Baber,1
+Roane,20,Governor,,MTN,Bob Henry Baber,3
+Roane,21,Governor,,MTN,Bob Henry Baber,3
+Roane,22,Governor,,MTN,Bob Henry Baber,5
+Roane,23,Governor,,MTN,Bob Henry Baber,4
+Roane,25,Governor,,MTN,Bob Henry Baber,9
+Roane,28,Governor,,MTN,Bob Henry Baber,5
+Roane,29,Governor,,MTN,Bob Henry Baber,7
+Roane,30,Governor,,MTN,Bob Henry Baber,3
+Roane,32,Governor,,MTN,Bob Henry Baber,6
+Roane,1,Governor,,IND,Marla Dee Ingels,2
+Roane,4,Governor,,IND,Marla Dee Ingels,0
+Roane,5,Governor,,IND,Marla Dee Ingels,1
+Roane,6,Governor,,IND,Marla Dee Ingels,0
+Roane,10,Governor,,IND,Marla Dee Ingels,2
+Roane,11,Governor,,IND,Marla Dee Ingels,3
+Roane,12,Governor,,IND,Marla Dee Ingels,1
+Roane,15,Governor,,IND,Marla Dee Ingels,2
+Roane,16,Governor,,IND,Marla Dee Ingels,2
+Roane,18,Governor,,IND,Marla Dee Ingels,1
+Roane,19,Governor,,IND,Marla Dee Ingels,2
+Roane,20,Governor,,IND,Marla Dee Ingels,1
+Roane,21,Governor,,IND,Marla Dee Ingels,1
+Roane,22,Governor,,IND,Marla Dee Ingels,0
+Roane,23,Governor,,IND,Marla Dee Ingels,6
+Roane,25,Governor,,IND,Marla Dee Ingels,0
+Roane,28,Governor,,IND,Marla Dee Ingels,1
+Roane,29,Governor,,IND,Marla Dee Ingels,1
+Roane,30,Governor,,IND,Marla Dee Ingels,5
+Roane,32,Governor,,IND,Marla Dee Ingels,0
+Roane,1,Governor,,ATP,Harry V. Bertram,0
+Roane,4,Governor,,ATP,Harry V. Bertram,0
+Roane,5,Governor,,ATP,Harry V. Bertram,0
+Roane,6,Governor,,ATP,Harry V. Bertram,1
+Roane,10,Governor,,ATP,Harry V. Bertram,0
+Roane,11,Governor,,ATP,Harry V. Bertram,0
+Roane,12,Governor,,ATP,Harry V. Bertram,0
+Roane,15,Governor,,ATP,Harry V. Bertram,0
+Roane,16,Governor,,ATP,Harry V. Bertram,0
+Roane,18,Governor,,ATP,Harry V. Bertram,0
+Roane,19,Governor,,ATP,Harry V. Bertram,0
+Roane,20,Governor,,ATP,Harry V. Bertram,1
+Roane,21,Governor,,ATP,Harry V. Bertram,1
+Roane,22,Governor,,ATP,Harry V. Bertram,0
+Roane,23,Governor,,ATP,Harry V. Bertram,0
+Roane,25,Governor,,ATP,Harry V. Bertram,0
+Roane,28,Governor,,ATP,Harry V. Bertram,0
+Roane,29,Governor,,ATP,Harry V. Bertram,0
+Roane,30,Governor,,ATP,Harry V. Bertram,0
+Roane,32,Governor,,ATP,Harry V. Bertram,0
+Roane,15,Governor,,,Phil Hudok,2

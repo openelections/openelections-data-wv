@@ -1,0 +1,141 @@
+county,precinct,office,district,party,candidate,votes
+Hancock,1,Governor,,REP,Bill Maloney,99
+Hancock,2,Governor,,REP,Bill Maloney,62
+Hancock,3,Governor,,REP,Bill Maloney,45
+Hancock,4,Governor,,REP,Bill Maloney,51
+Hancock,5,Governor,,REP,Bill Maloney,59
+Hancock,6,Governor,,REP,Bill Maloney,113
+Hancock,7,Governor,,REP,Bill Maloney,41
+Hancock,8,Governor,,REP,Bill Maloney,178
+Hancock,9,Governor,,REP,Bill Maloney,110
+Hancock,10,Governor,,REP,Bill Maloney,76
+Hancock,11,Governor,,REP,Bill Maloney,91
+Hancock,12,Governor,,REP,Bill Maloney,136
+Hancock,13,Governor,,REP,Bill Maloney,100
+Hancock,14,Governor,,REP,Bill Maloney,75
+Hancock,15,Governor,,REP,Bill Maloney,8
+Hancock,16,Governor,,REP,Bill Maloney,25
+Hancock,17,Governor,,REP,Bill Maloney,109
+Hancock,18,Governor,,REP,Bill Maloney,92
+Hancock,19,Governor,,REP,Bill Maloney,80
+Hancock,20,Governor,,REP,Bill Maloney,124
+Hancock,21,Governor,,REP,Bill Maloney,104
+Hancock,22,Governor,,REP,Bill Maloney,92
+Hancock,23,Governor,,REP,Bill Maloney,106
+Hancock,24,Governor,,REP,Bill Maloney,74
+Hancock,25,Governor,,REP,Bill Maloney,93
+Hancock,26,Governor,,REP,Bill Maloney,68
+Hancock,27,Governor,,REP,Bill Maloney,112
+Hancock,28,Governor,,REP,Bill Maloney,76
+Hancock,1,Governor,,DEM,Earl Ray Tomblin,93
+Hancock,2,Governor,,DEM,Earl Ray Tomblin,86
+Hancock,3,Governor,,DEM,Earl Ray Tomblin,55
+Hancock,4,Governor,,DEM,Earl Ray Tomblin,70
+Hancock,5,Governor,,DEM,Earl Ray Tomblin,83
+Hancock,6,Governor,,DEM,Earl Ray Tomblin,98
+Hancock,7,Governor,,DEM,Earl Ray Tomblin,47
+Hancock,8,Governor,,DEM,Earl Ray Tomblin,148
+Hancock,9,Governor,,DEM,Earl Ray Tomblin,121
+Hancock,10,Governor,,DEM,Earl Ray Tomblin,105
+Hancock,11,Governor,,DEM,Earl Ray Tomblin,100
+Hancock,12,Governor,,DEM,Earl Ray Tomblin,130
+Hancock,13,Governor,,DEM,Earl Ray Tomblin,68
+Hancock,14,Governor,,DEM,Earl Ray Tomblin,92
+Hancock,15,Governor,,DEM,Earl Ray Tomblin,18
+Hancock,16,Governor,,DEM,Earl Ray Tomblin,59
+Hancock,17,Governor,,DEM,Earl Ray Tomblin,81
+Hancock,18,Governor,,DEM,Earl Ray Tomblin,106
+Hancock,19,Governor,,DEM,Earl Ray Tomblin,118
+Hancock,20,Governor,,DEM,Earl Ray Tomblin,171
+Hancock,21,Governor,,DEM,Earl Ray Tomblin,134
+Hancock,22,Governor,,DEM,Earl Ray Tomblin,134
+Hancock,23,Governor,,DEM,Earl Ray Tomblin,152
+Hancock,24,Governor,,DEM,Earl Ray Tomblin,70
+Hancock,25,Governor,,DEM,Earl Ray Tomblin,102
+Hancock,26,Governor,,DEM,Earl Ray Tomblin,72
+Hancock,27,Governor,,DEM,Earl Ray Tomblin,117
+Hancock,28,Governor,,DEM,Earl Ray Tomblin,113
+Hancock,1,Governor,,MTN,Bob Henry Baber,4
+Hancock,2,Governor,,MTN,Bob Henry Baber,2
+Hancock,3,Governor,,MTN,Bob Henry Baber,3
+Hancock,4,Governor,,MTN,Bob Henry Baber,2
+Hancock,5,Governor,,MTN,Bob Henry Baber,2
+Hancock,6,Governor,,MTN,Bob Henry Baber,3
+Hancock,7,Governor,,MTN,Bob Henry Baber,2
+Hancock,8,Governor,,MTN,Bob Henry Baber,6
+Hancock,9,Governor,,MTN,Bob Henry Baber,4
+Hancock,10,Governor,,MTN,Bob Henry Baber,3
+Hancock,11,Governor,,MTN,Bob Henry Baber,7
+Hancock,12,Governor,,MTN,Bob Henry Baber,5
+Hancock,13,Governor,,MTN,Bob Henry Baber,4
+Hancock,14,Governor,,MTN,Bob Henry Baber,1
+Hancock,15,Governor,,MTN,Bob Henry Baber,2
+Hancock,16,Governor,,MTN,Bob Henry Baber,2
+Hancock,17,Governor,,MTN,Bob Henry Baber,0
+Hancock,18,Governor,,MTN,Bob Henry Baber,1
+Hancock,19,Governor,,MTN,Bob Henry Baber,5
+Hancock,20,Governor,,MTN,Bob Henry Baber,4
+Hancock,21,Governor,,MTN,Bob Henry Baber,4
+Hancock,22,Governor,,MTN,Bob Henry Baber,4
+Hancock,23,Governor,,MTN,Bob Henry Baber,4
+Hancock,24,Governor,,MTN,Bob Henry Baber,4
+Hancock,25,Governor,,MTN,Bob Henry Baber,4
+Hancock,26,Governor,,MTN,Bob Henry Baber,1
+Hancock,27,Governor,,MTN,Bob Henry Baber,0
+Hancock,28,Governor,,MTN,Bob Henry Baber,9
+Hancock,1,Governor,,IND,Marla Dee Ingels,2
+Hancock,2,Governor,,IND,Marla Dee Ingels,3
+Hancock,3,Governor,,IND,Marla Dee Ingels,0
+Hancock,4,Governor,,IND,Marla Dee Ingels,1
+Hancock,5,Governor,,IND,Marla Dee Ingels,1
+Hancock,6,Governor,,IND,Marla Dee Ingels,4
+Hancock,7,Governor,,IND,Marla Dee Ingels,4
+Hancock,8,Governor,,IND,Marla Dee Ingels,3
+Hancock,9,Governor,,IND,Marla Dee Ingels,8
+Hancock,10,Governor,,IND,Marla Dee Ingels,3
+Hancock,11,Governor,,IND,Marla Dee Ingels,0
+Hancock,12,Governor,,IND,Marla Dee Ingels,0
+Hancock,13,Governor,,IND,Marla Dee Ingels,5
+Hancock,14,Governor,,IND,Marla Dee Ingels,2
+Hancock,15,Governor,,IND,Marla Dee Ingels,0
+Hancock,16,Governor,,IND,Marla Dee Ingels,2
+Hancock,17,Governor,,IND,Marla Dee Ingels,3
+Hancock,18,Governor,,IND,Marla Dee Ingels,1
+Hancock,19,Governor,,IND,Marla Dee Ingels,3
+Hancock,20,Governor,,IND,Marla Dee Ingels,2
+Hancock,21,Governor,,IND,Marla Dee Ingels,6
+Hancock,22,Governor,,IND,Marla Dee Ingels,2
+Hancock,23,Governor,,IND,Marla Dee Ingels,5
+Hancock,24,Governor,,IND,Marla Dee Ingels,4
+Hancock,25,Governor,,IND,Marla Dee Ingels,2
+Hancock,26,Governor,,IND,Marla Dee Ingels,0
+Hancock,27,Governor,,IND,Marla Dee Ingels,5
+Hancock,28,Governor,,IND,Marla Dee Ingels,1
+Hancock,1,Governor,,ATP,Harry Bertram,1
+Hancock,2,Governor,,ATP,Harry Bertram,3
+Hancock,3,Governor,,ATP,Harry Bertram,0
+Hancock,4,Governor,,ATP,Harry Bertram,1
+Hancock,5,Governor,,ATP,Harry Bertram,0
+Hancock,6,Governor,,ATP,Harry Bertram,3
+Hancock,7,Governor,,ATP,Harry Bertram,0
+Hancock,8,Governor,,ATP,Harry Bertram,3
+Hancock,9,Governor,,ATP,Harry Bertram,4
+Hancock,10,Governor,,ATP,Harry Bertram,1
+Hancock,11,Governor,,ATP,Harry Bertram,3
+Hancock,12,Governor,,ATP,Harry Bertram,1
+Hancock,13,Governor,,ATP,Harry Bertram,2
+Hancock,14,Governor,,ATP,Harry Bertram,5
+Hancock,15,Governor,,ATP,Harry Bertram,0
+Hancock,16,Governor,,ATP,Harry Bertram,1
+Hancock,17,Governor,,ATP,Harry Bertram,2
+Hancock,18,Governor,,ATP,Harry Bertram,1
+Hancock,19,Governor,,ATP,Harry Bertram,2
+Hancock,20,Governor,,ATP,Harry Bertram,2
+Hancock,21,Governor,,ATP,Harry Bertram,3
+Hancock,22,Governor,,ATP,Harry Bertram,1
+Hancock,23,Governor,,ATP,Harry Bertram,1
+Hancock,24,Governor,,ATP,Harry Bertram,2
+Hancock,25,Governor,,ATP,Harry Bertram,2
+Hancock,26,Governor,,ATP,Harry Bertram,0
+Hancock,27,Governor,,ATP,Harry Bertram,1
+Hancock,28,Governor,,ATP,Harry Bertram,3
