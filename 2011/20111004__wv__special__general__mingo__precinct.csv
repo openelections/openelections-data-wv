@@ -1,0 +1,391 @@
+county,precinct,office,district,party,candidate,votes
+Mingo,Precinct 1,Registered Voters,,,,657
+Mingo,Precinct 3,Registered Voters,,,,383
+Mingo,Precinct 5,Registered Voters,,,,202
+Mingo,Precinct 7,Registered Voters,,,,683
+Mingo,Precinct 9,Registered Voters,,,,787
+Mingo,Precinct 22-1,Registered Voters,,,,452
+Mingo,Precinct 22-2,Registered Voters,,,,472
+Mingo,Precinct 23,Registered Voters,,,,587
+Mingo,Precinct 26,Registered Voters,,,,434
+Mingo,Precinct 27-1,Registered Voters,,,,552
+Mingo,Precinct 27-2,Registered Voters,,,,567
+Mingo,Precinct 28,Registered Voters,,,,738
+Mingo,Precinct 30,Registered Voters,,,,672
+Mingo,Precinct 41,Registered Voters,,,,489
+Mingo,Precinct 43,Registered Voters,,,,734
+Mingo,Precinct 44-1,Registered Voters,,,,430
+Mingo,Precinct 44-2,Registered Voters,,,,714
+Mingo,Precinct 45,Registered Voters,,,,364
+Mingo,Precinct 46-1,Registered Voters,,,,498
+Mingo,Precinct 46-2,Registered Voters,,,,653
+Mingo,Precinct 47-1,Registered Voters,,,,674
+Mingo,Precinct 47-2,Registered Voters,,,,630
+Mingo,Precinct 48-1,Registered Voters,,,,394
+Mingo,Precinct 48-2,Registered Voters,,,,479
+Mingo,Precinct 50,Registered Voters,,,,307
+Mingo,Precinct 51-1,Registered Voters,,,,410
+Mingo,Precinct 51-2,Registered Voters,,,,436
+Mingo,Precinct 55,Registered Voters,,,,496
+Mingo,Precinct 56,Registered Voters,,,,393
+Mingo,Precinct 57,Registered Voters,,,,834
+Mingo,Precinct 59-1,Registered Voters,,,,702
+Mingo,Precinct 59-2,Registered Voters,,,,610
+Mingo,Precinct 72,Registered Voters,,,,339
+Mingo,Precinct 73,Registered Voters,,,,544
+Mingo,Precinct 74-1,Registered Voters,,,,425
+Mingo,Precinct 74-2,Registered Voters,,,,439
+Mingo,Precinct 75,Registered Voters,,,,755
+Mingo,Precinct 76-1,Registered Voters,,,,448
+Mingo,Precinct 76-2,Registered Voters,,,,413
+Mingo,Precinct 1,Ballots Cast,,,,137
+Mingo,Precinct 3,Ballots Cast,,,,106
+Mingo,Precinct 5,Ballots Cast,,,,31
+Mingo,Precinct 7,Ballots Cast,,,,180
+Mingo,Precinct 9,Ballots Cast,,,,235
+Mingo,Precinct 22-1,Ballots Cast,,,,116
+Mingo,Precinct 22-2,Ballots Cast,,,,132
+Mingo,Precinct 23,Ballots Cast,,,,128
+Mingo,Precinct 26,Ballots Cast,,,,86
+Mingo,Precinct 27-1,Ballots Cast,,,,101
+Mingo,Precinct 27-2,Ballots Cast,,,,113
+Mingo,Precinct 28,Ballots Cast,,,,197
+Mingo,Precinct 30,Ballots Cast,,,,141
+Mingo,Precinct 41,Ballots Cast,,,,101
+Mingo,Precinct 43,Ballots Cast,,,,167
+Mingo,Precinct 44-1,Ballots Cast,,,,91
+Mingo,Precinct 44-2,Ballots Cast,,,,127
+Mingo,Precinct 45,Ballots Cast,,,,81
+Mingo,Precinct 46-1,Ballots Cast,,,,144
+Mingo,Precinct 46-2,Ballots Cast,,,,188
+Mingo,Precinct 47-1,Ballots Cast,,,,174
+Mingo,Precinct 47-2,Ballots Cast,,,,157
+Mingo,Precinct 48-1,Ballots Cast,,,,66
+Mingo,Precinct 48-2,Ballots Cast,,,,116
+Mingo,Precinct 50,Ballots Cast,,,,51
+Mingo,Precinct 51-1,Ballots Cast,,,,65
+Mingo,Precinct 51-2,Ballots Cast,,,,61
+Mingo,Precinct 55,Ballots Cast,,,,175
+Mingo,Precinct 56,Ballots Cast,,,,55
+Mingo,Precinct 57,Ballots Cast,,,,146
+Mingo,Precinct 59-1,Ballots Cast,,,,134
+Mingo,Precinct 59-2,Ballots Cast,,,,130
+Mingo,Precinct 72,Ballots Cast,,,,107
+Mingo,Precinct 73,Ballots Cast,,,,113
+Mingo,Precinct 74-1,Ballots Cast,,,,109
+Mingo,Precinct 74-2,Ballots Cast,,,,91
+Mingo,Precinct 75,Ballots Cast,,,,142
+Mingo,Precinct 76-1,Ballots Cast,,,,86
+Mingo,Precinct 76-2,Ballots Cast,,,,84
+Mingo,Precinct 1,Straight Party,,REP,Republican,6
+Mingo,Precinct 3,Straight Party,,REP,Republican,2
+Mingo,Precinct 5,Straight Party,,REP,Republican,1
+Mingo,Precinct 7,Straight Party,,REP,Republican,11
+Mingo,Precinct 9,Straight Party,,REP,Republican,12
+Mingo,Precinct 22-1,Straight Party,,REP,Republican,1
+Mingo,Precinct 22-2,Straight Party,,REP,Republican,1
+Mingo,Precinct 23,Straight Party,,REP,Republican,4
+Mingo,Precinct 26,Straight Party,,REP,Republican,6
+Mingo,Precinct 27-1,Straight Party,,REP,Republican,3
+Mingo,Precinct 27-2,Straight Party,,REP,Republican,2
+Mingo,Precinct 28,Straight Party,,REP,Republican,4
+Mingo,Precinct 30,Straight Party,,REP,Republican,6
+Mingo,Precinct 41,Straight Party,,REP,Republican,2
+Mingo,Precinct 43,Straight Party,,REP,Republican,6
+Mingo,Precinct 44-1,Straight Party,,REP,Republican,3
+Mingo,Precinct 44-2,Straight Party,,REP,Republican,2
+Mingo,Precinct 45,Straight Party,,REP,Republican,5
+Mingo,Precinct 46-1,Straight Party,,REP,Republican,0
+Mingo,Precinct 46-2,Straight Party,,REP,Republican,11
+Mingo,Precinct 47-1,Straight Party,,REP,Republican,2
+Mingo,Precinct 47-2,Straight Party,,REP,Republican,7
+Mingo,Precinct 48-1,Straight Party,,REP,Republican,2
+Mingo,Precinct 48-2,Straight Party,,REP,Republican,2
+Mingo,Precinct 50,Straight Party,,REP,Republican,0
+Mingo,Precinct 51-1,Straight Party,,REP,Republican,6
+Mingo,Precinct 51-2,Straight Party,,REP,Republican,3
+Mingo,Precinct 55,Straight Party,,REP,Republican,2
+Mingo,Precinct 56,Straight Party,,REP,Republican,1
+Mingo,Precinct 57,Straight Party,,REP,Republican,3
+Mingo,Precinct 59-1,Straight Party,,REP,Republican,1
+Mingo,Precinct 59-2,Straight Party,,REP,Republican,1
+Mingo,Precinct 72,Straight Party,,REP,Republican,0
+Mingo,Precinct 73,Straight Party,,REP,Republican,6
+Mingo,Precinct 74-1,Straight Party,,REP,Republican,3
+Mingo,Precinct 74-2,Straight Party,,REP,Republican,3
+Mingo,Precinct 75,Straight Party,,REP,Republican,1
+Mingo,Precinct 76-1,Straight Party,,REP,Republican,3
+Mingo,Precinct 76-2,Straight Party,,REP,Republican,0
+Mingo,Precinct 1,Straight Party,,DEM,Democratic,27
+Mingo,Precinct 3,Straight Party,,DEM,Democratic,35
+Mingo,Precinct 5,Straight Party,,DEM,Democratic,5
+Mingo,Precinct 7,Straight Party,,DEM,Democratic,33
+Mingo,Precinct 9,Straight Party,,DEM,Democratic,30
+Mingo,Precinct 22-1,Straight Party,,DEM,Democratic,19
+Mingo,Precinct 22-2,Straight Party,,DEM,Democratic,24
+Mingo,Precinct 23,Straight Party,,DEM,Democratic,34
+Mingo,Precinct 26,Straight Party,,DEM,Democratic,19
+Mingo,Precinct 27-1,Straight Party,,DEM,Democratic,21
+Mingo,Precinct 27-2,Straight Party,,DEM,Democratic,24
+Mingo,Precinct 28,Straight Party,,DEM,Democratic,43
+Mingo,Precinct 30,Straight Party,,DEM,Democratic,24
+Mingo,Precinct 41,Straight Party,,DEM,Democratic,41
+Mingo,Precinct 43,Straight Party,,DEM,Democratic,27
+Mingo,Precinct 44-1,Straight Party,,DEM,Democratic,23
+Mingo,Precinct 44-2,Straight Party,,DEM,Democratic,26
+Mingo,Precinct 45,Straight Party,,DEM,Democratic,9
+Mingo,Precinct 46-1,Straight Party,,DEM,Democratic,25
+Mingo,Precinct 46-2,Straight Party,,DEM,Democratic,127
+Mingo,Precinct 47-1,Straight Party,,DEM,Democratic,38
+Mingo,Precinct 47-2,Straight Party,,DEM,Democratic,29
+Mingo,Precinct 48-1,Straight Party,,DEM,Democratic,5
+Mingo,Precinct 48-2,Straight Party,,DEM,Democratic,28
+Mingo,Precinct 50,Straight Party,,DEM,Democratic,7
+Mingo,Precinct 51-1,Straight Party,,DEM,Democratic,14
+Mingo,Precinct 51-2,Straight Party,,DEM,Democratic,15
+Mingo,Precinct 55,Straight Party,,DEM,Democratic,52
+Mingo,Precinct 56,Straight Party,,DEM,Democratic,11
+Mingo,Precinct 57,Straight Party,,DEM,Democratic,40
+Mingo,Precinct 59-1,Straight Party,,DEM,Democratic,34
+Mingo,Precinct 59-2,Straight Party,,DEM,Democratic,40
+Mingo,Precinct 72,Straight Party,,DEM,Democratic,9
+Mingo,Precinct 73,Straight Party,,DEM,Democratic,39
+Mingo,Precinct 74-1,Straight Party,,DEM,Democratic,19
+Mingo,Precinct 74-2,Straight Party,,DEM,Democratic,27
+Mingo,Precinct 75,Straight Party,,DEM,Democratic,23
+Mingo,Precinct 76-1,Straight Party,,DEM,Democratic,11
+Mingo,Precinct 76-2,Straight Party,,DEM,Democratic,20
+Mingo,Precinct 1,Straight Party,,MTN,Mountain,2
+Mingo,Precinct 3,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 5,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 7,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 9,Straight Party,,MTN,Mountain,2
+Mingo,Precinct 22-1,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 22-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 23,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 26,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 27-1,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 27-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 28,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 30,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 41,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 43,Straight Party,,MTN,Mountain,2
+Mingo,Precinct 44-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 44-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 45,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 46-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 46-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 47-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 47-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 48-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 48-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 50,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 51-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 51-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 55,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 56,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 57,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 59-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 59-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 72,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 73,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 74-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 74-2,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 75,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 76-1,Straight Party,,MTN,Mountain,0
+Mingo,Precinct 76-2,Straight Party,,MTN,Mountain,1
+Mingo,Precinct 1,Governor,,REP,Bill Maloney,35
+Mingo,Precinct 3,Governor,,REP,Bill Maloney,9
+Mingo,Precinct 5,Governor,,REP,Bill Maloney,5
+Mingo,Precinct 7,Governor,,REP,Bill Maloney,34
+Mingo,Precinct 9,Governor,,REP,Bill Maloney,56
+Mingo,Precinct 22-1,Governor,,REP,Bill Maloney,20
+Mingo,Precinct 22-2,Governor,,REP,Bill Maloney,26
+Mingo,Precinct 23,Governor,,REP,Bill Maloney,16
+Mingo,Precinct 26,Governor,,REP,Bill Maloney,18
+Mingo,Precinct 27-1,Governor,,REP,Bill Maloney,14
+Mingo,Precinct 27-2,Governor,,REP,Bill Maloney,16
+Mingo,Precinct 28,Governor,,REP,Bill Maloney,25
+Mingo,Precinct 30,Governor,,REP,Bill Maloney,26
+Mingo,Precinct 41,Governor,,REP,Bill Maloney,10
+Mingo,Precinct 43,Governor,,REP,Bill Maloney,26
+Mingo,Precinct 44-1,Governor,,REP,Bill Maloney,8
+Mingo,Precinct 44-2,Governor,,REP,Bill Maloney,19
+Mingo,Precinct 45,Governor,,REP,Bill Maloney,16
+Mingo,Precinct 46-1,Governor,,REP,Bill Maloney,7
+Mingo,Precinct 46-2,Governor,,REP,Bill Maloney,14
+Mingo,Precinct 47-1,Governor,,REP,Bill Maloney,22
+Mingo,Precinct 47-2,Governor,,REP,Bill Maloney,23
+Mingo,Precinct 48-1,Governor,,REP,Bill Maloney,11
+Mingo,Precinct 48-2,Governor,,REP,Bill Maloney,13
+Mingo,Precinct 50,Governor,,REP,Bill Maloney,7
+Mingo,Precinct 51-1,Governor,,REP,Bill Maloney,14
+Mingo,Precinct 51-2,Governor,,REP,Bill Maloney,5
+Mingo,Precinct 55,Governor,,REP,Bill Maloney,15
+Mingo,Precinct 56,Governor,,REP,Bill Maloney,3
+Mingo,Precinct 57,Governor,,REP,Bill Maloney,15
+Mingo,Precinct 59-1,Governor,,REP,Bill Maloney,23
+Mingo,Precinct 59-2,Governor,,REP,Bill Maloney,15
+Mingo,Precinct 72,Governor,,REP,Bill Maloney,12
+Mingo,Precinct 73,Governor,,REP,Bill Maloney,8
+Mingo,Precinct 74-1,Governor,,REP,Bill Maloney,12
+Mingo,Precinct 74-2,Governor,,REP,Bill Maloney,6
+Mingo,Precinct 75,Governor,,REP,Bill Maloney,7
+Mingo,Precinct 76-1,Governor,,REP,Bill Maloney,13
+Mingo,Precinct 76-2,Governor,,REP,Bill Maloney,5
+Mingo,Precinct 1,Governor,,DEM,Earl Ray Tomblin,95
+Mingo,Precinct 3,Governor,,DEM,Earl Ray Tomblin,95
+Mingo,Precinct 5,Governor,,DEM,Earl Ray Tomblin,26
+Mingo,Precinct 7,Governor,,DEM,Earl Ray Tomblin,145
+Mingo,Precinct 9,Governor,,DEM,Earl Ray Tomblin,174
+Mingo,Precinct 22-1,Governor,,DEM,Earl Ray Tomblin,93
+Mingo,Precinct 22-2,Governor,,DEM,Earl Ray Tomblin,101
+Mingo,Precinct 23,Governor,,DEM,Earl Ray Tomblin,108
+Mingo,Precinct 26,Governor,,DEM,Earl Ray Tomblin,68
+Mingo,Precinct 27-1,Governor,,DEM,Earl Ray Tomblin,85
+Mingo,Precinct 27-2,Governor,,DEM,Earl Ray Tomblin,93
+Mingo,Precinct 28,Governor,,DEM,Earl Ray Tomblin,168
+Mingo,Precinct 30,Governor,,DEM,Earl Ray Tomblin,115
+Mingo,Precinct 41,Governor,,DEM,Earl Ray Tomblin,86
+Mingo,Precinct 43,Governor,,DEM,Earl Ray Tomblin,131
+Mingo,Precinct 44-1,Governor,,DEM,Earl Ray Tomblin,81
+Mingo,Precinct 44-2,Governor,,DEM,Earl Ray Tomblin,104
+Mingo,Precinct 45,Governor,,DEM,Earl Ray Tomblin,62
+Mingo,Precinct 46-1,Governor,,DEM,Earl Ray Tomblin,135
+Mingo,Precinct 46-2,Governor,,DEM,Earl Ray Tomblin,168
+Mingo,Precinct 47-1,Governor,,DEM,Earl Ray Tomblin,148
+Mingo,Precinct 47-2,Governor,,DEM,Earl Ray Tomblin,129
+Mingo,Precinct 48-1,Governor,,DEM,Earl Ray Tomblin,54
+Mingo,Precinct 48-2,Governor,,DEM,Earl Ray Tomblin,99
+Mingo,Precinct 50,Governor,,DEM,Earl Ray Tomblin,43
+Mingo,Precinct 51-1,Governor,,DEM,Earl Ray Tomblin,50
+Mingo,Precinct 51-2,Governor,,DEM,Earl Ray Tomblin,56
+Mingo,Precinct 55,Governor,,DEM,Earl Ray Tomblin,153
+Mingo,Precinct 56,Governor,,DEM,Earl Ray Tomblin,51
+Mingo,Precinct 57,Governor,,DEM,Earl Ray Tomblin,122
+Mingo,Precinct 59-1,Governor,,DEM,Earl Ray Tomblin,108
+Mingo,Precinct 59-2,Governor,,DEM,Earl Ray Tomblin,111
+Mingo,Precinct 72,Governor,,DEM,Earl Ray Tomblin,94
+Mingo,Precinct 73,Governor,,DEM,Earl Ray Tomblin,99
+Mingo,Precinct 74-1,Governor,,DEM,Earl Ray Tomblin,95
+Mingo,Precinct 74-2,Governor,,DEM,Earl Ray Tomblin,85
+Mingo,Precinct 75,Governor,,DEM,Earl Ray Tomblin,132
+Mingo,Precinct 76-1,Governor,,DEM,Earl Ray Tomblin,72
+Mingo,Precinct 76-2,Governor,,DEM,Earl Ray Tomblin,78
+Mingo,Precinct 1,Governor,,MTN,Bob Henry Baber,3
+Mingo,Precinct 3,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 5,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 7,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 9,Governor,,MTN,Bob Henry Baber,4
+Mingo,Precinct 22-1,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 22-2,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 23,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 26,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 27-1,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 27-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 28,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 30,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 41,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 43,Governor,,MTN,Bob Henry Baber,2
+Mingo,Precinct 44-1,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 44-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 45,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 46-1,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 46-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 47-1,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 47-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 48-1,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 48-2,Governor,,MTN,Bob Henry Baber,3
+Mingo,Precinct 50,Governor,,MTN,Bob Henry Baber,1
+Mingo,Precinct 51-1,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 51-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 55,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 56,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 57,Governor,,MTN,Bob Henry Baber,5
+Mingo,Precinct 59-1,Governor,,MTN,Bob Henry Baber,2
+Mingo,Precinct 59-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 72,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 73,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 74-1,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 74-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 75,Governor,,MTN,Bob Henry Baber,2
+Mingo,Precinct 76-1,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 76-2,Governor,,MTN,Bob Henry Baber,0
+Mingo,Precinct 1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 3,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 5,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 7,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 9,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 22-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 22-2,Governor,,,Marla Dee Ingels,2
+Mingo,Precinct 23,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 26,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 27-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 27-2,Governor,,,Marla Dee Ingels,1
+Mingo,Precinct 28,Governor,,,Marla Dee Ingels,1
+Mingo,Precinct 30,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 41,Governor,,,Marla Dee Ingels,1
+Mingo,Precinct 43,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 44-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 44-2,Governor,,,Marla Dee Ingels,1
+Mingo,Precinct 45,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 46-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 46-2,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 47-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 47-2,Governor,,,Marla Dee Ingels,1
+Mingo,Precinct 48-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 48-2,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 50,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 51-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 51-2,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 55,Governor,,,Marla Dee Ingels,2
+Mingo,Precinct 56,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 57,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 59-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 59-2,Governor,,,Marla Dee Ingels,2
+Mingo,Precinct 72,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 73,Governor,,,Marla Dee Ingels,2
+Mingo,Precinct 74-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 74-2,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 75,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 76-1,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 76-2,Governor,,,Marla Dee Ingels,0
+Mingo,Precinct 1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 3,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 5,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 7,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 9,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 22-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 22-2,Governor,,,Harry V. Bertram,1
+Mingo,Precinct 23,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 26,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 27-1,Governor,,,Harry V. Bertram,2
+Mingo,Precinct 27-2,Governor,,,Harry V. Bertram,1
+Mingo,Precinct 28,Governor,,,Harry V. Bertram,2
+Mingo,Precinct 30,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 41,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 43,Governor,,,Harry V. Bertram,1
+Mingo,Precinct 44-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 44-2,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 45,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 46-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 46-2,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 47-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 47-2,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 48-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 48-2,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 50,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 51-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 51-2,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 55,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 56,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 57,Governor,,,Harry V. Bertram,1
+Mingo,Precinct 59-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 59-2,Governor,,,Harry V. Bertram,1
+Mingo,Precinct 72,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 73,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 74-1,Governor,,,Harry V. Bertram,1
+Mingo,Precinct 74-2,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 75,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 76-1,Governor,,,Harry V. Bertram,0
+Mingo,Precinct 76-2,Governor,,,Harry V. Bertram,0

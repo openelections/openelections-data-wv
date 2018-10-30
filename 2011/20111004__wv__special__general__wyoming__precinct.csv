@@ -1,0 +1,192 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,1,Governor,,DEM,Earl Ray Tomblin,78
+Wyoming,2,Governor,,DEM,Earl Ray Tomblin,39
+Wyoming,4,Governor,,DEM,Earl Ray Tomblin,22
+Wyoming,6,Governor,,DEM,Earl Ray Tomblin,33
+Wyoming,7,Governor,,DEM,Earl Ray Tomblin,33
+Wyoming,9,Governor,,DEM,Earl Ray Tomblin,41
+Wyoming,10,Governor,,DEM,Earl Ray Tomblin,29
+Wyoming,12,Governor,,DEM,Earl Ray Tomblin,13
+Wyoming,13,Governor,,DEM,Earl Ray Tomblin,17
+Wyoming,14,Governor,,DEM,Earl Ray Tomblin,34
+Wyoming,15,Governor,,DEM,Earl Ray Tomblin,33
+Wyoming,16,Governor,,DEM,Earl Ray Tomblin,61
+Wyoming,17,Governor,,DEM,Earl Ray Tomblin,35
+Wyoming,18,Governor,,DEM,Earl Ray Tomblin,47
+Wyoming,19,Governor,,DEM,Earl Ray Tomblin,39
+Wyoming,20,Governor,,DEM,Earl Ray Tomblin,54
+Wyoming,21,Governor,,DEM,Earl Ray Tomblin,26
+Wyoming,22,Governor,,DEM,Earl Ray Tomblin,24
+Wyoming,23,Governor,,DEM,Earl Ray Tomblin,38
+Wyoming,24A,Governor,,DEM,Earl Ray Tomblin,83
+Wyoming,24B,Governor,,DEM,Earl Ray Tomblin,43
+Wyoming,26,Governor,,DEM,Earl Ray Tomblin,66
+Wyoming,27A,Governor,,DEM,Earl Ray Tomblin,57
+Wyoming,27B,Governor,,DEM,Earl Ray Tomblin,46
+Wyoming,28,Governor,,DEM,Earl Ray Tomblin,84
+Wyoming,29,Governor,,DEM,Earl Ray Tomblin,93
+Wyoming,31,Governor,,DEM,Earl Ray Tomblin,58
+Wyoming,32,Governor,,DEM,Earl Ray Tomblin,77
+Wyoming,33,Governor,,DEM,Earl Ray Tomblin,53
+Wyoming,34,Governor,,DEM,Earl Ray Tomblin,16
+Wyoming,37,Governor,,DEM,Earl Ray Tomblin,64
+Wyoming,38,Governor,,DEM,Earl Ray Tomblin,34
+Wyoming,39,Governor,,DEM,Earl Ray Tomblin,29
+Wyoming,43,Governor,,DEM,Earl Ray Tomblin,56
+Wyoming,44,Governor,,DEM,Earl Ray Tomblin,93
+Wyoming,45,Governor,,DEM,Earl Ray Tomblin,24
+Wyoming,1,Governor,,REP,Bill Maloney,24
+Wyoming,2,Governor,,REP,Bill Maloney,21
+Wyoming,4,Governor,,REP,Bill Maloney,15
+Wyoming,6,Governor,,REP,Bill Maloney,18
+Wyoming,7,Governor,,REP,Bill Maloney,18
+Wyoming,9,Governor,,REP,Bill Maloney,18
+Wyoming,10,Governor,,REP,Bill Maloney,14
+Wyoming,12,Governor,,REP,Bill Maloney,4
+Wyoming,13,Governor,,REP,Bill Maloney,14
+Wyoming,14,Governor,,REP,Bill Maloney,2
+Wyoming,15,Governor,,REP,Bill Maloney,15
+Wyoming,16,Governor,,REP,Bill Maloney,20
+Wyoming,17,Governor,,REP,Bill Maloney,21
+Wyoming,18,Governor,,REP,Bill Maloney,16
+Wyoming,19,Governor,,REP,Bill Maloney,18
+Wyoming,20,Governor,,REP,Bill Maloney,26
+Wyoming,21,Governor,,REP,Bill Maloney,6
+Wyoming,22,Governor,,REP,Bill Maloney,18
+Wyoming,23,Governor,,REP,Bill Maloney,11
+Wyoming,24A,Governor,,REP,Bill Maloney,13
+Wyoming,24B,Governor,,REP,Bill Maloney,7
+Wyoming,26,Governor,,REP,Bill Maloney,33
+Wyoming,27A,Governor,,REP,Bill Maloney,18
+Wyoming,27B,Governor,,REP,Bill Maloney,15
+Wyoming,28,Governor,,REP,Bill Maloney,30
+Wyoming,29,Governor,,REP,Bill Maloney,43
+Wyoming,31,Governor,,REP,Bill Maloney,27
+Wyoming,32,Governor,,REP,Bill Maloney,11
+Wyoming,33,Governor,,REP,Bill Maloney,22
+Wyoming,34,Governor,,REP,Bill Maloney,6
+Wyoming,37,Governor,,REP,Bill Maloney,47
+Wyoming,38,Governor,,REP,Bill Maloney,11
+Wyoming,39,Governor,,REP,Bill Maloney,5
+Wyoming,43,Governor,,REP,Bill Maloney,27
+Wyoming,44,Governor,,REP,Bill Maloney,29
+Wyoming,45,Governor,,REP,Bill Maloney,2
+Wyoming,1,Governor,,MTN,Bob Henry Baber,1
+Wyoming,2,Governor,,MTN,Bob Henry Baber,0
+Wyoming,4,Governor,,MTN,Bob Henry Baber,0
+Wyoming,6,Governor,,MTN,Bob Henry Baber,0
+Wyoming,7,Governor,,MTN,Bob Henry Baber,2
+Wyoming,9,Governor,,MTN,Bob Henry Baber,1
+Wyoming,10,Governor,,MTN,Bob Henry Baber,0
+Wyoming,12,Governor,,MTN,Bob Henry Baber,0
+Wyoming,13,Governor,,MTN,Bob Henry Baber,0
+Wyoming,14,Governor,,MTN,Bob Henry Baber,0
+Wyoming,15,Governor,,MTN,Bob Henry Baber,1
+Wyoming,16,Governor,,MTN,Bob Henry Baber,1
+Wyoming,17,Governor,,MTN,Bob Henry Baber,3
+Wyoming,18,Governor,,MTN,Bob Henry Baber,1
+Wyoming,19,Governor,,MTN,Bob Henry Baber,0
+Wyoming,20,Governor,,MTN,Bob Henry Baber,0
+Wyoming,21,Governor,,MTN,Bob Henry Baber,0
+Wyoming,22,Governor,,MTN,Bob Henry Baber,0
+Wyoming,23,Governor,,MTN,Bob Henry Baber,0
+Wyoming,24A,Governor,,MTN,Bob Henry Baber,0
+Wyoming,24B,Governor,,MTN,Bob Henry Baber,0
+Wyoming,26,Governor,,MTN,Bob Henry Baber,0
+Wyoming,27A,Governor,,MTN,Bob Henry Baber,0
+Wyoming,27B,Governor,,MTN,Bob Henry Baber,2
+Wyoming,28,Governor,,MTN,Bob Henry Baber,1
+Wyoming,29,Governor,,MTN,Bob Henry Baber,0
+Wyoming,31,Governor,,MTN,Bob Henry Baber,2
+Wyoming,32,Governor,,MTN,Bob Henry Baber,1
+Wyoming,33,Governor,,MTN,Bob Henry Baber,1
+Wyoming,34,Governor,,MTN,Bob Henry Baber,1
+Wyoming,37,Governor,,MTN,Bob Henry Baber,2
+Wyoming,38,Governor,,MTN,Bob Henry Baber,2
+Wyoming,39,Governor,,MTN,Bob Henry Baber,3
+Wyoming,43,Governor,,MTN,Bob Henry Baber,0
+Wyoming,44,Governor,,MTN,Bob Henry Baber,2
+Wyoming,45,Governor,,MTN,Bob Henry Baber,0
+Wyoming,1,Governor,,IND,Marla Dee Ingels,0
+Wyoming,2,Governor,,IND,Marla Dee Ingels,0
+Wyoming,4,Governor,,IND,Marla Dee Ingels,0
+Wyoming,6,Governor,,IND,Marla Dee Ingels,0
+Wyoming,7,Governor,,IND,Marla Dee Ingels,2
+Wyoming,9,Governor,,IND,Marla Dee Ingels,1
+Wyoming,10,Governor,,IND,Marla Dee Ingels,0
+Wyoming,12,Governor,,IND,Marla Dee Ingels,0
+Wyoming,13,Governor,,IND,Marla Dee Ingels,0
+Wyoming,14,Governor,,IND,Marla Dee Ingels,0
+Wyoming,15,Governor,,IND,Marla Dee Ingels,0
+Wyoming,16,Governor,,IND,Marla Dee Ingels,1
+Wyoming,17,Governor,,IND,Marla Dee Ingels,0
+Wyoming,18,Governor,,IND,Marla Dee Ingels,0
+Wyoming,19,Governor,,IND,Marla Dee Ingels,0
+Wyoming,20,Governor,,IND,Marla Dee Ingels,2
+Wyoming,21,Governor,,IND,Marla Dee Ingels,0
+Wyoming,22,Governor,,IND,Marla Dee Ingels,0
+Wyoming,23,Governor,,IND,Marla Dee Ingels,0
+Wyoming,24A,Governor,,IND,Marla Dee Ingels,0
+Wyoming,24B,Governor,,IND,Marla Dee Ingels,0
+Wyoming,26,Governor,,IND,Marla Dee Ingels,0
+Wyoming,27A,Governor,,IND,Marla Dee Ingels,0
+Wyoming,27B,Governor,,IND,Marla Dee Ingels,0
+Wyoming,28,Governor,,IND,Marla Dee Ingels,1
+Wyoming,29,Governor,,IND,Marla Dee Ingels,0
+Wyoming,31,Governor,,IND,Marla Dee Ingels,5
+Wyoming,32,Governor,,IND,Marla Dee Ingels,1
+Wyoming,33,Governor,,IND,Marla Dee Ingels,0
+Wyoming,34,Governor,,IND,Marla Dee Ingels,0
+Wyoming,37,Governor,,IND,Marla Dee Ingels,1
+Wyoming,38,Governor,,IND,Marla Dee Ingels,0
+Wyoming,39,Governor,,IND,Marla Dee Ingels,0
+Wyoming,43,Governor,,IND,Marla Dee Ingels,0
+Wyoming,44,Governor,,IND,Marla Dee Ingels,1
+Wyoming,45,Governor,,IND,Marla Dee Ingels,0
+Wyoming,1,Governor,,ATP,Harry V. Bertram,0
+Wyoming,2,Governor,,ATP,Harry V. Bertram,0
+Wyoming,4,Governor,,ATP,Harry V. Bertram,0
+Wyoming,6,Governor,,ATP,Harry V. Bertram,0
+Wyoming,7,Governor,,ATP,Harry V. Bertram,0
+Wyoming,9,Governor,,ATP,Harry V. Bertram,0
+Wyoming,10,Governor,,ATP,Harry V. Bertram,1
+Wyoming,12,Governor,,ATP,Harry V. Bertram,0
+Wyoming,13,Governor,,ATP,Harry V. Bertram,0
+Wyoming,14,Governor,,ATP,Harry V. Bertram,0
+Wyoming,15,Governor,,ATP,Harry V. Bertram,0
+Wyoming,16,Governor,,ATP,Harry V. Bertram,0
+Wyoming,17,Governor,,ATP,Harry V. Bertram,0
+Wyoming,18,Governor,,ATP,Harry V. Bertram,0
+Wyoming,19,Governor,,ATP,Harry V. Bertram,0
+Wyoming,20,Governor,,ATP,Harry V. Bertram,0
+Wyoming,21,Governor,,ATP,Harry V. Bertram,0
+Wyoming,22,Governor,,ATP,Harry V. Bertram,0
+Wyoming,23,Governor,,ATP,Harry V. Bertram,0
+Wyoming,24A,Governor,,ATP,Harry V. Bertram,0
+Wyoming,24B,Governor,,ATP,Harry V. Bertram,1
+Wyoming,26,Governor,,ATP,Harry V. Bertram,0
+Wyoming,27A,Governor,,ATP,Harry V. Bertram,0
+Wyoming,27B,Governor,,ATP,Harry V. Bertram,0
+Wyoming,28,Governor,,ATP,Harry V. Bertram,0
+Wyoming,29,Governor,,ATP,Harry V. Bertram,0
+Wyoming,31,Governor,,ATP,Harry V. Bertram,0
+Wyoming,32,Governor,,ATP,Harry V. Bertram,0
+Wyoming,33,Governor,,ATP,Harry V. Bertram,0
+Wyoming,34,Governor,,ATP,Harry V. Bertram,0
+Wyoming,37,Governor,,ATP,Harry V. Bertram,0
+Wyoming,38,Governor,,ATP,Harry V. Bertram,0
+Wyoming,39,Governor,,ATP,Harry V. Bertram,0
+Wyoming,43,Governor,,ATP,Harry V. Bertram,1
+Wyoming,44,Governor,,ATP,Harry V. Bertram,1
+Wyoming,45,Governor,,ATP,Harry V. Bertram,0
+Wyoming,Early,Governor,,,Cecil H. Underwood,1
+Wyoming,Early,Governor,,DEM,Earl Ray Tomblin,370
+Wyoming,Early,Governor,,REP,Bill Maloney,107
+Wyoming,Early,Governor,,MTN,Bob Henry Baber,16
+Wyoming,Early,Governor,,IND,Marla Dee Ingels,4
+Wyoming,Early,Governor,,ATP,Harry V. Bertram,2
+Wyoming,Provisional,Governor,,DEM,Earl Ray Tomblin,12
+Wyoming,Provisional,Governor,,REP,Bill Maloney,5
+Wyoming,Provisional,Governor,,MTN,Bob Henry Baber,0
+Wyoming,Provisional,Governor,,IND,Marla Dee Ingels,0
+Wyoming,Provisional,Governor,,ATP,Harry V. Bertram,0
