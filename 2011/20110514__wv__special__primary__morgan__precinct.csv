@@ -1,0 +1,183 @@
+county,precinct,office,district,party,candidate,votes
+Morgan,1,Governor,,REP,Bill Maloney,14
+Morgan,1,Governor,,REP,Ralph William Clark,3
+Morgan,1,Governor,,REP,Larry V. Faircloth,26
+Morgan,1,Governor,,REP,Mark A. Sorsaia,2
+Morgan,1,Governor,,REP,Clark Barnes,23
+Morgan,1,Governor,,REP,Cliff Ellis,1
+Morgan,1,Governor,,REP,Betty Ireland,20
+Morgan,1,Governor,,REP,Mitch B. Carmichael,0
+Morgan,2,Governor,,REP,Bill Maloney,20
+Morgan,2,Governor,,REP,Ralph William Clark,1
+Morgan,2,Governor,,REP,Larry V. Faircloth,18
+Morgan,2,Governor,,REP,Mark A. Sorsaia,1
+Morgan,2,Governor,,REP,Clark Barnes,29
+Morgan,2,Governor,,REP,Cliff Ellis,0
+Morgan,2,Governor,,REP,Betty Ireland,25
+Morgan,2,Governor,,REP,Mitch B. Carmichael,1
+Morgan,4,Governor,,REP,Bill Maloney,2
+Morgan,4,Governor,,REP,Ralph William Clark,0
+Morgan,4,Governor,,REP,Larry V. Faircloth,7
+Morgan,4,Governor,,REP,Mark A. Sorsaia,0
+Morgan,4,Governor,,REP,Clark Barnes,13
+Morgan,4,Governor,,REP,Cliff Ellis,0
+Morgan,4,Governor,,REP,Betty Ireland,13
+Morgan,4,Governor,,REP,Mitch B. Carmichael,2
+Morgan,5,Governor,,REP,Bill Maloney,6
+Morgan,5,Governor,,REP,Ralph William Clark,0
+Morgan,5,Governor,,REP,Larry V. Faircloth,7
+Morgan,5,Governor,,REP,Mark A. Sorsaia,2
+Morgan,5,Governor,,REP,Clark Barnes,12
+Morgan,5,Governor,,REP,Cliff Ellis,0
+Morgan,5,Governor,,REP,Betty Ireland,12
+Morgan,5,Governor,,REP,Mitch B. Carmichael,0
+Morgan,6,Governor,,REP,Bill Maloney,9
+Morgan,6,Governor,,REP,Ralph William Clark,1
+Morgan,6,Governor,,REP,Larry V. Faircloth,7
+Morgan,6,Governor,,REP,Mark A. Sorsaia,0
+Morgan,6,Governor,,REP,Clark Barnes,13
+Morgan,6,Governor,,REP,Cliff Ellis,0
+Morgan,6,Governor,,REP,Betty Ireland,13
+Morgan,6,Governor,,REP,Mitch B. Carmichael,4
+Morgan,7,Governor,,REP,Bill Maloney,5
+Morgan,7,Governor,,REP,Ralph William Clark,1
+Morgan,7,Governor,,REP,Larry V. Faircloth,7
+Morgan,7,Governor,,REP,Mark A. Sorsaia,1
+Morgan,7,Governor,,REP,Clark Barnes,9
+Morgan,7,Governor,,REP,Cliff Ellis,0
+Morgan,7,Governor,,REP,Betty Ireland,12
+Morgan,7,Governor,,REP,Mitch B. Carmichael,0
+Morgan,8,Governor,,REP,Bill Maloney,9
+Morgan,8,Governor,,REP,Ralph William Clark,1
+Morgan,8,Governor,,REP,Larry V. Faircloth,23
+Morgan,8,Governor,,REP,Mark A. Sorsaia,3
+Morgan,8,Governor,,REP,Clark Barnes,24
+Morgan,8,Governor,,REP,Cliff Ellis,0
+Morgan,8,Governor,,REP,Betty Ireland,12
+Morgan,8,Governor,,REP,Mitch B. Carmichael,0
+Morgan,13,Governor,,REP,Bill Maloney,10
+Morgan,13,Governor,,REP,Ralph William Clark,1
+Morgan,13,Governor,,REP,Larry V. Faircloth,19
+Morgan,13,Governor,,REP,Mark A. Sorsaia,0
+Morgan,13,Governor,,REP,Clark Barnes,31
+Morgan,13,Governor,,REP,Cliff Ellis,0
+Morgan,13,Governor,,REP,Betty Ireland,12
+Morgan,13,Governor,,REP,Mitch B. Carmichael,0
+Morgan,18,Governor,,REP,Bill Maloney,6
+Morgan,18,Governor,,REP,Ralph William Clark,0
+Morgan,18,Governor,,REP,Larry V. Faircloth,9
+Morgan,18,Governor,,REP,Mark A. Sorsaia,1
+Morgan,18,Governor,,REP,Clark Barnes,28
+Morgan,18,Governor,,REP,Cliff Ellis,1
+Morgan,18,Governor,,REP,Betty Ireland,6
+Morgan,18,Governor,,REP,Mitch B. Carmichael,0
+Morgan,21,Governor,,REP,Bill Maloney,7
+Morgan,21,Governor,,REP,Ralph William Clark,0
+Morgan,21,Governor,,REP,Larry V. Faircloth,7
+Morgan,21,Governor,,REP,Mark A. Sorsaia,3
+Morgan,21,Governor,,REP,Clark Barnes,26
+Morgan,21,Governor,,REP,Cliff Ellis,0
+Morgan,21,Governor,,REP,Betty Ireland,17
+Morgan,21,Governor,,REP,Mitch B. Carmichael,0
+Morgan,23,Governor,,REP,Bill Maloney,14
+Morgan,23,Governor,,REP,Ralph William Clark,0
+Morgan,23,Governor,,REP,Larry V. Faircloth,20
+Morgan,23,Governor,,REP,Mark A. Sorsaia,3
+Morgan,23,Governor,,REP,Clark Barnes,21
+Morgan,23,Governor,,REP,Cliff Ellis,0
+Morgan,23,Governor,,REP,Betty Ireland,21
+Morgan,23,Governor,,REP,Mitch B. Carmichael,0
+Morgan,24,Governor,,REP,Bill Maloney,18
+Morgan,24,Governor,,REP,Ralph William Clark,3
+Morgan,24,Governor,,REP,Larry V. Faircloth,26
+Morgan,24,Governor,,REP,Mark A. Sorsaia,0
+Morgan,24,Governor,,REP,Clark Barnes,32
+Morgan,24,Governor,,REP,Cliff Ellis,3
+Morgan,24,Governor,,REP,Betty Ireland,14
+Morgan,24,Governor,,REP,Mitch B. Carmichael,0
+Morgan,25,Governor,,REP,Bill Maloney,7
+Morgan,25,Governor,,REP,Ralph William Clark,1
+Morgan,25,Governor,,REP,Larry V. Faircloth,9
+Morgan,25,Governor,,REP,Mark A. Sorsaia,2
+Morgan,25,Governor,,REP,Clark Barnes,18
+Morgan,25,Governor,,REP,Cliff Ellis,0
+Morgan,25,Governor,,REP,Betty Ireland,9
+Morgan,25,Governor,,REP,Mitch B. Carmichael,0
+Morgan,1,Governor,,DEM,Earl Ray Tomblin,21
+Morgan,1,Governor,,DEM,Jeffrey V. Kessler,3
+Morgan,1,Governor,,DEM,John D. Perdue,30
+Morgan,1,Governor,,DEM,Rick Thompson,17
+Morgan,1,Governor,,DEM,Arne Moltis,0
+Morgan,1,Governor,,DEM,Natalie E. Tennant,13
+Morgan,2,Governor,,DEM,Earl Ray Tomblin,14
+Morgan,2,Governor,,DEM,Jeffrey V. Kessler,0
+Morgan,2,Governor,,DEM,John D. Perdue,14
+Morgan,2,Governor,,DEM,Rick Thompson,2
+Morgan,2,Governor,,DEM,Arne Moltis,1
+Morgan,2,Governor,,DEM,Natalie E. Tennant,9
+Morgan,4,Governor,,DEM,Earl Ray Tomblin,13
+Morgan,4,Governor,,DEM,Jeffrey V. Kessler,0
+Morgan,4,Governor,,DEM,John D. Perdue,7
+Morgan,4,Governor,,DEM,Rick Thompson,4
+Morgan,4,Governor,,DEM,Arne Moltis,0
+Morgan,4,Governor,,DEM,Natalie E. Tennant,4
+Morgan,5,Governor,,DEM,Earl Ray Tomblin,8
+Morgan,5,Governor,,DEM,Jeffrey V. Kessler,1
+Morgan,5,Governor,,DEM,John D. Perdue,9
+Morgan,5,Governor,,DEM,Rick Thompson,6
+Morgan,5,Governor,,DEM,Arne Moltis,0
+Morgan,5,Governor,,DEM,Natalie E. Tennant,9
+Morgan,6,Governor,,DEM,Earl Ray Tomblin,18
+Morgan,6,Governor,,DEM,Jeffrey V. Kessler,1
+Morgan,6,Governor,,DEM,John D. Perdue,12
+Morgan,6,Governor,,DEM,Rick Thompson,0
+Morgan,6,Governor,,DEM,Arne Moltis,0
+Morgan,6,Governor,,DEM,Natalie E. Tennant,5
+Morgan,7,Governor,,DEM,Earl Ray Tomblin,11
+Morgan,7,Governor,,DEM,Jeffrey V. Kessler,3
+Morgan,7,Governor,,DEM,John D. Perdue,10
+Morgan,7,Governor,,DEM,Rick Thompson,7
+Morgan,7,Governor,,DEM,Arne Moltis,1
+Morgan,7,Governor,,DEM,Natalie E. Tennant,20
+Morgan,8,Governor,,DEM,Earl Ray Tomblin,20
+Morgan,8,Governor,,DEM,Jeffrey V. Kessler,1
+Morgan,8,Governor,,DEM,John D. Perdue,19
+Morgan,8,Governor,,DEM,Rick Thompson,3
+Morgan,8,Governor,,DEM,Arne Moltis,0
+Morgan,8,Governor,,DEM,Natalie E. Tennant,11
+Morgan,13,Governor,,DEM,Earl Ray Tomblin,11
+Morgan,13,Governor,,DEM,Jeffrey V. Kessler,0
+Morgan,13,Governor,,DEM,John D. Perdue,18
+Morgan,13,Governor,,DEM,Rick Thompson,4
+Morgan,13,Governor,,DEM,Arne Moltis,0
+Morgan,13,Governor,,DEM,Natalie E. Tennant,9
+Morgan,18,Governor,,DEM,Earl Ray Tomblin,14
+Morgan,18,Governor,,DEM,Jeffrey V. Kessler,0
+Morgan,18,Governor,,DEM,John D. Perdue,9
+Morgan,18,Governor,,DEM,Rick Thompson,6
+Morgan,18,Governor,,DEM,Arne Moltis,2
+Morgan,18,Governor,,DEM,Natalie E. Tennant,5
+Morgan,21,Governor,,DEM,Earl Ray Tomblin,26
+Morgan,21,Governor,,DEM,Jeffrey V. Kessler,0
+Morgan,21,Governor,,DEM,John D. Perdue,22
+Morgan,21,Governor,,DEM,Rick Thompson,5
+Morgan,21,Governor,,DEM,Arne Moltis,0
+Morgan,21,Governor,,DEM,Natalie E. Tennant,9
+Morgan,23,Governor,,DEM,Earl Ray Tomblin,17
+Morgan,23,Governor,,DEM,Jeffrey V. Kessler,2
+Morgan,23,Governor,,DEM,John D. Perdue,9
+Morgan,23,Governor,,DEM,Rick Thompson,7
+Morgan,23,Governor,,DEM,Arne Moltis,0
+Morgan,23,Governor,,DEM,Natalie E. Tennant,10
+Morgan,24,Governor,,DEM,Earl Ray Tomblin,17
+Morgan,24,Governor,,DEM,Jeffrey V. Kessler,2
+Morgan,24,Governor,,DEM,John D. Perdue,39
+Morgan,24,Governor,,DEM,Rick Thompson,6
+Morgan,24,Governor,,DEM,Arne Moltis,0
+Morgan,24,Governor,,DEM,Natalie E. Tennant,24
+Morgan,25,Governor,,DEM,Earl Ray Tomblin,16
+Morgan,25,Governor,,DEM,Jeffrey V. Kessler,0
+Morgan,25,Governor,,DEM,John D. Perdue,17
+Morgan,25,Governor,,DEM,Rick Thompson,2
+Morgan,25,Governor,,DEM,Arne Moltis,0
+Morgan,25,Governor,,DEM,Natalie E. Tennant,2
