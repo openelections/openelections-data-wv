@@ -22,6 +22,7 @@ These CSV files are converted from [original source files](https://github.com/op
 
 | year  | general  | primary  |
 |---|---|---|
+| 2018  | n/a | [done](https://github.com/openelections/openelections-data-wv/blob/master/2018/20180508__wv__primary.csv) |
 | 2016  | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20161108__wv__general__county__raw.csv)  | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20160510__wv__primary__county__raw.csv) |
 | 2014  | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20141104__wv__general__county__raw.csv)  | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20160510__wv__primary__county__raw.csv) |
 | 2012  | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20121106__wv__general__county__raw.csv) | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20120508__wv__primary__county__raw.csv) |
