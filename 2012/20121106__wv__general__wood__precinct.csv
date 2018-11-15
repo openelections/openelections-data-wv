@@ -1,0 +1,2269 @@
+county,precinct,office,district,party,candidate,votes
+Wood,1,President,,DEM,Barack Obama,74
+Wood,8,President,,DEM,Barack Obama,108
+Wood,10,President,,DEM,Barack Obama,116
+Wood,13,President,,DEM,Barack Obama,75
+Wood,16,President,,DEM,Barack Obama,68
+Wood,17,President,,DEM,Barack Obama,111
+Wood,19,President,,DEM,Barack Obama,212
+Wood,23,President,,DEM,Barack Obama,107
+Wood,24,President,,DEM,Barack Obama,173
+Wood,27,President,,DEM,Barack Obama,114
+Wood,29,President,,DEM,Barack Obama,173
+Wood,31,President,,DEM,Barack Obama,113
+Wood,32,President,,DEM,Barack Obama,268
+Wood,33,President,,DEM,Barack Obama,73
+Wood,34A,President,,DEM,Barack Obama,162
+Wood,35,President,,DEM,Barack Obama,204
+Wood,36,President,,DEM,Barack Obama,201
+Wood,36B,President,,DEM,Barack Obama,93
+Wood,36C,President,,DEM,Barack Obama,120
+Wood,37,President,,DEM,Barack Obama,56
+Wood,37A,President,,DEM,Barack Obama,97
+Wood,37B,President,,DEM,Barack Obama,100
+Wood,37C,President,,DEM,Barack Obama,95
+Wood,37D,President,,DEM,Barack Obama,123
+Wood,38,President,,DEM,Barack Obama,34
+Wood,40,President,,DEM,Barack Obama,134
+Wood,40A,President,,DEM,Barack Obama,193
+Wood,41,President,,DEM,Barack Obama,149
+Wood,42,President,,DEM,Barack Obama,106
+Wood,42A,President,,DEM,Barack Obama,237
+Wood,43A,President,,DEM,Barack Obama,188
+Wood,44,President,,DEM,Barack Obama,172
+Wood,44A,President,,DEM,Barack Obama,140
+Wood,45,President,,DEM,Barack Obama,106
+Wood,45A,President,,DEM,Barack Obama,138
+Wood,46,President,,DEM,Barack Obama,82
+Wood,46A,President,,DEM,Barack Obama,150
+Wood,46B,President,,DEM,Barack Obama,234
+Wood,47,President,,DEM,Barack Obama,102
+Wood,48,President,,DEM,Barack Obama,191
+Wood,49,President,,DEM,Barack Obama,131
+Wood,49A,President,,DEM,Barack Obama,139
+Wood,50,President,,DEM,Barack Obama,98
+Wood,51,President,,DEM,Barack Obama,292
+Wood,52,President,,DEM,Barack Obama,205
+Wood,53,President,,DEM,Barack Obama,134
+Wood,53A,President,,DEM,Barack Obama,99
+Wood,54,President,,DEM,Barack Obama,110
+Wood,54A,President,,DEM,Barack Obama,116
+Wood,56,President,,DEM,Barack Obama,76
+Wood,56A,President,,DEM,Barack Obama,124
+Wood,57,President,,DEM,Barack Obama,120
+Wood,57A,President,,DEM,Barack Obama,237
+Wood,58,President,,DEM,Barack Obama,126
+Wood,60,President,,DEM,Barack Obama,54
+Wood,61,President,,DEM,Barack Obama,121
+Wood,62,President,,DEM,Barack Obama,118
+Wood,62A,President,,DEM,Barack Obama,105
+Wood,63,President,,DEM,Barack Obama,113
+Wood,63A,President,,DEM,Barack Obama,150
+Wood,63B,President,,DEM,Barack Obama,87
+Wood,64,President,,DEM,Barack Obama,110
+Wood,66,President,,DEM,Barack Obama,114
+Wood,67,President,,DEM,Barack Obama,260
+Wood,67A,President,,DEM,Barack Obama,251
+Wood,69,President,,DEM,Barack Obama,72
+Wood,71,President,,DEM,Barack Obama,96
+Wood,74,President,,DEM,Barack Obama,117
+Wood,74A,President,,DEM,Barack Obama,99
+Wood,74B,President,,DEM,Barack Obama,164
+Wood,74C,President,,DEM,Barack Obama,185
+Wood,75,President,,DEM,Barack Obama,179
+Wood,77,President,,DEM,Barack Obama,223
+Wood,78,President,,DEM,Barack Obama,158
+Wood,78A,President,,DEM,Barack Obama,113
+Wood,79,President,,DEM,Barack Obama,104
+Wood,81,President,,DEM,Barack Obama,57
+Wood,82,President,,DEM,Barack Obama,105
+Wood,84,President,,DEM,Barack Obama,38
+Wood,85,President,,DEM,Barack Obama,91
+Wood,86,President,,DEM,Barack Obama,152
+Wood,87,President,,DEM,Barack Obama,184
+Wood,88,President,,DEM,Barack Obama,133
+Wood,89,President,,DEM,Barack Obama,78
+Wood,1,President,,REP,Mitt Romney,96
+Wood,8,President,,REP,Mitt Romney,85
+Wood,10,President,,REP,Mitt Romney,114
+Wood,13,President,,REP,Mitt Romney,89
+Wood,16,President,,REP,Mitt Romney,45
+Wood,17,President,,REP,Mitt Romney,65
+Wood,19,President,,REP,Mitt Romney,337
+Wood,23,President,,REP,Mitt Romney,99
+Wood,24,President,,REP,Mitt Romney,204
+Wood,27,President,,REP,Mitt Romney,145
+Wood,29,President,,REP,Mitt Romney,188
+Wood,31,President,,REP,Mitt Romney,166
+Wood,32,President,,REP,Mitt Romney,301
+Wood,33,President,,REP,Mitt Romney,82
+Wood,34A,President,,REP,Mitt Romney,289
+Wood,35,President,,REP,Mitt Romney,265
+Wood,36,President,,REP,Mitt Romney,357
+Wood,36B,President,,REP,Mitt Romney,142
+Wood,36C,President,,REP,Mitt Romney,205
+Wood,37,President,,REP,Mitt Romney,143
+Wood,37A,President,,REP,Mitt Romney,132
+Wood,37B,President,,REP,Mitt Romney,226
+Wood,37C,President,,REP,Mitt Romney,172
+Wood,37D,President,,REP,Mitt Romney,192
+Wood,38,President,,REP,Mitt Romney,81
+Wood,40,President,,REP,Mitt Romney,206
+Wood,40A,President,,REP,Mitt Romney,358
+Wood,41,President,,REP,Mitt Romney,292
+Wood,42,President,,REP,Mitt Romney,204
+Wood,42A,President,,REP,Mitt Romney,462
+Wood,43A,President,,REP,Mitt Romney,470
+Wood,44,President,,REP,Mitt Romney,253
+Wood,44A,President,,REP,Mitt Romney,249
+Wood,45,President,,REP,Mitt Romney,125
+Wood,45A,President,,REP,Mitt Romney,233
+Wood,46,President,,REP,Mitt Romney,256
+Wood,46A,President,,REP,Mitt Romney,319
+Wood,46B,President,,REP,Mitt Romney,616
+Wood,47,President,,REP,Mitt Romney,230
+Wood,48,President,,REP,Mitt Romney,452
+Wood,49,President,,REP,Mitt Romney,292
+Wood,49A,President,,REP,Mitt Romney,342
+Wood,50,President,,REP,Mitt Romney,156
+Wood,51,President,,REP,Mitt Romney,544
+Wood,52,President,,REP,Mitt Romney,314
+Wood,53,President,,REP,Mitt Romney,384
+Wood,53A,President,,REP,Mitt Romney,285
+Wood,54,President,,REP,Mitt Romney,253
+Wood,54A,President,,REP,Mitt Romney,334
+Wood,56,President,,REP,Mitt Romney,160
+Wood,56A,President,,REP,Mitt Romney,330
+Wood,57,President,,REP,Mitt Romney,301
+Wood,57A,President,,REP,Mitt Romney,512
+Wood,58,President,,REP,Mitt Romney,275
+Wood,60,President,,REP,Mitt Romney,101
+Wood,61,President,,REP,Mitt Romney,298
+Wood,62,President,,REP,Mitt Romney,286
+Wood,62A,President,,REP,Mitt Romney,286
+Wood,63,President,,REP,Mitt Romney,251
+Wood,63A,President,,REP,Mitt Romney,349
+Wood,63B,President,,REP,Mitt Romney,302
+Wood,64,President,,REP,Mitt Romney,272
+Wood,66,President,,REP,Mitt Romney,218
+Wood,67,President,,REP,Mitt Romney,700
+Wood,67A,President,,REP,Mitt Romney,600
+Wood,69,President,,REP,Mitt Romney,157
+Wood,71,President,,REP,Mitt Romney,101
+Wood,74,President,,REP,Mitt Romney,186
+Wood,74A,President,,REP,Mitt Romney,183
+Wood,74B,President,,REP,Mitt Romney,382
+Wood,74C,President,,REP,Mitt Romney,407
+Wood,75,President,,REP,Mitt Romney,210
+Wood,77,President,,REP,Mitt Romney,322
+Wood,78,President,,REP,Mitt Romney,267
+Wood,78A,President,,REP,Mitt Romney,274
+Wood,79,President,,REP,Mitt Romney,263
+Wood,81,President,,REP,Mitt Romney,195
+Wood,82,President,,REP,Mitt Romney,382
+Wood,84,President,,REP,Mitt Romney,105
+Wood,85,President,,REP,Mitt Romney,245
+Wood,86,President,,REP,Mitt Romney,380
+Wood,87,President,,REP,Mitt Romney,484
+Wood,88,President,,REP,Mitt Romney,347
+Wood,89,President,,REP,Mitt Romney,203
+Wood,1,President,,LIB,Gary Johnson,1
+Wood,8,President,,LIB,Gary Johnson,4
+Wood,10,President,,LIB,Gary Johnson,2
+Wood,13,President,,LIB,Gary Johnson,2
+Wood,16,President,,LIB,Gary Johnson,3
+Wood,17,President,,LIB,Gary Johnson,2
+Wood,19,President,,LIB,Gary Johnson,4
+Wood,23,President,,LIB,Gary Johnson,7
+Wood,24,President,,LIB,Gary Johnson,3
+Wood,27,President,,LIB,Gary Johnson,3
+Wood,29,President,,LIB,Gary Johnson,1
+Wood,31,President,,LIB,Gary Johnson,5
+Wood,32,President,,LIB,Gary Johnson,3
+Wood,33,President,,LIB,Gary Johnson,0
+Wood,34A,President,,LIB,Gary Johnson,4
+Wood,35,President,,LIB,Gary Johnson,1
+Wood,36,President,,LIB,Gary Johnson,0
+Wood,36B,President,,LIB,Gary Johnson,1
+Wood,36C,President,,LIB,Gary Johnson,1
+Wood,37,President,,LIB,Gary Johnson,2
+Wood,37A,President,,LIB,Gary Johnson,1
+Wood,37B,President,,LIB,Gary Johnson,3
+Wood,37C,President,,LIB,Gary Johnson,3
+Wood,37D,President,,LIB,Gary Johnson,1
+Wood,38,President,,LIB,Gary Johnson,0
+Wood,40,President,,LIB,Gary Johnson,6
+Wood,40A,President,,LIB,Gary Johnson,3
+Wood,41,President,,LIB,Gary Johnson,3
+Wood,42,President,,LIB,Gary Johnson,7
+Wood,42A,President,,LIB,Gary Johnson,5
+Wood,43A,President,,LIB,Gary Johnson,1
+Wood,44,President,,LIB,Gary Johnson,3
+Wood,44A,President,,LIB,Gary Johnson,5
+Wood,45,President,,LIB,Gary Johnson,2
+Wood,45A,President,,LIB,Gary Johnson,1
+Wood,46,President,,LIB,Gary Johnson,3
+Wood,46A,President,,LIB,Gary Johnson,0
+Wood,46B,President,,LIB,Gary Johnson,9
+Wood,47,President,,LIB,Gary Johnson,1
+Wood,48,President,,LIB,Gary Johnson,4
+Wood,49,President,,LIB,Gary Johnson,2
+Wood,49A,President,,LIB,Gary Johnson,3
+Wood,50,President,,LIB,Gary Johnson,1
+Wood,51,President,,LIB,Gary Johnson,5
+Wood,52,President,,LIB,Gary Johnson,4
+Wood,53,President,,LIB,Gary Johnson,3
+Wood,53A,President,,LIB,Gary Johnson,9
+Wood,54,President,,LIB,Gary Johnson,4
+Wood,54A,President,,LIB,Gary Johnson,3
+Wood,56,President,,LIB,Gary Johnson,1
+Wood,56A,President,,LIB,Gary Johnson,3
+Wood,57,President,,LIB,Gary Johnson,0
+Wood,57A,President,,LIB,Gary Johnson,7
+Wood,58,President,,LIB,Gary Johnson,7
+Wood,60,President,,LIB,Gary Johnson,0
+Wood,61,President,,LIB,Gary Johnson,3
+Wood,62,President,,LIB,Gary Johnson,2
+Wood,62A,President,,LIB,Gary Johnson,4
+Wood,63,President,,LIB,Gary Johnson,3
+Wood,63A,President,,LIB,Gary Johnson,4
+Wood,63B,President,,LIB,Gary Johnson,4
+Wood,64,President,,LIB,Gary Johnson,4
+Wood,66,President,,LIB,Gary Johnson,3
+Wood,67,President,,LIB,Gary Johnson,7
+Wood,67A,President,,LIB,Gary Johnson,3
+Wood,69,President,,LIB,Gary Johnson,4
+Wood,71,President,,LIB,Gary Johnson,1
+Wood,74,President,,LIB,Gary Johnson,5
+Wood,74A,President,,LIB,Gary Johnson,3
+Wood,74B,President,,LIB,Gary Johnson,3
+Wood,74C,President,,LIB,Gary Johnson,10
+Wood,75,President,,LIB,Gary Johnson,2
+Wood,77,President,,LIB,Gary Johnson,7
+Wood,78,President,,LIB,Gary Johnson,3
+Wood,78A,President,,LIB,Gary Johnson,4
+Wood,79,President,,LIB,Gary Johnson,8
+Wood,81,President,,LIB,Gary Johnson,1
+Wood,82,President,,LIB,Gary Johnson,3
+Wood,84,President,,LIB,Gary Johnson,0
+Wood,85,President,,LIB,Gary Johnson,2
+Wood,86,President,,LIB,Gary Johnson,3
+Wood,87,President,,LIB,Gary Johnson,5
+Wood,88,President,,LIB,Gary Johnson,1
+Wood,89,President,,LIB,Gary Johnson,0
+Wood,1,President,,MTN,Jill Stein,1
+Wood,8,President,,MTN,Jill Stein,2
+Wood,10,President,,MTN,Jill Stein,3
+Wood,13,President,,MTN,Jill Stein,2
+Wood,16,President,,MTN,Jill Stein,1
+Wood,17,President,,MTN,Jill Stein,1
+Wood,19,President,,MTN,Jill Stein,1
+Wood,23,President,,MTN,Jill Stein,0
+Wood,24,President,,MTN,Jill Stein,0
+Wood,27,President,,MTN,Jill Stein,0
+Wood,29,President,,MTN,Jill Stein,3
+Wood,31,President,,MTN,Jill Stein,1
+Wood,32,President,,MTN,Jill Stein,1
+Wood,33,President,,MTN,Jill Stein,1
+Wood,34A,President,,MTN,Jill Stein,1
+Wood,35,President,,MTN,Jill Stein,4
+Wood,36,President,,MTN,Jill Stein,3
+Wood,36B,President,,MTN,Jill Stein,2
+Wood,36C,President,,MTN,Jill Stein,0
+Wood,37,President,,MTN,Jill Stein,2
+Wood,37A,President,,MTN,Jill Stein,0
+Wood,37B,President,,MTN,Jill Stein,2
+Wood,37C,President,,MTN,Jill Stein,4
+Wood,37D,President,,MTN,Jill Stein,0
+Wood,38,President,,MTN,Jill Stein,2
+Wood,40,President,,MTN,Jill Stein,1
+Wood,40A,President,,MTN,Jill Stein,4
+Wood,41,President,,MTN,Jill Stein,1
+Wood,42,President,,MTN,Jill Stein,1
+Wood,42A,President,,MTN,Jill Stein,2
+Wood,43A,President,,MTN,Jill Stein,5
+Wood,44,President,,MTN,Jill Stein,4
+Wood,44A,President,,MTN,Jill Stein,1
+Wood,45,President,,MTN,Jill Stein,0
+Wood,45A,President,,MTN,Jill Stein,2
+Wood,46,President,,MTN,Jill Stein,1
+Wood,46A,President,,MTN,Jill Stein,3
+Wood,46B,President,,MTN,Jill Stein,1
+Wood,47,President,,MTN,Jill Stein,0
+Wood,48,President,,MTN,Jill Stein,0
+Wood,49,President,,MTN,Jill Stein,1
+Wood,49A,President,,MTN,Jill Stein,1
+Wood,50,President,,MTN,Jill Stein,2
+Wood,51,President,,MTN,Jill Stein,2
+Wood,52,President,,MTN,Jill Stein,4
+Wood,53,President,,MTN,Jill Stein,1
+Wood,53A,President,,MTN,Jill Stein,1
+Wood,54,President,,MTN,Jill Stein,0
+Wood,54A,President,,MTN,Jill Stein,0
+Wood,56,President,,MTN,Jill Stein,1
+Wood,56A,President,,MTN,Jill Stein,0
+Wood,57,President,,MTN,Jill Stein,4
+Wood,57A,President,,MTN,Jill Stein,5
+Wood,58,President,,MTN,Jill Stein,2
+Wood,60,President,,MTN,Jill Stein,4
+Wood,61,President,,MTN,Jill Stein,6
+Wood,62,President,,MTN,Jill Stein,0
+Wood,62A,President,,MTN,Jill Stein,8
+Wood,63,President,,MTN,Jill Stein,1
+Wood,63A,President,,MTN,Jill Stein,1
+Wood,63B,President,,MTN,Jill Stein,2
+Wood,64,President,,MTN,Jill Stein,4
+Wood,66,President,,MTN,Jill Stein,4
+Wood,67,President,,MTN,Jill Stein,1
+Wood,67A,President,,MTN,Jill Stein,3
+Wood,69,President,,MTN,Jill Stein,0
+Wood,71,President,,MTN,Jill Stein,1
+Wood,74,President,,MTN,Jill Stein,1
+Wood,74A,President,,MTN,Jill Stein,2
+Wood,74B,President,,MTN,Jill Stein,1
+Wood,74C,President,,MTN,Jill Stein,7
+Wood,75,President,,MTN,Jill Stein,0
+Wood,77,President,,MTN,Jill Stein,4
+Wood,78,President,,MTN,Jill Stein,2
+Wood,78A,President,,MTN,Jill Stein,2
+Wood,79,President,,MTN,Jill Stein,2
+Wood,81,President,,MTN,Jill Stein,2
+Wood,82,President,,MTN,Jill Stein,8
+Wood,84,President,,MTN,Jill Stein,1
+Wood,85,President,,MTN,Jill Stein,3
+Wood,86,President,,MTN,Jill Stein,0
+Wood,87,President,,MTN,Jill Stein,3
+Wood,88,President,,MTN,Jill Stein,0
+Wood,89,President,,MTN,Jill Stein,0
+Wood,1,President,,,Randall Terry,1
+Wood,8,President,,,Randall Terry,0
+Wood,10,President,,,Randall Terry,1
+Wood,13,President,,,Randall Terry,0
+Wood,16,President,,,Randall Terry,2
+Wood,17,President,,,Randall Terry,1
+Wood,19,President,,,Randall Terry,2
+Wood,23,President,,,Randall Terry,0
+Wood,24,President,,,Randall Terry,0
+Wood,27,President,,,Randall Terry,1
+Wood,29,President,,,Randall Terry,2
+Wood,31,President,,,Randall Terry,1
+Wood,32,President,,,Randall Terry,0
+Wood,33,President,,,Randall Terry,0
+Wood,34A,President,,,Randall Terry,1
+Wood,35,President,,,Randall Terry,4
+Wood,36,President,,,Randall Terry,2
+Wood,36B,President,,,Randall Terry,1
+Wood,36C,President,,,Randall Terry,0
+Wood,37,President,,,Randall Terry,1
+Wood,37A,President,,,Randall Terry,0
+Wood,37B,President,,,Randall Terry,1
+Wood,37C,President,,,Randall Terry,2
+Wood,37D,President,,,Randall Terry,0
+Wood,38,President,,,Randall Terry,1
+Wood,40,President,,,Randall Terry,2
+Wood,40A,President,,,Randall Terry,6
+Wood,41,President,,,Randall Terry,0
+Wood,42,President,,,Randall Terry,0
+Wood,42A,President,,,Randall Terry,4
+Wood,43A,President,,,Randall Terry,2
+Wood,44,President,,,Randall Terry,1
+Wood,44A,President,,,Randall Terry,1
+Wood,45,President,,,Randall Terry,2
+Wood,45A,President,,,Randall Terry,0
+Wood,46,President,,,Randall Terry,2
+Wood,46A,President,,,Randall Terry,1
+Wood,46B,President,,,Randall Terry,0
+Wood,47,President,,,Randall Terry,3
+Wood,48,President,,,Randall Terry,4
+Wood,49,President,,,Randall Terry,0
+Wood,49A,President,,,Randall Terry,0
+Wood,50,President,,,Randall Terry,1
+Wood,51,President,,,Randall Terry,0
+Wood,52,President,,,Randall Terry,1
+Wood,53,President,,,Randall Terry,3
+Wood,53A,President,,,Randall Terry,1
+Wood,54,President,,,Randall Terry,4
+Wood,54A,President,,,Randall Terry,3
+Wood,56,President,,,Randall Terry,2
+Wood,56A,President,,,Randall Terry,3
+Wood,57,President,,,Randall Terry,6
+Wood,57A,President,,,Randall Terry,2
+Wood,58,President,,,Randall Terry,1
+Wood,60,President,,,Randall Terry,1
+Wood,61,President,,,Randall Terry,6
+Wood,62,President,,,Randall Terry,1
+Wood,62A,President,,,Randall Terry,0
+Wood,63,President,,,Randall Terry,0
+Wood,63A,President,,,Randall Terry,3
+Wood,63B,President,,,Randall Terry,1
+Wood,64,President,,,Randall Terry,1
+Wood,66,President,,,Randall Terry,5
+Wood,67,President,,,Randall Terry,3
+Wood,67A,President,,,Randall Terry,2
+Wood,69,President,,,Randall Terry,1
+Wood,71,President,,,Randall Terry,1
+Wood,74,President,,,Randall Terry,0
+Wood,74A,President,,,Randall Terry,2
+Wood,74B,President,,,Randall Terry,1
+Wood,74C,President,,,Randall Terry,3
+Wood,75,President,,,Randall Terry,2
+Wood,77,President,,,Randall Terry,2
+Wood,78,President,,,Randall Terry,3
+Wood,78A,President,,,Randall Terry,1
+Wood,79,President,,,Randall Terry,1
+Wood,81,President,,,Randall Terry,3
+Wood,82,President,,,Randall Terry,2
+Wood,84,President,,,Randall Terry,0
+Wood,85,President,,,Randall Terry,3
+Wood,86,President,,,Randall Terry,6
+Wood,87,President,,,Randall Terry,4
+Wood,88,President,,,Randall Terry,3
+Wood,89,President,,,Randall Terry,0
+Wood,1,U.S. Senate,,DEM,Joe Manchin III,112
+Wood,8,U.S. Senate,,DEM,Joe Manchin III,126
+Wood,10,U.S. Senate,,DEM,Joe Manchin III,165
+Wood,13,U.S. Senate,,DEM,Joe Manchin III,109
+Wood,16,U.S. Senate,,DEM,Joe Manchin III,81
+Wood,17,U.S. Senate,,DEM,Joe Manchin III,131
+Wood,19,U.S. Senate,,DEM,Joe Manchin III,360
+Wood,23,U.S. Senate,,DEM,Joe Manchin III,146
+Wood,24,U.S. Senate,,DEM,Joe Manchin III,249
+Wood,27,U.S. Senate,,DEM,Joe Manchin III,186
+Wood,29,U.S. Senate,,DEM,Joe Manchin III,245
+Wood,31,U.S. Senate,,DEM,Joe Manchin III,198
+Wood,32,U.S. Senate,,DEM,Joe Manchin III,389
+Wood,33,U.S. Senate,,DEM,Joe Manchin III,97
+Wood,34A,U.S. Senate,,DEM,Joe Manchin III,303
+Wood,35,U.S. Senate,,DEM,Joe Manchin III,323
+Wood,36,U.S. Senate,,DEM,Joe Manchin III,358
+Wood,36B,U.S. Senate,,DEM,Joe Manchin III,175
+Wood,36C,U.S. Senate,,DEM,Joe Manchin III,195
+Wood,37,U.S. Senate,,DEM,Joe Manchin III,118
+Wood,37A,U.S. Senate,,DEM,Joe Manchin III,153
+Wood,37B,U.S. Senate,,DEM,Joe Manchin III,209
+Wood,37C,U.S. Senate,,DEM,Joe Manchin III,173
+Wood,37D,U.S. Senate,,DEM,Joe Manchin III,212
+Wood,38,U.S. Senate,,DEM,Joe Manchin III,78
+Wood,40,U.S. Senate,,DEM,Joe Manchin III,226
+Wood,40A,U.S. Senate,,DEM,Joe Manchin III,343
+Wood,41,U.S. Senate,,DEM,Joe Manchin III,271
+Wood,42,U.S. Senate,,DEM,Joe Manchin III,182
+Wood,42A,U.S. Senate,,DEM,Joe Manchin III,444
+Wood,43A,U.S. Senate,,DEM,Joe Manchin III,378
+Wood,44,U.S. Senate,,DEM,Joe Manchin III,268
+Wood,44A,U.S. Senate,,DEM,Joe Manchin III,242
+Wood,45,U.S. Senate,,DEM,Joe Manchin III,156
+Wood,45A,U.S. Senate,,DEM,Joe Manchin III,231
+Wood,46,U.S. Senate,,DEM,Joe Manchin III,208
+Wood,46A,U.S. Senate,,DEM,Joe Manchin III,298
+Wood,46B,U.S. Senate,,DEM,Joe Manchin III,486
+Wood,47,U.S. Senate,,DEM,Joe Manchin III,206
+Wood,48,U.S. Senate,,DEM,Joe Manchin III,389
+Wood,49,U.S. Senate,,DEM,Joe Manchin III,253
+Wood,49A,U.S. Senate,,DEM,Joe Manchin III,273
+Wood,50,U.S. Senate,,DEM,Joe Manchin III,153
+Wood,51,U.S. Senate,,DEM,Joe Manchin III,523
+Wood,52,U.S. Senate,,DEM,Joe Manchin III,366
+Wood,53,U.S. Senate,,DEM,Joe Manchin III,277
+Wood,53A,U.S. Senate,,DEM,Joe Manchin III,216
+Wood,54,U.S. Senate,,DEM,Joe Manchin III,213
+Wood,54A,U.S. Senate,,DEM,Joe Manchin III,276
+Wood,56,U.S. Senate,,DEM,Joe Manchin III,155
+Wood,56A,U.S. Senate,,DEM,Joe Manchin III,259
+Wood,57,U.S. Senate,,DEM,Joe Manchin III,270
+Wood,57A,U.S. Senate,,DEM,Joe Manchin III,451
+Wood,58,U.S. Senate,,DEM,Joe Manchin III,251
+Wood,60,U.S. Senate,,DEM,Joe Manchin III,106
+Wood,61,U.S. Senate,,DEM,Joe Manchin III,241
+Wood,62,U.S. Senate,,DEM,Joe Manchin III,260
+Wood,62A,U.S. Senate,,DEM,Joe Manchin III,243
+Wood,63,U.S. Senate,,DEM,Joe Manchin III,208
+Wood,63A,U.S. Senate,,DEM,Joe Manchin III,281
+Wood,63B,U.S. Senate,,DEM,Joe Manchin III,228
+Wood,64,U.S. Senate,,DEM,Joe Manchin III,230
+Wood,66,U.S. Senate,,DEM,Joe Manchin III,205
+Wood,67,U.S. Senate,,DEM,Joe Manchin III,588
+Wood,67A,U.S. Senate,,DEM,Joe Manchin III,530
+Wood,69,U.S. Senate,,DEM,Joe Manchin III,154
+Wood,71,U.S. Senate,,DEM,Joe Manchin III,136
+Wood,74,U.S. Senate,,DEM,Joe Manchin III,197
+Wood,74A,U.S. Senate,,DEM,Joe Manchin III,185
+Wood,74B,U.S. Senate,,DEM,Joe Manchin III,354
+Wood,74C,U.S. Senate,,DEM,Joe Manchin III,387
+Wood,75,U.S. Senate,,DEM,Joe Manchin III,250
+Wood,77,U.S. Senate,,DEM,Joe Manchin III,365
+Wood,78,U.S. Senate,,DEM,Joe Manchin III,281
+Wood,78A,U.S. Senate,,DEM,Joe Manchin III,236
+Wood,79,U.S. Senate,,DEM,Joe Manchin III,249
+Wood,81,U.S. Senate,,DEM,Joe Manchin III,128
+Wood,82,U.S. Senate,,DEM,Joe Manchin III,263
+Wood,84,U.S. Senate,,DEM,Joe Manchin III,72
+Wood,85,U.S. Senate,,DEM,Joe Manchin III,171
+Wood,86,U.S. Senate,,DEM,Joe Manchin III,341
+Wood,87,U.S. Senate,,DEM,Joe Manchin III,398
+Wood,88,U.S. Senate,,DEM,Joe Manchin III,280
+Wood,89,U.S. Senate,,DEM,Joe Manchin III,169
+Wood,1,U.S. Senate,,REP,John R. Raese,53
+Wood,8,U.S. Senate,,REP,John R. Raese,42
+Wood,10,U.S. Senate,,REP,John R. Raese,58
+Wood,13,U.S. Senate,,REP,John R. Raese,47
+Wood,16,U.S. Senate,,REP,John R. Raese,33
+Wood,17,U.S. Senate,,REP,John R. Raese,35
+Wood,19,U.S. Senate,,REP,John R. Raese,178
+Wood,23,U.S. Senate,,REP,John R. Raese,60
+Wood,24,U.S. Senate,,REP,John R. Raese,112
+Wood,27,U.S. Senate,,REP,John R. Raese,67
+Wood,29,U.S. Senate,,REP,John R. Raese,105
+Wood,31,U.S. Senate,,REP,John R. Raese,71
+Wood,32,U.S. Senate,,REP,John R. Raese,150
+Wood,33,U.S. Senate,,REP,John R. Raese,49
+Wood,34A,U.S. Senate,,REP,John R. Raese,133
+Wood,35,U.S. Senate,,REP,John R. Raese,133
+Wood,36,U.S. Senate,,REP,John R. Raese,178
+Wood,36B,U.S. Senate,,REP,John R. Raese,55
+Wood,36C,U.S. Senate,,REP,John R. Raese,115
+Wood,37,U.S. Senate,,REP,John R. Raese,76
+Wood,37A,U.S. Senate,,REP,John R. Raese,65
+Wood,37B,U.S. Senate,,REP,John R. Raese,111
+Wood,37C,U.S. Senate,,REP,John R. Raese,87
+Wood,37D,U.S. Senate,,REP,John R. Raese,96
+Wood,38,U.S. Senate,,REP,John R. Raese,36
+Wood,40,U.S. Senate,,REP,John R. Raese,114
+Wood,40A,U.S. Senate,,REP,John R. Raese,181
+Wood,41,U.S. Senate,,REP,John R. Raese,149
+Wood,42,U.S. Senate,,REP,John R. Raese,119
+Wood,42A,U.S. Senate,,REP,John R. Raese,220
+Wood,43A,U.S. Senate,,REP,John R. Raese,255
+Wood,44,U.S. Senate,,REP,John R. Raese,139
+Wood,44A,U.S. Senate,,REP,John R. Raese,121
+Wood,45,U.S. Senate,,REP,John R. Raese,69
+Wood,45A,U.S. Senate,,REP,John R. Raese,115
+Wood,46,U.S. Senate,,REP,John R. Raese,121
+Wood,46A,U.S. Senate,,REP,John R. Raese,153
+Wood,46B,U.S. Senate,,REP,John R. Raese,340
+Wood,47,U.S. Senate,,REP,John R. Raese,114
+Wood,48,U.S. Senate,,REP,John R. Raese,240
+Wood,49,U.S. Senate,,REP,John R. Raese,159
+Wood,49A,U.S. Senate,,REP,John R. Raese,201
+Wood,50,U.S. Senate,,REP,John R. Raese,92
+Wood,51,U.S. Senate,,REP,John R. Raese,292
+Wood,52,U.S. Senate,,REP,John R. Raese,141
+Wood,53,U.S. Senate,,REP,John R. Raese,223
+Wood,53A,U.S. Senate,,REP,John R. Raese,166
+Wood,54,U.S. Senate,,REP,John R. Raese,133
+Wood,54A,U.S. Senate,,REP,John R. Raese,170
+Wood,56,U.S. Senate,,REP,John R. Raese,79
+Wood,56A,U.S. Senate,,REP,John R. Raese,181
+Wood,57,U.S. Senate,,REP,John R. Raese,152
+Wood,57A,U.S. Senate,,REP,John R. Raese,287
+Wood,58,U.S. Senate,,REP,John R. Raese,147
+Wood,60,U.S. Senate,,REP,John R. Raese,47
+Wood,61,U.S. Senate,,REP,John R. Raese,170
+Wood,62,U.S. Senate,,REP,John R. Raese,137
+Wood,62A,U.S. Senate,,REP,John R. Raese,147
+Wood,63,U.S. Senate,,REP,John R. Raese,145
+Wood,63A,U.S. Senate,,REP,John R. Raese,208
+Wood,63B,U.S. Senate,,REP,John R. Raese,147
+Wood,64,U.S. Senate,,REP,John R. Raese,157
+Wood,66,U.S. Senate,,REP,John R. Raese,121
+Wood,67,U.S. Senate,,REP,John R. Raese,351
+Wood,67A,U.S. Senate,,REP,John R. Raese,316
+Wood,69,U.S. Senate,,REP,John R. Raese,79
+Wood,71,U.S. Senate,,REP,John R. Raese,62
+Wood,74,U.S. Senate,,REP,John R. Raese,92
+Wood,74A,U.S. Senate,,REP,John R. Raese,90
+Wood,74B,U.S. Senate,,REP,John R. Raese,168
+Wood,74C,U.S. Senate,,REP,John R. Raese,187
+Wood,75,U.S. Senate,,REP,John R. Raese,111
+Wood,77,U.S. Senate,,REP,John R. Raese,167
+Wood,78,U.S. Senate,,REP,John R. Raese,137
+Wood,78A,U.S. Senate,,REP,John R. Raese,133
+Wood,79,U.S. Senate,,REP,John R. Raese,112
+Wood,81,U.S. Senate,,REP,John R. Raese,120
+Wood,82,U.S. Senate,,REP,John R. Raese,215
+Wood,84,U.S. Senate,,REP,John R. Raese,64
+Wood,85,U.S. Senate,,REP,John R. Raese,153
+Wood,86,U.S. Senate,,REP,John R. Raese,181
+Wood,87,U.S. Senate,,REP,John R. Raese,257
+Wood,88,U.S. Senate,,REP,John R. Raese,188
+Wood,89,U.S. Senate,,REP,John R. Raese,103
+Wood,1,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,8,U.S. Senate,,MTN,Bob Henry Baber,9
+Wood,10,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,13,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,16,U.S. Senate,,MTN,Bob Henry Baber,3
+Wood,17,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,19,U.S. Senate,,MTN,Bob Henry Baber,13
+Wood,23,U.S. Senate,,MTN,Bob Henry Baber,2
+Wood,24,U.S. Senate,,MTN,Bob Henry Baber,12
+Wood,27,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,29,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,31,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,32,U.S. Senate,,MTN,Bob Henry Baber,14
+Wood,33,U.S. Senate,,MTN,Bob Henry Baber,2
+Wood,34A,U.S. Senate,,MTN,Bob Henry Baber,9
+Wood,35,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,36,U.S. Senate,,MTN,Bob Henry Baber,14
+Wood,36B,U.S. Senate,,MTN,Bob Henry Baber,4
+Wood,36C,U.S. Senate,,MTN,Bob Henry Baber,3
+Wood,37,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,37A,U.S. Senate,,MTN,Bob Henry Baber,1
+Wood,37B,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,37C,U.S. Senate,,MTN,Bob Henry Baber,10
+Wood,37D,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,38,U.S. Senate,,MTN,Bob Henry Baber,1
+Wood,40,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,40A,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,41,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,42,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,42A,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,43A,U.S. Senate,,MTN,Bob Henry Baber,13
+Wood,44,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,44A,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,45,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,45A,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,46,U.S. Senate,,MTN,Bob Henry Baber,4
+Wood,46A,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,46B,U.S. Senate,,MTN,Bob Henry Baber,3
+Wood,47,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,48,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,49,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,49A,U.S. Senate,,MTN,Bob Henry Baber,4
+Wood,50,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,51,U.S. Senate,,MTN,Bob Henry Baber,13
+Wood,52,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,53,U.S. Senate,,MTN,Bob Henry Baber,12
+Wood,53A,U.S. Senate,,MTN,Bob Henry Baber,12
+Wood,54,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,54A,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,56,U.S. Senate,,MTN,Bob Henry Baber,3
+Wood,56A,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,57,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,57A,U.S. Senate,,MTN,Bob Henry Baber,14
+Wood,58,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,60,U.S. Senate,,MTN,Bob Henry Baber,4
+Wood,61,U.S. Senate,,MTN,Bob Henry Baber,17
+Wood,62,U.S. Senate,,MTN,Bob Henry Baber,10
+Wood,62A,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,63,U.S. Senate,,MTN,Bob Henry Baber,7
+Wood,63A,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,63B,U.S. Senate,,MTN,Bob Henry Baber,9
+Wood,64,U.S. Senate,,MTN,Bob Henry Baber,2
+Wood,66,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,67,U.S. Senate,,MTN,Bob Henry Baber,13
+Wood,67A,U.S. Senate,,MTN,Bob Henry Baber,10
+Wood,69,U.S. Senate,,MTN,Bob Henry Baber,1
+Wood,71,U.S. Senate,,MTN,Bob Henry Baber,2
+Wood,74,U.S. Senate,,MTN,Bob Henry Baber,16
+Wood,74A,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,74B,U.S. Senate,,MTN,Bob Henry Baber,9
+Wood,74C,U.S. Senate,,MTN,Bob Henry Baber,12
+Wood,75,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,77,U.S. Senate,,MTN,Bob Henry Baber,13
+Wood,78,U.S. Senate,,MTN,Bob Henry Baber,11
+Wood,78A,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,79,U.S. Senate,,MTN,Bob Henry Baber,10
+Wood,81,U.S. Senate,,MTN,Bob Henry Baber,3
+Wood,82,U.S. Senate,,MTN,Bob Henry Baber,12
+Wood,84,U.S. Senate,,MTN,Bob Henry Baber,5
+Wood,85,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,86,U.S. Senate,,MTN,Bob Henry Baber,8
+Wood,87,U.S. Senate,,MTN,Bob Henry Baber,12
+Wood,88,U.S. Senate,,MTN,Bob Henry Baber,6
+Wood,89,U.S. Senate,,MTN,Bob Henry Baber,1
+Wood,1,U.S. House,1,DEM,Sue Thorn,70
+Wood,8,U.S. House,1,DEM,Sue Thorn,84
+Wood,10,U.S. House,1,DEM,Sue Thorn,104
+Wood,13,U.S. House,1,DEM,Sue Thorn,74
+Wood,16,U.S. House,1,DEM,Sue Thorn,59
+Wood,17,U.S. House,1,DEM,Sue Thorn,90
+Wood,19,U.S. House,1,DEM,Sue Thorn,216
+Wood,23,U.S. House,1,DEM,Sue Thorn,98
+Wood,24,U.S. House,1,DEM,Sue Thorn,156
+Wood,27,U.S. House,1,DEM,Sue Thorn,110
+Wood,29,U.S. House,1,DEM,Sue Thorn,151
+Wood,31,U.S. House,1,DEM,Sue Thorn,101
+Wood,32,U.S. House,1,DEM,Sue Thorn,225
+Wood,33,U.S. House,1,DEM,Sue Thorn,69
+Wood,34A,U.S. House,1,DEM,Sue Thorn,158
+Wood,35,U.S. House,1,DEM,Sue Thorn,173
+Wood,36,U.S. House,1,DEM,Sue Thorn,204
+Wood,36B,U.S. House,1,DEM,Sue Thorn,91
+Wood,36C,U.S. House,1,DEM,Sue Thorn,110
+Wood,37,U.S. House,1,DEM,Sue Thorn,63
+Wood,37A,U.S. House,1,DEM,Sue Thorn,86
+Wood,37B,U.S. House,1,DEM,Sue Thorn,92
+Wood,37C,U.S. House,1,DEM,Sue Thorn,102
+Wood,37D,U.S. House,1,DEM,Sue Thorn,126
+Wood,38,U.S. House,1,DEM,Sue Thorn,29
+Wood,40,U.S. House,1,DEM,Sue Thorn,131
+Wood,40A,U.S. House,1,DEM,Sue Thorn,183
+Wood,41,U.S. House,1,DEM,Sue Thorn,151
+Wood,42,U.S. House,1,DEM,Sue Thorn,97
+Wood,42A,U.S. House,1,DEM,Sue Thorn,229
+Wood,43A,U.S. House,1,DEM,Sue Thorn,210
+Wood,44,U.S. House,1,DEM,Sue Thorn,169
+Wood,44A,U.S. House,1,DEM,Sue Thorn,135
+Wood,45,U.S. House,1,DEM,Sue Thorn,106
+Wood,45A,U.S. House,1,DEM,Sue Thorn,125
+Wood,46,U.S. House,1,DEM,Sue Thorn,79
+Wood,46A,U.S. House,1,DEM,Sue Thorn,142
+Wood,46B,U.S. House,1,DEM,Sue Thorn,206
+Wood,47,U.S. House,1,DEM,Sue Thorn,116
+Wood,48,U.S. House,1,DEM,Sue Thorn,183
+Wood,49,U.S. House,1,DEM,Sue Thorn,137
+Wood,49A,U.S. House,1,DEM,Sue Thorn,122
+Wood,50,U.S. House,1,DEM,Sue Thorn,94
+Wood,51,U.S. House,1,DEM,Sue Thorn,263
+Wood,52,U.S. House,1,DEM,Sue Thorn,187
+Wood,53,U.S. House,1,DEM,Sue Thorn,146
+Wood,53A,U.S. House,1,DEM,Sue Thorn,105
+Wood,54,U.S. House,1,DEM,Sue Thorn,111
+Wood,54A,U.S. House,1,DEM,Sue Thorn,126
+Wood,56,U.S. House,1,DEM,Sue Thorn,80
+Wood,56A,U.S. House,1,DEM,Sue Thorn,125
+Wood,57,U.S. House,1,DEM,Sue Thorn,116
+Wood,57A,U.S. House,1,DEM,Sue Thorn,252
+Wood,58,U.S. House,1,DEM,Sue Thorn,127
+Wood,60,U.S. House,1,DEM,Sue Thorn,59
+Wood,61,U.S. House,1,DEM,Sue Thorn,138
+Wood,62,U.S. House,1,DEM,Sue Thorn,117
+Wood,62A,U.S. House,1,DEM,Sue Thorn,115
+Wood,63,U.S. House,1,DEM,Sue Thorn,111
+Wood,63A,U.S. House,1,DEM,Sue Thorn,140
+Wood,63B,U.S. House,1,DEM,Sue Thorn,95
+Wood,64,U.S. House,1,DEM,Sue Thorn,110
+Wood,66,U.S. House,1,DEM,Sue Thorn,131
+Wood,67,U.S. House,1,DEM,Sue Thorn,244
+Wood,67A,U.S. House,1,DEM,Sue Thorn,253
+Wood,69,U.S. House,1,DEM,Sue Thorn,87
+Wood,71,U.S. House,1,DEM,Sue Thorn,86
+Wood,74,U.S. House,1,DEM,Sue Thorn,125
+Wood,74A,U.S. House,1,DEM,Sue Thorn,109
+Wood,74B,U.S. House,1,DEM,Sue Thorn,152
+Wood,74C,U.S. House,1,DEM,Sue Thorn,193
+Wood,75,U.S. House,1,DEM,Sue Thorn,152
+Wood,77,U.S. House,1,DEM,Sue Thorn,231
+Wood,78,U.S. House,1,DEM,Sue Thorn,165
+Wood,78A,U.S. House,1,DEM,Sue Thorn,103
+Wood,79,U.S. House,1,DEM,Sue Thorn,114
+Wood,81,U.S. House,1,DEM,Sue Thorn,68
+Wood,82,U.S. House,1,DEM,Sue Thorn,121
+Wood,84,U.S. House,1,DEM,Sue Thorn,43
+Wood,85,U.S. House,1,DEM,Sue Thorn,88
+Wood,86,U.S. House,1,DEM,Sue Thorn,168
+Wood,87,U.S. House,1,DEM,Sue Thorn,194
+Wood,88,U.S. House,1,DEM,Sue Thorn,133
+Wood,89,U.S. House,1,DEM,Sue Thorn,81
+Wood,1,U.S. House,1,REP,David B. McKinley,90
+Wood,8,U.S. House,1,REP,David B. McKinley,82
+Wood,10,U.S. House,1,REP,David B. McKinley,111
+Wood,13,U.S. House,1,REP,David B. McKinley,85
+Wood,16,U.S. House,1,REP,David B. McKinley,52
+Wood,17,U.S. House,1,REP,David B. McKinley,70
+Wood,19,U.S. House,1,REP,David B. McKinley,299
+Wood,23,U.S. House,1,REP,David B. McKinley,98
+Wood,24,U.S. House,1,REP,David B. McKinley,193
+Wood,27,U.S. House,1,REP,David B. McKinley,133
+Wood,29,U.S. House,1,REP,David B. McKinley,195
+Wood,31,U.S. House,1,REP,David B. McKinley,159
+Wood,32,U.S. House,1,REP,David B. McKinley,300
+Wood,33,U.S. House,1,REP,David B. McKinley,74
+Wood,34A,U.S. House,1,REP,David B. McKinley,268
+Wood,35,U.S. House,1,REP,David B. McKinley,265
+Wood,36,U.S. House,1,REP,David B. McKinley,322
+Wood,36B,U.S. House,1,REP,David B. McKinley,132
+Wood,36C,U.S. House,1,REP,David B. McKinley,188
+Wood,37,U.S. House,1,REP,David B. McKinley,125
+Wood,37A,U.S. House,1,REP,David B. McKinley,127
+Wood,37B,U.S. House,1,REP,David B. McKinley,207
+Wood,37C,U.S. House,1,REP,David B. McKinley,153
+Wood,37D,U.S. House,1,REP,David B. McKinley,174
+Wood,38,U.S. House,1,REP,David B. McKinley,79
+Wood,40,U.S. House,1,REP,David B. McKinley,200
+Wood,40A,U.S. House,1,REP,David B. McKinley,323
+Wood,41,U.S. House,1,REP,David B. McKinley,260
+Wood,42,U.S. House,1,REP,David B. McKinley,191
+Wood,42A,U.S. House,1,REP,David B. McKinley,419
+Wood,43A,U.S. House,1,REP,David B. McKinley,392
+Wood,44,U.S. House,1,REP,David B. McKinley,227
+Wood,44A,U.S. House,1,REP,David B. McKinley,215
+Wood,45,U.S. House,1,REP,David B. McKinley,111
+Wood,45A,U.S. House,1,REP,David B. McKinley,210
+Wood,46,U.S. House,1,REP,David B. McKinley,240
+Wood,46A,U.S. House,1,REP,David B. McKinley,296
+Wood,46B,U.S. House,1,REP,David B. McKinley,575
+Wood,47,U.S. House,1,REP,David B. McKinley,197
+Wood,48,U.S. House,1,REP,David B. McKinley,419
+Wood,49,U.S. House,1,REP,David B. McKinley,263
+Wood,49A,U.S. House,1,REP,David B. McKinley,343
+Wood,50,U.S. House,1,REP,David B. McKinley,149
+Wood,51,U.S. House,1,REP,David B. McKinley,536
+Wood,52,U.S. House,1,REP,David B. McKinley,296
+Wood,53,U.S. House,1,REP,David B. McKinley,346
+Wood,53A,U.S. House,1,REP,David B. McKinley,266
+Wood,54,U.S. House,1,REP,David B. McKinley,224
+Wood,54A,U.S. House,1,REP,David B. McKinley,302
+Wood,56,U.S. House,1,REP,David B. McKinley,145
+Wood,56A,U.S. House,1,REP,David B. McKinley,301
+Wood,57,U.S. House,1,REP,David B. McKinley,294
+Wood,57A,U.S. House,1,REP,David B. McKinley,477
+Wood,58,U.S. House,1,REP,David B. McKinley,258
+Wood,60,U.S. House,1,REP,David B. McKinley,91
+Wood,61,U.S. House,1,REP,David B. McKinley,268
+Wood,62,U.S. House,1,REP,David B. McKinley,275
+Wood,62A,U.S. House,1,REP,David B. McKinley,265
+Wood,63,U.S. House,1,REP,David B. McKinley,238
+Wood,63A,U.S. House,1,REP,David B. McKinley,340
+Wood,63B,U.S. House,1,REP,David B. McKinley,271
+Wood,64,U.S. House,1,REP,David B. McKinley,266
+Wood,66,U.S. House,1,REP,David B. McKinley,186
+Wood,67,U.S. House,1,REP,David B. McKinley,642
+Wood,67A,U.S. House,1,REP,David B. McKinley,536
+Wood,69,U.S. House,1,REP,David B. McKinley,130
+Wood,71,U.S. House,1,REP,David B. McKinley,103
+Wood,74,U.S. House,1,REP,David B. McKinley,164
+Wood,74A,U.S. House,1,REP,David B. McKinley,159
+Wood,74B,U.S. House,1,REP,David B. McKinley,349
+Wood,74C,U.S. House,1,REP,David B. McKinley,350
+Wood,75,U.S. House,1,REP,David B. McKinley,197
+Wood,77,U.S. House,1,REP,David B. McKinley,288
+Wood,78,U.S. House,1,REP,David B. McKinley,239
+Wood,78A,U.S. House,1,REP,David B. McKinley,246
+Wood,79,U.S. House,1,REP,David B. McKinley,233
+Wood,81,U.S. House,1,REP,David B. McKinley,171
+Wood,82,U.S. House,1,REP,David B. McKinley,355
+Wood,84,U.S. House,1,REP,David B. McKinley,87
+Wood,85,U.S. House,1,REP,David B. McKinley,237
+Wood,86,U.S. House,1,REP,David B. McKinley,331
+Wood,87,U.S. House,1,REP,David B. McKinley,434
+Wood,88,U.S. House,1,REP,David B. McKinley,321
+Wood,89,U.S. House,1,REP,David B. McKinley,178
+Wood,1,Governor,,DEM,Earl Ray Tomblin,82
+Wood,8,Governor,,DEM,Earl Ray Tomblin,112
+Wood,10,Governor,,DEM,Earl Ray Tomblin,134
+Wood,13,Governor,,DEM,Earl Ray Tomblin,94
+Wood,16,Governor,,DEM,Earl Ray Tomblin,71
+Wood,17,Governor,,DEM,Earl Ray Tomblin,108
+Wood,19,Governor,,DEM,Earl Ray Tomblin,285
+Wood,23,Governor,,DEM,Earl Ray Tomblin,124
+Wood,24,Governor,,DEM,Earl Ray Tomblin,192
+Wood,27,Governor,,DEM,Earl Ray Tomblin,141
+Wood,29,Governor,,DEM,Earl Ray Tomblin,204
+Wood,31,Governor,,DEM,Earl Ray Tomblin,160
+Wood,32,Governor,,DEM,Earl Ray Tomblin,315
+Wood,33,Governor,,DEM,Earl Ray Tomblin,87
+Wood,34A,Governor,,DEM,Earl Ray Tomblin,213
+Wood,35,Governor,,DEM,Earl Ray Tomblin,265
+Wood,36,Governor,,DEM,Earl Ray Tomblin,278
+Wood,36B,Governor,,DEM,Earl Ray Tomblin,150
+Wood,36C,Governor,,DEM,Earl Ray Tomblin,166
+Wood,37,Governor,,DEM,Earl Ray Tomblin,89
+Wood,37A,Governor,,DEM,Earl Ray Tomblin,117
+Wood,37B,Governor,,DEM,Earl Ray Tomblin,162
+Wood,37C,Governor,,DEM,Earl Ray Tomblin,133
+Wood,37D,Governor,,DEM,Earl Ray Tomblin,163
+Wood,38,Governor,,DEM,Earl Ray Tomblin,56
+Wood,40,Governor,,DEM,Earl Ray Tomblin,176
+Wood,40A,Governor,,DEM,Earl Ray Tomblin,264
+Wood,41,Governor,,DEM,Earl Ray Tomblin,217
+Wood,42,Governor,,DEM,Earl Ray Tomblin,150
+Wood,42A,Governor,,DEM,Earl Ray Tomblin,349
+Wood,43A,Governor,,DEM,Earl Ray Tomblin,286
+Wood,44,Governor,,DEM,Earl Ray Tomblin,235
+Wood,44A,Governor,,DEM,Earl Ray Tomblin,202
+Wood,45,Governor,,DEM,Earl Ray Tomblin,127
+Wood,45A,Governor,,DEM,Earl Ray Tomblin,189
+Wood,46,Governor,,DEM,Earl Ray Tomblin,140
+Wood,46A,Governor,,DEM,Earl Ray Tomblin,221
+Wood,46B,Governor,,DEM,Earl Ray Tomblin,350
+Wood,47,Governor,,DEM,Earl Ray Tomblin,168
+Wood,48,Governor,,DEM,Earl Ray Tomblin,277
+Wood,49,Governor,,DEM,Earl Ray Tomblin,195
+Wood,49A,Governor,,DEM,Earl Ray Tomblin,190
+Wood,50,Governor,,DEM,Earl Ray Tomblin,120
+Wood,51,Governor,,DEM,Earl Ray Tomblin,413
+Wood,52,Governor,,DEM,Earl Ray Tomblin,276
+Wood,53,Governor,,DEM,Earl Ray Tomblin,204
+Wood,53A,Governor,,DEM,Earl Ray Tomblin,158
+Wood,54,Governor,,DEM,Earl Ray Tomblin,164
+Wood,54A,Governor,,DEM,Earl Ray Tomblin,209
+Wood,56,Governor,,DEM,Earl Ray Tomblin,137
+Wood,56A,Governor,,DEM,Earl Ray Tomblin,201
+Wood,57,Governor,,DEM,Earl Ray Tomblin,203
+Wood,57A,Governor,,DEM,Earl Ray Tomblin,354
+Wood,58,Governor,,DEM,Earl Ray Tomblin,194
+Wood,60,Governor,,DEM,Earl Ray Tomblin,88
+Wood,61,Governor,,DEM,Earl Ray Tomblin,206
+Wood,62,Governor,,DEM,Earl Ray Tomblin,175
+Wood,62A,Governor,,DEM,Earl Ray Tomblin,170
+Wood,63,Governor,,DEM,Earl Ray Tomblin,163
+Wood,63A,Governor,,DEM,Earl Ray Tomblin,207
+Wood,63B,Governor,,DEM,Earl Ray Tomblin,157
+Wood,64,Governor,,DEM,Earl Ray Tomblin,164
+Wood,66,Governor,,DEM,Earl Ray Tomblin,168
+Wood,67,Governor,,DEM,Earl Ray Tomblin,434
+Wood,67A,Governor,,DEM,Earl Ray Tomblin,383
+Wood,69,Governor,,DEM,Earl Ray Tomblin,126
+Wood,71,Governor,,DEM,Earl Ray Tomblin,125
+Wood,74,Governor,,DEM,Earl Ray Tomblin,168
+Wood,74A,Governor,,DEM,Earl Ray Tomblin,154
+Wood,74B,Governor,,DEM,Earl Ray Tomblin,266
+Wood,74C,Governor,,DEM,Earl Ray Tomblin,298
+Wood,75,Governor,,DEM,Earl Ray Tomblin,224
+Wood,77,Governor,,DEM,Earl Ray Tomblin,313
+Wood,78,Governor,,DEM,Earl Ray Tomblin,236
+Wood,78A,Governor,,DEM,Earl Ray Tomblin,180
+Wood,79,Governor,,DEM,Earl Ray Tomblin,182
+Wood,81,Governor,,DEM,Earl Ray Tomblin,103
+Wood,82,Governor,,DEM,Earl Ray Tomblin,202
+Wood,84,Governor,,DEM,Earl Ray Tomblin,55
+Wood,85,Governor,,DEM,Earl Ray Tomblin,156
+Wood,86,Governor,,DEM,Earl Ray Tomblin,258
+Wood,87,Governor,,DEM,Earl Ray Tomblin,290
+Wood,88,Governor,,DEM,Earl Ray Tomblin,227
+Wood,89,Governor,,DEM,Earl Ray Tomblin,136
+Wood,1,Governor,,REP,Bill Maloney,80
+Wood,8,Governor,,REP,Bill Maloney,69
+Wood,10,Governor,,REP,Bill Maloney,84
+Wood,13,Governor,,REP,Bill Maloney,64
+Wood,16,Governor,,REP,Bill Maloney,43
+Wood,17,Governor,,REP,Bill Maloney,56
+Wood,19,Governor,,REP,Bill Maloney,244
+Wood,23,Governor,,REP,Bill Maloney,75
+Wood,24,Governor,,REP,Bill Maloney,160
+Wood,27,Governor,,REP,Bill Maloney,100
+Wood,29,Governor,,REP,Bill Maloney,144
+Wood,31,Governor,,REP,Bill Maloney,112
+Wood,32,Governor,,REP,Bill Maloney,230
+Wood,33,Governor,,REP,Bill Maloney,62
+Wood,34A,Governor,,REP,Bill Maloney,232
+Wood,35,Governor,,REP,Bill Maloney,194
+Wood,36,Governor,,REP,Bill Maloney,266
+Wood,36B,Governor,,REP,Bill Maloney,77
+Wood,36C,Governor,,REP,Bill Maloney,145
+Wood,37,Governor,,REP,Bill Maloney,109
+Wood,37A,Governor,,REP,Bill Maloney,106
+Wood,37B,Governor,,REP,Bill Maloney,155
+Wood,37C,Governor,,REP,Bill Maloney,126
+Wood,37D,Governor,,REP,Bill Maloney,138
+Wood,38,Governor,,REP,Bill Maloney,56
+Wood,40,Governor,,REP,Bill Maloney,155
+Wood,40A,Governor,,REP,Bill Maloney,268
+Wood,41,Governor,,REP,Bill Maloney,205
+Wood,42,Governor,,REP,Bill Maloney,156
+Wood,42A,Governor,,REP,Bill Maloney,339
+Wood,43A,Governor,,REP,Bill Maloney,354
+Wood,44,Governor,,REP,Bill Maloney,189
+Wood,44A,Governor,,REP,Bill Maloney,165
+Wood,45,Governor,,REP,Bill Maloney,101
+Wood,45A,Governor,,REP,Bill Maloney,173
+Wood,46,Governor,,REP,Bill Maloney,193
+Wood,46A,Governor,,REP,Bill Maloney,233
+Wood,46B,Governor,,REP,Bill Maloney,489
+Wood,47,Governor,,REP,Bill Maloney,160
+Wood,48,Governor,,REP,Bill Maloney,352
+Wood,49,Governor,,REP,Bill Maloney,219
+Wood,49A,Governor,,REP,Bill Maloney,284
+Wood,50,Governor,,REP,Bill Maloney,131
+Wood,51,Governor,,REP,Bill Maloney,405
+Wood,52,Governor,,REP,Bill Maloney,226
+Wood,53,Governor,,REP,Bill Maloney,295
+Wood,53A,Governor,,REP,Bill Maloney,227
+Wood,54,Governor,,REP,Bill Maloney,185
+Wood,54A,Governor,,REP,Bill Maloney,244
+Wood,56,Governor,,REP,Bill Maloney,100
+Wood,56A,Governor,,REP,Bill Maloney,244
+Wood,57,Governor,,REP,Bill Maloney,213
+Wood,57A,Governor,,REP,Bill Maloney,382
+Wood,58,Governor,,REP,Bill Maloney,209
+Wood,60,Governor,,REP,Bill Maloney,63
+Wood,61,Governor,,REP,Bill Maloney,203
+Wood,62,Governor,,REP,Bill Maloney,220
+Wood,62A,Governor,,REP,Bill Maloney,221
+Wood,63,Governor,,REP,Bill Maloney,189
+Wood,63A,Governor,,REP,Bill Maloney,281
+Wood,63B,Governor,,REP,Bill Maloney,224
+Wood,64,Governor,,REP,Bill Maloney,211
+Wood,66,Governor,,REP,Bill Maloney,150
+Wood,67,Governor,,REP,Bill Maloney,497
+Wood,67A,Governor,,REP,Bill Maloney,449
+Wood,69,Governor,,REP,Bill Maloney,102
+Wood,71,Governor,,REP,Bill Maloney,66
+Wood,74,Governor,,REP,Bill Maloney,123
+Wood,74A,Governor,,REP,Bill Maloney,112
+Wood,74B,Governor,,REP,Bill Maloney,266
+Wood,74C,Governor,,REP,Bill Maloney,280
+Wood,75,Governor,,REP,Bill Maloney,149
+Wood,77,Governor,,REP,Bill Maloney,218
+Wood,78,Governor,,REP,Bill Maloney,177
+Wood,78A,Governor,,REP,Bill Maloney,197
+Wood,79,Governor,,REP,Bill Maloney,171
+Wood,81,Governor,,REP,Bill Maloney,148
+Wood,82,Governor,,REP,Bill Maloney,273
+Wood,84,Governor,,REP,Bill Maloney,84
+Wood,85,Governor,,REP,Bill Maloney,177
+Wood,86,Governor,,REP,Bill Maloney,258
+Wood,87,Governor,,REP,Bill Maloney,358
+Wood,88,Governor,,REP,Bill Maloney,243
+Wood,89,Governor,,REP,Bill Maloney,139
+Wood,1,Governor,,LIB,David Moran,8
+Wood,8,Governor,,LIB,David Moran,7
+Wood,10,Governor,,LIB,David Moran,2
+Wood,13,Governor,,LIB,David Moran,4
+Wood,16,Governor,,LIB,David Moran,3
+Wood,17,Governor,,LIB,David Moran,8
+Wood,19,Governor,,LIB,David Moran,6
+Wood,23,Governor,,LIB,David Moran,3
+Wood,24,Governor,,LIB,David Moran,8
+Wood,27,Governor,,LIB,David Moran,7
+Wood,29,Governor,,LIB,David Moran,7
+Wood,31,Governor,,LIB,David Moran,6
+Wood,32,Governor,,LIB,David Moran,3
+Wood,33,Governor,,LIB,David Moran,1
+Wood,34A,Governor,,LIB,David Moran,3
+Wood,35,Governor,,LIB,David Moran,6
+Wood,36,Governor,,LIB,David Moran,8
+Wood,36B,Governor,,LIB,David Moran,5
+Wood,36C,Governor,,LIB,David Moran,4
+Wood,37,Governor,,LIB,David Moran,5
+Wood,37A,Governor,,LIB,David Moran,2
+Wood,37B,Governor,,LIB,David Moran,2
+Wood,37C,Governor,,LIB,David Moran,4
+Wood,37D,Governor,,LIB,David Moran,4
+Wood,38,Governor,,LIB,David Moran,0
+Wood,40,Governor,,LIB,David Moran,6
+Wood,40A,Governor,,LIB,David Moran,8
+Wood,41,Governor,,LIB,David Moran,7
+Wood,42,Governor,,LIB,David Moran,6
+Wood,42A,Governor,,LIB,David Moran,6
+Wood,43A,Governor,,LIB,David Moran,7
+Wood,44,Governor,,LIB,David Moran,4
+Wood,44A,Governor,,LIB,David Moran,7
+Wood,45,Governor,,LIB,David Moran,2
+Wood,45A,Governor,,LIB,David Moran,9
+Wood,46,Governor,,LIB,David Moran,3
+Wood,46A,Governor,,LIB,David Moran,3
+Wood,46B,Governor,,LIB,David Moran,7
+Wood,47,Governor,,LIB,David Moran,1
+Wood,48,Governor,,LIB,David Moran,6
+Wood,49,Governor,,LIB,David Moran,3
+Wood,49A,Governor,,LIB,David Moran,2
+Wood,50,Governor,,LIB,David Moran,4
+Wood,51,Governor,,LIB,David Moran,7
+Wood,52,Governor,,LIB,David Moran,6
+Wood,53,Governor,,LIB,David Moran,5
+Wood,53A,Governor,,LIB,David Moran,4
+Wood,54,Governor,,LIB,David Moran,7
+Wood,54A,Governor,,LIB,David Moran,4
+Wood,56,Governor,,LIB,David Moran,0
+Wood,56A,Governor,,LIB,David Moran,4
+Wood,57,Governor,,LIB,David Moran,5
+Wood,57A,Governor,,LIB,David Moran,12
+Wood,58,Governor,,LIB,David Moran,2
+Wood,60,Governor,,LIB,David Moran,1
+Wood,61,Governor,,LIB,David Moran,10
+Wood,62,Governor,,LIB,David Moran,4
+Wood,62A,Governor,,LIB,David Moran,4
+Wood,63,Governor,,LIB,David Moran,2
+Wood,63A,Governor,,LIB,David Moran,4
+Wood,63B,Governor,,LIB,David Moran,2
+Wood,64,Governor,,LIB,David Moran,2
+Wood,66,Governor,,LIB,David Moran,5
+Wood,67,Governor,,LIB,David Moran,9
+Wood,67A,Governor,,LIB,David Moran,6
+Wood,69,Governor,,LIB,David Moran,5
+Wood,71,Governor,,LIB,David Moran,2
+Wood,74,Governor,,LIB,David Moran,3
+Wood,74A,Governor,,LIB,David Moran,3
+Wood,74B,Governor,,LIB,David Moran,3
+Wood,74C,Governor,,LIB,David Moran,13
+Wood,75,Governor,,LIB,David Moran,7
+Wood,77,Governor,,LIB,David Moran,7
+Wood,78,Governor,,LIB,David Moran,8
+Wood,78A,Governor,,LIB,David Moran,7
+Wood,79,Governor,,LIB,David Moran,6
+Wood,81,Governor,,LIB,David Moran,3
+Wood,82,Governor,,LIB,David Moran,5
+Wood,84,Governor,,LIB,David Moran,0
+Wood,85,Governor,,LIB,David Moran,2
+Wood,86,Governor,,LIB,David Moran,11
+Wood,87,Governor,,LIB,David Moran,12
+Wood,88,Governor,,LIB,David Moran,5
+Wood,89,Governor,,LIB,David Moran,1
+Wood,1,Governor,,MTN,Jesse Johnson,2
+Wood,8,Governor,,MTN,Jesse Johnson,9
+Wood,10,Governor,,MTN,Jesse Johnson,8
+Wood,13,Governor,,MTN,Jesse Johnson,3
+Wood,16,Governor,,MTN,Jesse Johnson,1
+Wood,17,Governor,,MTN,Jesse Johnson,3
+Wood,19,Governor,,MTN,Jesse Johnson,15
+Wood,23,Governor,,MTN,Jesse Johnson,6
+Wood,24,Governor,,MTN,Jesse Johnson,17
+Wood,27,Governor,,MTN,Jesse Johnson,10
+Wood,29,Governor,,MTN,Jesse Johnson,7
+Wood,31,Governor,,MTN,Jesse Johnson,8
+Wood,32,Governor,,MTN,Jesse Johnson,16
+Wood,33,Governor,,MTN,Jesse Johnson,4
+Wood,34A,Governor,,MTN,Jesse Johnson,5
+Wood,35,Governor,,MTN,Jesse Johnson,6
+Wood,36,Governor,,MTN,Jesse Johnson,7
+Wood,36B,Governor,,MTN,Jesse Johnson,3
+Wood,36C,Governor,,MTN,Jesse Johnson,4
+Wood,37,Governor,,MTN,Jesse Johnson,0
+Wood,37A,Governor,,MTN,Jesse Johnson,3
+Wood,37B,Governor,,MTN,Jesse Johnson,5
+Wood,37C,Governor,,MTN,Jesse Johnson,7
+Wood,37D,Governor,,MTN,Jesse Johnson,4
+Wood,38,Governor,,MTN,Jesse Johnson,3
+Wood,40,Governor,,MTN,Jesse Johnson,4
+Wood,40A,Governor,,MTN,Jesse Johnson,6
+Wood,41,Governor,,MTN,Jesse Johnson,9
+Wood,42,Governor,,MTN,Jesse Johnson,2
+Wood,42A,Governor,,MTN,Jesse Johnson,9
+Wood,43A,Governor,,MTN,Jesse Johnson,8
+Wood,44,Governor,,MTN,Jesse Johnson,2
+Wood,44A,Governor,,MTN,Jesse Johnson,5
+Wood,45,Governor,,MTN,Jesse Johnson,5
+Wood,45A,Governor,,MTN,Jesse Johnson,5
+Wood,46,Governor,,MTN,Jesse Johnson,2
+Wood,46A,Governor,,MTN,Jesse Johnson,5
+Wood,46B,Governor,,MTN,Jesse Johnson,4
+Wood,47,Governor,,MTN,Jesse Johnson,3
+Wood,48,Governor,,MTN,Jesse Johnson,8
+Wood,49,Governor,,MTN,Jesse Johnson,6
+Wood,49A,Governor,,MTN,Jesse Johnson,7
+Wood,50,Governor,,MTN,Jesse Johnson,3
+Wood,51,Governor,,MTN,Jesse Johnson,11
+Wood,52,Governor,,MTN,Jesse Johnson,16
+Wood,53,Governor,,MTN,Jesse Johnson,16
+Wood,53A,Governor,,MTN,Jesse Johnson,6
+Wood,54,Governor,,MTN,Jesse Johnson,10
+Wood,54A,Governor,,MTN,Jesse Johnson,3
+Wood,56,Governor,,MTN,Jesse Johnson,1
+Wood,56A,Governor,,MTN,Jesse Johnson,7
+Wood,57,Governor,,MTN,Jesse Johnson,6
+Wood,57A,Governor,,MTN,Jesse Johnson,12
+Wood,58,Governor,,MTN,Jesse Johnson,6
+Wood,60,Governor,,MTN,Jesse Johnson,8
+Wood,61,Governor,,MTN,Jesse Johnson,12
+Wood,62,Governor,,MTN,Jesse Johnson,6
+Wood,62A,Governor,,MTN,Jesse Johnson,6
+Wood,63,Governor,,MTN,Jesse Johnson,5
+Wood,63A,Governor,,MTN,Jesse Johnson,6
+Wood,63B,Governor,,MTN,Jesse Johnson,7
+Wood,64,Governor,,MTN,Jesse Johnson,11
+Wood,66,Governor,,MTN,Jesse Johnson,9
+Wood,67,Governor,,MTN,Jesse Johnson,12
+Wood,67A,Governor,,MTN,Jesse Johnson,17
+Wood,69,Governor,,MTN,Jesse Johnson,2
+Wood,71,Governor,,MTN,Jesse Johnson,5
+Wood,74,Governor,,MTN,Jesse Johnson,7
+Wood,74A,Governor,,MTN,Jesse Johnson,11
+Wood,74B,Governor,,MTN,Jesse Johnson,7
+Wood,74C,Governor,,MTN,Jesse Johnson,12
+Wood,75,Governor,,MTN,Jesse Johnson,3
+Wood,77,Governor,,MTN,Jesse Johnson,10
+Wood,78,Governor,,MTN,Jesse Johnson,6
+Wood,78A,Governor,,MTN,Jesse Johnson,3
+Wood,79,Governor,,MTN,Jesse Johnson,7
+Wood,81,Governor,,MTN,Jesse Johnson,4
+Wood,82,Governor,,MTN,Jesse Johnson,13
+Wood,84,Governor,,MTN,Jesse Johnson,6
+Wood,85,Governor,,MTN,Jesse Johnson,3
+Wood,86,Governor,,MTN,Jesse Johnson,8
+Wood,87,Governor,,MTN,Jesse Johnson,8
+Wood,88,Governor,,MTN,Jesse Johnson,8
+Wood,89,Governor,,MTN,Jesse Johnson,2
+Wood,1,Secretary of State,,DEM,Natalie E. Tennant,94
+Wood,8,Secretary of State,,DEM,Natalie E. Tennant,128
+Wood,10,Secretary of State,,DEM,Natalie E. Tennant,149
+Wood,13,Secretary of State,,DEM,Natalie E. Tennant,112
+Wood,16,Secretary of State,,DEM,Natalie E. Tennant,73
+Wood,17,Secretary of State,,DEM,Natalie E. Tennant,123
+Wood,19,Secretary of State,,DEM,Natalie E. Tennant,337
+Wood,23,Secretary of State,,DEM,Natalie E. Tennant,126
+Wood,24,Secretary of State,,DEM,Natalie E. Tennant,240
+Wood,27,Secretary of State,,DEM,Natalie E. Tennant,166
+Wood,29,Secretary of State,,DEM,Natalie E. Tennant,237
+Wood,31,Secretary of State,,DEM,Natalie E. Tennant,168
+Wood,32,Secretary of State,,DEM,Natalie E. Tennant,365
+Wood,33,Secretary of State,,DEM,Natalie E. Tennant,89
+Wood,34A,Secretary of State,,DEM,Natalie E. Tennant,266
+Wood,35,Secretary of State,,DEM,Natalie E. Tennant,304
+Wood,36,Secretary of State,,DEM,Natalie E. Tennant,334
+Wood,36B,Secretary of State,,DEM,Natalie E. Tennant,150
+Wood,36C,Secretary of State,,DEM,Natalie E. Tennant,177
+Wood,37,Secretary of State,,DEM,Natalie E. Tennant,109
+Wood,37A,Secretary of State,,DEM,Natalie E. Tennant,148
+Wood,37B,Secretary of State,,DEM,Natalie E. Tennant,191
+Wood,37C,Secretary of State,,DEM,Natalie E. Tennant,156
+Wood,37D,Secretary of State,,DEM,Natalie E. Tennant,199
+Wood,38,Secretary of State,,DEM,Natalie E. Tennant,66
+Wood,40,Secretary of State,,DEM,Natalie E. Tennant,220
+Wood,40A,Secretary of State,,DEM,Natalie E. Tennant,313
+Wood,41,Secretary of State,,DEM,Natalie E. Tennant,249
+Wood,42,Secretary of State,,DEM,Natalie E. Tennant,180
+Wood,42A,Secretary of State,,DEM,Natalie E. Tennant,414
+Wood,43A,Secretary of State,,DEM,Natalie E. Tennant,361
+Wood,44,Secretary of State,,DEM,Natalie E. Tennant,259
+Wood,44A,Secretary of State,,DEM,Natalie E. Tennant,222
+Wood,45,Secretary of State,,DEM,Natalie E. Tennant,164
+Wood,45A,Secretary of State,,DEM,Natalie E. Tennant,209
+Wood,46,Secretary of State,,DEM,Natalie E. Tennant,189
+Wood,46A,Secretary of State,,DEM,Natalie E. Tennant,258
+Wood,46B,Secretary of State,,DEM,Natalie E. Tennant,437
+Wood,47,Secretary of State,,DEM,Natalie E. Tennant,181
+Wood,48,Secretary of State,,DEM,Natalie E. Tennant,339
+Wood,49,Secretary of State,,DEM,Natalie E. Tennant,232
+Wood,49A,Secretary of State,,DEM,Natalie E. Tennant,245
+Wood,50,Secretary of State,,DEM,Natalie E. Tennant,138
+Wood,51,Secretary of State,,DEM,Natalie E. Tennant,452
+Wood,52,Secretary of State,,DEM,Natalie E. Tennant,312
+Wood,53,Secretary of State,,DEM,Natalie E. Tennant,267
+Wood,53A,Secretary of State,,DEM,Natalie E. Tennant,199
+Wood,54,Secretary of State,,DEM,Natalie E. Tennant,199
+Wood,54A,Secretary of State,,DEM,Natalie E. Tennant,231
+Wood,56,Secretary of State,,DEM,Natalie E. Tennant,133
+Wood,56A,Secretary of State,,DEM,Natalie E. Tennant,237
+Wood,57,Secretary of State,,DEM,Natalie E. Tennant,241
+Wood,57A,Secretary of State,,DEM,Natalie E. Tennant,407
+Wood,58,Secretary of State,,DEM,Natalie E. Tennant,228
+Wood,60,Secretary of State,,DEM,Natalie E. Tennant,90
+Wood,61,Secretary of State,,DEM,Natalie E. Tennant,217
+Wood,62,Secretary of State,,DEM,Natalie E. Tennant,232
+Wood,62A,Secretary of State,,DEM,Natalie E. Tennant,200
+Wood,63,Secretary of State,,DEM,Natalie E. Tennant,189
+Wood,63A,Secretary of State,,DEM,Natalie E. Tennant,239
+Wood,63B,Secretary of State,,DEM,Natalie E. Tennant,197
+Wood,64,Secretary of State,,DEM,Natalie E. Tennant,201
+Wood,66,Secretary of State,,DEM,Natalie E. Tennant,187
+Wood,67,Secretary of State,,DEM,Natalie E. Tennant,459
+Wood,67A,Secretary of State,,DEM,Natalie E. Tennant,470
+Wood,69,Secretary of State,,DEM,Natalie E. Tennant,131
+Wood,71,Secretary of State,,DEM,Natalie E. Tennant,126
+Wood,74,Secretary of State,,DEM,Natalie E. Tennant,176
+Wood,74A,Secretary of State,,DEM,Natalie E. Tennant,159
+Wood,74B,Secretary of State,,DEM,Natalie E. Tennant,311
+Wood,74C,Secretary of State,,DEM,Natalie E. Tennant,338
+Wood,75,Secretary of State,,DEM,Natalie E. Tennant,221
+Wood,77,Secretary of State,,DEM,Natalie E. Tennant,313
+Wood,78,Secretary of State,,DEM,Natalie E. Tennant,249
+Wood,78A,Secretary of State,,DEM,Natalie E. Tennant,202
+Wood,79,Secretary of State,,DEM,Natalie E. Tennant,213
+Wood,81,Secretary of State,,DEM,Natalie E. Tennant,125
+Wood,82,Secretary of State,,DEM,Natalie E. Tennant,234
+Wood,84,Secretary of State,,DEM,Natalie E. Tennant,58
+Wood,85,Secretary of State,,DEM,Natalie E. Tennant,162
+Wood,86,Secretary of State,,DEM,Natalie E. Tennant,309
+Wood,87,Secretary of State,,DEM,Natalie E. Tennant,323
+Wood,88,Secretary of State,,DEM,Natalie E. Tennant,275
+Wood,89,Secretary of State,,DEM,Natalie E. Tennant,154
+Wood,1,Secretary of State,,REP,Brian J. Savilla,72
+Wood,8,Secretary of State,,REP,Brian J. Savilla,53
+Wood,10,Secretary of State,,REP,Brian J. Savilla,77
+Wood,13,Secretary of State,,REP,Brian J. Savilla,51
+Wood,16,Secretary of State,,REP,Brian J. Savilla,41
+Wood,17,Secretary of State,,REP,Brian J. Savilla,44
+Wood,19,Secretary of State,,REP,Brian J. Savilla,188
+Wood,23,Secretary of State,,REP,Brian J. Savilla,73
+Wood,24,Secretary of State,,REP,Brian J. Savilla,120
+Wood,27,Secretary of State,,REP,Brian J. Savilla,87
+Wood,29,Secretary of State,,REP,Brian J. Savilla,115
+Wood,31,Secretary of State,,REP,Brian J. Savilla,90
+Wood,32,Secretary of State,,REP,Brian J. Savilla,175
+Wood,33,Secretary of State,,REP,Brian J. Savilla,62
+Wood,34A,Secretary of State,,REP,Brian J. Savilla,169
+Wood,35,Secretary of State,,REP,Brian J. Savilla,144
+Wood,36,Secretary of State,,REP,Brian J. Savilla,201
+Wood,36B,Secretary of State,,REP,Brian J. Savilla,77
+Wood,36C,Secretary of State,,REP,Brian J. Savilla,125
+Wood,37,Secretary of State,,REP,Brian J. Savilla,85
+Wood,37A,Secretary of State,,REP,Brian J. Savilla,69
+Wood,37B,Secretary of State,,REP,Brian J. Savilla,122
+Wood,37C,Secretary of State,,REP,Brian J. Savilla,107
+Wood,37D,Secretary of State,,REP,Brian J. Savilla,102
+Wood,38,Secretary of State,,REP,Brian J. Savilla,44
+Wood,40,Secretary of State,,REP,Brian J. Savilla,118
+Wood,40A,Secretary of State,,REP,Brian J. Savilla,204
+Wood,41,Secretary of State,,REP,Brian J. Savilla,168
+Wood,42,Secretary of State,,REP,Brian J. Savilla,117
+Wood,42A,Secretary of State,,REP,Brian J. Savilla,248
+Wood,43A,Secretary of State,,REP,Brian J. Savilla,269
+Wood,44,Secretary of State,,REP,Brian J. Savilla,144
+Wood,44A,Secretary of State,,REP,Brian J. Savilla,133
+Wood,45,Secretary of State,,REP,Brian J. Savilla,65
+Wood,45A,Secretary of State,,REP,Brian J. Savilla,147
+Wood,46,Secretary of State,,REP,Brian J. Savilla,131
+Wood,46A,Secretary of State,,REP,Brian J. Savilla,174
+Wood,46B,Secretary of State,,REP,Brian J. Savilla,352
+Wood,47,Secretary of State,,REP,Brian J. Savilla,142
+Wood,48,Secretary of State,,REP,Brian J. Savilla,277
+Wood,49,Secretary of State,,REP,Brian J. Savilla,172
+Wood,49A,Secretary of State,,REP,Brian J. Savilla,226
+Wood,50,Secretary of State,,REP,Brian J. Savilla,111
+Wood,51,Secretary of State,,REP,Brian J. Savilla,343
+Wood,52,Secretary of State,,REP,Brian J. Savilla,191
+Wood,53,Secretary of State,,REP,Brian J. Savilla,241
+Wood,53A,Secretary of State,,REP,Brian J. Savilla,173
+Wood,54,Secretary of State,,REP,Brian J. Savilla,146
+Wood,54A,Secretary of State,,REP,Brian J. Savilla,203
+Wood,56,Secretary of State,,REP,Brian J. Savilla,90
+Wood,56A,Secretary of State,,REP,Brian J. Savilla,204
+Wood,57,Secretary of State,,REP,Brian J. Savilla,173
+Wood,57A,Secretary of State,,REP,Brian J. Savilla,320
+Wood,58,Secretary of State,,REP,Brian J. Savilla,157
+Wood,60,Secretary of State,,REP,Brian J. Savilla,64
+Wood,61,Secretary of State,,REP,Brian J. Savilla,193
+Wood,62,Secretary of State,,REP,Brian J. Savilla,162
+Wood,62A,Secretary of State,,REP,Brian J. Savilla,183
+Wood,63,Secretary of State,,REP,Brian J. Savilla,152
+Wood,63A,Secretary of State,,REP,Brian J. Savilla,235
+Wood,63B,Secretary of State,,REP,Brian J. Savilla,171
+Wood,64,Secretary of State,,REP,Brian J. Savilla,171
+Wood,66,Secretary of State,,REP,Brian J. Savilla,135
+Wood,67,Secretary of State,,REP,Brian J. Savilla,451
+Wood,67A,Secretary of State,,REP,Brian J. Savilla,351
+Wood,69,Secretary of State,,REP,Brian J. Savilla,92
+Wood,71,Secretary of State,,REP,Brian J. Savilla,68
+Wood,74,Secretary of State,,REP,Brian J. Savilla,117
+Wood,74A,Secretary of State,,REP,Brian J. Savilla,112
+Wood,74B,Secretary of State,,REP,Brian J. Savilla,194
+Wood,74C,Secretary of State,,REP,Brian J. Savilla,221
+Wood,75,Secretary of State,,REP,Brian J. Savilla,144
+Wood,77,Secretary of State,,REP,Brian J. Savilla,208
+Wood,78,Secretary of State,,REP,Brian J. Savilla,159
+Wood,78A,Secretary of State,,REP,Brian J. Savilla,162
+Wood,79,Secretary of State,,REP,Brian J. Savilla,143
+Wood,81,Secretary of State,,REP,Brian J. Savilla,118
+Wood,82,Secretary of State,,REP,Brian J. Savilla,231
+Wood,84,Secretary of State,,REP,Brian J. Savilla,72
+Wood,85,Secretary of State,,REP,Brian J. Savilla,166
+Wood,86,Secretary of State,,REP,Brian J. Savilla,201
+Wood,87,Secretary of State,,REP,Brian J. Savilla,317
+Wood,88,Secretary of State,,REP,Brian J. Savilla,194
+Wood,89,Secretary of State,,REP,Brian J. Savilla,115
+Wood,1,Auditor,,DEM,Glen B. Gainer III,124
+Wood,8,Auditor,,DEM,Glen B. Gainer III,132
+Wood,10,Auditor,,DEM,Glen B. Gainer III,171
+Wood,13,Auditor,,DEM,Glen B. Gainer III,126
+Wood,16,Auditor,,DEM,Glen B. Gainer III,81
+Wood,17,Auditor,,DEM,Glen B. Gainer III,142
+Wood,19,Auditor,,DEM,Glen B. Gainer III,376
+Wood,23,Auditor,,DEM,Glen B. Gainer III,148
+Wood,24,Auditor,,DEM,Glen B. Gainer III,271
+Wood,27,Auditor,,DEM,Glen B. Gainer III,209
+Wood,29,Auditor,,DEM,Glen B. Gainer III,270
+Wood,31,Auditor,,DEM,Glen B. Gainer III,199
+Wood,32,Auditor,,DEM,Glen B. Gainer III,399
+Wood,33,Auditor,,DEM,Glen B. Gainer III,96
+Wood,34A,Auditor,,DEM,Glen B. Gainer III,299
+Wood,35,Auditor,,DEM,Glen B. Gainer III,330
+Wood,36,Auditor,,DEM,Glen B. Gainer III,377
+Wood,36B,Auditor,,DEM,Glen B. Gainer III,174
+Wood,36C,Auditor,,DEM,Glen B. Gainer III,215
+Wood,37,Auditor,,DEM,Glen B. Gainer III,134
+Wood,37A,Auditor,,DEM,Glen B. Gainer III,173
+Wood,37B,Auditor,,DEM,Glen B. Gainer III,233
+Wood,37C,Auditor,,DEM,Glen B. Gainer III,196
+Wood,37D,Auditor,,DEM,Glen B. Gainer III,231
+Wood,38,Auditor,,DEM,Glen B. Gainer III,80
+Wood,40,Auditor,,DEM,Glen B. Gainer III,248
+Wood,40A,Auditor,,DEM,Glen B. Gainer III,364
+Wood,41,Auditor,,DEM,Glen B. Gainer III,289
+Wood,42,Auditor,,DEM,Glen B. Gainer III,208
+Wood,42A,Auditor,,DEM,Glen B. Gainer III,479
+Wood,43A,Auditor,,DEM,Glen B. Gainer III,428
+Wood,44,Auditor,,DEM,Glen B. Gainer III,276
+Wood,44A,Auditor,,DEM,Glen B. Gainer III,255
+Wood,45,Auditor,,DEM,Glen B. Gainer III,174
+Wood,45A,Auditor,,DEM,Glen B. Gainer III,272
+Wood,46,Auditor,,DEM,Glen B. Gainer III,218
+Wood,46A,Auditor,,DEM,Glen B. Gainer III,316
+Wood,46B,Auditor,,DEM,Glen B. Gainer III,545
+Wood,47,Auditor,,DEM,Glen B. Gainer III,223
+Wood,48,Auditor,,DEM,Glen B. Gainer III,393
+Wood,49,Auditor,,DEM,Glen B. Gainer III,283
+Wood,49A,Auditor,,DEM,Glen B. Gainer III,284
+Wood,50,Auditor,,DEM,Glen B. Gainer III,161
+Wood,51,Auditor,,DEM,Glen B. Gainer III,520
+Wood,52,Auditor,,DEM,Glen B. Gainer III,351
+Wood,53,Auditor,,DEM,Glen B. Gainer III,294
+Wood,53A,Auditor,,DEM,Glen B. Gainer III,245
+Wood,54,Auditor,,DEM,Glen B. Gainer III,229
+Wood,54A,Auditor,,DEM,Glen B. Gainer III,273
+Wood,56,Auditor,,DEM,Glen B. Gainer III,154
+Wood,56A,Auditor,,DEM,Glen B. Gainer III,275
+Wood,57,Auditor,,DEM,Glen B. Gainer III,271
+Wood,57A,Auditor,,DEM,Glen B. Gainer III,498
+Wood,58,Auditor,,DEM,Glen B. Gainer III,260
+Wood,60,Auditor,,DEM,Glen B. Gainer III,99
+Wood,61,Auditor,,DEM,Glen B. Gainer III,254
+Wood,62,Auditor,,DEM,Glen B. Gainer III,261
+Wood,62A,Auditor,,DEM,Glen B. Gainer III,252
+Wood,63,Auditor,,DEM,Glen B. Gainer III,230
+Wood,63A,Auditor,,DEM,Glen B. Gainer III,291
+Wood,63B,Auditor,,DEM,Glen B. Gainer III,237
+Wood,64,Auditor,,DEM,Glen B. Gainer III,248
+Wood,66,Auditor,,DEM,Glen B. Gainer III,217
+Wood,67,Auditor,,DEM,Glen B. Gainer III,600
+Wood,67A,Auditor,,DEM,Glen B. Gainer III,556
+Wood,69,Auditor,,DEM,Glen B. Gainer III,164
+Wood,71,Auditor,,DEM,Glen B. Gainer III,140
+Wood,74,Auditor,,DEM,Glen B. Gainer III,214
+Wood,74A,Auditor,,DEM,Glen B. Gainer III,192
+Wood,74B,Auditor,,DEM,Glen B. Gainer III,381
+Wood,74C,Auditor,,DEM,Glen B. Gainer III,415
+Wood,75,Auditor,,DEM,Glen B. Gainer III,257
+Wood,77,Auditor,,DEM,Glen B. Gainer III,377
+Wood,78,Auditor,,DEM,Glen B. Gainer III,305
+Wood,78A,Auditor,,DEM,Glen B. Gainer III,239
+Wood,79,Auditor,,DEM,Glen B. Gainer III,252
+Wood,81,Auditor,,DEM,Glen B. Gainer III,151
+Wood,82,Auditor,,DEM,Glen B. Gainer III,292
+Wood,84,Auditor,,DEM,Glen B. Gainer III,70
+Wood,85,Auditor,,DEM,Glen B. Gainer III,202
+Wood,86,Auditor,,DEM,Glen B. Gainer III,340
+Wood,87,Auditor,,DEM,Glen B. Gainer III,404
+Wood,88,Auditor,,DEM,Glen B. Gainer III,310
+Wood,89,Auditor,,DEM,Glen B. Gainer III,180
+Wood,1,Auditor,,REP,Larry V. Faircloth,44
+Wood,8,Auditor,,REP,Larry V. Faircloth,49
+Wood,10,Auditor,,REP,Larry V. Faircloth,59
+Wood,13,Auditor,,REP,Larry V. Faircloth,33
+Wood,16,Auditor,,REP,Larry V. Faircloth,32
+Wood,17,Auditor,,REP,Larry V. Faircloth,28
+Wood,19,Auditor,,REP,Larry V. Faircloth,158
+Wood,23,Auditor,,REP,Larry V. Faircloth,50
+Wood,24,Auditor,,REP,Larry V. Faircloth,95
+Wood,27,Auditor,,REP,Larry V. Faircloth,48
+Wood,29,Auditor,,REP,Larry V. Faircloth,78
+Wood,31,Auditor,,REP,Larry V. Faircloth,66
+Wood,32,Auditor,,REP,Larry V. Faircloth,146
+Wood,33,Auditor,,REP,Larry V. Faircloth,51
+Wood,34A,Auditor,,REP,Larry V. Faircloth,141
+Wood,35,Auditor,,REP,Larry V. Faircloth,119
+Wood,36,Auditor,,REP,Larry V. Faircloth,163
+Wood,36B,Auditor,,REP,Larry V. Faircloth,53
+Wood,36C,Auditor,,REP,Larry V. Faircloth,92
+Wood,37,Auditor,,REP,Larry V. Faircloth,62
+Wood,37A,Auditor,,REP,Larry V. Faircloth,48
+Wood,37B,Auditor,,REP,Larry V. Faircloth,87
+Wood,37C,Auditor,,REP,Larry V. Faircloth,76
+Wood,37D,Auditor,,REP,Larry V. Faircloth,73
+Wood,38,Auditor,,REP,Larry V. Faircloth,32
+Wood,40,Auditor,,REP,Larry V. Faircloth,93
+Wood,40A,Auditor,,REP,Larry V. Faircloth,161
+Wood,41,Auditor,,REP,Larry V. Faircloth,134
+Wood,42,Auditor,,REP,Larry V. Faircloth,93
+Wood,42A,Auditor,,REP,Larry V. Faircloth,193
+Wood,43A,Auditor,,REP,Larry V. Faircloth,205
+Wood,44,Auditor,,REP,Larry V. Faircloth,128
+Wood,44A,Auditor,,REP,Larry V. Faircloth,102
+Wood,45,Auditor,,REP,Larry V. Faircloth,52
+Wood,45A,Auditor,,REP,Larry V. Faircloth,91
+Wood,46,Auditor,,REP,Larry V. Faircloth,106
+Wood,46A,Auditor,,REP,Larry V. Faircloth,129
+Wood,46B,Auditor,,REP,Larry V. Faircloth,259
+Wood,47,Auditor,,REP,Larry V. Faircloth,102
+Wood,48,Auditor,,REP,Larry V. Faircloth,217
+Wood,49,Auditor,,REP,Larry V. Faircloth,130
+Wood,49A,Auditor,,REP,Larry V. Faircloth,180
+Wood,50,Auditor,,REP,Larry V. Faircloth,86
+Wood,51,Auditor,,REP,Larry V. Faircloth,282
+Wood,52,Auditor,,REP,Larry V. Faircloth,148
+Wood,53,Auditor,,REP,Larry V. Faircloth,208
+Wood,53A,Auditor,,REP,Larry V. Faircloth,132
+Wood,54,Auditor,,REP,Larry V. Faircloth,118
+Wood,54A,Auditor,,REP,Larry V. Faircloth,162
+Wood,56,Auditor,,REP,Larry V. Faircloth,74
+Wood,56A,Auditor,,REP,Larry V. Faircloth,165
+Wood,57,Auditor,,REP,Larry V. Faircloth,145
+Wood,57A,Auditor,,REP,Larry V. Faircloth,239
+Wood,58,Auditor,,REP,Larry V. Faircloth,132
+Wood,60,Auditor,,REP,Larry V. Faircloth,53
+Wood,61,Auditor,,REP,Larry V. Faircloth,156
+Wood,62,Auditor,,REP,Larry V. Faircloth,133
+Wood,62A,Auditor,,REP,Larry V. Faircloth,131
+Wood,63,Auditor,,REP,Larry V. Faircloth,119
+Wood,63A,Auditor,,REP,Larry V. Faircloth,183
+Wood,63B,Auditor,,REP,Larry V. Faircloth,138
+Wood,64,Auditor,,REP,Larry V. Faircloth,121
+Wood,66,Auditor,,REP,Larry V. Faircloth,112
+Wood,67,Auditor,,REP,Larry V. Faircloth,319
+Wood,67A,Auditor,,REP,Larry V. Faircloth,268
+Wood,69,Auditor,,REP,Larry V. Faircloth,65
+Wood,71,Auditor,,REP,Larry V. Faircloth,56
+Wood,74,Auditor,,REP,Larry V. Faircloth,84
+Wood,74A,Auditor,,REP,Larry V. Faircloth,85
+Wood,74B,Auditor,,REP,Larry V. Faircloth,142
+Wood,74C,Auditor,,REP,Larry V. Faircloth,166
+Wood,75,Auditor,,REP,Larry V. Faircloth,110
+Wood,77,Auditor,,REP,Larry V. Faircloth,146
+Wood,78,Auditor,,REP,Larry V. Faircloth,111
+Wood,78A,Auditor,,REP,Larry V. Faircloth,126
+Wood,79,Auditor,,REP,Larry V. Faircloth,103
+Wood,81,Auditor,,REP,Larry V. Faircloth,92
+Wood,82,Auditor,,REP,Larry V. Faircloth,183
+Wood,84,Auditor,,REP,Larry V. Faircloth,64
+Wood,85,Auditor,,REP,Larry V. Faircloth,122
+Wood,86,Auditor,,REP,Larry V. Faircloth,168
+Wood,87,Auditor,,REP,Larry V. Faircloth,237
+Wood,88,Auditor,,REP,Larry V. Faircloth,156
+Wood,89,Auditor,,REP,Larry V. Faircloth,89
+Wood,1,Treasurer,,DEM,John D. Perdue,94
+Wood,8,Treasurer,,DEM,John D. Perdue,117
+Wood,10,Treasurer,,DEM,John D. Perdue,136
+Wood,13,Treasurer,,DEM,John D. Perdue,102
+Wood,16,Treasurer,,DEM,John D. Perdue,71
+Wood,17,Treasurer,,DEM,John D. Perdue,115
+Wood,19,Treasurer,,DEM,John D. Perdue,278
+Wood,23,Treasurer,,DEM,John D. Perdue,120
+Wood,24,Treasurer,,DEM,John D. Perdue,200
+Wood,27,Treasurer,,DEM,John D. Perdue,156
+Wood,29,Treasurer,,DEM,John D. Perdue,208
+Wood,31,Treasurer,,DEM,John D. Perdue,148
+Wood,32,Treasurer,,DEM,John D. Perdue,316
+Wood,33,Treasurer,,DEM,John D. Perdue,79
+Wood,34A,Treasurer,,DEM,John D. Perdue,222
+Wood,35,Treasurer,,DEM,John D. Perdue,252
+Wood,36,Treasurer,,DEM,John D. Perdue,288
+Wood,36B,Treasurer,,DEM,John D. Perdue,137
+Wood,36C,Treasurer,,DEM,John D. Perdue,157
+Wood,37,Treasurer,,DEM,John D. Perdue,94
+Wood,37A,Treasurer,,DEM,John D. Perdue,138
+Wood,37B,Treasurer,,DEM,John D. Perdue,150
+Wood,37C,Treasurer,,DEM,John D. Perdue,137
+Wood,37D,Treasurer,,DEM,John D. Perdue,162
+Wood,38,Treasurer,,DEM,John D. Perdue,54
+Wood,40,Treasurer,,DEM,John D. Perdue,187
+Wood,40A,Treasurer,,DEM,John D. Perdue,257
+Wood,41,Treasurer,,DEM,John D. Perdue,211
+Wood,42,Treasurer,,DEM,John D. Perdue,141
+Wood,42A,Treasurer,,DEM,John D. Perdue,349
+Wood,43A,Treasurer,,DEM,John D. Perdue,290
+Wood,44,Treasurer,,DEM,John D. Perdue,230
+Wood,44A,Treasurer,,DEM,John D. Perdue,177
+Wood,45,Treasurer,,DEM,John D. Perdue,132
+Wood,45A,Treasurer,,DEM,John D. Perdue,201
+Wood,46,Treasurer,,DEM,John D. Perdue,140
+Wood,46A,Treasurer,,DEM,John D. Perdue,198
+Wood,46B,Treasurer,,DEM,John D. Perdue,358
+Wood,47,Treasurer,,DEM,John D. Perdue,163
+Wood,48,Treasurer,,DEM,John D. Perdue,280
+Wood,49,Treasurer,,DEM,John D. Perdue,215
+Wood,49A,Treasurer,,DEM,John D. Perdue,179
+Wood,50,Treasurer,,DEM,John D. Perdue,119
+Wood,51,Treasurer,,DEM,John D. Perdue,364
+Wood,52,Treasurer,,DEM,John D. Perdue,266
+Wood,53,Treasurer,,DEM,John D. Perdue,206
+Wood,53A,Treasurer,,DEM,John D. Perdue,158
+Wood,54,Treasurer,,DEM,John D. Perdue,172
+Wood,54A,Treasurer,,DEM,John D. Perdue,191
+Wood,56,Treasurer,,DEM,John D. Perdue,124
+Wood,56A,Treasurer,,DEM,John D. Perdue,185
+Wood,57,Treasurer,,DEM,John D. Perdue,192
+Wood,57A,Treasurer,,DEM,John D. Perdue,362
+Wood,58,Treasurer,,DEM,John D. Perdue,180
+Wood,60,Treasurer,,DEM,John D. Perdue,87
+Wood,61,Treasurer,,DEM,John D. Perdue,196
+Wood,62,Treasurer,,DEM,John D. Perdue,177
+Wood,62A,Treasurer,,DEM,John D. Perdue,167
+Wood,63,Treasurer,,DEM,John D. Perdue,142
+Wood,63A,Treasurer,,DEM,John D. Perdue,215
+Wood,63B,Treasurer,,DEM,John D. Perdue,152
+Wood,64,Treasurer,,DEM,John D. Perdue,178
+Wood,66,Treasurer,,DEM,John D. Perdue,164
+Wood,67,Treasurer,,DEM,John D. Perdue,414
+Wood,67A,Treasurer,,DEM,John D. Perdue,384
+Wood,69,Treasurer,,DEM,John D. Perdue,123
+Wood,71,Treasurer,,DEM,John D. Perdue,118
+Wood,74,Treasurer,,DEM,John D. Perdue,176
+Wood,74A,Treasurer,,DEM,John D. Perdue,136
+Wood,74B,Treasurer,,DEM,John D. Perdue,257
+Wood,74C,Treasurer,,DEM,John D. Perdue,304
+Wood,75,Treasurer,,DEM,John D. Perdue,221
+Wood,77,Treasurer,,DEM,John D. Perdue,287
+Wood,78,Treasurer,,DEM,John D. Perdue,226
+Wood,78A,Treasurer,,DEM,John D. Perdue,168
+Wood,79,Treasurer,,DEM,John D. Perdue,177
+Wood,81,Treasurer,,DEM,John D. Perdue,106
+Wood,82,Treasurer,,DEM,John D. Perdue,198
+Wood,84,Treasurer,,DEM,John D. Perdue,53
+Wood,85,Treasurer,,DEM,John D. Perdue,141
+Wood,86,Treasurer,,DEM,John D. Perdue,247
+Wood,87,Treasurer,,DEM,John D. Perdue,282
+Wood,88,Treasurer,,DEM,John D. Perdue,216
+Wood,89,Treasurer,,DEM,John D. Perdue,114
+Wood,1,Treasurer,,REP,Mike Hall,71
+Wood,8,Treasurer,,REP,Mike Hall,65
+Wood,10,Treasurer,,REP,Mike Hall,84
+Wood,13,Treasurer,,REP,Mike Hall,56
+Wood,16,Treasurer,,REP,Mike Hall,44
+Wood,17,Treasurer,,REP,Mike Hall,50
+Wood,19,Treasurer,,REP,Mike Hall,238
+Wood,23,Treasurer,,REP,Mike Hall,74
+Wood,24,Treasurer,,REP,Mike Hall,147
+Wood,27,Treasurer,,REP,Mike Hall,95
+Wood,29,Treasurer,,REP,Mike Hall,135
+Wood,31,Treasurer,,REP,Mike Hall,111
+Wood,32,Treasurer,,REP,Mike Hall,210
+Wood,33,Treasurer,,REP,Mike Hall,66
+Wood,34A,Treasurer,,REP,Mike Hall,204
+Wood,35,Treasurer,,REP,Mike Hall,181
+Wood,36,Treasurer,,REP,Mike Hall,232
+Wood,36B,Treasurer,,REP,Mike Hall,76
+Wood,36C,Treasurer,,REP,Mike Hall,143
+Wood,37,Treasurer,,REP,Mike Hall,96
+Wood,37A,Treasurer,,REP,Mike Hall,75
+Wood,37B,Treasurer,,REP,Mike Hall,147
+Wood,37C,Treasurer,,REP,Mike Hall,118
+Wood,37D,Treasurer,,REP,Mike Hall,130
+Wood,38,Treasurer,,REP,Mike Hall,55
+Wood,40,Treasurer,,REP,Mike Hall,143
+Wood,40A,Treasurer,,REP,Mike Hall,247
+Wood,41,Treasurer,,REP,Mike Hall,200
+Wood,42,Treasurer,,REP,Mike Hall,150
+Wood,42A,Treasurer,,REP,Mike Hall,306
+Wood,43A,Treasurer,,REP,Mike Hall,320
+Wood,44,Treasurer,,REP,Mike Hall,173
+Wood,44A,Treasurer,,REP,Mike Hall,162
+Wood,45,Treasurer,,REP,Mike Hall,88
+Wood,45A,Treasurer,,REP,Mike Hall,154
+Wood,46,Treasurer,,REP,Mike Hall,167
+Wood,46A,Treasurer,,REP,Mike Hall,225
+Wood,46B,Treasurer,,REP,Mike Hall,413
+Wood,47,Treasurer,,REP,Mike Hall,160
+Wood,48,Treasurer,,REP,Mike Hall,313
+Wood,49,Treasurer,,REP,Mike Hall,190
+Wood,49A,Treasurer,,REP,Mike Hall,280
+Wood,50,Treasurer,,REP,Mike Hall,123
+Wood,51,Treasurer,,REP,Mike Hall,409
+Wood,52,Treasurer,,REP,Mike Hall,210
+Wood,53,Treasurer,,REP,Mike Hall,288
+Wood,53A,Treasurer,,REP,Mike Hall,204
+Wood,54,Treasurer,,REP,Mike Hall,163
+Wood,54A,Treasurer,,REP,Mike Hall,232
+Wood,56,Treasurer,,REP,Mike Hall,96
+Wood,56A,Treasurer,,REP,Mike Hall,246
+Wood,57,Treasurer,,REP,Mike Hall,214
+Wood,57A,Treasurer,,REP,Mike Hall,357
+Wood,58,Treasurer,,REP,Mike Hall,198
+Wood,60,Treasurer,,REP,Mike Hall,65
+Wood,61,Treasurer,,REP,Mike Hall,207
+Wood,62,Treasurer,,REP,Mike Hall,205
+Wood,62A,Treasurer,,REP,Mike Hall,206
+Wood,63,Treasurer,,REP,Mike Hall,188
+Wood,63A,Treasurer,,REP,Mike Hall,243
+Wood,63B,Treasurer,,REP,Mike Hall,201
+Wood,64,Treasurer,,REP,Mike Hall,186
+Wood,66,Treasurer,,REP,Mike Hall,148
+Wood,67,Treasurer,,REP,Mike Hall,465
+Wood,67A,Treasurer,,REP,Mike Hall,418
+Wood,69,Treasurer,,REP,Mike Hall,95
+Wood,71,Treasurer,,REP,Mike Hall,74
+Wood,74,Treasurer,,REP,Mike Hall,115
+Wood,74A,Treasurer,,REP,Mike Hall,128
+Wood,74B,Treasurer,,REP,Mike Hall,234
+Wood,74C,Treasurer,,REP,Mike Hall,252
+Wood,75,Treasurer,,REP,Mike Hall,148
+Wood,77,Treasurer,,REP,Mike Hall,226
+Wood,78,Treasurer,,REP,Mike Hall,176
+Wood,78A,Treasurer,,REP,Mike Hall,185
+Wood,79,Treasurer,,REP,Mike Hall,160
+Wood,81,Treasurer,,REP,Mike Hall,131
+Wood,82,Treasurer,,REP,Mike Hall,261
+Wood,84,Treasurer,,REP,Mike Hall,80
+Wood,85,Treasurer,,REP,Mike Hall,185
+Wood,86,Treasurer,,REP,Mike Hall,248
+Wood,87,Treasurer,,REP,Mike Hall,343
+Wood,88,Treasurer,,REP,Mike Hall,241
+Wood,89,Treasurer,,REP,Mike Hall,148
+Wood,1,Commissioner of Agriculture,,DEM,Walt Helmick,81
+Wood,8,Commissioner of Agriculture,,DEM,Walt Helmick,100
+Wood,10,Commissioner of Agriculture,,DEM,Walt Helmick,111
+Wood,13,Commissioner of Agriculture,,DEM,Walt Helmick,79
+Wood,16,Commissioner of Agriculture,,DEM,Walt Helmick,66
+Wood,17,Commissioner of Agriculture,,DEM,Walt Helmick,97
+Wood,19,Commissioner of Agriculture,,DEM,Walt Helmick,233
+Wood,23,Commissioner of Agriculture,,DEM,Walt Helmick,103
+Wood,24,Commissioner of Agriculture,,DEM,Walt Helmick,174
+Wood,27,Commissioner of Agriculture,,DEM,Walt Helmick,125
+Wood,29,Commissioner of Agriculture,,DEM,Walt Helmick,162
+Wood,31,Commissioner of Agriculture,,DEM,Walt Helmick,107
+Wood,32,Commissioner of Agriculture,,DEM,Walt Helmick,271
+Wood,33,Commissioner of Agriculture,,DEM,Walt Helmick,69
+Wood,34A,Commissioner of Agriculture,,DEM,Walt Helmick,172
+Wood,35,Commissioner of Agriculture,,DEM,Walt Helmick,199
+Wood,36,Commissioner of Agriculture,,DEM,Walt Helmick,224
+Wood,36B,Commissioner of Agriculture,,DEM,Walt Helmick,102
+Wood,36C,Commissioner of Agriculture,,DEM,Walt Helmick,121
+Wood,37,Commissioner of Agriculture,,DEM,Walt Helmick,69
+Wood,37A,Commissioner of Agriculture,,DEM,Walt Helmick,101
+Wood,37B,Commissioner of Agriculture,,DEM,Walt Helmick,96
+Wood,37C,Commissioner of Agriculture,,DEM,Walt Helmick,94
+Wood,37D,Commissioner of Agriculture,,DEM,Walt Helmick,129
+Wood,38,Commissioner of Agriculture,,DEM,Walt Helmick,50
+Wood,40,Commissioner of Agriculture,,DEM,Walt Helmick,169
+Wood,40A,Commissioner of Agriculture,,DEM,Walt Helmick,216
+Wood,41,Commissioner of Agriculture,,DEM,Walt Helmick,171
+Wood,42,Commissioner of Agriculture,,DEM,Walt Helmick,118
+Wood,42A,Commissioner of Agriculture,,DEM,Walt Helmick,267
+Wood,43A,Commissioner of Agriculture,,DEM,Walt Helmick,235
+Wood,44,Commissioner of Agriculture,,DEM,Walt Helmick,191
+Wood,44A,Commissioner of Agriculture,,DEM,Walt Helmick,131
+Wood,45,Commissioner of Agriculture,,DEM,Walt Helmick,116
+Wood,45A,Commissioner of Agriculture,,DEM,Walt Helmick,140
+Wood,46,Commissioner of Agriculture,,DEM,Walt Helmick,95
+Wood,46A,Commissioner of Agriculture,,DEM,Walt Helmick,171
+Wood,46B,Commissioner of Agriculture,,DEM,Walt Helmick,241
+Wood,47,Commissioner of Agriculture,,DEM,Walt Helmick,126
+Wood,48,Commissioner of Agriculture,,DEM,Walt Helmick,217
+Wood,49,Commissioner of Agriculture,,DEM,Walt Helmick,156
+Wood,49A,Commissioner of Agriculture,,DEM,Walt Helmick,146
+Wood,50,Commissioner of Agriculture,,DEM,Walt Helmick,96
+Wood,51,Commissioner of Agriculture,,DEM,Walt Helmick,293
+Wood,52,Commissioner of Agriculture,,DEM,Walt Helmick,209
+Wood,53,Commissioner of Agriculture,,DEM,Walt Helmick,161
+Wood,53A,Commissioner of Agriculture,,DEM,Walt Helmick,132
+Wood,54,Commissioner of Agriculture,,DEM,Walt Helmick,133
+Wood,54A,Commissioner of Agriculture,,DEM,Walt Helmick,139
+Wood,56,Commissioner of Agriculture,,DEM,Walt Helmick,103
+Wood,56A,Commissioner of Agriculture,,DEM,Walt Helmick,154
+Wood,57,Commissioner of Agriculture,,DEM,Walt Helmick,138
+Wood,57A,Commissioner of Agriculture,,DEM,Walt Helmick,298
+Wood,58,Commissioner of Agriculture,,DEM,Walt Helmick,149
+Wood,60,Commissioner of Agriculture,,DEM,Walt Helmick,73
+Wood,61,Commissioner of Agriculture,,DEM,Walt Helmick,156
+Wood,62,Commissioner of Agriculture,,DEM,Walt Helmick,154
+Wood,62A,Commissioner of Agriculture,,DEM,Walt Helmick,152
+Wood,63,Commissioner of Agriculture,,DEM,Walt Helmick,132
+Wood,63A,Commissioner of Agriculture,,DEM,Walt Helmick,168
+Wood,63B,Commissioner of Agriculture,,DEM,Walt Helmick,119
+Wood,64,Commissioner of Agriculture,,DEM,Walt Helmick,124
+Wood,66,Commissioner of Agriculture,,DEM,Walt Helmick,150
+Wood,67,Commissioner of Agriculture,,DEM,Walt Helmick,320
+Wood,67A,Commissioner of Agriculture,,DEM,Walt Helmick,306
+Wood,69,Commissioner of Agriculture,,DEM,Walt Helmick,96
+Wood,71,Commissioner of Agriculture,,DEM,Walt Helmick,103
+Wood,74,Commissioner of Agriculture,,DEM,Walt Helmick,125
+Wood,74A,Commissioner of Agriculture,,DEM,Walt Helmick,124
+Wood,74B,Commissioner of Agriculture,,DEM,Walt Helmick,206
+Wood,74C,Commissioner of Agriculture,,DEM,Walt Helmick,242
+Wood,75,Commissioner of Agriculture,,DEM,Walt Helmick,188
+Wood,77,Commissioner of Agriculture,,DEM,Walt Helmick,254
+Wood,78,Commissioner of Agriculture,,DEM,Walt Helmick,180
+Wood,78A,Commissioner of Agriculture,,DEM,Walt Helmick,137
+Wood,79,Commissioner of Agriculture,,DEM,Walt Helmick,150
+Wood,81,Commissioner of Agriculture,,DEM,Walt Helmick,82
+Wood,82,Commissioner of Agriculture,,DEM,Walt Helmick,139
+Wood,84,Commissioner of Agriculture,,DEM,Walt Helmick,45
+Wood,85,Commissioner of Agriculture,,DEM,Walt Helmick,113
+Wood,86,Commissioner of Agriculture,,DEM,Walt Helmick,199
+Wood,87,Commissioner of Agriculture,,DEM,Walt Helmick,225
+Wood,88,Commissioner of Agriculture,,DEM,Walt Helmick,161
+Wood,89,Commissioner of Agriculture,,DEM,Walt Helmick,87
+Wood,1,Commissioner of Agriculture,,REP,Kent Leonhardt,81
+Wood,8,Commissioner of Agriculture,,REP,Kent Leonhardt,80
+Wood,10,Commissioner of Agriculture,,REP,Kent Leonhardt,103
+Wood,13,Commissioner of Agriculture,,REP,Kent Leonhardt,68
+Wood,16,Commissioner of Agriculture,,REP,Kent Leonhardt,49
+Wood,17,Commissioner of Agriculture,,REP,Kent Leonhardt,63
+Wood,19,Commissioner of Agriculture,,REP,Kent Leonhardt,271
+Wood,23,Commissioner of Agriculture,,REP,Kent Leonhardt,90
+Wood,24,Commissioner of Agriculture,,REP,Kent Leonhardt,172
+Wood,27,Commissioner of Agriculture,,REP,Kent Leonhardt,115
+Wood,29,Commissioner of Agriculture,,REP,Kent Leonhardt,173
+Wood,31,Commissioner of Agriculture,,REP,Kent Leonhardt,147
+Wood,32,Commissioner of Agriculture,,REP,Kent Leonhardt,241
+Wood,33,Commissioner of Agriculture,,REP,Kent Leonhardt,70
+Wood,34A,Commissioner of Agriculture,,REP,Kent Leonhardt,244
+Wood,35,Commissioner of Agriculture,,REP,Kent Leonhardt,220
+Wood,36,Commissioner of Agriculture,,REP,Kent Leonhardt,289
+Wood,36B,Commissioner of Agriculture,,REP,Kent Leonhardt,107
+Wood,36C,Commissioner of Agriculture,,REP,Kent Leonhardt,173
+Wood,37,Commissioner of Agriculture,,REP,Kent Leonhardt,114
+Wood,37A,Commissioner of Agriculture,,REP,Kent Leonhardt,108
+Wood,37B,Commissioner of Agriculture,,REP,Kent Leonhardt,185
+Wood,37C,Commissioner of Agriculture,,REP,Kent Leonhardt,158
+Wood,37D,Commissioner of Agriculture,,REP,Kent Leonhardt,160
+Wood,38,Commissioner of Agriculture,,REP,Kent Leonhardt,58
+Wood,40,Commissioner of Agriculture,,REP,Kent Leonhardt,155
+Wood,40A,Commissioner of Agriculture,,REP,Kent Leonhardt,278
+Wood,41,Commissioner of Agriculture,,REP,Kent Leonhardt,238
+Wood,42,Commissioner of Agriculture,,REP,Kent Leonhardt,167
+Wood,42A,Commissioner of Agriculture,,REP,Kent Leonhardt,358
+Wood,43A,Commissioner of Agriculture,,REP,Kent Leonhardt,357
+Wood,44,Commissioner of Agriculture,,REP,Kent Leonhardt,198
+Wood,44A,Commissioner of Agriculture,,REP,Kent Leonhardt,205
+Wood,45,Commissioner of Agriculture,,REP,Kent Leonhardt,95
+Wood,45A,Commissioner of Agriculture,,REP,Kent Leonhardt,201
+Wood,46,Commissioner of Agriculture,,REP,Kent Leonhardt,203
+Wood,46A,Commissioner of Agriculture,,REP,Kent Leonhardt,244
+Wood,46B,Commissioner of Agriculture,,REP,Kent Leonhardt,509
+Wood,47,Commissioner of Agriculture,,REP,Kent Leonhardt,185
+Wood,48,Commissioner of Agriculture,,REP,Kent Leonhardt,362
+Wood,49,Commissioner of Agriculture,,REP,Kent Leonhardt,243
+Wood,49A,Commissioner of Agriculture,,REP,Kent Leonhardt,305
+Wood,50,Commissioner of Agriculture,,REP,Kent Leonhardt,140
+Wood,51,Commissioner of Agriculture,,REP,Kent Leonhardt,466
+Wood,52,Commissioner of Agriculture,,REP,Kent Leonhardt,259
+Wood,53,Commissioner of Agriculture,,REP,Kent Leonhardt,321
+Wood,53A,Commissioner of Agriculture,,REP,Kent Leonhardt,228
+Wood,54,Commissioner of Agriculture,,REP,Kent Leonhardt,199
+Wood,54A,Commissioner of Agriculture,,REP,Kent Leonhardt,282
+Wood,56,Commissioner of Agriculture,,REP,Kent Leonhardt,119
+Wood,56A,Commissioner of Agriculture,,REP,Kent Leonhardt,275
+Wood,57,Commissioner of Agriculture,,REP,Kent Leonhardt,253
+Wood,57A,Commissioner of Agriculture,,REP,Kent Leonhardt,408
+Wood,58,Commissioner of Agriculture,,REP,Kent Leonhardt,224
+Wood,60,Commissioner of Agriculture,,REP,Kent Leonhardt,82
+Wood,61,Commissioner of Agriculture,,REP,Kent Leonhardt,239
+Wood,62,Commissioner of Agriculture,,REP,Kent Leonhardt,230
+Wood,62A,Commissioner of Agriculture,,REP,Kent Leonhardt,220
+Wood,63,Commissioner of Agriculture,,REP,Kent Leonhardt,204
+Wood,63A,Commissioner of Agriculture,,REP,Kent Leonhardt,275
+Wood,63B,Commissioner of Agriculture,,REP,Kent Leonhardt,236
+Wood,64,Commissioner of Agriculture,,REP,Kent Leonhardt,229
+Wood,66,Commissioner of Agriculture,,REP,Kent Leonhardt,156
+Wood,67,Commissioner of Agriculture,,REP,Kent Leonhardt,549
+Wood,67A,Commissioner of Agriculture,,REP,Kent Leonhardt,472
+Wood,69,Commissioner of Agriculture,,REP,Kent Leonhardt,116
+Wood,71,Commissioner of Agriculture,,REP,Kent Leonhardt,81
+Wood,74,Commissioner of Agriculture,,REP,Kent Leonhardt,151
+Wood,74A,Commissioner of Agriculture,,REP,Kent Leonhardt,133
+Wood,74B,Commissioner of Agriculture,,REP,Kent Leonhardt,268
+Wood,74C,Commissioner of Agriculture,,REP,Kent Leonhardt,304
+Wood,75,Commissioner of Agriculture,,REP,Kent Leonhardt,180
+Wood,77,Commissioner of Agriculture,,REP,Kent Leonhardt,249
+Wood,78,Commissioner of Agriculture,,REP,Kent Leonhardt,218
+Wood,78A,Commissioner of Agriculture,,REP,Kent Leonhardt,214
+Wood,79,Commissioner of Agriculture,,REP,Kent Leonhardt,189
+Wood,81,Commissioner of Agriculture,,REP,Kent Leonhardt,154
+Wood,82,Commissioner of Agriculture,,REP,Kent Leonhardt,332
+Wood,84,Commissioner of Agriculture,,REP,Kent Leonhardt,85
+Wood,85,Commissioner of Agriculture,,REP,Kent Leonhardt,203
+Wood,86,Commissioner of Agriculture,,REP,Kent Leonhardt,289
+Wood,87,Commissioner of Agriculture,,REP,Kent Leonhardt,392
+Wood,88,Commissioner of Agriculture,,REP,Kent Leonhardt,285
+Wood,89,Commissioner of Agriculture,,REP,Kent Leonhardt,167
+Wood,1,Attorney General,,DEM,Darrell V. McGraw Jr.,77
+Wood,8,Attorney General,,DEM,Darrell V. McGraw Jr.,106
+Wood,10,Attorney General,,DEM,Darrell V. McGraw Jr.,120
+Wood,13,Attorney General,,DEM,Darrell V. McGraw Jr.,85
+Wood,16,Attorney General,,DEM,Darrell V. McGraw Jr.,60
+Wood,17,Attorney General,,DEM,Darrell V. McGraw Jr.,104
+Wood,19,Attorney General,,DEM,Darrell V. McGraw Jr.,242
+Wood,23,Attorney General,,DEM,Darrell V. McGraw Jr.,105
+Wood,24,Attorney General,,DEM,Darrell V. McGraw Jr.,162
+Wood,27,Attorney General,,DEM,Darrell V. McGraw Jr.,139
+Wood,29,Attorney General,,DEM,Darrell V. McGraw Jr.,174
+Wood,31,Attorney General,,DEM,Darrell V. McGraw Jr.,117
+Wood,32,Attorney General,,DEM,Darrell V. McGraw Jr.,283
+Wood,33,Attorney General,,DEM,Darrell V. McGraw Jr.,73
+Wood,34A,Attorney General,,DEM,Darrell V. McGraw Jr.,183
+Wood,35,Attorney General,,DEM,Darrell V. McGraw Jr.,232
+Wood,36,Attorney General,,DEM,Darrell V. McGraw Jr.,216
+Wood,36B,Attorney General,,DEM,Darrell V. McGraw Jr.,99
+Wood,36C,Attorney General,,DEM,Darrell V. McGraw Jr.,130
+Wood,37,Attorney General,,DEM,Darrell V. McGraw Jr.,72
+Wood,37A,Attorney General,,DEM,Darrell V. McGraw Jr.,114
+Wood,37B,Attorney General,,DEM,Darrell V. McGraw Jr.,123
+Wood,37C,Attorney General,,DEM,Darrell V. McGraw Jr.,103
+Wood,37D,Attorney General,,DEM,Darrell V. McGraw Jr.,130
+Wood,38,Attorney General,,DEM,Darrell V. McGraw Jr.,46
+Wood,40,Attorney General,,DEM,Darrell V. McGraw Jr.,164
+Wood,40A,Attorney General,,DEM,Darrell V. McGraw Jr.,232
+Wood,41,Attorney General,,DEM,Darrell V. McGraw Jr.,183
+Wood,42,Attorney General,,DEM,Darrell V. McGraw Jr.,118
+Wood,42A,Attorney General,,DEM,Darrell V. McGraw Jr.,287
+Wood,43A,Attorney General,,DEM,Darrell V. McGraw Jr.,243
+Wood,44,Attorney General,,DEM,Darrell V. McGraw Jr.,191
+Wood,44A,Attorney General,,DEM,Darrell V. McGraw Jr.,153
+Wood,45,Attorney General,,DEM,Darrell V. McGraw Jr.,118
+Wood,45A,Attorney General,,DEM,Darrell V. McGraw Jr.,169
+Wood,46,Attorney General,,DEM,Darrell V. McGraw Jr.,98
+Wood,46A,Attorney General,,DEM,Darrell V. McGraw Jr.,159
+Wood,46B,Attorney General,,DEM,Darrell V. McGraw Jr.,224
+Wood,47,Attorney General,,DEM,Darrell V. McGraw Jr.,139
+Wood,48,Attorney General,,DEM,Darrell V. McGraw Jr.,228
+Wood,49,Attorney General,,DEM,Darrell V. McGraw Jr.,179
+Wood,49A,Attorney General,,DEM,Darrell V. McGraw Jr.,156
+Wood,50,Attorney General,,DEM,Darrell V. McGraw Jr.,102
+Wood,51,Attorney General,,DEM,Darrell V. McGraw Jr.,320
+Wood,52,Attorney General,,DEM,Darrell V. McGraw Jr.,212
+Wood,53,Attorney General,,DEM,Darrell V. McGraw Jr.,168
+Wood,53A,Attorney General,,DEM,Darrell V. McGraw Jr.,130
+Wood,54,Attorney General,,DEM,Darrell V. McGraw Jr.,149
+Wood,54A,Attorney General,,DEM,Darrell V. McGraw Jr.,156
+Wood,56,Attorney General,,DEM,Darrell V. McGraw Jr.,99
+Wood,56A,Attorney General,,DEM,Darrell V. McGraw Jr.,155
+Wood,57,Attorney General,,DEM,Darrell V. McGraw Jr.,141
+Wood,57A,Attorney General,,DEM,Darrell V. McGraw Jr.,316
+Wood,58,Attorney General,,DEM,Darrell V. McGraw Jr.,160
+Wood,60,Attorney General,,DEM,Darrell V. McGraw Jr.,76
+Wood,61,Attorney General,,DEM,Darrell V. McGraw Jr.,177
+Wood,62,Attorney General,,DEM,Darrell V. McGraw Jr.,141
+Wood,62A,Attorney General,,DEM,Darrell V. McGraw Jr.,140
+Wood,63,Attorney General,,DEM,Darrell V. McGraw Jr.,138
+Wood,63A,Attorney General,,DEM,Darrell V. McGraw Jr.,163
+Wood,63B,Attorney General,,DEM,Darrell V. McGraw Jr.,123
+Wood,64,Attorney General,,DEM,Darrell V. McGraw Jr.,129
+Wood,66,Attorney General,,DEM,Darrell V. McGraw Jr.,146
+Wood,67,Attorney General,,DEM,Darrell V. McGraw Jr.,315
+Wood,67A,Attorney General,,DEM,Darrell V. McGraw Jr.,320
+Wood,69,Attorney General,,DEM,Darrell V. McGraw Jr.,108
+Wood,71,Attorney General,,DEM,Darrell V. McGraw Jr.,117
+Wood,74,Attorney General,,DEM,Darrell V. McGraw Jr.,145
+Wood,74A,Attorney General,,DEM,Darrell V. McGraw Jr.,128
+Wood,74B,Attorney General,,DEM,Darrell V. McGraw Jr.,210
+Wood,74C,Attorney General,,DEM,Darrell V. McGraw Jr.,270
+Wood,75,Attorney General,,DEM,Darrell V. McGraw Jr.,197
+Wood,77,Attorney General,,DEM,Darrell V. McGraw Jr.,262
+Wood,78,Attorney General,,DEM,Darrell V. McGraw Jr.,209
+Wood,78A,Attorney General,,DEM,Darrell V. McGraw Jr.,142
+Wood,79,Attorney General,,DEM,Darrell V. McGraw Jr.,164
+Wood,81,Attorney General,,DEM,Darrell V. McGraw Jr.,95
+Wood,82,Attorney General,,DEM,Darrell V. McGraw Jr.,172
+Wood,84,Attorney General,,DEM,Darrell V. McGraw Jr.,51
+Wood,85,Attorney General,,DEM,Darrell V. McGraw Jr.,118
+Wood,86,Attorney General,,DEM,Darrell V. McGraw Jr.,214
+Wood,87,Attorney General,,DEM,Darrell V. McGraw Jr.,243
+Wood,88,Attorney General,,DEM,Darrell V. McGraw Jr.,186
+Wood,89,Attorney General,,DEM,Darrell V. McGraw Jr.,104
+Wood,1,Attorney General,,REP,Patrick Morrisey,89
+Wood,8,Attorney General,,REP,Patrick Morrisey,80
+Wood,10,Attorney General,,REP,Patrick Morrisey,109
+Wood,13,Attorney General,,REP,Patrick Morrisey,79
+Wood,16,Attorney General,,REP,Patrick Morrisey,54
+Wood,17,Attorney General,,REP,Patrick Morrisey,63
+Wood,19,Attorney General,,REP,Patrick Morrisey,294
+Wood,23,Attorney General,,REP,Patrick Morrisey,94
+Wood,24,Attorney General,,REP,Patrick Morrisey,202
+Wood,27,Attorney General,,REP,Patrick Morrisey,114
+Wood,29,Attorney General,,REP,Patrick Morrisey,177
+Wood,31,Attorney General,,REP,Patrick Morrisey,156
+Wood,32,Attorney General,,REP,Patrick Morrisey,261
+Wood,33,Attorney General,,REP,Patrick Morrisey,71
+Wood,34A,Attorney General,,REP,Patrick Morrisey,258
+Wood,35,Attorney General,,REP,Patrick Morrisey,229
+Wood,36,Attorney General,,REP,Patrick Morrisey,328
+Wood,36B,Attorney General,,REP,Patrick Morrisey,132
+Wood,36C,Attorney General,,REP,Patrick Morrisey,172
+Wood,37,Attorney General,,REP,Patrick Morrisey,128
+Wood,37A,Attorney General,,REP,Patrick Morrisey,106
+Wood,37B,Attorney General,,REP,Patrick Morrisey,190
+Wood,37C,Attorney General,,REP,Patrick Morrisey,165
+Wood,37D,Attorney General,,REP,Patrick Morrisey,171
+Wood,38,Attorney General,,REP,Patrick Morrisey,68
+Wood,40,Attorney General,,REP,Patrick Morrisey,168
+Wood,40A,Attorney General,,REP,Patrick Morrisey,287
+Wood,41,Attorney General,,REP,Patrick Morrisey,239
+Wood,42,Attorney General,,REP,Patrick Morrisey,184
+Wood,42A,Attorney General,,REP,Patrick Morrisey,379
+Wood,43A,Attorney General,,REP,Patrick Morrisey,385
+Wood,44,Attorney General,,REP,Patrick Morrisey,216
+Wood,44A,Attorney General,,REP,Patrick Morrisey,208
+Wood,45,Attorney General,,REP,Patrick Morrisey,112
+Wood,45A,Attorney General,,REP,Patrick Morrisey,196
+Wood,46,Attorney General,,REP,Patrick Morrisey,224
+Wood,46A,Attorney General,,REP,Patrick Morrisey,281
+Wood,46B,Attorney General,,REP,Patrick Morrisey,592
+Wood,47,Attorney General,,REP,Patrick Morrisey,190
+Wood,48,Attorney General,,REP,Patrick Morrisey,398
+Wood,49,Attorney General,,REP,Patrick Morrisey,235
+Wood,49A,Attorney General,,REP,Patrick Morrisey,318
+Wood,50,Attorney General,,REP,Patrick Morrisey,148
+Wood,51,Attorney General,,REP,Patrick Morrisey,488
+Wood,52,Attorney General,,REP,Patrick Morrisey,283
+Wood,53,Attorney General,,REP,Patrick Morrisey,332
+Wood,53A,Attorney General,,REP,Patrick Morrisey,248
+Wood,54,Attorney General,,REP,Patrick Morrisey,199
+Wood,54A,Attorney General,,REP,Patrick Morrisey,285
+Wood,56,Attorney General,,REP,Patrick Morrisey,131
+Wood,56A,Attorney General,,REP,Patrick Morrisey,287
+Wood,57,Attorney General,,REP,Patrick Morrisey,278
+Wood,57A,Attorney General,,REP,Patrick Morrisey,418
+Wood,58,Attorney General,,REP,Patrick Morrisey,236
+Wood,60,Attorney General,,REP,Patrick Morrisey,81
+Wood,61,Attorney General,,REP,Patrick Morrisey,242
+Wood,62,Attorney General,,REP,Patrick Morrisey,254
+Wood,62A,Attorney General,,REP,Patrick Morrisey,243
+Wood,63,Attorney General,,REP,Patrick Morrisey,208
+Wood,63A,Attorney General,,REP,Patrick Morrisey,315
+Wood,63B,Attorney General,,REP,Patrick Morrisey,253
+Wood,64,Attorney General,,REP,Patrick Morrisey,249
+Wood,66,Attorney General,,REP,Patrick Morrisey,182
+Wood,67,Attorney General,,REP,Patrick Morrisey,608
+Wood,67A,Attorney General,,REP,Patrick Morrisey,514
+Wood,69,Attorney General,,REP,Patrick Morrisey,122
+Wood,71,Attorney General,,REP,Patrick Morrisey,77
+Wood,74,Attorney General,,REP,Patrick Morrisey,151
+Wood,74A,Attorney General,,REP,Patrick Morrisey,152
+Wood,74B,Attorney General,,REP,Patrick Morrisey,318
+Wood,74C,Attorney General,,REP,Patrick Morrisey,319
+Wood,75,Attorney General,,REP,Patrick Morrisey,175
+Wood,77,Attorney General,,REP,Patrick Morrisey,264
+Wood,78,Attorney General,,REP,Patrick Morrisey,208
+Wood,78A,Attorney General,,REP,Patrick Morrisey,231
+Wood,79,Attorney General,,REP,Patrick Morrisey,198
+Wood,81,Attorney General,,REP,Patrick Morrisey,146
+Wood,82,Attorney General,,REP,Patrick Morrisey,309
+Wood,84,Attorney General,,REP,Patrick Morrisey,89
+Wood,85,Attorney General,,REP,Patrick Morrisey,207
+Wood,86,Attorney General,,REP,Patrick Morrisey,297
+Wood,87,Attorney General,,REP,Patrick Morrisey,401
+Wood,88,Attorney General,,REP,Patrick Morrisey,285
+Wood,89,Attorney General,,REP,Patrick Morrisey,166
+Wood,1,State Senate,3,REP,Donna J. Boley,141
+Wood,8,State Senate,3,REP,Donna J. Boley,144
+Wood,10,State Senate,3,REP,Donna J. Boley,179
+Wood,13,State Senate,3,REP,Donna J. Boley,139
+Wood,16,State Senate,3,REP,Donna J. Boley,92
+Wood,17,State Senate,3,REP,Donna J. Boley,125
+Wood,19,State Senate,3,REP,Donna J. Boley,448
+Wood,23,State Senate,3,REP,Donna J. Boley,169
+Wood,24,State Senate,3,REP,Donna J. Boley,298
+Wood,27,State Senate,3,REP,Donna J. Boley,211
+Wood,29,State Senate,3,REP,Donna J. Boley,273
+Wood,31,State Senate,3,REP,Donna J. Boley,231
+Wood,32,State Senate,3,REP,Donna J. Boley,439
+Wood,33,State Senate,3,REP,Donna J. Boley,119
+Wood,34A,State Senate,3,REP,Donna J. Boley,374
+Wood,35,State Senate,3,REP,Donna J. Boley,383
+Wood,36,State Senate,3,REP,Donna J. Boley,480
+Wood,36B,State Senate,3,REP,Donna J. Boley,192
+Wood,36C,State Senate,3,REP,Donna J. Boley,262
+Wood,37,State Senate,3,REP,Donna J. Boley,159
+Wood,37A,State Senate,3,REP,Donna J. Boley,184
+Wood,37B,State Senate,3,REP,Donna J. Boley,284
+Wood,37C,State Senate,3,REP,Donna J. Boley,227
+Wood,37D,State Senate,3,REP,Donna J. Boley,248
+Wood,38,State Senate,3,REP,Donna J. Boley,100
+Wood,40,State Senate,3,REP,Donna J. Boley,282
+Wood,40A,State Senate,3,REP,Donna J. Boley,450
+Wood,41,State Senate,3,REP,Donna J. Boley,368
+Wood,42,State Senate,3,REP,Donna J. Boley,265
+Wood,42A,State Senate,3,REP,Donna J. Boley,610
+Wood,43A,State Senate,3,REP,Donna J. Boley,563
+Wood,44,State Senate,3,REP,Donna J. Boley,348
+Wood,44A,State Senate,3,REP,Donna J. Boley,338
+Wood,45,State Senate,3,REP,Donna J. Boley,183
+Wood,45A,State Senate,3,REP,Donna J. Boley,301
+Wood,46,State Senate,3,REP,Donna J. Boley,302
+Wood,46A,State Senate,3,REP,Donna J. Boley,379
+Wood,46B,State Senate,3,REP,Donna J. Boley,729
+Wood,47,State Senate,3,REP,Donna J. Boley,266
+Wood,48,State Senate,3,REP,Donna J. Boley,544
+Wood,49,State Senate,3,REP,Donna J. Boley,351
+Wood,49A,State Senate,3,REP,Donna J. Boley,403
+Wood,50,State Senate,3,REP,Donna J. Boley,212
+Wood,51,State Senate,3,REP,Donna J. Boley,697
+Wood,52,State Senate,3,REP,Donna J. Boley,422
+Wood,53,State Senate,3,REP,Donna J. Boley,446
+Wood,53A,State Senate,3,REP,Donna J. Boley,331
+Wood,54,State Senate,3,REP,Donna J. Boley,295
+Wood,54A,State Senate,3,REP,Donna J. Boley,395
+Wood,56,State Senate,3,REP,Donna J. Boley,187
+Wood,56A,State Senate,3,REP,Donna J. Boley,382
+Wood,57,State Senate,3,REP,Donna J. Boley,352
+Wood,57A,State Senate,3,REP,Donna J. Boley,616
+Wood,58,State Senate,3,REP,Donna J. Boley,330
+Wood,60,State Senate,3,REP,Donna J. Boley,125
+Wood,61,State Senate,3,REP,Donna J. Boley,350
+Wood,62,State Senate,3,REP,Donna J. Boley,339
+Wood,62A,State Senate,3,REP,Donna J. Boley,334
+Wood,63,State Senate,3,REP,Donna J. Boley,311
+Wood,63A,State Senate,3,REP,Donna J. Boley,430
+Wood,63B,State Senate,3,REP,Donna J. Boley,334
+Wood,64,State Senate,3,REP,Donna J. Boley,329
+Wood,66,State Senate,3,REP,Donna J. Boley,277
+Wood,67,State Senate,3,REP,Donna J. Boley,829
+Wood,67A,State Senate,3,REP,Donna J. Boley,734
+Wood,69,State Senate,3,REP,Donna J. Boley,199
+Wood,71,State Senate,3,REP,Donna J. Boley,152
+Wood,74,State Senate,3,REP,Donna J. Boley,247
+Wood,74A,State Senate,3,REP,Donna J. Boley,234
+Wood,74B,State Senate,3,REP,Donna J. Boley,467
+Wood,74C,State Senate,3,REP,Donna J. Boley,511
+Wood,75,State Senate,3,REP,Donna J. Boley,308
+Wood,77,State Senate,3,REP,Donna J. Boley,434
+Wood,78,State Senate,3,REP,Donna J. Boley,352
+Wood,78A,State Senate,3,REP,Donna J. Boley,336
+Wood,79,State Senate,3,REP,Donna J. Boley,318
+Wood,81,State Senate,3,REP,Donna J. Boley,208
+Wood,82,State Senate,3,REP,Donna J. Boley,431
+Wood,84,State Senate,3,REP,Donna J. Boley,113
+Wood,85,State Senate,3,REP,Donna J. Boley,289
+Wood,86,State Senate,3,REP,Donna J. Boley,439
+Wood,87,State Senate,3,REP,Donna J. Boley,564
+Wood,88,State Senate,3,REP,Donna J. Boley,418
+Wood,89,State Senate,3,REP,Donna J. Boley,234
+Wood,1,State House,10,REP,Frederick Gillespie,95
+Wood,8,State House,10,REP,Frederick Gillespie,96
+Wood,10,State House,10,REP,Frederick Gillespie,100
+Wood,13,State House,10,REP,Frederick Gillespie,77
+Wood,16,State House,10,REP,Frederick Gillespie,51
+Wood,17,State House,10,REP,Frederick Gillespie,66
+Wood,19,State House,10,REP,Frederick Gillespie,259
+Wood,23,State House,10,REP,Frederick Gillespie,100
+Wood,24,State House,10,REP,Frederick Gillespie,162
+Wood,27,State House,10,REP,Frederick Gillespie,123
+Wood,29,State House,10,REP,Frederick Gillespie,157
+Wood,31,State House,10,REP,Frederick Gillespie,132
+Wood,32,State House,10,REP,Frederick Gillespie,244
+Wood,33,State House,10,REP,Frederick Gillespie,74
+Wood,34A,State House,10,REP,Frederick Gillespie,223
+Wood,35,State House,10,REP,Frederick Gillespie,221
+Wood,36,State House,10,REP,Frederick Gillespie,261
+Wood,36B,State House,10,REP,Frederick Gillespie,103
+Wood,36C,State House,10,REP,Frederick Gillespie,160
+Wood,37,State House,10,REP,Frederick Gillespie,111
+Wood,37A,State House,10,REP,Frederick Gillespie,94
+Wood,37B,State House,10,REP,Frederick Gillespie,157
+Wood,37C,State House,10,REP,Frederick Gillespie,120
+Wood,37D,State House,10,REP,Frederick Gillespie,158
+Wood,38,State House,9,REP,Anna Border,76
+Wood,40,State House,8,REP,Bill Anderson,175
+Wood,40A,State House,8,REP,Bill Anderson,302
+Wood,41,State House,10,REP,Frederick Gillespie,221
+Wood,42,State House,10,REP,Frederick Gillespie,153
+Wood,42A,State House,10,REP,Frederick Gillespie,358
+Wood,43A,State House,10,REP,Frederick Gillespie,314
+Wood,44,State House,10,REP,Frederick Gillespie,201
+Wood,44A,State House,10,REP,Frederick Gillespie,172
+Wood,45,State House,10,REP,Frederick Gillespie,90
+Wood,45A,State House,10,REP,Frederick Gillespie,178
+Wood,46,State House,10,REP,Frederick Gillespie,163
+Wood,46A,State House,10,REP,Frederick Gillespie,216
+Wood,46B,State House,10,REP,Frederick Gillespie,430
+Wood,47,State House,8,REP,Bill Anderson,198
+Wood,48,State House,8,REP,Bill Anderson,481
+Wood,49,State House,8,REP,Bill Anderson,260
+Wood,49A,State House,8,REP,Bill Anderson,334
+Wood,50,State House,8,REP,Bill Anderson,196
+Wood,51,State House,8,REP,Bill Anderson,639
+Wood,52,State House,8,REP,Bill Anderson,409
+Wood,53,State House,8,REP,Bill Anderson,334
+Wood,53A,State House,8,REP,Bill Anderson,245
+Wood,54,State House,8,REP,Bill Anderson,248
+Wood,54A,State House,8,REP,Bill Anderson,334
+Wood,56,State House,8,REP,Bill Anderson,110
+Wood,56A,State House,8,REP,Bill Anderson,273
+Wood,57,State House,9,REP,Anna Border,317
+Wood,57A,State House,9,REP,Anna Border,545
+Wood,58,State House,9,REP,Anna Border,296
+Wood,60,State House,8,REP,Bill Anderson,66
+Wood,61,State House,8,REP,Bill Anderson,238
+Wood,62,State House,10,REP,Frederick Gillespie,207
+Wood,62A,State House,10,REP,Frederick Gillespie,197
+Wood,63,State House,10,REP,Frederick Gillespie,181
+Wood,63A,State House,10,REP,Frederick Gillespie,243
+Wood,63B,State House,10,REP,Frederick Gillespie,207
+Wood,64,State House,10,REP,Frederick Gillespie,204
+Wood,66,State House,10,REP,Frederick Gillespie,167
+Wood,67,State House,10,REP,Frederick Gillespie,505
+Wood,67A,State House,10,REP,Frederick Gillespie,423
+Wood,69,State House,10,REP,Frederick Gillespie,108
+Wood,71,State House,10,REP,Frederick Gillespie,98
+Wood,74,State House,10,REP,Frederick Gillespie,141
+Wood,74A,State House,10,REP,Frederick Gillespie,133
+Wood,74B,State House,10,REP,Frederick Gillespie,278
+Wood,74C,State House,10,REP,Frederick Gillespie,295
+Wood,75,State House,10,REP,Frederick Gillespie,172
+Wood,77,State House,10,REP,Frederick Gillespie,275
+Wood,78,State House,10,REP,Frederick Gillespie,208
+Wood,78A,State House,10,REP,Frederick Gillespie,203
+Wood,79,State House,10,REP,Frederick Gillespie,195
+Wood,81,State House,9,REP,Anna Border,160
+Wood,82,State House,9,REP,Anna Border,344
+Wood,84,State House,9,REP,Anna Border,97
+Wood,85,State House,9,REP,Anna Border,221
+Wood,86,State House,9,REP,Anna Border,265
+Wood,87,State House,9,REP,Anna Border,358
+Wood,88,State House,9,REP,Anna Border,263
+Wood,89,State House,9,REP,Anna Border,149
+Wood,1,State House,10,REP,John N. Ellem,105
+Wood,8,State House,10,REP,John N. Ellem,82
+Wood,10,State House,10,REP,John N. Ellem,114
+Wood,13,State House,10,REP,John N. Ellem,85
+Wood,16,State House,10,REP,John N. Ellem,63
+Wood,17,State House,10,REP,John N. Ellem,75
+Wood,19,State House,10,REP,John N. Ellem,318
+Wood,23,State House,10,REP,John N. Ellem,101
+Wood,24,State House,10,REP,John N. Ellem,217
+Wood,27,State House,10,REP,John N. Ellem,144
+Wood,29,State House,10,REP,John N. Ellem,175
+Wood,31,State House,10,REP,John N. Ellem,161
+Wood,32,State House,10,REP,John N. Ellem,302
+Wood,33,State House,10,REP,John N. Ellem,74
+Wood,34A,State House,10,REP,John N. Ellem,266
+Wood,35,State House,10,REP,John N. Ellem,251
+Wood,36,State House,10,REP,John N. Ellem,350
+Wood,36B,State House,10,REP,John N. Ellem,139
+Wood,36C,State House,10,REP,John N. Ellem,191
+Wood,37,State House,10,REP,John N. Ellem,132
+Wood,37A,State House,10,REP,John N. Ellem,139
+Wood,37B,State House,10,REP,John N. Ellem,233
+Wood,37C,State House,10,REP,John N. Ellem,174
+Wood,37D,State House,10,REP,John N. Ellem,187
+Wood,38,State House,9,DEM,Jim Marion,32
+Wood,40,State House,8,DEM,"Denzil ""Buddy"" Malone",122
+Wood,40A,State House,8,DEM,"Denzil ""Buddy"" Malone",164
+Wood,41,State House,10,REP,John N. Ellem,256
+Wood,42,State House,10,REP,John N. Ellem,176
+Wood,42A,State House,10,REP,John N. Ellem,440
+Wood,43A,State House,10,REP,John N. Ellem,430
+Wood,44,State House,10,REP,John N. Ellem,236
+Wood,44A,State House,10,REP,John N. Ellem,218
+Wood,45,State House,10,REP,John N. Ellem,129
+Wood,45A,State House,10,REP,John N. Ellem,222
+Wood,46,State House,10,REP,John N. Ellem,218
+Wood,46A,State House,10,REP,John N. Ellem,279
+Wood,46B,State House,10,REP,John N. Ellem,557
+Wood,47,State House,8,DEM,"Denzil ""Buddy"" Malone",98
+Wood,48,State House,8,DEM,"Denzil ""Buddy"" Malone",132
+Wood,49,State House,8,DEM,"Denzil ""Buddy"" Malone",125
+Wood,49A,State House,8,DEM,"Denzil ""Buddy"" Malone",108
+Wood,50,State House,8,DEM,"Denzil ""Buddy"" Malone",57
+Wood,51,State House,8,DEM,"Denzil ""Buddy"" Malone",168
+Wood,52,State House,8,DEM,"Denzil ""Buddy"" Malone",99
+Wood,53,State House,8,DEM,"Denzil ""Buddy"" Malone",124
+Wood,53A,State House,8,DEM,"Denzil ""Buddy"" Malone",82
+Wood,54,State House,8,DEM,"Denzil ""Buddy"" Malone",90
+Wood,54A,State House,8,DEM,"Denzil ""Buddy"" Malone",91
+Wood,56,State House,8,DEM,"Denzil ""Buddy"" Malone",61
+Wood,56A,State House,8,DEM,"Denzil ""Buddy"" Malone",107
+Wood,57,State House,9,DEM,Jim Marion,102
+Wood,57A,State House,9,DEM,Jim Marion,195
+Wood,58,State House,9,DEM,Jim Marion,104
+Wood,60,State House,8,DEM,"Denzil ""Buddy"" Malone",43
+Wood,61,State House,8,DEM,"Denzil ""Buddy"" Malone",107
+Wood,62,State House,10,REP,John N. Ellem,286
+Wood,62A,State House,10,REP,John N. Ellem,285
+Wood,63,State House,10,REP,John N. Ellem,228
+Wood,63A,State House,10,REP,John N. Ellem,381
+Wood,63B,State House,10,REP,John N. Ellem,285
+Wood,64,State House,10,REP,John N. Ellem,258
+Wood,66,State House,10,REP,John N. Ellem,165
+Wood,67,State House,10,REP,John N. Ellem,643
+Wood,67A,State House,10,REP,John N. Ellem,595
+Wood,69,State House,10,REP,John N. Ellem,129
+Wood,71,State House,10,REP,John N. Ellem,85
+Wood,74,State House,10,REP,John N. Ellem,154
+Wood,74A,State House,10,REP,John N. Ellem,158
+Wood,74B,State House,10,REP,John N. Ellem,344
+Wood,74C,State House,10,REP,John N. Ellem,375
+Wood,75,State House,10,REP,John N. Ellem,206
+Wood,77,State House,10,REP,John N. Ellem,300
+Wood,78,State House,10,REP,John N. Ellem,231
+Wood,78A,State House,10,REP,John N. Ellem,237
+Wood,79,State House,10,REP,John N. Ellem,217
+Wood,81,State House,9,DEM,Jim Marion,85
+Wood,82,State House,9,DEM,Jim Marion,131
+Wood,84,State House,9,DEM,Jim Marion,41
+Wood,85,State House,9,DEM,Jim Marion,108
+Wood,86,State House,9,DEM,Jim Marion,249
+Wood,87,State House,9,DEM,Jim Marion,288
+Wood,88,State House,9,DEM,Jim Marion,203
+Wood,89,State House,9,DEM,Jim Marion,120
