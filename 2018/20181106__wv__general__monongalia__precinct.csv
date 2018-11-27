@@ -1,0 +1,3515 @@
+county,precinct,office,district,Candidate,party,votes,election_day,early_voting,absentee,absentee_ed,provisional
+Monongalia,1,Registered Voters,,,,938,,,,,
+Monongalia,2A,Registered Voters,,,,2824,,,,,
+Monongalia,2B,Registered Voters,,,,2305,,,,,
+Monongalia,10,Registered Voters,,,,3720,,,,,
+Monongalia,13,Registered Voters,,,,3032,,,,,
+Monongalia,16,Registered Voters,,,,1218,,,,,
+Monongalia,23,Registered Voters,,,,2253,,,,,
+Monongalia,25,Registered Voters,,,,1228,,,,,
+Monongalia,26,Registered Voters,,,,820,,,,,
+Monongalia,30,Registered Voters,,,,1301,,,,,
+Monongalia,32,Registered Voters,,,,5526,,,,,
+Monongalia,33,Registered Voters,,,,1060,,,,,
+Monongalia,35,Registered Voters,,,,1226,,,,,
+Monongalia,36,Registered Voters,,,,1476,,,,,
+Monongalia,38,Registered Voters,,,,3778,,,,,
+Monongalia,40,Registered Voters,,,,632,,,,,
+Monongalia,41,Registered Voters,,,,197,,,,,
+Monongalia,44,Registered Voters,,,,1134,,,,,
+Monongalia,47,Registered Voters,,,,1357,,,,,
+Monongalia,48,Registered Voters,,,,299,,,,,
+Monongalia,51,Registered Voters,,,,629,,,,,
+Monongalia,51M,Registered Voters,,,,91,,,,,
+Monongalia,52,Registered Voters,,,,1703,,,,,
+Monongalia,58,Registered Voters,,,,356,,,,,
+Monongalia,59,Registered Voters,,,,1853,,,,,
+Monongalia,61,Registered Voters,,,,2701,,,,,
+Monongalia,62,Registered Voters,,,,1422,,,,,
+Monongalia,63,Registered Voters,,,,1275,,,,,
+Monongalia,64,Registered Voters,,,,1545,,,,,
+Monongalia,67,Registered Voters,,,,782,,,,,
+Monongalia,68,Registered Voters,,,,948,,,,,
+Monongalia,71,Registered Voters,,,,2980,,,,,
+Monongalia,74,Registered Voters,,,,619,,,,,
+Monongalia,76,Registered Voters,,,,362,,,,,
+Monongalia,77,Registered Voters,,,,2178,,,,,
+Monongalia,78,Registered Voters,,,,2140,,,,,
+Monongalia,79,Registered Voters,,,,1989,,,,,
+Monongalia,81,Registered Voters,,,,3655,,,,,
+Monongalia,82,Registered Voters,,,,1405,,,,,
+Monongalia,83,Registered Voters,,,,2482,,,,,
+Monongalia,86,Registered Voters,,,,1424,,,,,
+Monongalia,Total,Registered Voters,,,,68863,,,,,
+Monongalia,1,Ballots Cast,,,,521,206,310,5,0,0
+Monongalia,2A,Ballots Cast,,,,1458,695,714,29,5,15
+Monongalia,2B,Ballots Cast,,,,1191,595,565,22,6,3
+Monongalia,10,Ballots Cast,,,,518,345,149,15,2,7
+Monongalia,13,Ballots Cast,,,,716,441,250,15,5,5
+Monongalia,16,Ballots Cast,,,,467,332,127,5,1,2
+Monongalia,23,Ballots Cast,,,,1345,637,658,35,9,6
+Monongalia,25,Ballots Cast,,,,586,377,201,7,1,0
+Monongalia,26,Ballots Cast,,,,508,285,202,19,2,0
+Monongalia,30,Ballots Cast,,,,628,314,306,6,2,0
+Monongalia,32,Ballots Cast,,,,2218,1299,877,31,6,5
+Monongalia,33,Ballots Cast,,,,572,374,192,3,0,3
+Monongalia,35,Ballots Cast,,,,533,273,252,8,0,0
+Monongalia,36,Ballots Cast,,,,576,294,222,52,2,6
+Monongalia,38,Ballots Cast,,,,1975,934,1008,24,7,2
+Monongalia,40,Ballots Cast,,,,323,166,154,2,1,0
+Monongalia,41,Ballots Cast,,,,110,62,48,0,0,0
+Monongalia,44,Ballots Cast,,,,510,275,223,8,3,1
+Monongalia,47,Ballots Cast,,,,594,368,224,1,1,0
+Monongalia,48,Ballots Cast,,,,84,49,33,1,1,0
+Monongalia,51,Ballots Cast,,,,297,138,155,4,0,0
+Monongalia,51M,Ballots Cast,,,,34,18,16,0,0,0
+Monongalia,52,Ballots Cast,,,,869,405,454,8,2,0
+Monongalia,58,Ballots Cast,,,,183,101,79,3,0,0
+Monongalia,59,Ballots Cast,,,,1041,511,508,16,2,4
+Monongalia,61,Ballots Cast,,,,1535,800,710,22,1,2
+Monongalia,62,Ballots Cast,,,,749,379,362,8,0,0
+Monongalia,63,Ballots Cast,,,,546,236,302,6,2,0
+Monongalia,64,Ballots Cast,,,,809,419,379,5,1,5
+Monongalia,67,Ballots Cast,,,,391,264,123,1,1,2
+Monongalia,68,Ballots Cast,,,,454,225,225,3,1,0
+Monongalia,71,Ballots Cast,,,,1380,628,721,17,4,10
+Monongalia,74,Ballots Cast,,,,209,145,58,3,0,3
+Monongalia,76,Ballots Cast,,,,91,68,19,0,2,2
+Monongalia,77,Ballots Cast,,,,1201,673,510,13,2,3
+Monongalia,78,Ballots Cast,,,,1201,689,490,16,4,2
+Monongalia,79,Ballots Cast,,,,1099,633,446,17,3,0
+Monongalia,81,Ballots Cast,,,,1625,963,615,28,13,6
+Monongalia,82,Ballots Cast,,,,772,449,322,0,1,0
+Monongalia,83,Ballots Cast,,,,1119,643,467,5,4,0
+Monongalia,86,Ballots Cast,,,,622,387,221,12,2,0
+Monongalia,Total,Ballots Cast,,,,31660,17095,13897,475,99,94
+Monongalia,1,U.S. Senate,,PATRICK MORRISEY,REP,123,47,76,0,0,0
+Monongalia,2A,U.S. Senate,,PATRICK MORRISEY,REP,240,118,119,1,0,2
+Monongalia,2B,U.S. Senate,,PATRICK MORRISEY,REP,206,101,104,1,0,0
+Monongalia,10,U.S. Senate,,PATRICK MORRISEY,REP,106,69,33,3,1,0
+Monongalia,13,U.S. Senate,,PATRICK MORRISEY,REP,152,92,57,2,0,1
+Monongalia,16,U.S. Senate,,PATRICK MORRISEY,REP,97,69,28,0,0,0
+Monongalia,23,U.S. Senate,,PATRICK MORRISEY,REP,365,185,170,8,0,2
+Monongalia,25,U.S. Senate,,PATRICK MORRISEY,REP,185,119,65,1,0,0
+Monongalia,26,U.S. Senate,,PATRICK MORRISEY,REP,165,97,66,1,1,0
+Monongalia,30,U.S. Senate,,PATRICK MORRISEY,REP,174,85,87,1,1,0
+Monongalia,32,U.S. Senate,,PATRICK MORRISEY,REP,626,343,271,10,2,0
+Monongalia,33,U.S. Senate,,PATRICK MORRISEY,REP,221,167,52,1,0,1
+Monongalia,35,U.S. Senate,,PATRICK MORRISEY,REP,168,83,84,1,0,0
+Monongalia,36,U.S. Senate,,PATRICK MORRISEY,REP,156,79,64,12,0,1
+Monongalia,38,U.S. Senate,,PATRICK MORRISEY,REP,832,374,443,9,4,2
+Monongalia,40,U.S. Senate,,PATRICK MORRISEY,REP,149,84,63,2,0,0
+Monongalia,41,U.S. Senate,,PATRICK MORRISEY,REP,52,27,25,0,0,0
+Monongalia,44,U.S. Senate,,PATRICK MORRISEY,REP,239,136,99,2,1,1
+Monongalia,47,U.S. Senate,,PATRICK MORRISEY,REP,243,156,86,0,1,0
+Monongalia,48,U.S. Senate,,PATRICK MORRISEY,REP,26,15,11,0,0,0
+Monongalia,51,U.S. Senate,,PATRICK MORRISEY,REP,144,73,68,3,0,0
+Monongalia,51M,U.S. Senate,,PATRICK MORRISEY,REP,14,7,7,0,0,0
+Monongalia,52,U.S. Senate,,PATRICK MORRISEY,REP,413,208,198,5,2,0
+Monongalia,58,U.S. Senate,,PATRICK MORRISEY,REP,86,47,38,1,0,0
+Monongalia,59,U.S. Senate,,PATRICK MORRISEY,REP,451,234,207,6,1,3
+Monongalia,61,U.S. Senate,,PATRICK MORRISEY,REP,646,356,281,9,0,0
+Monongalia,62,U.S. Senate,,PATRICK MORRISEY,REP,331,184,146,1,0,0
+Monongalia,63,U.S. Senate,,PATRICK MORRISEY,REP,261,118,140,2,1,0
+Monongalia,64,U.S. Senate,,PATRICK MORRISEY,REP,333,179,151,1,1,1
+Monongalia,67,U.S. Senate,,PATRICK MORRISEY,REP,181,110,69,1,0,1
+Monongalia,68,U.S. Senate,,PATRICK MORRISEY,REP,227,113,110,3,1,0
+Monongalia,71,U.S. Senate,,PATRICK MORRISEY,REP,458,206,237,7,2,6
+Monongalia,74,U.S. Senate,,PATRICK MORRISEY,REP,66,47,18,0,0,1
+Monongalia,76,U.S. Senate,,PATRICK MORRISEY,REP,16,10,6,0,0,0
+Monongalia,77,U.S. Senate,,PATRICK MORRISEY,REP,455,276,172,5,0,2
+Monongalia,78,U.S. Senate,,PATRICK MORRISEY,REP,442,264,172,4,1,1
+Monongalia,79,U.S. Senate,,PATRICK MORRISEY,REP,476,295,173,7,1,0
+Monongalia,81,U.S. Senate,,PATRICK MORRISEY,REP,524,309,200,9,2,4
+Monongalia,82,U.S. Senate,,PATRICK MORRISEY,REP,326,194,132,0,0,0
+Monongalia,83,U.S. Senate,,PATRICK MORRISEY,REP,404,236,167,1,0,0
+Monongalia,86,U.S. Senate,,PATRICK MORRISEY,REP,139,85,52,2,0,0
+Monongalia,Total,U.S. Senate,,PATRICK MORRISEY,REP,10918,5997,4747,122,23,29
+Monongalia,1,U.S. Senate,,JOSEPH MANCHIN III,DEM,338,131,204,3,0,0
+Monongalia,2A,U.S. Senate,,JOSEPH MANCHIN III,DEM,1079,507,536,23,4,9
+Monongalia,2B,U.S. Senate,,JOSEPH MANCHIN III,DEM,858,418,413,19,6,2
+Monongalia,10,U.S. Senate,,JOSEPH MANCHIN III,DEM,355,248,94,7,1,5
+Monongalia,13,U.S. Senate,,JOSEPH MANCHIN III,DEM,488,299,172,10,4,3
+Monongalia,16,U.S. Senate,,JOSEPH MANCHIN III,DEM,320,228,86,5,0,1
+Monongalia,23,U.S. Senate,,JOSEPH MANCHIN III,DEM,879,388,454,26,9,2
+Monongalia,25,U.S. Senate,,JOSEPH MANCHIN III,DEM,340,216,117,6,1,0
+Monongalia,26,U.S. Senate,,JOSEPH MANCHIN III,DEM,299,163,121,14,1,0
+Monongalia,30,U.S. Senate,,JOSEPH MANCHIN III,DEM,396,192,199,4,1,0
+Monongalia,32,U.S. Senate,,JOSEPH MANCHIN III,DEM,1407,842,540,17,4,4
+Monongalia,33,U.S. Senate,,JOSEPH MANCHIN III,DEM,305,180,122,1,0,2
+Monongalia,35,U.S. Senate,,JOSEPH MANCHIN III,DEM,309,161,142,6,0,0
+Monongalia,36,U.S. Senate,,JOSEPH MANCHIN III,DEM,366,183,140,38,2,3
+Monongalia,38,U.S. Senate,,JOSEPH MANCHIN III,DEM,991,476,498,15,2,0
+Monongalia,40,U.S. Senate,,JOSEPH MANCHIN III,DEM,151,68,83,0,0,0
+Monongalia,41,U.S. Senate,,JOSEPH MANCHIN III,DEM,42,27,15,0,0,0
+Monongalia,44,U.S. Senate,,JOSEPH MANCHIN III,DEM,223,109,108,4,2,0
+Monongalia,47,U.S. Senate,,JOSEPH MANCHIN III,DEM,296,174,121,1,0,0
+Monongalia,48,U.S. Senate,,JOSEPH MANCHIN III,DEM,51,28,22,1,0,0
+Monongalia,51,U.S. Senate,,JOSEPH MANCHIN III,DEM,126,53,72,1,0,0
+Monongalia,51M,U.S. Senate,,JOSEPH MANCHIN III,DEM,17,9,8,0,0,0
+Monongalia,52,U.S. Senate,,JOSEPH MANCHIN III,DEM,359,156,200,3,0,0
+Monongalia,58,U.S. Senate,,JOSEPH MANCHIN III,DEM,84,44,38,2,0,0
+Monongalia,59,U.S. Senate,,JOSEPH MANCHIN III,DEM,523,240,274,7,1,1
+Monongalia,61,U.S. Senate,,JOSEPH MANCHIN III,DEM,770,385,372,11,1,1
+Monongalia,62,U.S. Senate,,JOSEPH MANCHIN III,DEM,358,166,188,4,0,0
+Monongalia,63,U.S. Senate,,JOSEPH MANCHIN III,DEM,250,97,148,4,1,0
+Monongalia,64,U.S. Senate,,JOSEPH MANCHIN III,DEM,390,196,186,4,0,4
+Monongalia,67,U.S. Senate,,JOSEPH MANCHIN III,DEM,176,125,49,0,1,1
+Monongalia,68,U.S. Senate,,JOSEPH MANCHIN III,DEM,200,97,103,0,0,0
+Monongalia,71,U.S. Senate,,JOSEPH MANCHIN III,DEM,772,352,405,10,2,3
+Monongalia,74,U.S. Senate,,JOSEPH MANCHIN III,DEM,120,79,36,3,0,2
+Monongalia,76,U.S. Senate,,JOSEPH MANCHIN III,DEM,64,49,11,0,2,2
+Monongalia,77,U.S. Senate,,JOSEPH MANCHIN III,DEM,663,352,302,7,1,1
+Monongalia,78,U.S. Senate,,JOSEPH MANCHIN III,DEM,679,369,297,9,3,1
+Monongalia,79,U.S. Senate,,JOSEPH MANCHIN III,DEM,560,296,253,9,2,0
+Monongalia,81,U.S. Senate,,JOSEPH MANCHIN III,DEM,961,565,369,16,9,2
+Monongalia,82,U.S. Senate,,JOSEPH MANCHIN III,DEM,387,218,168,0,1,0
+Monongalia,83,U.S. Senate,,JOSEPH MANCHIN III,DEM,626,347,272,4,3,0
+Monongalia,86,U.S. Senate,,JOSEPH MANCHIN III,DEM,432,281,140,9,2,0
+Monongalia,Total,U.S. Senate,,JOSEPH MANCHIN III,DEM,18010,9514,8078,303,66,49
+Monongalia,1,U.S. Senate,,RUSTY HOLLEN,LIB,46,23,23,0,0,0
+Monongalia,2A,U.S. Senate,,RUSTY HOLLEN,LIB,93,51,36,3,0,3
+Monongalia,2B,U.S. Senate,,RUSTY HOLLEN,LIB,82,57,24,0,0,1
+Monongalia,10,U.S. Senate,,RUSTY HOLLEN,LIB,38,19,16,2,0,1
+Monongalia,13,U.S. Senate,,RUSTY HOLLEN,LIB,51,37,11,2,0,1
+Monongalia,16,U.S. Senate,,RUSTY HOLLEN,LIB,32,23,9,0,0,0
+Monongalia,23,U.S. Senate,,RUSTY HOLLEN,LIB,69,51,16,0,0,2
+Monongalia,25,U.S. Senate,,RUSTY HOLLEN,LIB,49,35,14,0,0,0
+Monongalia,26,U.S. Senate,,RUSTY HOLLEN,LIB,26,16,8,2,0,0
+Monongalia,30,U.S. Senate,,RUSTY HOLLEN,LIB,43,30,12,1,0,0
+Monongalia,32,U.S. Senate,,RUSTY HOLLEN,LIB,137,90,45,2,0,0
+Monongalia,33,U.S. Senate,,RUSTY HOLLEN,LIB,38,23,14,1,0,0
+Monongalia,35,U.S. Senate,,RUSTY HOLLEN,LIB,41,25,16,0,0,0
+Monongalia,36,U.S. Senate,,RUSTY HOLLEN,LIB,43,28,13,0,0,2
+Monongalia,38,U.S. Senate,,RUSTY HOLLEN,LIB,122,68,53,0,1,0
+Monongalia,40,U.S. Senate,,RUSTY HOLLEN,LIB,16,9,6,0,1,0
+Monongalia,41,U.S. Senate,,RUSTY HOLLEN,LIB,8,3,5,0,0,0
+Monongalia,44,U.S. Senate,,RUSTY HOLLEN,LIB,38,23,13,2,0,0
+Monongalia,47,U.S. Senate,,RUSTY HOLLEN,LIB,45,34,11,0,0,0
+Monongalia,48,U.S. Senate,,RUSTY HOLLEN,LIB,7,6,0,0,1,0
+Monongalia,51,U.S. Senate,,RUSTY HOLLEN,LIB,18,11,7,0,0,0
+Monongalia,51M,U.S. Senate,,RUSTY HOLLEN,LIB,3,2,1,0,0,0
+Monongalia,52,U.S. Senate,,RUSTY HOLLEN,LIB,69,32,37,0,0,0
+Monongalia,58,U.S. Senate,,RUSTY HOLLEN,LIB,12,10,2,0,0,0
+Monongalia,59,U.S. Senate,,RUSTY HOLLEN,LIB,47,28,16,3,0,0
+Monongalia,61,U.S. Senate,,RUSTY HOLLEN,LIB,96,51,43,2,0,0
+Monongalia,62,U.S. Senate,,RUSTY HOLLEN,LIB,43,21,22,0,0,0
+Monongalia,63,U.S. Senate,,RUSTY HOLLEN,LIB,25,16,9,0,0,0
+Monongalia,64,U.S. Senate,,RUSTY HOLLEN,LIB,68,36,32,0,0,0
+Monongalia,67,U.S. Senate,,RUSTY HOLLEN,LIB,26,22,4,0,0,0
+Monongalia,68,U.S. Senate,,RUSTY HOLLEN,LIB,21,13,8,0,0,0
+Monongalia,71,U.S. Senate,,RUSTY HOLLEN,LIB,109,62,46,0,0,1
+Monongalia,74,U.S. Senate,,RUSTY HOLLEN,LIB,18,14,4,0,0,0
+Monongalia,76,U.S. Senate,,RUSTY HOLLEN,LIB,9,8,1,0,0,0
+Monongalia,77,U.S. Senate,,RUSTY HOLLEN,LIB,65,33,30,1,1,0
+Monongalia,78,U.S. Senate,,RUSTY HOLLEN,LIB,60,44,13,3,0,0
+Monongalia,79,U.S. Senate,,RUSTY HOLLEN,LIB,51,39,12,0,0,0
+Monongalia,81,U.S. Senate,,RUSTY HOLLEN,LIB,100,68,29,2,1,0
+Monongalia,82,U.S. Senate,,RUSTY HOLLEN,LIB,46,28,18,0,0,0
+Monongalia,83,U.S. Senate,,RUSTY HOLLEN,LIB,77,54,23,0,0,0
+Monongalia,86,U.S. Senate,,RUSTY HOLLEN,LIB,32,13,19,0,0,0
+Monongalia,Total,U.S. Senate,,RUSTY HOLLEN,LIB,2019,1256,721,26,5,11
+Monongalia,1,U.S. Senate,,WRITE-IN,,4,1,3,0,0,0
+Monongalia,2A,U.S. Senate,,WRITE-IN,,23,7,13,1,1,1
+Monongalia,2B,U.S. Senate,,WRITE-IN,,19,11,7,1,0,0
+Monongalia,10,U.S. Senate,,WRITE-IN,,7,3,2,2,0,0
+Monongalia,13,U.S. Senate,,WRITE-IN,,10,5,4,1,0,0
+Monongalia,16,U.S. Senate,,WRITE-IN,,7,4,1,0,1,1
+Monongalia,23,U.S. Senate,,WRITE-IN,,10,4,5,1,0,0
+Monongalia,25,U.S. Senate,,WRITE-IN,,1,1,0,0,0,0
+Monongalia,26,U.S. Senate,,WRITE-IN,,5,3,2,0,0,0
+Monongalia,30,U.S. Senate,,WRITE-IN,,2,2,0,0,0,0
+Monongalia,32,U.S. Senate,,WRITE-IN,,14,5,8,1,0,0
+Monongalia,33,U.S. Senate,,WRITE-IN,,1,0,1,0,0,0
+Monongalia,35,U.S. Senate,,WRITE-IN,,5,1,4,0,0,0
+Monongalia,36,U.S. Senate,,WRITE-IN,,0,0,0,0,0,0
+Monongalia,38,U.S. Senate,,WRITE-IN,,8,2,6,0,0,0
+Monongalia,40,U.S. Senate,,WRITE-IN,,2,2,0,0,0,0
+Monongalia,41,U.S. Senate,,WRITE-IN,,6,5,1,0,0,0
+Monongalia,44,U.S. Senate,,WRITE-IN,,3,2,1,0,0,0
+Monongalia,47,U.S. Senate,,WRITE-IN,,4,1,3,0,0,0
+Monongalia,48,U.S. Senate,,WRITE-IN,,0,0,0,0,0,0
+Monongalia,51,U.S. Senate,,WRITE-IN,,1,1,0,0,0,0
+Monongalia,51M,U.S. Senate,,WRITE-IN,,0,0,0,0,0,0
+Monongalia,52,U.S. Senate,,WRITE-IN,,2,1,1,0,0,0
+Monongalia,58,U.S. Senate,,WRITE-IN,,0,0,0,0,0,0
+Monongalia,59,U.S. Senate,,WRITE-IN,,5,2,3,0,0,0
+Monongalia,61,U.S. Senate,,WRITE-IN,,5,1,4,0,0,0
+Monongalia,62,U.S. Senate,,WRITE-IN,,4,2,2,0,0,0
+Monongalia,63,U.S. Senate,,WRITE-IN,,2,2,0,0,0,0
+Monongalia,64,U.S. Senate,,WRITE-IN,,3,2,1,0,0,0
+Monongalia,67,U.S. Senate,,WRITE-IN,,2,2,0,0,0,0
+Monongalia,68,U.S. Senate,,WRITE-IN,,2,1,1,0,0,0
+Monongalia,71,U.S. Senate,,WRITE-IN,,9,2,7,0,0,0
+Monongalia,74,U.S. Senate,,WRITE-IN,,1,1,0,0,0,0
+Monongalia,76,U.S. Senate,,WRITE-IN,,0,0,0,0,0,0
+Monongalia,77,U.S. Senate,,WRITE-IN,,2,0,2,0,0,0
+Monongalia,78,U.S. Senate,,WRITE-IN,,8,5,3,0,0,0
+Monongalia,79,U.S. Senate,,WRITE-IN,,3,1,2,0,0,0
+Monongalia,81,U.S. Senate,,WRITE-IN,,8,2,5,1,0,0
+Monongalia,82,U.S. Senate,,WRITE-IN,,4,2,2,0,0,0
+Monongalia,83,U.S. Senate,,WRITE-IN,,3,1,1,0,1,0
+Monongalia,86,U.S. Senate,,WRITE-IN,,10,4,6,0,0,0
+Monongalia,Total,U.S. Senate,,WRITE-IN,,205,91,101,8,3,2
+Monongalia,1,U.S. House,1,DAVID B McKINLEY,REP,180,68,112,0,0,0
+Monongalia,2A,U.S. House,1,DAVID B McKINLEY,REP,344,165,173,3,1,2
+Monongalia,2B,U.S. House,1,DAVID B McKINLEY,REP,294,135,156,2,1,0
+Monongalia,10,U.S. House,1,DAVID B McKINLEY,REP,129,83,40,4,1,1
+Monongalia,13,U.S. House,1,DAVID B McKINLEY,REP,183,108,71,2,0,2
+Monongalia,16,U.S. House,1,DAVID B McKINLEY,REP,126,93,33,0,0,0
+Monongalia,23,U.S. House,1,DAVID B McKINLEY,REP,498,260,221,14,1,2
+Monongalia,25,U.S. House,1,DAVID B McKINLEY,REP,230,144,82,3,1,0
+Monongalia,26,U.S. House,1,DAVID B McKINLEY,REP,225,128,90,6,1,0
+Monongalia,30,U.S. House,1,DAVID B McKINLEY,REP,230,117,110,2,1,0
+Monongalia,32,U.S. House,1,DAVID B McKINLEY,REP,840,473,352,13,2,0
+Monongalia,33,U.S. House,1,DAVID B McKINLEY,REP,268,200,66,1,0,1
+Monongalia,35,U.S. House,1,DAVID B McKINLEY,REP,223,105,116,2,0,0
+Monongalia,36,U.S. House,1,DAVID B McKINLEY,REP,237,113,99,22,1,2
+Monongalia,38,U.S. House,1,DAVID B McKINLEY,REP,1051,474,556,15,4,2
+Monongalia,40,U.S. House,1,DAVID B McKINLEY,REP,210,111,97,2,0,0
+Monongalia,41,U.S. House,1,DAVID B McKINLEY,REP,78,42,36,0,0,0
+Monongalia,44,U.S. House,1,DAVID B McKINLEY,REP,278,158,114,4,1,1
+Monongalia,47,U.S. House,1,DAVID B McKINLEY,REP,302,198,102,1,1,0
+Monongalia,48,U.S. House,1,DAVID B McKINLEY,REP,32,18,13,1,0,0
+Monongalia,51,U.S. House,1,DAVID B McKINLEY,REP,180,89,90,1,0,0
+Monongalia,51M,U.S. House,1,DAVID B McKINLEY,REP,19,10,9,0,0,0
+Monongalia,52,U.S. House,1,DAVID B McKINLEY,REP,534,245,281,6,2,0
+Monongalia,58,U.S. House,1,DAVID B McKINLEY,REP,103,57,45,1,0,0
+Monongalia,59,U.S. House,1,DAVID B McKINLEY,REP,579,299,270,6,1,3
+Monongalia,61,U.S. House,1,DAVID B McKINLEY,REP,790,427,353,9,1,0
+Monongalia,62,U.S. House,1,DAVID B McKINLEY,REP,405,217,185,3,0,0
+Monongalia,63,U.S. House,1,DAVID B McKINLEY,REP,311,130,177,2,2,0
+Monongalia,64,U.S. House,1,DAVID B McKINLEY,REP,410,209,196,3,1,1
+Monongalia,67,U.S. House,1,DAVID B McKINLEY,REP,222,141,78,1,0,2
+Monongalia,68,U.S. House,1,DAVID B McKINLEY,REP,263,128,131,3,1,0
+Monongalia,71,U.S. House,1,DAVID B McKINLEY,REP,560,245,299,9,1,6
+Monongalia,74,U.S. House,1,DAVID B McKINLEY,REP,82,57,25,0,0,0
+Monongalia,76,U.S. House,1,DAVID B McKINLEY,REP,19,12,7,0,0,0
+Monongalia,77,U.S. House,1,DAVID B McKINLEY,REP,626,377,240,7,0,2
+Monongalia,78,U.S. House,1,DAVID B McKINLEY,REP,579,350,222,5,1,1
+Monongalia,79,U.S. House,1,DAVID B McKINLEY,REP,605,362,235,7,1,0
+Monongalia,81,U.S. House,1,DAVID B McKINLEY,REP,657,394,244,11,4,4
+Monongalia,82,U.S. House,1,DAVID B McKINLEY,REP,410,247,163,0,0,0
+Monongalia,83,U.S. House,1,DAVID B McKINLEY,REP,517,310,204,2,1,0
+Monongalia,86,U.S. House,1,DAVID B McKINLEY,REP,216,129,81,5,1,0
+Monongalia,Total,U.S. House,1,DAVID B McKINLEY,REP,14045,7628,6174,178,33,32
+Monongalia,1,U.S. House,1,KENDRA FERSHEE,DEM,331,135,191,5,0,0
+Monongalia,2A,U.S. House,1,KENDRA FERSHEE,DEM,1093,519,532,26,4,12
+Monongalia,2B,U.S. House,1,KENDRA FERSHEE,DEM,873,443,402,20,5,3
+Monongalia,10,U.S. House,1,KENDRA FERSHEE,DEM,380,257,106,11,1,5
+Monongalia,13,U.S. House,1,KENDRA FERSHEE,DEM,520,325,175,12,5,3
+Monongalia,16,U.S. House,1,KENDRA FERSHEE,DEM,336,235,93,5,1,2
+Monongalia,23,U.S. House,1,KENDRA FERSHEE,DEM,816,356,429,20,8,3
+Monongalia,25,U.S. House,1,KENDRA FERSHEE,DEM,342,225,113,4,0,0
+Monongalia,26,U.S. House,1,KENDRA FERSHEE,DEM,275,151,110,13,1,0
+Monongalia,30,U.S. House,1,KENDRA FERSHEE,DEM,382,190,187,4,1,0
+Monongalia,32,U.S. House,1,KENDRA FERSHEE,DEM,1339,800,513,18,4,4
+Monongalia,33,U.S. House,1,KENDRA FERSHEE,DEM,298,170,125,1,0,2
+Monongalia,35,U.S. House,1,KENDRA FERSHEE,DEM,297,164,127,6,0,0
+Monongalia,36,U.S. House,1,KENDRA FERSHEE,DEM,327,176,118,28,1,4
+Monongalia,38,U.S. House,1,KENDRA FERSHEE,DEM,898,443,443,9,3,0
+Monongalia,40,U.S. House,1,KENDRA FERSHEE,DEM,102,50,51,0,1,0
+Monongalia,41,U.S. House,1,KENDRA FERSHEE,DEM,29,18,11,0,0,0
+Monongalia,44,U.S. House,1,KENDRA FERSHEE,DEM,223,113,105,3,2,0
+Monongalia,47,U.S. House,1,KENDRA FERSHEE,DEM,278,166,112,0,0,0
+Monongalia,48,U.S. House,1,KENDRA FERSHEE,DEM,51,31,19,0,1,0
+Monongalia,51,U.S. House,1,KENDRA FERSHEE,DEM,106,46,58,2,0,0
+Monongalia,51M,U.S. House,1,KENDRA FERSHEE,DEM,15,8,7,0,0,0
+Monongalia,52,U.S. House,1,KENDRA FERSHEE,DEM,301,145,154,2,0,0
+Monongalia,58,U.S. House,1,KENDRA FERSHEE,DEM,75,40,33,2,0,0
+Monongalia,59,U.S. House,1,KENDRA FERSHEE,DEM,450,207,231,10,1,1
+Monongalia,61,U.S. House,1,KENDRA FERSHEE,DEM,727,364,348,13,0,2
+Monongalia,62,U.S. House,1,KENDRA FERSHEE,DEM,331,159,168,4,0,0
+Monongalia,63,U.S. House,1,KENDRA FERSHEE,DEM,226,100,122,4,0,0
+Monongalia,64,U.S. House,1,KENDRA FERSHEE,DEM,382,204,172,2,0,4
+Monongalia,67,U.S. House,1,KENDRA FERSHEE,DEM,162,120,41,0,1,0
+Monongalia,68,U.S. House,1,KENDRA FERSHEE,DEM,178,88,90,0,0,0
+Monongalia,71,U.S. House,1,KENDRA FERSHEE,DEM,788,374,400,8,2,4
+Monongalia,74,U.S. House,1,KENDRA FERSHEE,DEM,122,84,32,3,0,3
+Monongalia,76,U.S. House,1,KENDRA FERSHEE,DEM,72,56,12,0,2,2
+Monongalia,77,U.S. House,1,KENDRA FERSHEE,DEM,559,288,262,6,2,1
+Monongalia,78,U.S. House,1,KENDRA FERSHEE,DEM,604,328,261,11,3,1
+Monongalia,79,U.S. House,1,KENDRA FERSHEE,DEM,478,258,209,9,2,0
+Monongalia,81,U.S. House,1,KENDRA FERSHEE,DEM,948,558,362,17,9,2
+Monongalia,82,U.S. House,1,KENDRA FERSHEE,DEM,349,192,157,0,0,0
+Monongalia,83,U.S. House,1,KENDRA FERSHEE,DEM,585,323,257,3,2,0
+Monongalia,86,U.S. House,1,KENDRA FERSHEE,DEM,399,253,138,7,1,0
+Monongalia,Total,U.S. House,1,KENDRA FERSHEE,DEM,17047,9162,7476,288,63,58
+Monongalia,1,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,2A,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,2B,U.S. House,1,WRITE-IN,,4,4,0,0,0,0
+Monongalia,10,U.S. House,1,WRITE-IN,,2,1,1,0,0,0
+Monongalia,13,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,16,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,23,U.S. House,1,WRITE-IN,,4,2,0,1,0,1
+Monongalia,25,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,26,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,30,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,32,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,33,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,35,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,36,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,38,U.S. House,1,WRITE-IN,,2,1,1,0,0,0
+Monongalia,40,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,41,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,44,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,47,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,48,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,51,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,51M,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,52,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,58,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,59,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,61,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,62,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,63,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,64,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,67,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,68,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,71,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,74,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,76,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,77,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,78,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,79,U.S. House,1,WRITE-IN,,3,2,0,1,0,0
+Monongalia,81,U.S. House,1,WRITE-IN,,2,1,1,0,0,0
+Monongalia,82,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,83,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
+Monongalia,86,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
+Monongalia,Total,U.S. House,1,WRITE-IN,,30,24,3,2,0,1
+Monongalia,1,State Senate,13,MIKE OLIVERIO,REP,201,83,118,0,0,0
+Monongalia,2A,State Senate,13,MIKE OLIVERIO,REP,375,183,184,4,1,3
+Monongalia,2B,State Senate,13,MIKE OLIVERIO,REP,322,162,154,4,2,0
+Monongalia,10,State Senate,13,MIKE OLIVERIO,REP,148,100,42,4,0,2
+Monongalia,13,State Senate,13,MIKE OLIVERIO,REP,198,119,76,2,0,1
+Monongalia,16,State Senate,13,MIKE OLIVERIO,REP,143,99,43,0,0,1
+Monongalia,23,State Senate,13,MIKE OLIVERIO,REP,580,306,260,10,1,3
+Monongalia,25,State Senate,13,MIKE OLIVERIO,REP,248,155,89,3,1,0
+Monongalia,26,State Senate,13,MIKE OLIVERIO,REP,218,126,84,6,2,0
+Monongalia,30,State Senate,13,MIKE OLIVERIO,REP,234,119,112,2,1,0
+Monongalia,32,State Senate,13,MIKE OLIVERIO,REP,907,546,347,11,3,0
+Monongalia,35,State Senate,13,MIKE OLIVERIO,REP,228,111,114,3,0,0
+Monongalia,36,State Senate,13,MIKE OLIVERIO,REP,247,127,94,23,1,2
+Monongalia,48,State Senate,13,MIKE OLIVERIO,REP,29,16,11,1,1,0
+Monongalia,59,State Senate,13,MIKE OLIVERIO,REP,572,296,264,7,1,4
+Monongalia,64,State Senate,13,MIKE OLIVERIO,REP,397,201,192,2,1,1
+Monongalia,67,State Senate,13,MIKE OLIVERIO,REP,218,136,79,1,0,2
+Monongalia,68,State Senate,13,MIKE OLIVERIO,REP,264,135,125,3,1,0
+Monongalia,71,State Senate,13,MIKE OLIVERIO,REP,610,281,312,10,2,5
+Monongalia,74,State Senate,13,MIKE OLIVERIO,REP,85,62,23,0,0,0
+Monongalia,76,State Senate,13,MIKE OLIVERIO,REP,28,18,9,0,0,1
+Monongalia,77,State Senate,13,MIKE OLIVERIO,REP,625,384,233,6,0,2
+Monongalia,78,State Senate,13,MIKE OLIVERIO,REP,614,369,235,8,1,1
+Monongalia,82,State Senate,13,MIKE OLIVERIO,REP,416,258,158,0,0,0
+Monongalia,83,State Senate,13,MIKE OLIVERIO,REP,560,330,226,2,2,0
+Monongalia,86,State Senate,13,MIKE OLIVERIO,REP,249,149,94,5,1,0
+Monongalia,Total,State Senate,13,MIKE OLIVERIO,REP,8716,4871,3678,117,22,28
+Monongalia,1,State Senate,13,BOB BEACH,DEM,310,120,185,5,0,0
+Monongalia,2A,State Senate,13,BOB BEACH,DEM,1062,502,520,25,4,11
+Monongalia,2B,State Senate,13,BOB BEACH,DEM,845,422,399,18,4,2
+Monongalia,10,State Senate,13,BOB BEACH,DEM,351,233,103,9,2,4
+Monongalia,13,State Senate,13,BOB BEACH,DEM,506,314,170,13,5,4
+Monongalia,16,State Senate,13,BOB BEACH,DEM,318,227,84,5,1,1
+Monongalia,23,State Senate,13,BOB BEACH,DEM,745,320,390,24,8,3
+Monongalia,25,State Senate,13,BOB BEACH,DEM,326,212,110,4,0,0
+Monongalia,26,State Senate,13,BOB BEACH,DEM,269,144,112,13,0,0
+Monongalia,30,State Senate,13,BOB BEACH,DEM,385,190,190,4,1,0
+Monongalia,32,State Senate,13,BOB BEACH,DEM,1271,729,515,20,3,4
+Monongalia,35,State Senate,13,BOB BEACH,DEM,295,159,131,5,0,0
+Monongalia,36,State Senate,13,BOB BEACH,DEM,312,160,120,27,1,4
+Monongalia,48,State Senate,13,BOB BEACH,DEM,55,33,22,0,0,0
+Monongalia,59,State Senate,13,BOB BEACH,DEM,453,208,236,8,1,0
+Monongalia,64,State Senate,13,BOB BEACH,DEM,394,212,175,3,0,4
+Monongalia,67,State Senate,13,BOB BEACH,DEM,162,121,40,0,1,0
+Monongalia,68,State Senate,13,BOB BEACH,DEM,174,82,92,0,0,0
+Monongalia,71,State Senate,13,BOB BEACH,DEM,738,336,389,6,2,5
+Monongalia,74,State Senate,13,BOB BEACH,DEM,118,81,31,3,0,3
+Monongalia,76,State Senate,13,BOB BEACH,DEM,63,50,10,0,2,1
+Monongalia,77,State Senate,13,BOB BEACH,DEM,545,267,269,6,2,1
+Monongalia,78,State Senate,13,BOB BEACH,DEM,563,305,246,8,3,1
+Monongalia,82,State Senate,13,BOB BEACH,DEM,332,176,155,0,1,0
+Monongalia,83,State Senate,13,BOB BEACH,DEM,537,299,233,3,2,0
+Monongalia,86,State Senate,13,BOB BEACH,DEM,357,231,118,7,1,0
+Monongalia,Total,State Senate,13,BOB BEACH,DEM,11486,6133,5045,216,44,48
+Monongalia,1,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,2A,State Senate,13,WRITE-IN,,2,2,0,0,0,0
+Monongalia,2B,State Senate,13,WRITE-IN,,3,3,0,0,0,0
+Monongalia,10,State Senate,13,WRITE-IN,,2,1,1,0,0,0
+Monongalia,13,State Senate,13,WRITE-IN,,2,2,0,0,0,0
+Monongalia,16,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,23,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,25,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,26,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,30,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,32,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,35,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,36,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,48,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,59,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,64,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,67,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,68,State Senate,13,WRITE-IN,,3,1,2,0,0,0
+Monongalia,71,State Senate,13,WRITE-IN,,2,2,0,0,0,0
+Monongalia,74,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,76,State Senate,13,WRITE-IN,,0,0,0,0,0,0
+Monongalia,77,State Senate,13,WRITE-IN,,2,1,1,0,0,0
+Monongalia,78,State Senate,13,WRITE-IN,,1,0,1,0,0,0
+Monongalia,82,State Senate,13,WRITE-IN,,2,0,2,0,0,0
+Monongalia,83,State Senate,13,WRITE-IN,,1,1,0,0,0,0
+Monongalia,86,State Senate,13,WRITE-IN,,1,0,1,0,0,0
+Monongalia,Total,State Senate,13,WRITE-IN,,27,19,8,0,0,0
+Monongalia,40,State Senate,2,CHARLES CLEMENTS,REP,166,95,69,2,0,0
+Monongalia,41,State Senate,2,CHARLES CLEMENTS,REP,63,31,32,0,0,0
+Monongalia,44,State Senate,2,CHARLES CLEMENTS,REP,274,158,111,3,1,1
+Monongalia,47,State Senate,2,CHARLES CLEMENTS,REP,285,180,104,0,1,0
+Monongalia,51,State Senate,2,CHARLES CLEMENTS,REP,164,86,77,1,0,0
+Monongalia,51M,State Senate,2,CHARLES CLEMENTS,REP,16,7,9,0,0,0
+Monongalia,52,State Senate,2,CHARLES CLEMENTS,REP,471,233,231,5,2,0
+Monongalia,58,State Senate,2,CHARLES CLEMENTS,REP,97,57,39,1,0,0
+Monongalia,79,State Senate,2,CHARLES CLEMENTS,REP,616,380,226,9,1,0
+Monongalia,81,State Senate,2,CHARLES CLEMENTS,REP,651,407,230,10,1,3
+Monongalia,Total,State Senate,2,CHARLES CLEMENTS,REP,2803,1634,1128,31,6,4
+Monongalia,40,State Senate,2,DENNY LONGWELL,DEM,129,54,74,0,1,0
+Monongalia,41,State Senate,2,DENNY LONGWELL,DEM,44,29,15,0,0,0
+Monongalia,44,State Senate,2,DENNY LONGWELL,DEM,207,103,98,4,2,0
+Monongalia,47,State Senate,2,DENNY LONGWELL,DEM,279,168,110,1,0,0
+Monongalia,51,State Senate,2,DENNY LONGWELL,DEM,108,41,65,2,0,0
+Monongalia,51M,State Senate,2,DENNY LONGWELL,DEM,17,10,7,0,0,0
+Monongalia,52,State Senate,2,DENNY LONGWELL,DEM,317,141,173,3,0,0
+Monongalia,58,State Senate,2,DENNY LONGWELL,DEM,76,42,32,2,0,0
+Monongalia,79,State Senate,2,DENNY LONGWELL,DEM,428,224,195,7,2,0
+Monongalia,81,State Senate,2,DENNY LONGWELL,DEM,886,502,353,17,11,3
+Monongalia,Total,State Senate,2,DENNY LONGWELL,DEM,2491,1314,1122,36,16,3
+Monongalia,40,State Senate,2,WRITE-IN,,1,1,0,0,0,0
+Monongalia,41,State Senate,2,WRITE-IN,,0,0,0,0,0,0
+Monongalia,44,State Senate,2,WRITE-IN,,1,1,0,0,0,0
+Monongalia,47,State Senate,2,WRITE-IN,,2,2,0,0,0,0
+Monongalia,51,State Senate,2,WRITE-IN,,0,0,0,0,0,0
+Monongalia,51M,State Senate,2,WRITE-IN,,0,0,0,0,0,0
+Monongalia,52,State Senate,2,WRITE-IN,,4,2,2,0,0,0
+Monongalia,58,State Senate,2,WRITE-IN,,0,0,0,0,0,0
+Monongalia,79,State Senate,2,WRITE-IN,,2,2,0,0,0,0
+Monongalia,81,State Senate,2,WRITE-IN,,5,2,3,0,0,0
+Monongalia,Total,State Senate,2,WRITE-IN,,15,10,5,0,0,0
+Monongalia,33,State Senate,14,DAVE SYPOLT,REP,249,184,63,1,0,1
+Monongalia,38,State Senate,14,DAVE SYPOLT,REP,935,413,506,11,3,2
+Monongalia,61,State Senate,14,DAVE SYPOLT,REP,716,391,316,8,1,0
+Monongalia,62,State Senate,14,DAVE SYPOLT,REP,385,211,170,4,0,0
+Monongalia,63,State Senate,14,DAVE SYPOLT,REP,285,119,162,2,2,0
+Monongalia,Total,State Senate,14,DAVE SYPOLT,REP,2570,1318,1217,26,6,3
+Monongalia,33,State Senate,14,STEPHANIE ZUCKER,DEM,314,182,128,2,0,2
+Monongalia,38,State Senate,14,STEPHANIE ZUCKER,DEM,980,483,482,12,3,0
+Monongalia,61,State Senate,14,STEPHANIE ZUCKER,DEM,773,388,370,13,0,2
+Monongalia,62,State Senate,14,STEPHANIE ZUCKER,DEM,351,164,184,3,0,0
+Monongalia,63,State Senate,14,STEPHANIE ZUCKER,DEM,249,111,134,4,0,0
+Monongalia,Total,State Senate,14,STEPHANIE ZUCKER,DEM,2667,1328,1298,34,3,4
+Monongalia,33,State Senate,14,WRITE-IN,,0,0,0,0,0,0
+Monongalia,38,State Senate,14,WRITE-IN,,3,1,2,0,0,0
+Monongalia,61,State Senate,14,WRITE-IN,,3,1,2,0,0,0
+Monongalia,62,State Senate,14,WRITE-IN,,0,0,0,0,0,0
+Monongalia,63,State Senate,14,WRITE-IN,,0,0,0,0,0,0
+Monongalia,Total,State Senate,14,WRITE-IN,,6,2,4,0,0,0
+Monongalia,40,House of Delegates,5,PHILLIP WILEY,REP,125,77,46,2,0,0
+Monongalia,Total,House of Delegates,5,PHILLIP WILEY,REP,125,77,46,2,0,0
+Monongalia,40,House of Delegates,5,DAVE PETHTEL,DEM,186,83,102,0,1,0
+Monongalia,Total,House of Delegates,5,DAVE PETHTEL,DEM,186,83,102,0,1,0
+Monongalia,40,House of Delegates,5,WRITE-IN,,2,2,0,0,0,0
+Monongalia,Total,House of Delegates,5,WRITE-IN,,2,2,0,0,0,0
+Monongalia,62,House of Delegates,49,AMY SUMMERS,REP,421,227,192,2,0,0
+Monongalia,Total,House of Delegates,49,AMY SUMMERS,REP,421,227,192,2,0,0
+Monongalia,62,House of Delegates,49,GEORGE ALLEN ABEL,DEM,299,142,153,4,0,0
+Monongalia,Total,House of Delegates,49,GEORGE ALLEN ABEL,DEM,299,142,153,4,0,0
+Monongalia,62,House of Delegates,49,WRITE-IN,,0,0,0,0,0,0
+Monongalia,Total,House of Delegates,49,WRITE-IN,,0,0,0,0,0,0
+Monongalia,1,House of Delegates,51,JOE STATLER,REP,178,71,107,0,0,0
+Monongalia,2A,House of Delegates,51,JOE STATLER,REP,343,162,176,3,0,2
+Monongalia,2B,House of Delegates,51,JOE STATLER,REP,288,126,157,3,2,0
+Monongalia,10,House of Delegates,51,JOE STATLER,REP,142,92,46,4,0,0
+Monongalia,13,House of Delegates,51,JOE STATLER,REP,181,105,72,2,0,2
+Monongalia,16,House of Delegates,51,JOE STATLER,REP,129,96,33,0,0,0
+Monongalia,23,House of Delegates,51,JOE STATLER,REP,522,264,244,9,1,4
+Monongalia,25,House of Delegates,51,JOE STATLER,REP,241,155,83,2,1,0
+Monongalia,26,House of Delegates,51,JOE STATLER,REP,214,124,85,4,1,0
+Monongalia,30,House of Delegates,51,JOE STATLER,REP,221,110,108,2,1,0
+Monongalia,32,House of Delegates,51,JOE STATLER,REP,872,498,363,9,1,1
+Monongalia,33,House of Delegates,51,JOE STATLER,REP,248,185,61,2,0,0
+Monongalia,35,House of Delegates,51,JOE STATLER,REP,206,108,96,2,0,0
+Monongalia,36,House of Delegates,51,JOE STATLER,REP,231,109,99,21,1,1
+Monongalia,38,House of Delegates,51,JOE STATLER,REP,997,443,537,12,4,1
+Monongalia,41,House of Delegates,51,JOE STATLER,REP,76,47,29,0,0,0
+Monongalia,44,House of Delegates,51,JOE STATLER,REP,274,153,114,5,1,1
+Monongalia,47,House of Delegates,51,JOE STATLER,REP,308,186,120,1,1,0
+Monongalia,48,House of Delegates,51,JOE STATLER,REP,28,15,12,1,0,0
+Monongalia,51,House of Delegates,51,JOE STATLER,REP,152,75,77,0,0,0
+Monongalia,51M,House of Delegates,51,JOE STATLER,REP,15,8,7,0,0,0
+Monongalia,52,House of Delegates,51,JOE STATLER,REP,493,230,255,6,2,0
+Monongalia,58,House of Delegates,51,JOE STATLER,REP,114,66,47,1,0,0
+Monongalia,59,House of Delegates,51,JOE STATLER,REP,538,271,257,7,0,3
+Monongalia,61,House of Delegates,51,JOE STATLER,REP,736,404,324,8,0,0
+Monongalia,63,House of Delegates,51,JOE STATLER,REP,296,123,168,3,2,0
+Monongalia,64,House of Delegates,51,JOE STATLER,REP,394,199,191,2,1,1
+Monongalia,67,House of Delegates,51,JOE STATLER,REP,228,151,74,1,0,2
+Monongalia,68,House of Delegates,51,JOE STATLER,REP,251,121,127,2,1,0
+Monongalia,71,House of Delegates,51,JOE STATLER,REP,536,240,280,8,2,6
+Monongalia,74,House of Delegates,51,JOE STATLER,REP,89,61,28,0,0,0
+Monongalia,76,House of Delegates,51,JOE STATLER,REP,22,14,8,0,0,0
+Monongalia,77,House of Delegates,51,JOE STATLER,REP,590,351,231,6,0,2
+Monongalia,78,House of Delegates,51,JOE STATLER,REP,542,324,209,6,1,2
+Monongalia,79,House of Delegates,51,JOE STATLER,REP,604,363,234,6,1,0
+Monongalia,81,House of Delegates,51,JOE STATLER,REP,647,395,235,10,3,4
+Monongalia,82,House of Delegates,51,JOE STATLER,REP,395,235,160,0,0,0
+Monongalia,83,House of Delegates,51,JOE STATLER,REP,509,301,206,1,1,0
+Monongalia,86,House of Delegates,51,JOE STATLER,REP,201,129,69,2,1,0
+Monongalia,Total,House of Delegates,51,JOE STATLER,REP,13051,7110,5729,151,29,32
+Monongalia,1,House of Delegates,51,AARON METZ,REP,103,37,66,0,0,0
+Monongalia,2A,House of Delegates,51,AARON METZ,REP,213,112,98,2,0,1
+Monongalia,2B,House of Delegates,51,AARON METZ,REP,168,83,83,1,1,0
+Monongalia,10,House of Delegates,51,AARON METZ,REP,88,62,24,2,0,0
+Monongalia,13,House of Delegates,51,AARON METZ,REP,122,78,40,2,0,2
+Monongalia,16,House of Delegates,51,AARON METZ,REP,78,57,21,0,0,0
+Monongalia,23,House of Delegates,51,AARON METZ,REP,292,164,122,3,0,3
+Monongalia,25,House of Delegates,51,AARON METZ,REP,140,91,46,2,1,0
+Monongalia,26,House of Delegates,51,AARON METZ,REP,125,84,39,2,0,0
+Monongalia,30,House of Delegates,51,AARON METZ,REP,137,72,64,1,0,0
+Monongalia,32,House of Delegates,51,AARON METZ,REP,551,327,216,8,0,0
+Monongalia,33,House of Delegates,51,AARON METZ,REP,183,140,41,2,0,0
+Monongalia,35,House of Delegates,51,AARON METZ,REP,133,76,56,1,0,0
+Monongalia,36,House of Delegates,51,AARON METZ,REP,140,76,54,9,0,1
+Monongalia,38,House of Delegates,51,AARON METZ,REP,706,333,360,10,2,1
+Monongalia,41,House of Delegates,51,AARON METZ,REP,33,17,16,0,0,0
+Monongalia,44,House of Delegates,51,AARON METZ,REP,166,98,66,0,1,1
+Monongalia,47,House of Delegates,51,AARON METZ,REP,201,131,69,0,1,0
+Monongalia,48,House of Delegates,51,AARON METZ,REP,25,15,10,0,0,0
+Monongalia,51,House of Delegates,51,AARON METZ,REP,81,45,36,0,0,0
+Monongalia,51M,House of Delegates,51,AARON METZ,REP,13,6,7,0,0,0
+Monongalia,52,House of Delegates,51,AARON METZ,REP,270,143,122,4,1,0
+Monongalia,58,House of Delegates,51,AARON METZ,REP,62,40,21,1,0,0
+Monongalia,59,House of Delegates,51,AARON METZ,REP,356,191,158,4,1,2
+Monongalia,61,House of Delegates,51,AARON METZ,REP,535,306,223,6,0,0
+Monongalia,63,House of Delegates,51,AARON METZ,REP,205,85,116,2,2,0
+Monongalia,64,House of Delegates,51,AARON METZ,REP,243,127,113,1,1,1
+Monongalia,67,House of Delegates,51,AARON METZ,REP,145,91,51,1,0,2
+Monongalia,68,House of Delegates,51,AARON METZ,REP,164,81,80,2,1,0
+Monongalia,71,House of Delegates,51,AARON METZ,REP,323,156,157,5,2,3
+Monongalia,74,House of Delegates,51,AARON METZ,REP,42,28,14,0,0,0
+Monongalia,76,House of Delegates,51,AARON METZ,REP,17,11,6,0,0,0
+Monongalia,77,House of Delegates,51,AARON METZ,REP,401,248,145,6,0,2
+Monongalia,78,House of Delegates,51,AARON METZ,REP,390,246,138,3,1,2
+Monongalia,79,House of Delegates,51,AARON METZ,REP,439,268,164,6,1,0
+Monongalia,81,House of Delegates,51,AARON METZ,REP,416,247,158,6,1,4
+Monongalia,82,House of Delegates,51,AARON METZ,REP,263,161,102,0,0,0
+Monongalia,83,House of Delegates,51,AARON METZ,REP,368,219,148,1,0,0
+Monongalia,86,House of Delegates,51,AARON METZ,REP,127,81,44,2,0,0
+Monongalia,Total,House of Delegates,51,AARON METZ,REP,8464,4833,3494,95,17,25
+Monongalia,1,House of Delegates,51,ROGER SHUTTLESWORTH,REP,113,42,70,1,0,0
+Monongalia,2A,House of Delegates,51,ROGER SHUTTLESWORTH,REP,221,117,100,3,0,1
+Monongalia,2B,House of Delegates,51,ROGER SHUTTLESWORTH,REP,164,80,82,1,1,0
+Monongalia,10,House of Delegates,51,ROGER SHUTTLESWORTH,REP,91,60,27,4,0,0
+Monongalia,13,House of Delegates,51,ROGER SHUTTLESWORTH,REP,121,74,44,2,0,1
+Monongalia,16,House of Delegates,51,ROGER SHUTTLESWORTH,REP,79,54,25,0,0,0
+Monongalia,23,House of Delegates,51,ROGER SHUTTLESWORTH,REP,306,163,137,3,0,3
+Monongalia,25,House of Delegates,51,ROGER SHUTTLESWORTH,REP,144,94,47,2,1,0
+Monongalia,26,House of Delegates,51,ROGER SHUTTLESWORTH,REP,127,71,53,3,0,0
+Monongalia,30,House of Delegates,51,ROGER SHUTTLESWORTH,REP,152,74,76,1,1,0
+Monongalia,32,House of Delegates,51,ROGER SHUTTLESWORTH,REP,561,317,237,6,1,0
+Monongalia,33,House of Delegates,51,ROGER SHUTTLESWORTH,REP,196,149,45,2,0,0
+Monongalia,35,House of Delegates,51,ROGER SHUTTLESWORTH,REP,160,88,71,1,0,0
+Monongalia,36,House of Delegates,51,ROGER SHUTTLESWORTH,REP,149,77,59,12,0,1
+Monongalia,38,House of Delegates,51,ROGER SHUTTLESWORTH,REP,724,325,385,10,3,1
+Monongalia,41,House of Delegates,51,ROGER SHUTTLESWORTH,REP,35,19,16,0,0,0
+Monongalia,44,House of Delegates,51,ROGER SHUTTLESWORTH,REP,171,97,71,1,1,1
+Monongalia,47,House of Delegates,51,ROGER SHUTTLESWORTH,REP,204,131,72,0,1,0
+Monongalia,48,House of Delegates,51,ROGER SHUTTLESWORTH,REP,27,16,11,0,0,0
+Monongalia,51,House of Delegates,51,ROGER SHUTTLESWORTH,REP,91,46,45,0,0,0
+Monongalia,51M,House of Delegates,51,ROGER SHUTTLESWORTH,REP,12,8,4,0,0,0
+Monongalia,52,House of Delegates,51,ROGER SHUTTLESWORTH,REP,274,126,143,4,1,0
+Monongalia,58,House of Delegates,51,ROGER SHUTTLESWORTH,REP,69,44,24,1,0,0
+Monongalia,59,House of Delegates,51,ROGER SHUTTLESWORTH,REP,418,220,190,5,1,2
+Monongalia,61,House of Delegates,51,ROGER SHUTTLESWORTH,REP,568,316,243,9,0,0
+Monongalia,63,House of Delegates,51,ROGER SHUTTLESWORTH,REP,227,90,133,2,2,0
+Monongalia,64,House of Delegates,51,ROGER SHUTTLESWORTH,REP,282,145,134,2,1,0
+Monongalia,67,House of Delegates,51,ROGER SHUTTLESWORTH,REP,150,97,51,1,0,1
+Monongalia,68,House of Delegates,51,ROGER SHUTTLESWORTH,REP,172,81,89,1,1,0
+Monongalia,71,House of Delegates,51,ROGER SHUTTLESWORTH,REP,359,167,181,7,2,2
+Monongalia,74,House of Delegates,51,ROGER SHUTTLESWORTH,REP,54,43,11,0,0,0
+Monongalia,76,House of Delegates,51,ROGER SHUTTLESWORTH,REP,19,12,7,0,0,0
+Monongalia,77,House of Delegates,51,ROGER SHUTTLESWORTH,REP,422,254,160,6,0,2
+Monongalia,78,House of Delegates,51,ROGER SHUTTLESWORTH,REP,388,224,158,4,1,1
+Monongalia,79,House of Delegates,51,ROGER SHUTTLESWORTH,REP,440,267,166,6,1,0
+Monongalia,81,House of Delegates,51,ROGER SHUTTLESWORTH,REP,426,255,162,5,1,3
+Monongalia,82,House of Delegates,51,ROGER SHUTTLESWORTH,REP,272,161,111,0,0,0
+Monongalia,83,House of Delegates,51,ROGER SHUTTLESWORTH,REP,369,218,150,1,0,0
+Monongalia,86,House of Delegates,51,ROGER SHUTTLESWORTH,REP,128,79,47,2,0,0
+Monongalia,Total,House of Delegates,51,ROGER SHUTTLESWORTH,REP,8885,4901,3837,108,20,19
+Monongalia,1,House of Delegates,51,CINDY FRICH,REP,185,76,108,1,0,0
+Monongalia,2A,House of Delegates,51,CINDY FRICH,REP,334,169,160,3,0,2
+Monongalia,2B,House of Delegates,51,CINDY FRICH,REP,289,136,145,6,2,0
+Monongalia,10,House of Delegates,51,CINDY FRICH,REP,127,82,41,4,0,0
+Monongalia,13,House of Delegates,51,CINDY FRICH,REP,193,115,72,4,0,2
+Monongalia,16,House of Delegates,51,CINDY FRICH,REP,128,93,35,0,0,0
+Monongalia,23,House of Delegates,51,CINDY FRICH,REP,484,263,211,8,1,1
+Monongalia,25,House of Delegates,51,CINDY FRICH,REP,232,153,75,3,1,0
+Monongalia,26,House of Delegates,51,CINDY FRICH,REP,193,111,76,5,1,0
+Monongalia,30,House of Delegates,51,CINDY FRICH,REP,230,126,102,1,1,0
+Monongalia,32,House of Delegates,51,CINDY FRICH,REP,794,455,323,12,3,1
+Monongalia,33,House of Delegates,51,CINDY FRICH,REP,255,186,67,1,0,1
+Monongalia,35,House of Delegates,51,CINDY FRICH,REP,211,106,102,3,0,0
+Monongalia,36,House of Delegates,51,CINDY FRICH,REP,226,108,95,20,1,2
+Monongalia,38,House of Delegates,51,CINDY FRICH,REP,990,466,508,12,2,2
+Monongalia,41,House of Delegates,51,CINDY FRICH,REP,70,41,29,0,0,0
+Monongalia,44,House of Delegates,51,CINDY FRICH,REP,233,135,91,5,1,1
+Monongalia,47,House of Delegates,51,CINDY FRICH,REP,267,170,96,0,1,0
+Monongalia,48,House of Delegates,51,CINDY FRICH,REP,35,19,14,1,1,0
+Monongalia,51,House of Delegates,51,CINDY FRICH,REP,149,77,70,2,0,0
+Monongalia,51M,House of Delegates,51,CINDY FRICH,REP,17,11,6,0,0,0
+Monongalia,52,House of Delegates,51,CINDY FRICH,REP,438,210,221,5,2,0
+Monongalia,58,House of Delegates,51,CINDY FRICH,REP,93,51,41,1,0,0
+Monongalia,59,House of Delegates,51,CINDY FRICH,REP,541,299,232,5,1,4
+Monongalia,61,House of Delegates,51,CINDY FRICH,REP,717,392,317,8,0,0
+Monongalia,63,House of Delegates,51,CINDY FRICH,REP,312,136,172,2,2,0
+Monongalia,64,House of Delegates,51,CINDY FRICH,REP,381,191,186,2,1,1
+Monongalia,67,House of Delegates,51,CINDY FRICH,REP,204,132,69,1,0,2
+Monongalia,68,House of Delegates,51,CINDY FRICH,REP,245,121,121,2,1,0
+Monongalia,71,House of Delegates,51,CINDY FRICH,REP,497,212,269,9,2,5
+Monongalia,74,House of Delegates,51,CINDY FRICH,REP,83,59,24,0,0,0
+Monongalia,76,House of Delegates,51,CINDY FRICH,REP,24,18,5,0,1,0
+Monongalia,77,House of Delegates,51,CINDY FRICH,REP,565,346,212,5,0,2
+Monongalia,78,House of Delegates,51,CINDY FRICH,REP,563,341,213,7,1,1
+Monongalia,79,House of Delegates,51,CINDY FRICH,REP,572,350,215,6,1,0
+Monongalia,81,House of Delegates,51,CINDY FRICH,REP,636,388,232,11,2,3
+Monongalia,82,House of Delegates,51,CINDY FRICH,REP,388,236,152,0,0,0
+Monongalia,83,House of Delegates,51,CINDY FRICH,REP,499,287,209,2,1,0
+Monongalia,86,House of Delegates,51,CINDY FRICH,REP,201,124,73,3,1,0
+Monongalia,Total,House of Delegates,51,CINDY FRICH,REP,12601,6991,5389,160,31,30
+Monongalia,1,House of Delegates,51,DEBBIE WARNER,REP,147,53,93,1,0,0
+Monongalia,2A,House of Delegates,51,DEBBIE WARNER,REP,287,150,130,2,0,5
+Monongalia,2B,House of Delegates,51,DEBBIE WARNER,REP,235,116,117,2,0,0
+Monongalia,10,House of Delegates,51,DEBBIE WARNER,REP,109,68,38,3,0,0
+Monongalia,13,House of Delegates,51,DEBBIE WARNER,REP,155,98,53,1,0,3
+Monongalia,16,House of Delegates,51,DEBBIE WARNER,REP,107,74,33,0,0,0
+Monongalia,23,House of Delegates,51,DEBBIE WARNER,REP,407,221,178,6,0,2
+Monongalia,25,House of Delegates,51,DEBBIE WARNER,REP,191,118,69,3,1,0
+Monongalia,26,House of Delegates,51,DEBBIE WARNER,REP,166,100,64,1,1,0
+Monongalia,30,House of Delegates,51,DEBBIE WARNER,REP,180,89,89,1,1,0
+Monongalia,32,House of Delegates,51,DEBBIE WARNER,REP,703,401,292,10,0,0
+Monongalia,33,House of Delegates,51,DEBBIE WARNER,REP,227,170,55,2,0,0
+Monongalia,35,House of Delegates,51,DEBBIE WARNER,REP,181,97,83,1,0,0
+Monongalia,36,House of Delegates,51,DEBBIE WARNER,REP,190,92,78,18,1,1
+Monongalia,38,House of Delegates,51,DEBBIE WARNER,REP,867,396,455,11,4,1
+Monongalia,41,House of Delegates,51,DEBBIE WARNER,REP,47,25,22,0,0,0
+Monongalia,44,House of Delegates,51,DEBBIE WARNER,REP,229,138,86,4,0,1
+Monongalia,47,House of Delegates,51,DEBBIE WARNER,REP,259,167,91,0,1,0
+Monongalia,48,House of Delegates,51,DEBBIE WARNER,REP,26,14,11,0,1,0
+Monongalia,51,House of Delegates,51,DEBBIE WARNER,REP,124,65,57,2,0,0
+Monongalia,51M,House of Delegates,51,DEBBIE WARNER,REP,14,8,6,0,0,0
+Monongalia,52,House of Delegates,51,DEBBIE WARNER,REP,343,173,164,5,1,0
+Monongalia,58,House of Delegates,51,DEBBIE WARNER,REP,85,46,38,1,0,0
+Monongalia,59,House of Delegates,51,DEBBIE WARNER,REP,450,239,203,5,1,2
+Monongalia,61,House of Delegates,51,DEBBIE WARNER,REP,651,350,293,8,0,0
+Monongalia,63,House of Delegates,51,DEBBIE WARNER,REP,253,101,148,2,2,0
+Monongalia,64,House of Delegates,51,DEBBIE WARNER,REP,338,177,159,1,1,0
+Monongalia,67,House of Delegates,51,DEBBIE WARNER,REP,169,105,61,1,0,2
+Monongalia,68,House of Delegates,51,DEBBIE WARNER,REP,219,111,105,2,1,0
+Monongalia,71,House of Delegates,51,DEBBIE WARNER,REP,430,194,224,6,2,4
+Monongalia,74,House of Delegates,51,DEBBIE WARNER,REP,59,39,20,0,0,0
+Monongalia,76,House of Delegates,51,DEBBIE WARNER,REP,20,16,4,0,0,0
+Monongalia,77,House of Delegates,51,DEBBIE WARNER,REP,534,318,208,6,0,2
+Monongalia,78,House of Delegates,51,DEBBIE WARNER,REP,521,319,195,5,1,1
+Monongalia,79,House of Delegates,51,DEBBIE WARNER,REP,568,347,211,9,1,0
+Monongalia,81,House of Delegates,51,DEBBIE WARNER,REP,558,337,209,7,1,4
+Monongalia,82,House of Delegates,51,DEBBIE WARNER,REP,357,217,140,0,0,0
+Monongalia,83,House of Delegates,51,DEBBIE WARNER,REP,479,282,195,1,1,0
+Monongalia,86,House of Delegates,51,DEBBIE WARNER,REP,173,104,66,3,0,0
+Monongalia,Total,House of Delegates,51,DEBBIE WARNER,REP,11058,6135,4743,130,22,28
+Monongalia,1,House of Delegates,51,EVAN HANSEN,DEM,318,129,186,3,0,0
+Monongalia,2A,House of Delegates,51,EVAN HANSEN,DEM,1044,483,525,21,5,10
+Monongalia,2B,House of Delegates,51,EVAN HANSEN,DEM,840,418,399,16,5,2
+Monongalia,10,House of Delegates,51,EVAN HANSEN,DEM,321,212,92,11,2,4
+Monongalia,13,House of Delegates,51,EVAN HANSEN,DEM,449,270,162,11,3,3
+Monongalia,16,House of Delegates,51,EVAN HANSEN,DEM,314,217,90,5,1,1
+Monongalia,23,House of Delegates,51,EVAN HANSEN,DEM,776,345,398,24,8,1
+Monongalia,25,House of Delegates,51,EVAN HANSEN,DEM,315,199,113,3,0,0
+Monongalia,26,House of Delegates,51,EVAN HANSEN,DEM,271,143,112,15,1,0
+Monongalia,30,House of Delegates,51,EVAN HANSEN,DEM,344,169,170,4,1,0
+Monongalia,32,House of Delegates,51,EVAN HANSEN,DEM,1215,725,464,18,3,5
+Monongalia,33,House of Delegates,51,EVAN HANSEN,DEM,289,166,120,1,0,2
+Monongalia,35,House of Delegates,51,EVAN HANSEN,DEM,290,155,130,5,0,0
+Monongalia,36,House of Delegates,51,EVAN HANSEN,DEM,305,159,117,25,0,4
+Monongalia,38,House of Delegates,51,EVAN HANSEN,DEM,880,399,466,12,3,0
+Monongalia,41,House of Delegates,51,EVAN HANSEN,DEM,31,17,14,0,0,0
+Monongalia,44,House of Delegates,51,EVAN HANSEN,DEM,209,102,104,2,1,0
+Monongalia,47,House of Delegates,51,EVAN HANSEN,DEM,271,152,118,1,0,0
+Monongalia,48,House of Delegates,51,EVAN HANSEN,DEM,46,27,18,1,0,0
+Monongalia,51,House of Delegates,51,EVAN HANSEN,DEM,103,43,59,1,0,0
+Monongalia,51M,House of Delegates,51,EVAN HANSEN,DEM,11,6,5,0,0,0
+Monongalia,52,House of Delegates,51,EVAN HANSEN,DEM,276,117,158,1,0,0
+Monongalia,58,House of Delegates,51,EVAN HANSEN,DEM,67,35,31,1,0,0
+Monongalia,59,House of Delegates,51,EVAN HANSEN,DEM,475,203,264,8,0,0
+Monongalia,61,House of Delegates,51,EVAN HANSEN,DEM,718,347,357,12,1,1
+Monongalia,63,House of Delegates,51,EVAN HANSEN,DEM,199,94,103,2,0,0
+Monongalia,64,House of Delegates,51,EVAN HANSEN,DEM,366,189,172,2,0,3
+Monongalia,67,House of Delegates,51,EVAN HANSEN,DEM,145,100,45,0,0,0
+Monongalia,68,House of Delegates,51,EVAN HANSEN,DEM,175,85,89,1,0,0
+Monongalia,71,House of Delegates,51,EVAN HANSEN,DEM,731,334,384,8,2,3
+Monongalia,74,House of Delegates,51,EVAN HANSEN,DEM,99,68,27,1,0,3
+Monongalia,76,House of Delegates,51,EVAN HANSEN,DEM,63,47,13,0,2,1
+Monongalia,77,House of Delegates,51,EVAN HANSEN,DEM,543,265,268,8,1,1
+Monongalia,78,House of Delegates,51,EVAN HANSEN,DEM,558,287,257,10,3,1
+Monongalia,79,House of Delegates,51,EVAN HANSEN,DEM,420,222,191,6,1,0
+Monongalia,81,House of Delegates,51,EVAN HANSEN,DEM,871,506,340,16,8,1
+Monongalia,82,House of Delegates,51,EVAN HANSEN,DEM,342,195,146,0,1,0
+Monongalia,83,House of Delegates,51,EVAN HANSEN,DEM,514,283,224,4,3,0
+Monongalia,86,House of Delegates,51,EVAN HANSEN,DEM,354,210,134,8,2,0
+Monongalia,Total,House of Delegates,51,EVAN HANSEN,DEM,15558,8123,7065,267,57,46
+Monongalia,1,House of Delegates,51,JOHN WILLIAMS,DEM,300,114,183,3,0,0
+Monongalia,2A,House of Delegates,51,JOHN WILLIAMS,DEM,1009,463,509,24,5,8
+Monongalia,2B,House of Delegates,51,JOHN WILLIAMS,DEM,810,398,389,17,4,2
+Monongalia,10,House of Delegates,51,JOHN WILLIAMS,DEM,311,207,90,9,1,4
+Monongalia,13,House of Delegates,51,JOHN WILLIAMS,DEM,453,272,165,11,4,1
+Monongalia,16,House of Delegates,51,JOHN WILLIAMS,DEM,311,218,87,5,0,1
+Monongalia,23,House of Delegates,51,JOHN WILLIAMS,DEM,803,353,415,24,8,3
+Monongalia,25,House of Delegates,51,JOHN WILLIAMS,DEM,317,198,116,3,0,0
+Monongalia,26,House of Delegates,51,JOHN WILLIAMS,DEM,287,158,113,15,1,0
+Monongalia,30,House of Delegates,51,JOHN WILLIAMS,DEM,348,161,183,3,1,0
+Monongalia,32,House of Delegates,51,JOHN WILLIAMS,DEM,1208,705,475,19,5,4
+Monongalia,33,House of Delegates,51,JOHN WILLIAMS,DEM,262,143,116,2,0,1
+Monongalia,35,House of Delegates,51,JOHN WILLIAMS,DEM,259,128,125,6,0,0
+Monongalia,36,House of Delegates,51,JOHN WILLIAMS,DEM,321,159,130,26,2,4
+Monongalia,38,House of Delegates,51,JOHN WILLIAMS,DEM,791,360,420,8,2,1
+Monongalia,41,House of Delegates,51,JOHN WILLIAMS,DEM,33,17,16,0,0,0
+Monongalia,44,House of Delegates,51,JOHN WILLIAMS,DEM,193,89,102,1,1,0
+Monongalia,47,House of Delegates,51,JOHN WILLIAMS,DEM,252,146,105,1,0,0
+Monongalia,48,House of Delegates,51,JOHN WILLIAMS,DEM,39,23,16,0,0,0
+Monongalia,51,House of Delegates,51,JOHN WILLIAMS,DEM,91,37,51,3,0,0
+Monongalia,51M,House of Delegates,51,JOHN WILLIAMS,DEM,12,5,7,0,0,0
+Monongalia,52,House of Delegates,51,JOHN WILLIAMS,DEM,286,123,161,2,0,0
+Monongalia,58,House of Delegates,51,JOHN WILLIAMS,DEM,67,35,31,1,0,0
+Monongalia,59,House of Delegates,51,JOHN WILLIAMS,DEM,428,174,244,7,1,2
+Monongalia,61,House of Delegates,51,JOHN WILLIAMS,DEM,640,318,310,11,1,0
+Monongalia,63,House of Delegates,51,JOHN WILLIAMS,DEM,182,69,110,3,0,0
+Monongalia,64,House of Delegates,51,JOHN WILLIAMS,DEM,353,178,169,3,0,3
+Monongalia,67,House of Delegates,51,JOHN WILLIAMS,DEM,135,93,42,0,0,0
+Monongalia,68,House of Delegates,51,JOHN WILLIAMS,DEM,163,77,86,0,0,0
+Monongalia,71,House of Delegates,51,JOHN WILLIAMS,DEM,703,320,371,6,2,4
+Monongalia,74,House of Delegates,51,JOHN WILLIAMS,DEM,98,66,28,1,0,3
+Monongalia,76,House of Delegates,51,JOHN WILLIAMS,DEM,62,49,12,0,1,0
+Monongalia,77,House of Delegates,51,JOHN WILLIAMS,DEM,516,251,256,7,1,1
+Monongalia,78,House of Delegates,51,JOHN WILLIAMS,DEM,529,291,226,9,3,0
+Monongalia,79,House of Delegates,51,JOHN WILLIAMS,DEM,422,217,197,7,1,0
+Monongalia,81,House of Delegates,51,JOHN WILLIAMS,DEM,854,487,344,15,7,1
+Monongalia,82,House of Delegates,51,JOHN WILLIAMS,DEM,298,167,130,0,1,0
+Monongalia,83,House of Delegates,51,JOHN WILLIAMS,DEM,512,266,240,3,3,0
+Monongalia,86,House of Delegates,51,JOHN WILLIAMS,DEM,387,245,135,5,2,0
+Monongalia,Total,House of Delegates,51,JOHN WILLIAMS,DEM,15045,7780,6905,260,57,43
+Monongalia,1,House of Delegates,51,RODNEY A. PYLES,DEM,288,121,164,3,0,0
+Monongalia,2A,House of Delegates,51,RODNEY A. PYLES,DEM,911,413,464,19,5,10
+Monongalia,2B,House of Delegates,51,RODNEY A. PYLES,DEM,717,359,336,15,5,2
+Monongalia,10,House of Delegates,51,RODNEY A. PYLES,DEM,303,212,76,9,2,4
+Monongalia,13,House of Delegates,51,RODNEY A. PYLES,DEM,438,261,160,12,4,1
+Monongalia,16,House of Delegates,51,RODNEY A. PYLES,DEM,262,179,77,5,0,1
+Monongalia,23,House of Delegates,51,RODNEY A. PYLES,DEM,716,309,376,22,7,2
+Monongalia,25,House of Delegates,51,RODNEY A. PYLES,DEM,296,185,107,4,0,0
+Monongalia,26,House of Delegates,51,RODNEY A. PYLES,DEM,251,136,101,14,0,0
+Monongalia,30,House of Delegates,51,RODNEY A. PYLES,DEM,319,146,168,4,1,0
+Monongalia,32,House of Delegates,51,RODNEY A. PYLES,DEM,1148,658,463,20,4,3
+Monongalia,33,House of Delegates,51,RODNEY A. PYLES,DEM,243,137,103,1,0,2
+Monongalia,35,House of Delegates,51,RODNEY A. PYLES,DEM,250,124,119,7,0,0
+Monongalia,36,House of Delegates,51,RODNEY A. PYLES,DEM,290,151,107,27,1,4
+Monongalia,38,House of Delegates,51,RODNEY A. PYLES,DEM,776,368,399,7,2,0
+Monongalia,41,House of Delegates,51,RODNEY A. PYLES,DEM,44,25,19,0,0,0
+Monongalia,44,House of Delegates,51,RODNEY A. PYLES,DEM,197,103,92,1,1,0
+Monongalia,47,House of Delegates,51,RODNEY A. PYLES,DEM,265,157,107,1,0,0
+Monongalia,48,House of Delegates,51,RODNEY A. PYLES,DEM,37,22,15,0,0,0
+Monongalia,51,House of Delegates,51,RODNEY A. PYLES,DEM,100,47,51,2,0,0
+Monongalia,51M,House of Delegates,51,RODNEY A. PYLES,DEM,14,8,6,0,0,0
+Monongalia,52,House of Delegates,51,RODNEY A. PYLES,DEM,303,148,153,2,0,0
+Monongalia,58,House of Delegates,51,RODNEY A. PYLES,DEM,63,31,31,1,0,0
+Monongalia,59,House of Delegates,51,RODNEY A. PYLES,DEM,387,165,212,7,2,1
+Monongalia,61,House of Delegates,51,RODNEY A. PYLES,DEM,617,312,296,8,1,0
+Monongalia,63,House of Delegates,51,RODNEY A. PYLES,DEM,200,91,105,4,0,0
+Monongalia,64,House of Delegates,51,RODNEY A. PYLES,DEM,345,184,155,2,0,4
+Monongalia,67,House of Delegates,51,RODNEY A. PYLES,DEM,151,108,42,0,1,0
+Monongalia,68,House of Delegates,51,RODNEY A. PYLES,DEM,159,83,76,0,0,0
+Monongalia,71,House of Delegates,51,RODNEY A. PYLES,DEM,643,294,335,9,2,3
+Monongalia,74,House of Delegates,51,RODNEY A. PYLES,DEM,108,74,30,1,0,3
+Monongalia,76,House of Delegates,51,RODNEY A. PYLES,DEM,61,48,12,0,1,0
+Monongalia,77,House of Delegates,51,RODNEY A. PYLES,DEM,492,258,224,8,1,1
+Monongalia,78,House of Delegates,51,RODNEY A. PYLES,DEM,497,258,231,5,2,1
+Monongalia,79,House of Delegates,51,RODNEY A. PYLES,DEM,393,204,181,7,1,0
+Monongalia,81,House of Delegates,51,RODNEY A. PYLES,DEM,818,477,322,11,7,1
+Monongalia,82,House of Delegates,51,RODNEY A. PYLES,DEM,314,171,142,0,1,0
+Monongalia,83,House of Delegates,51,RODNEY A. PYLES,DEM,498,263,229,3,3,0
+Monongalia,86,House of Delegates,51,RODNEY A. PYLES,DEM,326,214,105,6,1,0
+Monongalia,Total,House of Delegates,51,RODNEY A. PYLES,DEM,14240,7504,6391,247,55,43
+Monongalia,1,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,337,133,200,4,0,0
+Monongalia,2A,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,1027,468,521,24,5,9
+Monongalia,2B,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,848,407,412,21,5,3
+Monongalia,10,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,337,218,102,11,1,5
+Monongalia,13,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,477,284,173,13,4,3
+Monongalia,16,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,319,221,90,5,1,2
+Monongalia,23,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,810,340,436,24,8,2
+Monongalia,25,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,330,204,122,4,0,0
+Monongalia,26,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,282,145,122,15,0,0
+Monongalia,30,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,376,183,188,4,1,0
+Monongalia,32,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,1291,728,534,21,4,4
+Monongalia,33,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,274,150,121,1,0,2
+Monongalia,35,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,285,143,135,7,0,0
+Monongalia,36,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,341,167,133,36,1,4
+Monongalia,38,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,886,419,454,11,2,0
+Monongalia,41,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,42,27,15,0,0,0
+Monongalia,44,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,231,114,109,6,2,0
+Monongalia,47,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,295,166,128,1,0,0
+Monongalia,48,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,51,29,20,1,1,0
+Monongalia,51,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,133,53,77,3,0,0
+Monongalia,51M,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,12,5,7,0,0,0
+Monongalia,52,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,349,155,192,2,0,0
+Monongalia,58,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,85,40,43,2,0,0
+Monongalia,59,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,467,197,259,9,1,1
+Monongalia,61,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,699,329,354,13,1,2
+Monongalia,63,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,215,87,124,4,0,0
+Monongalia,64,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,390,198,185,4,0,3
+Monongalia,67,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,172,116,54,0,1,1
+Monongalia,68,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,188,92,96,0,0,0
+Monongalia,71,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,764,335,412,11,2,4
+Monongalia,74,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,116,74,36,3,0,3
+Monongalia,76,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,65,50,13,0,2,0
+Monongalia,77,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,554,277,270,5,1,1
+Monongalia,78,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,617,329,272,12,3,1
+Monongalia,79,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,469,243,218,7,1,0
+Monongalia,81,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,912,507,374,20,9,2
+Monongalia,82,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,356,192,163,0,1,0
+Monongalia,83,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,564,298,260,4,2,0
+Monongalia,86,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,391,247,135,7,2,0
+Monongalia,Total,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,16357,8370,7559,315,61,52
+Monongalia,1,House of Delegates,51,DANIELLE WALKER,DEM,313,122,186,5,0,0
+Monongalia,2A,House of Delegates,51,DANIELLE WALKER,DEM,1008,471,498,23,5,11
+Monongalia,2B,House of Delegates,51,DANIELLE WALKER,DEM,808,401,385,16,4,2
+Monongalia,10,House of Delegates,51,DANIELLE WALKER,DEM,329,218,94,11,2,4
+Monongalia,13,House of Delegates,51,DANIELLE WALKER,DEM,474,291,164,12,4,3
+Monongalia,16,House of Delegates,51,DANIELLE WALKER,DEM,295,205,82,5,1,2
+Monongalia,23,House of Delegates,51,DANIELLE WALKER,DEM,690,285,373,21,8,3
+Monongalia,25,House of Delegates,51,DANIELLE WALKER,DEM,285,182,100,3,0,0
+Monongalia,26,House of Delegates,51,DANIELLE WALKER,DEM,229,125,93,11,0,0
+Monongalia,30,House of Delegates,51,DANIELLE WALKER,DEM,347,171,171,4,1,0
+Monongalia,32,House of Delegates,51,DANIELLE WALKER,DEM,1182,693,464,17,4,4
+Monongalia,33,House of Delegates,51,DANIELLE WALKER,DEM,276,150,123,1,0,2
+Monongalia,35,House of Delegates,51,DANIELLE WALKER,DEM,276,151,121,4,0,0
+Monongalia,36,House of Delegates,51,DANIELLE WALKER,DEM,296,161,109,21,1,4
+Monongalia,38,House of Delegates,51,DANIELLE WALKER,DEM,791,379,405,5,2,0
+Monongalia,41,House of Delegates,51,DANIELLE WALKER,DEM,32,19,13,0,0,0
+Monongalia,44,House of Delegates,51,DANIELLE WALKER,DEM,202,107,91,2,2,0
+Monongalia,47,House of Delegates,51,DANIELLE WALKER,DEM,255,151,104,0,0,0
+Monongalia,48,House of Delegates,51,DANIELLE WALKER,DEM,47,29,17,0,1,0
+Monongalia,51,House of Delegates,51,DANIELLE WALKER,DEM,104,42,60,2,0,0
+Monongalia,51M,House of Delegates,51,DANIELLE WALKER,DEM,15,9,6,0,0,0
+Monongalia,52,House of Delegates,51,DANIELLE WALKER,DEM,292,143,148,1,0,0
+Monongalia,58,House of Delegates,51,DANIELLE WALKER,DEM,61,34,25,2,0,0
+Monongalia,59,House of Delegates,51,DANIELLE WALKER,DEM,410,179,221,8,1,1
+Monongalia,61,House of Delegates,51,DANIELLE WALKER,DEM,668,333,321,12,1,1
+Monongalia,63,House of Delegates,51,DANIELLE WALKER,DEM,184,75,105,4,0,0
+Monongalia,64,House of Delegates,51,DANIELLE WALKER,DEM,324,174,144,2,0,4
+Monongalia,67,House of Delegates,51,DANIELLE WALKER,DEM,136,96,40,0,0,0
+Monongalia,68,House of Delegates,51,DANIELLE WALKER,DEM,143,68,74,1,0,0
+Monongalia,71,House of Delegates,51,DANIELLE WALKER,DEM,675,312,352,6,2,3
+Monongalia,74,House of Delegates,51,DANIELLE WALKER,DEM,93,66,23,1,0,3
+Monongalia,76,House of Delegates,51,DANIELLE WALKER,DEM,65,53,11,0,1,0
+Monongalia,77,House of Delegates,51,DANIELLE WALKER,DEM,488,233,248,5,1,1
+Monongalia,78,House of Delegates,51,DANIELLE WALKER,DEM,507,274,224,6,3,0
+Monongalia,79,House of Delegates,51,DANIELLE WALKER,DEM,399,202,188,7,2,0
+Monongalia,81,House of Delegates,51,DANIELLE WALKER,DEM,847,505,318,13,9,2
+Monongalia,82,House of Delegates,51,DANIELLE WALKER,DEM,295,157,137,0,1,0
+Monongalia,83,House of Delegates,51,DANIELLE WALKER,DEM,513,288,219,3,3,0
+Monongalia,86,House of Delegates,51,DANIELLE WALKER,DEM,371,231,131,8,1,0
+Monongalia,Total,House of Delegates,51,DANIELLE WALKER,DEM,14725,7785,6588,242,60,50
+Monongalia,1,House of Delegates,51,BUDDY A GUTHRIE,LIB,47,26,21,0,0,0
+Monongalia,2A,House of Delegates,51,BUDDY A GUTHRIE,LIB,148,93,50,2,0,3
+Monongalia,2B,House of Delegates,51,BUDDY A GUTHRIE,LIB,106,73,32,0,1,0
+Monongalia,10,House of Delegates,51,BUDDY A GUTHRIE,LIB,64,48,16,0,0,0
+Monongalia,13,House of Delegates,51,BUDDY A GUTHRIE,LIB,101,75,24,1,0,1
+Monongalia,16,House of Delegates,51,BUDDY A GUTHRIE,LIB,60,49,11,0,0,0
+Monongalia,23,House of Delegates,51,BUDDY A GUTHRIE,LIB,115,75,37,0,0,3
+Monongalia,25,House of Delegates,51,BUDDY A GUTHRIE,LIB,60,48,11,1,0,0
+Monongalia,26,House of Delegates,51,BUDDY A GUTHRIE,LIB,38,25,13,0,0,0
+Monongalia,30,House of Delegates,51,BUDDY A GUTHRIE,LIB,59,32,26,0,1,0
+Monongalia,32,House of Delegates,51,BUDDY A GUTHRIE,LIB,213,143,68,1,1,0
+Monongalia,33,House of Delegates,51,BUDDY A GUTHRIE,LIB,62,43,19,0,0,0
+Monongalia,35,House of Delegates,51,BUDDY A GUTHRIE,LIB,55,33,21,1,0,0
+Monongalia,36,House of Delegates,51,BUDDY A GUTHRIE,LIB,56,37,16,2,0,1
+Monongalia,38,House of Delegates,51,BUDDY A GUTHRIE,LIB,190,122,64,2,2,0
+Monongalia,41,House of Delegates,51,BUDDY A GUTHRIE,LIB,6,5,1,0,0,0
+Monongalia,44,House of Delegates,51,BUDDY A GUTHRIE,LIB,42,23,17,2,0,0
+Monongalia,47,House of Delegates,51,BUDDY A GUTHRIE,LIB,54,40,14,0,0,0
+Monongalia,48,House of Delegates,51,BUDDY A GUTHRIE,LIB,8,6,2,0,0,0
+Monongalia,51,House of Delegates,51,BUDDY A GUTHRIE,LIB,12,3,9,0,0,0
+Monongalia,51M,House of Delegates,51,BUDDY A GUTHRIE,LIB,1,0,1,0,0,0
+Monongalia,52,House of Delegates,51,BUDDY A GUTHRIE,LIB,98,48,49,1,0,0
+Monongalia,58,House of Delegates,51,BUDDY A GUTHRIE,LIB,20,16,4,0,0,0
+Monongalia,59,House of Delegates,51,BUDDY A GUTHRIE,LIB,88,50,37,1,0,0
+Monongalia,61,House of Delegates,51,BUDDY A GUTHRIE,LIB,164,95,67,2,0,0
+Monongalia,63,House of Delegates,51,BUDDY A GUTHRIE,LIB,46,24,22,0,0,0
+Monongalia,64,House of Delegates,51,BUDDY A GUTHRIE,LIB,80,44,34,1,0,1
+Monongalia,67,House of Delegates,51,BUDDY A GUTHRIE,LIB,37,33,4,0,0,0
+Monongalia,68,House of Delegates,51,BUDDY A GUTHRIE,LIB,38,24,14,0,0,0
+Monongalia,71,House of Delegates,51,BUDDY A GUTHRIE,LIB,136,82,53,0,0,1
+Monongalia,74,House of Delegates,51,BUDDY A GUTHRIE,LIB,18,16,2,0,0,0
+Monongalia,76,House of Delegates,51,BUDDY A GUTHRIE,LIB,7,7,0,0,0,0
+Monongalia,77,House of Delegates,51,BUDDY A GUTHRIE,LIB,137,86,47,3,1,0
+Monongalia,78,House of Delegates,51,BUDDY A GUTHRIE,LIB,119,77,39,2,1,0
+Monongalia,79,House of Delegates,51,BUDDY A GUTHRIE,LIB,85,60,25,0,0,0
+Monongalia,81,House of Delegates,51,BUDDY A GUTHRIE,LIB,163,111,44,4,3,1
+Monongalia,82,House of Delegates,51,BUDDY A GUTHRIE,LIB,66,44,22,0,0,0
+Monongalia,83,House of Delegates,51,BUDDY A GUTHRIE,LIB,128,85,43,0,0,0
+Monongalia,86,House of Delegates,51,BUDDY A GUTHRIE,LIB,84,58,24,2,0,0
+Monongalia,Total,House of Delegates,51,BUDDY A GUTHRIE,LIB,3011,1959,1003,28,10,11
+Monongalia,1,House of Delegates,51,HARRY V BERTRAM,AFU,13,3,10,0,0,0
+Monongalia,2A,House of Delegates,51,HARRY V BERTRAM,AFU,30,19,11,0,0,0
+Monongalia,2B,House of Delegates,51,HARRY V BERTRAM,AFU,22,16,5,1,0,0
+Monongalia,10,House of Delegates,51,HARRY V BERTRAM,AFU,11,7,4,0,0,0
+Monongalia,13,House of Delegates,51,HARRY V BERTRAM,AFU,18,16,2,0,0,0
+Monongalia,16,House of Delegates,51,HARRY V BERTRAM,AFU,16,15,1,0,0,0
+Monongalia,23,House of Delegates,51,HARRY V BERTRAM,AFU,38,17,20,0,0,1
+Monongalia,25,House of Delegates,51,HARRY V BERTRAM,AFU,19,16,3,0,0,0
+Monongalia,26,House of Delegates,51,HARRY V BERTRAM,AFU,14,6,8,0,0,0
+Monongalia,30,House of Delegates,51,HARRY V BERTRAM,AFU,10,7,3,0,0,0
+Monongalia,32,House of Delegates,51,HARRY V BERTRAM,AFU,41,21,19,0,1,0
+Monongalia,33,House of Delegates,51,HARRY V BERTRAM,AFU,17,13,4,0,0,0
+Monongalia,35,House of Delegates,51,HARRY V BERTRAM,AFU,19,8,11,0,0,0
+Monongalia,36,House of Delegates,51,HARRY V BERTRAM,AFU,15,9,2,4,0,0
+Monongalia,38,House of Delegates,51,HARRY V BERTRAM,AFU,50,25,24,1,0,0
+Monongalia,41,House of Delegates,51,HARRY V BERTRAM,AFU,2,2,0,0,0,0
+Monongalia,44,House of Delegates,51,HARRY V BERTRAM,AFU,33,15,17,1,0,0
+Monongalia,47,House of Delegates,51,HARRY V BERTRAM,AFU,24,19,5,0,0,0
+Monongalia,48,House of Delegates,51,HARRY V BERTRAM,AFU,4,3,0,0,1,0
+Monongalia,51,House of Delegates,51,HARRY V BERTRAM,AFU,8,3,5,0,0,0
+Monongalia,51M,House of Delegates,51,HARRY V BERTRAM,AFU,1,1,0,0,0,0
+Monongalia,52,House of Delegates,51,HARRY V BERTRAM,AFU,31,10,20,1,0,0
+Monongalia,58,House of Delegates,51,HARRY V BERTRAM,AFU,9,6,2,1,0,0
+Monongalia,59,House of Delegates,51,HARRY V BERTRAM,AFU,21,10,11,0,0,0
+Monongalia,61,House of Delegates,51,HARRY V BERTRAM,AFU,41,22,19,0,0,0
+Monongalia,63,House of Delegates,51,HARRY V BERTRAM,AFU,10,2,7,1,0,0
+Monongalia,64,House of Delegates,51,HARRY V BERTRAM,AFU,39,19,19,0,0,1
+Monongalia,67,House of Delegates,51,HARRY V BERTRAM,AFU,21,19,2,0,0,0
+Monongalia,68,House of Delegates,51,HARRY V BERTRAM,AFU,25,13,12,0,0,0
+Monongalia,71,House of Delegates,51,HARRY V BERTRAM,AFU,101,49,52,0,0,0
+Monongalia,74,House of Delegates,51,HARRY V BERTRAM,AFU,18,13,5,0,0,0
+Monongalia,76,House of Delegates,51,HARRY V BERTRAM,AFU,2,2,0,0,0,0
+Monongalia,77,House of Delegates,51,HARRY V BERTRAM,AFU,42,26,16,0,0,0
+Monongalia,78,House of Delegates,51,HARRY V BERTRAM,AFU,32,21,9,2,0,0
+Monongalia,79,House of Delegates,51,HARRY V BERTRAM,AFU,32,22,10,0,0,0
+Monongalia,81,House of Delegates,51,HARRY V BERTRAM,AFU,40,23,16,0,1,0
+Monongalia,82,House of Delegates,51,HARRY V BERTRAM,AFU,16,11,5,0,0,0
+Monongalia,83,House of Delegates,51,HARRY V BERTRAM,AFU,37,23,14,0,0,0
+Monongalia,86,House of Delegates,51,HARRY V BERTRAM,AFU,20,17,2,1,0,0
+Monongalia,Total,House of Delegates,51,HARRY V BERTRAM,AFU,942,549,375,13,3,2
+Monongalia,1,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,2A,House of Delegates,51,WRITE-IN,,1,0,1,0,0,0
+Monongalia,2B,House of Delegates,51,WRITE-IN,,3,2,1,0,0,0
+Monongalia,10,House of Delegates,51,WRITE-IN,,7,2,5,0,0,0
+Monongalia,13,House of Delegates,51,WRITE-IN,,3,1,2,0,0,0
+Monongalia,16,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,23,House of Delegates,51,WRITE-IN,,5,3,0,0,0,2
+Monongalia,25,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,26,House of Delegates,51,WRITE-IN,,1,0,1,0,0,0
+Monongalia,30,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,32,House of Delegates,51,WRITE-IN,,2,1,1,0,0,0
+Monongalia,33,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,35,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,36,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,38,House of Delegates,51,WRITE-IN,,2,1,1,0,0,0
+Monongalia,41,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,44,House of Delegates,51,WRITE-IN,,6,6,0,0,0,0
+Monongalia,47,House of Delegates,51,WRITE-IN,,6,4,2,0,0,0
+Monongalia,48,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,51,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,51M,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,52,House of Delegates,51,WRITE-IN,,2,2,0,0,0,0
+Monongalia,58,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,59,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,61,House of Delegates,51,WRITE-IN,,3,2,1,0,0,0
+Monongalia,63,House of Delegates,51,WRITE-IN,,1,0,1,0,0,0
+Monongalia,64,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,67,House of Delegates,51,WRITE-IN,,2,2,0,0,0,0
+Monongalia,68,House of Delegates,51,WRITE-IN,,5,5,0,0,0,0
+Monongalia,71,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,74,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,76,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,77,House of Delegates,51,WRITE-IN,,7,3,4,0,0,0
+Monongalia,78,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
+Monongalia,79,House of Delegates,51,WRITE-IN,,3,3,0,0,0,0
+Monongalia,81,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
+Monongalia,82,House of Delegates,51,WRITE-IN,,1,0,1,0,0,0
+Monongalia,83,House of Delegates,51,WRITE-IN,,6,5,0,0,1,0
+Monongalia,86,House of Delegates,51,WRITE-IN,,6,6,0,0,0,0
+Monongalia,Total,House of Delegates,51,WRITE-IN,,79,55,21,0,1,2
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
