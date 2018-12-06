@@ -1,0 +1,153 @@
+county,precinct,office,district,party,candidate,votes
+Morgan,1,U.S. Senate,,REP,Patrick Morrisey,429
+Morgan,2,U.S. Senate,,REP,Patrick Morrisey,457
+Morgan,4,U.S. Senate,,REP,Patrick Morrisey,169
+Morgan,5,U.S. Senate,,REP,Patrick Morrisey,151
+Morgan,6,U.S. Senate,,REP,Patrick Morrisey,186
+Morgan,7,U.S. Senate,,REP,Patrick Morrisey,101
+Morgan,8,U.S. Senate,,REP,Patrick Morrisey,307
+Morgan,13,U.S. Senate,,REP,Patrick Morrisey,344
+Morgan,18,U.S. Senate,,REP,Patrick Morrisey,168
+Morgan,21,U.S. Senate,,REP,Patrick Morrisey,326
+Morgan,23,U.S. Senate,,REP,Patrick Morrisey,470
+Morgan,24,U.S. Senate,,REP,Patrick Morrisey,412
+Morgan,25,U.S. Senate,,REP,Patrick Morrisey,263
+Morgan,1,U.S. Senate,,DEM,Joseph Manchin III,269
+Morgan,2,U.S. Senate,,DEM,Joseph Manchin III,210
+Morgan,4,U.S. Senate,,DEM,Joseph Manchin III,75
+Morgan,5,U.S. Senate,,DEM,Joseph Manchin III,84
+Morgan,6,U.S. Senate,,DEM,Joseph Manchin III,115
+Morgan,7,U.S. Senate,,DEM,Joseph Manchin III,124
+Morgan,8,U.S. Senate,,DEM,Joseph Manchin III,165
+Morgan,13,U.S. Senate,,DEM,Joseph Manchin III,206
+Morgan,18,U.S. Senate,,DEM,Joseph Manchin III,114
+Morgan,21,U.S. Senate,,DEM,Joseph Manchin III,198
+Morgan,23,U.S. Senate,,DEM,Joseph Manchin III,189
+Morgan,24,U.S. Senate,,DEM,Joseph Manchin III,240
+Morgan,25,U.S. Senate,,DEM,Joseph Manchin III,154
+Morgan,1,U.S. Senate,,LIB,Rusty Hollen,33
+Morgan,2,U.S. Senate,,LIB,Rusty Hollen,35
+Morgan,4,U.S. Senate,,LIB,Rusty Hollen,18
+Morgan,5,U.S. Senate,,LIB,Rusty Hollen,9
+Morgan,6,U.S. Senate,,LIB,Rusty Hollen,11
+Morgan,7,U.S. Senate,,LIB,Rusty Hollen,9
+Morgan,8,U.S. Senate,,LIB,Rusty Hollen,27
+Morgan,13,U.S. Senate,,LIB,Rusty Hollen,25
+Morgan,18,U.S. Senate,,LIB,Rusty Hollen,12
+Morgan,21,U.S. Senate,,LIB,Rusty Hollen,24
+Morgan,23,U.S. Senate,,LIB,Rusty Hollen,26
+Morgan,24,U.S. Senate,,LIB,Rusty Hollen,27
+Morgan,25,U.S. Senate,,LIB,Rusty Hollen,22
+Morgan,1,U.S. Senate,,,Mark Brazaitis,0
+Morgan,2,U.S. Senate,,,Mark Brazaitis,0
+Morgan,4,U.S. Senate,,,Mark Brazaitis,0
+Morgan,5,U.S. Senate,,,Mark Brazaitis,0
+Morgan,6,U.S. Senate,,,Mark Brazaitis,0
+Morgan,7,U.S. Senate,,,Mark Brazaitis,0
+Morgan,8,U.S. Senate,,,Mark Brazaitis,0
+Morgan,13,U.S. Senate,,,Mark Brazaitis,0
+Morgan,18,U.S. Senate,,,Mark Brazaitis,0
+Morgan,21,U.S. Senate,,,Mark Brazaitis,1
+Morgan,23,U.S. Senate,,,Mark Brazaitis,0
+Morgan,24,U.S. Senate,,,Mark Brazaitis,0
+Morgan,25,U.S. Senate,,,Mark Brazaitis,0
+Morgan,1,U.S. House,2,REP,Alex X. Mooney,467
+Morgan,2,U.S. House,2,REP,Alex X. Mooney,482
+Morgan,4,U.S. House,2,REP,Alex X. Mooney,180
+Morgan,5,U.S. House,2,REP,Alex X. Mooney,170
+Morgan,6,U.S. House,2,REP,Alex X. Mooney,211
+Morgan,7,U.S. House,2,REP,Alex X. Mooney,116
+Morgan,8,U.S. House,2,REP,Alex X. Mooney,332
+Morgan,13,U.S. House,2,REP,Alex X. Mooney,380
+Morgan,18,U.S. House,2,REP,Alex X. Mooney,175
+Morgan,21,U.S. House,2,REP,Alex X. Mooney,345
+Morgan,23,U.S. House,2,REP,Alex X. Mooney,491
+Morgan,24,U.S. House,2,REP,Alex X. Mooney,449
+Morgan,25,U.S. House,2,REP,Alex X. Mooney,276
+Morgan,1,U.S. House,2,DEM,Talley Sergent,213
+Morgan,2,U.S. House,2,DEM,Talley Sergent,178
+Morgan,4,U.S. House,2,DEM,Talley Sergent,66
+Morgan,5,U.S. House,2,DEM,Talley Sergent,54
+Morgan,6,U.S. House,2,DEM,Talley Sergent,81
+Morgan,7,U.S. House,2,DEM,Talley Sergent,106
+Morgan,8,U.S. House,2,DEM,Talley Sergent,127
+Morgan,13,U.S. House,2,DEM,Talley Sergent,159
+Morgan,18,U.S. House,2,DEM,Talley Sergent,93
+Morgan,21,U.S. House,2,DEM,Talley Sergent,174
+Morgan,23,U.S. House,2,DEM,Talley Sergent,140
+Morgan,24,U.S. House,2,DEM,Talley Sergent,190
+Morgan,25,U.S. House,2,DEM,Talley Sergent,129
+Morgan,1,U.S. House,2,MTN,Danny Lutz,26
+Morgan,2,U.S. House,2,MTN,Danny Lutz,32
+Morgan,4,U.S. House,2,MTN,Danny Lutz,12
+Morgan,5,U.S. House,2,MTN,Danny Lutz,11
+Morgan,6,U.S. House,2,MTN,Danny Lutz,15
+Morgan,7,U.S. House,2,MTN,Danny Lutz,6
+Morgan,8,U.S. House,2,MTN,Danny Lutz,20
+Morgan,13,U.S. House,2,MTN,Danny Lutz,20
+Morgan,18,U.S. House,2,MTN,Danny Lutz,10
+Morgan,21,U.S. House,2,MTN,Danny Lutz,21
+Morgan,23,U.S. House,2,MTN,Danny Lutz,38
+Morgan,24,U.S. House,2,MTN,Danny Lutz,31
+Morgan,25,U.S. House,2,MTN,Danny Lutz,24
+Morgan,1,State Senate,15,REP,Charles S. Trump IV,527
+Morgan,2,State Senate,15,REP,Charles S. Trump IV,531
+Morgan,4,State Senate,15,REP,Charles S. Trump IV,209
+Morgan,5,State Senate,15,REP,Charles S. Trump IV,181
+Morgan,6,State Senate,15,REP,Charles S. Trump IV,243
+Morgan,7,State Senate,15,REP,Charles S. Trump IV,154
+Morgan,8,State Senate,15,REP,Charles S. Trump IV,371
+Morgan,13,State Senate,15,REP,Charles S. Trump IV,430
+Morgan,18,State Senate,15,REP,Charles S. Trump IV,214
+Morgan,21,State Senate,15,REP,Charles S. Trump IV,384
+Morgan,23,State Senate,15,REP,Charles S. Trump IV,540
+Morgan,24,State Senate,15,REP,Charles S. Trump IV,486
+Morgan,25,State Senate,15,REP,Charles S. Trump IV,328
+Morgan,1,State Senate,15,DEM,James A. Armentrout,165
+Morgan,2,State Senate,15,DEM,James A. Armentrout,144
+Morgan,4,State Senate,15,DEM,James A. Armentrout,51
+Morgan,5,State Senate,15,DEM,James A. Armentrout,53
+Morgan,6,State Senate,15,DEM,James A. Armentrout,64
+Morgan,7,State Senate,15,DEM,James A. Armentrout,69
+Morgan,8,State Senate,15,DEM,James A. Armentrout,116
+Morgan,13,State Senate,15,DEM,James A. Armentrout,126
+Morgan,18,State Senate,15,DEM,James A. Armentrout,63
+Morgan,21,State Senate,15,DEM,James A. Armentrout,131
+Morgan,23,State Senate,15,DEM,James A. Armentrout,114
+Morgan,24,State Senate,15,DEM,James A. Armentrout,155
+Morgan,25,State Senate,15,DEM,James A. Armentrout,90
+Morgan,1,State House,58,REP,Daryl E. Cowles,475
+Morgan,2,State House,58,REP,Daryl E. Cowles,477
+Morgan,4,State House,58,REP,Daryl E. Cowles,176
+Morgan,5,State House,58,REP,Daryl E. Cowles,162
+Morgan,6,State House,58,REP,Daryl E. Cowles,210
+Morgan,7,State House,58,REP,Daryl E. Cowles,123
+Morgan,8,State House,58,REP,Daryl E. Cowles,330
+Morgan,13,State House,58,REP,Daryl E. Cowles,390
+Morgan,18,State House,58,REP,Daryl E. Cowles,173
+Morgan,1,State House,58,DEM,Bibi Hahn,189
+Morgan,2,State House,58,DEM,Bibi Hahn,165
+Morgan,4,State House,58,DEM,Bibi Hahn,47
+Morgan,5,State House,58,DEM,Bibi Hahn,56
+Morgan,6,State House,58,DEM,Bibi Hahn,73
+Morgan,7,State House,58,DEM,Bibi Hahn,105
+Morgan,8,State House,58,DEM,Bibi Hahn,111
+Morgan,13,State House,58,DEM,Bibi Hahn,144
+Morgan,18,State House,58,DEM,Bibi Hahn,96
+Morgan,1,State House,58,IND,"Kent ""Brooks"" McCumbee",53
+Morgan,2,State House,58,IND,"Kent ""Brooks"" McCumbee",53
+Morgan,4,State House,58,IND,"Kent ""Brooks"" McCumbee",41
+Morgan,5,State House,58,IND,"Kent ""Brooks"" McCumbee",21
+Morgan,6,State House,58,IND,"Kent ""Brooks"" McCumbee",27
+Morgan,7,State House,58,IND,"Kent ""Brooks"" McCumbee",15
+Morgan,8,State House,58,IND,"Kent ""Brooks"" McCumbee",46
+Morgan,13,State House,58,IND,"Kent ""Brooks"" McCumbee",33
+Morgan,18,State House,58,IND,"Kent ""Brooks"" McCumbee",22
+Morgan,21,State House,59,REP,Larry D. Kump,327
+Morgan,23,State House,59,REP,Larry D. Kump,459
+Morgan,24,State House,59,REP,Larry D. Kump,424
+Morgan,25,State House,59,REP,Larry D. Kump,271
+Morgan,21,State House,59,DEM,John Isner,207
+Morgan,23,State House,59,DEM,John Isner,207
+Morgan,24,State House,59,DEM,John Isner,242
+Morgan,25,State House,59,DEM,John Isner,156
