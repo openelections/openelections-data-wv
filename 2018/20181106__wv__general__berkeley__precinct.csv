@@ -1,0 +1,1259 @@
+county,precinct,office,district,candidate,party,votes,early_voting,election_day
+Berkeley,1,REGISTERED VOTERS,,,,841,,
+Berkeley,2,REGISTERED VOTERS,,,,1402,,
+Berkeley,5,REGISTERED VOTERS,,,,753,,
+Berkeley,6,REGISTERED VOTERS,,,,645,,
+Berkeley,7,REGISTERED VOTERS,,,,1550,,
+Berkeley,8,REGISTERED VOTERS,,,,593,,
+Berkeley,9,REGISTERED VOTERS,,,,1170,,
+Berkeley,10,REGISTERED VOTERS,,,,1088,,
+Berkeley,11,REGISTERED VOTERS,,,,814,,
+Berkeley,12,REGISTERED VOTERS,,,,866,,
+Berkeley,13,REGISTERED VOTERS,,,,1353,,
+Berkeley,14,REGISTERED VOTERS,,,,755,,
+Berkeley,15,REGISTERED VOTERS,,,,889,,
+Berkeley,16,REGISTERED VOTERS,,,,1636,,
+Berkeley,17,REGISTERED VOTERS,,,,1659,,
+Berkeley,18,REGISTERED VOTERS,,,,1484,,
+Berkeley,18A,REGISTERED VOTERS,,,,1725,,
+Berkeley,19,REGISTERED VOTERS,,,,908,,
+Berkeley,20,REGISTERED VOTERS,,,,1006,,
+Berkeley,21,REGISTERED VOTERS,,,,1909,,
+Berkeley,22,REGISTERED VOTERS,,,,494,,
+Berkeley,22A,REGISTERED VOTERS,,,,412,,
+Berkeley,23,REGISTERED VOTERS,,,,1696,,
+Berkeley,24,REGISTERED VOTERS,,,,992,,
+Berkeley,25,REGISTERED VOTERS,,,,408,,
+Berkeley,26,REGISTERED VOTERS,,,,1014,,
+Berkeley,27,REGISTERED VOTERS,,,,960,,
+Berkeley,28,REGISTERED VOTERS,,,,1501,,
+Berkeley,29,REGISTERED VOTERS,,,,1870,,
+Berkeley,30,REGISTERED VOTERS,,,,1077,,
+Berkeley,32,REGISTERED VOTERS,,,,516,,
+Berkeley,34,REGISTERED VOTERS,,,,1604,,
+Berkeley,35,REGISTERED VOTERS,,,,1600,,
+Berkeley,36,REGISTERED VOTERS,,,,1951,,
+Berkeley,38,REGISTERED VOTERS,,,,738,,
+Berkeley,39,REGISTERED VOTERS,,,,1429,,
+Berkeley,40,REGISTERED VOTERS,,,,751,,
+Berkeley,41,REGISTERED VOTERS,,,,1696,,
+Berkeley,42,REGISTERED VOTERS,,,,1002,,
+Berkeley,43,REGISTERED VOTERS,,,,1193,,
+Berkeley,43A,REGISTERED VOTERS,,,,1122,,
+Berkeley,44,REGISTERED VOTERS,,,,712,,
+Berkeley,45,REGISTERED VOTERS,,,,822,,
+Berkeley,46,REGISTERED VOTERS,,,,849,,
+Berkeley,46A,REGISTERED VOTERS,,,,1347,,
+Berkeley,47,REGISTERED VOTERS,,,,1185,,
+Berkeley,48,REGISTERED VOTERS,,,,1734,,
+Berkeley,49,REGISTERED VOTERS,,,,518,,
+Berkeley,50,REGISTERED VOTERS,,,,1650,,
+Berkeley,51,REGISTERED VOTERS,,,,1091,,
+Berkeley,51A,REGISTERED VOTERS,,,,1346,,
+Berkeley,52,REGISTERED VOTERS,,,,1779,,
+Berkeley,53,REGISTERED VOTERS,,,,1509,,
+Berkeley,54,REGISTERED VOTERS,,,,1044,,
+Berkeley,55,REGISTERED VOTERS,,,,1502,,
+Berkeley,56,REGISTERED VOTERS,,,,510,,
+Berkeley,105,REGISTERED VOTERS,,,,1639,,
+Berkeley,106,REGISTERED VOTERS,,,,751,,
+Berkeley,107,REGISTERED VOTERS,,,,1631,,
+Berkeley,108,REGISTERED VOTERS,,,,454,,
+Berkeley,110,REGISTERED VOTERS,,,,1651,,
+Berkeley,111,REGISTERED VOTERS,,,,2094,,
+Berkeley,112,REGISTERED VOTERS,,,,1517,,
+Berkeley,113,REGISTERED VOTERS,,,,1233,,
+Berkeley,114,REGISTERED VOTERS,,,,1156,,
+Berkeley,115,REGISTERED VOTERS,,,,857,,
+Berkeley,Total,REGISTERED VOTERS,,,,155306,,
+Berkeley,1,BALLOTS CAST,,,,318,99,219
+Berkeley,2,BALLOTS CAST,,,,692,251,441
+Berkeley,5,BALLOTS CAST,,,,271,124,147
+Berkeley,6,BALLOTS CAST,,,,187,61,126
+Berkeley,7,BALLOTS CAST,,,,405,181,224
+Berkeley,8,BALLOTS CAST,,,,298,112,186
+Berkeley,9,BALLOTS CAST,,,,569,269,300
+Berkeley,10,BALLOTS CAST,,,,511,199,312
+Berkeley,11,BALLOTS CAST,,,,474,208,266
+Berkeley,12,BALLOTS CAST,,,,412,141,271
+Berkeley,13,BALLOTS CAST,,,,740,262,478
+Berkeley,14,BALLOTS CAST,,,,262,75,187
+Berkeley,15,BALLOTS CAST,,,,245,108,137
+Berkeley,16,BALLOTS CAST,,,,731,233,498
+Berkeley,17,BALLOTS CAST,,,,571,200,371
+Berkeley,18,BALLOTS CAST,,,,540,204,336
+Berkeley,18A,BALLOTS CAST,,,,833,241,592
+Berkeley,19,BALLOTS CAST,,,,481,131,350
+Berkeley,20,BALLOTS CAST,,,,475,94,381
+Berkeley,21,BALLOTS CAST,,,,980,417,563
+Berkeley,22,BALLOTS CAST,,,,329,151,178
+Berkeley,22A,BALLOTS CAST,,,,239,83,156
+Berkeley,23,BALLOTS CAST,,,,626,187,439
+Berkeley,24,BALLOTS CAST,,,,308,105,203
+Berkeley,25,BALLOTS CAST,,,,267,136,131
+Berkeley,26,BALLOTS CAST,,,,382,123,259
+Berkeley,27,BALLOTS CAST,,,,551,192,359
+Berkeley,28,BALLOTS CAST,,,,735,264,471
+Berkeley,29,BALLOTS CAST,,,,858,392,466
+Berkeley,30,BALLOTS CAST,,,,501,112,389
+Berkeley,32,BALLOTS CAST,,,,158,62,96
+Berkeley,34,BALLOTS CAST,,,,712,238,474
+Berkeley,35,BALLOTS CAST,,,,679,223,456
+Berkeley,36,BALLOTS CAST,,,,745,147,598
+Berkeley,38,BALLOTS CAST,,,,442,212,230
+Berkeley,39,BALLOTS CAST,,,,781,292,489
+Berkeley,40,BALLOTS CAST,,,,345,106,239
+Berkeley,41,BALLOTS CAST,,,,799,215,584
+Berkeley,42,BALLOTS CAST,,,,433,103,330
+Berkeley,43,BALLOTS CAST,,,,544,136,408
+Berkeley,43A,BALLOTS CAST,,,,474,103,371
+Berkeley,44,BALLOTS CAST,,,,341,84,257
+Berkeley,45,BALLOTS CAST,,,,395,117,278
+Berkeley,46,BALLOTS CAST,,,,352,96,256
+Berkeley,46A,BALLOTS CAST,,,,586,225,361
+Berkeley,47,BALLOTS CAST,,,,573,146,427
+Berkeley,48,BALLOTS CAST,,,,973,303,670
+Berkeley,49,BALLOTS CAST,,,,273,91,182
+Berkeley,50,BALLOTS CAST,,,,797,311,486
+Berkeley,51,BALLOTS CAST,,,,496,71,425
+Berkeley,51A,BALLOTS CAST,,,,596,124,472
+Berkeley,52,BALLOTS CAST,,,,747,182,565
+Berkeley,53,BALLOTS CAST,,,,504,135,369
+Berkeley,54,BALLOTS CAST,,,,483,117,366
+Berkeley,55,BALLOTS CAST,,,,734,258,476
+Berkeley,56,BALLOTS CAST,,,,203,50,153
+Berkeley,105,BALLOTS CAST,,,,638,175,463
+Berkeley,106,BALLOTS CAST,,,,355,99,256
+Berkeley,107,BALLOTS CAST,,,,725,200,525
+Berkeley,108,BALLOTS CAST,,,,153,58,95
+Berkeley,110,BALLOTS CAST,,,,751,320,431
+Berkeley,111,BALLOTS CAST,,,,891,242,649
+Berkeley,112,BALLOTS CAST,,,,645,232,413
+Berkeley,113,BALLOTS CAST,,,,491,142,349
+Berkeley,114,BALLOTS CAST,,,,468,110,358
+Berkeley,115,BALLOTS CAST,,,,377,67,310
+Berkeley,Total,BALLOTS CAST,,,,68900,22294,46606
+Berkeley,1,U.S. Senate,,PATRICK  MORRISEY,REP,131,26,105
+Berkeley,2,U.S. Senate,,PATRICK  MORRISEY,REP,289,96,193
+Berkeley,5,U.S. Senate,,PATRICK  MORRISEY,REP,120,57,63
+Berkeley,6,U.S. Senate,,PATRICK  MORRISEY,REP,61,16,45
+Berkeley,7,U.S. Senate,,PATRICK  MORRISEY,REP,119,46,71
+Berkeley,8,U.S. Senate,,PATRICK  MORRISEY,REP,121,38,83
+Berkeley,9,U.S. Senate,,PATRICK  MORRISEY,REP,189,87,102
+Berkeley,10,U.S. Senate,,PATRICK  MORRISEY,REP,192,70,122
+Berkeley,11,U.S. Senate,,PATRICK  MORRISEY,REP,192,74,118
+Berkeley,12,U.S. Senate,,PATRICK  MORRISEY,REP,231,75,156
+Berkeley,13,U.S. Senate,,PATRICK  MORRISEY,REP,360,126,234
+Berkeley,14,U.S. Senate,,PATRICK  MORRISEY,REP,111,26,85
+Berkeley,15,U.S. Senate,,PATRICK  MORRISEY,REP,72,28,44
+Berkeley,16,U.S. Senate,,PATRICK  MORRISEY,REP,295,102,193
+Berkeley,17,U.S. Senate,,PATRICK  MORRISEY,REP,235,91,144
+Berkeley,18,U.S. Senate,,PATRICK  MORRISEY,REP,265,104,161
+Berkeley,18A,U.S. Senate,,PATRICK  MORRISEY,REP,409,107,302
+Berkeley,19,U.S. Senate,,PATRICK  MORRISEY,REP,293,84,209
+Berkeley,20,U.S. Senate,,PATRICK  MORRISEY,REP,309,59,250
+Berkeley,21,U.S. Senate,,PATRICK  MORRISEY,REP,494,211,283
+Berkeley,22,U.S. Senate,,PATRICK  MORRISEY,REP,155,66,89
+Berkeley,22A,U.S. Senate,,PATRICK  MORRISEY,REP,146,56,90
+Berkeley,23,U.S. Senate,,PATRICK  MORRISEY,REP,354,103,251
+Berkeley,24,U.S. Senate,,PATRICK  MORRISEY,REP,154,45,109
+Berkeley,25,U.S. Senate,,PATRICK  MORRISEY,REP,136,69,67
+Berkeley,26,U.S. Senate,,PATRICK  MORRISEY,REP,210,72,138
+Berkeley,27,U.S. Senate,,PATRICK  MORRISEY,REP,267,95,172
+Berkeley,28,U.S. Senate,,PATRICK  MORRISEY,REP,388,133,255
+Berkeley,29,U.S. Senate,,PATRICK  MORRISEY,REP,428,191,237
+Berkeley,30,U.S. Senate,,PATRICK  MORRISEY,REP,326,62,264
+Berkeley,32,U.S. Senate,,PATRICK  MORRISEY,REP,73,33,40
+Berkeley,34,U.S. Senate,,PATRICK  MORRISEY,REP,395,128,267
+Berkeley,35,U.S. Senate,,PATRICK  MORRISEY,REP,401,132,269
+Berkeley,36,U.S. Senate,,PATRICK  MORRISEY,REP,421,81,340
+Berkeley,38,U.S. Senate,,PATRICK  MORRISEY,REP,243,118,125
+Berkeley,39,U.S. Senate,,PATRICK  MORRISEY,REP,402,134,268
+Berkeley,40,U.S. Senate,,PATRICK  MORRISEY,REP,204,56,148
+Berkeley,41,U.S. Senate,,PATRICK  MORRISEY,REP,499,131,368
+Berkeley,42,U.S. Senate,,PATRICK  MORRISEY,REP,265,57,208
+Berkeley,43,U.S. Senate,,PATRICK  MORRISEY,REP,331,76,255
+Berkeley,43A,U.S. Senate,,PATRICK  MORRISEY,REP,269,59,210
+Berkeley,44,U.S. Senate,,PATRICK  MORRISEY,REP,204,52,152
+Berkeley,45,U.S. Senate,,PATRICK  MORRISEY,REP,254,71,183
+Berkeley,46,U.S. Senate,,PATRICK  MORRISEY,REP,222,60,162
+Berkeley,46A,U.S. Senate,,PATRICK  MORRISEY,REP,375,149,226
+Berkeley,47,U.S. Senate,,PATRICK  MORRISEY,REP,431,116,315
+Berkeley,48,U.S. Senate,,PATRICK  MORRISEY,REP,490,130,360
+Berkeley,49,U.S. Senate,,PATRICK  MORRISEY,REP,149,39,110
+Berkeley,50,U.S. Senate,,PATRICK  MORRISEY,REP,476,169,307
+Berkeley,51,U.S. Senate,,PATRICK  MORRISEY,REP,290,47,243
+Berkeley,51A,U.S. Senate,,PATRICK  MORRISEY,REP,358,66,292
+Berkeley,52,U.S. Senate,,PATRICK  MORRISEY,REP,428,99,329
+Berkeley,53,U.S. Senate,,PATRICK  MORRISEY,REP,233,50,183
+Berkeley,54,U.S. Senate,,PATRICK  MORRISEY,REP,284,62,222
+Berkeley,55,U.S. Senate,,PATRICK  MORRISEY,REP,407,139,268
+Berkeley,56,U.S. Senate,,PATRICK  MORRISEY,REP,89,25,64
+Berkeley,105,U.S. Senate,,PATRICK  MORRISEY,REP,378,103,275
+Berkeley,106,U.S. Senate,,PATRICK  MORRISEY,REP,188,51,137
+Berkeley,107,U.S. Senate,,PATRICK  MORRISEY,REP,309,81,228
+Berkeley,108,U.S. Senate,,PATRICK  MORRISEY,REP,84,33,51
+Berkeley,110,U.S. Senate,,PATRICK  MORRISEY,REP,353,138,215
+Berkeley,111,U.S. Senate,,PATRICK  MORRISEY,REP,496,119,377
+Berkeley,112,U.S. Senate,,PATRICK  MORRISEY,REP,305,114,191
+Berkeley,113,U.S. Senate,,PATRICK  MORRISEY,REP,276,81,195
+Berkeley,114,U.S. Senate,,PATRICK  MORRISEY,REP,247,53,194
+Berkeley,115,U.S. Senate,,PATRICK  MORRISEY,REP,230,46,184
+Berkeley,Total,U.S. Senate,,PATRICK  MORRISEY,REP,36222,11028,25192
+Berkeley,1,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,157,61,96
+Berkeley,2,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,356,141,215
+Berkeley,5,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,127,54,73
+Berkeley,6,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,108,39,69
+Berkeley,7,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,248,118,130
+Berkeley,8,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,162,70,92
+Berkeley,9,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,344,166,178
+Berkeley,10,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,289,119,170
+Berkeley,11,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,256,122,134
+Berkeley,12,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,151,57,94
+Berkeley,13,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,342,120,222
+Berkeley,14,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,139,43,96
+Berkeley,15,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,146,66,80
+Berkeley,16,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,390,115,275
+Berkeley,17,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,293,96,197
+Berkeley,18,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,237,92,145
+Berkeley,18A,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,374,124,250
+Berkeley,19,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,166,42,124
+Berkeley,20,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,150,33,117
+Berkeley,21,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,450,189,261
+Berkeley,22,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,166,84,82
+Berkeley,22A,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,83,26,57
+Berkeley,23,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,245,78,167
+Berkeley,24,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,129,46,83
+Berkeley,25,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,121,62,59
+Berkeley,26,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,156,48,108
+Berkeley,27,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,258,88,170
+Berkeley,28,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,306,118,188
+Berkeley,29,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,379,176,203
+Berkeley,30,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,159,47,112
+Berkeley,32,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,69,25,44
+Berkeley,34,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,293,101,192
+Berkeley,35,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,236,80,156
+Berkeley,36,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,279,62,217
+Berkeley,38,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,180,89,91
+Berkeley,39,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,339,142,197
+Berkeley,40,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,131,45,86
+Berkeley,41,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,270,78,192
+Berkeley,42,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,140,38,102
+Berkeley,43,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,186,57,129
+Berkeley,43A,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,184,37,147
+Berkeley,44,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,115,30,85
+Berkeley,45,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,124,42,82
+Berkeley,46,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,117,30,87
+Berkeley,46A,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,187,70,117
+Berkeley,47,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,123,27,96
+Berkeley,48,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,434,160,274
+Berkeley,49,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,104,46,58
+Berkeley,50,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,288,130,158
+Berkeley,51,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,183,18,165
+Berkeley,51A,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,212,52,160
+Berkeley,52,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,285,72,213
+Berkeley,53,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,245,78,167
+Berkeley,54,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,175,50,125
+Berkeley,55,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,292,111,181
+Berkeley,56,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,104,22,82
+Berkeley,105,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,237,69,168
+Berkeley,106,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,145,41,104
+Berkeley,107,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,371,105,266
+Berkeley,108,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,52,20,32
+Berkeley,110,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,368,165,203
+Berkeley,111,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,350,109,241
+Berkeley,112,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,289,99,190
+Berkeley,113,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,187,56,131
+Berkeley,114,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,194,54,140
+Berkeley,115,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,133,21,112
+Berkeley,Total,U.S. Senate,,"JOSEPH   MANCHIN,  III",DEM,29016,10142,18874
+Berkeley,1,U.S. Senate,,RUSTY HOLLEN,LIB,27,11,16
+Berkeley,2,U.S. Senate,,RUSTY HOLLEN,LIB,36,10,26
+Berkeley,5,U.S. Senate,,RUSTY HOLLEN,LIB,16,8,8
+Berkeley,6,U.S. Senate,,RUSTY HOLLEN,LIB,12,5,7
+Berkeley,7,U.S. Senate,,RUSTY HOLLEN,LIB,31,13,18
+Berkeley,8,U.S. Senate,,RUSTY HOLLEN,LIB,10,3,7
+Berkeley,9,U.S. Senate,,RUSTY HOLLEN,LIB,30,14,16
+Berkeley,10,U.S. Senate,,RUSTY HOLLEN,LIB,25,7,18
+Berkeley,11,U.S. Senate,,RUSTY HOLLEN,LIB,20,6,14
+Berkeley,12,U.S. Senate,,RUSTY HOLLEN,LIB,20,5,15
+Berkeley,13,U.S. Senate,,RUSTY HOLLEN,LIB,31,11,20
+Berkeley,14,U.S. Senate,,RUSTY HOLLEN,LIB,9,3,6
+Berkeley,15,U.S. Senate,,RUSTY HOLLEN,LIB,20,8,12
+Berkeley,16,U.S. Senate,,RUSTY HOLLEN,LIB,38,14,24
+Berkeley,17,U.S. Senate,,RUSTY HOLLEN,LIB,33,10,23
+Berkeley,18,U.S. Senate,,RUSTY HOLLEN,LIB,24,6,18
+Berkeley,18A,U.S. Senate,,RUSTY HOLLEN,LIB,39,7,32
+Berkeley,19,U.S. Senate,,RUSTY HOLLEN,LIB,21,5,16
+Berkeley,20,U.S. Senate,,RUSTY HOLLEN,LIB,7,1,6
+Berkeley,21,U.S. Senate,,RUSTY HOLLEN,LIB,26,12,14
+Berkeley,22,U.S. Senate,,RUSTY HOLLEN,LIB,6,0,6
+Berkeley,22A,U.S. Senate,,RUSTY HOLLEN,LIB,8,0,8
+Berkeley,23,U.S. Senate,,RUSTY HOLLEN,LIB,20,2,18
+Berkeley,24,U.S. Senate,,RUSTY HOLLEN,LIB,19,10,9
+Berkeley,25,U.S. Senate,,RUSTY HOLLEN,LIB,7,3,4
+Berkeley,26,U.S. Senate,,RUSTY HOLLEN,LIB,13,2,11
+Berkeley,27,U.S. Senate,,RUSTY HOLLEN,LIB,22,8,14
+Berkeley,28,U.S. Senate,,RUSTY HOLLEN,LIB,29,9,20
+Berkeley,29,U.S. Senate,,RUSTY HOLLEN,LIB,39,19,20
+Berkeley,30,U.S. Senate,,RUSTY HOLLEN,LIB,14,3,11
+Berkeley,32,U.S. Senate,,RUSTY HOLLEN,LIB,12,3,9
+Berkeley,34,U.S. Senate,,RUSTY HOLLEN,LIB,19,7,12
+Berkeley,35,U.S. Senate,,RUSTY HOLLEN,LIB,32,7,25
+Berkeley,36,U.S. Senate,,RUSTY HOLLEN,LIB,34,2,32
+Berkeley,38,U.S. Senate,,RUSTY HOLLEN,LIB,17,5,12
+Berkeley,39,U.S. Senate,,RUSTY HOLLEN,LIB,27,10,17
+Berkeley,40,U.S. Senate,,RUSTY HOLLEN,LIB,6,3,3
+Berkeley,41,U.S. Senate,,RUSTY HOLLEN,LIB,23,5,18
+Berkeley,42,U.S. Senate,,RUSTY HOLLEN,LIB,24,7,17
+Berkeley,43,U.S. Senate,,RUSTY HOLLEN,LIB,20,1,19
+Berkeley,43A,U.S. Senate,,RUSTY HOLLEN,LIB,18,6,12
+Berkeley,44,U.S. Senate,,RUSTY HOLLEN,LIB,19,1,18
+Berkeley,45,U.S. Senate,,RUSTY HOLLEN,LIB,14,2,12
+Berkeley,46,U.S. Senate,,RUSTY HOLLEN,LIB,10,4,6
+Berkeley,46A,U.S. Senate,,RUSTY HOLLEN,LIB,20,4,16
+Berkeley,47,U.S. Senate,,RUSTY HOLLEN,LIB,16,1,15
+Berkeley,48,U.S. Senate,,RUSTY HOLLEN,LIB,38,9,29
+Berkeley,49,U.S. Senate,,RUSTY HOLLEN,LIB,14,2,12
+Berkeley,50,U.S. Senate,,RUSTY HOLLEN,LIB,20,7,13
+Berkeley,51,U.S. Senate,,RUSTY HOLLEN,LIB,19,5,14
+Berkeley,51A,U.S. Senate,,RUSTY HOLLEN,LIB,22,4,18
+Berkeley,52,U.S. Senate,,RUSTY HOLLEN,LIB,28,10,18
+Berkeley,53,U.S. Senate,,RUSTY HOLLEN,LIB,20,5,15
+Berkeley,54,U.S. Senate,,RUSTY HOLLEN,LIB,18,3,15
+Berkeley,55,U.S. Senate,,RUSTY HOLLEN,LIB,29,7,22
+Berkeley,56,U.S. Senate,,RUSTY HOLLEN,LIB,9,3,6
+Berkeley,105,U.S. Senate,,RUSTY HOLLEN,LIB,19,3,16
+Berkeley,106,U.S. Senate,,RUSTY HOLLEN,LIB,15,5,10
+Berkeley,107,U.S. Senate,,RUSTY HOLLEN,LIB,38,12,26
+Berkeley,108,U.S. Senate,,RUSTY HOLLEN,LIB,13,2,11
+Berkeley,110,U.S. Senate,,RUSTY HOLLEN,LIB,25,15,10
+Berkeley,111,U.S. Senate,,RUSTY HOLLEN,LIB,31,9,22
+Berkeley,112,U.S. Senate,,RUSTY HOLLEN,LIB,41,14,27
+Berkeley,113,U.S. Senate,,RUSTY HOLLEN,LIB,21,3,18
+Berkeley,114,U.S. Senate,,RUSTY HOLLEN,LIB,22,2,20
+Berkeley,115,U.S. Senate,,RUSTY HOLLEN,LIB,11,0,11
+Berkeley,Total,U.S. Senate,,RUSTY HOLLEN,LIB,2832,806,2026
+Berkeley,1,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,2,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,5,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,6,U.S. Senate,,WRITE-IN,,4,1,3
+Berkeley,7,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,8,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,9,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,10,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,11,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,12,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,13,U.S. Senate,,WRITE-IN,,2,2,0
+Berkeley,14,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,15,U.S. Senate,,WRITE-IN,,4,4,0
+Berkeley,16,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,17,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,18,U.S. Senate,,WRITE-IN,,3,0,3
+Berkeley,18A,U.S. Senate,,WRITE-IN,,3,1,2
+Berkeley,19,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,20,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,21,U.S. Senate,,WRITE-IN,,4,1,3
+Berkeley,22,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,22A,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,23,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,24,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,25,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,26,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,27,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,28,U.S. Senate,,WRITE-IN,,4,1,3
+Berkeley,29,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,30,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,32,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,34,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,35,U.S. Senate,,WRITE-IN,,3,2,1
+Berkeley,36,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,38,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,39,U.S. Senate,,WRITE-IN,,5,2,3
+Berkeley,40,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,41,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,42,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,43,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,43A,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,44,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,45,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,46,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,46A,U.S. Senate,,WRITE-IN,,2,2,0
+Berkeley,47,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,48,U.S. Senate,,WRITE-IN,,2,1,1
+Berkeley,49,U.S. Senate,,WRITE-IN,,2,2,0
+Berkeley,50,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,51,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,51A,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,52,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,53,U.S. Senate,,WRITE-IN,,2,0,2
+Berkeley,54,U.S. Senate,,WRITE-IN,,3,2,1
+Berkeley,55,U.S. Senate,,WRITE-IN,,2,1,1
+Berkeley,56,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,105,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,106,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,107,U.S. Senate,,WRITE-IN,,2,1,1
+Berkeley,108,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,110,U.S. Senate,,WRITE-IN,,1,1,0
+Berkeley,111,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,112,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,113,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,114,U.S. Senate,,WRITE-IN,,1,0,1
+Berkeley,115,U.S. Senate,,WRITE-IN,,0,0,0
+Berkeley,Total,U.S. Senate,,WRITE-IN,,156,62,94
+Berkeley,1,U.S. House,2,ALEX X.  MOONEY,REP,150,38,112
+Berkeley,2,U.S. House,2,ALEX X. MOONEY,REP,313,107,206
+Berkeley,5,U.S. House,2,ALEX X. MOONEY,REP,139,60,79
+Berkeley,6,U.S. House,2,ALEX X. MOONEY,REP,66,18,48
+Berkeley,7,U.S. House,2,ALEX X.  MOONEY,REP,131,60,71
+Berkeley,8,U.S. House,2,ALEX X. MOONEY,REP,144,41,103
+Berkeley,9,U.S. House,2,ALEX X. MOONEY,REP,243,114,129
+Berkeley,10,U.S. House,2,ALEX X. MOONEY,REP,227,90,137
+Berkeley,11,U.S. House,2,ALEX X. MOONEY,REP,227,85,142
+Berkeley,12,U.S. House,2,ALEX X. MOONEY,REP,257,82,175
+Berkeley,13,U.S. House,2,ALEX X. MOONEY,REP,420,135,285
+Berkeley,14,U.S. House,2,ALEX X. MOONEY,REP,116,27,89
+Berkeley,15,U.S. House,2,ALEX X. MOONEY,REP,76,33,43
+Berkeley,16,U.S. House,2,ALEX X. MOONEY,REP,342,112,230
+Berkeley,17,U.S. House,2,ALEX X. MOONEY,REP,270,104,166
+Berkeley,18,U.S. House,2,ALEX X. MOONEY,REP,290,112,178
+Berkeley,18A,U.S. House,2,ALEX X. MOONEY,REP,451,119,332
+Berkeley,19,U.S. House,2,ALEX X. MOONEY,REP,335,91,244
+Berkeley,20,U.S. House,2,ALEX X. MOONEY,REP,334,61,273
+Berkeley,21,U.S. House,2,ALEX X. MOONEY,REP,572,240,332
+Berkeley,22,U.S. House,2,ALEX X.  MOONEY,REP,188,83,105
+Berkeley,22A,U.S. House,2,ALEX X. MOONEY,REP,156,58,98
+Berkeley,23,U.S. House,2,ALEX X. MOONEY,REP,370,101,269
+Berkeley,24,U.S. House,2,ALEX X.  MOONEY,REP,178,55,123
+Berkeley,25,U.S. House,2,ALEX X. MOONEY,REP,161,81,80
+Berkeley,26,U.S. House,2,ALEX X. MOONEY,REP,233,76,157
+Berkeley,27,U.S. House,2,ALEX X. MOONEY,REP,293,103,190
+Berkeley,28,U.S. House,2,ALEX X. MOONEY,REP,421,147,274
+Berkeley,29,U.S. House,2,ALEX X. MOONEY,REP,501,230,271
+Berkeley,30,U.S. House,2,ALEX X. MOONEY,REP,340,64,276
+Berkeley,32,U.S. House,2,ALEX X. MOONEY,REP,77,36,41
+Berkeley,34,U.S. House,2,ALEX X. MOONEY,REP,449,148,301
+Berkeley,35,U.S. House,2,ALEX X.  MOONEY,REP,423,140,283
+Berkeley,36,U.S. House,2,ALEX X. MOONEY,REP,449,80,369
+Berkeley,38,U.S. House,2,ALEX X. MOONEY,REP,278,134,144
+Berkeley,39,U.S. House,2,ALEX X. MOONEY,REP,474,162,312
+Berkeley,40,U.S. House,2,ALEX X.  MOONEY,REP,223,67,156
+Berkeley,41,U.S. House,2,ALEX X.  MOONEY,REP,558,151,407
+Berkeley,42,U.S. House,2,ALEX X. MOONEY,REP,290,62,228
+Berkeley,43,U.S. House,2,ALEX X. MOONEY,REP,354,84,270
+Berkeley,43A,U.S. House,2,ALEX X. MOONEY,REP,290,64,226
+Berkeley,44,U.S. House,2,ALEX X. MOONEY,REP,217,54,163
+Berkeley,45,U.S. House,2,ALEX X. MOONEY,REP,279,77,202
+Berkeley,46,U.S. House,2,ALEX X. MOONEY,REP,243,67,176
+Berkeley,46A,U.S. House,2,ALEX X. MOONEY,REP,403,158,245
+Berkeley,47,U.S. House,2,ALEX X. MOONEY,REP,442,117,325
+Berkeley,48,U.S. House,2,ALEX X. MOONEY,REP,545,146,399
+Berkeley,49,U.S. House,2,ALEX X.  MOONEY,REP,170,44,126
+Berkeley,50,U.S. House,2,ALEX X. MOONEY,REP,538,195,343
+Berkeley,51,U.S. House,2,ALEX X. MOONEY,REP,317,47,270
+Berkeley,51A,U.S. House,2,ALEX X. MOONEY,REP,401,72,329
+Berkeley,52,U.S. House,2,ALEX X. MOONEY,REP,487,109,378
+Berkeley,53,U.S. House,2,ALEX X.  ROONEY,REP,259,56,203
+Berkeley,54,U.S. House,2,ALEX X. MOONEY,REP,319,69,250
+Berkeley,55,U.S. House,2,ALEX X. MOONEY,REP,462,156,306
+Berkeley,56,U.S. House,2,ALEX X. MOONEY,REP,93,26,67
+Berkeley,105,U.S. House,2,ALEX X   MOONEY,REP,411,106,305
+Berkeley,106,U.S. House,2,ALEX X. MOONEY,REP,213,62,151
+Berkeley,107,U.S. House,2,ALEX X. MOONEY,REP,342,91,251
+Berkeley,108,U.S. House,2,ALEX X. MOONEY,REP,88,35,53
+Berkeley,110,U.S. House,2,ALEX X. MOONEY,REP,387,153,234
+Berkeley,111,U.S. House,2,ALEX X. MOONEY,REP,537,131,406
+Berkeley,112,U.S. House,2,ALEX X.  MOONEY,REP,338,129,209
+Berkeley,113,U.S. House,2,ALEX X. MOONEY,REP,299,94,205
+Berkeley,114,U.S. House,2,ALEX X. MOONEY,REP,281,62,219
+Berkeley,115,U.S. House,2,ALEX X. MOONEY,REP,249,50,199
+Berkeley,Total,U.S. House,2,ALEX X. MOONEY,REP,20129,6161,13968
+Berkeley,1,U.S. House,2,TALLEY SERGENT,DEM,135,52,83
+Berkeley,2,U.S. House,2,TALLEY SERGENT,DEM,346,134,212
+Berkeley,5,U.S. House,2,TALLEY SERGENT,DEM,104,45,59
+Berkeley,6,U.S. House,2,TALLEY SERGENT,DEM,103,37,66
+Berkeley,7,U.S. House,2,TALLEY SERGENT,DEM,232,105,127
+Berkeley,8,U.S. House,2,TALLEY SERGENT,DEM,130,62,68
+Berkeley,9,U.S. House,2,TALLEY SERGENT,DEM,274,134,140
+Berkeley,10,U.S. House,2,TALLEY SERGENT,DEM,247,96,151
+Berkeley,11,U.S. House,2,TALLEY SERGENT,DEM,213,110,103
+Berkeley,12,U.S. House,2,TALLEY SERGENT,DEM,128,52,76
+Berkeley,13,U.S. House,2,TALLEY SERGENT,DEM,266,109,157
+Berkeley,14,U.S. House,2,TALLEY SERGENT,DEM,130,44,86
+Berkeley,15,U.S. House,2,TALLEY SERGENT,DEM,144,60,84
+Berkeley,16,U.S. House,2,TALLEY SERGENT,DEM,337,104,233
+Berkeley,17,U.S. House,2,TALLEY SERGENT,DEM,257,82,175
+Berkeley,18,U.S. House,2,TALLEY SERGENT,DEM,188,74,114
+Berkeley,18A,U.S. House,2,TALLEY SERGENT,OEM,322,103,219
+Berkeley,19,U.S. House,2,TALLEY SERGENT,DEM,128,37,91
+Berkeley,20,U.S. House,2,TALLEY SERGENT,DEM,107,25,82
+Berkeley,21,U.S. House,2,TALLEY SERGENT,DEM,369,159,210
+Berkeley,22,U.S. House,2,TALLEY SERGENT,DEM,124,61,63
+Berkeley,22A,U.S. House,2,TALLEY SERGENT,DEM,68,22,46
+Berkeley,23,U.S. House,2,TALLEY SERGENT,DEM,222,73,149
+Berkeley,24,U.S. House,2,TALLEY SERGENT,DEM,98,39,59
+Berkeley,25,U.S. House,2,TALLEY SERGENT,DEM,92,52,40
+Berkeley,26,U.S. House,2,TALLEY SERGENT,DEM,123,43,80
+Berkeley,27,U.S. House,2,TALLEY SERGENT,DEM,219,77,142
+Berkeley,28,U.S. House,2,TALLEY SERGENT,DEM,261,97,164
+Berkeley,29,U.S. House,2,TALLEY SERGENT,DEM,283,126,157
+Berkeley,30,U.S. House,2,TALLEY SERGENT,DEM,128,37,91
+Berkeley,32,U.S. House,2,TALLEY SERGENT,DEM,66,22,44
+Berkeley,34,U.S. House,2,TALLEY SERGENT,DEM,208,75,133
+Berkeley,35,U.S. House,2,TALLEY SERGENT,DEM,200,70,130
+Berkeley,36,U.S. House,2,TALLEY SERGENT,DEM,236,57,179
+Berkeley,38,U.S. House,2,TALLEY SERGENT,DEM,143,69,74
+Berkeley,39,U.S. House,2,TALLEY SERGENT,DEM,262,120,142
+Berkeley,40,U.S. House,2,TALLEY SERGENT,DEM,101,31,70
+Berkeley,41,U.S. House,2,TALLEY SERGENT,DEM,192,52,140
+Berkeley,42,U.S. House,2,TALLEY SERGENT,DEM,113,35,78
+Berkeley,43,U.S. House,2,TALLEY SERGENT,DEM,151,43,108
+Berkeley,43A,U.S. House,2,TALLEY SERGENT,DEM,153,33,120
+Berkeley,44,U.S. House,2,TALLEY SERGENT,DEM,94,23,71
+Berkeley,45,U.S. House,2,TALLEY SERGENT,DEM,96,32,64
+Berkeley,46,U.S. House,2,TALLEY SERGENT,DEM,88,27,61
+Berkeley,46A,U.S. House,2,TALLEY SERGENT,DEM,142,58,84
+Berkeley,47,U.S. House,2,TALLEY SERGENT,DEM,74,19,55
+Berkeley,48,U.S. House,2,TALLEY SERGENT,DEM,382,146,236
+Berkeley,49,U.S. House,2,TALLEY SERGENT,DEM,91,40,51
+Berkeley,50,U.S. House,2,TALLEY SERGENT,DEM,214,93,121
+Berkeley,51,U.S. House,2,TALLEY SERGENT,DEM,152,18,134
+Berkeley,51A,U.S. House,2,TALLEY SERGENT,DEM,155,46,109
+Berkeley,52,U.S. House,2,TALLEY SERGENT,DEM,219,64,155
+Berkeley,53,U.S. House,2,TALLEY SERGENT,DEM,213,70,143
+Berkeley,54,U.S. House,2,TALLEY SERGENT,DEM,143,40,103
+Berkeley,55,U.S. House,2,TALLEY SERGENT,DEM,234,86,148
+Berkeley,56,U.S. House,2,TALLEY SERGENT,DEM,96,19,77
+Berkeley,105,U.S. House,2,TALLEY SERGENT,DEM,183,58,125
+Berkeley,106,U.S. House,2,TALLEY SERGENT,DEM,124,36,88
+Berkeley,107,U.S. House,2,TALLEY SERGENT,DEM,330,98,232
+Berkeley,108,U.S. House,2,TALLEY SERGENT,DEM,47,14,33
+Berkeley,110,U.S. House,2,TALLEY SERGENT,DEM,322,150,172
+Berkeley,111,U.S. House,2,TALLEY SERGENT,DEM,289,90,199
+Berkeley,112,U.S. House,2,TALLEY SERGENT,DEM,260,85,175
+Berkeley,113,U.S. House,2,TALLEY SERGENT,DEM,152,37,115
+Berkeley,114,U.S. House,2,TALLEY SERGENT,DEM,150,37,113
+Berkeley,115,U.S. House,2,TALLEY SERGENT,DEM,108,13,95
+Berkeley,Total,U.S. House,2,TALLEY SERGENT,DEM,11961,4257,7704
+Berkeley,1,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,22,6,16
+Berkeley,2,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,23,8,15
+Berkeley,5,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,19,12,7
+Berkeley,6,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,12,5,7
+Berkeley,7,U.S. House,2,"DANIEL P.  'DANNY"" LUTZ JR.",MTN,25,11,14
+Berkeley,8,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,14,4,10
+Berkeley,9,U.S. House,2,"DANIEL P.  'DANNY"" LUTZ JR.",MTN,34,15,19
+Berkeley,10,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,24,5,19
+Berkeley,11,U.S. House,2,"DANIEL P.  'DANNY"" LUTZ JR.",MTN,24,9,15
+Berkeley,12,U.S. House,2,"DANIEL P.  'DANNY"" LUTZ JR.",MTN,26,7,19
+Berkeley,13,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,36,10,26
+Berkeley,14,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,12,2,10
+Berkeley,15,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,16,10,6
+Berkeley,16,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,37,11,26
+Berkeley,17,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,26,7,19
+Berkeley,18,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,37,11,26
+Berkeley,18A,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,36,9,27
+Berkeley,19,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,11,2,9
+Berkeley,20,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,24,8,16
+Berkeley,21,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,19,6,13
+Berkeley,22,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,6,1,5
+Berkeley,22A,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,11,1,10
+Berkeley,23,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,20,8,12
+Berkeley,24,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,20,5,15
+Berkeley,25,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,7,1,6
+Berkeley,26,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,20,3,17
+Berkeley,27,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,25,5,20
+Berkeley,28,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,35,13,22
+Berkeley,29,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,50,23,27
+Berkeley,30,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,21,8,13
+Berkeley,32,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,10,3,7
+Berkeley,34,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,38,9,29
+Berkeley,35,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,38,8,30
+Berkeley,36,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,36,7,29
+Berkeley,38,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,15,8,7
+Berkeley,39,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,31,7,24
+Berkeley,40,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,12,5,7
+Berkeley,41,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,34,7,27
+Berkeley,42,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,23,5,18
+Berkeley,43,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,21,8,13
+Berkeley,43A,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,21,5,16
+Berkeley,44,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,23,6,17
+Berkeley,45,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,12,5,7
+Berkeley,46,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,14,2,12
+Berkeley,46A,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,30,6,24
+Berkeley,47,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,33,5,28
+Berkeley,48,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,25,7,18
+Berkeley,49,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,10,6,4
+Berkeley,50,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,28,13,15
+Berkeley,51,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,13,1,12
+Berkeley,51A,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,29,4,25
+Berkeley,52,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,26,7,19
+Berkeley,53,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,23,8,15
+Berkeley,54,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,14,5,9
+Berkeley,55,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,23,9,14
+Berkeley,56,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,10,3,7
+Berkeley,105,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,31,9,22
+Berkeley,106,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,12,0,12
+Berkeley,107,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,42,7,35
+Berkeley,108,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,11,6,5
+Berkeley,110,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,26,11,15
+Berkeley,111,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,42,13,29
+Berkeley,112,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,33,10,23
+Berkeley,113,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,29,6,23
+Berkeley,114,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,26,8,18
+Berkeley,115,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,14,2,12
+Berkeley,Total,U.S. House,2,"DANIEL P.  ""DANNY"" LUTZ JR.",MTN,1550,457,1093
+Berkeley,1,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,2,U.S. House,2,WRITE-IN,,1,0,1
+Berkeley,5,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,6,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,7,U.S. House,2,WRITE-IN,,1,1,0
+Berkeley,8,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,9,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,10,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,11,U.S. House,2,WRITE-IN,,2,1,1
+Berkeley,12,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,13,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,14,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,15,U.S. House,2,WRITE-IN,,1,0,1
+Berkeley,16,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,17,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,18,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,18A,U.S. House,2,WRITE-IN,,2,0,2
+Berkeley,19,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,20,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,21,U.S. House,2,WRITE-IN,,1,1,0
+Berkeley,22,U.S. House,2,WRITE-IN,,1,0,1
+Berkeley,22A,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,23,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,24,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,25,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,26,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,27,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,28,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,29,U.S. House,2,WRITE-IN,,2,1,1
+Berkeley,30,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,32,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,34,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,35,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,36,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,38,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,39,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,40,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,41,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,42,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,43,U.S. House,2,WRITE-IN,,1,0,1
+Berkeley,43A,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,44,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,45,U.S. House,2,WRITE-IN,,1,0,1
+Berkeley,46,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,46A,U.S. House,2,WRITE-IN.,,0,0,0
+Berkeley,47,U.S. House,2,WRITE-IN,,2,0,2
+Berkeley,48,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,49,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,50,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,51,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,51A,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,52,U.S. House,2,WITE•IN,,2,1,1
+Berkeley,53,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,54,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,55,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,56,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,105,U.S. House,2,WRITE.IN,,0,0,0
+Berkeley,106,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,107,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,108,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,110,U.S. House,2,WRITE-IN,,2,0,2
+Berkeley,111,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,112,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,113,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,114,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,115,U.S. House,2,WRITE-IN,,0,0,0
+Berkeley,Total,U.S. House,2,WRITE-IN,,19,5,14
+Berkeley,18A,State Senate,15,CHARLES S. TRUMP IV,REP,463,129,334
+Berkeley,19,State Senate,15,CHARLES S. TRUMP IV,REP,356,97,259
+Berkeley,20,State Senate,15,CHARLES S. TRUMP IV,REP,342,62,280
+Berkeley,21,State Senate,15,CHARLES S. TRUMP IV,REP,610,260,350
+Berkeley,22,State Senate,15,CHARLES S. TRUMP IV,REP,173,66,107
+Berkeley,23,State Senate,15,CHARLES S. TRUMP IV,REP,392,112,280
+Berkeley,24,State Senate,15,CHARLES S. TRUMP IV,REP,357,69,288
+Berkeley,32,State Senate,15,CHARLES S.  TRUMP IV,REP,489,169,320
+Berkeley,35,State Senate,15,CHARLES S. TRUMP IV,REP,464,86,378
+Berkeley,38,State Senate,15,CHARLES S. TRUMP IV,REP,312,146,166
+Berkeley,39,State Senate,15,CHARLES S. TRUMP IV,REP,491,161,330
+Berkeley,40,State Senate,15,CHARLES S. TRUMP IV,REP,593,161,432
+Berkeley,42,State Senate,15,CHARLES S.  TRUMP IV,REP,303,67,236
+Berkeley,43,State Senate,15,CHARLES S. TRUMP IV,REP,376,89,287
+Berkeley,43A,State Senate,15,CHARLES S. TRUMP IV,REP,302,61,241
+Berkeley,44,State Senate,15,CHARLES S. TRUMP IV,REP,234,57,177
+Berkeley,45,State Senate,15,CHARLES S. TRUMP IV,REP,281,80,201
+Berkeley,46,State Senate,15,CHARLES S. TRUMP IV,REP,250,68,182
+Berkeley,46A,State Senate,15,CHARLES S. TRUMP IV,REP,453,117,336
+Berkeley,48,State Senate,15,CHARLES S. TRUMP IV,REP,591,169,422
+Berkeley,49,State Senate,15,CHARLES S. TRUMP IV,REP,174,45,129
+Berkeley,50,State Senate,15,CHARLES S. TRUMP IV,REP,554,211,343
+Berkeley,51,State Senate,15,CHARLES S. TRUMP IV,REP,336,52,284
+Berkeley,51A,State Senate,15,CHARLES S. TRUMP IV,REP,403,77,326
+Berkeley,52,State Senate,15,CHARLES S. TRUMP IV,REP,512,119,393
+Berkeley,55,State Senate,15,CHARLES S. TRUMP IV,REP,473,170,303
+Berkeley,57,State Senate,15,CHARLES S. TRUMP IV,REP,425,118,307
+Berkeley,113,State Senate,15,CHARLES S. TRUMP IV,REP,316,88,228
+Berkeley,114,State Senate,15,CHARLES S. TRUMP IV,REP,308,74,234
+Berkeley,115,State Senate,15,"CHARLES S, TRUMP IV",REP,250,50,200
+Berkeley,Total,State Senate,15,"CHARLES S, TRUMP IV",REP,11583,3230,8353
+Berkeley,18A,State Senate,15,JASON A. ARMENTROUT,IND,299,89,210
+Berkeley,19,State Senate,15,JASON A. ARMENTROUT,IND,100,31,69
+Berkeley,20,State Senate,15,JASON A. ARMENTROUT,IND,107,22,85
+Berkeley,21,State Senate,15,JASON A. ARMENTROUT,IND,292,121,171
+Berkeley,22,State Senate,15,JASON A. ARMENTROUT,IND,56,14,42
+Berkeley,23,State Senate,15,JASON A. ARMENTROUT,IND,192,64,128
+Berkeley,24,State Senate,15,JASON A. ARMENTROUT,IND,109,31,78
+Berkeley,32,State Senate,15,JASON A. ARMENTROUT,IND,181,56,125
+Berkeley,35,State Senate,15,JASON A. ARMENTROUT,IND,219,43,176
+Berkeley,38,State Senate,15,JASON A. ARMENTROUT,IND,96,51,45
+Berkeley,39,State Senate,15,JASON A. ARMENTROUT,IND,226,109,117
+Berkeley,40,State Senate,15,JASON A. ARMENTROUT,IND,163,38,125
+Berkeley,42,State Senate,15,JASON A. ARMENTROUT,IND,107,28,79
+Berkeley,43,State Senate,15,JASON A. ARMENTROUT,IND,138,38,100
+Berkeley,43A,State Senate,15,JASON A. ARMENTROUT,IND,149,36,113
+Berkeley,44,State Senate,15,JASON A. ARMENTROUT,IND,84,20,64
+Berkeley,45,State Senate,15,JASON A. ARMENTROUT,IND,86,25,61
+Berkeley,46,State Senate,15,JASON A. ARMENTROUT,IND,84,23,61
+Berkeley,46A,State Senate,15,JASON A. ARMENTROUT,IND,87,18,69
+Berkeley,48,State Senate,15,JASON A. ARMENTROUT,IND,296,96,200
+Berkeley,49,State Senate,15,JASON A. ARMENTROUT,IND,88,42,46
+Berkeley,50,State Senate,15,JASON A. ARMENTROUT,IND,183,71,112
+Berkeley,51,State Senate,15,JASON A. ARMENTROUT,IND,132,13,119
+Berkeley,51A,State Senate,15,JASON A. ARMENTROUT,IND,163,40,123
+Berkeley,52,State Senate,15,JASON A. ARMENTROUT,IND,191,43,148
+Berkeley,55,State Senate,15,JASON A. ARMENTROUT,IND,210,70,140
+Berkeley,57,State Senate,15,JASON A. ARMENTROUT,IND,168,47,121
+Berkeley,113,State Senate,15,JASON A. ARMENTROUT,IND,134,32,102
+Berkeley,114,State Senate,15,JASON A. ARMENTROUT,IND,133,27,106
+Berkeley,115,State Senate,15,JASON A. ARMENTROUT,IND,110,11,99
+Berkeley,Total,State Senate,15,JASON A. ARMENTROUT,IND,4583,1349,3234
+Berkeley,18A,State Senate,15,WRITE-IN,,6,1,5
+Berkeley,19,State Senate,15,WRITE-IN,,1,1,0
+Berkeley,20,State Senate,15,WRITE-IN,,2,0,2
+Berkeley,21,State Senate,15,WRITE-IN,,2,1,1
+Berkeley,22,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,23,State Senate,15,WRITE-1N,,1,0,1
+Berkeley,24,State Senate,15,WRITE-IN,,3,2,1
+Berkeley,32,State Senate,15,WRITE-IN,,1,0,1
+Berkeley,35,State Senate,15,WRITE-IN,,4,2,2
+Berkeley,38,State Senate,15,WRITE-IN,,2,2,0
+Berkeley,39,State Senate,15,WRITE-IN,,3,0,3
+Berkeley,40,State Senate,15,WRITE-IN,,1,0,1
+Berkeley,42,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,43,State Senate,15,WRITE-IN,,2,0,2
+Berkeley,43A,State Senate,15,WRITE-IN,,1,0,1
+Berkeley,44,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,45,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,46,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,46A,State Senate,15,WRITE-IN,,2,0,2
+Berkeley,48,State Senate,15,WRITE-IN,,6,3,3
+Berkeley,49,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,50,State Senate,15,WRITE-IN,,2,1,1
+Berkeley,51,State Senate,15,WRITE-IN,,1,1,0
+Berkeley,51A,State Senate,15,WRITE-IN,,0,0,0
+Berkeley,52,State Senate,15,WRITE-IN,,2,2,0
+Berkeley,55,State Senate,15,WRITE-IN,,3,0,3
+Berkeley,57,State Senate,15,WRITE-IN,,1,0,1
+Berkeley,113,State Senate,15,WRITE-IN,,1,0,1
+Berkeley,114,State Senate,15,WRITE-IN,,2,0,2
+Berkeley,115,State Senate,15,WRITE-IN,,1,0,1
+Berkeley,Total,State Senate,15,WRITE-IN,,50,16,34
+Berkeley,1,State Senate,16,MICHAEL CRAIG FOLK,REP,137,32,105
+Berkeley,2,State Senate,16,MICHAEL CRAIG FOLK,REP,298,100,198
+Berkeley,5,State Senate,16,MICHAEL CRAIG FOLK,REP,139,62,77
+Berkeley,6,State Senate,16,MICHAEL CRAIG FOLK,REP,72,20,52
+Berkeley,7,State Senate,16,MICHAEL CRAIG FOLK,REP,134,58,76
+Berkeley,8,State Senate,16,MICHAEL CRAIG FOLK,REP,127,32,95
+Berkeley,9,State Senate,16,MICHAEL CRAIG FOLK,REP,213,100,113
+Berkeley,10,State Senate,16,MICHAEL CRAIG FOLK,REP,213,84,129
+Berkeley,11,State Senate,16,MICHAEL CRAIG FOLK,REP,222,87,135
+Berkeley,12,State Senate,16,MICHAEL CRAIG FOLK,REP,254,78,176
+Berkeley,13,State Senate,16,MICHAEL CRAIG FOLK,REP,425,143,282
+Berkeley,14,State Senate,16,MICHAEL CRAIG FOLK,REP,81,35,46
+Berkeley,16,State Senate,16,MICHAEL CRAIG FOLK,REP,343,113,230
+Berkeley,17,State Senate,16,MICHAEL CRAIG FOLK,REP,250,91,159
+Berkeley,18,State Senate,16,MICHAEL CRAIG FOLK,REP,282,109,173
+Berkeley,18A,State Senate,16,MICHAEL CRAIG FOLK,REP,168,73,95
+Berkeley,22A,State Senate,16,MICHAEL CRAIG FOLK,REP,170,49,121
+Berkeley,25,State Senate,16,MICHAEL CRAIG FOLK,REP,236,75,161
+Berkeley,27,State Senate,16,MICHAEL CRAIG FOLK,REP,308,105,203
+Berkeley,28,State Senate,16,MICHAEL CRAIG FOLK,REP,411,145,266
+Berkeley,29,State Senate,16,MICHAEL CRAIG FOLK,REP,470,203,267
+Berkeley,30,State Senate,16,MICHAEL CRAIG FOLK,REP,69,32,37
+Berkeley,34,State Senate,16,MICHAEL CRAIG FOLK,REP,408,128,280
+Berkeley,36,State Senate,16,MICHAEL CRAIG FOLK,REP,203,63,140
+Berkeley,41,State Senate,16,MICHAEL CRAIG FOLK,REP,252,57,195
+Berkeley,54,State Senate,16,MICHAEL CRAIG FOLK,REP,291,61,230
+Berkeley,55,State Senate,16,MICHAEL CRAIG FOLK,REP,98,26,72
+Berkeley,105,State Senate,16,MICHAEL CRAIG FOLK,REP,190,55,135
+Berkeley,107,State Senate,16,MICHAEL CRAIG FOLK,REP,347,91,256
+Berkeley,110,State Senate,16,MICHAEL CRAIG FOLK,REP,386,150,236
+Berkeley,112,State Senate,16,MICHAEL CRAIG FOLK,REP,323,117,206
+Berkeley,Total,State Senate,16,MICHAEL CRAIG FOLK,REP,7520,2574,4946
+Berkeley,1,State Senate,16,JOHN UNGER,DEM,175,65,110
+Berkeley,2,State Senate,16,JOHN UNGER,DEM,386,149,237
+Berkeley,5,State Senate,16,JOHN UNGER,DEM,124,57,67
+Berkeley,6,State Senate,16,JOHN UNGER,DEM,113,41,72
+Berkeley,7,State Senate,16,JOHN UNGER,DEM,267,121,146
+Berkeley,8,State Senate,16,JOHN UNGER,DEM,167,78,89
+Berkeley,9,State Senate,16,JOHN UNGER,DEM,352,167,185
+Berkeley,10,State Senate,16,JOHN UNGER,OEM,292,112,180
+Berkeley,11,State Senate,16,JOHN UNGER,DEM,248,120,128
+Berkeley,12,State Senate,16,JOHN UNGER,DEM,147,58,89
+Berkeley,13,State Senate,16,JOHN UNGER,DEM,307,114,193
+Berkeley,14,State Senate,16,JOHN UNGER,DEM,162,71,91
+Berkeley,16,State Senate,16,JOHN UNGER,DEM,377,116,261
+Berkeley,17,State Senate,16,JOHN UNGER,DEM,312,106,206
+Berkeley,18,State Senate,16,JOHN UNGER,DEM,246,93,153
+Berkeley,18A,State Senate,16,JOHN UNGER,DEM,154,76,78
+Berkeley,22A,State Senate,16,JOHN UNGER,DEM,134,55,79
+Berkeley,25,State Senate,16,JOHN UNGER,DEM,144,47,97
+Berkeley,27,State Senate,16,JOHN UNGER,DEM,243,87,156
+Berkeley,28,State Senate,16,JOHN UNGER,DEM,309,115,194
+Berkeley,29,State Senate,16,JOHN UNGER,DEM,377,184,193
+Berkeley,30,State Senate,16,JOHN UNGER,DEM,84,28,56
+Berkeley,34,State Senate,16,JOHN UNGER,DEM,263,92,171
+Berkeley,36,State Senate,16,JOHN UNGER,DEM,139,42,97
+Berkeley,41,State Senate,16,JOHN UNGER,DEM,249,76,173
+Berkeley,54,State Senate,16,JOHN UNGER,DEM,185,55,130
+Berkeley,55,State Senate,16,JOHN UNGER,DEM,102,24,78
+Berkeley,105,State Senate,16,JOHN UNGER,DEM,158,43,115
+Berkeley,107,State Senate,16,JOHN UNGER,DEM,372,107,265
+Berkeley,110,State Senate,16,JOHN UNGER,DEM,356,164,192
+Berkeley,112,State Senate,16,JOHN UNGER,OEM,314,114,200
+Berkeley,Total,State Senate,16,JOHN UNGER,OEM,7258,2777,4481
+Berkeley,1,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,2,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,5,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,6,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,7,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,8,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,9,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,10,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,11,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,12,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,13,State Senate,16,WRITE-IN.,,0,0,0
+Berkeley,14,State Senate,16,WRITE-IN,,1,1,0
+Berkeley,16,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,17,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,18,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,18A,State Senate,16,WRITE-IN,,2,1,1
+Berkeley,22A,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,25,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,27,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,28,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,29,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,30,State Senate,16,WRITE•IN,,1,1,0
+Berkeley,34,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,36,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,41,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,54,State Senate,16,WRITE-IN,,1,0,1
+Berkeley,55,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,105,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,107,State Senate,16,WRITE-IN,,1,1,0
+Berkeley,110,State Senate,16,WRITE-IN,,0,0,0
+Berkeley,112,State Senate,16,WRITE-IN,,2,0,2
+Berkeley,Total,State Senate,16,WRITE-IN,,14,4,10
+Berkeley,40,House of Delegates,59,"LARRY D, KUMP",REP,434,144,290
+Berkeley,41,House of Delegates,59,LARRY D.  KUMP,REP,207,67,140
+Berkeley,43,House of Delegates,59,LARRY D. KUMP,REP,273,59,214
+Berkeley,45,House of Delegates,59,LARRY D. KUMP,REP,212,55,157
+Berkeley,46,House of Delegates,59,LARRY D. KUMP,REP,264,75,189
+Berkeley,46A,House of Delegates,59,LARRY D.  KUMP,REP,253,66,187
+Berkeley,49,House of Delegates,59,LARRY D. KUMP,REP,520,143,377
+Berkeley,53,House of Delegates,59,LARRY O. KUMP,REP,448,101,347
+Berkeley,56,House of Delegates,59,LARRY O. KUMP,REP,434,148,286
+Berkeley,Total,House of Delegates,59,LARRY O. KUMP,REP,3045,858,2187
+Berkeley,40,House of Delegates,59,JOHN ISNER,DEM,331,141,190
+Berkeley,41,House of Delegates,59,JOHN ISNER,DEM,128,36,92
+Berkeley,43,House of Delegates,59,JOHN ISNER,DEM,153,41,112
+Berkeley,45,House of Delegates,59,JOHN ISNER,DEM,123,29,94
+Berkeley,46,House of Delegates,59,JOHN ISNER,DEM,123,39,84
+Berkeley,46A,House of Delegates,59,JOHN ISNER,DEM,96,29,67
+Berkeley,49,House of Delegates,59,JOHN ISNER,DEM,435,157,278
+Berkeley,53,House of Delegates,59,JOHN ISNER,DEM,288,79,209
+Berkeley,56,House of Delegates,59,JOHN ISNER,DEM,289,105,184
+Berkeley,Total,House of Delegates,59,JOHN ISNER,DEM,1966,656,1310
+Berkeley,40,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,41,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,43,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,45,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,46,House of Delegates,59,WRITE-IN,,1,0,1
+Berkeley,46A,House of Delegates,59,WRITE-1N.,,0,0,0
+Berkeley,49,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,53,House of Delegates,59,WRITE-1N.,,0,0,0
+Berkeley,56,House of Delegates,59,WRITE-IN,,1,1,0
+Berkeley,Total,House of Delegates,59,WRITE-IN,,2,1,1
+Berkeley,26,House of Delegates,60,S.  MARSHALL WILSON,REP,204,99,105
+Berkeley,39,House of Delegates,60,S.  MARSHALL WILSON,REP,355,165,190
+Berkeley,42,House of Delegates,60,S. MARSHALL WILSON,REP,678,179,499
+Berkeley,43A,House of Delegates,60,S. MARSHALL WILSON,REP,437,108,329
+Berkeley,44,House of Delegates,60,S. MARSHALL WILSON,REP,375,80,295
+Berkeley,47,House of Delegates,60,S. MARSHALL WILSON,REP,483,182,301
+Berkeley,48,House of Delegates,60,S. MARSHALL WILSON,REP,507,126,381
+Berkeley,52,House of Delegates,60,S. MARSHALL WILSON,REP,502,103,399
+Berkeley,105,House of Delegates,60,S.  MARSHALL WILSON,REP,153,39,114
+Berkeley,111,House of Delegates,60,S.  MARSHALL WILSON,REP,714,179,535
+Berkeley,113,House of Delegates,60,S. MARSHALL WILSON,REP,378,99,279
+Berkeley,114,House of Delegates,60,5. MARSHALL WILSON,REP,366,82,284
+Berkeley,Total,House of Delegates,60,5. MARSHALL WILSON,REP,5152,1441,3711
+Berkeley,26,House of Delegates,60,WRITE-IN,,6,6,0
+Berkeley,39,House of Delegates,60,WRITE-IN,,3,2,1
+Berkeley,42,House of Delegates,60,WRITE-IN,,13,5,8
+Berkeley,43A,House of Delegates,60,WRITE-IN,,11,4,7
+Berkeley,44,House of Delegates,60,WRITE-1N,,10,4,6
+Berkeley,47,House of Delegates,60,WRITE-IN,,13,6,7
+Berkeley,48,House of Delegates,60,WRITE-IN,,11,4,7
+Berkeley,52,House of Delegates,60,WRITE-IN,,12,4,8
+Berkeley,105,House of Delegates,60,WRITE-IN,,5,0,5
+Berkeley,111,House of Delegates,60,WRITE-IN,,21,3,18
+Berkeley,113,House of Delegates,60,WRITE-IN,,9,0,9
+Berkeley,114,House of Delegates,60,WRITE-IN,,12,2,10
+Berkeley,Total,House of Delegates,60,WRITE-IN,,126,40,86
+Berkeley,2,House of Delegates,61,JASON BARRETT,DEM,259,85,174
+Berkeley,5,House of Delegates,61,JASON BARRETT,DEM,530,186,344
+Berkeley,6,House of Delegates,61,JASON BARRETT,DEM,189,81,108
+Berkeley,7,House of Delegates,61,JASON BARRETT,DEM,147,48,99
+Berkeley,8,House of Delegates,61,JASON BARRETT,DEM,324,139,185
+Berkeley,9,House of Delegates,61,JASON BARRETT,(OEM),219,85,134
+Berkeley,10,House of Delegates,61,JASON BARRETT,DEM,443,216,227
+Berkeley,11,House of Delegates,61,JASON BARRETT,DEM,371,138,233
+Berkeley,12,House of Delegates,61,JASON BARRETT,DEM,347,153,194
+Berkeley,16,House of Delegates,61,JASON BARRETT,DEM,200,94,106
+Berkeley,18,House of Delegates,61,JASON BARRETT,DEM,458,152,306
+Berkeley,22A,House of Delegates,61,JASON BARRETT,DEM,216,107,109
+Berkeley,23,House of Delegates,61,JASON BARRETT,DEM,163,49,114
+Berkeley,Total,House of Delegates,61,JASON BARRETT,DEM,3866,1533,2333
+Berkeley,2,House of Delegates,61,WRITE-IN,,6,0,6
+Berkeley,5,House of Delegates,61,WRITE-IN,,29,15,14
+Berkeley,6,House of Delegates,61,WRITE-IN,,6,1,5
+Berkeley,7,House of Delegates,61,WRITE-IN,,5,3,2
+Berkeley,8,House of Delegates,61,WRITE-IN,,16,6,10
+Berkeley,9,House of Delegates,61,WRITE-IN,,9,1,8
+Berkeley,10,House of Delegates,61,WRITE-IN,,7,0,7
+Berkeley,11,House of Delegates,61,WRITE-IN,,11,4,7
+Berkeley,12,House of Delegates,61,WRITE-IN,,7,2,5
+Berkeley,16,House of Delegates,61,WRITE-IN,,8,4,4
+Berkeley,18,House of Delegates,61,WRITE-IN,,10,4,6
+Berkeley,22A,House of Delegates,61,WRITE-IN,,3,1,2
+Berkeley,23,House of Delegates,61,WRITE-IN,,2,0,2
+Berkeley,Total,House of Delegates,61,WRITE-IN,,119,41,78
+Berkeley,9,House of Delegates,62,TOM BIBBY,REP,4098,1286,2812
+Berkeley,47,House of Delegates,62,TOM BIBBY,REP,281,85,196
+Berkeley,68,House of Delegates,62,TOM BIBBY,REP,300,117,183
+Berkeley,72,House of Delegates,62,TOM BIBBY,REP,474,128,346
+Berkeley,76,House of Delegates,62,TOM BIBBY,REP,363,95,268
+Berkeley,80,House of Delegates,62,TOM BIBBY,REP,371,70,301
+Berkeley,84,House of Delegates,62,TOM BIBBY,REP,615,271,344
+Berkeley,94,House of Delegates,62,TOM BIBBY,REP,393,107,286
+Berkeley,106,House of Delegates,62,TOM BIBBY,REP,250,83,167
+Berkeley,124,House of Delegates,62,TOM BIBBY,REP,375,75,300
+Berkeley,196,House of Delegates,62,TOM BIBBY,REP,589,219,370
+Berkeley,241,House of Delegates,62,TOM BIBBY,REP,87,36,51
+Berkeley,Total,House of Delegates,62,TOM BIBBY,REP,8196,2572,5624
+Berkeley,9,House of Delegates,62,CYNTHIA TODDLE,DEM,1936,678,1258
+Berkeley,47,House of Delegates,62,CYNTHIA TOODLE,DEM,123,53,70
+Berkeley,68,House of Delegates,62,CYNTHIA T000LE,DEM,214,76,138
+Berkeley,72,House of Delegates,62,CYNTHIA TODDLE,DEM,334,102,232
+Berkeley,76,House of Delegates,62,CYNTHIA TODDLE,DEM,111,35,76
+Berkeley,80,House of Delegates,62,CYNTHIA TODDLE,DEM,95,23,72
+Berkeley,84,House of Delegates,62,CYNTHIA TODDLE,DEM,338,130,208
+Berkeley,94,House of Delegates,62,CYNTHIA TODDLE,DEM,224,76,148
+Berkeley,106,House of Delegates,62,CYNTHIA TODDLE,DEM,123,38,85
+Berkeley,124,House of Delegates,62,CYNTHIA TODDLE,DEM,122,37,85
+Berkeley,196,House of Delegates,62,CYNTHIA TOODLE,DEM,195,89,106
+Berkeley,241,House of Delegates,62,CYNTHIA TODDLE,DEM,57,19,38
+Berkeley,Total,House of Delegates,62,CYNTHIA TODDLE,DEM,3872,1356,2516
+Berkeley,9,House of Delegates,62,WRITE-IN,,2,1,0
+Berkeley,47,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,68,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,72,House of Delegates,62,WRITE-IN,,1,0,1
+Berkeley,76,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,80,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,84,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,94,House of Delegates,62,WRITE-1N,,1,1,0
+Berkeley,106,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,124,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,196,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,241,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,Total,House of Delegates,62,WRITE-IN,,4,2,1
+Berkeley,14,House of Delegates,63,JOHN HARDY,REP,379,122,257
+Berkeley,17,House of Delegates,63,JOHN HARDY,REP,319,103,216
+Berkeley,25,House of Delegates,63,JOHN HARDY,REP,144,43,101
+Berkeley,28,House of Delegates,63,JOHN HARDY,REP,291,96,195
+Berkeley,29,House of Delegates,63,JOHN HARDY,REP,378,132,246
+Berkeley,34,House of Delegates,63,JOHN HARDY,REP,68,30,38
+Berkeley,50,House of Delegates,63,JOHN HARDY,REP,156,43,113
+Berkeley,54,House of Delegates,63,JOHN HARDY,REP,232,44,188
+Berkeley,107,House of Delegates,63,JOHN HARDY,REP,195,55,140
+Berkeley,107,House of Delegates,63,JOHN HARDY,REP,324,89,235
+Berkeley,110,House of Delegates,63,JOHN HARDY,REP,363,150,213
+Berkeley,Total,House of Delegates,63,JOHN HARDY,REP,2849,907,1942
+Berkeley,14,House of Delegates,63,SAM BROWN,DEM,269,102,167
+Berkeley,17,House of Delegates,63,SAM BROWN,DEM,339,103,236
+Berkeley,25,House of Delegates,63,SAM BROWN,DEM,117,44,73
+Berkeley,28,House of Delegates,63,SAM BROWN,DEM,217,80,137
+Berkeley,29,House of Delegates,63,SAM BROWN,DEM,272,100,172
+Berkeley,34,House of Delegates,63,SAM BROWN,DEM,73,27,46
+Berkeley,50,House of Delegates,63,SAM BROWN,DEM,99,44,55
+Berkeley,54,House of Delegates,63,SAM BROWN,DEM,218,73,145
+Berkeley,107,House of Delegates,63,SAM BROWN,DEM,126,35,91
+Berkeley,107,House of Delegates,63,SAM BROWN,DEM,349,101,248
+Berkeley,110,House of Delegates,63,SAM BROWN,DEM,325,142,183
+Berkeley,Total,House of Delegates,63,SAM BROWN,DEM,2404,851,1553
+Berkeley,14,House of Delegates,63,BRETT DAVID ROGERS,LIB,78,29,49
+Berkeley,17,House of Delegates,63,BRETT DAVID ROGERS,LIB,65,25,40
+Berkeley,25,House of Delegates,63,BRETT DAVID ROGERS,LIB,35,13,22
+Berkeley,28,House of Delegates,63,BRETT DAVID ROGERS,LIB,36,13,23
+Berkeley,29,House of Delegates,63,BRETT DAVID ROGERS,LIB,72,27,45
+Berkeley,34,House of Delegates,63,BRETT DAVID ROGERS,LIB,14,4,10
+Berkeley,50,House of Delegates,63,BRETT DAVID ROGERS,LIB,12,2,10
+Berkeley,54,House of Delegates,63,BRETT DAVID ROGERS,LIB,47,16,31
+Berkeley,107,House of Delegates,63,BRETT DAVID ROGERS,LIB,29,9,20
+Berkeley,107,House of Delegates,63,BRETT DAVID ROGERS,LIB,43,7,36
+Berkeley,110,House of Delegates,63,BRETT DAVID ROGERS,LIB,50,22,28
+Berkeley,Total,House of Delegates,63,BRETT DAVID ROGERS,LIB,481,167,314
+Berkeley,14,House of Delegates,63,WRITE-IN,,1,1,0
+Berkeley,17,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,25,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,28,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,29,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,34,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,50,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,54,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,107,House of Delegates,63,WRITE-1N,,0,0,0
+Berkeley,107,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,110,House of Delegates,63,WRITE-IN,,1,0,1
+Berkeley,Total,House of Delegates,63,WRITE-IN,,2,1,1
+Berkeley,30,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,477,219,258
+Berkeley,35,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,400,132,268
+Berkeley,36,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,408,134,274
+Berkeley,38,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,422,81,341
+Berkeley,51A,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,292,45,247
+Berkeley,55,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,292,64,228
+Berkeley,106,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,385,105,280
+Berkeley,112,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,329,124,205
+Berkeley,115,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,231,41,190
+Berkeley,Total,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,3236,945,2291
+Berkeley,30,House of Delegates,64,BARRY FRANKENBERRY,DEM,371,168,203
+Berkeley,35,House of Delegates,64,BARRY FRANKENBERRY,DEM,296,101,195
+Berkeley,36,House of Delegates,64,BARBY FRANKENBERRY,DEM,265,88,177
+Berkeley,38,House of Delegates,64,BARBY FRANKENBERRY,DEM,311,66,245
+Berkeley,51A,House of Delegates,64,BARBY FRANKENBERRY,DEM,194,25,169
+Berkeley,55,House of Delegates,64,BARBY FRANKENBERRY,(OEM),190,53,137
+Berkeley,106,House of Delegates,64,BARRY FRANKENBERRY,DEM,242,67,175
+Berkeley,112,House of Delegates,64,BARBY FRANKENBERRY,DEM,307,105,202
+Berkeley,115,House of Delegates,64,BARBY FRANKENBERRY,DEM,141,25,116
+Berkeley,Total,House of Delegates,64,BARBY FRANKENBERRY,DEM,2317,698,1619
+Berkeley,30,House of Delegates,64,WRITE-IN,,1,0,1
+Berkeley,35,House of Delegates,64,WRITE-IN,,1,1,0
+Berkeley,36,House of Delegates,64,WRITE-IN,,0,0,0
+Berkeley,38,House of Delegates,64,WRITE-IN,,1,0,1
+Berkeley,51A,House of Delegates,64,WRITE-IN,,0,0,0
+Berkeley,55,House of Delegates,64,WRITE-IN,,1,0,1
+Berkeley,106,House of Delegates,64,WRITE-IN,,2,0,2
+Berkeley,112,House of Delegates,64,WRITE-IN,,0,0,0
+Berkeley,115,House of Delegates,64,WRITE-IN,,2,0,2
+Berkeley,Total,House of Delegates,64,WRITE-IN,,8,1,7
+Berkeley,39,House of Delegates,59,"LARRY D, KUMP",REP,434,144,290
+Berkeley,40,House of Delegates,59,LARRY D.  KUMP,REP,207,67,140
+Berkeley,42,House of Delegates,59,LARRY D. KUMP,REP,273,59,214
+Berkeley,44,House of Delegates,59,LARRY D. KUMP,REP,212,55,157
+Berkeley,45,House of Delegates,59,LARRY D. KUMP,REP,264,75,189
+Berkeley,46,House of Delegates,59,LARRY D.  KUMP,REP,253,66,187
+Berkeley,48,House of Delegates,59,LARRY D. KUMP,REP,520,143,377
+Berkeley,52,House of Delegates,59,LARRY O. KUMP,REP,448,101,347
+Berkeley,55,House of Delegates,59,LARRY O. KUMP,REP,434,148,286
+Berkeley,Total,House of Delegates,59,LARRY O. KUMP,REP,3045,858,2187
+Berkeley,39,House of Delegates,59,JOHN ISNER,DEM,331,141,190
+Berkeley,40,House of Delegates,59,JOHN ISNER,DEM,128,36,92
+Berkeley,42,House of Delegates,59,JOHN ISNER,DEM,153,41,112
+Berkeley,44,House of Delegates,59,JOHN ISNER,DEM,123,29,94
+Berkeley,45,House of Delegates,59,JOHN ISNER,DEM,123,39,84
+Berkeley,46,House of Delegates,59,JOHN ISNER,DEM,96,29,67
+Berkeley,48,House of Delegates,59,JOHN ISNER,DEM,435,157,278
+Berkeley,52,House of Delegates,59,JOHN ISNER,DEM,288,79,209
+Berkeley,55,House of Delegates,59,JOHN ISNER,DEM,289,105,184
+Berkeley,Total,House of Delegates,59,JOHN ISNER,DEM,1966,656,1310
+Berkeley,39,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,40,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,42,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,44,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,45,House of Delegates,59,WRITE-IN,,1,0,1
+Berkeley,46,House of Delegates,59,WRITE-1N.,,0,0,0
+Berkeley,48,House of Delegates,59,WRITE-IN,,0,0,0
+Berkeley,52,House of Delegates,59,WRITE-1N.,,0,0,0
+Berkeley,55,House of Delegates,59,WRITE-IN,,1,1,0
+Berkeley,Total,House of Delegates,59,WRITE-IN,,2,1,1
+Berkeley,25,House of Delegates,60,S.  MARSHALL WILSON,REP,204,99,105
+Berkeley,38,House of Delegates,60,S.  MARSHALL WILSON,REP,355,165,190
+Berkeley,41,House of Delegates,60,S. MARSHALL WILSON,REP,678,179,499
+Berkeley,43,House of Delegates,60,S. MARSHALL WILSON,REP,437,108,329
+Berkeley,43A,House of Delegates,60,S. MARSHALL WILSON,REP,375,80,295
+Berkeley,46A,House of Delegates,60,S. MARSHALL WILSON,REP,483,182,301
+Berkeley,47,House of Delegates,60,S. MARSHALL WILSON,REP,507,126,381
+Berkeley,51A,House of Delegates,60,S. MARSHALL WILSON,REP,502,103,399
+Berkeley,56,House of Delegates,60,S.  MARSHALL WILSON,REP,153,39,114
+Berkeley,111,House of Delegates,60,S.  MARSHALL WILSON,REP,714,179,535
+Berkeley,113,House of Delegates,60,S. MARSHALL WILSON,REP,378,99,279
+Berkeley,114,House of Delegates,60,5. MARSHALL WILSON,REP,366,82,284
+Berkeley,Total,House of Delegates,60,5. MARSHALL WILSON,REP,5152,1441,3711
+Berkeley,25,House of Delegates,60,WRITE-IN,,6,6,0
+Berkeley,38,House of Delegates,60,WRITE-IN,,3,2,1
+Berkeley,41,House of Delegates,60,WRITE-IN,,13,5,8
+Berkeley,43,House of Delegates,60,WRITE-IN,,11,4,7
+Berkeley,43A,House of Delegates,60,WRITE-1N,,10,4,6
+Berkeley,46A,House of Delegates,60,WRITE-IN,,13,6,7
+Berkeley,47,House of Delegates,60,WRITE-IN,,11,4,7
+Berkeley,51A,House of Delegates,60,WRITE-IN,,12,4,8
+Berkeley,56,House of Delegates,60,WRITE-IN,,5,0,5
+Berkeley,111,House of Delegates,60,WRITE-IN,,21,3,18
+Berkeley,113,House of Delegates,60,WRITE-IN,,9,0,9
+Berkeley,114,House of Delegates,60,WRITE-IN,,12,2,10
+Berkeley,Total,House of Delegates,60,WRITE-IN,,126,40,86
+Berkeley,1,House of Delegates,61,JASON BARRETT,DEM,259,85,174
+Berkeley,2,House of Delegates,61,JASON BARRETT,DEM,530,186,344
+Berkeley,5,House of Delegates,61,JASON BARRETT,DEM,189,81,108
+Berkeley,6,House of Delegates,61,JASON BARRETT,DEM,147,48,99
+Berkeley,7,House of Delegates,61,JASON BARRETT,DEM,324,139,185
+Berkeley,8,House of Delegates,61,JASON BARRETT,(OEM),219,85,134
+Berkeley,9,House of Delegates,61,JASON BARRETT,DEM,443,216,227
+Berkeley,10,House of Delegates,61,JASON BARRETT,DEM,371,138,233
+Berkeley,11,House of Delegates,61,JASON BARRETT,DEM,347,153,194
+Berkeley,15,House of Delegates,61,JASON BARRETT,DEM,200,94,106
+Berkeley,17,House of Delegates,61,JASON BARRETT,DEM,458,152,306
+Berkeley,22,House of Delegates,61,JASON BARRETT,DEM,216,107,109
+Berkeley,22A,House of Delegates,61,JASON BARRETT,DEM,163,49,114
+Berkeley,Total,House of Delegates,61,JASON BARRETT,DEM,3866,1533,2333
+Berkeley,1,House of Delegates,61,WRITE-IN,,6,0,6
+Berkeley,2,House of Delegates,61,WRITE-IN,,29,15,14
+Berkeley,5,House of Delegates,61,WRITE-IN,,6,1,5
+Berkeley,6,House of Delegates,61,WRITE-IN,,5,3,2
+Berkeley,7,House of Delegates,61,WRITE-IN,,16,6,10
+Berkeley,8,House of Delegates,61,WRITE-IN,,9,1,8
+Berkeley,9,House of Delegates,61,WRITE-IN,,7,0,7
+Berkeley,10,House of Delegates,61,WRITE-IN,,11,4,7
+Berkeley,11,House of Delegates,61,WRITE-IN,,7,2,5
+Berkeley,15,House of Delegates,61,WRITE-IN,,8,4,4
+Berkeley,17,House of Delegates,61,WRITE-IN,,10,4,6
+Berkeley,22,House of Delegates,61,WRITE-IN,,3,1,2
+Berkeley,22A,House of Delegates,61,WRITE-IN,,2,0,2
+Berkeley,Total,House of Delegates,61,WRITE-IN,,119,41,78
+Berkeley,12,House of Delegates,62,TOM BIBBY,REP,281,85,196
+Berkeley,18,House of Delegates,62,TOM BIBBY,REP,300,117,183
+Berkeley,18A,House of Delegates,62,TOM BIBBY,REP,474,128,346
+Berkeley,19,House of Delegates,62,TOM BIBBY,REP,363,95,268
+Berkeley,20,House of Delegates,62,TOM BIBBY,REP,371,70,301
+Berkeley,21,House of Delegates,62,TOM BIBBY,REP,615,271,344
+Berkeley,23,House of Delegates,62,TOM BIBBY,REP,393,107,286
+Berkeley,26,House of Delegates,62,TOM BIBBY,REP,250,83,167
+Berkeley,30,House of Delegates,62,TOM BIBBY,REP,375,75,300
+Berkeley,50,House of Delegates,62,TOM BIBBY,REP,589,219,370
+Berkeley,108,House of Delegates,62,TOM BIBBY,REP,87,36,51
+Berkeley,Total,House of Delegates,62,TOM BIBBY,REP,4098,1286,2812
+Berkeley,12,House of Delegates,62,CYNTHIA TOODLE,DEM,123,53,70
+Berkeley,18,House of Delegates,62,CYNTHIA T000LE,DEM,214,76,138
+Berkeley,18A,House of Delegates,62,CYNTHIA TODDLE,DEM,334,102,232
+Berkeley,19,House of Delegates,62,CYNTHIA TODDLE,DEM,111,35,76
+Berkeley,20,House of Delegates,62,CYNTHIA TODDLE,DEM,95,23,72
+Berkeley,21,House of Delegates,62,CYNTHIA TODDLE,DEM,338,130,208
+Berkeley,23,House of Delegates,62,CYNTHIA TODDLE,DEM,224,76,148
+Berkeley,26,House of Delegates,62,CYNTHIA TODDLE,DEM,123,38,85
+Berkeley,30,House of Delegates,62,CYNTHIA TODDLE,DEM,122,37,85
+Berkeley,50,House of Delegates,62,CYNTHIA TOODLE,DEM,195,89,106
+Berkeley,108,House of Delegates,62,CYNTHIA TODDLE,DEM,57,19,38
+Berkeley,Total,House of Delegates,62,CYNTHIA TODDLE,DEM,1936,678,1258
+Berkeley,12,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,18,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,18A,House of Delegates,62,WRITE-IN,,1,0,1
+Berkeley,19,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,20,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,21,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,23,House of Delegates,62,WRITE-1N,,1,1,0
+Berkeley,26,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,30,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,50,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,108,House of Delegates,62,WRITE-IN,,0,0,0
+Berkeley,Total,House of Delegates,62,WRITE-IN,,2,1,0
+Berkeley,13,House of Delegates,63,JOHN HARDY,REP,379,122,257
+Berkeley,16,House of Delegates,63,JOHN HARDY,REP,319,103,216
+Berkeley,24,House of Delegates,63,JOHN HARDY,REP,144,43,101
+Berkeley,27,House of Delegates,63,JOHN HARDY,REP,291,96,195
+Berkeley,28,House of Delegates,63,JOHN HARDY,REP,378,132,246
+Berkeley,32,House of Delegates,63,JOHN HARDY,REP,68,30,38
+Berkeley,49,House of Delegates,63,JOHN HARDY,REP,156,43,113
+Berkeley,53,House of Delegates,63,JOHN HARDY,REP,232,44,188
+Berkeley,106,House of Delegates,63,JOHN HARDY,REP,195,55,140
+Berkeley,107,House of Delegates,63,JOHN HARDY,REP,324,89,235
+Berkeley,110,House of Delegates,63,JOHN HARDY,REP,363,150,213
+Berkeley,Total,House of Delegates,63,JOHN HARDY,REP,2849,907,1942
+Berkeley,13,House of Delegates,63,SAM BROWN,DEM,269,102,167
+Berkeley,16,House of Delegates,63,SAM BROWN,DEM,339,103,236
+Berkeley,24,House of Delegates,63,SAM BROWN,DEM,117,44,73
+Berkeley,27,House of Delegates,63,SAM BROWN,DEM,217,80,137
+Berkeley,28,House of Delegates,63,SAM BROWN,DEM,272,100,172
+Berkeley,32,House of Delegates,63,SAM BROWN,DEM,73,27,46
+Berkeley,49,House of Delegates,63,SAM BROWN,DEM,99,44,55
+Berkeley,53,House of Delegates,63,SAM BROWN,DEM,218,73,145
+Berkeley,106,House of Delegates,63,SAM BROWN,DEM,126,35,91
+Berkeley,107,House of Delegates,63,SAM BROWN,DEM,349,101,248
+Berkeley,110,House of Delegates,63,SAM BROWN,DEM,325,142,183
+Berkeley,Total,House of Delegates,63,SAM BROWN,DEM,2404,851,1553
+Berkeley,13,House of Delegates,63,BRETT DAVID ROGERS,LIB,78,29,49
+Berkeley,16,House of Delegates,63,BRETT DAVID ROGERS,LIB,65,25,40
+Berkeley,24,House of Delegates,63,BRETT DAVID ROGERS,LIB,35,13,22
+Berkeley,27,House of Delegates,63,BRETT DAVID ROGERS,LIB,36,13,23
+Berkeley,28,House of Delegates,63,BRETT DAVID ROGERS,LIB,72,27,45
+Berkeley,32,House of Delegates,63,BRETT DAVID ROGERS,LIB,14,4,10
+Berkeley,49,House of Delegates,63,BRETT DAVID ROGERS,LIB,12,2,10
+Berkeley,53,House of Delegates,63,BRETT DAVID ROGERS,LIB,47,16,31
+Berkeley,106,House of Delegates,63,BRETT DAVID ROGERS,LIB,29,9,20
+Berkeley,107,House of Delegates,63,BRETT DAVID ROGERS,LIB,43,7,36
+Berkeley,110,House of Delegates,63,BRETT DAVID ROGERS,LIB,50,22,28
+Berkeley,Total,House of Delegates,63,BRETT DAVID ROGERS,LIB,481,167,314
+Berkeley,13,House of Delegates,63,WRITE-IN,,1,1,0
+Berkeley,16,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,24,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,27,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,28,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,32,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,49,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,53,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,106,House of Delegates,63,WRITE-1N,,0,0,0
+Berkeley,107,House of Delegates,63,WRITE-IN,,0,0,0
+Berkeley,110,House of Delegates,63,WRITE-IN,,1,0,1
+Berkeley,Total,House of Delegates,63,WRITE-IN,,2,1,1
+Berkeley,29,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,477,219,258
+Berkeley,34,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,400,132,268
+Berkeley,35,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,408,134,274
+Berkeley,36,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,422,81,341
+Berkeley,51,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,292,45,247
+Berkeley,54,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,292,64,228
+Berkeley,105,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,385,105,280
+Berkeley,112,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,329,124,205
+Berkeley,115,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,231,41,190
+Berkeley,Total,House of Delegates,64,ERIC LEE HOUSEHOLDER,REP,3236,945,2291
+Berkeley,29,House of Delegates,64,BARRY FRANKENBERRY,DEM,371,168,203
+Berkeley,34,House of Delegates,64,BARRY FRANKENBERRY,DEM,296,101,195
+Berkeley,35,House of Delegates,64,BARBY FRANKENBERRY,DEM,265,88,177
+Berkeley,36,House of Delegates,64,BARBY FRANKENBERRY,DEM,311,66,245
+Berkeley,51,House of Delegates,64,BARBY FRANKENBERRY,DEM,194,25,169
+Berkeley,54,House of Delegates,64,BARBY FRANKENBERRY,DEM,190,53,137
+Berkeley,105,House of Delegates,64,BARRY FRANKENBERRY,DEM,242,67,175
+Berkeley,112,House of Delegates,64,BARBY FRANKENBERRY,DEM,307,105,202
+Berkeley,115,House of Delegates,64,BARBY FRANKENBERRY,DEM,141,25,116
+Berkeley,Total,House of Delegates,64,BARBY FRANKENBERRY,DEM,2317,698,1619
+Berkeley,29,House of Delegates,64,WRITE-IN,,1,0,1
+Berkeley,34,House of Delegates,64,WRITE-IN,,1,1,0
+Berkeley,35,House of Delegates,64,WRITE-IN,,0,0,0
+Berkeley,36,House of Delegates,64,WRITE-IN,,1,0,1
+Berkeley,51,House of Delegates,64,WRITE-IN,,0,0,0
+Berkeley,54,House of Delegates,64,WRITE-IN,,1,0,1
+Berkeley,105,House of Delegates,64,WRITE-IN,,2,0,2
+Berkeley,112,House of Delegates,64,WRITE-IN,,0,0,0
+Berkeley,115,House of Delegates,64,WRITE-IN,,2,0,2
+Berkeley,Total,House of Delegates,64,WRITE-IN,,8,1,7
