@@ -1,0 +1,15 @@
+year,election,office,district,party,candidate,county,votes,winner
+1950,general,Circuit Judge,8,DEM,Ira J. Partlow,Totals,19104,TRUE
+1950,general,Circuit Judge,8,DEM,Ira J. Partlow,McDowell,19104,
+1950,general,Circuit Judge,8,,I. Mann,Totals,6579,
+1950,general,Circuit Judge,8,,I. Mann,McDowell,6579,
+1950,general,Circuit Judge,11,DEM,Nickell Kramer,Totals,15499,TRUE
+1950,general,Circuit Judge,11,DEM,Nickell Kramer,Greenbrier,6583,
+1950,general,Circuit Judge,11,DEM,Nickell Kramer,Monroe,2489,
+1950,general,Circuit Judge,11,DEM,Nickell Kramer,Pocahontas,2710,
+1950,general,Circuit Judge,11,DEM,Nickell Kramer,Summers,3717,
+1950,general,Circuit Judge,11,,George S. Sharp,Totals,1,
+1950,general,Circuit Judge,11,,George S. Sharp,Greenbrier,0,
+1950,general,Circuit Judge,11,,George S. Sharp,Monroe,0,
+1950,general,Circuit Judge,11,,George S. Sharp,Pocahontas,1,
+1950,general,Circuit Judge,11,,George S. Sharp,Summers,0,
