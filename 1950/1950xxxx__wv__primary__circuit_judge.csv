@@ -1,0 +1,10 @@
+year,election,office,district,party,candidate,county,votes,winner
+1950,primary,Circuit Judge,8,DEM,"Thornton G. Berry, Jr.",Totals,4703,
+1950,primary,Circuit Judge,8,DEM,"Thornton G. Berry, Jr.",Mcdowell,4703,
+1950,primary,Circuit Judge,8,DEM,Ira J. Partlow,Totals,7295,TRUE
+1950,primary,Circuit Judge,8,DEM,Ira J. Partlow,Mcdowell,7295,
+1950,primary,Circuit Judge,11,DEM,Nickell Kramer,Totals,6389,TRUE
+1950,primary,Circuit Judge,11,DEM,Nickell Kramer,Greenbrier,3135,
+1950,primary,Circuit Judge,11,DEM,Nickell Kramer,Monroe,665,
+1950,primary,Circuit Judge,11,DEM,Nickell Kramer,Pocahontas,641,
+1950,primary,Circuit Judge,11,DEM,Nickell Kramer,Summers,1948,
