@@ -1,0 +1,192 @@
+year,election,office,party,candidate,county,votes,winner
+1952,general,House of Delegates,DEM,Karl Wince,Barbour,4298,
+1952,general,House of Delegates,REP,G.F. “Frank” Row,Barbour,4617,TRUE
+1952,general,House of Delegates,DEM,Stewart A. Wright,Berkeley,7600,TRUE
+1952,general,House of Delegates,REP,Rev. Charles Beard,Berkeley,7557,
+1952,general,House of Delegates,DEM,E.E. White,Boone,8265,TRUE
+1952,general,House of Delegates,REP,"Harry L. Greene, Jr.",Boone,3974,
+1952,general,House of Delegates,DEM,Doyle F. McLaughlin,Braxton,4075,TRUE
+1952,general,House of Delegates,REP,John Pierson,Braxton,3719,
+1952,general,House of Delegates,DEM,W.R. Curtis,Brooke,7500,TRUE
+1952,general,House of Delegates,REP,Frank W. Grubbs,Brooke,4947,
+1952,general,House of Delegates,DEM,Mike Casey,Cabell,23340,
+1952,general,House of Delegates,DEM,Dr. R.C. Curry,Cabell,23452,
+1952,general,House of Delegates,DEM,Andrew K. Faller,Cabell,23080,
+1952,general,House of Delegates,DEM,Robert G. Gentry,Cabell,23356,
+1952,general,House of Delegates,DEM,Carney M. Layne,Cabell,23465,
+1952,general,House of Delegates,REP,David M. Baker,Cabell,25622,TRUE
+1952,general,House of Delegates,REP,J. Shelby Christian,Cabell,25356,TRUE
+1952,general,House of Delegates,REP,T.E. “Tom” Holderby,Cabell,26119,TRUE
+1952,general,House of Delegates,REP,T.E. “Tom” Miller,Cabell,24836,TRUE
+1952,general,House of Delegates,REP,G.Y. Neal,Cabell,25748,TRUE
+1952,general,House of Delegates,DEM,Dan Yoak,Calhoun,2325,TRUE
+1952,general,House of Delegates,DEM,Sylvester Mullins,Clay,2729,TRUE
+1952,general,House of Delegates,REP,E.G. Pierson,Clay,2639,
+1952,general,House of Delegates,REP,Clay D. Hammond,Doddridge,2814,TRUE
+1952,general,House of Delegates,DEM,"Hobert Booth, Jr.",Fayette,22234,TRUE
+1952,general,House of Delegates,DEM,P.H. (Doc) Kelly,Fayette,22728,TRUE
+1952,general,House of Delegates,DEM,J. Alex Tinsley,Fayette,22182,TRUE
+1952,general,House of Delegates,DEM,Nell W. Walker,Fayette,22289,TRUE
+1952,general,House of Delegates,REP,J.W. (Jim) Ayres,Fayette,8929,
+1952,general,House of Delegates,REP,M.E. (Buck) Hamblin,Fayette,8450,
+1952,general,House of Delegates,REP,C.F. Newman,Fayette,8390,
+1952,general,House of Delegates,REP,Dave Tamplin,Fayette,8698,
+1952,general,House of Delegates,DEM,Jack V. Stalnaker,Gilmer,2597,TRUE
+1952,general,House of Delegates,REP,George Wallis Miller,Gilmer,1471,
+1952,general,House of Delegates,REP,Ralph P. Welton,Grant,3339,TRUE
+1952,general,House of Delegates,DEM,John A. Lile,Greenbrier,8635,TRUE
+1952,general,House of Delegates,DEM,Lester W. (Doc.) Watts,Greenbrier,8721,TRUE
+1952,general,House of Delegates,REP,Merle L. Jones,Greenbrier,6188,
+1952,general,House of Delegates,REP,"W.E. (Bill) Blake, III",Greenbrier,6554,
+1952,general,House of Delegates,DEM,W.L. Thompson,Hampshire,2694,TRUE
+1952,general,House of Delegates,REP,Ben F. Slane,Hampshire,2142,
+1952,general,House of Delegates,DEM,Richard Herron,Hancock,9531,TRUE
+1952,general,House of Delegates,REP,Samuel Kusic,Hancock,6789,
+1952,general,House of Delegates,DEM,James M. Miley,Hardy,2631,TRUE
+1952,general,House of Delegates,DEM,Ralph A. Gawthrop,Harrison,20791,TRUE
+1952,general,House of Delegates,DEM,"Frank J. Maxwell, Jr.",Harrison,21766,TRUE
+1952,general,House of Delegates,DEM,"Fred H. Scanes, Jr.",Harrison,21127,TRUE
+1952,general,House of Delegates,DEM,W. Guy Tetrick,Harrison,21917,TRUE
+1952,general,House of Delegates,REP,J.C. “Jim” Burnside,Harrison,20156,
+1952,general,House of Delegates,REP,Elmer H. Collins,Harrison,19071,
+1952,general,House of Delegates,REP,Hobart M. Davis,Harrison,19297,
+1952,general,House of Delegates,REP,Arthur J. Thompson,Harrison,18576,
+1952,general,House of Delegates,DEM,Tracy T. Starcher,Jackson,2772,
+1952,general,House of Delegates,REP,Vernon McCoy,Jackson,4638,TRUE
+1952,general,House of Delegates,DEM,William P. C. Percy,Jefferson,4643,TRUE
+1952,general,House of Delegates,DEM,"Pat Board, Jr.",Kanawha,57240,TRUE
+1952,general,House of Delegates,DEM,Ivor F. Boiarsky,Kanawha,54537,
+1952,general,House of Delegates,DEM,Martin C. Bowles,Kanawha,55676,TRUE
+1952,general,House of Delegates,DEM,"W.T. Brotherton, Jr.",Kanawha,56508,TRUE
+1952,general,House of Delegates,DEM,W.E. “Ned” Chilton,Kanawha,55398,TRUE
+1952,general,House of Delegates,DEM,"J. Henry Francis, Jr.",Kanawha,56537,TRUE
+1952,general,House of Delegates,DEM,John Lynn Goshorn,Kanawha,57676,TRUE
+1952,general,House of Delegates,DEM,"Edward D. Knight, Jr.",Kanawha,56634,TRUE
+1952,general,House of Delegates,DEM,James W. Loop,Kanawha,56005,TRUE
+1952,general,House of Delegates,DEM,M.M. Maloney,Kanawha,53698,
+1952,general,House of Delegates,DEM,"H.L. “Jack” Snyder, Jr.",Kanawha,55916,TRUE
+1952,general,House of Delegates,REP,William F. Blue,Kanawha,55013,
+1952,general,House of Delegates,REP,Lyell B. Clay,Kanawha,55123,
+1952,general,House of Delegates,REP,Paul Heydrick,Kanawha,55299,TRUE
+1952,general,House of Delegates,REP,"Tom L. Horn, Jr.",Kanawha,54232,
+1952,general,House of Delegates,REP,Julius H. Love,Kanawha,53140,
+1952,general,House of Delegates,REP,M.R. “Mack” Mathews,Kanawha,54530,
+1952,general,House of Delegates,REP,William “Lefty” Moore,Kanawha,52683,
+1952,general,House of Delegates,REP,Harry L. Paxton,Kanawha,53282,
+1952,general,House of Delegates,REP,"John H. Reed, Jr.",Kanawha,54110,
+1952,general,House of Delegates,REP,John L. Thomas,Kanawha,55596,TRUE
+1952,general,House of Delegates,REP,W.M. “Billy” Thomas,Kanawha,52853,
+1952,general,House of Delegates,DEM,Robert J. Conley,Lewis,4369,
+1952,general,House of Delegates,REP,Lincoln County,Lewis,5230,TRUE
+1952,general,House of Delegates,DEM,L.E. (Duck) Thompson,Lincoln,5134,TRUE
+1952,general,House of Delegates,REP,W. E. Hauldren,Lincoln,4769,
+1952,general,House of Delegates,DEM,Dr. H.T. Elliot,Logan,18888,TRUE
+1952,general,House of Delegates,DEM,Wm. E. Flannery,Logan,19345,TRUE
+1952,general,House of Delegates,DEM,Earl Hager,Logan,19502,TRUE
+1952,general,House of Delegates,DEM,C.L. Williams,Logan,19340,TRUE
+1952,general,House of Delegates,REP,Arthur Calvin,Logan,8397,
+1952,general,House of Delegates,REP,R. Paul Holland,Logan,9001,
+1952,general,House of Delegates,REP,John G. Thornbury,Logan,8791,
+1952,general,House of Delegates,REP,J.R. Rayburn,Logan,8742,
+1952,general,House of Delegates,DEM,Okey H. Hall,Marion,18920,TRUE
+1952,general,House of Delegates,DEM,"Harry Wayne Hamilton, Jr.",Marion,19771,TRUE
+1952,general,House of Delegates,DEM,J.E. “Ned” Watson,Marion,20185,TRUE
+1952,general,House of Delegates,REP,Roderick A. Devison,Marion,15483,
+1952,general,House of Delegates,REP,Goffe H. Sturm,Marion,13775,
+1952,general,House of Delegates,REP,James W. Allard,Marion,14920,
+1952,general,House of Delegates,DEM,"Dan J. Hanley, Sr.",Marshall,8223,
+1952,general,House of Delegates,DEM,Karl M. Jones,Marshall,8020,
+1952,general,House of Delegates,REP,"Arch A. Moore, Jr.",Marshall,9427,TRUE
+1952,general,House of Delegates,REP,Gordon W. Sammons,Marshall,9227,TRUE
+1952,general,House of Delegates,DEM,Vallie E. Toney,Mason,4036,
+1952,general,House of Delegates,REP,George A. Rairden,Mason,5867,TRUE
+1952,general,House of Delegates,DEM,W. McKay Fanning,Mercer,17281,TRUE
+1952,general,House of Delegates,DEM,G.T. Johnston,Mercer,17404,TRUE
+1952,general,House of Delegates,DEM,Robert M. Richardson,Mercer,17902,TRUE
+1952,general,House of Delegates,REP,Herbert L. Graham,Mercer,12595,
+1952,general,House of Delegates,REP,Everett Lee Phillips,Mercer,12381,
+1952,general,House of Delegates,REP,Robert W. Yost,Mercer,12338,
+1952,general,House of Delegates,DEM,J. B. Faller,Mineral,4537,
+1952,general,House of Delegates,REP,John I. Rogers,Mineral,5616,TRUE
+1952,general,House of Delegates,DEM,Toney E. Cline,Mingo,12736,TRUE
+1952,general,House of Delegates,DEM,Wm. A. Hatfield,Mingo,12944,TRUE
+1952,general,House of Delegates,REP,H.W. Burmeister,Mingo,6595,
+1952,general,House of Delegates,REP,S. J. Goodman,Mingo,6550,
+1952,general,House of Delegates,DEM,C.H. Ambler,Monongalia,13946,TRUE
+1952,general,House of Delegates,DEM,"George Fumich, Jr.",Monongalia,13128,TRUE
+1952,general,House of Delegates,DEM,Wm. A. Moreland,Monongalia,13602,TRUE
+1952,general,House of Delegates,REP,Frank M. Brand,Monongalia,11690,
+1952,general,House of Delegates,REP,Roy F. Hayhurst,Monongalia,12377,
+1952,general,House of Delegates,REP,"Donald G. Lazzelle, Jr.",Monongalia,12127,
+1952,general,House of Delegates,DEM,Dr. T.G. Matney,Monroe,3174,
+1952,general,House of Delegates,REP,Sherman Ballard,Monroe,3177,TRUE
+1952,general,House of Delegates,DEM,Leslie E. Aulabaugh,Morgan,1583,
+1952,general,House of Delegates,REP,"Ward M. Dawson, Sr.",Morgan,2496,TRUE
+1952,general,House of Delegates,DEM,Vernon (Coach) Callaway,McDowell,25006,TRUE
+1952,general,House of Delegates,DEM,Mrs. Elizabeth Drewery,McDowell,24494,TRUE
+1952,general,House of Delegates,DEM,"W.J. Morgan, Jr.",McDowell,24483,TRUE
+1952,general,House of Delegates,DEM,Harry R. Pauley,McDowell,24080,TRUE
+1952,general,House of Delegates,DEM,Dr. Irvine Saunders,McDowell,23055,TRUE
+1952,general,House of Delegates,REP,Albert David Crochett,McDowell,9933,
+1952,general,House of Delegates,REP,Dean Dupler,McDowell,9530,
+1952,general,House of Delegates,REP,Helen M. Gregory,McDowell,9406,
+1952,general,House of Delegates,REP,G.G. Newberry,McDowell,9722,
+1952,general,House of Delegates,REP,Lawrence Young,McDowell,10240,
+1952,general,House of Delegates,DEM,Jake Neal,Nicholas,5378,TRUE
+1952,general,House of Delegates,REP,Dr. William D. McClung,Nicholas,4720,
+1952,general,House of Delegates,DEM,Russell A. Burt,Ohio,16336,
+1952,general,House of Delegates,DEM,"William B. Casey, Jr.",Ohio,16621,
+1952,general,House of Delegates,DEM,John B. Gardner,Ohio,16589,
+1952,general,House of Delegates,REP,George F. Beneke,Ohio,19314,TRUE
+1952,general,House of Delegates,REP,Chester R. Hubbard,Ohio,18932,TRUE
+1952,general,House of Delegates,REP,"George H. Seibert, Jr.",Ohio,19374,TRUE
+1952,general,House of Delegates,DEM,"William McCoy, Jr.",Pendleton,2285,TRUE
+1952,general,House of Delegates,REP,J. C. Powell,Pleasants,2064,TRUE
+1952,general,House of Delegates,DEM,June McElwee,Pocahontas,2814,TRUE
+1952,general,House of Delegates,REP,Warren E. Blackhurst,Pocahontas,2763,
+1952,general,House of Delegates,DEM,Paul W. Morris,Preston,4295,
+1952,general,House of Delegates,REP,Richard Whetsell,Preston,7720,TRUE
+1952,general,House of Delegates,DEM,J. F. McClanahan,Putnam,4860,
+1952,general,House of Delegates,REP,Judson D. McCormick,Putnam,4891,TRUE
+1952,general,House of Delegates,DEM,W.A. (Gene) Burke,Raleigh,23219,TRUE
+1952,general,House of Delegates,DEM,Roy Lee Harmon,Raleigh,22890,TRUE
+1952,general,House of Delegates,DEM,"H.L. Knapp, Jr.",Raleigh,22253,TRUE
+1952,general,House of Delegates,DEM,Paul J. Vennari,Raleigh,22972,TRUE
+1952,general,House of Delegates,REP,J.S. Butts,Raleigh,11955,
+1952,general,House of Delegates,REP,G. Berk Lynch,Raleigh,12710,
+1952,general,House of Delegates,REP,Cecil L. Miller,Raleigh,12759,
+1952,general,House of Delegates,REP,Clyde O. Wriston,Raleigh,11814,
+1952,general,House of Delegates,DEM,W. W. Barron,Randolph,7116,TRUE
+1952,general,House of Delegates,REP,Robert G. (Bob) Philips,Randolph,5223,
+1952,general,House of Delegates,DEM,Preston Gragg,Ritchie,1790,TRUE
+1952,general,House of Delegates,REP,Aubrey E. Ferguson,Ritchie,4133,
+1952,general,House of Delegates,DEM,C. N. Rogers,Roane,3604,
+1952,general,House of Delegates,REP,Roy L. McCulty,Roane,4886,TRUE
+1952,general,House of Delegates,DEM,C. D. McCormick,Summers,4590,TRUE
+1952,general,House of Delegates,REP,"Fred E. Huddleston, Jr.",Summers,3205,
+1952,general,House of Delegates,DEM,Jack R. Nuzum,Taylor,4015,
+1952,general,House of Delegates,REP,Gough Ridenour,Taylor,4370,TRUE
+1952,general,House of Delegates,DEM,Joseph R. Gilmore,Tucker,2548,TRUE
+1952,general,House of Delegates,REP,John J. Mulllenex,Tucker,2209,
+1952,general,House of Delegates,REP,Cecil H. Underwood,Tyler,3478,TRUE
+1952,general,House of Delegates,REP,Richard (Dick) Young,Upshur,5889,TRUE
+1952,general,House of Delegates,,Ben L. Beall (Write in),Upshur,464,
+1952,general,House of Delegates,DEM,Epison A. Cole,Wayne,8697,TRUE
+1952,general,House of Delegates,DEM,H. T. (Tom) Tucker,Wayne,8885,TRUE
+1952,general,House of Delegates,REP,Rufus L. Dial,Wayne,6457,
+1952,general,House of Delegates,REP,Keith Ray,Wayne,6613,
+1952,general,House of Delegates,DEM,Hanse McCourt,Webster,3988,TRUE
+1952,general,House of Delegates,DEM,Herbert Shupbach,Wetzel,1129,TRUE
+1952,general,House of Delegates,REP,J. H. Ashcraft,Wetzel,1426,
+1952,general,House of Delegates,DEM,H. E. Pomroy,Wirt,1129,
+1952,general,House of Delegates,REP,G. R. West,Wirt,1426,TRUE
+1952,general,House of Delegates,DEM,T. N. (Tom) Ellis,Wood,13872,
+1952,general,House of Delegates,DEM,Roger F. Redmond,Wood,14397,
+1952,general,House of Delegates,DEM,William B. Redmond,Wood,14765,
+1952,general,House of Delegates,REP,Spencer K. Creel,Wood,19600,TRUE
+1952,general,House of Delegates,REP,Malcolm B. Louden,Wood,19307,TRUE
+1952,general,House of Delegates,REP,W. M. Parker,Wood,19217,TRUE
+1952,general,House of Delegates,DEM,Paul Bower,Wyoming,9159,TRUE
+1952,general,House of Delegates,DEM,J. Paul England,Wyoming,9029,TRUE
+1952,general,House of Delegates,REP,Rush D. Walls,Wyoming,5568,
+1952,general,House of Delegates,REP,Wm. F. Staats,Wyoming,5915,

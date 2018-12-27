@@ -1,0 +1,103 @@
+year,election,office,party,district,candidate,county,votes,winner
+1952,primary,Circuit Judge,REP,2,Lloyd Arnold,Totals,8495,TRUE
+1952,primary,Circuit Judge,REP,2,Lloyd Arnold,Marshall,5445,
+1952,primary,Circuit Judge,REP,2,Lloyd Arnold,Tyler,1552,
+1952,primary,Circuit Judge,REP,2,Lloyd Arnold,Wetzel,1498,
+1952,primary,Circuit Judge,REP,3,Max DeBerry,Totals,3831,TRUE
+1952,primary,Circuit Judge,REP,3,Max DeBerry,Doddridge,1403,
+1952,primary,Circuit Judge,REP,3,Max DeBerry,Pleasants,559,
+1952,primary,Circuit Judge,REP,3,Max DeBerry,Ritchie,1869,
+1952,primary,Circuit Judge,REP,3,Dewey S. Wass,Totals,2727,
+1952,primary,Circuit Judge,REP,3,Dewey S. Wass,Doddridge,821,
+1952,primary,Circuit Judge,REP,3,Dewey S. Wass,Pleasants,460,
+1952,primary,Circuit Judge,REP,3,Dewey S. Wass,Ritchie,1446,
+1952,primary,Circuit Judge,REP,4,Donald F. Black,Totals,9887,TRUE
+1952,primary,Circuit Judge,REP,4,Donald F. Black,Wirt,762,
+1952,primary,Circuit Judge,REP,4,Donald F. Black,Wood,9125,
+1952,primary,Circuit Judge,REP,5,Lewis H. Miller,Totals,10022,TRUE
+1952,primary,Circuit Judge,REP,5,Lewis H. Miller,Calhoun,673,
+1952,primary,Circuit Judge,REP,5,Lewis H. Miller,Jackson,3149,
+1952,primary,Circuit Judge,REP,5,Lewis H. Miller,Mason,3597,
+1952,primary,Circuit Judge,REP,5,Lewis H. Miller,Roane,2603,
+1952,primary,Circuit Judge,REP,11,Percy Houston Brown,Totals,5287,TRUE
+1952,primary,Circuit Judge,REP,11,Percy Houston Brown,Greenbrier,1973,
+1952,primary,Circuit Judge,REP,11,Percy Houston Brown,Monroe,1279,
+1952,primary,Circuit Judge,REP,11,Percy Houston Brown,Pocahontas,1033,
+1952,primary,Circuit Judge,REP,11,Percy Houston Brown,Summers,1002,
+1952,primary,Circuit Judge,REP,12,Myron R. (Rusty) Renick,Totals,5712,TRUE
+1952,primary,Circuit Judge,REP,12,Myron R. (Rusty) Renick,Fayette,4410,
+1952,primary,Circuit Judge,REP,12,Myron R. (Rusty) Renick,Nicholas,1302,
+1952,primary,Circuit Judge,REP,19,George M. Kittle,Totals,2688,
+1952,primary,Circuit Judge,REP,19,George M. Kittle,Barbour,2188,
+1952,primary,Circuit Judge,REP,19,George M. Kittle,Taylor,500,
+1952,primary,Circuit Judge,REP,19,W. Merle Wakins,Totals,3035,TRUE
+1952,primary,Circuit Judge,REP,19,W. Merle Wakins,Barbour,754,
+1952,primary,Circuit Judge,REP,19,W. Merle Wakins,Taylor,2281,
+1952,primary,Circuit Judge,REP,21,Lester Reynolds,Totals,2666,
+1952,primary,Circuit Judge,REP,21,Lester Reynolds,Grant,1052,
+1952,primary,Circuit Judge,REP,21,Lester Reynolds,Mineral,1377,
+1952,primary,Circuit Judge,REP,21,Lester Reynolds,Tucker,237,
+1952,primary,Circuit Judge,REP,21,Ernest A. See,Totals,4494,TRUE
+1952,primary,Circuit Judge,REP,21,Ernest A. See,Grant,1366,
+1952,primary,Circuit Judge,REP,21,Ernest A. See,Mineral,2053,
+1952,primary,Circuit Judge,REP,21,Ernest A. See,Tucker,1075,
+1952,primary,Circuit Judge,REP,23,Decatur H. Rodgers,Totals,4257,TRUE
+1952,primary,Circuit Judge,REP,23,Decatur H. Rodgers,Berkeley,2271,
+1952,primary,Circuit Judge,REP,23,Decatur H. Rodgers,Jefferson,633,
+1952,primary,Circuit Judge,REP,23,Decatur H. Rodgers,Morgan,1353,
+1952,primary,Circuit Judge,REP,24,Moses G. Alley,Totals,3772,TRUE
+1952,primary,Circuit Judge,REP,24,Moses G. Alley,Wayne,1992,
+1952,primary,Circuit Judge,REP,24,Moses G. Alley,Mingo,1780,
+1952,primary,Circuit Judge,REP,26,A. Jerome Dailey,Totals,3886,
+1952,primary,Circuit Judge,REP,26,A. Jerome Dailey,Lewis,1581,
+1952,primary,Circuit Judge,REP,26,A. Jerome Dailey,Upshur,2305,
+1952,primary,Circuit Judge,REP,26,J. Dowell Jennings,Totals,3999,TRUE
+1952,primary,Circuit Judge,REP,26,J. Dowell Jennings,Lewis,2148,
+1952,primary,Circuit Judge,REP,26,J. Dowell Jennings,Upshur,1851,
+1952,primary,Circuit Judge,DEM,4,Forbes R. Hiehle,Totals,8945,TRUE
+1952,primary,Circuit Judge,DEM,4,Forbes R. Hiehle,Wirt,677,
+1952,primary,Circuit Judge,DEM,4,Forbes R. Hiehle,Wood,8268,
+1952,primary,Circuit Judge,DEM,6,John W. Hereford,Totals,10660,TRUE
+1952,primary,Circuit Judge,DEM,6,John W. Hereford,Cabell,9034,
+1952,primary,Circuit Judge,DEM,6,John W. Hereford,Putnam,1626,
+1952,primary,Circuit Judge,DEM,6,Ernest E. Winters,Totals,6358,
+1952,primary,Circuit Judge,DEM,6,Ernest E. Winters,Cabell,5425,
+1952,primary,Circuit Judge,DEM,6,Ernest E. Winters,Putnam,933,
+1952,primary,Circuit Judge,DEM,11,Nickell Kramer,Totals,12240,TRUE
+1952,primary,Circuit Judge,DEM,11,Nickell Kramer,Greenbrier,6232,
+1952,primary,Circuit Judge,DEM,11,Nickell Kramer,Monroe,1629,
+1952,primary,Circuit Judge,DEM,11,Nickell Kramer,Pocahontas,1552,
+1952,primary,Circuit Judge,DEM,11,Nickell Kramer,Summers,2827,
+1952,primary,Circuit Judge,DEM,12,"Charles L. Garvin, Jr.",Totals,10816,TRUE
+1952,primary,Circuit Judge,DEM,12,"Charles L. Garvin, Jr.",Fayette,8942,
+1952,primary,Circuit Judge,DEM,12,"Charles L. Garvin, Jr.",Nicholas,1874,
+1952,primary,Circuit Judge,DEM,12,"P.J. Thrift, Jr.",Totals,9384,
+1952,primary,Circuit Judge,DEM,12,"P.J. Thrift, Jr.",Fayette,7627,
+1952,primary,Circuit Judge,DEM,12,"P.J. Thrift, Jr.",Nicholas,1757,
+1952,primary,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Totals,8830,TRUE
+1952,primary,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Braxton,2996,
+1952,primary,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Clay,1779,
+1952,primary,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Gilmer,1612,
+1952,primary,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Webster,2443,
+1952,primary,Circuit Judge,DEM,19,I. Raymond Murphy,Totals,4466,TRUE
+1952,primary,Circuit Judge,DEM,19,I. Raymond Murphy,Barbour,2565,
+1952,primary,Circuit Judge,DEM,19,I. Raymond Murphy,Taylor,1901,
+1952,primary,Circuit Judge,DEM,22,Harlan M. Calhoun,Totals,4155,TRUE
+1952,primary,Circuit Judge,DEM,22,Harlan M. Calhoun,Hampshire,1506,
+1952,primary,Circuit Judge,DEM,22,Harlan M. Calhoun,Hardy,1570,
+1952,primary,Circuit Judge,DEM,22,Harlan M. Calhoun,Pendleton,1079,
+1952,primary,Circuit Judge,DEM,24,Lafe B. Chafin,Totals,8360,
+1952,primary,Circuit Judge,DEM,24,Lafe B. Chafin,Wayne,6015,
+1952,primary,Circuit Judge,DEM,24,Lafe B. Chafin,Mingo,2345,
+1952,primary,Circuit Judge,DEM,24,Charles W. Ferguson,Totals,11227,TRUE
+1952,primary,Circuit Judge,DEM,24,Charles W. Ferguson,Wayne,5265,
+1952,primary,Circuit Judge,DEM,24,Charles W. Ferguson,Mingo,5962,
+1952,primary,Circuit Judge,DEM,25,W.F. Damron,Totals,3523,
+1952,primary,Circuit Judge,DEM,25,W.F. Damron,Boone,1875,
+1952,primary,Circuit Judge,DEM,25,W.F. Damron,Lincoln,1648,
+1952,primary,Circuit Judge,DEM,25,Earl M. Hall,Totals,1293,
+1952,primary,Circuit Judge,DEM,25,Earl M. Hall,Boone,1064,
+1952,primary,Circuit Judge,DEM,25,Earl M. Hall,Lincoln,229,
+1952,primary,Circuit Judge,DEM,25,K.K. Hall,Totals,4658,TRUE
+1952,primary,Circuit Judge,DEM,25,K.K. Hall,Boone,3456,
+1952,primary,Circuit Judge,DEM,25,K.K. Hall,Lincoln,1202,
