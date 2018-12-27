@@ -1,0 +1,126 @@
+year,election,office,party,district,candidate,county,votes,winner
+1952,general,Circuit Judge,DEM,1,J.J.P. O’Brien,Totals,62894,TRUE
+1952,general,Circuit Judge,DEM,1,J.J.P. O’Brien,Ohio,12212,
+1952,general,Circuit Judge,DEM,1,J.J.P. O’Brien,Brooke,15112,
+1952,general,Circuit Judge,DEM,1,J.J.P. O’Brien,Hancock,35570,
+1952,general,Circuit Judge,REP,1,J. Harold Brennan,Totals,62270,
+1952,general,Circuit Judge,REP,1,J. Harold Brennan,Ohio,12027,
+1952,general,Circuit Judge,REP,1,J. Harold Brennan,Brooke,15201,
+1952,general,Circuit Judge,REP,1,J. Harold Brennan,Hancock,35042,
+1952,general,Circuit Judge,REP,2,Lloyd Arnold,Totals,18018,TRUE
+1952,general,Circuit Judge,REP,2,Lloyd Arnold,Marshall,9719,
+1952,general,Circuit Judge,REP,2,Lloyd Arnold,Tyler,3522,
+1952,general,Circuit Judge,REP,2,Lloyd Arnold,Wetzel,4777,
+1952,general,Circuit Judge,REP,3,Max DeBerry,Totals,9285,TRUE
+1952,general,Circuit Judge,REP,3,Max DeBerry,Doddridge,2837,
+1952,general,Circuit Judge,REP,3,Max DeBerry,Pleasants,2060,
+1952,general,Circuit Judge,REP,3,Max DeBerry,Ritchie,4388,
+1952,general,Circuit Judge,DEM,4,Forbes R. Hiehle,Totals,17880,
+1952,general,Circuit Judge,DEM,4,Forbes R. Hiehle,Wirt,1079,
+1952,general,Circuit Judge,DEM,4,Forbes R. Hiehle,Wood,16801,
+1952,general,Circuit Judge,REP,4,Donald F. Black,Totals,18941,TRUE
+1952,general,Circuit Judge,REP,4,Donald F. Black,Wirt,1443,
+1952,general,Circuit Judge,REP,4,Donald F. Black,Wood,17498,
+1952,general,Circuit Judge,REP,5,Lewis H. Miller,Totals,18435,TRUE
+1952,general,Circuit Judge,REP,5,Lewis H. Miller,Calhoun,2193,
+1952,general,Circuit Judge,REP,5,Lewis H. Miller,Jackson,4958,
+1952,general,Circuit Judge,REP,5,Lewis H. Miller,Mason,6307,
+1952,general,Circuit Judge,REP,5,Lewis H. Miller,Roane,4977,
+1952,general,Circuit Judge,DEM,6,John W. Hereford,Totals,30766,TRUE
+1952,general,Circuit Judge,DEM,6,John W. Hereford,Cabell,25745,
+1952,general,Circuit Judge,DEM,6,John W. Hereford,Putnam,5021,
+1952,general,Circuit Judge,DEM,7,C. C. Chambers,Totals,20299,TRUE
+1952,general,Circuit Judge,DEM,7,C. C. Chambers,Logan,20299,
+1952,general,Circuit Judge,DEM,8,"Thornton G. Berry, Jr.",Totals,25656,TRUE
+1952,general,Circuit Judge,DEM,8,"Thornton G. Berry, Jr.",McDowell,25656,
+1952,general,Circuit Judge,REP,8,I. Mann Litz,Totals,9079,
+1952,general,Circuit Judge,REP,8,I. Mann Litz,McDowell,9079,
+1952,general,Circuit Judge,DEM,9,F. Morton Wagner,Totals,18729,TRUE
+1952,general,Circuit Judge,DEM,9,F. Morton Wagner,Mercer,18729,
+1952,general,Circuit Judge,REP,9,H.E. DeJarnette,Totals,12013,
+1952,general,Circuit Judge,REP,9,H.E. DeJarnette,Mercer,12013,
+1952,general,Circuit Judge,DEM,10,Ben H. Ashworth,Totals,23323,TRUE
+1952,general,Circuit Judge,DEM,10,Ben H. Ashworth,Raleigh,23323,
+1952,general,Circuit Judge,REP,10,Carl C. Sanders,Totals,12733,
+1952,general,Circuit Judge,REP,10,Carl C. Sanders,Raleigh,12733,
+1952,general,Circuit Judge,DEM,11,Nickell Kramer,Totals,19804,TRUE
+1952,general,Circuit Judge,DEM,11,Nickell Kramer,Greenbrier,9346,
+1952,general,Circuit Judge,DEM,11,Nickell Kramer,Monroe,3047,
+1952,general,Circuit Judge,DEM,11,Nickell Kramer,Pocahontas,2977,
+1952,general,Circuit Judge,DEM,11,Nickell Kramer,Summers,4434,
+1952,general,Circuit Judge,REP,11,Percy Houston Brown,Totals,15421,
+1952,general,Circuit Judge,REP,11,Percy Houston Brown,Greenbrier,6137,
+1952,general,Circuit Judge,REP,11,Percy Houston Brown,Monroe,3256,
+1952,general,Circuit Judge,REP,11,Percy Houston Brown,Pocahontas,2578,
+1952,general,Circuit Judge,REP,11,Percy Houston Brown,Summers,3450,
+1952,general,Circuit Judge,DEM,12,"Charles I. Garvin, Jr.",Totals,28408,TRUE
+1952,general,Circuit Judge,DEM,12,"Charles I. Garvin, Jr.",Fayette,22550,
+1952,general,Circuit Judge,DEM,12,"Charles I. Garvin, Jr.",Nicholas,5858,
+1952,general,Circuit Judge,REP,12,Myron R. (Rusty) Renick,Totals,13128,
+1952,general,Circuit Judge,REP,12,Myron R. (Rusty) Renick,Fayette,9012,
+1952,general,Circuit Judge,REP,12,Myron R. (Rusty) Renick,Nicholas,4116,
+1952,general,Circuit Judge,DEM,13,Frank L. Taylor,Totals,56696,TRUE
+1952,general,Circuit Judge,DEM,13,Frank L. Taylor,Kanawha,56696,
+1952,general,Circuit Judge,REP,13,Donald O. Blagg,Totals,51379,
+1952,general,Circuit Judge,REP,13,Donald O. Blagg,Kanawha,51379,
+1952,general,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Totals,14116,TRUE
+1952,general,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Braxton,4708,
+1952,general,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Clay,2888,
+1952,general,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Gilmer,2562,
+1952,general,Circuit Judge,DEM,14,"Charles A. Duffield, Jr.",Webster,3958,
+1952,general,Circuit Judge,DEM,15,J. Phillip Clifford,Totals,20630,
+1952,general,Circuit Judge,DEM,15,J. Phillip Clifford,Harrison,20630,
+1952,general,Circuit Judge,REP,15,Karl B. Kyle,Totals,21199,TRUE
+1952,general,Circuit Judge,REP,15,Karl B. Kyle,Harrison,21199,
+1952,general,Circuit Judge,DEM,16,J. Harper Meredith,Totals,21435,TRUE
+1952,general,Circuit Judge,DEM,16,J. Harper Meredith,Marion,21435,
+1952,general,Circuit Judge,REP,16,L.T. Eddy,Totals,13166,
+1952,general,Circuit Judge,REP,16,L.T. Eddy,Marion,13166,
+1952,general,Circuit Judge,DEM,17,Don J. Eddy,Totals,13608,TRUE
+1952,general,Circuit Judge,DEM,17,Don J. Eddy,Monongalia,13608,
+1952,general,Circuit Judge,REP,17,Charles G. Baker,Totals,12825,
+1952,general,Circuit Judge,REP,17,Charles G. Baker,Monongalia,12825,
+1952,general,Circuit Judge,REP,18,Melvin C. Snyder,Totals,8321,TRUE
+1952,general,Circuit Judge,REP,18,Melvin C. Snyder,Preston,8321,
+1952,general,Circuit Judge,DEM,19,I. Raymond Murphy,Totals,7459,
+1952,general,Circuit Judge,DEM,19,I. Raymond Murphy,Barbour,4385,
+1952,general,Circuit Judge,DEM,19,I. Raymond Murphy,Taylor,3074,
+1952,general,Circuit Judge,REP,19,W. Merle Watkins,Totals,10011,TRUE
+1952,general,Circuit Judge,REP,19,W. Merle Watkins,Barbour,4622,
+1952,general,Circuit Judge,REP,19,W. Merle Watkins,Taylor,5389,
+1952,general,Circuit Judge,DEM,20,Stanley Bosworth,Totals,7934,TRUE
+1952,general,Circuit Judge,DEM,20,Stanley Bosworth,Randolph,7934,
+1952,general,Circuit Judge,REP,21,Ernest A. See,Totals,11641,TRUE
+1952,general,Circuit Judge,REP,21,Ernest A. See,Grant,3344,
+1952,general,Circuit Judge,REP,21,Ernest A. See,Mineral,5805,
+1952,general,Circuit Judge,REP,21,Ernest A. See,Tucker,2492,
+1952,general,Circuit Judge,DEM,22,Harlan M. Calhoun,Totals,7879,TRUE
+1952,general,Circuit Judge,DEM,22,Harlan M. Calhoun,Hampshire,2869,
+1952,general,Circuit Judge,DEM,22,Harlan M. Calhoun,Hardy,2724,
+1952,general,Circuit Judge,DEM,22,Harlan M. Calhoun,Pendleton,2286,
+1952,general,Circuit Judge,REP,23,Decatur H. Rodgers,Totals,14130,TRUE
+1952,general,Circuit Judge,REP,23,Decatur H. Rodgers,Berkeley,8279,
+1952,general,Circuit Judge,REP,23,Decatur H. Rodgers,Jefferson,3081,
+1952,general,Circuit Judge,REP,23,Decatur H. Rodgers,Morgan,2770,
+1952,general,Circuit Judge,DEM,24,Charles W. Ferguson,Totals,22496,TRUE
+1952,general,Circuit Judge,DEM,24,Charles W. Ferguson,Wayne,13357,
+1952,general,Circuit Judge,DEM,24,Charles W. Ferguson,Mingo,9139,
+1952,general,Circuit Judge,REP,24,Moses G. Alley,Totals,13279,
+1952,general,Circuit Judge,REP,24,Moses G. Alley,Wayne,6525,
+1952,general,Circuit Judge,REP,24,Moses G. Alley,Mingo,6754,
+1952,general,Circuit Judge,DEM,25,K.K. Hall,Totals,13652,TRUE
+1952,general,Circuit Judge,DEM,25,K.K. Hall,Boone,8502,
+1952,general,Circuit Judge,DEM,25,K.K. Hall,Lincoln,5150,
+1952,general,Circuit Judge,REP,25,J.E. Wilkinson,Totals,8444,
+1952,general,Circuit Judge,REP,25,J.E. Wilkinson,Boone,3727,
+1952,general,Circuit Judge,REP,25,J.E. Wilkinson,Lincoln,4717,
+1952,general,Circuit Judge,,26,A. Jerome Dailey (Write-in),Totals,2157,
+1952,general,Circuit Judge,,26,A. Jerome Dailey (Write-in),Lewis,609,
+1952,general,Circuit Judge,,26,A. Jerome Dailey (Write-in),Upshur,1548,
+1952,general,Circuit Judge,REP,26,J. Dowell Jennings,Totals,11606,TRUE
+1952,general,Circuit Judge,REP,26,J. Dowell Jennings,Lewis,6281,
+1952,general,Circuit Judge,REP,26,J. Dowell Jennings,Upshur,5325,
+1952,general,Circuit Judge,DEM,27,Robert M. Worrell,Totals,9497,TRUE
+1952,general,Circuit Judge,DEM,27,Robert M. Worrell,Wyoming,9497,
+1952,general,Circuit Judge,REP,27,A.R. Kingdon,Totals,5588,
+1952,general,Circuit Judge,REP,27,A.R. Kingdon,Wyoming,5588,
