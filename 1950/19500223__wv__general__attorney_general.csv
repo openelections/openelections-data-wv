@@ -1,5 +1,5 @@
 year,election,office,party,candidate,county,votes,winner
-1950,general,Attorney General,DEM,William C. Marland,Totals,355307,TRUE
+1950,general,Attorney General,DEM,William C. Marland,Totals,359734,TRUE
 1950,general,Attorney General,DEM,William C. Marland,Barbour,3840,
 1950,general,Attorney General,DEM,William C. Marland,Berkeley,5218,
 1950,general,Attorney General,DEM,William C. Marland,Boone,6029,
@@ -21,6 +21,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,general,Attorney General,DEM,William C. Marland,Jefferson,3103,
 1950,general,Attorney General,DEM,William C. Marland,Kanawha,46069,
 1950,general,Attorney General,DEM,William C. Marland,Lewis,3303,
+1950,general,Attorney General,DEM,William C. Marland,Lincoln,4427,
 1950,general,Attorney General,DEM,William C. Marland,Logan,15688,
 1950,general,Attorney General,DEM,William C. Marland,Marion,15754,
 1950,general,Attorney General,DEM,William C. Marland,Marshall,6545,
@@ -54,7 +55,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,general,Attorney General,DEM,William C. Marland,Wirt,1179,
 1950,general,Attorney General,DEM,William C. Marland,Wood,12528,
 1950,general,Attorney General,DEM,William C. Marland,Wyoming,6917,
-1950,general,Attorney General,REP,William H. Rardin,Totals,270145,
+1950,general,Attorney General,REP,William H. Rardin,Totals,277079,
 1950,general,Attorney General,REP,William H. Rardin,Barbour,3309,
 1950,general,Attorney General,REP,William H. Rardin,Berkeley,4820,
 1950,general,Attorney General,REP,William H. Rardin,Boone,2353,
@@ -76,6 +77,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,general,Attorney General,REP,William H. Rardin,Jefferson,1621,
 1950,general,Attorney General,REP,William H. Rardin,Kanawha,35563,
 1950,general,Attorney General,REP,William H. Rardin,Lewis,4578,
+1950,general,Attorney General,REP,William H. Rardin,Lincoln,6934,
 1950,general,Attorney General,REP,William H. Rardin,Logan,5435,
 1950,general,Attorney General,REP,William H. Rardin,Marion,10155,
 1950,general,Attorney General,REP,William H. Rardin,Marshall,6634,

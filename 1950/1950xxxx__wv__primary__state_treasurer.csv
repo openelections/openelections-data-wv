@@ -1,5 +1,5 @@
 year,election,office,party,candidate,county,votes,winner
-1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Totals,97048,TRUE
+1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Totals,99562,TRUE
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Barbour,1177,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Berkeley,819,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Boone,1895,
@@ -41,6 +41,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Preston,462,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Putnam,854,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Raleigh,4096,
+1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Randolph,2514,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Ritchie,283,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Roane,594,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Summers,1197,
@@ -54,7 +55,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Wirt,423,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Wood,2120,
 1950,primary,State Treasurer,DEM,"Wiliam H. Ansel, Jr.",Wyoming,1654,
-1950,primary,State Treasurer,DEM,Hiram Phillips,Totals,49678,
+1950,primary,State Treasurer,DEM,Hiram Phillips,Totals,50589,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Barbour,360,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Berkeley,389,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Boone,828,
@@ -96,6 +97,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,DEM,Hiram Phillips,Preston,179,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Putnam,477,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Raleigh,3216,
+1950,primary,State Treasurer,DEM,Hiram Phillips,Randolph,911,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Ritchie,127,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Roane,330,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Summers,618,
@@ -109,7 +111,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,DEM,Hiram Phillips,Wirt,221,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Wood,1321,
 1950,primary,State Treasurer,DEM,Hiram Phillips,Wyoming,1338,
-1950,primary,State Treasurer,REP,Hal F. Morris,Totals,49003,TRUE
+1950,primary,State Treasurer,REP,Hal F. Morris,Totals,49407,TRUE
 1950,primary,State Treasurer,REP,Hal F. Morris,Barbour,567,
 1950,primary,State Treasurer,REP,Hal F. Morris,Berkeley,557,
 1950,primary,State Treasurer,REP,Hal F. Morris,Boone,467,
@@ -151,6 +153,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,REP,Hal F. Morris,Preston,1170,
 1950,primary,State Treasurer,REP,Hal F. Morris,Putnam,799,
 1950,primary,State Treasurer,REP,Hal F. Morris,Raleigh,1789,
+1950,primary,State Treasurer,REP,Hal F. Morris,Randolph,404,
 1950,primary,State Treasurer,REP,Hal F. Morris,Ritchie,346,
 1950,primary,State Treasurer,REP,Hal F. Morris,Roane,541,
 1950,primary,State Treasurer,REP,Hal F. Morris,Summers,234,
@@ -164,7 +167,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,REP,Hal F. Morris,Wirt,88,
 1950,primary,State Treasurer,REP,Hal F. Morris,Wood,1543,
 1950,primary,State Treasurer,REP,Hal F. Morris,Wyoming,678,
-1950,primary,State Treasurer,REP,Louis Reed,Totals,47848,
+1950,primary,State Treasurer,REP,Louis Reed,Totals,48251,
 1950,primary,State Treasurer,REP,Louis Reed,Barbour,913,
 1950,primary,State Treasurer,REP,Louis Reed,Berkeley,469,
 1950,primary,State Treasurer,REP,Louis Reed,Boone,192,
@@ -206,6 +209,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,State Treasurer,REP,Louis Reed,Preston,1607,
 1950,primary,State Treasurer,REP,Louis Reed,Putnam,608,
 1950,primary,State Treasurer,REP,Louis Reed,Raleigh,1041,
+1950,primary,State Treasurer,REP,Louis Reed,Randolph,403,
 1950,primary,State Treasurer,REP,Louis Reed,Ritchie,1061,
 1950,primary,State Treasurer,REP,Louis Reed,Roane,1172,
 1950,primary,State Treasurer,REP,Louis Reed,Summers,115,
