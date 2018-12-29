@@ -1,5 +1,5 @@
 year,election,office,party,candidate,county,votes,winner
-1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Total,124266,TRUE
+1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Total,130090,TRUE
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Barbour,1307,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Berkeley,1019,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Boone,2310,
@@ -9,6 +9,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Calhoun,850,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Clay,1034,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Doddridge,262,
+1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Fayette,5824,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Gilmer,1144,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Grant,135,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Greenbrier,2358,
@@ -54,7 +55,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Wirt,563,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Wood,3193,
 1950,primary,Judge of Supreme Court of Appeals,DEM,Leslie E. Given,Wyoming,2527,
-1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Total,83125,TRUE
+1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Total,85089,TRUE
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Barbour,1296,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Berkeley,887,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Boone,585,
@@ -64,6 +65,7 @@ year,election,office,party,candidate,county,votes,winner
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Calhoun,263,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Clay,602,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Doddridge,791,
+1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Fayette,1964,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Gilmer,381,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Grant,1074,
 1950,primary,Judge of Supreme Court of Appeals,REP,Charles Ritchie,Greenbrier,610,
