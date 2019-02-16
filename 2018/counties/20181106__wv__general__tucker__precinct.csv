@@ -1,13 +1,13 @@
-candidate,office,district,party,county,precinct,total votes
+candidate,office,district,party,county,precinct,votes
 ,Registered Voters,,,Tucker,Precinct 1,239
 ,Ballots Cast,,,Tucker,Precinct 1,144
-Patrick Morrisey,US Senate,,,Tucker,Precinct 1,79
-Joseph Manchin III,US Senate,,,Tucker,Precinct 1,50
-Rusty Hollen,US Senate,,,Tucker,Precinct 1,8
-Write In,US Senate,,,Tucker,Precinct 1,3
-David B McKinley,US House,1,,Tucker,Precinct 1,105
-Kendra Fershee,US House,1,,Tucker,Precinct 1,34
-Write In,US House,1,,Tucker,Precinct 1,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 1,79
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 1,50
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 1,8
+Write In,U.S. Senate,,,Tucker,Precinct 1,3
+David B McKinley,U.S. House,1,,Tucker,Precinct 1,105
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 1,34
+Write In,U.S. House,1,,Tucker,Precinct 1,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 1,93
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 1,45
 Write In,State Senate,14,,Tucker,Precinct 1,0
@@ -17,13 +17,13 @@ Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 1,1
 Write In,House of Delegates,53,,Tucker,Precinct 1,0
 ,Registered Voters,,,Tucker,Precinct 2,789
 ,Ballots Cast,,,Tucker,Precinct 2,444
-Patrick Morrisey,US Senate,,,Tucker,Precinct 2,228
-Joseph Manchin III,US Senate,,,Tucker,Precinct 2,179
-Rusty Hollen,US Senate,,,Tucker,Precinct 2,26
-Write In,US Senate,,,Tucker,Precinct 2,0
-David B McKinley,US House,1,,Tucker,Precinct 2,302
-Kendra Fershee,US House,1,,Tucker,Precinct 2,120
-Write In,US House,1,,Tucker,Precinct 2,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 2,228
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 2,179
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 2,26
+Write In,U.S. Senate,,,Tucker,Precinct 2,0
+David B McKinley,U.S. House,1,,Tucker,Precinct 2,302
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 2,120
+Write In,U.S. House,1,,Tucker,Precinct 2,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 2,273
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 2,146
 Write In,State Senate,14,,Tucker,Precinct 2,0
@@ -33,13 +33,13 @@ Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 2,9
 Write In,House of Delegates,53,,Tucker,Precinct 2,2
 ,Registered Voters,,,Tucker,Precinct 3,583
 ,Ballots Cast,,,Tucker,Precinct 3,306
-Patrick Morrisey,US Senate,,,Tucker,Precinct 3,152
-Joseph Manchin III,US Senate,,,Tucker,Precinct 3,124
-Rusty Hollen,US Senate,,,Tucker,Precinct 3,16
-Write In,US Senate,,,Tucker,Precinct 3,2
-David B McKinley,US House,1,,Tucker,Precinct 3,203
-Kendra Fershee,US House,1,,Tucker,Precinct 3,80
-Write In,US House,1,,Tucker,Precinct 3,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 3,152
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 3,124
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 3,16
+Write In,U.S. Senate,,,Tucker,Precinct 3,2
+David B McKinley,U.S. House,1,,Tucker,Precinct 3,203
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 3,80
+Write In,U.S. House,1,,Tucker,Precinct 3,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 3,196
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 3,90
 Write In,State Senate,14,,Tucker,Precinct 3,1
@@ -48,13 +48,13 @@ Ed Larry,House of Delegates,47,,Tucker,Precinct 3,95
 Write In,House of Delegates,47,,Tucker,Precinct 3,1
 ,Registered Voters,,,Tucker,Precinct 4,421
 ,Ballots Cast,,,Tucker,Precinct 4,211
-Patrick Morrisey,US Senate,,,Tucker,Precinct 4,87
-Joseph Manchin III,US Senate,,,Tucker,Precinct 4,100
-Rusty Hollen,US Senate,,,Tucker,Precinct 4,13
-Write In,US Senate,,,Tucker,Precinct 4,1
-David B McKinley,US House,1,,Tucker,Precinct 4,135
-Kendra Fershee,US House,1,,Tucker,Precinct 4,64
-Write In,US House,1,,Tucker,Precinct 4,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 4,87
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 4,100
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 4,13
+Write In,U.S. Senate,,,Tucker,Precinct 4,1
+David B McKinley,U.S. House,1,,Tucker,Precinct 4,135
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 4,64
+Write In,U.S. House,1,,Tucker,Precinct 4,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 4,121
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 4,79
 Write In,State Senate,14,,Tucker,Precinct 4,0
@@ -63,13 +63,13 @@ Ed Larry,House of Delegates,47,,Tucker,Precinct 4,75
 Write In,House of Delegates,47,,Tucker,Precinct 4,1
 ,Registered Voters,,,Tucker,Precinct 5,750
 ,Ballots Cast,,,Tucker,Precinct 5,427
-Patrick Morrisey,US Senate,,,Tucker,Precinct 5,202
-Joseph Manchin III,US Senate,,,Tucker,Precinct 5,191
-Rusty Hollen,US Senate,,,Tucker,Precinct 5,16
-Write In,US Senate,,,Tucker,Precinct 5,1
-David B McKinley,US House,1,,Tucker,Precinct 5,296
-Kendra Fershee,US House,1,,Tucker,Precinct 5,105
-Write In,US House,1,,Tucker,Precinct 5,1
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 5,202
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 5,191
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 5,16
+Write In,U.S. Senate,,,Tucker,Precinct 5,1
+David B McKinley,U.S. House,1,,Tucker,Precinct 5,296
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 5,105
+Write In,U.S. House,1,,Tucker,Precinct 5,1
 Dave Sypolt,State Senate,14,,Tucker,Precinct 5,269
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 5,122
 Write In,State Senate,14,,Tucker,Precinct 5,1
@@ -78,13 +78,13 @@ Ed Larry,House of Delegates,47,,Tucker,Precinct 5,141
 Write In,House of Delegates,47,,Tucker,Precinct 5,2
 ,Registered Voters,,,Tucker,Precinct 10,292
 ,Ballots Cast,,,Tucker,Precinct 10,166
-Patrick Morrisey,US Senate,,,Tucker,Precinct 10,92
-Joseph Manchin III,US Senate,,,Tucker,Precinct 10,54
-Rusty Hollen,US Senate,,,Tucker,Precinct 10,10
-Write In,US Senate,,,Tucker,Precinct 10,0
-David B McKinley,US House,1,,Tucker,Precinct 10,124
-Kendra Fershee,US House,1,,Tucker,Precinct 10,36
-Write In,US House,1,,Tucker,Precinct 10,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 10,92
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 10,54
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 10,10
+Write In,U.S. Senate,,,Tucker,Precinct 10,0
+David B McKinley,U.S. House,1,,Tucker,Precinct 10,124
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 10,36
+Write In,U.S. House,1,,Tucker,Precinct 10,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 10,120
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 10,39
 Write In,State Senate,14,,Tucker,Precinct 10,0
@@ -93,13 +93,13 @@ Ed Larry,House of Delegates,47,,Tucker,Precinct 10,51
 Write In,House of Delegates,47,,Tucker,Precinct 10,0
 ,Registered Voters,,,Tucker,Precinct 12,600
 ,Ballots Cast,,,Tucker,Precinct 12,313
-Patrick Morrisey,US Senate,,,Tucker,Precinct 12,100
-Joseph Manchin III,US Senate,,,Tucker,Precinct 12,190
-Rusty Hollen,US Senate,,,Tucker,Precinct 12,14
-Write In,US Senate,,,Tucker,Precinct 12,1
-David B McKinley,US House,1,,Tucker,Precinct 12,168
-Kendra Fershee,US House,1,,Tucker,Precinct 12,139
-Write In,US House,1,,Tucker,Precinct 12,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 12,100
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 12,190
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 12,14
+Write In,U.S. Senate,,,Tucker,Precinct 12,1
+David B McKinley,U.S. House,1,,Tucker,Precinct 12,168
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 12,139
+Write In,U.S. House,1,,Tucker,Precinct 12,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 12,148
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 12,159
 Write In,State Senate,14,,Tucker,Precinct 12,0
@@ -109,13 +109,13 @@ Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 12,8
 Write In,House of Delegates,53,,Tucker,Precinct 12,1
 ,Registered Voters,,,Tucker,Precinct 14,202
 ,Ballots Cast,,,Tucker,Precinct 14,123
-Patrick Morrisey,US Senate,,,Tucker,Precinct 14,74
-Joseph Manchin III,US Senate,,,Tucker,Precinct 14,45
-Rusty Hollen,US Senate,,,Tucker,Precinct 14,3
-Write In,US Senate,,,Tucker,Precinct 14,0
-David B McKinley,US House,1,,Tucker,Precinct 14,81
-Kendra Fershee,US House,1,,Tucker,Precinct 14,39
-Write In,US House,1,,Tucker,Precinct 14,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 14,74
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 14,45
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 14,3
+Write In,U.S. Senate,,,Tucker,Precinct 14,0
+David B McKinley,U.S. House,1,,Tucker,Precinct 14,81
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 14,39
+Write In,U.S. House,1,,Tucker,Precinct 14,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 14,75
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 14,44
 Write In,State Senate,14,,Tucker,Precinct 14,0
@@ -125,13 +125,13 @@ Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 14,1
 Write In,House of Delegates,53,,Tucker,Precinct 14,0
 ,Registered Voters,,,Tucker,Precinct 15,566
 ,Ballots Cast,,,Tucker,Precinct 15,383
-Patrick Morrisey,US Senate,,,Tucker,Precinct 15,136
-Joseph Manchin III,US Senate,,,Tucker,Precinct 15,238
-Rusty Hollen,US Senate,,,Tucker,Precinct 15,8
-Write In,US Senate,,,Tucker,Precinct 15,0
-David B McKinley,US House,1,,Tucker,Precinct 15,169
-Kendra Fershee,US House,1,,Tucker,Precinct 15,208
-Write In,US House,1,,Tucker,Precinct 15,2
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 15,136
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 15,238
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 15,8
+Write In,U.S. Senate,,,Tucker,Precinct 15,0
+David B McKinley,U.S. House,1,,Tucker,Precinct 15,169
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 15,208
+Write In,U.S. House,1,,Tucker,Precinct 15,2
 Dave Sypolt,State Senate,14,,Tucker,Precinct 15,156
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 15,220
 Write In,State Senate,14,,Tucker,Precinct 15,0
@@ -141,13 +141,13 @@ Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 15,2
 Write In,House of Delegates,53,,Tucker,Precinct 15,0
 ,Registered Voters,,,Tucker,Precinct 16,673
 ,Ballots Cast,,,Tucker,Precinct 16,385
-Patrick Morrisey,US Senate,,,Tucker,Precinct 16,176
-Joseph Manchin III,US Senate,,,Tucker,Precinct 16,167
-Rusty Hollen,US Senate,,,Tucker,Precinct 16,26
-Write In,US Senate,,,Tucker,Precinct 16,0
-David B McKinley,US House,1,,Tucker,Precinct 16,241
-Kendra Fershee,US House,1,,Tucker,Precinct 16,130
-Write In,US House,1,,Tucker,Precinct 16,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 16,176
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 16,167
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 16,26
+Write In,U.S. Senate,,,Tucker,Precinct 16,0
+David B McKinley,U.S. House,1,,Tucker,Precinct 16,241
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 16,130
+Write In,U.S. House,1,,Tucker,Precinct 16,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 16,224
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 16,142
 Write In,State Senate,14,,Tucker,Precinct 16,0
@@ -157,13 +157,13 @@ Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 16,3
 Write In,House of Delegates,53,,Tucker,Precinct 16,0
 ,Registered Voters,,,Tucker,Precinct 24,533
 ,Ballots Cast,,,Tucker,Precinct 24,341
-Patrick Morrisey,US Senate,,,Tucker,Precinct 24,176
-Joseph Manchin III,US Senate,,,Tucker,Precinct 24,131
-Rusty Hollen,US Senate,,,Tucker,Precinct 24,21
-Write In,US Senate,,,Tucker,Precinct 24,0
-David B McKinley,US House,1,,Tucker,Precinct 24,233
-Kendra Fershee,US House,1,,Tucker,Precinct 24,90
-Write In,US House,1,,Tucker,Precinct 24,0
+Patrick Morrisey,U.S. Senate,,,Tucker,Precinct 24,176
+Joseph Manchin III,U.S. Senate,,,Tucker,Precinct 24,131
+Rusty Hollen,U.S. Senate,,,Tucker,Precinct 24,21
+Write In,U.S. Senate,,,Tucker,Precinct 24,0
+David B McKinley,U.S. House,1,,Tucker,Precinct 24,233
+Kendra Fershee,U.S. House,1,,Tucker,Precinct 24,90
+Write In,U.S. House,1,,Tucker,Precinct 24,0
 Dave Sypolt,State Senate,14,,Tucker,Precinct 24,219
 Stephanie Zucker,State Senate,14,,Tucker,Precinct 24,107
 Write In,State Senate,14,,Tucker,Precinct 24,0
@@ -171,68 +171,3 @@ Write In,State Senate,14,,Tucker,Precinct 24,0
 Cory Chase,House of Delegates,53,,Tucker,Precinct 24,148
 Austin Zuchowski,House of Delegates,53,,Tucker,Precinct 24,13
 Write In,House of Delegates,53,,Tucker,Precinct 24,0
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
