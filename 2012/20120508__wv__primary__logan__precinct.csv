@@ -10,10 +10,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 1,3
 Newt Gingrich,President ,,REP,Logan,Precinct 1,0
 Ron Paul,President ,,REP,Logan,Precinct 1,0
 Mitt Romney,President ,,REP,Logan,Precinct 1,7
-John R. Raese,US Senate,,REP,Logan,Precinct 1,12
-Lee A. Bias,US House,3,REP,Logan,Precinct 1,8
-Rick Snuffer,US House,3,REP,Logan,Precinct 1,2
-Bill Lester,US House,3,REP,Logan,Precinct 1,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 1,12
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 1,8
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 1,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 1,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 1,3
 Bill Maloney,Governor,,REP,Logan,Precinct 1,7
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 1,6
@@ -28,9 +28,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 1,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 1,
 Barack Obama,President ,,DEM,Logan,Precinct 1,128
 Keith Judd,President ,,DEM,Logan,Precinct 1,122
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 1,282
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 1,37
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 1,252
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 1,282
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 1,37
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 1,252
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 1,308
 Arne Moltis,Governor,,DEM,Logan,Precinct 1,24
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 1,203
@@ -70,10 +70,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 2,9
 Newt Gingrich,President ,,REP,Logan,Precinct 2,0
 Ron Paul,President ,,REP,Logan,Precinct 2,3
 Mitt Romney,President ,,REP,Logan,Precinct 2,22
-John R. Raese,US Senate,,REP,Logan,Precinct 2,23
-Lee A. Bias,US House,3,REP,Logan,Precinct 2,15
-Rick Snuffer,US House,3,REP,Logan,Precinct 2,10
-Bill Lester,US House,3,REP,Logan,Precinct 2,4
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 2,23
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 2,15
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 2,10
+Bill Lester,U.S. House,3,REP,Logan,Precinct 2,4
 Ralph William Clark,Governor,,REP,Logan,Precinct 2,6
 Bill Maloney,Governor,,REP,Logan,Precinct 2,24
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 2,26
@@ -88,9 +88,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 2,20
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 2,16
 Barack Obama,President ,,DEM,Logan,Precinct 2,89
 Keith Judd,President ,,DEM,Logan,Precinct 2,154
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 2,317
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 2,23
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 2,263
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 2,317
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 2,23
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 2,263
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 2,360
 Arne Moltis,Governor,,DEM,Logan,Precinct 2,15
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 2,243
@@ -130,10 +130,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 4,2
 Newt Gingrich,President ,,REP,Logan,Precinct 4,2
 Ron Paul,President ,,REP,Logan,Precinct 4,5
 Mitt Romney,President ,,REP,Logan,Precinct 4,31
-John R. Raese,US Senate,,REP,Logan,Precinct 4,29
-Lee A. Bias,US House,3,REP,Logan,Precinct 4,10
-Rick Snuffer,US House,3,REP,Logan,Precinct 4,7
-Bill Lester,US House,3,REP,Logan,Precinct 4,11
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 4,29
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 4,10
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 4,7
+Bill Lester,U.S. House,3,REP,Logan,Precinct 4,11
 Ralph William Clark,Governor,,REP,Logan,Precinct 4,5
 Bill Maloney,Governor,,REP,Logan,Precinct 4,26
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 4,22
@@ -148,9 +148,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 4,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 4,
 Barack Obama,President ,,DEM,Logan,Precinct 4,78
 Keith Judd,President ,,DEM,Logan,Precinct 4,154
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 4,291
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 4,43
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 4,239
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 4,291
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 4,43
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 4,239
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 4,333
 Arne Moltis,Governor,,DEM,Logan,Precinct 4,18
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 4,225
@@ -190,10 +190,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 5A,6
 Newt Gingrich,President ,,REP,Logan,Precinct 5A,3
 Ron Paul,President ,,REP,Logan,Precinct 5A,0
 Mitt Romney,President ,,REP,Logan,Precinct 5A,21
-John R. Raese,US Senate,,REP,Logan,Precinct 5A,25
-Lee A. Bias,US House,3,REP,Logan,Precinct 5A,9
-Rick Snuffer,US House,3,REP,Logan,Precinct 5A,10
-Bill Lester,US House,3,REP,Logan,Precinct 5A,6
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 5A,25
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 5A,9
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 5A,10
+Bill Lester,U.S. House,3,REP,Logan,Precinct 5A,6
 Ralph William Clark,Governor,,REP,Logan,Precinct 5A,7
 Bill Maloney,Governor,,REP,Logan,Precinct 5A,20
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 5A,19
@@ -208,9 +208,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 5A,21
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 5A,18
 Barack Obama,President ,,DEM,Logan,Precinct 5A,130
 Keith Judd,President ,,DEM,Logan,Precinct 5A,174
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 5A,358
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 5A,40
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 5A,292
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 5A,358
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 5A,40
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 5A,292
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 5A,404
 Arne Moltis,Governor,,DEM,Logan,Precinct 5A,14
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 5A,284
@@ -250,10 +250,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 5B,0
 Newt Gingrich,President ,,REP,Logan,Precinct 5B,0
 Ron Paul,President ,,REP,Logan,Precinct 5B,0
 Mitt Romney,President ,,REP,Logan,Precinct 5B,0
-John R. Raese,US Senate,,REP,Logan,Precinct 5B,0
-Lee A. Bias,US House,3,REP,Logan,Precinct 5B,0
-Rick Snuffer,US House,3,REP,Logan,Precinct 5B,0
-Bill Lester,US House,3,REP,Logan,Precinct 5B,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 5B,0
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 5B,0
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 5B,0
+Bill Lester,U.S. House,3,REP,Logan,Precinct 5B,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 5B,0
 Bill Maloney,Governor,,REP,Logan,Precinct 5B,0
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 5B,0
@@ -268,9 +268,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 5B,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 5B,
 Barack Obama,President ,,DEM,Logan,Precinct 5B,5
 Keith Judd,President ,,DEM,Logan,Precinct 5B,2
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 5B,7
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 5B,0
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 5B,7
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 5B,7
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 5B,0
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 5B,7
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 5B,8
 Arne Moltis,Governor,,DEM,Logan,Precinct 5B,0
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 5B,7
@@ -310,10 +310,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 6,7
 Newt Gingrich,President ,,REP,Logan,Precinct 6,3
 Ron Paul,President ,,REP,Logan,Precinct 6,4
 Mitt Romney,President ,,REP,Logan,Precinct 6,20
-John R. Raese,US Senate,,REP,Logan,Precinct 6,28
-Lee A. Bias,US House,3,REP,Logan,Precinct 6,12
-Rick Snuffer,US House,3,REP,Logan,Precinct 6,7
-Bill Lester,US House,3,REP,Logan,Precinct 6,7
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 6,28
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 6,12
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 6,7
+Bill Lester,U.S. House,3,REP,Logan,Precinct 6,7
 Ralph William Clark,Governor,,REP,Logan,Precinct 6,10
 Bill Maloney,Governor,,REP,Logan,Precinct 6,20
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 6,26
@@ -328,9 +328,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 6,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 6,
 Barack Obama,President ,,DEM,Logan,Precinct 6,82
 Keith Judd,President ,,DEM,Logan,Precinct 6,96
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 6,222
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 6,27
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 6,195
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 6,222
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 6,27
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 6,195
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 6,250
 Arne Moltis,Governor,,DEM,Logan,Precinct 6,7
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 6,172
@@ -370,10 +370,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 7,5
 Newt Gingrich,President ,,REP,Logan,Precinct 7,1
 Ron Paul,President ,,REP,Logan,Precinct 7,4
 Mitt Romney,President ,,REP,Logan,Precinct 7,17
-John R. Raese,US Senate,,REP,Logan,Precinct 7,23
-Lee A. Bias,US House,3,REP,Logan,Precinct 7,12
-Rick Snuffer,US House,3,REP,Logan,Precinct 7,2
-Bill Lester,US House,3,REP,Logan,Precinct 7,6
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 7,23
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 7,12
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 7,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 7,6
 Ralph William Clark,Governor,,REP,Logan,Precinct 7,10
 Bill Maloney,Governor,,REP,Logan,Precinct 7,14
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 7,19
@@ -388,9 +388,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 7,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 7,
 Barack Obama,President ,,DEM,Logan,Precinct 7,76
 Keith Judd,President ,,DEM,Logan,Precinct 7,105
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 7,224
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 7,25
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 7,203
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 7,224
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 7,25
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 7,203
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 7,245
 Arne Moltis,Governor,,DEM,Logan,Precinct 7,15
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 7,197
@@ -430,10 +430,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 8,2
 Newt Gingrich,President ,,REP,Logan,Precinct 8,1
 Ron Paul,President ,,REP,Logan,Precinct 8,2
 Mitt Romney,President ,,REP,Logan,Precinct 8,15
-John R. Raese,US Senate,,REP,Logan,Precinct 8,16
-Lee A. Bias,US House,3,REP,Logan,Precinct 8,11
-Rick Snuffer,US House,3,REP,Logan,Precinct 8,2
-Bill Lester,US House,3,REP,Logan,Precinct 8,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 8,16
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 8,11
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 8,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 8,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 8,3
 Bill Maloney,Governor,,REP,Logan,Precinct 8,14
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 8,14
@@ -448,9 +448,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 8,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 8,
 Barack Obama,President ,,DEM,Logan,Precinct 8,34
 Keith Judd,President ,,DEM,Logan,Precinct 8,80
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 8,128
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 8,23
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 8,119
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 8,128
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 8,23
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 8,119
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 8,141
 Arne Moltis,Governor,,DEM,Logan,Precinct 8,13
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 8,103
@@ -490,10 +490,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 10,1
 Newt Gingrich,President ,,REP,Logan,Precinct 10,0
 Ron Paul,President ,,REP,Logan,Precinct 10,3
 Mitt Romney,President ,,REP,Logan,Precinct 10,5
-John R. Raese,US Senate,,REP,Logan,Precinct 10,6
-Lee A. Bias,US House,3,REP,Logan,Precinct 10,5
-Rick Snuffer,US House,3,REP,Logan,Precinct 10,2
-Bill Lester,US House,3,REP,Logan,Precinct 10,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 10,6
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 10,5
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 10,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 10,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 10,2
 Bill Maloney,Governor,,REP,Logan,Precinct 10,6
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 10,7
@@ -508,9 +508,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 10,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 10,
 Barack Obama,President ,,DEM,Logan,Precinct 10,26
 Keith Judd,President ,,DEM,Logan,Precinct 10,59
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 10,93
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 10,10
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 10,86
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 10,93
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 10,10
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 10,86
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 10,100
 Arne Moltis,Governor,,DEM,Logan,Precinct 10,7
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 10,83
@@ -550,10 +550,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 11,0
 Newt Gingrich,President ,,REP,Logan,Precinct 11,3
 Ron Paul,President ,,REP,Logan,Precinct 11,0
 Mitt Romney,President ,,REP,Logan,Precinct 11,15
-John R. Raese,US Senate,,REP,Logan,Precinct 11,15
-Lee A. Bias,US House,3,REP,Logan,Precinct 11,6
-Rick Snuffer,US House,3,REP,Logan,Precinct 11,3
-Bill Lester,US House,3,REP,Logan,Precinct 11,5
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 11,15
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 11,6
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 11,3
+Bill Lester,U.S. House,3,REP,Logan,Precinct 11,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 11,1
 Bill Maloney,Governor,,REP,Logan,Precinct 11,14
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 11,14
@@ -568,9 +568,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 11,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 11,
 Barack Obama,President ,,DEM,Logan,Precinct 11,47
 Keith Judd,President ,,DEM,Logan,Precinct 11,56
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 11,125
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 11,21
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 11,113
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 11,125
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 11,21
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 11,113
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 11,143
 Arne Moltis,Governor,,DEM,Logan,Precinct 11,9
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 11,108
@@ -610,10 +610,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 13,2
 Newt Gingrich,President ,,REP,Logan,Precinct 13,0
 Ron Paul,President ,,REP,Logan,Precinct 13,0
 Mitt Romney,President ,,REP,Logan,Precinct 13,5
-John R. Raese,US Senate,,REP,Logan,Precinct 13,7
-Lee A. Bias,US House,3,REP,Logan,Precinct 13,1
-Rick Snuffer,US House,3,REP,Logan,Precinct 13,4
-Bill Lester,US House,3,REP,Logan,Precinct 13,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 13,7
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 13,1
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 13,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 13,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 13,0
 Bill Maloney,Governor,,REP,Logan,Precinct 13,6
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 13,4
@@ -628,9 +628,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 13,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 13,
 Barack Obama,President ,,DEM,Logan,Precinct 13,54
 Keith Judd,President ,,DEM,Logan,Precinct 13,48
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 13,117
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 13,17
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 13,106
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 13,117
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 13,17
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 13,106
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 13,127
 Arne Moltis,Governor,,DEM,Logan,Precinct 13,11
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 13,110
@@ -670,10 +670,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 14,5
 Newt Gingrich,President ,,REP,Logan,Precinct 14,1
 Ron Paul,President ,,REP,Logan,Precinct 14,1
 Mitt Romney,President ,,REP,Logan,Precinct 14,3
-John R. Raese,US Senate,,REP,Logan,Precinct 14,9
-Lee A. Bias,US House,3,REP,Logan,Precinct 14,3
-Rick Snuffer,US House,3,REP,Logan,Precinct 14,4
-Bill Lester,US House,3,REP,Logan,Precinct 14,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 14,9
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 14,3
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 14,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 14,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 14,4
 Bill Maloney,Governor,,REP,Logan,Precinct 14,6
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 14,9
@@ -688,9 +688,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 14,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 14,
 Barack Obama,President ,,DEM,Logan,Precinct 14,26
 Keith Judd,President ,,DEM,Logan,Precinct 14,55
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 14,100
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 14,8
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 14,78
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 14,100
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 14,8
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 14,78
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 14,111
 Arne Moltis,Governor,,DEM,Logan,Precinct 14,4
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 14,84
@@ -730,10 +730,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 15,9
 Newt Gingrich,President ,,REP,Logan,Precinct 15,2
 Ron Paul,President ,,REP,Logan,Precinct 15,8
 Mitt Romney,President ,,REP,Logan,Precinct 15,32
-John R. Raese,US Senate,,REP,Logan,Precinct 15,40
-Lee A. Bias,US House,3,REP,Logan,Precinct 15,13
-Rick Snuffer,US House,3,REP,Logan,Precinct 15,21
-Bill Lester,US House,3,REP,Logan,Precinct 15,5
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 15,40
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 15,13
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 15,21
+Bill Lester,U.S. House,3,REP,Logan,Precinct 15,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 15,5
 Bill Maloney,Governor,,REP,Logan,Precinct 15,38
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 15,33
@@ -748,9 +748,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 15,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 15,
 Barack Obama,President ,,DEM,Logan,Precinct 15,121
 Keith Judd,President ,,DEM,Logan,Precinct 15,162
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 15,332
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 15,41
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 15,265
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 15,332
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 15,41
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 15,265
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 15,368
 Arne Moltis,Governor,,DEM,Logan,Precinct 15,17
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 15,271
@@ -790,10 +790,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 20,0
 Newt Gingrich,President ,,REP,Logan,Precinct 20,0
 Ron Paul,President ,,REP,Logan,Precinct 20,0
 Mitt Romney,President ,,REP,Logan,Precinct 20,8
-John R. Raese,US Senate,,REP,Logan,Precinct 20,6
-Lee A. Bias,US House,3,REP,Logan,Precinct 20,1
-Rick Snuffer,US House,3,REP,Logan,Precinct 20,5
-Bill Lester,US House,3,REP,Logan,Precinct 20,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 20,6
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 20,1
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 20,5
+Bill Lester,U.S. House,3,REP,Logan,Precinct 20,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 20,1
 Bill Maloney,Governor,,REP,Logan,Precinct 20,6
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 20,4
@@ -808,9 +808,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 20,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 20,
 Barack Obama,President ,,DEM,Logan,Precinct 20,77
 Keith Judd,President ,,DEM,Logan,Precinct 20,75
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 20,208
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 20,14
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 20,194
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 20,208
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 20,14
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 20,194
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 20,215
 Arne Moltis,Governor,,DEM,Logan,Precinct 20,8
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 20,156
@@ -850,10 +850,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 21,0
 Newt Gingrich,President ,,REP,Logan,Precinct 21,2
 Ron Paul,President ,,REP,Logan,Precinct 21,2
 Mitt Romney,President ,,REP,Logan,Precinct 21,6
-John R. Raese,US Senate,,REP,Logan,Precinct 21,9
-Lee A. Bias,US House,3,REP,Logan,Precinct 21,4
-Rick Snuffer,US House,3,REP,Logan,Precinct 21,3
-Bill Lester,US House,3,REP,Logan,Precinct 21,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 21,9
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 21,4
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 21,3
+Bill Lester,U.S. House,3,REP,Logan,Precinct 21,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 21,4
 Bill Maloney,Governor,,REP,Logan,Precinct 21,4
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 21,9
@@ -868,9 +868,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 21,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 21,
 Barack Obama,President ,,DEM,Logan,Precinct 21,45
 Keith Judd,President ,,DEM,Logan,Precinct 21,62
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 21,153
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 21,10
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 21,143
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 21,153
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 21,10
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 21,143
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 21,164
 Arne Moltis,Governor,,DEM,Logan,Precinct 21,2
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 21,111
@@ -910,10 +910,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 22,0
 Newt Gingrich,President ,,REP,Logan,Precinct 22,3
 Ron Paul,President ,,REP,Logan,Precinct 22,0
 Mitt Romney,President ,,REP,Logan,Precinct 22,3
-John R. Raese,US Senate,,REP,Logan,Precinct 22,4
-Lee A. Bias,US House,3,REP,Logan,Precinct 22,3
-Rick Snuffer,US House,3,REP,Logan,Precinct 22,1
-Bill Lester,US House,3,REP,Logan,Precinct 22,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 22,4
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 22,3
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 22,1
+Bill Lester,U.S. House,3,REP,Logan,Precinct 22,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 22,0
 Bill Maloney,Governor,,REP,Logan,Precinct 22,5
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 22,3
@@ -928,9 +928,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 22,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 22,
 Barack Obama,President ,,DEM,Logan,Precinct 22,39
 Keith Judd,President ,,DEM,Logan,Precinct 22,44
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 22,92
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 22,9
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 22,93
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 22,92
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 22,9
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 22,93
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 22,101
 Arne Moltis,Governor,,DEM,Logan,Precinct 22,2
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 22,78
@@ -970,10 +970,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 25,4
 Newt Gingrich,President ,,REP,Logan,Precinct 25,2
 Ron Paul,President ,,REP,Logan,Precinct 25,1
 Mitt Romney,President ,,REP,Logan,Precinct 25,10
-John R. Raese,US Senate,,REP,Logan,Precinct 25,16
-Lee A. Bias,US House,3,REP,Logan,Precinct 25,6
-Rick Snuffer,US House,3,REP,Logan,Precinct 25,5
-Bill Lester,US House,3,REP,Logan,Precinct 25,5
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 25,16
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 25,6
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 25,5
+Bill Lester,U.S. House,3,REP,Logan,Precinct 25,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 25,3
 Bill Maloney,Governor,,REP,Logan,Precinct 25,15
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 25,12
@@ -988,9 +988,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 25,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 25,
 Barack Obama,President ,,DEM,Logan,Precinct 25,59
 Keith Judd,President ,,DEM,Logan,Precinct 25,66
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 25,154
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 25,15
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 25,147
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 25,154
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 25,15
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 25,147
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 25,167
 Arne Moltis,Governor,,DEM,Logan,Precinct 25,9
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 25,117
@@ -1030,10 +1030,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 26,5
 Newt Gingrich,President ,,REP,Logan,Precinct 26,1
 Ron Paul,President ,,REP,Logan,Precinct 26,0
 Mitt Romney,President ,,REP,Logan,Precinct 26,15
-John R. Raese,US Senate,,REP,Logan,Precinct 26,14
-Lee A. Bias,US House,3,REP,Logan,Precinct 26,6
-Rick Snuffer,US House,3,REP,Logan,Precinct 26,4
-Bill Lester,US House,3,REP,Logan,Precinct 26,3
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 26,14
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 26,6
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 26,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 26,3
 Ralph William Clark,Governor,,REP,Logan,Precinct 26,1
 Bill Maloney,Governor,,REP,Logan,Precinct 26,12
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 26,11
@@ -1048,9 +1048,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 26,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 26,
 Barack Obama,President ,,DEM,Logan,Precinct 26,80
 Keith Judd,President ,,DEM,Logan,Precinct 26,99
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 26,232
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 26,15
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 26,205
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 26,232
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 26,15
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 26,205
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 26,246
 Arne Moltis,Governor,,DEM,Logan,Precinct 26,7
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 26,190
@@ -1090,10 +1090,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 27,3
 Newt Gingrich,President ,,REP,Logan,Precinct 27,2
 Ron Paul,President ,,REP,Logan,Precinct 27,4
 Mitt Romney,President ,,REP,Logan,Precinct 27,26
-John R. Raese,US Senate,,REP,Logan,Precinct 27,24
-Lee A. Bias,US House,3,REP,Logan,Precinct 27,12
-Rick Snuffer,US House,3,REP,Logan,Precinct 27,9
-Bill Lester,US House,3,REP,Logan,Precinct 27,5
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 27,24
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 27,12
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 27,9
+Bill Lester,U.S. House,3,REP,Logan,Precinct 27,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 27,7
 Bill Maloney,Governor,,REP,Logan,Precinct 27,23
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 27,22
@@ -1108,9 +1108,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 27,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 27,
 Barack Obama,President ,,DEM,Logan,Precinct 27,93
 Keith Judd,President ,,DEM,Logan,Precinct 27,111
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 27,247
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 27,27
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 27,233
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 27,247
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 27,27
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 27,233
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 27,258
 Arne Moltis,Governor,,DEM,Logan,Precinct 27,21
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 27,205
@@ -1150,10 +1150,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 28,0
 Newt Gingrich,President ,,REP,Logan,Precinct 28,0
 Ron Paul,President ,,REP,Logan,Precinct 28,0
 Mitt Romney,President ,,REP,Logan,Precinct 28,4
-John R. Raese,US Senate,,REP,Logan,Precinct 28,4
-Lee A. Bias,US House,3,REP,Logan,Precinct 28,0
-Rick Snuffer,US House,3,REP,Logan,Precinct 28,4
-Bill Lester,US House,3,REP,Logan,Precinct 28,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 28,4
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 28,0
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 28,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 28,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 28,1
 Bill Maloney,Governor,,REP,Logan,Precinct 28,3
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 28,4
@@ -1168,9 +1168,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 28,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 28,
 Barack Obama,President ,,DEM,Logan,Precinct 28,36
 Keith Judd,President ,,DEM,Logan,Precinct 28,29
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 28,73
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 28,9
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 28,66
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 28,73
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 28,9
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 28,66
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 28,76
 Arne Moltis,Governor,,DEM,Logan,Precinct 28,2
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 28,53
@@ -1210,10 +1210,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 31,3
 Newt Gingrich,President ,,REP,Logan,Precinct 31,0
 Ron Paul,President ,,REP,Logan,Precinct 31,0
 Mitt Romney,President ,,REP,Logan,Precinct 31,12
-John R. Raese,US Senate,,REP,Logan,Precinct 31,12
-Lee A. Bias,US House,3,REP,Logan,Precinct 31,5
-Rick Snuffer,US House,3,REP,Logan,Precinct 31,7
-Bill Lester,US House,3,REP,Logan,Precinct 31,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 31,12
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 31,5
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 31,7
+Bill Lester,U.S. House,3,REP,Logan,Precinct 31,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 31,1
 Bill Maloney,Governor,,REP,Logan,Precinct 31,13
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 31,13
@@ -1228,9 +1228,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 31,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 31,
 Barack Obama,President ,,DEM,Logan,Precinct 31,24
 Keith Judd,President ,,DEM,Logan,Precinct 31,24
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 31,46
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 31,9
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 31,48
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 31,46
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 31,9
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 31,48
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 31,48
 Arne Moltis,Governor,,DEM,Logan,Precinct 31,7
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 31,47
@@ -1270,10 +1270,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 36,0
 Newt Gingrich,President ,,REP,Logan,Precinct 36,1
 Ron Paul,President ,,REP,Logan,Precinct 36,0
 Mitt Romney,President ,,REP,Logan,Precinct 36,5
-John R. Raese,US Senate,,REP,Logan,Precinct 36,4
-Lee A. Bias,US House,3,REP,Logan,Precinct 36,3
-Rick Snuffer,US House,3,REP,Logan,Precinct 36,1
-Bill Lester,US House,3,REP,Logan,Precinct 36,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 36,4
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 36,3
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 36,1
+Bill Lester,U.S. House,3,REP,Logan,Precinct 36,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 36,0
 Bill Maloney,Governor,,REP,Logan,Precinct 36,4
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 36,3
@@ -1288,9 +1288,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 36,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 36,
 Barack Obama,President ,,DEM,Logan,Precinct 36,53
 Keith Judd,President ,,DEM,Logan,Precinct 36,41
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 36,126
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 36,9
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 36,110
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 36,126
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 36,9
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 36,110
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 36,141
 Arne Moltis,Governor,,DEM,Logan,Precinct 36,3
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 36,100
@@ -1330,10 +1330,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 37,0
 Newt Gingrich,President ,,REP,Logan,Precinct 37,0
 Ron Paul,President ,,REP,Logan,Precinct 37,3
 Mitt Romney,President ,,REP,Logan,Precinct 37,3
-John R. Raese,US Senate,,REP,Logan,Precinct 37,3
-Lee A. Bias,US House,3,REP,Logan,Precinct 37,1
-Rick Snuffer,US House,3,REP,Logan,Precinct 37,1
-Bill Lester,US House,3,REP,Logan,Precinct 37,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 37,3
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 37,1
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 37,1
+Bill Lester,U.S. House,3,REP,Logan,Precinct 37,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 37,0
 Bill Maloney,Governor,,REP,Logan,Precinct 37,3
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 37,1
@@ -1348,9 +1348,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 37,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 37,
 Barack Obama,President ,,DEM,Logan,Precinct 37,25
 Keith Judd,President ,,DEM,Logan,Precinct 37,65
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 37,110
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 37,13
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 37,91
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 37,110
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 37,13
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 37,91
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 37,122
 Arne Moltis,Governor,,DEM,Logan,Precinct 37,5
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 37,92
@@ -1390,10 +1390,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 39,6
 Newt Gingrich,President ,,REP,Logan,Precinct 39,1
 Ron Paul,President ,,REP,Logan,Precinct 39,1
 Mitt Romney,President ,,REP,Logan,Precinct 39,10
-John R. Raese,US Senate,,REP,Logan,Precinct 39,16
-Lee A. Bias,US House,3,REP,Logan,Precinct 39,8
-Rick Snuffer,US House,3,REP,Logan,Precinct 39,2
-Bill Lester,US House,3,REP,Logan,Precinct 39,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 39,16
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 39,8
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 39,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 39,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 39,3
 Bill Maloney,Governor,,REP,Logan,Precinct 39,15
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 39,12
@@ -1408,9 +1408,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 39,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 39,
 Barack Obama,President ,,DEM,Logan,Precinct 39,91
 Keith Judd,President ,,DEM,Logan,Precinct 39,73
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 39,193
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 39,22
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 39,176
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 39,193
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 39,22
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 39,176
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 39,211
 Arne Moltis,Governor,,DEM,Logan,Precinct 39,15
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 39,158
@@ -1450,10 +1450,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 40,0
 Newt Gingrich,President ,,REP,Logan,Precinct 40,1
 Ron Paul,President ,,REP,Logan,Precinct 40,0
 Mitt Romney,President ,,REP,Logan,Precinct 40,6
-John R. Raese,US Senate,,REP,Logan,Precinct 40,3
-Lee A. Bias,US House,3,REP,Logan,Precinct 40,0
-Rick Snuffer,US House,3,REP,Logan,Precinct 40,3
-Bill Lester,US House,3,REP,Logan,Precinct 40,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 40,3
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 40,0
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 40,3
+Bill Lester,U.S. House,3,REP,Logan,Precinct 40,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 40,3
 Bill Maloney,Governor,,REP,Logan,Precinct 40,2
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 40,3
@@ -1468,9 +1468,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 40,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 40,
 Barack Obama,President ,,DEM,Logan,Precinct 40,54
 Keith Judd,President ,,DEM,Logan,Precinct 40,36
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 40,100
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 40,15
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 40,99
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 40,100
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 40,15
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 40,99
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 40,120
 Arne Moltis,Governor,,DEM,Logan,Precinct 40,4
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 40,85
@@ -1510,10 +1510,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 41,0
 Newt Gingrich,President ,,REP,Logan,Precinct 41,1
 Ron Paul,President ,,REP,Logan,Precinct 41,2
 Mitt Romney,President ,,REP,Logan,Precinct 41,15
-John R. Raese,US Senate,,REP,Logan,Precinct 41,11
-Lee A. Bias,US House,3,REP,Logan,Precinct 41,2
-Rick Snuffer,US House,3,REP,Logan,Precinct 41,5
-Bill Lester,US House,3,REP,Logan,Precinct 41,4
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 41,11
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 41,2
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 41,5
+Bill Lester,U.S. House,3,REP,Logan,Precinct 41,4
 Ralph William Clark,Governor,,REP,Logan,Precinct 41,1
 Bill Maloney,Governor,,REP,Logan,Precinct 41,9
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 41,7
@@ -1528,9 +1528,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 41,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 41,
 Barack Obama,President ,,DEM,Logan,Precinct 41,50
 Keith Judd,President ,,DEM,Logan,Precinct 41,71
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 41,135
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 41,26
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 41,120
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 41,135
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 41,26
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 41,120
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 41,154
 Arne Moltis,Governor,,DEM,Logan,Precinct 41,13
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 41,123
@@ -1570,10 +1570,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 43,1
 Newt Gingrich,President ,,REP,Logan,Precinct 43,1
 Ron Paul,President ,,REP,Logan,Precinct 43,1
 Mitt Romney,President ,,REP,Logan,Precinct 43,5
-John R. Raese,US Senate,,REP,Logan,Precinct 43,7
-Lee A. Bias,US House,3,REP,Logan,Precinct 43,2
-Rick Snuffer,US House,3,REP,Logan,Precinct 43,2
-Bill Lester,US House,3,REP,Logan,Precinct 43,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 43,7
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 43,2
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 43,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 43,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 43,3
 Bill Maloney,Governor,,REP,Logan,Precinct 43,4
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 43,3
@@ -1588,9 +1588,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 43,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 43,
 Barack Obama,President ,,DEM,Logan,Precinct 43,70
 Keith Judd,President ,,DEM,Logan,Precinct 43,96
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 43,217
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 43,19
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 43,184
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 43,217
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 43,19
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 43,184
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 43,233
 Arne Moltis,Governor,,DEM,Logan,Precinct 43,9
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 43,170
@@ -1630,10 +1630,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 45A,2
 Newt Gingrich,President ,,REP,Logan,Precinct 45A,0
 Ron Paul,President ,,REP,Logan,Precinct 45A,2
 Mitt Romney,President ,,REP,Logan,Precinct 45A,9
-John R. Raese,US Senate,,REP,Logan,Precinct 45A,9
-Lee A. Bias,US House,3,REP,Logan,Precinct 45A,2
-Rick Snuffer,US House,3,REP,Logan,Precinct 45A,4
-Bill Lester,US House,3,REP,Logan,Precinct 45A,3
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 45A,9
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 45A,2
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 45A,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 45A,3
 Ralph William Clark,Governor,,REP,Logan,Precinct 45A,0
 Bill Maloney,Governor,,REP,Logan,Precinct 45A,10
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 45A,9
@@ -1648,9 +1648,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 45A,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 45A,
 Barack Obama,President ,,DEM,Logan,Precinct 45A,79
 Keith Judd,President ,,DEM,Logan,Precinct 45A,101
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 45A,201
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 45A,20
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 45A,169
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 45A,201
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 45A,20
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 45A,169
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 45A,217
 Arne Moltis,Governor,,DEM,Logan,Precinct 45A,14
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 45A,163
@@ -1690,10 +1690,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 45B,0
 Newt Gingrich,President ,,REP,Logan,Precinct 45B,0
 Ron Paul,President ,,REP,Logan,Precinct 45B,0
 Mitt Romney,President ,,REP,Logan,Precinct 45B,1
-John R. Raese,US Senate,,REP,Logan,Precinct 45B,1
-Lee A. Bias,US House,3,REP,Logan,Precinct 45B,0
-Rick Snuffer,US House,3,REP,Logan,Precinct 45B,0
-Bill Lester,US House,3,REP,Logan,Precinct 45B,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 45B,1
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 45B,0
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 45B,0
+Bill Lester,U.S. House,3,REP,Logan,Precinct 45B,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 45B,0
 Bill Maloney,Governor,,REP,Logan,Precinct 45B,1
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 45B,1
@@ -1708,9 +1708,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 45B,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 45B,
 Barack Obama,President ,,DEM,Logan,Precinct 45B,15
 Keith Judd,President ,,DEM,Logan,Precinct 45B,25
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 45B,43
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 45B,2
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 45B,37
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 45B,43
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 45B,2
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 45B,37
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 45B,46
 Arne Moltis,Governor,,DEM,Logan,Precinct 45B,1
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 45B,34
@@ -1750,10 +1750,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 46,0
 Newt Gingrich,President ,,REP,Logan,Precinct 46,1
 Ron Paul,President ,,REP,Logan,Precinct 46,3
 Mitt Romney,President ,,REP,Logan,Precinct 46,10
-John R. Raese,US Senate,,REP,Logan,Precinct 46,9
-Lee A. Bias,US House,3,REP,Logan,Precinct 46,3
-Rick Snuffer,US House,3,REP,Logan,Precinct 46,2
-Bill Lester,US House,3,REP,Logan,Precinct 46,3
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 46,9
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 46,3
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 46,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 46,3
 Ralph William Clark,Governor,,REP,Logan,Precinct 46,1
 Bill Maloney,Governor,,REP,Logan,Precinct 46,11
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 46,9
@@ -1768,9 +1768,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 46,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 46,
 Barack Obama,President ,,DEM,Logan,Precinct 46,34
 Keith Judd,President ,,DEM,Logan,Precinct 46,69
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 46,112
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 46,19
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 46,93
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 46,112
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 46,19
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 46,93
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 46,123
 Arne Moltis,Governor,,DEM,Logan,Precinct 46,7
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 46,84
@@ -1810,10 +1810,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 47,2
 Newt Gingrich,President ,,REP,Logan,Precinct 47,0
 Ron Paul,President ,,REP,Logan,Precinct 47,0
 Mitt Romney,President ,,REP,Logan,Precinct 47,7
-John R. Raese,US Senate,,REP,Logan,Precinct 47,7
-Lee A. Bias,US House,3,REP,Logan,Precinct 47,4
-Rick Snuffer,US House,3,REP,Logan,Precinct 47,2
-Bill Lester,US House,3,REP,Logan,Precinct 47,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 47,7
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 47,4
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 47,2
+Bill Lester,U.S. House,3,REP,Logan,Precinct 47,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 47,3
 Bill Maloney,Governor,,REP,Logan,Precinct 47,7
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 47,8
@@ -1828,9 +1828,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 47,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 47,
 Barack Obama,President ,,DEM,Logan,Precinct 47,52
 Keith Judd,President ,,DEM,Logan,Precinct 47,58
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 47,123
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 47,20
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 47,107
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 47,123
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 47,20
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 47,107
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 47,134
 Arne Moltis,Governor,,DEM,Logan,Precinct 47,10
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 47,106
@@ -1870,10 +1870,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 49,4
 Newt Gingrich,President ,,REP,Logan,Precinct 49,2
 Ron Paul,President ,,REP,Logan,Precinct 49,3
 Mitt Romney,President ,,REP,Logan,Precinct 49,12
-John R. Raese,US Senate,,REP,Logan,Precinct 49,19
-Lee A. Bias,US House,3,REP,Logan,Precinct 49,11
-Rick Snuffer,US House,3,REP,Logan,Precinct 49,4
-Bill Lester,US House,3,REP,Logan,Precinct 49,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 49,19
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 49,11
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 49,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 49,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 49,2
 Bill Maloney,Governor,,REP,Logan,Precinct 49,16
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 49,17
@@ -1888,9 +1888,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 49,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 49,
 Barack Obama,President ,,DEM,Logan,Precinct 49,96
 Keith Judd,President ,,DEM,Logan,Precinct 49,149
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 49,294
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 49,33
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 49,242
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 49,294
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 49,33
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 49,242
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 49,333
 Arne Moltis,Governor,,DEM,Logan,Precinct 49,17
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 49,239
@@ -1930,10 +1930,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 50,1
 Newt Gingrich,President ,,REP,Logan,Precinct 50,1
 Ron Paul,President ,,REP,Logan,Precinct 50,2
 Mitt Romney,President ,,REP,Logan,Precinct 50,10
-John R. Raese,US Senate,,REP,Logan,Precinct 50,9
-Lee A. Bias,US House,3,REP,Logan,Precinct 50,4
-Rick Snuffer,US House,3,REP,Logan,Precinct 50,6
-Bill Lester,US House,3,REP,Logan,Precinct 50,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 50,9
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 50,4
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 50,6
+Bill Lester,U.S. House,3,REP,Logan,Precinct 50,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 50,2
 Bill Maloney,Governor,,REP,Logan,Precinct 50,8
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 50,10
@@ -1948,9 +1948,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 50,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 50,
 Barack Obama,President ,,DEM,Logan,Precinct 50,99
 Keith Judd,President ,,DEM,Logan,Precinct 50,86
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 50,205
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 50,27
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 50,196
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 50,205
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 50,27
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 50,196
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 50,220
 Arne Moltis,Governor,,DEM,Logan,Precinct 50,18
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 50,170
@@ -1990,10 +1990,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 53,1
 Newt Gingrich,President ,,REP,Logan,Precinct 53,1
 Ron Paul,President ,,REP,Logan,Precinct 53,0
 Mitt Romney,President ,,REP,Logan,Precinct 53,9
-John R. Raese,US Senate,,REP,Logan,Precinct 53,9
-Lee A. Bias,US House,3,REP,Logan,Precinct 53,3
-Rick Snuffer,US House,3,REP,Logan,Precinct 53,4
-Bill Lester,US House,3,REP,Logan,Precinct 53,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 53,9
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 53,3
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 53,4
+Bill Lester,U.S. House,3,REP,Logan,Precinct 53,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 53,0
 Bill Maloney,Governor,,REP,Logan,Precinct 53,9
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 53,8
@@ -2008,9 +2008,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 53,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 53,
 Barack Obama,President ,,DEM,Logan,Precinct 53,95
 Keith Judd,President ,,DEM,Logan,Precinct 53,84
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 53,234
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 53,21
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 53,208
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 53,234
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 53,21
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 53,208
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 53,250
 Arne Moltis,Governor,,DEM,Logan,Precinct 53,13
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 53,165
@@ -2050,10 +2050,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 54,2
 Newt Gingrich,President ,,REP,Logan,Precinct 54,0
 Ron Paul,President ,,REP,Logan,Precinct 54,0
 Mitt Romney,President ,,REP,Logan,Precinct 54,3
-John R. Raese,US Senate,,REP,Logan,Precinct 54,3
-Lee A. Bias,US House,3,REP,Logan,Precinct 54,0
-Rick Snuffer,US House,3,REP,Logan,Precinct 54,3
-Bill Lester,US House,3,REP,Logan,Precinct 54,1
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 54,3
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 54,0
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 54,3
+Bill Lester,U.S. House,3,REP,Logan,Precinct 54,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 54,1
 Bill Maloney,Governor,,REP,Logan,Precinct 54,4
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 54,4
@@ -2068,9 +2068,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 54,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 54,
 Barack Obama,President ,,DEM,Logan,Precinct 54,69
 Keith Judd,President ,,DEM,Logan,Precinct 54,58
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 54,141
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 54,11
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 54,132
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 54,141
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 54,11
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 54,132
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 54,162
 Arne Moltis,Governor,,DEM,Logan,Precinct 54,2
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 54,123
@@ -2110,10 +2110,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 55,1
 Newt Gingrich,President ,,REP,Logan,Precinct 55,0
 Ron Paul,President ,,REP,Logan,Precinct 55,1
 Mitt Romney,President ,,REP,Logan,Precinct 55,3
-John R. Raese,US Senate,,REP,Logan,Precinct 55,5
-Lee A. Bias,US House,3,REP,Logan,Precinct 55,2
-Rick Snuffer,US House,3,REP,Logan,Precinct 55,1
-Bill Lester,US House,3,REP,Logan,Precinct 55,2
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 55,5
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 55,2
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 55,1
+Bill Lester,U.S. House,3,REP,Logan,Precinct 55,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 55,1
 Bill Maloney,Governor,,REP,Logan,Precinct 55,4
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 55,5
@@ -2128,9 +2128,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 55,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 55,
 Barack Obama,President ,,DEM,Logan,Precinct 55,55
 Keith Judd,President ,,DEM,Logan,Precinct 55,60
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 55,150
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 55,8
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 55,146
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 55,150
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 55,8
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 55,146
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 55,162
 Arne Moltis,Governor,,DEM,Logan,Precinct 55,7
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 55,105
@@ -2170,10 +2170,10 @@ Rick Santorum,President ,,REP,Logan,Precinct 56,0
 Newt Gingrich,President ,,REP,Logan,Precinct 56,1
 Ron Paul,President ,,REP,Logan,Precinct 56,1
 Mitt Romney,President ,,REP,Logan,Precinct 56,3
-John R. Raese,US Senate,,REP,Logan,Precinct 56,2
-Lee A. Bias,US House,3,REP,Logan,Precinct 56,3
-Rick Snuffer,US House,3,REP,Logan,Precinct 56,0
-Bill Lester,US House,3,REP,Logan,Precinct 56,0
+John R. Raese,U.S. Senate,,REP,Logan,Precinct 56,2
+Lee A. Bias,U.S. House,3,REP,Logan,Precinct 56,3
+Rick Snuffer,U.S. House,3,REP,Logan,Precinct 56,0
+Bill Lester,U.S. House,3,REP,Logan,Precinct 56,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 56,0
 Bill Maloney,Governor,,REP,Logan,Precinct 56,2
 Brian Savilla,Secretary of State ,,REP,Logan,Precinct 56,2
@@ -2188,9 +2188,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 56,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 56,
 Barack Obama,President ,,DEM,Logan,Precinct 56,29
 Keith Judd,President ,,DEM,Logan,Precinct 56,34
-Joe Manchin III,US Senate,,DEM,Logan,Precinct 56,83
-Sheirl Fletcher,US Senate,,DEM,Logan,Precinct 56,6
-"Nick J. Rahall, II",US House,,DEM,Logan,Precinct 56,73
+Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 56,83
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 56,6
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 56,73
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 56,89
 Arne Moltis,Governor,,DEM,Logan,Precinct 56,3
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 56,62
@@ -2230,10 +2230,10 @@ Rick Santorum,President ,,REP,Logan,TOTALS,86
 Newt Gingrich,President ,,REP,Logan,TOTALS,37
 Ron Paul,President ,,REP,Logan,TOTALS,56
 Mitt Romney,President ,,REP,Logan,TOTALS,388
-John R. Raese,US Senate,,REP,Logan,TOTALS,439
-Lee A. Bias,US House,3,REP,Logan,TOTALS,190
-Rick Snuffer,US House,3,REP,Logan,TOTALS,152
-Bill Lester,US House,3,REP,Logan,TOTALS,94
+John R. Raese,U.S. Senate,,REP,Logan,TOTALS,439
+Lee A. Bias,U.S. House,3,REP,Logan,TOTALS,190
+Rick Snuffer,U.S. House,3,REP,Logan,TOTALS,152
+Bill Lester,U.S. House,3,REP,Logan,TOTALS,94
 Ralph William Clark,Governor,,REP,Logan,TOTALS,94
 Bill Maloney,Governor,,REP,Logan,TOTALS,385
 Brian Savilla,Secretary of State ,,REP,Logan,TOTALS,379
@@ -2248,9 +2248,9 @@ Gary L. Johngrass,House of Delegates,22,REP,Logan,TOTALS,41
 Michel G. Moffatt,House of Delegates,22,REP,Logan,TOTALS,34
 Barack Obama,President ,,DEM,Logan,TOTALS,2315
 Keith Judd,President ,,DEM,Logan,TOTALS,2883
-Joe Manchin III,US Senate,,DEM,Logan,TOTALS,6268
-Sheirl Fletcher,US Senate,,DEM,Logan,TOTALS,694
-"Nick J. Rahall, II",US House,,DEM,Logan,TOTALS,5530
+Joe Manchin III,U.S. Senate,,DEM,Logan,TOTALS,6268
+Sheirl Fletcher,U.S. Senate,,DEM,Logan,TOTALS,694
+"Nick J. Rahall, II",U.S. House,,DEM,Logan,TOTALS,5530
 Earl Ray Tomblin,Governor,,DEM,Logan,TOTALS,6890
 Arne Moltis,Governor,,DEM,Logan,TOTALS,353
 Natalie E. Tennant,Secretary of State ,,DEM,Logan,TOTALS,5026

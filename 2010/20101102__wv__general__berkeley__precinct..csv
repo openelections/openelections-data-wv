@@ -5,13 +5,13 @@ candidate,office,district,party,county,precinct,total votes ,election day,early 
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 1,82,60,22
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 1,4,4,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 1,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 1,107,82,25
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 1,191,135,56
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 1,13,10,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 1,5,3,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 1,172,129,43
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 1,132,94,38
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 1,5,4,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 1,107,82,25
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 1,191,135,56
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 1,13,10,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 1,5,3,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 1,172,129,43
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 1,132,94,38
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 1,5,4,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 1,112,85,27
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 1,202,146,56
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 1,116,82,34
@@ -22,13 +22,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 1,185,137,48
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 2,81,55,26
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 2,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 2,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 2,155,89,66
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 2,254,179,75
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 2,13,10,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 2,6,5,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 2,242,159,83
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 2,170,112,58
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 2,8,6,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 2,155,89,66
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 2,254,179,75
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 2,13,10,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 2,6,5,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 2,242,159,83
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 2,170,112,58
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 2,8,6,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 2,153,101,52
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 2,272,180,92
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 2,196,123,73
@@ -39,13 +39,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 2,218,149,69
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 5,81,43,38
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 5,2,1,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 5,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 5,176,114,62
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 5,200,119,81
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 5,12,7,5
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 5,7,6,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 5,234,154,80
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 5,144,84,60
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 5,7,2,5
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 5,176,114,62
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 5,200,119,81
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 5,12,7,5
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 5,7,6,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 5,234,154,80
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 5,144,84,60
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 5,7,2,5
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 5,170,107,63
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 5,212,130,82
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 5,203,130,73
@@ -56,13 +56,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 5,170,104,66
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 6,43,29,14
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 6,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 6,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 6,59,41,18
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 6,109,71,38
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 6,10,6,4
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 6,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 6,103,71,32
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 6,66,45,21
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 6,4,3,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 6,59,41,18
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 6,109,71,38
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 6,10,6,4
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 6,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 6,103,71,32
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 6,66,45,21
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 6,4,3,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 6,68,52,16
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 6,109,68,41
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 6,84,58,26
@@ -73,13 +73,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 6,88,59,29
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 7,65,52,13
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 7,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 7,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 7,90,55,35
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 7,166,124,42
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 7,8,6,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 7,5,3,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 7,127,79,48
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 7,132,101,31
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 7,6,4,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 7,90,55,35
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 7,166,124,42
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 7,8,6,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 7,5,3,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 7,127,79,48
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 7,132,101,31
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 7,6,4,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 7,89,58,31
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 7,177,127,50
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 7,116,73,43
@@ -90,13 +90,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 7,144,108,36
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 8,36,28,8
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 8,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 8,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 8,41,27,14
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 8,77,50,27
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 8,3,3,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 8,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 8,61,41,20
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 8,58,39,19
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 8,2,2,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 8,41,27,14
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 8,77,50,27
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 8,3,3,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 8,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 8,61,41,20
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 8,58,39,19
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 8,2,2,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 8,38,27,11
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 8,84,56,28
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 8,55,42,13
@@ -107,13 +107,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 8,66,40,26
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 9,96,51,45
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 9,2,1,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 9,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 9,256,165,91
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 9,183,160,123
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 9,10,7,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 9,6,4,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 9,359,229,130
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 9,183,100,83
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 9,7,4,3
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 9,256,165,91
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 9,183,160,123
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 9,10,7,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 9,6,4,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 9,359,229,130
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 9,183,100,83
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 9,7,4,3
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 9,249,164,85
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 9,300,1699,131
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 9,321,203,118
@@ -124,13 +124,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 9,215,123,92
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 9-22A,80,60,20
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 9-22A,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 9-22A,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 9-22A,162,101,61
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 9-22A,163,115,48
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 9-22A,3,3,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 9-22A,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 9-22A,192,125,67
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 9-22A,124,84,40
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 9-22A,5,5,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 9-22A,162,101,61
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 9-22A,163,115,48
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 9-22A,3,3,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 9-22A,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 9-22A,192,125,67
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 9-22A,124,84,40
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 9-22A,5,5,0
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 9-22A,168,108,60
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 9-22A,142,101,41
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 9-22A,187,122,65
@@ -141,13 +141,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 9-22A,134,93,41
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 10,68,53,15
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 10,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 10,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 10,200,134,66
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 10,238,177,61
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 10,8,4,4
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 10,3,3,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 10,276,189,87
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 10,154,114,40
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 10,6,5,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 10,200,134,66
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 10,238,177,61
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 10,8,4,4
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 10,3,3,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 10,276,189,87
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 10,154,114,40
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 10,6,5,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 10,184,121,63
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 10,262,194,68
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 10,265,181,84
@@ -158,13 +158,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 10,169,124,45
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 11,21,13,8
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 11,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 11,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 11,89,56,33
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 11,134,93,41
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 11,12,8,4
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 11,0,0,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 11,145,98,47
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 11,74,50,24
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 11,6,4,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 11,89,56,33
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 11,134,93,41
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 11,12,8,4
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 11,0,0,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 11,145,98,47
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 11,74,50,24
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 11,6,4,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 11,98,58,40
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 11,130,94,36
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 11,132,85,47
@@ -175,13 +175,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 11,92,65,27
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 12,110,77,33
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 12,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 12,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 12,351,233,118
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 12,326,224,102
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 12,12,11,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 12,3,3,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 12,458,323,135
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 12,214,139,75
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 12,9,6,3
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 12,351,233,118
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 12,326,224,102
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 12,12,11,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 12,3,3,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 12,458,323,135
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 12,214,139,75
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 12,9,6,3
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 12,354,252,102
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 12,319,210,109
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 12,417,293,124
@@ -192,13 +192,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 12,258,170,88
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 13,32,24,8
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 13,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 13,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 13,144,101,43
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 13,96,75,21
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 13,7,6,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 13,3,3,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 13,169,124,45
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 13,77,59,18
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 13,3,2,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 13,144,101,43
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 13,96,75,21
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 13,7,6,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 13,3,3,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 13,169,124,45
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 13,77,59,18
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 13,3,2,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 13,142,98,44
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 13,11,89,22
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 13,154,110,44
@@ -209,13 +209,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 13,93,72,21
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 14,42,33,9
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 14,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 14,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 14,40,21,19
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 14,95,68,27
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 14,5,4,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 14,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 14,64,40,24
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 14,73,53,20
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 14,1,1,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 14,40,21,19
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 14,95,68,27
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 14,5,4,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 14,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 14,64,40,24
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 14,73,53,20
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 14,1,1,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 14,47,28,19
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 14,93,67,26
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 14,61,32,29
@@ -226,13 +226,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 14,77,61,16
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 15,59,41,18
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 15,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 15,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 15,89,65,24
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 15,117,85,32
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 15,4,3,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 15,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 15,112,85,27
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 15,93,67,26
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 15,4,2,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 15,89,65,24
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 15,117,85,32
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 15,4,3,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 15,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 15,112,85,27
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 15,93,67,26
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 15,4,2,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 15,86,60,26
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 15,123,92,31
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 15,109,81,28
@@ -243,13 +243,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 15,92,64,28
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 16,104,79,25
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 16,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 16,1,0,1
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 16,271,187,84
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 16,280,198,82
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 16,13,11,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 16,2,0,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 16,352,244,108
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 16,194,136,58
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 16,7,5,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 16,271,187,84
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 16,280,198,82
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 16,13,11,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 16,2,0,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 16,352,244,108
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 16,194,136,58
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 16,7,5,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 16,256,180,76
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 16,295,207,88
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 16,289,203,86
@@ -260,13 +260,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 16,260,181,79
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 17,42,37,5
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 17,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 17,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 17,165,115,50
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 17,136,113,23
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 17,3,3,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 17,2,1,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 17,219,157,62
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 17,74,64,10
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 17,5,5,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 17,165,115,50
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 17,136,113,23
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 17,3,3,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 17,2,1,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 17,219,157,62
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 17,74,64,10
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 17,5,5,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 17,150,111,39
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 17,152,117,35
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 17,196,143,53
@@ -277,13 +277,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 17,96,79,17
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 18,67,46,21
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 18,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 18,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 18,183,132,51
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 18,160,106,54
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 18,13,7,6
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 18,2,1,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 18,225,161,64
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 18,122,77,45
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 18,6,5,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 18,183,132,51
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 18,160,106,54
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 18,13,7,6
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 18,2,1,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 18,225,161,64
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 18,122,77,45
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 18,6,5,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 18,182,124,58
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 18,178,124,54
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 18,224,161,63
@@ -294,13 +294,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 18,132,82,50
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 18A,12,6,6
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 18A,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 18A,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 18A,71,49,22
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 18A,51,38,13
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 18A,2,1,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 18A,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 18A,97,70,27
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 18A,22,13,9
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 18A,5,4,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 18A,71,49,22
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 18A,51,38,13
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 18A,2,1,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 18A,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 18A,97,70,27
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 18A,22,13,9
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 18A,5,4,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 18A,80,54,26
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 18A,43,33,10
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 18A,87,63,24
@@ -311,13 +311,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 18A,36,24,12
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 19,41,30,11
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 19,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 19,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 19,207,169,38
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 19,124,101,23
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 19,12,12,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 19,1,0,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 19,242,202,40
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 19,94,75,19
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 19,7,6,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 19,207,169,38
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 19,124,101,23
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 19,12,12,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 19,1,0,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 19,242,202,40
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 19,94,75,19
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 19,7,6,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 19,226,190,36
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 19,117,91,26
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 19,244,203,41
@@ -328,13 +328,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 19,97,77,20
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 20,50,42,8
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 20,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 20,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 20,204,168,36
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 20,138,122,16
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 20,9,9,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 20,6,5,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 20,237,198,39
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 20,103,90,13
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 20,6,6,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 20,204,168,36
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 20,138,122,16
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 20,9,9,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 20,6,5,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 20,237,198,39
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 20,103,90,13
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 20,6,6,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 20,205,173,32
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 20,139,118,21
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 20,232,195,37
@@ -345,13 +345,13 @@ Don Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 20,117,101,16
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 21,40,37,3
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 21,2,1,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 21,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 21,281,208,73
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 21,148,126,22
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 21,20,15,5
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 21,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 21,341,260,81
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 21,90,77,13
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 21,10,6,4
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 21,281,208,73
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 21,148,126,22
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 21,20,15,5
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 21,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 21,341,260,81
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 21,90,77,13
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 21,10,6,4
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 21,287,212,75
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 21,155,131,24
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 21,299,218,81
@@ -362,13 +362,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 21,133,117,16
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 22,25,14,11
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 22,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 22,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 22,161,108,53
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 22,118,91,27
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 22,5,3,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 22,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 22,196,136,60
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 22,86,64,22
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 22,3,3,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 22,161,108,53
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 22,118,91,27
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 22,5,3,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 22,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 22,196,136,60
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 22,86,64,22
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 22,3,3,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 22,142,105,37
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 22,143,96,47
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 22,171,117,54
@@ -379,13 +379,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 22,104,79,25
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 22A,29,18,11
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 22A,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 22A,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 22A,186,120,66
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 22A,139,90,49
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 22A,3,3,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 22A,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 22A,249,165,84
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 22A,66,40,26
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 22A,6,5,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 22A,186,120,66
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 22A,139,90,49
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 22A,3,3,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 22A,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 22A,249,165,84
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 22A,66,40,26
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 22A,6,5,1
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 22A,167,111,56
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 22A,125,80,45
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 22A,183,112,71
@@ -396,13 +396,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 22A,123,84,39
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 23,88,62,26
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 23,3,2,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 23,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 23,399,282,117
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 23,300,234,66
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 23,32,29,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 23,4,4,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 23,502,374,128
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 23,200,147,53
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 23,19,16,3
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 23,399,282,117
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 23,300,234,66
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 23,32,29,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 23,4,4,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 23,502,374,128
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 23,200,147,53
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 23,19,16,3
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 23,427,313,114
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 23,293,224,69
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 23,459,341,118
@@ -413,13 +413,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 23,267,198,69
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 24,84,63,21
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 24,2,1,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 24,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 24,141,98,43
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 24,207,161,46
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 24,6,4,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 24,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 24,207,154,53
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 24,135,100,35
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 24,3,2,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 24,141,98,43
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 24,207,161,46
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 24,6,4,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 24,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 24,207,154,53
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 24,135,100,35
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 24,3,2,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 24,127,91,36
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 24,225,170,55
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 24,176,128,48
@@ -430,13 +430,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 24,164,125,39
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 25,79,53,26
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 25,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 25,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 25,149,112,37
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 25,147,106,41
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 25,8,7,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 25,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 25,183,136,47
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 25,111,82,29
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 25,9,8,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 25,149,112,37
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 25,147,106,41
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 25,8,7,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 25,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 25,183,136,47
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 25,111,82,29
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 25,9,8,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 25,139,107,32
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 25,165,117,48
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 25,153,118,35
@@ -447,13 +447,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 25,146,104,42
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 26,52,36,16
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 26,2,2,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 26,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 26,187,137,50
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 26,162,122,40
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 26,24,18,6
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 26,0,0,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 26,256,196,60
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 26,95,65,30
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 26,8,6,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 26,187,137,50
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 26,162,122,40
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 26,24,18,6
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 26,0,0,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 26,256,196,60
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 26,95,65,30
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 26,8,6,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 26,185,140,45
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 26,182,135,47
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 26,253,196,57
@@ -464,13 +464,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 26,118,81,37
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 27,93,63,30
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 27,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 27,3,1,2
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 27,327,234,93
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 27,307,222,85
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 27,12,7,5
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 27,5,4,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 27,405,293,112
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 27,221,155,66
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 27,9,7,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 27,327,234,93
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 27,307,222,85
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 27,12,7,5
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 27,5,4,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 27,405,293,112
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 27,221,155,66
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 27,9,7,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 27,303,231,72
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 27,344,234,110
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 27,364,267,97
@@ -481,13 +481,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 27,273,192,81
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 28,72,43,29
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 28,5,5,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 28,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 28,232,153,79
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 28,203,143,60
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 28,12,11,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 28,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 28,303,215,88
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 28,131,82,49
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 28,8,7,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 28,232,153,79
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 28,203,143,60
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 28,12,11,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 28,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 28,303,215,88
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 28,131,82,49
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 28,8,7,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 28,222,156,66
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 28,227,152,75
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 28,254,180,74
@@ -498,13 +498,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 28,183,122,61
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 29,55,35,20
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 29,1,0,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 29,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 29,235,157,78
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 29,230,150,80
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 29,14,9,5
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 29,0,0,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 29,328,213,115
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 29,143,94,49
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 29,7,6,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 29,235,157,78
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 29,230,150,80
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 29,14,9,5
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 29,0,0,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 29,328,213,115
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 29,143,94,49
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 29,7,6,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 29,232,149,83
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 29,249,165,84
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 29,273,184,91
@@ -515,13 +515,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 29,273,184,91
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 30,38,25,13
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 30,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 30,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 30,243,198,45
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 30,109,84,25
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 30,7,6,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 30,5,4,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 30,273,228,45
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 30,80,54,26
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 30,8,6,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 30,243,198,45
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 30,109,84,25
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 30,7,6,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 30,5,4,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 30,273,228,45
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 30,80,54,26
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 30,8,6,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 30,241,201,40
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 30,114,81,33
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 30,253,217,36
@@ -532,13 +532,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 30,108,71,37
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 32,44,34,10
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 32,2,2,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 32,2,2,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 32,205,169,36
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 32,147,125,22
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 32,19,18,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 32,3,3,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 32,260,219,41
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 32,99,82,17
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 32,7,5,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 32,205,169,36
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 32,147,125,22
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 32,19,18,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 32,3,3,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 32,260,219,41
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 32,99,82,17
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 32,7,5,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 32,202,170,32
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 32,165,137,28
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 32,271,227,44
@@ -549,13 +549,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 32,271,227,44
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 34,53,38,15
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 34,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 34,1,0,1
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 34,255,181,74
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 34,178,136,42
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 34,25,19,6
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 34,1,0,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 34,328,233,95
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 34,108,87,21
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 34,14,9,5
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 34,255,181,74
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 34,178,136,42
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 34,25,19,6
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 34,1,0,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 34,328,233,95
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 34,108,87,21
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 34,14,9,5
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 34,247,176,71
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 34,203,155,48
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 34,309,222,87
@@ -566,13 +566,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 34,309,222,87
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 35,56,37,19
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 35,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 35,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 35,300,226,74
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 35,228,160,68
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 35,17,13,4
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 35,5,1,4
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 35,394,295,99
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 35,142,96,46
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 35,8,5,3
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 35,300,226,74
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 35,228,160,68
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 35,17,13,4
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 35,5,1,4
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 35,394,295,99
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 35,142,96,46
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 35,8,5,3
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 35,298,218,80
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 35,244,177,67
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 35,356,264,92
@@ -583,13 +583,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 35,180,131,49
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 36,96,71,25
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 36,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 36,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 36,357,276,81
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 36,221,176,45
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 36,29,23,6
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 36,3,3,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 36,436,344,92
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 36,161,123,38
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 36,12,10,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 36,357,276,81
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 36,221,176,45
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 36,29,23,6
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 36,3,3,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 36,436,344,92
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 36,161,123,38
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 36,12,10,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 36,366,289,77
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 36,238,188,50
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 36,432,336,96
@@ -600,13 +600,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 36,432,336,96
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 38,39,18,21
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 38,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 38,2,2,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 38,309,151,158
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 38,273,168,105
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 38,17,13,4
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 38,5,3,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 38,427,237,190
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 38,150,84,66
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 38,10,7,3
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 38,309,151,158
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 38,273,168,105
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 38,17,13,4
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 38,5,3,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 38,427,237,190
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 38,150,84,66
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 38,10,7,3
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 38,309,172,137
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 38,284,159,125
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 38,390,210,180
@@ -617,13 +617,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 38,195,113,82
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 39,118,86,32
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 39,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 39,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 39,637,424,213
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 39,406,277,129
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 39,17,14,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 39,3,2,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 39,765,516,249
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 39,269,185,84
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 39,13,9,4
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 39,637,424,213
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 39,406,277,129
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 39,17,14,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 39,3,2,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 39,765,516,249
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 39,269,185,84
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 39,13,9,4
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 39,631,439,192
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 39,425,273,152
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 39,590,399,191
@@ -634,13 +634,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 39,422,287,135
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 40,86,60,26
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 40,2,2,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 40,3,2,1
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 40,341,241,100
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 40,286,207,79
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 40,20,15,5
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 40,12,8,4
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 40,448,318,130
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 40,179,128,51
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 40,29,15,3
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 40,341,241,100
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 40,286,207,79
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 40,20,15,5
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 40,12,8,4
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 40,448,318,130
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 40,179,128,51
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 40,29,15,3
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 40,352,255,97
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 40,290,206,84
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 40,316,224,92
@@ -651,13 +651,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 40,317,229,88
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 41,60,48,12
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 41,2,2,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 41,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 41,420,305,115
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 41,247,206,41
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 41,19,16,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 41,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 41,520,389,131
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 41,150,126,24
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 41,8,7,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 41,420,305,115
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 41,247,206,41
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 41,19,16,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 41,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 41,520,389,131
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 41,150,126,24
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 41,8,7,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 41,444,340,104
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 41,236,183,53
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 41,384,285,99
@@ -668,13 +668,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 41,275,221,54
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 42,41,36,5
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 42,3,1,2
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 42,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 42,184,137,47
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 42,125,113,12
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 42,16,14,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 42,5,3,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 42,233,184,49
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 42,77,65,12
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 42,14,12,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 42,184,137,47
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 42,125,113,12
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 42,16,14,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 42,5,3,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 42,233,184,49
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 42,77,65,12
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 42,14,12,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 42,196,152,44
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 42,128,111,17
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 42,173,138,35
@@ -685,13 +685,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 42,139,118,21
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 43,11,9,2
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 43,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 43,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 43,68,60,8
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 43,49,39,10
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 43,7,7,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 43,4,1,3
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 43,91,78,13
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 43,34,28,6
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 43,1,1,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 43,68,60,8
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 43,49,39,10
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 43,7,7,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 43,4,1,3
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 43,91,78,13
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 43,34,28,6
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 43,1,1,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 43,74,63,11
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 43,52,42,10
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 43,81,69,12
@@ -702,13 +702,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 43,81,69,12
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 43A,25,22,3
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 43A,2,2,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 43A,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 43A,189,162,27
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 43A,90,78,12
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 43A,16,15,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 43A,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 43A,227,200,27
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 43A,63,54,9
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 43A,9,7,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 43A,189,162,27
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 43A,90,78,12
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 43A,16,15,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 43A,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 43A,227,200,27
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 43A,63,54,9
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 43A,9,7,2
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 43A,182,157,25
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 43A,88,79,9
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 43A,197,169,28
@@ -719,13 +719,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 43A,197,169,28
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 44,17,17,0
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 44,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 44,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 44,133,101,32
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 44,112,92,20
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 44,9,9,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 44,3,2,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 44,188,148,40
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 44,63,51,12
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 44,2,1,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 44,133,101,32
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 44,112,92,20
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 44,9,9,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 44,3,2,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 44,188,148,40
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 44,63,51,12
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 44,2,1,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 44,155,118,37
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 44,104,87,17
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 44,181,142,39
@@ -736,13 +736,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 44,72,59,13
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 45,81,64,17
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 45,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 45,2,2,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 45,282,221,61
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 45,193,154,39
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 45,25,24,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 45,4,3,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 45,332,267,65
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 45,157,122,35
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 45,6,5,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 45,282,221,61
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 45,193,154,39
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 45,25,24,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 45,4,3,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 45,332,267,65
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 45,157,122,35
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 45,6,5,1
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 45,276,215,61
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 45,200,165,35
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 45,323,253,70
@@ -753,13 +753,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 45,323,253,70
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 46,16,14,2
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 46,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 46,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 46,150,121,29
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 46,65,53,12
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 46,7,7,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 46,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 46,180,148,32
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 46,37,29,8
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 46,4,4,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 46,150,121,29
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 46,65,53,12
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 46,7,7,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 46,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 46,180,148,32
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 46,37,29,8
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 46,4,4,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 46,156,129,27
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 46,68,53,15
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 46,152,122,30
@@ -770,13 +770,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 46,58,50,8
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 46A,21,15,6
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 46A,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 46A,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 46A,237,156,81
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 46A,132,78,54
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 46A,8,4,4
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 46A,4,4,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 46A,289,183,106
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 46A,82,54,28
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 46A,5,4,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 46A,237,156,81
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 46A,132,78,54
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 46A,8,4,4
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 46A,4,4,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 46A,289,183,106
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 46A,82,54,28
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 46A,5,4,1
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 46A,232,160,72
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 46A,115,62,53
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 46A,224,150,74
@@ -787,13 +787,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 46A,137,83,54
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 47,50,40,10
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 47,7,7,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 47,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 47,361,289,72
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 47,163,133,30
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 47,20,19,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 47,6,5,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 47,414,333,81
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 47,116,94,22
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 47,13,13,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 47,361,289,72
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 47,163,133,30
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 47,20,19,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 47,6,5,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 47,414,333,81
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 47,116,94,22
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 47,13,13,0
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 47,343,280,63
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 47,154,122,32
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 47,409,331,78
@@ -804,13 +804,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 47,409,331,78
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 48,121,62,59
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 48,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 48,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 48,353,254,99
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 48,313,193,120
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 48,9,7,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 48,6,6,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 48,421,303,118
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 48,233,133,100
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 48,11,10,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 48,353,254,99
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 48,313,193,120
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 48,9,7,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 48,6,6,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 48,421,303,118
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 48,233,133,100
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 48,11,10,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 48,352,253,99
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 48,322,198,124
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 48,294,216,78
@@ -821,13 +821,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 48,371,230,141
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 49,59,32,27
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 49,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 49,2,2,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 49,285,185,100
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 49,263,170,93
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 49,11,9,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 49,10,7,3
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 49,381,258,123
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 49,172,102,70
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 49,4,4,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 49,285,185,100
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 49,263,170,93
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 49,11,9,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 49,10,7,3
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 49,381,258,123
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 49,172,102,70
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 49,4,4,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 49,292,198,94
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 49,263,163,100
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 49,316,217,99
@@ -838,13 +838,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 49,240,143,97
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 50,29,17,12
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 50,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 50,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 50,181,138,43
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 50,102,69,33
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 50,4,3,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 50,3,2,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 50,212,163,49
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 50,66,40,26
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 50,4,4,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 50,181,138,43
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 50,102,69,33
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 50,4,3,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 50,3,2,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 50,212,163,49
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 50,66,40,26
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 50,4,4,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 50,186,144,42
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 50,98,63,35
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 50,187,144,43
@@ -855,13 +855,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 50,95,62,33
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 51,29,22,7
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 51,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 51,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 51,170,149,21
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 51,112,86,26
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 51,9,4,5
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 51,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 51,213,184,29
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 51,70,51,19
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 51,4,3,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 51,170,149,21
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 51,112,86,26
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 51,9,4,5
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 51,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 51,213,184,29
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 51,70,51,19
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 51,4,3,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 51,167,141,26
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 51,119,93,26
 Walter E. Duke,House of Delegates,53,REP,Berkeley,PRECINCT 51,206,174,32
@@ -872,13 +872,13 @@ M Jason Barrett,House of Delegates,53,DEM,Berkeley,PRECINCT 51,83,64,19
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 51A,20,15,5
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 51A,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 51A,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 51A,90,72,18
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 51A,51,39,12
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 51A,2,2,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 51A,5,4,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 51A,110,89,21
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 51A,34,26,8
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 51A,3,2,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 51A,90,72,18
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 51A,51,39,12
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 51A,2,2,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 51A,5,4,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 51A,110,89,21
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 51A,34,26,8
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 51A,3,2,1
 Jeremy Donald Bauserman,State Senate,15,REP,Berkeley,PRECINCT 51A,89,73,16
 Walt Helmick ,State Senate,15,DEM,Berkeley,PRECINCT 51A,49,36,13
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 51A,108,86,22
@@ -889,13 +889,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 51A,108,86,22
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 52,87,53,34
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 52,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 52,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 52,248,143,105
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 52,225,151,74
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 52,10,7,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 52,4,3,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 52,320,192,128
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 52,159,105,54
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 52,3,1,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 52,248,143,105
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 52,225,151,74
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 52,10,7,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 52,4,3,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 52,320,192,128
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 52,159,105,54
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 52,3,1,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 52,238,137,101
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 52,243,161,82
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 52,270,167,103
@@ -906,13 +906,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 52,203,127,76
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 53,77,50,27
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 53,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 53,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 53,205,162,43
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 53,192,136,56
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 53,17,14,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 53,6,6,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 53,260,207,53
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 53,144,97,47
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 53,7,6,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 53,205,162,43
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 53,192,136,56
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 53,17,14,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 53,6,6,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 53,260,207,53
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 53,144,97,47
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 53,7,6,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 53,199,158,41
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 53,211,151,60
 John Overington,House of Delegates,55,REP,Berkeley,PRECINCT 53,230,176,54
@@ -923,13 +923,13 @@ Donn Marshall ,House of Delegates,55,DEM,Berkeley,PRECINCT 53,181,134,47
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 54,50,42,8
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 54,2,2,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 54,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 54,216,150,66
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 54,169,147,22
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 54,11,11,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 54,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 54,269,202,67
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 54,114,96,18
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 54,9,9,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 54,216,150,66
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 54,169,147,22
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 54,11,11,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 54,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 54,269,202,67
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 54,114,96,18
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 54,9,9,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 54,224,162,62
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 54,172,148,24
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 54,272,205,67
@@ -940,13 +940,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 54,272,205,67
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 55,20,9,11
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 55,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 55,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 55,120,79,41
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 55,65,39,26
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 55,1,1,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 55,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 55,140,93,47
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 55,42,22,20
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 55,2,2,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 55,120,79,41
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 55,65,39,26
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 55,1,1,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 55,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 55,140,93,47
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 55,42,22,20
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 55,2,2,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 55,124,84,40
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 55,63,36,27
 Larry D. Kump,House of Delegates,52,REP,Berkeley,PRECINCT 55,102,65,37
@@ -957,13 +957,13 @@ Mike Roberts,House of Delegates,52,DEM,Berkeley,PRECINCT 55,77,49,28
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 56,28,21,7
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 56,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 56,1,0,1
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 56,77,59,18
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 56,93,71,22
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 56,8,7,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 56,3,2,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 56,111,85,26
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 56,59,44,15
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 56,1,1,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 56,77,59,18
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 56,93,71,22
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 56,8,7,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 56,3,2,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 56,111,85,26
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 56,59,44,15
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 56,1,1,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 56,81,62,19
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 56,95,73,22
 Walter E. Duke,House of Delegates,54,REP,Berkeley,PRECINCT 56,98,76,22
@@ -974,13 +974,13 @@ M Jason Barrett,House of Delegates,54,DEM,Berkeley,PRECINCT 56,75,58,17
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 105,56,37,19
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 105,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 105,2,2,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 105,161,110,51
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 105,119,82,37
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 105,8,7,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 105,4,3,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 105,193,137,56
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 105,88,60,28
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 105,5,4,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 105,161,110,51
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 105,119,82,37
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 105,8,7,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 105,4,3,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 105,193,137,56
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 105,88,60,28
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 105,5,4,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 105,145,105,40
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 105,142,95,47
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 105,178,127,51
@@ -991,13 +991,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 105,105,72,33
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 106,35,31,4
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 106,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 106,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 106,130,86,44
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 106,91,75,16
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 106,6,5,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 106,4,2,2
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 106,159,110,49
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 106,64,51,13
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 106,6,6,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 106,130,86,44
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 106,91,75,16
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 106,6,5,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 106,4,2,2
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 106,159,110,49
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 106,64,51,13
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 106,6,6,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 106,122,84,38
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 106,106,83,23
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 106,142,101,41
@@ -1008,13 +1008,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 106,77,59,18
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 107,37,30,7
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 107,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 107,2,2,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 107,173,129,44
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 107,124,98,26
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 107,11,10,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 107,2,2,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 107,223,169,54
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 107,77,62,15
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 107,5,5,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 107,173,129,44
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 107,124,98,26
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 107,11,10,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 107,2,2,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 107,223,169,54
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 107,77,62,15
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 107,5,5,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 107,173,132,41
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 107,134,107,27
 Eric L. Householder,House of Delegates,56,REP,Berkeley,PRECINCT 107,221,167,54
@@ -1025,13 +1025,13 @@ Terry L. Walker,House of Delegates,56,DEM,Berkeley,PRECINCT 107,84,69,15
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 110,16,12,4
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 110,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 110,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 110,92,74,18
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 110,71,49,22
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 110,7,4,3
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 110,0,0,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 110,120,92,28
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 110,47,33,14
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 110,3,3,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 110,92,74,18
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 110,71,49,22
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 110,7,4,3
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 110,0,0,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 110,120,92,28
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 110,47,33,14
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 110,3,3,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 110,88,68,20
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 110,80,57,23
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 110,110,86,24
@@ -1042,13 +1042,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 110,110,86,24
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 111,16,13,3
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 111,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 111,1,1,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 111,147,109,38
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 111,82,62,20
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 111,3,2,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 111,2,1,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 111,185,136,49
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 111,39,31,8
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 111,4,2,2
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 111,147,109,38
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 111,82,62,20
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 111,3,2,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 111,2,1,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 111,185,136,49
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 111,39,31,8
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 111,4,2,2
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 111,137,103,34
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 111,91,66,25
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 111,172,128,44
@@ -1059,13 +1059,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 111,172,128,44
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 112,45,39,6
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 112,1,1,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 112,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 112,140,116,24
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 112,114,96,18
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 112,12,10,2
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 112,0,0,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 112,181,153,28
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 112,73,60,13
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 112,4,3,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 112,140,116,24
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 112,114,96,18
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 112,12,10,2
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 112,0,0,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 112,181,153,28
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 112,73,60,13
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 112,4,3,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 112,135,112,23
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 112,125,106,19
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 112,170,144,26
@@ -1076,13 +1076,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 112,170,144,26
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 113,17,16,1
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 113,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 113,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 113,92,73,19
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 113,59,50,9
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 113,4,3,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 113,1,1,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 113,109,89,20
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 113,38,31,7
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 113,4,3,1
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 113,92,73,19
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 113,59,50,9
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 113,4,3,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 113,1,1,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 113,109,89,20
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 113,38,31,7
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 113,4,3,1
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 113,75,63,12
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 113,76,60,16
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 113,102,83,19
@@ -1093,13 +1093,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 113,102,83,19
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 114,25,22,3
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 114,1,0,1
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 114,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 114,89,83,6
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 114,51,46,5
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 114,4,3,1
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 114,0,0,0
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 114,106,98,8
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 114,36,32,4
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 114,0,0,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 114,89,83,6
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 114,51,46,5
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 114,4,3,1
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 114,0,0,0
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 114,106,98,8
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 114,36,32,4
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 114,0,0,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 114,91,84,7
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 114,49,44,5
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 114,98,90,8
@@ -1110,13 +1110,13 @@ Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 114,98,90,8
 ,Straight Party Ticket ,,DEM,Berkeley,PRECINCT 115,22,21,1
 ,Straight Party Ticket ,,CON,Berkeley,PRECINCT 115,0,0,0
 ,Straight Party Ticket ,,MTN,Berkeley,PRECINCT 115,0,0,0
-John R. Raese,US Senate,,REP,Berkeley,PRECINCT 115,147,122,25
-Joe Manchin III,US Senate,,DEM,Berkeley,PRECINCT 115,78,64,14
-Jeff Becker,US Senate,,CON,Berkeley,PRECINCT 115,8,8,0
-Jesse Johnson ,US Senate,,MTN,Berkeley,PRECINCT 115,1,0,1
-Shelley Moore Capito,US House,2,REP,Berkeley,PRECINCT 115,177,149,28
-Virginia Lynch Graf,US House,2,DEM,Berkeley,PRECINCT 115,52,41,11
-Phil Hudok,US House,2,CON,Berkeley,PRECINCT 115,4,4,0
+John R. Raese,U.S. Senate,,REP,Berkeley,PRECINCT 115,147,122,25
+Joe Manchin III,U.S. Senate,,DEM,Berkeley,PRECINCT 115,78,64,14
+Jeff Becker,U.S. Senate,,CON,Berkeley,PRECINCT 115,8,8,0
+Jesse Johnson ,U.S. Senate,,MTN,Berkeley,PRECINCT 115,1,0,1
+Shelley Moore Capito,U.S. House,2,REP,Berkeley,PRECINCT 115,177,149,28
+Virginia Lynch Graf,U.S. House,2,DEM,Berkeley,PRECINCT 115,52,41,11
+Phil Hudok,U.S. House,2,CON,Berkeley,PRECINCT 115,4,4,0
 Craig Blair,State Senate,16,REP,Berkeley,PRECINCT 115,144,116,28
 John Unger,State Senate,16,DEM,Berkeley,PRECINCT 115,87,74,13
 Jonathan Miller,House of Delegates,53,REP,Berkeley,PRECINCT 115,164,138,26

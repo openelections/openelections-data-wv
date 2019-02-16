@@ -1,9 +1,9 @@
 candidate,office,district,party,county,precinct,total votes
 Keith Judd,President ,,DEM,Mineral,Precinct 1,24
 Barack Obama,President ,,DEM,Mineral,Precinct 1,17
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 1,39
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 1,6
-Sue Thorn,US House,1,DEM,Mineral,Precinct 1,32
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 1,39
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 1,6
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 1,32
 Arne Moltis,Governor,,DEM,Mineral,Precinct 1,6
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 1,38
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 1,31
@@ -23,8 +23,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 1,5
 Ron Paul,President ,,REP,Mineral,Precinct 1,10
 Mitt Romney,President ,,REP,Mineral,Precinct 1,75
 Rick Santorum,President ,,REP,Mineral,Precinct 1,5
-John R. Raese,US Senate,,REP,Mineral,Precinct 1,84
-David B. McKinley ,US House,1,REP,Mineral,Precinct 1,84
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 1,84
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 1,84
 Bill Maloney,Governor,,REP,Mineral,Precinct 1,75
 Ralph William Clark,Governor,,REP,Mineral,Precinct 1,14
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 1,76
@@ -40,9 +40,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 1,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 1,0
 Keith Judd,President ,,DEM,Mineral,Precinct 2,40
 Barack Obama,President ,,DEM,Mineral,Precinct 2,38
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 2,71
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 2,15
-Sue Thorn,US House,1,DEM,Mineral,Precinct 2,65
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 2,71
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 2,15
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 2,65
 Arne Moltis,Governor,,DEM,Mineral,Precinct 2,17
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 2,68
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 2,65
@@ -62,8 +62,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 2,12
 Ron Paul,President ,,REP,Mineral,Precinct 2,17
 Mitt Romney,President ,,REP,Mineral,Precinct 2,96
 Rick Santorum,President ,,REP,Mineral,Precinct 2,22
-John R. Raese,US Senate,,REP,Mineral,Precinct 2,125
-David B. McKinley ,US House,1,REP,Mineral,Precinct 2,122
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 2,125
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 2,122
 Bill Maloney,Governor,,REP,Mineral,Precinct 2,112
 Ralph William Clark,Governor,,REP,Mineral,Precinct 2,22
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 2,112
@@ -79,9 +79,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 2,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 2,0
 Keith Judd,President ,,DEM,Mineral,Precinct 3,11
 Barack Obama,President ,,DEM,Mineral,Precinct 3,7
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 3,15
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 3,3
-Sue Thorn,US House,1,DEM,Mineral,Precinct 3,10
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 3,15
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 3,3
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 3,10
 Arne Moltis,Governor,,DEM,Mineral,Precinct 3,4
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 3,13
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 3,11
@@ -101,8 +101,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 3,2
 Ron Paul,President ,,REP,Mineral,Precinct 3,1
 Mitt Romney,President ,,REP,Mineral,Precinct 3,24
 Rick Santorum,President ,,REP,Mineral,Precinct 3,1
-John R. Raese,US Senate,,REP,Mineral,Precinct 3,20
-David B. McKinley ,US House,1,REP,Mineral,Precinct 3,21
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 3,20
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 3,21
 Bill Maloney,Governor,,REP,Mineral,Precinct 3,20
 Ralph William Clark,Governor,,REP,Mineral,Precinct 3,5
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 3,17
@@ -118,9 +118,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 3,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 3,0
 Keith Judd,President ,,DEM,Mineral,Precinct 4,26
 Barack Obama,President ,,DEM,Mineral,Precinct 4,21
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 4,50
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 4,2
-Sue Thorn,US House,1,DEM,Mineral,Precinct 4,41
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 4,50
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 4,2
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 4,41
 Arne Moltis,Governor,,DEM,Mineral,Precinct 4,6
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 4,46
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 4,42
@@ -140,8 +140,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 4,7
 Ron Paul,President ,,REP,Mineral,Precinct 4,5
 Mitt Romney,President ,,REP,Mineral,Precinct 4,85
 Rick Santorum,President ,,REP,Mineral,Precinct 4,14
-John R. Raese,US Senate,,REP,Mineral,Precinct 4,100
-David B. McKinley ,US House,1,REP,Mineral,Precinct 4,104
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 4,100
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 4,104
 Bill Maloney,Governor,,REP,Mineral,Precinct 4,93
 Ralph William Clark,Governor,,REP,Mineral,Precinct 4,14
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 4,91
@@ -157,9 +157,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 4,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 4,0
 Keith Judd,President ,,DEM,Mineral,Precinct 5,15
 Barack Obama,President ,,DEM,Mineral,Precinct 5,34
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 5,49
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 5,8
-Sue Thorn,US House,1,DEM,Mineral,Precinct 5,45
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 5,49
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 5,8
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 5,45
 Arne Moltis,Governor,,DEM,Mineral,Precinct 5,6
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 5,50
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 5,46
@@ -179,8 +179,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 5,8
 Ron Paul,President ,,REP,Mineral,Precinct 5,10
 Mitt Romney,President ,,REP,Mineral,Precinct 5,79
 Rick Santorum,President ,,REP,Mineral,Precinct 5,19
-John R. Raese,US Senate,,REP,Mineral,Precinct 5,101
-David B. McKinley ,US House,1,REP,Mineral,Precinct 5,101
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 5,101
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 5,101
 Bill Maloney,Governor,,REP,Mineral,Precinct 5,83
 Ralph William Clark,Governor,,REP,Mineral,Precinct 5,24
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 5,92
@@ -196,9 +196,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 5,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 5,0
 Keith Judd,President ,,DEM,Mineral,Precinct 7,60
 Barack Obama,President ,,DEM,Mineral,Precinct 7,55
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 7,105
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 7,21
-Sue Thorn,US House,1,DEM,Mineral,Precinct 7,92
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 7,105
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 7,21
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 7,92
 Arne Moltis,Governor,,DEM,Mineral,Precinct 7,19
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 7,103
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 7,98
@@ -218,8 +218,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 7,12
 Ron Paul,President ,,REP,Mineral,Precinct 7,16
 Mitt Romney,President ,,REP,Mineral,Precinct 7,92
 Rick Santorum,President ,,REP,Mineral,Precinct 7,15
-John R. Raese,US Senate,,REP,Mineral,Precinct 7,117
-David B. McKinley ,US House,1,REP,Mineral,Precinct 7,104
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 7,117
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 7,104
 Bill Maloney,Governor,,REP,Mineral,Precinct 7,90
 Ralph William Clark,Governor,,REP,Mineral,Precinct 7,33
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 7,96
@@ -235,9 +235,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 7,41
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 7,86
 Keith Judd,President ,,DEM,Mineral,Precinct 8,23
 Barack Obama,President ,,DEM,Mineral,Precinct 8,27
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 8,53
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 8,5
-Sue Thorn,US House,1,DEM,Mineral,Precinct 8,38
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 8,53
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 8,5
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 8,38
 Arne Moltis,Governor,,DEM,Mineral,Precinct 8,9
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 8,49
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 8,44
@@ -257,8 +257,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 8,3
 Ron Paul,President ,,REP,Mineral,Precinct 8,9
 Mitt Romney,President ,,REP,Mineral,Precinct 8,49
 Rick Santorum,President ,,REP,Mineral,Precinct 8,11
-John R. Raese,US Senate,,REP,Mineral,Precinct 8,61
-David B. McKinley ,US House,1,REP,Mineral,Precinct 8,57
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 8,61
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 8,57
 Bill Maloney,Governor,,REP,Mineral,Precinct 8,51
 Ralph William Clark,Governor,,REP,Mineral,Precinct 8,21
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 8,50
@@ -274,9 +274,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 8,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 8,0
 Keith Judd,President ,,DEM,Mineral,Precinct 9,33
 Barack Obama,President ,,DEM,Mineral,Precinct 9,41
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 9,70
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 9,15
-Sue Thorn,US House,1,DEM,Mineral,Precinct 9,64
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 9,70
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 9,15
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 9,64
 Arne Moltis,Governor,,DEM,Mineral,Precinct 9,13
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 9,70
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 9,62
@@ -296,8 +296,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 9,6
 Ron Paul,President ,,REP,Mineral,Precinct 9,9
 Mitt Romney,President ,,REP,Mineral,Precinct 9,74
 Rick Santorum,President ,,REP,Mineral,Precinct 9,12
-John R. Raese,US Senate,,REP,Mineral,Precinct 9,88
-David B. McKinley ,US House,1,REP,Mineral,Precinct 9,82
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 9,88
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 9,82
 Bill Maloney,Governor,,REP,Mineral,Precinct 9,84
 Ralph William Clark,Governor,,REP,Mineral,Precinct 9,12
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 9,78
@@ -313,9 +313,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 9,26
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 9,73
 Keith Judd,President ,,DEM,Mineral,Precinct 10,31
 Barack Obama,President ,,DEM,Mineral,Precinct 10,34
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 10,65
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 10,8
-Sue Thorn,US House,1,DEM,Mineral,Precinct 10,57
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 10,65
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 10,8
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 10,57
 Arne Moltis,Governor,,DEM,Mineral,Precinct 10,11
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 10,60
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 10,58
@@ -335,8 +335,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 10,11
 Ron Paul,President ,,REP,Mineral,Precinct 10,8
 Mitt Romney,President ,,REP,Mineral,Precinct 10,74
 Rick Santorum,President ,,REP,Mineral,Precinct 10,14
-John R. Raese,US Senate,,REP,Mineral,Precinct 10,94
-David B. McKinley ,US House,1,REP,Mineral,Precinct 10,94
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 10,94
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 10,94
 Bill Maloney,Governor,,REP,Mineral,Precinct 10,83
 Ralph William Clark,Governor,,REP,Mineral,Precinct 10,19
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 10,83
@@ -352,9 +352,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 10,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 10,0
 Keith Judd,President ,,DEM,Mineral,Precinct 11,31
 Barack Obama,President ,,DEM,Mineral,Precinct 11,33
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 11,59
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 11,11
-Sue Thorn,US House,1,DEM,Mineral,Precinct 11,51
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 11,59
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 11,11
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 11,51
 Arne Moltis,Governor,,DEM,Mineral,Precinct 11,13
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 11,55
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 11,56
@@ -374,8 +374,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 11,10
 Ron Paul,President ,,REP,Mineral,Precinct 11,11
 Mitt Romney,President ,,REP,Mineral,Precinct 11,75
 Rick Santorum,President ,,REP,Mineral,Precinct 11,14
-John R. Raese,US Senate,,REP,Mineral,Precinct 11,91
-David B. McKinley ,US House,1,REP,Mineral,Precinct 11,84
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 11,91
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 11,84
 Bill Maloney,Governor,,REP,Mineral,Precinct 11,72
 Ralph William Clark,Governor,,REP,Mineral,Precinct 11,29
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 11,79
@@ -391,9 +391,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 11,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 11,0
 Keith Judd,President ,,DEM,Mineral,Precinct 12,16
 Barack Obama,President ,,DEM,Mineral,Precinct 12,18
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 12,31
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 12,4
-Sue Thorn,US House,1,DEM,Mineral,Precinct 12,32
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 12,31
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 12,4
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 12,32
 Arne Moltis,Governor,,DEM,Mineral,Precinct 12,5
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 12,30
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 12,30
@@ -413,8 +413,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 12,5
 Ron Paul,President ,,REP,Mineral,Precinct 12,3
 Mitt Romney,President ,,REP,Mineral,Precinct 12,17
 Rick Santorum,President ,,REP,Mineral,Precinct 12,4
-John R. Raese,US Senate,,REP,Mineral,Precinct 12,24
-David B. McKinley ,US House,1,REP,Mineral,Precinct 12,23
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 12,24
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 12,23
 Bill Maloney,Governor,,REP,Mineral,Precinct 12,25
 Ralph William Clark,Governor,,REP,Mineral,Precinct 12,1
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 12,20
@@ -430,9 +430,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 12,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 12,0
 Keith Judd,President ,,DEM,Mineral,Precinct 13,12
 Barack Obama,President ,,DEM,Mineral,Precinct 13,9
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 13,21
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 13,6
-Sue Thorn,US House,1,DEM,Mineral,Precinct 13,17
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 13,21
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 13,6
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 13,17
 Arne Moltis,Governor,,DEM,Mineral,Precinct 13,5
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 13,22
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 13,20
@@ -452,8 +452,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 13,1
 Ron Paul,President ,,REP,Mineral,Precinct 13,1
 Mitt Romney,President ,,REP,Mineral,Precinct 13,19
 Rick Santorum,President ,,REP,Mineral,Precinct 13,7
-John R. Raese,US Senate,,REP,Mineral,Precinct 13,28
-David B. McKinley ,US House,1,REP,Mineral,Precinct 13,23
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 13,28
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 13,23
 Bill Maloney,Governor,,REP,Mineral,Precinct 13,24
 Ralph William Clark,Governor,,REP,Mineral,Precinct 13,5
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 13,23
@@ -469,9 +469,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 13,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 13,0
 Keith Judd,President ,,DEM,Mineral,Precinct 15,10
 Barack Obama,President ,,DEM,Mineral,Precinct 15,21
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 15,37
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 15,5
-Sue Thorn,US House,1,DEM,Mineral,Precinct 15,33
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 15,37
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 15,5
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 15,33
 Arne Moltis,Governor,,DEM,Mineral,Precinct 15,6
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 15,37
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 15,35
@@ -491,8 +491,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 15,2
 Ron Paul,President ,,REP,Mineral,Precinct 15,3
 Mitt Romney,President ,,REP,Mineral,Precinct 15,34
 Rick Santorum,President ,,REP,Mineral,Precinct 15,7
-John R. Raese,US Senate,,REP,Mineral,Precinct 15,36
-David B. McKinley ,US House,1,REP,Mineral,Precinct 15,31
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 15,36
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 15,31
 Bill Maloney,Governor,,REP,Mineral,Precinct 15,32
 Ralph William Clark,Governor,,REP,Mineral,Precinct 15,9
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 15,31
@@ -508,9 +508,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 15,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 15,0
 Keith Judd,President ,,DEM,Mineral,Precinct 16,15
 Barack Obama,President ,,DEM,Mineral,Precinct 16,30
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 16,48
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 16,6
-Sue Thorn,US House,1,DEM,Mineral,Precinct 16,38
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 16,48
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 16,6
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 16,38
 Arne Moltis,Governor,,DEM,Mineral,Precinct 16,8
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 16,43
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 16,42
@@ -530,8 +530,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 16,3
 Ron Paul,President ,,REP,Mineral,Precinct 16,7
 Mitt Romney,President ,,REP,Mineral,Precinct 16,24
 Rick Santorum,President ,,REP,Mineral,Precinct 16,7
-John R. Raese,US Senate,,REP,Mineral,Precinct 16,38
-David B. McKinley ,US House,1,REP,Mineral,Precinct 16,35
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 16,38
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 16,35
 Bill Maloney,Governor,,REP,Mineral,Precinct 16,35
 Ralph William Clark,Governor,,REP,Mineral,Precinct 16,4
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 16,33
@@ -547,9 +547,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 16,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 16,0
 Keith Judd,President ,,DEM,Mineral,Precinct 18,12
 Barack Obama,President ,,DEM,Mineral,Precinct 18,23
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 18,31
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 18,5
-Sue Thorn,US House,1,DEM,Mineral,Precinct 18,31
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 18,31
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 18,5
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 18,31
 Arne Moltis,Governor,,DEM,Mineral,Precinct 18,4
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 18,31
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 18,31
@@ -569,8 +569,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 18,5
 Ron Paul,President ,,REP,Mineral,Precinct 18,6
 Mitt Romney,President ,,REP,Mineral,Precinct 18,33
 Rick Santorum,President ,,REP,Mineral,Precinct 18,6
-John R. Raese,US Senate,,REP,Mineral,Precinct 18,44
-David B. McKinley ,US House,1,REP,Mineral,Precinct 18,41
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 18,44
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 18,41
 Bill Maloney,Governor,,REP,Mineral,Precinct 18,47
 Ralph William Clark,Governor,,REP,Mineral,Precinct 18,5
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 18,44
@@ -586,9 +586,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 18,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 18,0
 Keith Judd,President ,,DEM,Mineral,Precinct 19,11
 Barack Obama,President ,,DEM,Mineral,Precinct 19,35
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 19,45
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 19,6
-Sue Thorn,US House,1,DEM,Mineral,Precinct 19,35
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 19,45
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 19,6
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 19,35
 Arne Moltis,Governor,,DEM,Mineral,Precinct 19,8
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 19,42
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 19,41
@@ -608,8 +608,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 19,1
 Ron Paul,President ,,REP,Mineral,Precinct 19,6
 Mitt Romney,President ,,REP,Mineral,Precinct 19,38
 Rick Santorum,President ,,REP,Mineral,Precinct 19,5
-John R. Raese,US Senate,,REP,Mineral,Precinct 19,42
-David B. McKinley ,US House,1,REP,Mineral,Precinct 19,41
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 19,42
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 19,41
 Bill Maloney,Governor,,REP,Mineral,Precinct 19,44
 Ralph William Clark,Governor,,REP,Mineral,Precinct 19,5
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 19,33
@@ -625,9 +625,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 19,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 19,0
 Keith Judd,President ,,DEM,Mineral,Precinct 20,9
 Barack Obama,President ,,DEM,Mineral,Precinct 20,23
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 20,35
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 20,2
-Sue Thorn,US House,1,DEM,Mineral,Precinct 20,29
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 20,35
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 20,2
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 20,29
 Arne Moltis,Governor,,DEM,Mineral,Precinct 20,4
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 20,27
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 20,29
@@ -647,8 +647,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 20,2
 Ron Paul,President ,,REP,Mineral,Precinct 20,1
 Mitt Romney,President ,,REP,Mineral,Precinct 20,17
 Rick Santorum,President ,,REP,Mineral,Precinct 20,1
-John R. Raese,US Senate,,REP,Mineral,Precinct 20,20
-David B. McKinley ,US House,1,REP,Mineral,Precinct 20,21
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 20,20
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 20,21
 Bill Maloney,Governor,,REP,Mineral,Precinct 20,15
 Ralph William Clark,Governor,,REP,Mineral,Precinct 20,5
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 20,17
@@ -664,9 +664,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 20,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 20,0
 Keith Judd,President ,,DEM,Mineral,Precinct 21,5
 Barack Obama,President ,,DEM,Mineral,Precinct 21,12
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 21,17
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 21,5
-Sue Thorn,US House,1,DEM,Mineral,Precinct 21,12
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 21,17
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 21,5
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 21,12
 Arne Moltis,Governor,,DEM,Mineral,Precinct 21,5
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 21,16
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 21,16
@@ -686,8 +686,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 21,2
 Ron Paul,President ,,REP,Mineral,Precinct 21,2
 Mitt Romney,President ,,REP,Mineral,Precinct 21,16
 Rick Santorum,President ,,REP,Mineral,Precinct 21,5
-John R. Raese,US Senate,,REP,Mineral,Precinct 21,20
-David B. McKinley ,US House,1,REP,Mineral,Precinct 21,19
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 21,20
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 21,19
 Bill Maloney,Governor,,REP,Mineral,Precinct 21,18
 Ralph William Clark,Governor,,REP,Mineral,Precinct 21,6
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 21,16
@@ -703,9 +703,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 21,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 21,0
 Keith Judd,President ,,DEM,Mineral,Precinct 22,9
 Barack Obama,President ,,DEM,Mineral,Precinct 22,18
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 22,34
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 22,0
-Sue Thorn,US House,1,DEM,Mineral,Precinct 22,26
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 22,34
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 22,0
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 22,26
 Arne Moltis,Governor,,DEM,Mineral,Precinct 22,1
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 22,33
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 22,29
@@ -725,8 +725,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 22,3
 Ron Paul,President ,,REP,Mineral,Precinct 22,2
 Mitt Romney,President ,,REP,Mineral,Precinct 22,23
 Rick Santorum,President ,,REP,Mineral,Precinct 22,3
-John R. Raese,US Senate,,REP,Mineral,Precinct 22,26
-David B. McKinley ,US House,1,REP,Mineral,Precinct 22,24
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 22,26
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 22,24
 Bill Maloney,Governor,,REP,Mineral,Precinct 22,24
 Ralph William Clark,Governor,,REP,Mineral,Precinct 22,3
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 22,25
@@ -742,9 +742,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 22,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 22,0
 Keith Judd,President ,,DEM,Mineral,Precinct 23,34
 Barack Obama,President ,,DEM,Mineral,Precinct 23,53
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 23,72
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 23,23
-Sue Thorn,US House,1,DEM,Mineral,Precinct 23,77
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 23,72
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 23,23
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 23,77
 Arne Moltis,Governor,,DEM,Mineral,Precinct 23,10
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 23,83
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 23,80
@@ -764,8 +764,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 23,4
 Ron Paul,President ,,REP,Mineral,Precinct 23,9
 Mitt Romney,President ,,REP,Mineral,Precinct 23,34
 Rick Santorum,President ,,REP,Mineral,Precinct 23,5
-John R. Raese,US Senate,,REP,Mineral,Precinct 23,51
-David B. McKinley ,US House,1,REP,Mineral,Precinct 23,46
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 23,51
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 23,46
 Bill Maloney,Governor,,REP,Mineral,Precinct 23,44
 Ralph William Clark,Governor,,REP,Mineral,Precinct 23,7
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 23,43
@@ -781,9 +781,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 23,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 23,0
 Keith Judd,President ,,DEM,Mineral,Precinct 24,26
 Barack Obama,President ,,DEM,Mineral,Precinct 24,44
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 24,75
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 24,9
-Sue Thorn,US House,1,DEM,Mineral,Precinct 24,64
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 24,75
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 24,9
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 24,64
 Arne Moltis,Governor,,DEM,Mineral,Precinct 24,9
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 24,71
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 24,67
@@ -803,8 +803,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 24,2
 Ron Paul,President ,,REP,Mineral,Precinct 24,9
 Mitt Romney,President ,,REP,Mineral,Precinct 24,63
 Rick Santorum,President ,,REP,Mineral,Precinct 24,6
-John R. Raese,US Senate,,REP,Mineral,Precinct 24,74
-David B. McKinley ,US House,1,REP,Mineral,Precinct 24,71
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 24,74
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 24,71
 Bill Maloney,Governor,,REP,Mineral,Precinct 24,64
 Ralph William Clark,Governor,,REP,Mineral,Precinct 24,14
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 24,61
@@ -820,9 +820,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 24,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 24,0
 Keith Judd,President ,,DEM,Mineral,Precinct 25,23
 Barack Obama,President ,,DEM,Mineral,Precinct 25,40
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 25,62
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 25,11
-Sue Thorn,US House,1,DEM,Mineral,Precinct 25,56
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 25,62
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 25,11
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 25,56
 Arne Moltis,Governor,,DEM,Mineral,Precinct 25,9
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 25,62
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 25,54
@@ -842,8 +842,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 25,9
 Ron Paul,President ,,REP,Mineral,Precinct 25,18
 Mitt Romney,President ,,REP,Mineral,Precinct 25,75
 Rick Santorum,President ,,REP,Mineral,Precinct 25,7
-John R. Raese,US Senate,,REP,Mineral,Precinct 25,98
-David B. McKinley ,US House,1,REP,Mineral,Precinct 25,88
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 25,98
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 25,88
 Bill Maloney,Governor,,REP,Mineral,Precinct 25,92
 Ralph William Clark,Governor,,REP,Mineral,Precinct 25,9
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 25,94
@@ -859,9 +859,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 25,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 25,0
 Keith Judd,President ,,DEM,Mineral,Precinct 26,24
 Barack Obama,President ,,DEM,Mineral,Precinct 26,27
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 26,51
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 26,11
-Sue Thorn,US House,1,DEM,Mineral,Precinct 26,51
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 26,51
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 26,11
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 26,51
 Arne Moltis,Governor,,DEM,Mineral,Precinct 26,19
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 26,41
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 26,54
@@ -881,8 +881,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 26,4
 Ron Paul,President ,,REP,Mineral,Precinct 26,6
 Mitt Romney,President ,,REP,Mineral,Precinct 26,62
 Rick Santorum,President ,,REP,Mineral,Precinct 26,7
-John R. Raese,US Senate,,REP,Mineral,Precinct 26,68
-David B. McKinley ,US House,1,REP,Mineral,Precinct 26,68
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 26,68
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 26,68
 Bill Maloney,Governor,,REP,Mineral,Precinct 26,64
 Ralph William Clark,Governor,,REP,Mineral,Precinct 26,11
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 26,58
@@ -898,9 +898,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 26,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 26,0
 Keith Judd,President ,,DEM,Mineral,Precinct 27,46
 Barack Obama,President ,,DEM,Mineral,Precinct 27,49
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 27,97
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 27,14
-Sue Thorn,US House,1,DEM,Mineral,Precinct 27,84
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 27,97
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 27,14
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 27,84
 Arne Moltis,Governor,,DEM,Mineral,Precinct 27,17
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 27,91
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 27,90
@@ -920,8 +920,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 27,7
 Ron Paul,President ,,REP,Mineral,Precinct 27,16
 Mitt Romney,President ,,REP,Mineral,Precinct 27,122
 Rick Santorum,President ,,REP,Mineral,Precinct 27,13
-John R. Raese,US Senate,,REP,Mineral,Precinct 27,153
-David B. McKinley ,US House,1,REP,Mineral,Precinct 27,137
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 27,153
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 27,137
 Bill Maloney,Governor,,REP,Mineral,Precinct 27,128
 Ralph William Clark,Governor,,REP,Mineral,Precinct 27,22
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 27,125
@@ -937,9 +937,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 27,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 27,0
 Keith Judd,President ,,DEM,Mineral,Precinct 28,14
 Barack Obama,President ,,DEM,Mineral,Precinct 28,28
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 28,41
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 28,8
-Sue Thorn,US House,1,DEM,Mineral,Precinct 28,35
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 28,41
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 28,8
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 28,35
 Arne Moltis,Governor,,DEM,Mineral,Precinct 28,10
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 28,33
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 28,40
@@ -959,8 +959,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 28,4
 Ron Paul,President ,,REP,Mineral,Precinct 28,8
 Mitt Romney,President ,,REP,Mineral,Precinct 28,58
 Rick Santorum,President ,,REP,Mineral,Precinct 28,14
-John R. Raese,US Senate,,REP,Mineral,Precinct 28,76
-David B. McKinley ,US House,1,REP,Mineral,Precinct 28,77
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 28,76
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 28,77
 Bill Maloney,Governor,,REP,Mineral,Precinct 28,74
 Ralph William Clark,Governor,,REP,Mineral,Precinct 28,5
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 28,76
@@ -976,9 +976,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 28,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 28,0
 Keith Judd,President ,,DEM,Mineral,Precinct 30,14
 Barack Obama,President ,,DEM,Mineral,Precinct 30,48
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 30,57
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 30,8
-Sue Thorn,US House,1,DEM,Mineral,Precinct 30,49
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 30,57
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 30,8
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 30,49
 Arne Moltis,Governor,,DEM,Mineral,Precinct 30,7
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 30,55
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 30,47
@@ -998,8 +998,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 30,0
 Ron Paul,President ,,REP,Mineral,Precinct 30,4
 Mitt Romney,President ,,REP,Mineral,Precinct 30,19
 Rick Santorum,President ,,REP,Mineral,Precinct 30,4
-John R. Raese,US Senate,,REP,Mineral,Precinct 30,21
-David B. McKinley ,US House,1,REP,Mineral,Precinct 30,23
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 30,21
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 30,23
 Bill Maloney,Governor,,REP,Mineral,Precinct 30,23
 Ralph William Clark,Governor,,REP,Mineral,Precinct 30,4
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 30,21
@@ -1015,9 +1015,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 30,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 30,0
 Keith Judd,President ,,DEM,Mineral,Precinct 31,24
 Barack Obama,President ,,DEM,Mineral,Precinct 31,40
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 31,65
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 31,6
-Sue Thorn,US House,1,DEM,Mineral,Precinct 31,54
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 31,65
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 31,6
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 31,54
 Arne Moltis,Governor,,DEM,Mineral,Precinct 31,7
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 31,61
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 31,56
@@ -1037,8 +1037,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 31,6
 Ron Paul,President ,,REP,Mineral,Precinct 31,4
 Mitt Romney,President ,,REP,Mineral,Precinct 31,25
 Rick Santorum,President ,,REP,Mineral,Precinct 31,8
-John R. Raese,US Senate,,REP,Mineral,Precinct 31,39
-David B. McKinley ,US House,1,REP,Mineral,Precinct 31,37
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 31,39
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 31,37
 Bill Maloney,Governor,,REP,Mineral,Precinct 31,36
 Ralph William Clark,Governor,,REP,Mineral,Precinct 31,4
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 31,34
@@ -1054,9 +1054,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 31,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 31,0
 Keith Judd,President ,,DEM,Mineral,Precinct 32,23
 Barack Obama,President ,,DEM,Mineral,Precinct 32,25
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 32,48
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 32,7
-Sue Thorn,US House,1,DEM,Mineral,Precinct 32,46
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 32,48
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 32,7
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 32,46
 Arne Moltis,Governor,,DEM,Mineral,Precinct 32,9
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 32,46
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 32,46
@@ -1076,8 +1076,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 32,4
 Ron Paul,President ,,REP,Mineral,Precinct 32,4
 Mitt Romney,President ,,REP,Mineral,Precinct 32,36
 Rick Santorum,President ,,REP,Mineral,Precinct 32,4
-John R. Raese,US Senate,,REP,Mineral,Precinct 32,41
-David B. McKinley ,US House,1,REP,Mineral,Precinct 32,42
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 32,41
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 32,42
 Bill Maloney,Governor,,REP,Mineral,Precinct 32,34
 Ralph William Clark,Governor,,REP,Mineral,Precinct 32,11
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 32,38
@@ -1093,9 +1093,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 32,11
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 32,35
 Keith Judd,President ,,DEM,Mineral,Precinct 33,37
 Barack Obama,President ,,DEM,Mineral,Precinct 33,36
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 33,72
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 33,11
-Sue Thorn,US House,1,DEM,Mineral,Precinct 33,68
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 33,72
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 33,11
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 33,68
 Arne Moltis,Governor,,DEM,Mineral,Precinct 33,14
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 33,67
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 33,70
@@ -1115,8 +1115,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 33,9
 Ron Paul,President ,,REP,Mineral,Precinct 33,9
 Mitt Romney,President ,,REP,Mineral,Precinct 33,86
 Rick Santorum,President ,,REP,Mineral,Precinct 33,13
-John R. Raese,US Senate,,REP,Mineral,Precinct 33,99
-David B. McKinley ,US House,1,REP,Mineral,Precinct 33,107
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 33,99
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 33,107
 Bill Maloney,Governor,,REP,Mineral,Precinct 33,91
 Ralph William Clark,Governor,,REP,Mineral,Precinct 33,14
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 33,89
@@ -1132,9 +1132,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 33,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 33,0
 Keith Judd,President ,,DEM,Mineral,Precinct 34,25
 Barack Obama,President ,,DEM,Mineral,Precinct 34,31
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 34,66
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 34,7
-Sue Thorn,US House,1,DEM,Mineral,Precinct 34,56
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 34,66
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 34,7
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 34,56
 Arne Moltis,Governor,,DEM,Mineral,Precinct 34,12
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 34,60
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 34,58
@@ -1154,8 +1154,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 34,3
 Ron Paul,President ,,REP,Mineral,Precinct 34,17
 Mitt Romney,President ,,REP,Mineral,Precinct 34,107
 Rick Santorum,President ,,REP,Mineral,Precinct 34,18
-John R. Raese,US Senate,,REP,Mineral,Precinct 34,134
-David B. McKinley ,US House,1,REP,Mineral,Precinct 34,131
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 34,134
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 34,131
 Bill Maloney,Governor,,REP,Mineral,Precinct 34,108
 Ralph William Clark,Governor,,REP,Mineral,Precinct 34,26
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 34,123
@@ -1171,9 +1171,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 34,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 34,0
 Keith Judd,President ,,DEM,Mineral,Precinct 35,12
 Barack Obama,President ,,DEM,Mineral,Precinct 35,6
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 35,16
-Sheirl Fletcher,US Senate,,DEM,Mineral,Precinct 35,6
-Sue Thorn,US House,1,DEM,Mineral,Precinct 35,15
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 35,16
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,Precinct 35,6
+Sue Thorn,U.S. House,1,DEM,Mineral,Precinct 35,15
 Arne Moltis,Governor,,DEM,Mineral,Precinct 35,3
 Earl Ray Tomblin,Governor,,DEM,Mineral,Precinct 35,20
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,Precinct 35,16
@@ -1193,8 +1193,8 @@ Newt Gingrich,President ,,REP,Mineral,Precinct 35,10
 Ron Paul,President ,,REP,Mineral,Precinct 35,12
 Mitt Romney,President ,,REP,Mineral,Precinct 35,64
 Rick Santorum,President ,,REP,Mineral,Precinct 35,18
-John R. Raese,US Senate,,REP,Mineral,Precinct 35,88
-David B. McKinley ,US House,1,REP,Mineral,Precinct 35,81
+John R. Raese,U.S. Senate,,REP,Mineral,Precinct 35,88
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 35,81
 Bill Maloney,Governor,,REP,Mineral,Precinct 35,76
 Ralph William Clark,Governor,,REP,Mineral,Precinct 35,19
 Brian Savilla,Secretary of State ,,REP,Mineral,Precinct 35,66
@@ -1210,9 +1210,9 @@ Terry L. Craver,House of Delegates ,57,REP,Mineral,Precinct 35,0
 Ruth Rowan ,House of Delegates ,57,REP,Mineral,Precinct 35,0
 Keith Judd,President ,,DEM,Mineral,TOTAL ,703
 Barack Obama,President ,,DEM,Mineral,TOTAL ,940
-Joe Manchin III,US Senate,,DEM,Mineral,TOTAL ,1622
-Sheirl Fletcher,US Senate,,DEM,Mineral,TOTAL ,259
-Sue Thorn,US House,1,DEM,Mineral,TOTAL ,1427
+Joe Manchin III,U.S. Senate,,DEM,Mineral,TOTAL ,1622
+Sheirl Fletcher,U.S. Senate,,DEM,Mineral,TOTAL ,259
+Sue Thorn,U.S. House,1,DEM,Mineral,TOTAL ,1427
 Arne Moltis,Governor,,DEM,Mineral,TOTAL ,277
 Earl Ray Tomblin,Governor,,DEM,Mineral,TOTAL ,1552
 Natalie E. Tennant,Secretary of State ,,DEM,Mineral,TOTAL ,1492
@@ -1232,8 +1232,8 @@ Newt Gingrich,President ,,REP,Mineral,TOTAL ,164
 Ron Paul,President ,,REP,Mineral,TOTAL ,244
 Mitt Romney,President ,,REP,Mineral,TOTAL ,1722
 Rick Santorum,President ,,REP,Mineral,TOTAL ,294
-John R. Raese,US Senate,,REP,Mineral,TOTAL ,2133
-David B. McKinley ,US House,1,REP,Mineral,TOTAL ,2048
+John R. Raese,U.S. Senate,,REP,Mineral,TOTAL ,2133
+David B. McKinley ,U.S. House,1,REP,Mineral,TOTAL ,2048
 Bill Maloney,Governor,,REP,Mineral,TOTAL ,1886
 Ralph William Clark,Governor,,REP,Mineral,TOTAL ,386
 Brian Savilla,Secretary of State ,,REP,Mineral,TOTAL ,1871

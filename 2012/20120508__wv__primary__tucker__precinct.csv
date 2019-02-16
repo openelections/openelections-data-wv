@@ -7,9 +7,9 @@ candidate,office,district,party,county,precinct,votes
 ,Ballots Cast,,REP,Tucker,Precinct 1,37
 Keith Judd,President ,,DEM,Tucker,Precinct 1,29
 Barack Obama,President ,,DEM,Tucker,Precinct 1,15
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 1,56
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 1,7
-Sue Thorn,US House,1,DEM,Tucker,Precinct 1,41
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 1,56
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 1,7
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 1,41
 Arne Moltis,Governor,,DEM,Tucker,Precinct 1,11
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 1,47
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 1,53
@@ -28,8 +28,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 1,25
 Ron Paul,President ,,REP,Tucker,Precinct 1,4
 Rick Santorum,President ,,REP,Tucker,Precinct 1,2
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 1,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 1,26
-David B. McKinley,US House,1,REP,Tucker,Precinct 1,25
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 1,26
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 1,25
 Bill Maloney,Governor,,REP,Tucker,Precinct 1,26
 Ralph William Clark,Governor,,REP,Tucker,Precinct 1,5
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 1,23
@@ -46,9 +46,9 @@ Randy E. Smith,House of Delegates,53,REP,Tucker,Precinct 1,21
 ,Ballots Cast,,REP,Tucker,Precinct 2,97
 Keith Judd,President ,,DEM,Tucker,Precinct 2,93
 Barack Obama,President ,,DEM,Tucker,Precinct 2,74
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 2,172
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 2,29
-Sue Thorn,US House,1,DEM,Tucker,Precinct 2,129
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 2,172
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 2,29
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 2,129
 Arne Moltis,Governor,,DEM,Tucker,Precinct 2,30
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 2,168
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 2,159
@@ -67,8 +67,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 2,67
 Ron Paul,President ,,REP,Tucker,Precinct 2,9
 Rick Santorum,President ,,REP,Tucker,Precinct 2,8
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 2,2
-John R. Raese,US Senate,,REP,Tucker,Precinct 2,79
-David B. McKinley,US House,1,REP,Tucker,Precinct 2,68
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 2,79
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 2,68
 Bill Maloney,Governor,,REP,Tucker,Precinct 2,70
 Ralph William Clark,Governor,,REP,Tucker,Precinct 2,11
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 2,60
@@ -85,9 +85,9 @@ Randy E. Smith,House of Delegates,53,REP,Tucker,Precinct 2,68
 ,Ballots Cast,,REP,Tucker,Precinct 3,63
 Keith Judd,President ,,DEM,Tucker,Precinct 3,80
 Barack Obama,President ,,DEM,Tucker,Precinct 3,54
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 3,152
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 3,25
-Sue Thorn,US House,1,DEM,Tucker,Precinct 3,106
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 3,152
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 3,25
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 3,106
 Arne Moltis,Governor,,DEM,Tucker,Precinct 3,14
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 3,157
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 3,129
@@ -106,8 +106,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 3,42
 Ron Paul,President ,,REP,Tucker,Precinct 3,5
 Rick Santorum,President ,,REP,Tucker,Precinct 3,5
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 3,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 3,48
-David B. McKinley,US House,1,REP,Tucker,Precinct 3,46
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 3,48
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 3,46
 Bill Maloney,Governor,,REP,Tucker,Precinct 3,48
 Ralph William Clark,Governor,,REP,Tucker,Precinct 3,5
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 3,39
@@ -124,9 +124,9 @@ Patrick Morrisey,Attorney General,,REP,Tucker,Precinct 3,38
 ,Ballots Cast,,REP,Tucker,Precinct 4,55
 Keith Judd,President ,,DEM,Tucker,Precinct 4,50
 Barack Obama,President ,,DEM,Tucker,Precinct 4,27
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 4,98
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 4,13
-Sue Thorn,US House,1,DEM,Tucker,Precinct 4,65
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 4,98
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 4,13
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 4,65
 Arne Moltis,Governor,,DEM,Tucker,Precinct 4,13
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 4,96
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 4,86
@@ -145,8 +145,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 4,33
 Ron Paul,President ,,REP,Tucker,Precinct 4,5
 Rick Santorum,President ,,REP,Tucker,Precinct 4,7
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 4,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 4,39
-David B. McKinley,US House,1,REP,Tucker,Precinct 4,40
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 4,39
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 4,40
 Bill Maloney,Governor,,REP,Tucker,Precinct 4,43
 Ralph William Clark,Governor,,REP,Tucker,Precinct 4,4
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 4,33
@@ -163,9 +163,9 @@ Patrick Morrisey,Attorney General,,REP,Tucker,Precinct 4,34
 ,Ballots Cast,,REP,Tucker,Precinct 5,104
 Keith Judd,President ,,DEM,Tucker,Precinct 5,88
 Barack Obama,President ,,DEM,Tucker,Precinct 5,74
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 5,154
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 5,42
-Sue Thorn,US House,1,DEM,Tucker,Precinct 5,125
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 5,154
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 5,42
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 5,125
 Arne Moltis,Governor,,DEM,Tucker,Precinct 5,31
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 5,156
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 5,159
@@ -184,8 +184,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 5,62
 Ron Paul,President ,,REP,Tucker,Precinct 5,11
 Rick Santorum,President ,,REP,Tucker,Precinct 5,11
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 5,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 5,84
-David B. McKinley,US House,1,REP,Tucker,Precinct 5,75
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 5,84
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 5,75
 Bill Maloney,Governor,,REP,Tucker,Precinct 5,78
 Ralph William Clark,Governor,,REP,Tucker,Precinct 5,12
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 5,66
@@ -202,9 +202,9 @@ Patrick Morrisey,Attorney General,,REP,Tucker,Precinct 5,64
 ,Ballots Cast,,REP,Tucker,Precinct 10,32
 Keith Judd,President ,,DEM,Tucker,Precinct 10,35
 Barack Obama,President ,,DEM,Tucker,Precinct 10,18
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 10,49
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 10,12
-Sue Thorn,US House,1,DEM,Tucker,Precinct 10,36
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 10,49
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 10,12
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 10,36
 Arne Moltis,Governor,,DEM,Tucker,Precinct 10,10
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 10,53
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 10,47
@@ -223,8 +223,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 10,22
 Ron Paul,President ,,REP,Tucker,Precinct 10,1
 Rick Santorum,President ,,REP,Tucker,Precinct 10,8
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 10,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 10,27
-David B. McKinley,US House,1,REP,Tucker,Precinct 10,25
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 10,27
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 10,25
 Bill Maloney,Governor,,REP,Tucker,Precinct 10,25
 Ralph William Clark,Governor,,REP,Tucker,Precinct 10,6
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 10,26
@@ -241,9 +241,9 @@ Patrick Morrisey,Attorney General,,REP,Tucker,Precinct 10,26
 ,Ballots Cast,,REP,Tucker,Precinct 12,39
 Keith Judd,President ,,DEM,Tucker,Precinct 12,60
 Barack Obama,President ,,DEM,Tucker,Precinct 12,74
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 12,131
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 12,23
-Sue Thorn,US House,1,DEM,Tucker,Precinct 12,106
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 12,131
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 12,23
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 12,106
 Arne Moltis,Governor,,DEM,Tucker,Precinct 12,29
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 12,119
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 12,129
@@ -262,8 +262,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 12,31
 Ron Paul,President ,,REP,Tucker,Precinct 12,2
 Rick Santorum,President ,,REP,Tucker,Precinct 12,0
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 12,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 12,32
-David B. McKinley,US House,1,REP,Tucker,Precinct 12,30
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 12,32
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 12,30
 Bill Maloney,Governor,,REP,Tucker,Precinct 12,28
 Ralph William Clark,Governor,,REP,Tucker,Precinct 12,5
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 12,27
@@ -280,9 +280,9 @@ Randy E. Smith,House of Delegates,53,REP,Tucker,Precinct 12,28
 ,Ballots Cast,,REP,Tucker,Precinct 14,34
 Keith Judd,President ,,DEM,Tucker,Precinct 14,19
 Barack Obama,President ,,DEM,Tucker,Precinct 14,24
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 14,40
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 14,9
-Sue Thorn,US House,1,DEM,Tucker,Precinct 14,26
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 14,40
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 14,9
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 14,26
 Arne Moltis,Governor,,DEM,Tucker,Precinct 14,10
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 14,33
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 14,35
@@ -301,8 +301,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 14,19
 Ron Paul,President ,,REP,Tucker,Precinct 14,7
 Rick Santorum,President ,,REP,Tucker,Precinct 14,2
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 14,1
-John R. Raese,US Senate,,REP,Tucker,Precinct 14,27
-David B. McKinley,US House,1,REP,Tucker,Precinct 14,24
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 14,27
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 14,24
 Bill Maloney,Governor,,REP,Tucker,Precinct 14,25
 Ralph William Clark,Governor,,REP,Tucker,Precinct 14,6
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 14,21
@@ -319,9 +319,9 @@ Randy E. Smith,House of Delegates,53,REP,Tucker,Precinct 14,22
 ,Ballots Cast,,REP,Tucker,Precinct 15,64
 Keith Judd,President ,,DEM,Tucker,Precinct 15,42
 Barack Obama,President ,,DEM,Tucker,Precinct 15,87
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 15,122
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 15,28
-Sue Thorn,US House,1,DEM,Tucker,Precinct 15,92
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 15,122
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 15,28
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 15,92
 Arne Moltis,Governor,,DEM,Tucker,Precinct 15,31
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 15,107
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 15,120
@@ -340,8 +340,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 15,47
 Ron Paul,President ,,REP,Tucker,Precinct 15,10
 Rick Santorum,President ,,REP,Tucker,Precinct 15,1
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 15,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 15,47
-David B. McKinley,US House,1,REP,Tucker,Precinct 15,55
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 15,47
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 15,55
 Bill Maloney,Governor,,REP,Tucker,Precinct 15,49
 Ralph William Clark,Governor,,REP,Tucker,Precinct 15,11
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 15,38
@@ -358,9 +358,9 @@ Randy E. Smith,House of Delegates,53,REP,Tucker,Precinct 15,43
 ,Ballots Cast,,REP,Tucker,Precinct 16,53
 Keith Judd,President ,,DEM,Tucker,Precinct 16,57
 Barack Obama,President ,,DEM,Tucker,Precinct 16,69
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 16,122
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 16,29
-Sue Thorn,US House,1,DEM,Tucker,Precinct 16,101
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 16,122
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 16,29
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 16,101
 Arne Moltis,Governor,,DEM,Tucker,Precinct 16,22
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 16,124
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 16,126
@@ -379,8 +379,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 16,29
 Ron Paul,President ,,REP,Tucker,Precinct 16,7
 Rick Santorum,President ,,REP,Tucker,Precinct 16,8
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 16,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 16,44
-David B. McKinley,US House,1,REP,Tucker,Precinct 16,45
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 16,44
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 16,45
 Bill Maloney,Governor,,REP,Tucker,Precinct 16,38
 Ralph William Clark,Governor,,REP,Tucker,Precinct 16,8
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 16,39
@@ -397,9 +397,9 @@ Randy E. Smith,House of Delegates,53,REP,Tucker,Precinct 16,44
 ,Ballots Cast,,REP,Tucker,Precinct 24,70
 Keith Judd,President ,,DEM,Tucker,Precinct 24,67
 Barack Obama,President ,,DEM,Tucker,Precinct 24,45
-Joe Manchin III,US Senate,,DEM,Tucker,Precinct 24,118
-Sheirl Fletcher,US Senate,,DEM,Tucker,Precinct 24,17
-Sue Thorn,US House,1,DEM,Tucker,Precinct 24,83
+Joe Manchin III,U.S. Senate,,DEM,Tucker,Precinct 24,118
+Sheirl Fletcher,U.S. Senate,,DEM,Tucker,Precinct 24,17
+Sue Thorn,U.S. House,1,DEM,Tucker,Precinct 24,83
 Arne Moltis,Governor,,DEM,Tucker,Precinct 24,19
 Earl Ray Tomblin,Governor,,DEM,Tucker,Precinct 24,108
 Natalie E. Tennant,Secretary of State ,,DEM,Tucker,Precinct 24,110
@@ -418,8 +418,8 @@ Mitt Romney,President ,,REP,Tucker,Precinct 24,45
 Ron Paul,President ,,REP,Tucker,Precinct 24,8
 Rick Santorum,President ,,REP,Tucker,Precinct 24,8
 "Charles ""Buddy"" Roemer",President ,,REP,Tucker,Precinct 24,0
-John R. Raese,US Senate,,REP,Tucker,Precinct 24,56
-David B. McKinley,US House,1,REP,Tucker,Precinct 24,49
+John R. Raese,U.S. Senate,,REP,Tucker,Precinct 24,56
+David B. McKinley,U.S. House,1,REP,Tucker,Precinct 24,49
 Bill Maloney,Governor,,REP,Tucker,Precinct 24,57
 Ralph William Clark,Governor,,REP,Tucker,Precinct 24,7
 Brian Savilla,Secretary of State ,,REP,Tucker,Precinct 24,40

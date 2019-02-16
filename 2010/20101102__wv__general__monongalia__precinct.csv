@@ -2,12 +2,12 @@ candidate,office,district,party,county,precinct,total votes
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 1,29
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 1,67
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 1,0
-John R. Raese,US Senate,,,Monongalia,Precinct 1,145
-Joe Manchin III,US Senate,,,Monongalia,Precinct 1,267
-Jeff Becker,US Senate,,,Monongalia,Precinct 1,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 1,21
-David B. McKinley ,US House,1,,Monongalia,Precinct 1,122
-Mike Oliverio,US House,1,,Monongalia,Precinct 1,302
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 1,145
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 1,267
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 1,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 1,21
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 1,122
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 1,302
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 1,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 1,167
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 1,261
@@ -35,12 +35,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 1,16
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 2,36
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 2,86
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 2,0
-John R. Raese,US Senate,,,Monongalia,Precinct 2,184
-Joe Manchin III,US Senate,,,Monongalia,Precinct 2,445
-Jeff Becker,US Senate,,,Monongalia,Precinct 2,7
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 2,26
-David B. McKinley ,US House,1,,Monongalia,Precinct 2,168
-Mike Oliverio,US House,1,,Monongalia,Precinct 2,481
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 2,184
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 2,445
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 2,7
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 2,26
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 2,168
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 2,481
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 2,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 2,224
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 2,417
@@ -68,12 +68,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 2,25
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 4,33
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 4,98
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 4,0
-John R. Raese,US Senate,,,Monongalia,Precinct 4,213
-Joe Manchin III,US Senate,,,Monongalia,Precinct 4,480
-Jeff Becker,US Senate,,,Monongalia,Precinct 4,7
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 4,26
-David B. McKinley ,US House,1,,Monongalia,Precinct 4,178
-Mike Oliverio,US House,1,,Monongalia,Precinct 4,521
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 4,213
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 4,480
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 4,7
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 4,26
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 4,178
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 4,521
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 4,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 4,233
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 4,478
@@ -101,12 +101,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 4,18
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 6,3
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 6,47
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 6,0
-John R. Raese,US Senate,,,Monongalia,Precinct 6,46
-Joe Manchin III,US Senate,,,Monongalia,Precinct 6,164
-Jeff Becker,US Senate,,,Monongalia,Precinct 6,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 6,13
-David B. McKinley ,US House,1,,Monongalia,Precinct 6,38
-Mike Oliverio,US House,1,,Monongalia,Precinct 6,178
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 6,46
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 6,164
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 6,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 6,13
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 6,38
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 6,178
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 6,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 6,56
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 6,164
@@ -134,12 +134,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 6,14
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 8,32
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 8,60
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 8,0
-John R. Raese,US Senate,,,Monongalia,Precinct 8,188
-Joe Manchin III,US Senate,,,Monongalia,Precinct 8,306
-Jeff Becker,US Senate,,,Monongalia,Precinct 8,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 8,21
-David B. McKinley ,US House,1,,Monongalia,Precinct 8,169
-Mike Oliverio,US House,1,,Monongalia,Precinct 8,330
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 8,188
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 8,306
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 8,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 8,21
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 8,169
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 8,330
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 8,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 8,190
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 8,311
@@ -167,12 +167,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 8,21
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 10,13
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 10,24
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 10,1
-John R. Raese,US Senate,,,Monongalia,Precinct 10,40
-Joe Manchin III,US Senate,,,Monongalia,Precinct 10,88
-Jeff Becker,US Senate,,,Monongalia,Precinct 10,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 10,8
-David B. McKinley ,US House,1,,Monongalia,Precinct 10,41
-Mike Oliverio,US House,1,,Monongalia,Precinct 10,92
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 10,40
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 10,88
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 10,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 10,8
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 10,41
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 10,92
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 10,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 10,38
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 10,88
@@ -200,12 +200,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 10,9
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 13,10
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 13,24
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 13,0
-John R. Raese,US Senate,,,Monongalia,Precinct 13,51
-Joe Manchin III,US Senate,,,Monongalia,Precinct 13,93
-Jeff Becker,US Senate,,,Monongalia,Precinct 13,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 13,5
-David B. McKinley ,US House,1,,Monongalia,Precinct 13,43
-Mike Oliverio,US House,1,,Monongalia,Precinct 13,99
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 13,51
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 13,93
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 13,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 13,5
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 13,43
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 13,99
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 13,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 13,58
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 13,84
@@ -233,12 +233,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 13,6
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 14,21
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 14,38
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 14,0
-John R. Raese,US Senate,,,Monongalia,Precinct 14,96
-Joe Manchin III,US Senate,,,Monongalia,Precinct 14,167
-Jeff Becker,US Senate,,,Monongalia,Precinct 14,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 14,6
-David B. McKinley ,US House,1,,Monongalia,Precinct 14,91
-Mike Oliverio,US House,1,,Monongalia,Precinct 14,174
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 14,96
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 14,167
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 14,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 14,6
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 14,91
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 14,174
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 14,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 14,115
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 14,147
@@ -266,12 +266,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 14,7
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 15,6
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 15,13
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 15,0
-John R. Raese,US Senate,,,Monongalia,Precinct 15,24
-Joe Manchin III,US Senate,,,Monongalia,Precinct 15,57
-Jeff Becker,US Senate,,,Monongalia,Precinct 15,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 15,9
-David B. McKinley ,US House,1,,Monongalia,Precinct 15,27
-Mike Oliverio,US House,1,,Monongalia,Precinct 15,63
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 15,24
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 15,57
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 15,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 15,9
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 15,27
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 15,63
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 15,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 15,39
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 15,53
@@ -299,12 +299,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 15,6
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 16,19
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 16,61
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 16,0
-John R. Raese,US Senate,,,Monongalia,Precinct 16,101
-Joe Manchin III,US Senate,,,Monongalia,Precinct 16,273
-Jeff Becker,US Senate,,,Monongalia,Precinct 16,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 16,17
-David B. McKinley ,US House,1,,Monongalia,Precinct 16,102
-Mike Oliverio,US House,1,,Monongalia,Precinct 16,279
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 16,101
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 16,273
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 16,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 16,17
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 16,102
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 16,279
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 16,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 16,126
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 16,256
@@ -332,12 +332,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 16,22
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 20,9
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 20,14
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 20,0
-John R. Raese,US Senate,,,Monongalia,Precinct 20,27
-Joe Manchin III,US Senate,,,Monongalia,Precinct 20,40
-Jeff Becker,US Senate,,,Monongalia,Precinct 20,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 20,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 20,27
-Mike Oliverio,US House,1,,Monongalia,Precinct 20,43
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 20,27
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 20,40
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 20,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 20,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 20,27
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 20,43
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 20,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 20,34
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 20,35
@@ -365,12 +365,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 20,3
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 21,12
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 21,23
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 21,0
-John R. Raese,US Senate,,,Monongalia,Precinct 21,74
-Joe Manchin III,US Senate,,,Monongalia,Precinct 21,106
-Jeff Becker,US Senate,,,Monongalia,Precinct 21,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 21,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 21,66
-Mike Oliverio,US House,1,,Monongalia,Precinct 21,122
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 21,74
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 21,106
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 21,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 21,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 21,66
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 21,122
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 21,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 21,71
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 21,113
@@ -398,12 +398,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 21,7
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 23,65
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 23,90
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 23,0
-John R. Raese,US Senate,,,Monongalia,Precinct 23,309
-Joe Manchin III,US Senate,,,Monongalia,Precinct 23,391
-Jeff Becker,US Senate,,,Monongalia,Precinct 23,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 23,18
-David B. McKinley ,US House,1,,Monongalia,Precinct 23,241
-Mike Oliverio,US House,1,,Monongalia,Precinct 23,462
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 23,309
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 23,391
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 23,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 23,18
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 23,241
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 23,462
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 23,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 23,337
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 23,358
@@ -431,12 +431,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 23,23
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 25,46
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 25,88
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 25,1
-John R. Raese,US Senate,,,Monongalia,Precinct 25,215
-Joe Manchin III,US Senate,,,Monongalia,Precinct 25,294
-Jeff Becker,US Senate,,,Monongalia,Precinct 25,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 25,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 25,169
-Mike Oliverio,US House,1,,Monongalia,Precinct 25,332
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 25,215
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 25,294
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 25,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 25,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 25,169
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 25,332
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 25,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 25,235
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 25,264
@@ -464,12 +464,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 25,28
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 26,34
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 26,42
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 26,1
-John R. Raese,US Senate,,,Monongalia,Precinct 26,195
-Joe Manchin III,US Senate,,,Monongalia,Precinct 26,217
-Jeff Becker,US Senate,,,Monongalia,Precinct 26,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 26,8
-David B. McKinley ,US House,1,,Monongalia,Precinct 26,180
-Mike Oliverio,US House,1,,Monongalia,Precinct 26,242
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 26,195
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 26,217
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 26,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 26,8
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 26,180
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 26,242
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 26,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 26,226
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 26,192
@@ -497,12 +497,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 26,13
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 27,13
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 27,25
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 27,0
-John R. Raese,US Senate,,,Monongalia,Precinct 27,115
-Joe Manchin III,US Senate,,,Monongalia,Precinct 27,113
-Jeff Becker,US Senate,,,Monongalia,Precinct 27,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 27,5
-David B. McKinley ,US House,1,,Monongalia,Precinct 27,82
-Mike Oliverio,US House,1,,Monongalia,Precinct 27,145
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 27,115
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 27,113
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 27,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 27,5
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 27,82
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 27,145
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 27,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 27,110
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 27,116
@@ -530,12 +530,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 27,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 30,43
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 30,96
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 30,1
-John R. Raese,US Senate,,,Monongalia,Precinct 30,196
-Joe Manchin III,US Senate,,,Monongalia,Precinct 30,328
-Jeff Becker,US Senate,,,Monongalia,Precinct 30,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 30,16
-David B. McKinley ,US House,1,,Monongalia,Precinct 30,173
-Mike Oliverio,US House,1,,Monongalia,Precinct 30,356
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 30,196
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 30,328
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 30,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 30,16
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 30,173
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 30,356
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 30,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 30,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 30,248
@@ -563,12 +563,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 30,16
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 32,90
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 32,80
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 32,0
-John R. Raese,US Senate,,,Monongalia,Precinct 32,341
-Joe Manchin III,US Senate,,,Monongalia,Precinct 32,273
-Jeff Becker,US Senate,,,Monongalia,Precinct 32,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 32,10
-David B. McKinley ,US House,1,,Monongalia,Precinct 32,290
-Mike Oliverio,US House,1,,Monongalia,Precinct 32,326
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 32,341
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 32,273
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 32,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 32,10
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 32,290
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 32,326
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 32,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 32,353
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 32,257
@@ -596,12 +596,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 32,19
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 33,37
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 33,68
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 33,0
-John R. Raese,US Senate,,,Monongalia,Precinct 33,196
-Joe Manchin III,US Senate,,,Monongalia,Precinct 33,215
-Jeff Becker,US Senate,,,Monongalia,Precinct 33,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 33,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 33,184
-Mike Oliverio,US House,1,,Monongalia,Precinct 33,228
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 33,196
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 33,215
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 33,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 33,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 33,184
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 33,228
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 33,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 33,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 33,
@@ -629,12 +629,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 33,13
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 34,53
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 34,63
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 34,1
-John R. Raese,US Senate,,,Monongalia,Precinct 34,211
-Joe Manchin III,US Senate,,,Monongalia,Precinct 34,227
-Jeff Becker,US Senate,,,Monongalia,Precinct 34,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 34,15
-David B. McKinley ,US House,1,,Monongalia,Precinct 34,192
-Mike Oliverio,US House,1,,Monongalia,Precinct 34,248
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 34,211
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 34,227
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 34,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 34,15
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 34,192
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 34,248
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 34,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 34,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 34,
@@ -662,12 +662,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 34,16
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 35,29
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 35,56
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 35,0
-John R. Raese,US Senate,,,Monongalia,Precinct 35,124
-Joe Manchin III,US Senate,,,Monongalia,Precinct 35,161
-Jeff Becker,US Senate,,,Monongalia,Precinct 35,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 35,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 35,106
-Mike Oliverio,US House,1,,Monongalia,Precinct 35,186
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 35,124
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 35,161
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 35,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 35,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 35,106
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 35,186
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 35,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 35,144
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 35,143
@@ -695,12 +695,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 35,13
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 36,47
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 36,67
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 36,1
-John R. Raese,US Senate,,,Monongalia,Precinct 36,228
-Joe Manchin III,US Senate,,,Monongalia,Precinct 36,259
-Jeff Becker,US Senate,,,Monongalia,Precinct 36,7
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 36,9
-David B. McKinley ,US House,1,,Monongalia,Precinct 36,195
-Mike Oliverio,US House,1,,Monongalia,Precinct 36,300
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 36,228
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 36,259
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 36,7
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 36,9
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 36,195
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 36,300
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 36,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 36,253
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 36,238
@@ -728,12 +728,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 36,22
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 38A,57
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 38A,46
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 38A,0
-John R. Raese,US Senate,,,Monongalia,Precinct 38A,300
-Joe Manchin III,US Senate,,,Monongalia,Precinct 38A,232
-Jeff Becker,US Senate,,,Monongalia,Precinct 38A,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 38A,13
-David B. McKinley ,US House,1,,Monongalia,Precinct 38A,276
-Mike Oliverio,US House,1,,Monongalia,Precinct 38A,265
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 38A,300
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 38A,232
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 38A,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 38A,13
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 38A,276
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 38A,265
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 38A,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 38A,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 38A,
@@ -761,12 +761,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 38A,17
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 38B,32
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 38B,54
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 38B,1
-John R. Raese,US Senate,,,Monongalia,Precinct 38B,226
-Joe Manchin III,US Senate,,,Monongalia,Precinct 38B,230
-Jeff Becker,US Senate,,,Monongalia,Precinct 38B,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 38B,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 38B,197
-Mike Oliverio,US House,1,,Monongalia,Precinct 38B,270
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 38B,226
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 38B,230
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 38B,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 38B,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 38B,197
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 38B,270
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 38B,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 38B,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 38B,
@@ -794,12 +794,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 38B,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 40,19
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 40,17
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 40,0
-John R. Raese,US Senate,,,Monongalia,Precinct 40,48
-Joe Manchin III,US Senate,,,Monongalia,Precinct 40,73
-Jeff Becker,US Senate,,,Monongalia,Precinct 40,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 40,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 40,42
-Mike Oliverio,US House,1,,Monongalia,Precinct 40,82
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 40,48
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 40,73
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 40,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 40,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 40,42
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 40,82
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 40,80
 Cindy Frich,State Senate,13,,Monongalia,Precinct 40,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 40,
@@ -827,12 +827,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 40,
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 41,14
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 41,14
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 41,0
-John R. Raese,US Senate,,,Monongalia,Precinct 41,46
-Joe Manchin III,US Senate,,,Monongalia,Precinct 41,42
-Jeff Becker,US Senate,,,Monongalia,Precinct 41,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 41,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 41,42
-Mike Oliverio,US House,1,,Monongalia,Precinct 41,45
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 41,46
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 41,42
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 41,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 41,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 41,42
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 41,45
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 41,60
 Cindy Frich,State Senate,13,,Monongalia,Precinct 41,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 41,
@@ -860,12 +860,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 41,3
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 42,31
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 42,33
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 42,0
-John R. Raese,US Senate,,,Monongalia,Precinct 42,87
-Joe Manchin III,US Senate,,,Monongalia,Precinct 42,98
-Jeff Becker,US Senate,,,Monongalia,Precinct 42,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 42,3
-David B. McKinley ,US House,1,,Monongalia,Precinct 42,86
-Mike Oliverio,US House,1,,Monongalia,Precinct 42,95
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 42,87
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 42,98
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 42,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 42,3
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 42,86
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 42,95
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 42,117
 Cindy Frich,State Senate,13,,Monongalia,Precinct 42,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 42,
@@ -893,12 +893,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 42,
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 44,29
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 44,57
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 44,3
-John R. Raese,US Senate,,,Monongalia,Precinct 44,168
-Joe Manchin III,US Senate,,,Monongalia,Precinct 44,192
-Jeff Becker,US Senate,,,Monongalia,Precinct 44,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 44,14
-David B. McKinley ,US House,1,,Monongalia,Precinct 44,148
-Mike Oliverio,US House,1,,Monongalia,Precinct 44,223
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 44,168
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 44,192
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 44,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 44,14
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 44,148
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 44,223
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 44,272
 Cindy Frich,State Senate,13,,Monongalia,Precinct 44,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 44,
@@ -926,12 +926,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 44,16
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 46,13
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 46,21
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 46,0
-John R. Raese,US Senate,,,Monongalia,Precinct 46,41
-Joe Manchin III,US Senate,,,Monongalia,Precinct 46,56
-Jeff Becker,US Senate,,,Monongalia,Precinct 46,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 46,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 46,42
-Mike Oliverio,US House,1,,Monongalia,Precinct 46,56
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 46,41
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 46,56
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 46,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 46,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 46,42
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 46,56
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 46,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 46,53
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 46,49
@@ -959,12 +959,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 46,3
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 47,25
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 47,50
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 47,1
-John R. Raese,US Senate,,,Monongalia,Precinct 47,85
-Joe Manchin III,US Senate,,,Monongalia,Precinct 47,143
-Jeff Becker,US Senate,,,Monongalia,Precinct 47,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 47,10
-David B. McKinley ,US House,1,,Monongalia,Precinct 47,79
-Mike Oliverio,US House,1,,Monongalia,Precinct 47,157
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 47,85
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 47,143
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 47,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 47,10
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 47,79
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 47,157
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 47,178
 Cindy Frich,State Senate,13,,Monongalia,Precinct 47,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 47,
@@ -992,12 +992,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 47,6
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 48,7
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 48,24
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 48,0
-John R. Raese,US Senate,,,Monongalia,Precinct 48,30
-Joe Manchin III,US Senate,,,Monongalia,Precinct 48,67
-Jeff Becker,US Senate,,,Monongalia,Precinct 48,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 48,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 48,28
-Mike Oliverio,US House,1,,Monongalia,Precinct 48,67
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 48,30
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 48,67
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 48,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 48,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 48,28
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 48,67
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 48,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 48,27
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 48,71
@@ -1025,12 +1025,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 48,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 49,6
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 49,8
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 49,0
-John R. Raese,US Senate,,,Monongalia,Precinct 49,26
-Joe Manchin III,US Senate,,,Monongalia,Precinct 49,21
-Jeff Becker,US Senate,,,Monongalia,Precinct 49,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 49,0
-David B. McKinley ,US House,1,,Monongalia,Precinct 49,19
-Mike Oliverio,US House,1,,Monongalia,Precinct 49,27
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 49,26
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 49,21
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 49,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 49,0
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 49,19
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 49,27
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 49,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 49,29
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 49,18
@@ -1058,12 +1058,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 49,3
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 51,13
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 51,35
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 51,1
-John R. Raese,US Senate,,,Monongalia,Precinct 51,55
-Joe Manchin III,US Senate,,,Monongalia,Precinct 51,82
-Jeff Becker,US Senate,,,Monongalia,Precinct 51,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 51,5
-David B. McKinley ,US House,1,,Monongalia,Precinct 51,51
-Mike Oliverio,US House,1,,Monongalia,Precinct 51,86
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 51,55
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 51,82
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 51,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 51,5
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 51,51
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 51,86
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 51,106
 Cindy Frich,State Senate,13,,Monongalia,Precinct 51,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 51,
@@ -1091,12 +1091,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 51,1
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 52,24
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 52,30
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 52,1
-John R. Raese,US Senate,,,Monongalia,Precinct 52,95
-Joe Manchin III,US Senate,,,Monongalia,Precinct 52,110
-Jeff Becker,US Senate,,,Monongalia,Precinct 52,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 52,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 52,79
-Mike Oliverio,US House,1,,Monongalia,Precinct 52,129
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 52,95
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 52,110
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 52,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 52,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 52,79
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 52,129
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 52,150
 Cindy Frich,State Senate,13,,Monongalia,Precinct 52,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 52,
@@ -1124,12 +1124,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 52,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 53,22
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 53,23
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 53,0
-John R. Raese,US Senate,,,Monongalia,Precinct 53,68
-Joe Manchin III,US Senate,,,Monongalia,Precinct 53,70
-Jeff Becker,US Senate,,,Monongalia,Precinct 53,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 53,4
-David B. McKinley ,US House,1,,Monongalia,Precinct 53,61
-Mike Oliverio,US House,1,,Monongalia,Precinct 53,77
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 53,68
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 53,70
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 53,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 53,4
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 53,61
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 53,77
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 53,90
 Cindy Frich,State Senate,13,,Monongalia,Precinct 53,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 53,
@@ -1157,12 +1157,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 53,2
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 54,19
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 54,20
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 54,1
-John R. Raese,US Senate,,,Monongalia,Precinct 54,73
-Joe Manchin III,US Senate,,,Monongalia,Precinct 54,94
-Jeff Becker,US Senate,,,Monongalia,Precinct 54,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 54,6
-David B. McKinley ,US House,1,,Monongalia,Precinct 54,75
-Mike Oliverio,US House,1,,Monongalia,Precinct 54,93
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 54,73
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 54,94
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 54,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 54,6
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 54,75
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 54,93
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 54,112
 Cindy Frich,State Senate,13,,Monongalia,Precinct 54,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 54,
@@ -1190,12 +1190,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 54,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 55,26
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 55,21
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 55,1
-John R. Raese,US Senate,,,Monongalia,Precinct 55,96
-Joe Manchin III,US Senate,,,Monongalia,Precinct 55,109
-Jeff Becker,US Senate,,,Monongalia,Precinct 55,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 55,8
-David B. McKinley ,US House,1,,Monongalia,Precinct 55,100
-Mike Oliverio,US House,1,,Monongalia,Precinct 55,112
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 55,96
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 55,109
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 55,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 55,8
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 55,100
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 55,112
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 55,138
 Cindy Frich,State Senate,13,,Monongalia,Precinct 55,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 55,
@@ -1223,12 +1223,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 55,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 56,4
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 56,10
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 56,0
-John R. Raese,US Senate,,,Monongalia,Precinct 56,18
-Joe Manchin III,US Senate,,,Monongalia,Precinct 56,37
-Jeff Becker,US Senate,,,Monongalia,Precinct 56,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 56,4
-David B. McKinley ,US House,1,,Monongalia,Precinct 56,15
-Mike Oliverio,US House,1,,Monongalia,Precinct 56,45
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 56,18
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 56,37
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 56,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 56,4
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 56,15
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 56,45
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 56,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 56,27
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 56,33
@@ -1256,12 +1256,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 56,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 58,11
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 58,13
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 58,0
-John R. Raese,US Senate,,,Monongalia,Precinct 58,69
-Joe Manchin III,US Senate,,,Monongalia,Precinct 58,38
-Jeff Becker,US Senate,,,Monongalia,Precinct 58,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 58,3
-David B. McKinley ,US House,1,,Monongalia,Precinct 58,56
-Mike Oliverio,US House,1,,Monongalia,Precinct 58,52
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 58,69
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 58,38
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 58,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 58,3
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 58,56
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 58,52
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 58,68
 Cindy Frich,State Senate,13,,Monongalia,Precinct 58,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 58,
@@ -1289,12 +1289,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 58,3
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 59,51
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 59,60
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 59,0
-John R. Raese,US Senate,,,Monongalia,Precinct 59,299
-Joe Manchin III,US Senate,,,Monongalia,Precinct 59,228
-Jeff Becker,US Senate,,,Monongalia,Precinct 59,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 59,22
-David B. McKinley ,US House,1,,Monongalia,Precinct 59,262
-Mike Oliverio,US House,1,,Monongalia,Precinct 59,284
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 59,299
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 59,228
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 59,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 59,22
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 59,262
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 59,284
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 59,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 59,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 59,
@@ -1322,12 +1322,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 59,
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 60,44
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 60,37
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 60,1
-John R. Raese,US Senate,,,Monongalia,Precinct 60,210
-Joe Manchin III,US Senate,,,Monongalia,Precinct 60,216
-Jeff Becker,US Senate,,,Monongalia,Precinct 60,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 60,13
-David B. McKinley ,US House,1,,Monongalia,Precinct 60,188
-Mike Oliverio,US House,1,,Monongalia,Precinct 60,250
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 60,210
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 60,216
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 60,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 60,13
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 60,188
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 60,250
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 60,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 60,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 60,
@@ -1355,12 +1355,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 60,15
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 61,89
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 61,93
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 61,1
-John R. Raese,US Senate,,,Monongalia,Precinct 61,422
-Joe Manchin III,US Senate,,,Monongalia,Precinct 61,358
-Jeff Becker,US Senate,,,Monongalia,Precinct 61,9
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 61,18
-David B. McKinley ,US House,1,,Monongalia,Precinct 61,353
-Mike Oliverio,US House,1,,Monongalia,Precinct 61,432
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 61,422
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 61,358
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 61,9
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 61,18
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 61,353
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 61,432
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 61,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 61,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 61,
@@ -1388,12 +1388,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 61,20
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 62,74
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 62,83
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 62,3
-John R. Raese,US Senate,,,Monongalia,Precinct 62,276
-Joe Manchin III,US Senate,,,Monongalia,Precinct 62,293
-Jeff Becker,US Senate,,,Monongalia,Precinct 62,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 62,17
-David B. McKinley ,US House,1,,Monongalia,Precinct 62,268
-Mike Oliverio,US House,1,,Monongalia,Precinct 62,316
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 62,276
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 62,293
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 62,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 62,17
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 62,268
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 62,316
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 62,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 62,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 62,
@@ -1421,12 +1421,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 62,
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 63,60
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 63,54
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 63,4
-John R. Raese,US Senate,,,Monongalia,Precinct 63,208
-Joe Manchin III,US Senate,,,Monongalia,Precinct 63,199
-Jeff Becker,US Senate,,,Monongalia,Precinct 63,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 63,9
-David B. McKinley ,US House,1,,Monongalia,Precinct 63,180
-Mike Oliverio,US House,1,,Monongalia,Precinct 63,211
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 63,208
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 63,199
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 63,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 63,9
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 63,180
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 63,211
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 63,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 63,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 63,
@@ -1454,12 +1454,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 63,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 64,15
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 64,26
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 64,0
-John R. Raese,US Senate,,,Monongalia,Precinct 64,73
-Joe Manchin III,US Senate,,,Monongalia,Precinct 64,95
-Jeff Becker,US Senate,,,Monongalia,Precinct 64,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 64,4
-David B. McKinley ,US House,1,,Monongalia,Precinct 64,62
-Mike Oliverio,US House,1,,Monongalia,Precinct 64,107
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 64,73
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 64,95
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 64,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 64,4
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 64,62
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 64,107
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 64,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 64,83
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 64,86
@@ -1487,12 +1487,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 64,
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 67,31
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 67,52
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 67,0
-John R. Raese,US Senate,,,Monongalia,Precinct 67,113
-Joe Manchin III,US Senate,,,Monongalia,Precinct 67,185
-Jeff Becker,US Senate,,,Monongalia,Precinct 67,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 67,5
-David B. McKinley ,US House,1,,Monongalia,Precinct 67,110
-Mike Oliverio,US House,1,,Monongalia,Precinct 67,193
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 67,113
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 67,185
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 67,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 67,5
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 67,110
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 67,193
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 67,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 67,129
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 67,171
@@ -1520,12 +1520,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 67,
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 68,47
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 68,42
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 68,0
-John R. Raese,US Senate,,,Monongalia,Precinct 68,217
-Joe Manchin III,US Senate,,,Monongalia,Precinct 68,166
-Jeff Becker,US Senate,,,Monongalia,Precinct 68,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 68,8
-David B. McKinley ,US House,1,,Monongalia,Precinct 68,194
-Mike Oliverio,US House,1,,Monongalia,Precinct 68,194
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 68,217
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 68,166
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 68,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 68,8
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 68,194
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 68,194
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 68,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 68,242
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 68,154
@@ -1553,12 +1553,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 68,11
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 69,25
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 69,36
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 69,0
-John R. Raese,US Senate,,,Monongalia,Precinct 69,111
-Joe Manchin III,US Senate,,,Monongalia,Precinct 69,114
-Jeff Becker,US Senate,,,Monongalia,Precinct 69,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 69,4
-David B. McKinley ,US House,1,,Monongalia,Precinct 69,100
-Mike Oliverio,US House,1,,Monongalia,Precinct 69,131
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 69,111
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 69,114
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 69,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 69,4
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 69,100
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 69,131
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 69,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 69,129
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 69,102
@@ -1586,12 +1586,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 69,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 71,37
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 71,66
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 71,2
-John R. Raese,US Senate,,,Monongalia,Precinct 71,237
-Joe Manchin III,US Senate,,,Monongalia,Precinct 71,345
-Jeff Becker,US Senate,,,Monongalia,Precinct 71,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 71,10
-David B. McKinley ,US House,1,,Monongalia,Precinct 71,204
-Mike Oliverio,US House,1,,Monongalia,Precinct 71,379
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 71,237
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 71,345
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 71,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 71,10
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 71,204
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 71,379
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 71,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 71,257
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 71,318
@@ -1619,12 +1619,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 71,21
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 72,23
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 72,7
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 72,1
-John R. Raese,US Senate,,,Monongalia,Precinct 72,138
-Joe Manchin III,US Senate,,,Monongalia,Precinct 72,279
-Jeff Becker,US Senate,,,Monongalia,Precinct 72,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 72,7
-David B. McKinley ,US House,1,,Monongalia,Precinct 72,126
-Mike Oliverio,US House,1,,Monongalia,Precinct 72,289
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 72,138
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 72,279
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 72,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 72,7
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 72,126
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 72,289
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 72,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 72,200
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 72,220
@@ -1652,12 +1652,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 72,17
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 74,12
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 74,30
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 74,2
-John R. Raese,US Senate,,,Monongalia,Precinct 74,49
-Joe Manchin III,US Senate,,,Monongalia,Precinct 74,105
-Jeff Becker,US Senate,,,Monongalia,Precinct 74,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 74,4
-David B. McKinley ,US House,1,,Monongalia,Precinct 74,49
-Mike Oliverio,US House,1,,Monongalia,Precinct 74,106
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 74,49
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 74,105
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 74,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 74,4
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 74,49
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 74,106
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 74,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 74,67
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 74,88
@@ -1685,12 +1685,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 74,6
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 75,27
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 75,50
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 75,3
-John R. Raese,US Senate,,,Monongalia,Precinct 75,177
-Joe Manchin III,US Senate,,,Monongalia,Precinct 75,211
-Jeff Becker,US Senate,,,Monongalia,Precinct 75,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 75,14
-David B. McKinley ,US House,1,,Monongalia,Precinct 75,161
-Mike Oliverio,US House,1,,Monongalia,Precinct 75,239
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 75,177
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 75,211
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 75,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 75,14
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 75,161
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 75,239
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 75,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 75,189
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 75,209
@@ -1718,12 +1718,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 75,17
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 76,7
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 76,13
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 76,0
-John R. Raese,US Senate,,,Monongalia,Precinct 76,28
-Joe Manchin III,US Senate,,,Monongalia,Precinct 76,35
-Jeff Becker,US Senate,,,Monongalia,Precinct 76,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 76,3
-David B. McKinley ,US House,1,,Monongalia,Precinct 76,24
-Mike Oliverio,US House,1,,Monongalia,Precinct 76,40
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 76,28
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 76,35
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 76,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 76,3
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 76,24
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 76,40
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 76,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 76,31
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 76,35
@@ -1751,12 +1751,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 76,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 77A,72
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 77A,54
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 77A,3
-John R. Raese,US Senate,,,Monongalia,Precinct 77A,277
-Joe Manchin III,US Senate,,,Monongalia,Precinct 77A,280
-Jeff Becker,US Senate,,,Monongalia,Precinct 77A,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 77A,14
-David B. McKinley ,US House,1,,Monongalia,Precinct 77A,241
-Mike Oliverio,US House,1,,Monongalia,Precinct 77A,313
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 77A,277
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 77A,280
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 77A,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 77A,14
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 77A,241
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 77A,313
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 77A,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 77A,308
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 77A,247
@@ -1784,12 +1784,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 77A,19
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 77B,62
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 77B,55
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 77B,4
-John R. Raese,US Senate,,,Monongalia,Precinct 77B,271
-Joe Manchin III,US Senate,,,Monongalia,Precinct 77B,222
-Jeff Becker,US Senate,,,Monongalia,Precinct 77B,4
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 77B,9
-David B. McKinley ,US House,1,,Monongalia,Precinct 77B,246
-Mike Oliverio,US House,1,,Monongalia,Precinct 77B,243
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 77B,271
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 77B,222
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 77B,4
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 77B,9
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 77B,246
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 77B,243
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 77B,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 77B,300
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 77B,191
@@ -1817,12 +1817,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 77B,10
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 78A,55
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 78A,53
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 78A,0
-John R. Raese,US Senate,,,Monongalia,Precinct 78A,255
-Joe Manchin III,US Senate,,,Monongalia,Precinct 78A,206
-Jeff Becker,US Senate,,,Monongalia,Precinct 78A,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 78A,8
-David B. McKinley ,US House,1,,Monongalia,Precinct 78A,218
-Mike Oliverio,US House,1,,Monongalia,Precinct 78A,243
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 78A,255
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 78A,206
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 78A,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 78A,8
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 78A,218
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 78A,243
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 78A,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 78A,248
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 78A,208
@@ -1850,12 +1850,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 78A,5
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 78B,43
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 78B,34
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 78B,1
-John R. Raese,US Senate,,,Monongalia,Precinct 78B,181
-Joe Manchin III,US Senate,,,Monongalia,Precinct 78B,161
-Jeff Becker,US Senate,,,Monongalia,Precinct 78B,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 78B,3
-David B. McKinley ,US House,1,,Monongalia,Precinct 78B,159
-Mike Oliverio,US House,1,,Monongalia,Precinct 78B,185
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 78B,181
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 78B,161
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 78B,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 78B,3
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 78B,159
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 78B,185
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 78B,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 78B,200
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 78B,145
@@ -1883,12 +1883,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 78B,10
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 79A,51
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 79A,38
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 79A,0
-John R. Raese,US Senate,,,Monongalia,Precinct 79A,246
-Joe Manchin III,US Senate,,,Monongalia,Precinct 79A,178
-Jeff Becker,US Senate,,,Monongalia,Precinct 79A,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 79A,3
-David B. McKinley ,US House,1,,Monongalia,Precinct 79A,226
-Mike Oliverio,US House,1,,Monongalia,Precinct 79A,197
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 79A,246
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 79A,178
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 79A,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 79A,3
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 79A,226
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 79A,197
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 79A,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 79A,253
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 79A,168
@@ -1916,12 +1916,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 79A,8
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 79B,78
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 79B,37
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 79B,0
-John R. Raese,US Senate,,,Monongalia,Precinct 79B,320
-Joe Manchin III,US Senate,,,Monongalia,Precinct 79B,191
-Jeff Becker,US Senate,,,Monongalia,Precinct 79B,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 79B,5
-David B. McKinley ,US House,1,,Monongalia,Precinct 79B,281
-Mike Oliverio,US House,1,,Monongalia,Precinct 79B,234
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 79B,320
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 79B,191
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 79B,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 79B,5
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 79B,281
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 79B,234
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 79B,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 79B,333
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 79B,178
@@ -1949,12 +1949,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 79B,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 81,33
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 81,42
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 81,0
-John R. Raese,US Senate,,,Monongalia,Precinct 81,148
-Joe Manchin III,US Senate,,,Monongalia,Precinct 81,191
-Jeff Becker,US Senate,,,Monongalia,Precinct 81,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 81,13
-David B. McKinley ,US House,1,,Monongalia,Precinct 81,134
-Mike Oliverio,US House,1,,Monongalia,Precinct 81,223
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 81,148
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 81,191
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 81,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 81,13
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 81,134
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 81,223
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 81,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 81,190
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 81,161
@@ -1982,12 +1982,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 81,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 82,53
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 82,40
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 82,0
-John R. Raese,US Senate,,,Monongalia,Precinct 82,214
-Joe Manchin III,US Senate,,,Monongalia,Precinct 82,183
-Jeff Becker,US Senate,,,Monongalia,Precinct 82,6
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 82,18
-David B. McKinley ,US House,1,,Monongalia,Precinct 82,180
-Mike Oliverio,US House,1,,Monongalia,Precinct 82,225
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 82,214
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 82,183
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 82,6
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 82,18
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 82,180
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 82,225
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 82,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 82,245
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 82,165
@@ -2015,12 +2015,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 82,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 83A,34
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 83A,44
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 83A,1
-John R. Raese,US Senate,,,Monongalia,Precinct 83A,182
-Joe Manchin III,US Senate,,,Monongalia,Precinct 83A,217
-Jeff Becker,US Senate,,,Monongalia,Precinct 83A,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 83A,6
-David B. McKinley ,US House,1,,Monongalia,Precinct 83A,150
-Mike Oliverio,US House,1,,Monongalia,Precinct 83A,253
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 83A,182
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 83A,217
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 83A,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 83A,6
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 83A,150
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 83A,253
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 83A,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 83A,200
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 83A,207
@@ -2048,12 +2048,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 83A,15
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 83B,42
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 83B,57
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 83B,3
-John R. Raese,US Senate,,,Monongalia,Precinct 83B,193
-Joe Manchin III,US Senate,,,Monongalia,Precinct 83B,162
-Jeff Becker,US Senate,,,Monongalia,Precinct 83B,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 83B,9
-David B. McKinley ,US House,1,,Monongalia,Precinct 83B,152
-Mike Oliverio,US House,1,,Monongalia,Precinct 83B,202
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 83B,193
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 83B,162
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 83B,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 83B,9
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 83B,152
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 83B,202
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 83B,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 83B,207
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 83B,154
@@ -2081,12 +2081,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 83B,13
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 84,20
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 84,33
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 84,0
-John R. Raese,US Senate,,,Monongalia,Precinct 84,136
-Joe Manchin III,US Senate,,,Monongalia,Precinct 84,140
-Jeff Becker,US Senate,,,Monongalia,Precinct 84,2
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 84,5
-David B. McKinley ,US House,1,,Monongalia,Precinct 84,121
-Mike Oliverio,US House,1,,Monongalia,Precinct 84,153
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 84,136
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 84,140
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 84,2
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 84,5
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 84,121
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 84,153
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 84,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 84,143
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 84,132
@@ -2114,12 +2114,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 84,6
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 85,9
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 85,9
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 85,0
-John R. Raese,US Senate,,,Monongalia,Precinct 85,35
-Joe Manchin III,US Senate,,,Monongalia,Precinct 85,53
-Jeff Becker,US Senate,,,Monongalia,Precinct 85,1
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 85,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 85,32
-Mike Oliverio,US House,1,,Monongalia,Precinct 85,58
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 85,35
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 85,53
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 85,1
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 85,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 85,32
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 85,58
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 85,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 85,
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 85,
@@ -2147,12 +2147,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 85,3
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 86,38
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 86,64
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 86,0
-John R. Raese,US Senate,,,Monongalia,Precinct 86,183
-Joe Manchin III,US Senate,,,Monongalia,Precinct 86,253
-Jeff Becker,US Senate,,,Monongalia,Precinct 86,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 86,18
-David B. McKinley ,US House,1,,Monongalia,Precinct 86,154
-Mike Oliverio,US House,1,,Monongalia,Precinct 86,290
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 86,183
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 86,253
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 86,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 86,18
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 86,154
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 86,290
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 86,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 86,204
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 86,245
@@ -2180,12 +2180,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 86,12
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 87,38
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 87,62
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 87,1
-John R. Raese,US Senate,,,Monongalia,Precinct 87,188
-Joe Manchin III,US Senate,,,Monongalia,Precinct 87,240
-Jeff Becker,US Senate,,,Monongalia,Precinct 87,3
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 87,15
-David B. McKinley ,US House,1,,Monongalia,Precinct 87,188
-Mike Oliverio,US House,1,,Monongalia,Precinct 87,247
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 87,188
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 87,240
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 87,3
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 87,15
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 87,188
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 87,247
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 87,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 87,200
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 87,227
@@ -2213,12 +2213,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 87,13
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 88,36
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 88,49
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 88,1
-John R. Raese,US Senate,,,Monongalia,Precinct 88,201
-Joe Manchin III,US Senate,,,Monongalia,Precinct 88,204
-Jeff Becker,US Senate,,,Monongalia,Precinct 88,7
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 88,13
-David B. McKinley ,US House,1,,Monongalia,Precinct 88,168
-Mike Oliverio,US House,1,,Monongalia,Precinct 88,253
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 88,201
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 88,204
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 88,7
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 88,13
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 88,168
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 88,253
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 88,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 88,207
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 88,204
@@ -2246,12 +2246,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 88,21
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 90,18
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 90,30
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 90,0
-John R. Raese,US Senate,,,Monongalia,Precinct 90,102
-Joe Manchin III,US Senate,,,Monongalia,Precinct 90,137
-Jeff Becker,US Senate,,,Monongalia,Precinct 90,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 90,2
-David B. McKinley ,US House,1,,Monongalia,Precinct 90,86
-Mike Oliverio,US House,1,,Monongalia,Precinct 90,150
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 90,102
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 90,137
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 90,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 90,2
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 90,86
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 90,150
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 90,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 90,109
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 90,126
@@ -2279,12 +2279,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 90,8
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 91,43
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 91,66
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 91,0
-John R. Raese,US Senate,,,Monongalia,Precinct 91,222
-Joe Manchin III,US Senate,,,Monongalia,Precinct 91,309
-Jeff Becker,US Senate,,,Monongalia,Precinct 91,5
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 91,3
-David B. McKinley ,US House,1,,Monongalia,Precinct 91,196
-Mike Oliverio,US House,1,,Monongalia,Precinct 91,321
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 91,222
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 91,309
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 91,5
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 91,3
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 91,196
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 91,321
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 91,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 91,236
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 91,282
@@ -2312,12 +2312,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 91,19
 ,Straight Party Ticket ,,REP,Monongalia,Precinct 93,1
 ,Straight Party Ticket ,,DEM,Monongalia,Precinct 93,0
 ,Straight Party Ticket ,,MTN,Monongalia,Precinct 93,0
-John R. Raese,US Senate,,,Monongalia,Precinct 93,3
-Joe Manchin III,US Senate,,,Monongalia,Precinct 93,3
-Jeff Becker,US Senate,,,Monongalia,Precinct 93,0
-Jesse Johnson ,US Senate,,,Monongalia,Precinct 93,0
-David B. McKinley ,US House,1,,Monongalia,Precinct 93,3
-Mike Oliverio,US House,1,,Monongalia,Precinct 93,3
+John R. Raese,U.S. Senate,,,Monongalia,Precinct 93,3
+Joe Manchin III,U.S. Senate,,,Monongalia,Precinct 93,3
+Jeff Becker,U.S. Senate,,,Monongalia,Precinct 93,0
+Jesse Johnson ,U.S. Senate,,,Monongalia,Precinct 93,0
+David B. McKinley ,U.S. House,1,,Monongalia,Precinct 93,3
+Mike Oliverio,U.S. House,1,,Monongalia,Precinct 93,3
 Larry J. Edgell ,State Senate,2,,Monongalia,Precinct 93,
 Cindy Frich,State Senate,13,,Monongalia,Precinct 93,4
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,Precinct 93,
@@ -2345,12 +2345,12 @@ Tad Britch ,House of Delegates ,44,,Monongalia,Precinct 93,
 ,Straight Party Ticket ,,REP,Monongalia,TOTALS ,2300
 ,Straight Party Ticket ,,DEM,Monongalia,TOTALS ,3182
 ,Straight Party Ticket ,,MTN,Monongalia,TOTALS ,46
-John R. Raese,US Senate,,,Monongalia,TOTALS ,10765
-Joe Manchin III,US Senate,,,Monongalia,TOTALS ,12817
-Jeff Becker,US Senate,,,Monongalia,TOTALS ,231
-Jesse Johnson ,US Senate,,,Monongalia,TOTALS ,639
-David B. McKinley ,US House,1,,Monongalia,TOTALS ,9496
-Mike Oliverio,US House,1,,Monongalia,TOTALS ,14354
+John R. Raese,U.S. Senate,,,Monongalia,TOTALS ,10765
+Joe Manchin III,U.S. Senate,,,Monongalia,TOTALS ,12817
+Jeff Becker,U.S. Senate,,,Monongalia,TOTALS ,231
+Jesse Johnson ,U.S. Senate,,,Monongalia,TOTALS ,639
+David B. McKinley ,U.S. House,1,,Monongalia,TOTALS ,9496
+Mike Oliverio,U.S. House,1,,Monongalia,TOTALS ,14354
 Larry J. Edgell ,State Senate,2,,Monongalia,TOTALS ,1375
 Cindy Frich,State Senate,13,,Monongalia,TOTALS ,8303
 "Robert ""Bob"" Beach",State Senate,13,,Monongalia,TOTALS ,8858

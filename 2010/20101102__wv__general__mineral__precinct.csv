@@ -2,14 +2,14 @@ candidate,office,district,party,county,precinct,votes
 ,Straight Party Ticket ,,REP,Mineral,Precinct 1,84
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 1,13
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 1,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 1,164
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 1,81
-Jeff Becker,US Senate,,CON,Mineral,Precinct 1,6
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 1,3
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 1,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 1,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 1,184
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 1,68
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 1,164
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 1,81
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 1,6
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 1,3
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 1,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 1,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 1,184
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 1,68
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 1,190
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 1,53
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 1,0
@@ -21,14 +21,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 1,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 2,112
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 2,30
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 2,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 2,233
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 2,145
-Jeff Becker,US Senate,,CON,Mineral,Precinct 2,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 2,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 2,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 2,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 2,263
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 2,113
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 2,233
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 2,145
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 2,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 2,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 2,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 2,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 2,263
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 2,113
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 2,277
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 2,96
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 2,0
@@ -40,14 +40,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 2,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 3,23
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 3,7
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 3,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 3,45
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 3,27
-Jeff Becker,US Senate,,CON,Mineral,Precinct 3,2
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 3,0
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 3,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 3,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 3,53
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 3,18
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 3,45
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 3,27
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 3,2
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 3,0
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 3,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 3,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 3,53
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 3,18
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 3,51
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 3,20
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 3,0
@@ -59,14 +59,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 3,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 4,83
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 4,14
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 4,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 4,169
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 4,100
-Jeff Becker,US Senate,,CON,Mineral,Precinct 4,9
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 4,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 4,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 4,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 4,198
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 4,74
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 4,169
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 4,100
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 4,9
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 4,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 4,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 4,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 4,198
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 4,74
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 4,215
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 4,57
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 4,0
@@ -78,14 +78,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 4,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 5,102
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 5,24
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 5,2
-John R. Raese ,US Senate,,REP,Mineral,Precinct 5,223
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 5,107
-Jeff Becker,US Senate,,CON,Mineral,Precinct 5,6
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 5,4
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 5,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 5,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 5,242
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 5,85
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 5,223
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 5,107
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 5,6
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 5,4
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 5,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 5,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 5,242
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 5,85
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 5,254
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 5,74
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 5,1
@@ -97,14 +97,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 5,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 7,148
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 7,56
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 7,3
-John R. Raese ,US Senate,,REP,Mineral,Precinct 7,307
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 7,221
-Jeff Becker,US Senate,,CON,Mineral,Precinct 7,5
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 7,3
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 7,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 7,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 7,321
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 7,195
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 7,307
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 7,221
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 7,5
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 7,3
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 7,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 7,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 7,321
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 7,195
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 7,346
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 7,160
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 7,0
@@ -116,14 +116,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 7,379
 ,Straight Party Ticket ,,REP,Mineral,Precinct 8,79
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 8,31
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 8,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 8,134
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 8,94
-Jeff Becker,US Senate,,CON,Mineral,Precinct 8,0
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 8,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 8,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 8,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 8,142
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 8,78
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 8,134
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 8,94
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 8,0
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 8,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 8,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 8,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 8,142
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 8,78
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 8,162
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 8,60
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 8,0
@@ -135,14 +135,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 8,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 9,84
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 9,32
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 9,2
-John R. Raese ,US Senate,,REP,Mineral,Precinct 9,211
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 9,140
-Jeff Becker,US Senate,,CON,Mineral,Precinct 9,4
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 9,3
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 9,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 9,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 9,237
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 9,117
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 9,211
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 9,140
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 9,4
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 9,3
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 9,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 9,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 9,237
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 9,117
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 9,250
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 9,99
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 9,0
@@ -154,14 +154,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 9,275
 ,Straight Party Ticket ,,REP,Mineral,Precinct 10,91
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 10,37
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 10,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 10,260
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 10,171
-Jeff Becker,US Senate,,CON,Mineral,Precinct 10,8
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 10,0
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 10,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 10,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 10,286
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 10,143
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 10,260
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 10,171
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 10,8
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 10,0
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 10,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 10,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 10,286
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 10,143
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 10,300
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 10,122
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 10,0
@@ -173,14 +173,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 10,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 11,53
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 11,32
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 11,2
-John R. Raese ,US Senate,,REP,Mineral,Precinct 11,148
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 11,108
-Jeff Becker,US Senate,,CON,Mineral,Precinct 11,2
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 11,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 11,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 11,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 11,149
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 11,96
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 11,148
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 11,108
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 11,2
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 11,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 11,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 11,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 11,149
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 11,96
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 11,154
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 11,87
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 11,1
@@ -192,14 +192,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 11,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 12,44
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 12,28
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 12,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 12,108
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 12,94
-Jeff Becker,US Senate,,CON,Mineral,Precinct 12,5
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 12,4
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 12,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 12,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 12,112
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 12,91
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 12,108
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 12,94
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 12,5
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 12,4
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 12,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 12,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 12,112
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 12,91
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 12,117
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 12,84
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 12,0
@@ -211,14 +211,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 12,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 13,34
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 13,29
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 13,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 13,91
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 13,93
-Jeff Becker,US Senate,,CON,Mineral,Precinct 13,0
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 13,0
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 13,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 13,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 13,93
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 13,85
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 13,91
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 13,93
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 13,0
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 13,0
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 13,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 13,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 13,93
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 13,85
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 13,103
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 13,72
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 13,0
@@ -230,14 +230,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 13,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 15,122
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 15,35
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 15,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 15,274
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 15,183
-Jeff Becker,US Senate,,CON,Mineral,Precinct 15,6
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 15,0
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 15,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 15,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 15,290
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 15,151
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 15,274
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 15,183
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 15,6
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 15,0
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 15,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 15,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 15,290
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 15,151
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 15,316
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 15,124
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 15,0
@@ -249,14 +249,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 15,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 16,28
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 16,28
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 16,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 16,70
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 16,104
-Jeff Becker,US Senate,,CON,Mineral,Precinct 16,8
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 16,4
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 16,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 16,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 16,87
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 16,92
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 16,70
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 16,104
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 16,8
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 16,4
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 16,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 16,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 16,87
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 16,92
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 16,99
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 16,82
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 16,0
@@ -268,14 +268,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 16,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 18,22
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 18,17
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 18,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 18,57
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 18,68
-Jeff Becker,US Senate,,CON,Mineral,Precinct 18,4
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 18,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 18,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 18,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 18,81
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 18,48
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 18,57
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 18,68
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 18,4
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 18,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 18,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 18,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 18,81
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 18,48
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 18,87
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 18,41
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 18,0
@@ -287,14 +287,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 18,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 19,23
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 19,18
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 19,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 19,61
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 19,83
-Jeff Becker,US Senate,,CON,Mineral,Precinct 19,6
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 19,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 19,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 19,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 19,77
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 19,68
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 19,61
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 19,83
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 19,6
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 19,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 19,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 19,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 19,77
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 19,68
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 19,86
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 19,52
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 19,0
@@ -306,14 +306,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 19,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 20,32
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 20,41
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 20,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 20,53
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 20,76
-Jeff Becker,US Senate,,CON,Mineral,Precinct 20,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 20,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 20,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 20,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 20,68
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 20,62
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 20,53
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 20,76
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 20,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 20,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 20,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 20,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 20,68
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 20,62
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 20,69
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 20,63
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 20,0
@@ -325,14 +325,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 20,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 21,13
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 21,11
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 21,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 21,49
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 21,52
-Jeff Becker,US Senate,,CON,Mineral,Precinct 21,0
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 21,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 21,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 21,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 21,63
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 21,36
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 21,49
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 21,52
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 21,0
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 21,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 21,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 21,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 21,63
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 21,36
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 21,63
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 21,37
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 21,0
@@ -344,14 +344,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 21,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 22,22
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 22,9
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 22,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 22,52
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 22,54
-Jeff Becker,US Senate,,CON,Mineral,Precinct 22,1
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 22,0
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 22,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 22,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 22,59
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 22,49
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 22,52
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 22,54
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 22,1
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 22,0
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 22,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 22,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 22,59
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 22,49
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 22,75
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 22,32
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 22,0
@@ -363,14 +363,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 22,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 23,29
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 23,32
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 23,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 23,90
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 23,131
-Jeff Becker,US Senate,,CON,Mineral,Precinct 23,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 23,4
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 23,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 23,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 23,112
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 23,111
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 23,90
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 23,131
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 23,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 23,4
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 23,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 23,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 23,112
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 23,111
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 23,121
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 23,97
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 23,0
@@ -382,14 +382,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 23,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 24,41
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 24,25
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 24,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 24,137
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 24,129
-Jeff Becker,US Senate,,CON,Mineral,Precinct 24,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 24,5
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 24,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 24,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 24,162
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 24,106
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 24,137
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 24,129
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 24,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 24,5
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 24,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 24,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 24,162
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 24,106
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 24,183
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 24,83
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 24,0
@@ -401,14 +401,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 24,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 25,62
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 25,29
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 25,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 25,141
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 25,130
-Jeff Becker,US Senate,,CON,Mineral,Precinct 25,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 25,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 25,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 25,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 25,171
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 25,104
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 25,141
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 25,130
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 25,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 25,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 25,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 25,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 25,171
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 25,104
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 25,185
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 25,86
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 25,0
@@ -420,14 +420,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 25,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 26,58
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 26,29
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 26,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 26,151
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 26,126
-Jeff Becker,US Senate,,CON,Mineral,Precinct 26,8
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 26,6
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 26,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 26,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 26,194
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 26,89
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 26,151
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 26,126
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 26,8
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 26,6
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 26,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 26,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 26,194
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 26,89
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 26,185
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 26,95
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 26,0
@@ -439,14 +439,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 26,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 27,96
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 27,33
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 27,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 27,222
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 27,167
-Jeff Becker,US Senate,,CON,Mineral,Precinct 27,2
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 27,4
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 27,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 27,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 27,250
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 27,134
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 27,222
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 27,167
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 27,2
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 27,4
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 27,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 27,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 27,250
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 27,134
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 27,286
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 27,100
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 27,0
@@ -458,14 +458,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 27,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 28,67
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 28,10
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 28,2
-John R. Raese ,US Senate,,REP,Mineral,Precinct 28,142
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 28,87
-Jeff Becker,US Senate,,CON,Mineral,Precinct 28,2
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 28,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 28,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 28,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 28,150
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 28,77
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 28,142
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 28,87
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 28,2
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 28,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 28,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 28,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 28,150
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 28,77
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 28,170
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 28,55
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 28,0
@@ -477,14 +477,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 28,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 30,31
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 30,61
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 30,2
-John R. Raese ,US Senate,,REP,Mineral,Precinct 30,60
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 30,133
-Jeff Becker,US Senate,,CON,Mineral,Precinct 30,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 30,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 30,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 30,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 30,67
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 30,121
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 30,60
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 30,133
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 30,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 30,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 30,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 30,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 30,67
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 30,121
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 30,89
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 30,97
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 30,0
@@ -496,14 +496,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 30,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 31,69
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 31,57
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 31,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 31,157
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 31,136
-Jeff Becker,US Senate,,CON,Mineral,Precinct 31,7
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 31,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 31,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 31,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 31,172
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 31,125
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 31,157
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 31,136
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 31,7
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 31,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 31,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 31,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 31,172
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 31,125
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 31,181
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 31,111
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 31,0
@@ -515,14 +515,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 31,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 32,73
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 32,41
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 32,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 32,179
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 32,127
-Jeff Becker,US Senate,,CON,Mineral,Precinct 32,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 32,3
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 32,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 32,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 32,184
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 32,117
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 32,179
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 32,127
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 32,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 32,3
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 32,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 32,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 32,184
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 32,117
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 32,201
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 32,103
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 32,0
@@ -534,14 +534,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 32,210
 ,Straight Party Ticket ,,REP,Mineral,Precinct 33,78
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 33,25
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 33,0
-John R. Raese ,US Senate,,REP,Mineral,Precinct 33,181
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 33,153
-Jeff Becker,US Senate,,CON,Mineral,Precinct 33,8
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 33,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 33,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 33,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 33,221
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 33,112
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 33,181
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 33,153
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 33,8
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 33,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 33,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 33,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 33,221
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 33,112
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 33,243
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 33,88
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 33,0
@@ -553,14 +553,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 33,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 34,100
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 34,42
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 34,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 34,219
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 34,160
-Jeff Becker,US Senate,,CON,Mineral,Precinct 34,4
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 34,5
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 34,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 34,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 34,254
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 34,120
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 34,219
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 34,160
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 34,4
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 34,5
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 34,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 34,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 34,254
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 34,120
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 34,271
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 34,105
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 34,0
@@ -572,14 +572,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 34,0
 ,Straight Party Ticket ,,REP,Mineral,Precinct 35,73
 ,Straight Party Ticket ,,DEM,Mineral,Precinct 35,7
 ,Straight Party Ticket ,,MTN,Mineral,Precinct 35,1
-John R. Raese ,US Senate,,REP,Mineral,Precinct 35,156
-Joe Manchin III,US Senate,,DEM,Mineral,Precinct 35,58
-Jeff Becker,US Senate,,CON,Mineral,Precinct 35,5
-Jesse Johnson ,US Senate,,MTN,Mineral,Precinct 35,2
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Precinct 35,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Precinct 35,0
-David B. McKinley ,US House,1,REP,Mineral,Precinct 35,168
-Mike Oliverio,US House,1,DEM,Mineral,Precinct 35,44
+John R. Raese ,U.S. Senate,,REP,Mineral,Precinct 35,156
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Precinct 35,58
+Jeff Becker,U.S. Senate,,CON,Mineral,Precinct 35,5
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Precinct 35,2
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Precinct 35,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Precinct 35,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Precinct 35,168
+Mike Oliverio,U.S. House,1,DEM,Mineral,Precinct 35,44
 Dave Sypolt ,State Senate,14,REP,Mineral,Precinct 35,177
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Precinct 35,34
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Precinct 35,0
@@ -591,14 +591,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Precinct 35,0
 ,Straight Party Ticket ,,REP,Mineral,Prov,
 ,Straight Party Ticket ,,DEM,Mineral,Prov,
 ,Straight Party Ticket ,,MTN,Mineral,Prov,
-John R. Raese ,US Senate,,REP,Mineral,Prov,52
-Joe Manchin III,US Senate,,DEM,Mineral,Prov,29
-Jeff Becker,US Senate,,CON,Mineral,Prov,3
-Jesse Johnson ,US Senate,,MTN,Mineral,Prov,1
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,Prov,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,Prov,0
-David B. McKinley ,US House,1,REP,Mineral,Prov,62
-Mike Oliverio,US House,1,DEM,Mineral,Prov,21
+John R. Raese ,U.S. Senate,,REP,Mineral,Prov,52
+Joe Manchin III,U.S. Senate,,DEM,Mineral,Prov,29
+Jeff Becker,U.S. Senate,,CON,Mineral,Prov,3
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,Prov,1
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,Prov,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,Prov,0
+David B. McKinley ,U.S. House,1,REP,Mineral,Prov,62
+Mike Oliverio,U.S. House,1,DEM,Mineral,Prov,21
 Dave Sypolt ,State Senate,14,REP,Mineral,Prov,71
 Steven L. Shaffer,State Senate,14,DEM,Mineral,Prov,12
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,Prov,0
@@ -610,14 +610,14 @@ Ruth Rowan,House of Delegates,50,REP,Mineral,Prov,12
 ,Straight Party Ticket ,,REP,Mineral,TOTAL ,1976
 ,Straight Party Ticket ,,DEM,Mineral,TOTAL ,883
 ,Straight Party Ticket ,,MTN,Mineral,TOTAL ,27
-John R. Raese ,US Senate,,REP,Mineral,TOTAL ,4596
-Joe Manchin III,US Senate,,DEM,Mineral,TOTAL ,3567
-Jeff Becker,US Senate,,CON,Mineral,TOTAL ,132
-Jesse Johnson ,US Senate,,MTN,Mineral,TOTAL ,70
-"John R. ""Rick"" Bartlett (write-in)",US Senate,,,Mineral,TOTAL ,0
-"Charles G. ""Bud"" Railey (write-in)",US Senate,,,Mineral,TOTAL ,0
-David B. McKinley ,US House,1,REP,Mineral,TOTAL ,5172
-Mike Oliverio,US House,1,DEM,Mineral,TOTAL ,2950
+John R. Raese ,U.S. Senate,,REP,Mineral,TOTAL ,4596
+Joe Manchin III,U.S. Senate,,DEM,Mineral,TOTAL ,3567
+Jeff Becker,U.S. Senate,,CON,Mineral,TOTAL ,132
+Jesse Johnson ,U.S. Senate,,MTN,Mineral,TOTAL ,70
+"John R. ""Rick"" Bartlett (write-in)",U.S. Senate,,,Mineral,TOTAL ,0
+"Charles G. ""Bud"" Railey (write-in)",U.S. Senate,,,Mineral,TOTAL ,0
+David B. McKinley ,U.S. House,1,REP,Mineral,TOTAL ,5172
+Mike Oliverio,U.S. House,1,DEM,Mineral,TOTAL ,2950
 Dave Sypolt ,State Senate,14,REP,Mineral,TOTAL ,5577
 Steven L. Shaffer,State Senate,14,DEM,Mineral,TOTAL ,2481
 "John ""Rick"" Bartlett (write-in)",State Senate,14,,Mineral,TOTAL ,2

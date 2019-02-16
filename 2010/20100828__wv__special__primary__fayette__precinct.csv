@@ -7,20 +7,20 @@ candidate,office,district,party,county,precinct,total votes
 ,Ballots Cast,,DEM,Fayette,Precinct 1,96
 ,Ballots Cast,,REP,Fayette,Precinct 1,26
 ,Ballots Cast,,MTN,Fayette,Precinct 1,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 1,16
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 1,9
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 1,71
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 1,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 1,3
-Frank Kubic,US Senate,,REP,Fayette,Precinct 1,0
-John R Raese,US Senate,,REP,Fayette,Precinct 1,22
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 1,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 1,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 1,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 1,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 1,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 1,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 1,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 1,16
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 1,9
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 1,71
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 1,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 1,3
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 1,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 1,22
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 1,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 1,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 1,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 1,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 1,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 1,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 1,0
 ,Registered Voters,,,Fayette,Precinct 4,724
 ,Registered Voters,,DEM,Fayette,Precinct 4,554
 ,Registered Voters,,REP,Fayette,Precinct 4,170
@@ -29,20 +29,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 1,0
 ,Ballots Cast,,DEM,Fayette,Precinct 4,76
 ,Ballots Cast,,REP,Fayette,Precinct 4,26
 ,Ballots Cast,,MTN,Fayette,Precinct 4,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 4,17
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 4,12
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 4,46
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 4,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 4,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 4,0
-John R Raese,US Senate,,REP,Fayette,Precinct 4,21
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 4,1
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 4,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 4,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 4,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 4,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 4,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 4,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 4,17
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 4,12
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 4,46
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 4,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 4,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 4,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 4,21
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 4,1
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 4,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 4,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 4,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 4,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 4,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 4,0
 ,Registered Voters,,,Fayette,Precinct 5,566
 ,Registered Voters,,DEM,Fayette,Precinct 5,465
 ,Registered Voters,,REP,Fayette,Precinct 5,101
@@ -51,20 +51,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 4,0
 ,Ballots Cast,,DEM,Fayette,Precinct 5,56
 ,Ballots Cast,,REP,Fayette,Precinct 5,13
 ,Ballots Cast,,MTN,Fayette,Precinct 5,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 5,10
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 5,9
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 5,37
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 5,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 5,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 5,0
-John R Raese,US Senate,,REP,Fayette,Precinct 5,10
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 5,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 5,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 5,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 5,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 5,1
-Mac Warner,US Senate,,REP,Fayette,Precinct 5,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 5,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 5,10
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 5,9
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 5,37
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 5,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 5,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 5,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 5,10
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 5,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 5,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 5,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 5,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 5,1
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 5,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 5,0
 ,Registered Voters,,,Fayette,Precinct 8,707
 ,Registered Voters,,DEM,Fayette,Precinct 8,538
 ,Registered Voters,,REP,Fayette,Precinct 8,169
@@ -73,20 +73,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 5,0
 ,Ballots Cast,,DEM,Fayette,Precinct 8,61
 ,Ballots Cast,,REP,Fayette,Precinct 8,33
 ,Ballots Cast,,MTN,Fayette,Precinct 8,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 8,17
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 8,9
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 8,35
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 8,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 8,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 8,0
-John R Raese,US Senate,,REP,Fayette,Precinct 8,28
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 8,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 8,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 8,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 8,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 8,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 8,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 8,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 8,17
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 8,9
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 8,35
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 8,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 8,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 8,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 8,28
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 8,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 8,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 8,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 8,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 8,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 8,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 8,0
 ,Registered Voters,,,Fayette,Precinct 9,528
 ,Registered Voters,,DEM,Fayette,Precinct 9,438
 ,Registered Voters,,REP,Fayette,Precinct 9,89
@@ -95,20 +95,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 8,0
 ,Ballots Cast,,DEM,Fayette,Precinct 9,49
 ,Ballots Cast,,REP,Fayette,Precinct 9,14
 ,Ballots Cast,,MTN,Fayette,Precinct 9,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 9,11
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 9,13
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 9,24
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 9,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 9,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 9,0
-John R Raese,US Senate,,REP,Fayette,Precinct 9,12
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 9,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 9,2
-Albert Howard,US Senate,,REP,Fayette,Precinct 9,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 9,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 9,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 9,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 9,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 9,11
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 9,13
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 9,24
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 9,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 9,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 9,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 9,12
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 9,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 9,2
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 9,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 9,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 9,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 9,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 9,0
 ,Registered Voters,,,Fayette,Precinct 10,698
 ,Registered Voters,,DEM,Fayette,Precinct 10,568
 ,Registered Voters,,REP,Fayette,Precinct 10,130
@@ -117,20 +117,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 9,0
 ,Ballots Cast,,DEM,Fayette,Precinct 10,83
 ,Ballots Cast,,REP,Fayette,Precinct 10,21
 ,Ballots Cast,,MTN,Fayette,Precinct 10,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 10,15
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 10,9
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 10,59
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 10,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 10,2
-Frank Kubic,US Senate,,REP,Fayette,Precinct 10,0
-John R Raese,US Senate,,REP,Fayette,Precinct 10,15
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 10,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 10,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 10,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 10,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 10,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 10,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 10,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 10,15
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 10,9
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 10,59
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 10,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 10,2
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 10,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 10,15
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 10,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 10,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 10,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 10,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 10,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 10,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 10,0
 ,Registered Voters,,,Fayette,Precinct 11,675
 ,Registered Voters,,DEM,Fayette,Precinct 11,522
 ,Registered Voters,,REP,Fayette,Precinct 11,153
@@ -139,20 +139,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 10,0
 ,Ballots Cast,,DEM,Fayette,Precinct 11,121
 ,Ballots Cast,,REP,Fayette,Precinct 11,28
 ,Ballots Cast,,MTN,Fayette,Precinct 11,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 11,22
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 11,11
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 11,85
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 11,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 11,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 11,0
-John R Raese,US Senate,,REP,Fayette,Precinct 11,13
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 11,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 11,4
-Albert Howard,US Senate,,REP,Fayette,Precinct 11,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 11,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 11,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 11,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 11,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 11,22
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 11,11
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 11,85
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 11,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 11,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 11,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 11,13
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 11,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 11,4
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 11,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 11,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 11,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 11,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 11,0
 ,Registered Voters,,,Fayette,Precinct 12,831
 ,Registered Voters,,DEM,Fayette,Precinct 12,685
 ,Registered Voters,,REP,Fayette,Precinct 12,146
@@ -161,20 +161,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 11,0
 ,Ballots Cast,,DEM,Fayette,Precinct 12,105
 ,Ballots Cast,,REP,Fayette,Precinct 12,18
 ,Ballots Cast,,MTN,Fayette,Precinct 12,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 12,18
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 12,15
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 12,70
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 12,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 12,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 12,0
-John R Raese,US Senate,,REP,Fayette,Precinct 12,13
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 12,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 12,4
-Albert Howard,US Senate,,REP,Fayette,Precinct 12,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 12,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 12,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 12,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 12,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 12,18
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 12,15
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 12,70
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 12,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 12,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 12,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 12,13
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 12,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 12,4
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 12,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 12,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 12,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 12,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 12,0
 ,Registered Voters,,,Fayette,Precinct 13,614
 ,Registered Voters,,DEM,Fayette,Precinct 13,488
 ,Registered Voters,,REP,Fayette,Precinct 13,125
@@ -183,20 +183,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 12,0
 ,Ballots Cast,,DEM,Fayette,Precinct 13,64
 ,Ballots Cast,,REP,Fayette,Precinct 13,14
 ,Ballots Cast,,MTN,Fayette,Precinct 13,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 13,16
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 13,3
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 13,40
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 13,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 13,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 13,0
-John R Raese,US Senate,,REP,Fayette,Precinct 13,7
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 13,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 13,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 13,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 13,1
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 13,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 13,5
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 13,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 13,16
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 13,3
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 13,40
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 13,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 13,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 13,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 13,7
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 13,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 13,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 13,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 13,1
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 13,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 13,5
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 13,0
 ,Registered Voters,,,Fayette,Precinct 15,709
 ,Registered Voters,,DEM,Fayette,Precinct 15,558
 ,Registered Voters,,REP,Fayette,Precinct 15,151
@@ -205,20 +205,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 13,0
 ,Ballots Cast,,DEM,Fayette,Precinct 15,72
 ,Ballots Cast,,REP,Fayette,Precinct 15,14
 ,Ballots Cast,,MTN,Fayette,Precinct 15,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 15,10
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 15,14
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 15,47
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 15,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 15,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 15,0
-John R Raese,US Senate,,REP,Fayette,Precinct 15,10
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 15,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 15,3
-Albert Howard,US Senate,,REP,Fayette,Precinct 15,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 15,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 15,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 15,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 15,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 15,10
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 15,14
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 15,47
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 15,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 15,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 15,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 15,10
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 15,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 15,3
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 15,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 15,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 15,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 15,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 15,0
 ,Registered Voters,,,Fayette,Precinct 17,445
 ,Registered Voters,,DEM,Fayette,Precinct 17,314
 ,Registered Voters,,REP,Fayette,Precinct 17,130
@@ -227,20 +227,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 15,0
 ,Ballots Cast,,DEM,Fayette,Precinct 17,47
 ,Ballots Cast,,REP,Fayette,Precinct 17,17
 ,Ballots Cast,,MTN,Fayette,Precinct 17,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 17,7
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 17,4
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 17,36
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 17,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 17,2
-Frank Kubic,US Senate,,REP,Fayette,Precinct 17,0
-John R Raese,US Senate,,REP,Fayette,Precinct 17,11
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 17,1
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 17,2
-Albert Howard,US Senate,,REP,Fayette,Precinct 17,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 17,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 17,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 17,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 17,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 17,7
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 17,4
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 17,36
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 17,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 17,2
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 17,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 17,11
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 17,1
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 17,2
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 17,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 17,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 17,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 17,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 17,0
 ,Registered Voters,,,Fayette,Precinct 18,344
 ,Registered Voters,,DEM,Fayette,Precinct 18,255
 ,Registered Voters,,REP,Fayette,Precinct 18,89
@@ -249,20 +249,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 17,0
 ,Ballots Cast,,DEM,Fayette,Precinct 18,38
 ,Ballots Cast,,REP,Fayette,Precinct 18,9
 ,Ballots Cast,,MTN,Fayette,Precinct 18,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 18,3
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 18,3
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 18,32
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 18,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 18,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 18,0
-John R Raese,US Senate,,REP,Fayette,Precinct 18,7
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 18,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 18,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 18,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 18,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 18,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 18,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 18,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 18,3
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 18,3
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 18,32
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 18,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 18,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 18,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 18,7
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 18,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 18,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 18,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 18,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 18,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 18,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 18,0
 ,Registered Voters,,,Fayette,Precinct 19,829
 ,Registered Voters,,DEM,Fayette,Precinct 19,692
 ,Registered Voters,,REP,Fayette,Precinct 19,137
@@ -271,20 +271,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 18,0
 ,Ballots Cast,,DEM,Fayette,Precinct 19,101
 ,Ballots Cast,,REP,Fayette,Precinct 19,22
 ,Ballots Cast,,MTN,Fayette,Precinct 19,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 19,22
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 19,11
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 19,68
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 19,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 19,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 19,0
-John R Raese,US Senate,,REP,Fayette,Precinct 19,16
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 19,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 19,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 19,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 19,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 19,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 19,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 19,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 19,22
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 19,11
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 19,68
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 19,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 19,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 19,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 19,16
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 19,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 19,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 19,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 19,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 19,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 19,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 19,0
 ,Registered Voters,,,Fayette,Precinct 23,571
 ,Registered Voters,,DEM,Fayette,Precinct 23,448
 ,Registered Voters,,REP,Fayette,Precinct 23,122
@@ -293,20 +293,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 19,0
 ,Ballots Cast,,DEM,Fayette,Precinct 23,48
 ,Ballots Cast,,REP,Fayette,Precinct 23,18
 ,Ballots Cast,,MTN,Fayette,Precinct 23,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 23,8
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 23,3
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 23,36
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 23,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 23,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 23,0
-John R Raese,US Senate,,REP,Fayette,Precinct 23,11
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 23,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 23,2
-Albert Howard,US Senate,,REP,Fayette,Precinct 23,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 23,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 23,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 23,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 23,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 23,8
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 23,3
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 23,36
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 23,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 23,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 23,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 23,11
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 23,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 23,2
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 23,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 23,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 23,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 23,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 23,0
 ,Registered Voters,,,Fayette,Precinct 24,372
 ,Registered Voters,,DEM,Fayette,Precinct 24,285
 ,Registered Voters,,REP,Fayette,Precinct 24,86
@@ -315,20 +315,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 23,0
 ,Ballots Cast,,DEM,Fayette,Precinct 24,28
 ,Ballots Cast,,REP,Fayette,Precinct 24,13
 ,Ballots Cast,,MTN,Fayette,Precinct 24,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 24,3
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 24,2
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 24,23
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 24,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 24,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 24,0
-John R Raese,US Senate,,REP,Fayette,Precinct 24,12
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 24,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 24,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 24,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 24,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 24,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 24,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 24,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 24,3
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 24,2
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 24,23
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 24,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 24,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 24,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 24,12
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 24,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 24,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 24,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 24,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 24,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 24,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 24,0
 ,Registered Voters,,,Fayette,Precinct 26,261
 ,Registered Voters,,DEM,Fayette,Precinct 26,237
 ,Registered Voters,,REP,Fayette,Precinct 26,24
@@ -337,20 +337,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 24,0
 ,Ballots Cast,,DEM,Fayette,Precinct 26,57
 ,Ballots Cast,,REP,Fayette,Precinct 26,5
 ,Ballots Cast,,MTN,Fayette,Precinct 26,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 26,14
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 26,2
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 26,41
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 26,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 26,2
-Frank Kubic,US Senate,,REP,Fayette,Precinct 26,0
-John R Raese,US Senate,,REP,Fayette,Precinct 26,2
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 26,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 26,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 26,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 26,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 26,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 26,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 26,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 26,14
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 26,2
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 26,41
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 26,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 26,2
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 26,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 26,2
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 26,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 26,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 26,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 26,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 26,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 26,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 26,0
 ,Registered Voters,,,Fayette,Precinct 28,523
 ,Registered Voters,,DEM,Fayette,Precinct 28,480
 ,Registered Voters,,REP,Fayette,Precinct 28,43
@@ -359,20 +359,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 26,0
 ,Ballots Cast,,DEM,Fayette,Precinct 28,65
 ,Ballots Cast,,REP,Fayette,Precinct 28,7
 ,Ballots Cast,,MTN,Fayette,Precinct 28,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 28,12
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 28,3
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 28,49
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 28,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 28,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 28,0
-John R Raese,US Senate,,REP,Fayette,Precinct 28,6
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 28,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 28,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 28,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 28,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 28,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 28,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 28,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 28,12
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 28,3
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 28,49
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 28,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 28,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 28,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 28,6
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 28,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 28,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 28,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 28,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 28,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 28,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 28,0
 ,Registered Voters,,,Fayette,Precinct 29,561
 ,Registered Voters,,DEM,Fayette,Precinct 29,460
 ,Registered Voters,,REP,Fayette,Precinct 29,101
@@ -381,20 +381,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 28,0
 ,Ballots Cast,,DEM,Fayette,Precinct 29,103
 ,Ballots Cast,,REP,Fayette,Precinct 29,19
 ,Ballots Cast,,MTN,Fayette,Precinct 29,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 29,31
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 29,7
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 29,63
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 29,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 29,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 29,0
-John R Raese,US Senate,,REP,Fayette,Precinct 29,15
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 29,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 29,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 29,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 29,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 29,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 29,2
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 29,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 29,31
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 29,7
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 29,63
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 29,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 29,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 29,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 29,15
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 29,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 29,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 29,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 29,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 29,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 29,2
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 29,0
 ,Registered Voters,,,Fayette,Precinct 31,184
 ,Registered Voters,,DEM,Fayette,Precinct 31,161
 ,Registered Voters,,REP,Fayette,Precinct 31,23
@@ -403,20 +403,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 29,0
 ,Ballots Cast,,DEM,Fayette,Precinct 31,42
 ,Ballots Cast,,REP,Fayette,Precinct 31,5
 ,Ballots Cast,,MTN,Fayette,Precinct 31,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 31,9
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 31,4
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 31,26
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 31,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 31,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 31,0
-John R Raese,US Senate,,REP,Fayette,Precinct 31,0
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 31,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 31,3
-Albert Howard,US Senate,,REP,Fayette,Precinct 31,1
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 31,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 31,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 31,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 31,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 31,9
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 31,4
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 31,26
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 31,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 31,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 31,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 31,0
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 31,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 31,3
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 31,1
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 31,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 31,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 31,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 31,0
 ,Registered Voters,,,Fayette,Precinct 32,227
 ,Registered Voters,,DEM,Fayette,Precinct 32,191
 ,Registered Voters,,REP,Fayette,Precinct 32,36
@@ -425,20 +425,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 31,0
 ,Ballots Cast,,DEM,Fayette,Precinct 32,20
 ,Ballots Cast,,REP,Fayette,Precinct 32,1
 ,Ballots Cast,,MTN,Fayette,Precinct 32,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 32,4
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 32,4
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 32,12
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 32,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 32,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 32,0
-John R Raese,US Senate,,REP,Fayette,Precinct 32,1
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 32,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 32,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 32,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 32,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 32,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 32,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 32,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 32,4
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 32,4
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 32,12
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 32,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 32,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 32,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 32,1
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 32,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 32,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 32,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 32,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 32,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 32,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 32,0
 ,Registered Voters,,,Fayette,Precinct 37,147
 ,Registered Voters,,DEM,Fayette,Precinct 37,308
 ,Registered Voters,,REP,Fayette,Precinct 37,39
@@ -447,20 +447,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 32,0
 ,Ballots Cast,,DEM,Fayette,Precinct 37,74
 ,Ballots Cast,,REP,Fayette,Precinct 37,18
 ,Ballots Cast,,MTN,Fayette,Precinct 37,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 37,13
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 37,8
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 37,53
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 37,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 37,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 37,0
-John R Raese,US Senate,,REP,Fayette,Precinct 37,14
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 37,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 37,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 37,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 37,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 37,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 37,2
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 37,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 37,13
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 37,8
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 37,53
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 37,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 37,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 37,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 37,14
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 37,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 37,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 37,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 37,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 37,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 37,2
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 37,0
 ,Registered Voters,,,Fayette,Precinct 38,431
 ,Registered Voters,,DEM,Fayette,Precinct 38,347
 ,Registered Voters,,REP,Fayette,Precinct 38,82
@@ -469,20 +469,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 37,0
 ,Ballots Cast,,DEM,Fayette,Precinct 38,30
 ,Ballots Cast,,REP,Fayette,Precinct 38,3
 ,Ballots Cast,,MTN,Fayette,Precinct 38,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 38,3
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 38,3
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 38,21
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 38,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 38,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 38,0
-John R Raese,US Senate,,REP,Fayette,Precinct 38,0
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 38,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 38,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 38,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 38,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 38,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 38,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 38,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 38,3
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 38,3
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 38,21
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 38,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 38,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 38,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 38,0
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 38,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 38,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 38,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 38,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 38,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 38,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 38,0
 ,Registered Voters,,,Fayette,Precinct 41,499
 ,Registered Voters,,DEM,Fayette,Precinct 41,413
 ,Registered Voters,,REP,Fayette,Precinct 41,86
@@ -491,20 +491,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 38,0
 ,Ballots Cast,,DEM,Fayette,Precinct 41,47
 ,Ballots Cast,,REP,Fayette,Precinct 41,14
 ,Ballots Cast,,MTN,Fayette,Precinct 41,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 41,10
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 41,8
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 41,29
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 41,2
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 41,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 41,0
-John R Raese,US Senate,,REP,Fayette,Precinct 41,11
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 41,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 41,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 41,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 41,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 41,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 41,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 41,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 41,10
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 41,8
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 41,29
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 41,2
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 41,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 41,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 41,11
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 41,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 41,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 41,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 41,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 41,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 41,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 41,0
 ,Registered Voters,,,Fayette,Precinct 42,237
 ,Registered Voters,,DEM,Fayette,Precinct 42,190
 ,Registered Voters,,REP,Fayette,Precinct 42,47
@@ -513,20 +513,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 41,0
 ,Ballots Cast,,DEM,Fayette,Precinct 42,39
 ,Ballots Cast,,REP,Fayette,Precinct 42,4
 ,Ballots Cast,,MTN,Fayette,Precinct 42,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 42,6
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 42,1
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 42,31
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 42,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 42,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 42,0
-John R Raese,US Senate,,REP,Fayette,Precinct 42,4
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 42,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 42,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 42,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 42,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 42,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 42,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 42,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 42,6
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 42,1
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 42,31
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 42,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 42,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 42,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 42,4
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 42,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 42,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 42,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 42,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 42,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 42,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 42,0
 ,Registered Voters,,,Fayette,Precinct 45,348
 ,Registered Voters,,DEM,Fayette,Precinct 45,317
 ,Registered Voters,,REP,Fayette,Precinct 45,31
@@ -535,20 +535,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 42,0
 ,Ballots Cast,,DEM,Fayette,Precinct 45,45
 ,Ballots Cast,,REP,Fayette,Precinct 45,1
 ,Ballots Cast,,MTN,Fayette,Precinct 45,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 45,7
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 45,5
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 45,33
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 45,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 45,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 45,0
-John R Raese,US Senate,,REP,Fayette,Precinct 45,1
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 45,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 45,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 45,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 45,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 45,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 45,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 45,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 45,7
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 45,5
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 45,33
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 45,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 45,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 45,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 45,1
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 45,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 45,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 45,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 45,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 45,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 45,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 45,0
 ,Registered Voters,,,Fayette,Precinct 46,732
 ,Registered Voters,,DEM,Fayette,Precinct 46,623
 ,Registered Voters,,REP,Fayette,Precinct 46,108
@@ -557,20 +557,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 45,0
 ,Ballots Cast,,DEM,Fayette,Precinct 46,87
 ,Ballots Cast,,REP,Fayette,Precinct 46,10
 ,Ballots Cast,,MTN,Fayette,Precinct 46,2
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 46,9
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 46,5
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 46,72
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 46,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 46,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 46,0
-John R Raese,US Senate,,REP,Fayette,Precinct 46,8
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 46,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 46,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 46,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 46,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 46,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 46,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 46,2
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 46,9
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 46,5
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 46,72
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 46,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 46,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 46,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 46,8
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 46,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 46,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 46,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 46,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 46,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 46,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 46,2
 ,Registered Voters,,,Fayette,Precinct 47,480
 ,Registered Voters,,DEM,Fayette,Precinct 47,413
 ,Registered Voters,,REP,Fayette,Precinct 47,67
@@ -579,20 +579,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 46,2
 ,Ballots Cast,,DEM,Fayette,Precinct 47,64
 ,Ballots Cast,,REP,Fayette,Precinct 47,14
 ,Ballots Cast,,MTN,Fayette,Precinct 47,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 47,25
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 47,3
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 47,34
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 47,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 47,2
-Frank Kubic,US Senate,,REP,Fayette,Precinct 47,0
-John R Raese,US Senate,,REP,Fayette,Precinct 47,6
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 47,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 47,4
-Albert Howard,US Senate,,REP,Fayette,Precinct 47,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 47,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 47,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 47,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 47,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 47,25
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 47,3
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 47,34
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 47,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 47,2
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 47,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 47,6
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 47,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 47,4
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 47,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 47,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 47,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 47,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 47,0
 ,Registered Voters,,,Fayette,Precinct 51,335
 ,Registered Voters,,DEM,Fayette,Precinct 51,262
 ,Registered Voters,,REP,Fayette,Precinct 51,73
@@ -601,20 +601,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 47,0
 ,Ballots Cast,,DEM,Fayette,Precinct 51,37
 ,Ballots Cast,,REP,Fayette,Precinct 51,9
 ,Ballots Cast,,MTN,Fayette,Precinct 51,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 51,10
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 51,5
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 51,21
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 51,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 51,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 51,0
-John R Raese,US Senate,,REP,Fayette,Precinct 51,7
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 51,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 51,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 51,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 51,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 51,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 51,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 51,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 51,10
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 51,5
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 51,21
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 51,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 51,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 51,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 51,7
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 51,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 51,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 51,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 51,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 51,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 51,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 51,0
 ,Registered Voters,,,Fayette,Precinct 52,713
 ,Registered Voters,,DEM,Fayette,Precinct 52,548
 ,Registered Voters,,REP,Fayette,Precinct 52,164
@@ -623,20 +623,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 51,0
 ,Ballots Cast,,DEM,Fayette,Precinct 52,120
 ,Ballots Cast,,REP,Fayette,Precinct 52,23
 ,Ballots Cast,,MTN,Fayette,Precinct 52,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 52,39
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 52,11
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 52,70
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 52,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 52,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 52,0
-John R Raese,US Senate,,REP,Fayette,Precinct 52,16
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 52,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 52,2
-Albert Howard,US Senate,,REP,Fayette,Precinct 52,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 52,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 52,2
-Mac Warner,US Senate,,REP,Fayette,Precinct 52,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 52,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 52,39
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 52,11
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 52,70
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 52,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 52,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 52,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 52,16
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 52,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 52,2
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 52,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 52,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 52,2
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 52,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 52,0
 ,Registered Voters,,,Fayette,Precinct 55,931
 ,Registered Voters,,DEM,Fayette,Precinct 55,727
 ,Registered Voters,,REP,Fayette,Precinct 55,204
@@ -645,20 +645,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 52,0
 ,Ballots Cast,,DEM,Fayette,Precinct 55,142
 ,Ballots Cast,,REP,Fayette,Precinct 55,32
 ,Ballots Cast,,MTN,Fayette,Precinct 55,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 55,29
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 55,20
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 55,93
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 55,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 55,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 55,1
-John R Raese,US Senate,,REP,Fayette,Precinct 55,23
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 55,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 55,4
-Albert Howard,US Senate,,REP,Fayette,Precinct 55,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 55,1
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 55,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 55,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 55,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 55,29
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 55,20
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 55,93
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 55,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 55,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 55,1
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 55,23
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 55,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 55,4
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 55,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 55,1
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 55,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 55,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 55,0
 ,Registered Voters,,,Fayette,Precinct 56,785
 ,Registered Voters,,DEM,Fayette,Precinct 56,632
 ,Registered Voters,,REP,Fayette,Precinct 56,152
@@ -667,20 +667,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 55,0
 ,Ballots Cast,,DEM,Fayette,Precinct 56,120
 ,Ballots Cast,,REP,Fayette,Precinct 56,42
 ,Ballots Cast,,MTN,Fayette,Precinct 56,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 56,22
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 56,10
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 56,88
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 56,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 56,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 56,0
-John R Raese,US Senate,,REP,Fayette,Precinct 56,32
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 56,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 56,4
-Albert Howard,US Senate,,REP,Fayette,Precinct 56,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 56,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 56,3
-Mac Warner,US Senate,,REP,Fayette,Precinct 56,2
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 56,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 56,22
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 56,10
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 56,88
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 56,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 56,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 56,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 56,32
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 56,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 56,4
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 56,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 56,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 56,3
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 56,2
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 56,0
 ,Registered Voters,,,Fayette,Precinct 58,757
 ,Registered Voters,,DEM,Fayette,Precinct 58,493
 ,Registered Voters,,REP,Fayette,Precinct 58,262
@@ -689,20 +689,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 56,0
 ,Ballots Cast,,DEM,Fayette,Precinct 58,65
 ,Ballots Cast,,REP,Fayette,Precinct 58,26
 ,Ballots Cast,,MTN,Fayette,Precinct 58,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 58,19
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 58,8
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 58,35
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 58,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 58,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 58,0
-John R Raese,US Senate,,REP,Fayette,Precinct 58,13
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 58,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 58,8
-Albert Howard,US Senate,,REP,Fayette,Precinct 58,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 58,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 58,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 58,5
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 58,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 58,19
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 58,8
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 58,35
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 58,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 58,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 58,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 58,13
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 58,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 58,8
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 58,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 58,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 58,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 58,5
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 58,0
 ,Registered Voters,,,Fayette,Precinct 59,549
 ,Registered Voters,,DEM,Fayette,Precinct 59,411
 ,Registered Voters,,REP,Fayette,Precinct 59,137
@@ -711,20 +711,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 58,0
 ,Ballots Cast,,DEM,Fayette,Precinct 59,83
 ,Ballots Cast,,REP,Fayette,Precinct 59,11
 ,Ballots Cast,,MTN,Fayette,Precinct 59,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 59,23
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 59,12
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 59,44
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 59,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 59,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 59,0
-John R Raese,US Senate,,REP,Fayette,Precinct 59,10
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 59,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 59,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 59,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 59,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 59,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 59,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 59,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 59,23
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 59,12
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 59,44
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 59,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 59,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 59,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 59,10
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 59,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 59,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 59,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 59,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 59,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 59,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 59,0
 ,Registered Voters,,,Fayette,Precinct 60,810
 ,Registered Voters,,DEM,Fayette,Precinct 60,588
 ,Registered Voters,,REP,Fayette,Precinct 60,219
@@ -733,20 +733,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 59,0
 ,Ballots Cast,,DEM,Fayette,Precinct 60,94
 ,Ballots Cast,,REP,Fayette,Precinct 60,19
 ,Ballots Cast,,MTN,Fayette,Precinct 60,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 60,24
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 60,10
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 60,58
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 60,2
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 60,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 60,0
-John R Raese,US Senate,,REP,Fayette,Precinct 60,9
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 60,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 60,3
-Albert Howard,US Senate,,REP,Fayette,Precinct 60,1
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 60,1
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 60,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 60,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 60,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 60,24
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 60,10
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 60,58
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 60,2
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 60,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 60,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 60,9
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 60,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 60,3
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 60,1
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 60,1
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 60,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 60,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 60,0
 ,Registered Voters,,,Fayette,Precinct 65,268
 ,Registered Voters,,DEM,Fayette,Precinct 65,205
 ,Registered Voters,,REP,Fayette,Precinct 65,63
@@ -755,20 +755,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 60,0
 ,Ballots Cast,,DEM,Fayette,Precinct 65,32
 ,Ballots Cast,,REP,Fayette,Precinct 65,9
 ,Ballots Cast,,MTN,Fayette,Precinct 65,1
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 65,12
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 65,2
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 65,18
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 65,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 65,0
-Frank Kubic,US Senate,,REP,Fayette,Precinct 65,0
-John R Raese,US Senate,,REP,Fayette,Precinct 65,5
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 65,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 65,3
-Albert Howard,US Senate,,REP,Fayette,Precinct 65,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 65,1
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 65,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 65,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 65,1
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 65,12
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 65,2
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 65,18
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 65,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 65,0
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 65,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 65,5
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 65,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 65,3
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 65,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 65,1
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 65,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 65,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 65,1
 ,Registered Voters,,,Fayette,Precinct 67,494
 ,Registered Voters,,DEM,Fayette,Precinct 67,371
 ,Registered Voters,,REP,Fayette,Precinct 67,123
@@ -777,20 +777,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 65,1
 ,Ballots Cast,,DEM,Fayette,Precinct 67,51
 ,Ballots Cast,,REP,Fayette,Precinct 67,18
 ,Ballots Cast,,MTN,Fayette,Precinct 67,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 67,8
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 67,0
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 67,42
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 67,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 67,3
-Frank Kubic,US Senate,,REP,Fayette,Precinct 67,0
-John R Raese,US Senate,,REP,Fayette,Precinct 67,11
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 67,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 67,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 67,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 67,1
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 67,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 67,1
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 67,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 67,8
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 67,0
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 67,42
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 67,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 67,3
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 67,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 67,11
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 67,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 67,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 67,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 67,1
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 67,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 67,1
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 67,0
 ,Registered Voters,,,Fayette,Precinct 68,690
 ,Registered Voters,,DEM,Fayette,Precinct 68,488
 ,Registered Voters,,REP,Fayette,Precinct 68,200
@@ -799,20 +799,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 67,0
 ,Ballots Cast,,DEM,Fayette,Precinct 68,62
 ,Ballots Cast,,REP,Fayette,Precinct 68,25
 ,Ballots Cast,,MTN,Fayette,Precinct 68,2
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 68,6
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 68,8
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 68,47
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 68,1
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 68,3
-Frank Kubic,US Senate,,REP,Fayette,Precinct 68,0
-John R Raese,US Senate,,REP,Fayette,Precinct 68,18
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 68,2
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 68,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 68,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 68,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 68,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 68,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 68,2
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 68,6
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 68,8
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 68,47
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 68,1
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 68,3
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 68,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 68,18
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 68,2
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 68,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 68,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 68,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 68,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 68,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 68,2
 ,Registered Voters,,,Fayette,Precinct 72,806
 ,Registered Voters,,DEM,Fayette,Precinct 72,595
 ,Registered Voters,,REP,Fayette,Precinct 72,205
@@ -821,20 +821,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 68,2
 ,Ballots Cast,,DEM,Fayette,Precinct 72,64
 ,Ballots Cast,,REP,Fayette,Precinct 72,20
 ,Ballots Cast,,MTN,Fayette,Precinct 72,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 72,7
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 72,10
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 72,46
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 72,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 72,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 72,0
-John R Raese,US Senate,,REP,Fayette,Precinct 72,18
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 72,0
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 72,1
-Albert Howard,US Senate,,REP,Fayette,Precinct 72,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 72,0
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 72,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 72,0
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 72,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 72,7
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 72,10
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 72,46
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 72,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 72,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 72,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 72,18
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 72,0
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 72,1
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 72,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 72,0
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 72,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 72,0
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 72,0
 ,Registered Voters,,,Fayette,Precinct 74,481
 ,Registered Voters,,DEM,Fayette,Precinct 74,312
 ,Registered Voters,,REP,Fayette,Precinct 74,169
@@ -843,20 +843,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 72,0
 ,Ballots Cast,,DEM,Fayette,Precinct 74,68
 ,Ballots Cast,,REP,Fayette,Precinct 74,23
 ,Ballots Cast,,MTN,Fayette,Precinct 74,0
-Ken Hechler,US Senate,,DEM,Fayette,Precinct 74,5
-Sheirl Fletcher,US Senate,,DEM,Fayette,Precinct 74,8
-"Joe Manchin, III",US Senate,,DEM,Fayette,Precinct 74,55
-Thomas Ressler,US Senate,,REP,Fayette,Precinct 74,0
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,Precinct 74,1
-Frank Kubic,US Senate,,REP,Fayette,Precinct 74,0
-John R Raese,US Senate,,REP,Fayette,Precinct 74,17
-Daniel Rebich,US Senate,,REP,Fayette,Precinct 74,1
-Kenneth A. Culp,US Senate,,REP,Fayette,Precinct 74,0
-Albert Howard,US Senate,,REP,Fayette,Precinct 74,0
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,Precinct 74,1
-Scott H. Williams,US Senate,,REP,Fayette,Precinct 74,0
-Mac Warner,US Senate,,REP,Fayette,Precinct 74,3
-Jesse Johnson,US Senate,,MTN,Fayette,Precinct 74,0
+Ken Hechler,U.S. Senate,,DEM,Fayette,Precinct 74,5
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,Precinct 74,8
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,Precinct 74,55
+Thomas Ressler,U.S. Senate,,REP,Fayette,Precinct 74,0
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,Precinct 74,1
+Frank Kubic,U.S. Senate,,REP,Fayette,Precinct 74,0
+John R Raese,U.S. Senate,,REP,Fayette,Precinct 74,17
+Daniel Rebich,U.S. Senate,,REP,Fayette,Precinct 74,1
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,Precinct 74,0
+Albert Howard,U.S. Senate,,REP,Fayette,Precinct 74,0
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,Precinct 74,1
+Scott H. Williams,U.S. Senate,,REP,Fayette,Precinct 74,0
+Mac Warner,U.S. Senate,,REP,Fayette,Precinct 74,3
+Jesse Johnson,U.S. Senate,,MTN,Fayette,Precinct 74,0
 ,Registered Voters,,,Fayette,TOTALS,22011
 ,Registered Voters,,DEM,Fayette,TOTALS,17362
 ,Registered Voters,,REP,Fayette,TOTALS,4625
@@ -865,20 +865,20 @@ Jesse Johnson,US Senate,,MTN,Fayette,Precinct 74,0
 ,Ballots Cast,,DEM,Fayette,TOTALS,2656
 ,Ballots Cast,,REP,Fayette,TOTALS,644
 ,Ballots Cast,,MTN,Fayette,TOTALS,5
-Ken Hechler,US Senate,,DEM,Fayette,TOTALS,542
-Sheirl Fletcher,US Senate,,DEM,Fayette,TOTALS,284
-"Joe Manchin, III",US Senate,,DEM,Fayette,TOTALS,1790
-Thomas Ressler,US Senate,,REP,Fayette,TOTALS,11
-"Harry C. Bruner. Jr,",US Senate,,REP,Fayette,TOTALS,26
-Frank Kubic,US Senate,,REP,Fayette,TOTALS,1
-John R Raese,US Senate,,REP,Fayette,TOTALS,465
-Daniel Rebich,US Senate,,REP,Fayette,TOTALS,5
-Kenneth A. Culp,US Senate,,REP,Fayette,TOTALS,60
-Albert Howard,US Senate,,REP,Fayette,TOTALS,2
-Lynette Kennedy McQuain,US Senate,,REP,Fayette,TOTALS,6
-Scott H. Williams,US Senate,,REP,Fayette,TOTALS,8
-Mac Warner,US Senate,,REP,Fayette,TOTALS,57
-Jesse Johnson,US Senate,,MTN,Fayette,TOTALS,5
+Ken Hechler,U.S. Senate,,DEM,Fayette,TOTALS,542
+Sheirl Fletcher,U.S. Senate,,DEM,Fayette,TOTALS,284
+"Joe Manchin, III",U.S. Senate,,DEM,Fayette,TOTALS,1790
+Thomas Ressler,U.S. Senate,,REP,Fayette,TOTALS,11
+"Harry C. Bruner. Jr,",U.S. Senate,,REP,Fayette,TOTALS,26
+Frank Kubic,U.S. Senate,,REP,Fayette,TOTALS,1
+John R Raese,U.S. Senate,,REP,Fayette,TOTALS,465
+Daniel Rebich,U.S. Senate,,REP,Fayette,TOTALS,5
+Kenneth A. Culp,U.S. Senate,,REP,Fayette,TOTALS,60
+Albert Howard,U.S. Senate,,REP,Fayette,TOTALS,2
+Lynette Kennedy McQuain,U.S. Senate,,REP,Fayette,TOTALS,6
+Scott H. Williams,U.S. Senate,,REP,Fayette,TOTALS,8
+Mac Warner,U.S. Senate,,REP,Fayette,TOTALS,57
+Jesse Johnson,U.S. Senate,,MTN,Fayette,TOTALS,5
 ,,,,,,
 ,,,,,,
 ,,,,,,

@@ -7,11 +7,11 @@ candidate,office,district,party,county,precinct,total votes
 ,Ballots Cast,,REP,Hampshire,Precinct 2,65
 Keith Judd,President ,,DEM,Hampshire,Precinct 2,20
 Barack Obama,President ,,DEM,Hampshire,Precinct 2,21
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 2,54
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 2,6
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 2,29
-Howard Swint,US House,2,DEM,Hampshire,Precinct 2,2
-William McCann,US House,2,DEM,Hampshire,Precinct 2,22
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 2,54
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 2,6
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 2,29
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 2,2
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 2,22
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 2,54
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 2,6
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 2,47
@@ -29,10 +29,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 2,7
 Newt Gingrich,President ,,REP,Hampshire,Precinct 2,2
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 2,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 2,51
-John R. Raese,US Senate,,REP,Hampshire,Precinct 2,55
-Michael Davis,US House,2,REP,Hampshire,Precinct 2,9
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 2,9
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 2,46
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 2,55
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 2,9
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 2,9
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 2,46
 Bill Maloney,Governor,,REP,Hampshire,Precinct 2,49
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 2,8
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 2,48
@@ -52,11 +52,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 2,52
 ,Ballots Cast,,REP,Hampshire,Precinct 4,107
 Keith Judd,President ,,DEM,Hampshire,Precinct 4,40
 Barack Obama,President ,,DEM,Hampshire,Precinct 4,61
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 4,94
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 4,17
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 4,47
-Howard Swint,US House,2,DEM,Hampshire,Precinct 4,6
-William McCann,US House,2,DEM,Hampshire,Precinct 4,37
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 4,94
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 4,17
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 4,47
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 4,6
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 4,37
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 4,90
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 4,19
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 4,90
@@ -74,10 +74,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 4,9
 Newt Gingrich,President ,,REP,Hampshire,Precinct 4,7
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 4,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 4,73
-John R. Raese,US Senate,,REP,Hampshire,Precinct 4,86
-Michael Davis,US House,2,REP,Hampshire,Precinct 4,4
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 4,23
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 4,76
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 4,86
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 4,4
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 4,23
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 4,76
 Bill Maloney,Governor,,REP,Hampshire,Precinct 4,67
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 4,27
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 4,78
@@ -97,11 +97,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 4,81
 ,Ballots Cast,,REP,Hampshire,Precinct 5,30
 Keith Judd,President ,,DEM,Hampshire,Precinct 5,4
 Barack Obama,President ,,DEM,Hampshire,Precinct 5,8
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 5,6
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 5,6
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 5,8
-Howard Swint,US House,2,DEM,Hampshire,Precinct 5,1
-William McCann,US House,2,DEM,Hampshire,Precinct 5,3
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 5,6
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 5,6
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 5,8
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 5,1
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 5,3
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 5,9
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 5,3
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 5,10
@@ -119,10 +119,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 5,4
 Newt Gingrich,President ,,REP,Hampshire,Precinct 5,2
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 5,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 5,20
-John R. Raese,US Senate,,REP,Hampshire,Precinct 5,24
-Michael Davis,US House,2,REP,Hampshire,Precinct 5,2
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 5,7
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 5,19
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 5,24
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 5,2
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 5,7
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 5,19
 Bill Maloney,Governor,,REP,Hampshire,Precinct 5,17
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 5,7
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 5,22
@@ -142,11 +142,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 5,24
 ,Ballots Cast,,REP,Hampshire,Precinct 6,96
 Keith Judd,President ,,DEM,Hampshire,Precinct 6,30
 Barack Obama,President ,,DEM,Hampshire,Precinct 6,27
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 6,54
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 6,20
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 6,29
-Howard Swint,US House,2,DEM,Hampshire,Precinct 6,7
-William McCann,US House,2,DEM,Hampshire,Precinct 6,27
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 6,54
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 6,20
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 6,29
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 6,7
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 6,27
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 6,60
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 6,15
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 6,50
@@ -164,10 +164,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 6,12
 Newt Gingrich,President ,,REP,Hampshire,Precinct 6,4
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 6,2
 Mitt Romney,President ,,REP,Hampshire,Precinct 6,63
-John R. Raese,US Senate,,REP,Hampshire,Precinct 6,77
-Michael Davis,US House,2,REP,Hampshire,Precinct 6,5
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 6,20
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 6,69
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 6,77
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 6,5
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 6,20
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 6,69
 Bill Maloney,Governor,,REP,Hampshire,Precinct 6,55
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 6,31
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 6,73
@@ -187,11 +187,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 6,76
 ,Ballots Cast,,REP,Hampshire,Precinct 7,103
 Keith Judd,President ,,DEM,Hampshire,Precinct 7,28
 Barack Obama,President ,,DEM,Hampshire,Precinct 7,46
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 7,69
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 7,21
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 7,42
-Howard Swint,US House,2,DEM,Hampshire,Precinct 7,7
-William McCann,US House,2,DEM,Hampshire,Precinct 7,28
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 7,69
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 7,21
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 7,42
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 7,7
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 7,28
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 7,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 7,11
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 7,77
@@ -209,10 +209,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 7,7
 Newt Gingrich,President ,,REP,Hampshire,Precinct 7,10
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 7,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 7,70
-John R. Raese,US Senate,,REP,Hampshire,Precinct 7,78
-Michael Davis,US House,2,REP,Hampshire,Precinct 7,1
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 7,26
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 7,75
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 7,78
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 7,1
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 7,26
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 7,75
 Bill Maloney,Governor,,REP,Hampshire,Precinct 7,65
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 7,28
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 7,75
@@ -232,11 +232,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 7,81
 ,Ballots Cast,,REP,Hampshire,Precinct 8,71
 Keith Judd,President ,,DEM,Hampshire,Precinct 8,17
 Barack Obama,President ,,DEM,Hampshire,Precinct 8,22
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 8,35
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 8,11
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 8,24
-Howard Swint,US House,2,DEM,Hampshire,Precinct 8,6
-William McCann,US House,2,DEM,Hampshire,Precinct 8,12
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 8,35
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 8,11
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 8,24
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 8,6
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 8,12
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 8,35
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 8,9
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 8,37
@@ -254,10 +254,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 8,9
 Newt Gingrich,President ,,REP,Hampshire,Precinct 8,6
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 8,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 8,47
-John R. Raese,US Senate,,REP,Hampshire,Precinct 8,57
-Michael Davis,US House,2,REP,Hampshire,Precinct 8,2
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 8,15
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 8,51
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 8,57
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 8,2
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 8,15
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 8,51
 Bill Maloney,Governor,,REP,Hampshire,Precinct 8,49
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 8,13
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 8,51
@@ -277,11 +277,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 8,
 ,Ballots Cast,,REP,Hampshire,Precinct 9,32
 Keith Judd,President ,,DEM,Hampshire,Precinct 9,15
 Barack Obama,President ,,DEM,Hampshire,Precinct 9,19
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 9,35
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 9,7
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 9,16
-Howard Swint,US House,2,DEM,Hampshire,Precinct 9,4
-William McCann,US House,2,DEM,Hampshire,Precinct 9,10
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 9,35
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 9,7
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 9,16
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 9,4
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 9,10
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 9,32
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 9,8
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 9,31
@@ -299,10 +299,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 9,0
 Newt Gingrich,President ,,REP,Hampshire,Precinct 9,1
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 9,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 9,30
-John R. Raese,US Senate,,REP,Hampshire,Precinct 9,21
-Michael Davis,US House,2,REP,Hampshire,Precinct 9,3
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 9,10
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 9,18
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 9,21
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 9,3
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 9,10
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 9,18
 Bill Maloney,Governor,,REP,Hampshire,Precinct 9,22
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 9,8
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 9,23
@@ -322,11 +322,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 9,
 ,Ballots Cast,,REP,Hampshire,Precinct 10,81
 Keith Judd,President ,,DEM,Hampshire,Precinct 10,37
 Barack Obama,President ,,DEM,Hampshire,Precinct 10,34
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 10,71
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 10,14
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 10,33
-Howard Swint,US House,2,DEM,Hampshire,Precinct 10,6
-William McCann,US House,2,DEM,Hampshire,Precinct 10,37
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 10,71
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 10,14
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 10,33
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 10,6
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 10,37
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 10,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 10,12
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 10,69
@@ -344,10 +344,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 10,14
 Newt Gingrich,President ,,REP,Hampshire,Precinct 10,5
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 10,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 10,54
-John R. Raese,US Senate,,REP,Hampshire,Precinct 10,66
-Michael Davis,US House,2,REP,Hampshire,Precinct 10,5
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 10,13
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 10,58
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 10,66
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 10,5
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 10,13
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 10,58
 Bill Maloney,Governor,,REP,Hampshire,Precinct 10,62
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 10,9
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 10,57
@@ -367,11 +367,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 10,
 ,Ballots Cast,,REP,Hampshire,Precinct 11,128
 Keith Judd,President ,,DEM,Hampshire,Precinct 11,32
 Barack Obama,President ,,DEM,Hampshire,Precinct 11,34
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 11,63
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 11,14
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 11,33
-Howard Swint,US House,2,DEM,Hampshire,Precinct 11,4
-William McCann,US House,2,DEM,Hampshire,Precinct 11,26
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 11,63
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 11,14
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 11,33
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 11,4
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 11,26
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 11,54
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 11,21
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 11,63
@@ -389,10 +389,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 11,15
 Newt Gingrich,President ,,REP,Hampshire,Precinct 11,6
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 11,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 11,89
-John R. Raese,US Senate,,REP,Hampshire,Precinct 11,114
-Michael Davis,US House,2,REP,Hampshire,Precinct 11,10
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 11,22
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 11,92
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 11,114
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 11,10
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 11,22
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 11,92
 Bill Maloney,Governor,,REP,Hampshire,Precinct 11,84
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 11,36
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 11,106
@@ -412,11 +412,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 11,
 ,Ballots Cast,,REP,Hampshire,Precinct 12,99
 Keith Judd,President ,,DEM,Hampshire,Precinct 12,58
 Barack Obama,President ,,DEM,Hampshire,Precinct 12,49
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 12,98
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 12,25
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 12,52
-Howard Swint,US House,2,DEM,Hampshire,Precinct 12,7
-William McCann,US House,2,DEM,Hampshire,Precinct 12,48
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 12,98
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 12,25
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 12,52
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 12,7
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 12,48
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 12,103
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 12,18
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 12,96
@@ -434,10 +434,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 12,11
 Newt Gingrich,President ,,REP,Hampshire,Precinct 12,5
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 12,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 12,73
-John R. Raese,US Senate,,REP,Hampshire,Precinct 12,80
-Michael Davis,US House,2,REP,Hampshire,Precinct 12,9
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 12,12
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 12,71
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 12,80
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 12,9
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 12,12
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 12,71
 Bill Maloney,Governor,,REP,Hampshire,Precinct 12,69
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 12,12
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 12,67
@@ -457,11 +457,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 12,
 ,Ballots Cast,,REP,Hampshire,Precinct 14,29
 Keith Judd,President ,,DEM,Hampshire,Precinct 14,29
 Barack Obama,President ,,DEM,Hampshire,Precinct 14,52
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 14,71
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 14,11
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 14,41
-Howard Swint,US House,2,DEM,Hampshire,Precinct 14,2
-William McCann,US House,2,DEM,Hampshire,Precinct 14,32
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 14,71
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 14,11
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 14,41
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 14,2
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 14,32
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 14,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 14,7
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 14,65
@@ -479,10 +479,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 14,2
 Newt Gingrich,President ,,REP,Hampshire,Precinct 14,2
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 14,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 14,22
-John R. Raese,US Senate,,REP,Hampshire,Precinct 14,26
-Michael Davis,US House,2,REP,Hampshire,Precinct 14,2
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 14,5
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 14,21
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 14,26
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 14,2
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 14,5
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 14,21
 Bill Maloney,Governor,,REP,Hampshire,Precinct 14,21
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 14,7
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 14,21
@@ -502,11 +502,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 14,
 ,Ballots Cast,,REP,Hampshire,Precinct 15,113
 Keith Judd,President ,,DEM,Hampshire,Precinct 15,44
 Barack Obama,President ,,DEM,Hampshire,Precinct 15,23
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 15,68
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 15,12
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 15,30
-Howard Swint,US House,2,DEM,Hampshire,Precinct 15,3
-William McCann,US House,2,DEM,Hampshire,Precinct 15,33
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 15,68
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 15,12
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 15,30
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 15,3
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 15,33
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 15,68
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 15,9
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 15,57
@@ -524,10 +524,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 15,17
 Newt Gingrich,President ,,REP,Hampshire,Precinct 15,7
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 15,3
 Mitt Romney,President ,,REP,Hampshire,Precinct 15,69
-John R. Raese,US Senate,,REP,Hampshire,Precinct 15,89
-Michael Davis,US House,2,REP,Hampshire,Precinct 15,15
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 15,13
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 15,83
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 15,89
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 15,15
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 15,13
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 15,83
 Bill Maloney,Governor,,REP,Hampshire,Precinct 15,78
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 15,21
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 15,79
@@ -547,11 +547,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 15,
 ,Ballots Cast,,REP,Hampshire,Precinct 16,71
 Keith Judd,President ,,DEM,Hampshire,Precinct 16,34
 Barack Obama,President ,,DEM,Hampshire,Precinct 16,49
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 16,91
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 16,14
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 16,47
-Howard Swint,US House,2,DEM,Hampshire,Precinct 16,5
-William McCann,US House,2,DEM,Hampshire,Precinct 16,34
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 16,91
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 16,14
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 16,47
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 16,5
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 16,34
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 16,86
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 16,15
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 16,86
@@ -569,10 +569,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 16,6
 Newt Gingrich,President ,,REP,Hampshire,Precinct 16,6
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 16,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 16,50
-John R. Raese,US Senate,,REP,Hampshire,Precinct 16,47
-Michael Davis,US House,2,REP,Hampshire,Precinct 16,6
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 16,14
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 16,47
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 16,47
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 16,6
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 16,14
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 16,47
 Bill Maloney,Governor,,REP,Hampshire,Precinct 16,47
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 16,13
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 16,48
@@ -592,11 +592,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 16,
 ,Ballots Cast,,REP,Hampshire,Precinct 17,84
 Keith Judd,President ,,DEM,Hampshire,Precinct 17,37
 Barack Obama,President ,,DEM,Hampshire,Precinct 17,55
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 17,98
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 17,10
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 17,56
-Howard Swint,US House,2,DEM,Hampshire,Precinct 17,4
-William McCann,US House,2,DEM,Hampshire,Precinct 17,32
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 17,98
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 17,10
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 17,56
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 17,4
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 17,32
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 17,88
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 17,15
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 17,96
@@ -614,10 +614,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 17,11
 Newt Gingrich,President ,,REP,Hampshire,Precinct 17,6
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 17,2
 Mitt Romney,President ,,REP,Hampshire,Precinct 17,54
-John R. Raese,US Senate,,REP,Hampshire,Precinct 17,68
-Michael Davis,US House,2,REP,Hampshire,Precinct 17,10
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 17,14
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 17,54
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 17,68
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 17,10
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 17,14
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 17,54
 Bill Maloney,Governor,,REP,Hampshire,Precinct 17,63
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 17,13
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 17,60
@@ -637,11 +637,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 17,
 ,Ballots Cast,,REP,Hampshire,Precinct 18,101
 Keith Judd,President ,,DEM,Hampshire,Precinct 18,52
 Barack Obama,President ,,DEM,Hampshire,Precinct 18,59
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 18,125
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 18,17
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 18,50
-Howard Swint,US House,2,DEM,Hampshire,Precinct 18,7
-William McCann,US House,2,DEM,Hampshire,Precinct 18,56
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 18,125
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 18,17
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 18,50
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 18,7
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 18,56
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 18,111
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 18,20
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 18,116
@@ -659,10 +659,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 18,14
 Newt Gingrich,President ,,REP,Hampshire,Precinct 18,7
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 18,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 18,62
-John R. Raese,US Senate,,REP,Hampshire,Precinct 18,78
-Michael Davis,US House,2,REP,Hampshire,Precinct 18,6
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 18,10
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 18,76
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 18,78
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 18,6
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 18,10
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 18,76
 Bill Maloney,Governor,,REP,Hampshire,Precinct 18,64
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 18,18
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 18,70
@@ -682,11 +682,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 18,
 ,Ballots Cast,,REP,Hampshire,Precinct 19,58
 Keith Judd,President ,,DEM,Hampshire,Precinct 19,31
 Barack Obama,President ,,DEM,Hampshire,Precinct 19,37
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 19,74
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 19,7
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 19,36
-Howard Swint,US House,2,DEM,Hampshire,Precinct 19,7
-William McCann,US House,2,DEM,Hampshire,Precinct 19,24
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 19,74
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 19,7
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 19,36
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 19,7
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 19,24
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 19,65
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 19,14
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 19,69
@@ -704,10 +704,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 19,9
 Newt Gingrich,President ,,REP,Hampshire,Precinct 19,2
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 19,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 19,42
-John R. Raese,US Senate,,REP,Hampshire,Precinct 19,44
-Michael Davis,US House,2,REP,Hampshire,Precinct 19,2
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 19,12
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 19,43
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 19,44
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 19,2
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 19,12
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 19,43
 Bill Maloney,Governor,,REP,Hampshire,Precinct 19,46
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 19,7
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 19,41
@@ -727,11 +727,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 19,
 ,Ballots Cast,,REP,Hampshire,Precinct 20,34
 Keith Judd,President ,,DEM,Hampshire,Precinct 20,28
 Barack Obama,President ,,DEM,Hampshire,Precinct 20,40
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 20,64
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 20,12
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 20,31
-Howard Swint,US House,2,DEM,Hampshire,Precinct 20,8
-William McCann,US House,2,DEM,Hampshire,Precinct 20,25
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 20,64
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 20,12
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 20,31
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 20,8
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 20,25
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 20,59
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 20,14
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 20,60
@@ -749,10 +749,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 20,6
 Newt Gingrich,President ,,REP,Hampshire,Precinct 20,1
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 20,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 20,24
-John R. Raese,US Senate,,REP,Hampshire,Precinct 20,22
-Michael Davis,US House,2,REP,Hampshire,Precinct 20,1
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 20,6
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 20,25
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 20,22
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 20,1
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 20,6
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 20,25
 Bill Maloney,Governor,,REP,Hampshire,Precinct 20,25
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 20,3
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 20,23
@@ -772,11 +772,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 20,
 ,Ballots Cast,,REP,Hampshire,Precinct 21,101
 Keith Judd,President ,,DEM,Hampshire,Precinct 21,34
 Barack Obama,President ,,DEM,Hampshire,Precinct 21,34
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 21,60
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 21,19
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 21,28
-Howard Swint,US House,2,DEM,Hampshire,Precinct 21,9
-William McCann,US House,2,DEM,Hampshire,Precinct 21,31
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 21,60
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 21,19
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 21,28
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 21,9
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 21,31
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 21,64
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 21,6
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 21,63
@@ -794,10 +794,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 21,14
 Newt Gingrich,President ,,REP,Hampshire,Precinct 21,4
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 21,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 21,78
-John R. Raese,US Senate,,REP,Hampshire,Precinct 21,81
-Michael Davis,US House,2,REP,Hampshire,Precinct 21,9
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 21,16
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 21,71
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 21,81
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 21,9
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 21,16
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 21,71
 Bill Maloney,Governor,,REP,Hampshire,Precinct 21,69
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 21,19
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 21,77
@@ -817,11 +817,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 21,77
 ,Ballots Cast,,REP,Hampshire,Precinct 22,61
 Keith Judd,President ,,DEM,Hampshire,Precinct 22,32
 Barack Obama,President ,,DEM,Hampshire,Precinct 22,33
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 22,69
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 22,20
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 22,38
-Howard Swint,US House,2,DEM,Hampshire,Precinct 22,5
-William McCann,US House,2,DEM,Hampshire,Precinct 22,26
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 22,69
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 22,20
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 22,38
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 22,5
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 22,26
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 22,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 22,14
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 22,75
@@ -839,10 +839,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 22,11
 Newt Gingrich,President ,,REP,Hampshire,Precinct 22,3
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 22,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 22,38
-John R. Raese,US Senate,,REP,Hampshire,Precinct 22,48
-Michael Davis,US House,2,REP,Hampshire,Precinct 22,7
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 22,11
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 22,36
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 22,48
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 22,7
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 22,11
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 22,36
 Bill Maloney,Governor,,REP,Hampshire,Precinct 22,38
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 22,14
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 22,43
@@ -862,11 +862,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 22,
 ,Ballots Cast,,REP,Hampshire,Precinct 23,60
 Keith Judd,President ,,DEM,Hampshire,Precinct 23,51
 Barack Obama,President ,,DEM,Hampshire,Precinct 23,38
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 23,88
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 23,18
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 23,48
-Howard Swint,US House,2,DEM,Hampshire,Precinct 23,6
-William McCann,US House,2,DEM,Hampshire,Precinct 23,41
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 23,88
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 23,18
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 23,48
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 23,6
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 23,41
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 23,92
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 23,14
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 23,92
@@ -884,10 +884,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 23,2
 Newt Gingrich,President ,,REP,Hampshire,Precinct 23,1
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 23,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 23,48
-John R. Raese,US Senate,,REP,Hampshire,Precinct 23,48
-Michael Davis,US House,2,REP,Hampshire,Precinct 23,8
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 23,7
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 23,44
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 23,48
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 23,8
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 23,7
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 23,44
 Bill Maloney,Governor,,REP,Hampshire,Precinct 23,43
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 23,9
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 23,45
@@ -907,11 +907,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 23,
 ,Ballots Cast,,REP,Hampshire,Precinct 24,91
 Keith Judd,President ,,DEM,Hampshire,Precinct 24,38
 Barack Obama,President ,,DEM,Hampshire,Precinct 24,65
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 24,112
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 24,17
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 24,55
-Howard Swint,US House,2,DEM,Hampshire,Precinct 24,3
-William McCann,US House,2,DEM,Hampshire,Precinct 24,43
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 24,112
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 24,17
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 24,55
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 24,3
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 24,43
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 24,112
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 24,11
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 24,101
@@ -929,10 +929,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 24,4
 Newt Gingrich,President ,,REP,Hampshire,Precinct 24,3
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 24,1
 Mitt Romney,President ,,REP,Hampshire,Precinct 24,68
-John R. Raese,US Senate,,REP,Hampshire,Precinct 24,72
-Michael Davis,US House,2,REP,Hampshire,Precinct 24,9
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 24,10
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 24,65
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 24,72
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 24,9
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 24,10
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 24,65
 Bill Maloney,Governor,,REP,Hampshire,Precinct 24,58
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 24,22
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 24,64
@@ -952,11 +952,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 24,
 ,Ballots Cast,,REP,Hampshire,Precinct 25,104
 Keith Judd,President ,,DEM,Hampshire,Precinct 25,63
 Barack Obama,President ,,DEM,Hampshire,Precinct 25,57
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 25,131
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 25,23
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 25,64
-Howard Swint,US House,2,DEM,Hampshire,Precinct 25,7
-William McCann,US House,2,DEM,Hampshire,Precinct 25,46
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 25,131
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 25,23
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 25,64
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 25,7
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 25,46
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 25,121
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 25,30
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 25,113
@@ -974,10 +974,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 25,13
 Newt Gingrich,President ,,REP,Hampshire,Precinct 25,6
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 25,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 25,68
-John R. Raese,US Senate,,REP,Hampshire,Precinct 25,77
-Michael Davis,US House,2,REP,Hampshire,Precinct 25,17
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 25,26
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 25,55
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 25,77
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 25,17
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 25,26
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 25,55
 Bill Maloney,Governor,,REP,Hampshire,Precinct 25,67
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 25,21
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 25,65
@@ -997,11 +997,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 25,
 ,Ballots Cast,,REP,Hampshire,Precinct 26,39
 Keith Judd,President ,,DEM,Hampshire,Precinct 26,12
 Barack Obama,President ,,DEM,Hampshire,Precinct 26,24
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 26,39
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 26,3
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 26,18
-Howard Swint,US House,2,DEM,Hampshire,Precinct 26,2
-William McCann,US House,2,DEM,Hampshire,Precinct 26,12
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 26,39
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 26,3
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 26,18
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 26,2
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 26,12
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 26,37
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 26,5
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 26,31
@@ -1019,10 +1019,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 26,5
 Newt Gingrich,President ,,REP,Hampshire,Precinct 26,1
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 26,0
 Mitt Romney,President ,,REP,Hampshire,Precinct 26,27
-John R. Raese,US Senate,,REP,Hampshire,Precinct 26,30
-Michael Davis,US House,2,REP,Hampshire,Precinct 26,7
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 26,4
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 26,25
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 26,30
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 26,7
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 26,4
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 26,25
 Bill Maloney,Governor,,REP,Hampshire,Precinct 26,23
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 26,10
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 26,28
@@ -1042,11 +1042,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 26,
 ,Ballots Cast,,REP,Hampshire,Precinct 28,72
 Keith Judd,President ,,DEM,Hampshire,Precinct 28,37
 Barack Obama,President ,,DEM,Hampshire,Precinct 28,37
-Joe Manchin III,US Senate,,DEM,Hampshire,Precinct 28,67
-Sheirl Fletcher,US Senate,,DEM,Hampshire,Precinct 28,18
-Dugald Brown,US House,2,DEM,Hampshire,Precinct 28,41
-Howard Swint,US House,2,DEM,Hampshire,Precinct 28,5
-William McCann,US House,2,DEM,Hampshire,Precinct 28,30
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 28,67
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 28,18
+Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 28,41
+Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 28,5
+William McCann,U.S. House,2,DEM,Hampshire,Precinct 28,30
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 28,68
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 28,12
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 28,65
@@ -1064,10 +1064,10 @@ Rick Santorum,President ,,REP,Hampshire,Precinct 28,9
 Newt Gingrich,President ,,REP,Hampshire,Precinct 28,3
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 28,2
 Mitt Romney,President ,,REP,Hampshire,Precinct 28,50
-John R. Raese,US Senate,,REP,Hampshire,Precinct 28,63
-Michael Davis,US House,2,REP,Hampshire,Precinct 28,10
-Jonathan Miller,US House,2,REP,Hampshire,Precinct 28,13
-Shelley Moore Capito,US House,2,REP,Hampshire,Precinct 28,41
+John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 28,63
+Michael Davis,U.S. House,2,REP,Hampshire,Precinct 28,10
+Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 28,13
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 28,41
 Bill Maloney,Governor,,REP,Hampshire,Precinct 28,42
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 28,20
 Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 28,51
@@ -1087,11 +1087,11 @@ Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 28,
 ,Ballots Cast,,REP,Hampshire,TOTALS,1830
 Keith Judd,President ,,DEM,Hampshire,TOTALS,803
 Barack Obama,President ,,DEM,Hampshire,TOTALS,924
-Joe Manchin III,US Senate,,DEM,Hampshire,TOTALS,1736
-Sheirl Fletcher,US Senate,,DEM,Hampshire,TOTALS,342
-Dugald Brown,US House,2,DEM,Hampshire,TOTALS,896
-Howard Swint,US House,2,DEM,Hampshire,TOTALS,123
-William McCann,US House,2,DEM,Hampshire,TOTALS,715
+Joe Manchin III,U.S. Senate,,DEM,Hampshire,TOTALS,1736
+Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,TOTALS,342
+Dugald Brown,U.S. House,2,DEM,Hampshire,TOTALS,896
+Howard Swint,U.S. House,2,DEM,Hampshire,TOTALS,123
+William McCann,U.S. House,2,DEM,Hampshire,TOTALS,715
 Earl Ray Tomblin,Governor,,DEM,Hampshire,TOTALS,1700
 Arne Moltis,Governor,,DEM,Hampshire,TOTALS,318
 Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,TOTALS,1659
@@ -1109,10 +1109,10 @@ Rick Santorum,President ,,REP,Hampshire,TOTALS,211
 Newt Gingrich,President ,,REP,Hampshire,TOTALS,100
 "Charles ""Buddy"" Roemer",President ,,REP,Hampshire,TOTALS,16
 Mitt Romney,President ,,REP,Hampshire,TOTALS,1270
-John R. Raese,US Senate,,REP,Hampshire,TOTALS,1451
-Michael Davis,US House,2,REP,Hampshire,TOTALS,159
-Jonathan Miller,US House,2,REP,Hampshire,TOTALS,318
-Shelley Moore Capito,US House,2,REP,Hampshire,TOTALS,1261
+John R. Raese,U.S. Senate,,REP,Hampshire,TOTALS,1451
+Michael Davis,U.S. House,2,REP,Hampshire,TOTALS,159
+Jonathan Miller,U.S. House,2,REP,Hampshire,TOTALS,318
+Shelley Moore Capito,U.S. House,2,REP,Hampshire,TOTALS,1261
 Bill Maloney,Governor,,REP,Hampshire,TOTALS,1223
 Ralph William Clark,Governor,,REP,Hampshire,TOTALS,376
 Brian Savilla,Secretary of State ,,REP,Hampshire,TOTALS,1315

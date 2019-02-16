@@ -1,11 +1,11 @@
 candidate,office,district,party,county,precinct,total votes
 Barack Obama,President ,,DEM,Lewis,Precinct 1,40
 Keith Judd,President ,,DEM,Lewis,Precinct 1,15
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 1,52
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 1,9
-William McCann,US House,2,DEM,Lewis,Precinct 1,24
-Howard Swint,US House,2,DEM,Lewis,Precinct 1,12
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 1,13
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 1,52
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 1,9
+William McCann,U.S. House,2,DEM,Lewis,Precinct 1,24
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 1,12
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 1,13
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 1,51
 Arne Moltis,Governor,,DEM,Lewis,Precinct 1,9
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 1,54
@@ -24,10 +24,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 1,0
 Rick Santorum,President ,,REP,Lewis,Precinct 1,3
 Ron Paul,President ,,REP,Lewis,Precinct 1,3
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 1,1
-John R. Raese,US Senate,,REP,Lewis,Precinct 1,22
-Michael Davis,US House,2,REP,Lewis,Precinct 1,6
-Jonathan Miller,US House,2,REP,Lewis,Precinct 1,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 1,19
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 1,22
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 1,6
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 1,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 1,19
 Ralph William Clark,Governor,,REP,Lewis,Precinct 1,2
 Bill Maloney,Governor,,REP,Lewis,Precinct 1,22
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 1,21
@@ -37,11 +37,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 1,14
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 1,19
 Barack Obama,President ,,DEM,Lewis,Precinct 2,38
 Keith Judd,President ,,DEM,Lewis,Precinct 2,18
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 2,54
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 2,10
-William McCann,US House,2,DEM,Lewis,Precinct 2,23
-Howard Swint,US House,2,DEM,Lewis,Precinct 2,23
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 2,10
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 2,54
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 2,10
+William McCann,U.S. House,2,DEM,Lewis,Precinct 2,23
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 2,23
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 2,10
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 2,54
 Arne Moltis,Governor,,DEM,Lewis,Precinct 2,5
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 2,52
@@ -60,10 +60,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 2,2
 Rick Santorum,President ,,REP,Lewis,Precinct 2,9
 Ron Paul,President ,,REP,Lewis,Precinct 2,2
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 2,1
-John R. Raese,US Senate,,REP,Lewis,Precinct 2,51
-Michael Davis,US House,2,REP,Lewis,Precinct 2,7
-Jonathan Miller,US House,2,REP,Lewis,Precinct 2,1
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 2,44
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 2,51
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 2,7
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 2,1
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 2,44
 Ralph William Clark,Governor,,REP,Lewis,Precinct 2,4
 Bill Maloney,Governor,,REP,Lewis,Precinct 2,46
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 2,40
@@ -73,11 +73,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 2,32
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 2,41
 Barack Obama,President ,,DEM,Lewis,Precinct 3,41
 Keith Judd,President ,,DEM,Lewis,Precinct 3,30
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 3,73
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 3,6
-William McCann,US House,2,DEM,Lewis,Precinct 3,33
-Howard Swint,US House,2,DEM,Lewis,Precinct 3,25
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 3,9
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 3,73
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 3,6
+William McCann,U.S. House,2,DEM,Lewis,Precinct 3,33
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 3,25
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 3,9
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 3,71
 Arne Moltis,Governor,,DEM,Lewis,Precinct 3,10
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 3,70
@@ -96,10 +96,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 3,2
 Rick Santorum,President ,,REP,Lewis,Precinct 3,3
 Ron Paul,President ,,REP,Lewis,Precinct 3,4
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 3,1
-John R. Raese,US Senate,,REP,Lewis,Precinct 3,37
-Michael Davis,US House,2,REP,Lewis,Precinct 3,6
-Jonathan Miller,US House,2,REP,Lewis,Precinct 3,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 3,31
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 3,37
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 3,6
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 3,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 3,31
 Ralph William Clark,Governor,,REP,Lewis,Precinct 3,7
 Bill Maloney,Governor,,REP,Lewis,Precinct 3,33
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 3,30
@@ -109,11 +109,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 3,25
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 3,30
 Barack Obama,President ,,DEM,Lewis,Precinct 4,20
 Keith Judd,President ,,DEM,Lewis,Precinct 4,23
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 4,42
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 4,5
-William McCann,US House,2,DEM,Lewis,Precinct 4,19
-Howard Swint,US House,2,DEM,Lewis,Precinct 4,13
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 4,6
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 4,42
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 4,5
+William McCann,U.S. House,2,DEM,Lewis,Precinct 4,19
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 4,13
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 4,6
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 4,36
 Arne Moltis,Governor,,DEM,Lewis,Precinct 4,9
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 4,37
@@ -132,10 +132,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 4,5
 Rick Santorum,President ,,REP,Lewis,Precinct 4,6
 Ron Paul,President ,,REP,Lewis,Precinct 4,1
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 4,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 4,35
-Michael Davis,US House,2,REP,Lewis,Precinct 4,5
-Jonathan Miller,US House,2,REP,Lewis,Precinct 4,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 4,36
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 4,35
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 4,5
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 4,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 4,36
 Ralph William Clark,Governor,,REP,Lewis,Precinct 4,6
 Bill Maloney,Governor,,REP,Lewis,Precinct 4,28
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 4,23
@@ -145,11 +145,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 4,21
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 4,30
 Barack Obama,President ,,DEM,Lewis,Precinct 5,39
 Keith Judd,President ,,DEM,Lewis,Precinct 5,19
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 5,50
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 5,13
-William McCann,US House,2,DEM,Lewis,Precinct 5,26
-Howard Swint,US House,2,DEM,Lewis,Precinct 5,17
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 5,9
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 5,50
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 5,13
+William McCann,U.S. House,2,DEM,Lewis,Precinct 5,26
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 5,17
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 5,9
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 5,55
 Arne Moltis,Governor,,DEM,Lewis,Precinct 5,8
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 5,56
@@ -168,10 +168,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 5,4
 Rick Santorum,President ,,REP,Lewis,Precinct 5,4
 Ron Paul,President ,,REP,Lewis,Precinct 5,4
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 5,2
-John R. Raese,US Senate,,REP,Lewis,Precinct 5,50
-Michael Davis,US House,2,REP,Lewis,Precinct 5,4
-Jonathan Miller,US House,2,REP,Lewis,Precinct 5,2
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 5,55
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 5,50
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 5,4
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 5,2
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 5,55
 Ralph William Clark,Governor,,REP,Lewis,Precinct 5,9
 Bill Maloney,Governor,,REP,Lewis,Precinct 5,51
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 5,45
@@ -181,11 +181,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 5,32
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 5,48
 Barack Obama,President ,,DEM,Lewis,Precinct 6,32
 Keith Judd,President ,,DEM,Lewis,Precinct 6,21
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 6,40
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 6,20
-William McCann,US House,2,DEM,Lewis,Precinct 6,19
-Howard Swint,US House,2,DEM,Lewis,Precinct 6,21
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 6,12
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 6,40
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 6,20
+William McCann,U.S. House,2,DEM,Lewis,Precinct 6,19
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 6,21
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 6,12
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 6,49
 Arne Moltis,Governor,,DEM,Lewis,Precinct 6,10
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 6,51
@@ -204,10 +204,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 6,5
 Rick Santorum,President ,,REP,Lewis,Precinct 6,5
 Ron Paul,President ,,REP,Lewis,Precinct 6,5
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 6,2
-John R. Raese,US Senate,,REP,Lewis,Precinct 6,36
-Michael Davis,US House,2,REP,Lewis,Precinct 6,5
-Jonathan Miller,US House,2,REP,Lewis,Precinct 6,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 6,39
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 6,36
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 6,5
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 6,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 6,39
 Ralph William Clark,Governor,,REP,Lewis,Precinct 6,8
 Bill Maloney,Governor,,REP,Lewis,Precinct 6,28
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 6,31
@@ -217,11 +217,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 6,17
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 6,27
 Barack Obama,President ,,DEM,Lewis,Precinct 7,66
 Keith Judd,President ,,DEM,Lewis,Precinct 7,82
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 7,122
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 7,50
-William McCann,US House,2,DEM,Lewis,Precinct 7,93
-Howard Swint,US House,2,DEM,Lewis,Precinct 7,28
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 7,27
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 7,122
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 7,50
+William McCann,U.S. House,2,DEM,Lewis,Precinct 7,93
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 7,28
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 7,27
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 7,141
 Arne Moltis,Governor,,DEM,Lewis,Precinct 7,34
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 7,158
@@ -240,10 +240,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 7,6
 Rick Santorum,President ,,REP,Lewis,Precinct 7,9
 Ron Paul,President ,,REP,Lewis,Precinct 7,9
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 7,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 7,73
-Michael Davis,US House,2,REP,Lewis,Precinct 7,9
-Jonathan Miller,US House,2,REP,Lewis,Precinct 7,4
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 7,70
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 7,73
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 7,9
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 7,4
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 7,70
 Ralph William Clark,Governor,,REP,Lewis,Precinct 7,16
 Bill Maloney,Governor,,REP,Lewis,Precinct 7,61
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 7,62
@@ -253,11 +253,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 7,47
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 7,66
 Barack Obama,President ,,DEM,Lewis,Precinct 8,63
 Keith Judd,President ,,DEM,Lewis,Precinct 8,52
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 8,95
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 8,26
-William McCann,US House,2,DEM,Lewis,Precinct 8,48
-Howard Swint,US House,2,DEM,Lewis,Precinct 8,26
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 8,19
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 8,95
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 8,26
+William McCann,U.S. House,2,DEM,Lewis,Precinct 8,48
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 8,26
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 8,19
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 8,104
 Arne Moltis,Governor,,DEM,Lewis,Precinct 8,17
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 8,103
@@ -276,10 +276,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 8,7
 Rick Santorum,President ,,REP,Lewis,Precinct 8,8
 Ron Paul,President ,,REP,Lewis,Precinct 8,6
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 8,1
-John R. Raese,US Senate,,REP,Lewis,Precinct 8,96
-Michael Davis,US House,2,REP,Lewis,Precinct 8,7
-Jonathan Miller,US House,2,REP,Lewis,Precinct 8,1
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 8,96
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 8,96
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 8,7
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 8,1
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 8,96
 Ralph William Clark,Governor,,REP,Lewis,Precinct 8,19
 Bill Maloney,Governor,,REP,Lewis,Precinct 8,77
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 8,74
@@ -289,11 +289,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 8,42
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 8,76
 Barack Obama,President ,,DEM,Lewis,Precinct 9,33
 Keith Judd,President ,,DEM,Lewis,Precinct 9,19
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 9,52
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 9,7
-William McCann,US House,2,DEM,Lewis,Precinct 9,24
-Howard Swint,US House,2,DEM,Lewis,Precinct 9,13
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 9,8
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 9,52
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 9,7
+William McCann,U.S. House,2,DEM,Lewis,Precinct 9,24
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 9,13
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 9,8
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 9,47
 Arne Moltis,Governor,,DEM,Lewis,Precinct 9,10
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 9,56
@@ -312,10 +312,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 9,5
 Rick Santorum,President ,,REP,Lewis,Precinct 9,2
 Ron Paul,President ,,REP,Lewis,Precinct 9,1
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 9,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 9,25
-Michael Davis,US House,2,REP,Lewis,Precinct 9,1
-Jonathan Miller,US House,2,REP,Lewis,Precinct 9,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 9,28
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 9,25
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 9,1
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 9,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 9,28
 Ralph William Clark,Governor,,REP,Lewis,Precinct 9,4
 Bill Maloney,Governor,,REP,Lewis,Precinct 9,22
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 9,16
@@ -325,11 +325,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 9,10
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 9,21
 Barack Obama,President ,,DEM,Lewis,Precinct 10,64
 Keith Judd,President ,,DEM,Lewis,Precinct 10,26
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 10,78
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 10,19
-William McCann,US House,2,DEM,Lewis,Precinct 10,40
-Howard Swint,US House,2,DEM,Lewis,Precinct 10,22
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 10,20
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 10,78
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 10,19
+William McCann,U.S. House,2,DEM,Lewis,Precinct 10,40
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 10,22
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 10,20
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 10,86
 Arne Moltis,Governor,,DEM,Lewis,Precinct 10,14
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 10,95
@@ -348,10 +348,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 10,4
 Rick Santorum,President ,,REP,Lewis,Precinct 10,10
 Ron Paul,President ,,REP,Lewis,Precinct 10,7
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 10,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 10,70
-Michael Davis,US House,2,REP,Lewis,Precinct 10,4
-Jonathan Miller,US House,2,REP,Lewis,Precinct 10,2
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 10,81
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 10,70
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 10,4
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 10,2
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 10,81
 Ralph William Clark,Governor,,REP,Lewis,Precinct 10,14
 Bill Maloney,Governor,,REP,Lewis,Precinct 10,68
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 10,55
@@ -361,11 +361,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 10,50
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 10,59
 Barack Obama,President ,,DEM,Lewis,Precinct 11,27
 Keith Judd,President ,,DEM,Lewis,Precinct 11,30
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 11,55
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 11,14
-William McCann,US House,2,DEM,Lewis,Precinct 11,27
-Howard Swint,US House,2,DEM,Lewis,Precinct 11,13
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 11,11
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 11,55
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 11,14
+William McCann,U.S. House,2,DEM,Lewis,Precinct 11,27
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 11,13
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 11,11
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 11,51
 Arne Moltis,Governor,,DEM,Lewis,Precinct 11,14
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 11,61
@@ -384,10 +384,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 11,8
 Rick Santorum,President ,,REP,Lewis,Precinct 11,3
 Ron Paul,President ,,REP,Lewis,Precinct 11,5
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 11,2
-John R. Raese,US Senate,,REP,Lewis,Precinct 11,67
-Michael Davis,US House,2,REP,Lewis,Precinct 11,5
-Jonathan Miller,US House,2,REP,Lewis,Precinct 11,1
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 11,71
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 11,67
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 11,5
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 11,1
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 11,71
 Ralph William Clark,Governor,,REP,Lewis,Precinct 11,11
 Bill Maloney,Governor,,REP,Lewis,Precinct 11,58
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 11,62
@@ -397,11 +397,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 11,35
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 11,60
 Barack Obama,President ,,DEM,Lewis,Precinct 12,17
 Keith Judd,President ,,DEM,Lewis,Precinct 12,25
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 12,42
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 12,6
-William McCann,US House,2,DEM,Lewis,Precinct 12,23
-Howard Swint,US House,2,DEM,Lewis,Precinct 12,8
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 12,8
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 12,42
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 12,6
+William McCann,U.S. House,2,DEM,Lewis,Precinct 12,23
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 12,8
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 12,8
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 12,34
 Arne Moltis,Governor,,DEM,Lewis,Precinct 12,11
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 12,46
@@ -420,10 +420,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 12,3
 Rick Santorum,President ,,REP,Lewis,Precinct 12,2
 Ron Paul,President ,,REP,Lewis,Precinct 12,4
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 12,1
-John R. Raese,US Senate,,REP,Lewis,Precinct 12,55
-Michael Davis,US House,2,REP,Lewis,Precinct 12,2
-Jonathan Miller,US House,2,REP,Lewis,Precinct 12,1
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 12,56
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 12,55
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 12,2
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 12,1
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 12,56
 Ralph William Clark,Governor,,REP,Lewis,Precinct 12,5
 Bill Maloney,Governor,,REP,Lewis,Precinct 12,48
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 12,47
@@ -433,11 +433,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 12,26
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 12,49
 Barack Obama,President ,,DEM,Lewis,Precinct 13,98
 Keith Judd,President ,,DEM,Lewis,Precinct 13,77
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 13,164
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 13,31
-William McCann,US House,2,DEM,Lewis,Precinct 13,97
-Howard Swint,US House,2,DEM,Lewis,Precinct 13,25
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 13,35
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 13,164
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 13,31
+William McCann,U.S. House,2,DEM,Lewis,Precinct 13,97
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 13,25
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 13,35
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 13,170
 Arne Moltis,Governor,,DEM,Lewis,Precinct 13,25
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 13,184
@@ -456,10 +456,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 13,14
 Rick Santorum,President ,,REP,Lewis,Precinct 13,16
 Ron Paul,President ,,REP,Lewis,Precinct 13,13
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 13,2
-John R. Raese,US Senate,,REP,Lewis,Precinct 13,202
-Michael Davis,US House,2,REP,Lewis,Precinct 13,25
-Jonathan Miller,US House,2,REP,Lewis,Precinct 13,7
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 13,184
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 13,202
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 13,25
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 13,7
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 13,184
 Ralph William Clark,Governor,,REP,Lewis,Precinct 13,27
 Bill Maloney,Governor,,REP,Lewis,Precinct 13,181
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 13,173
@@ -469,11 +469,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 13,123
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 13,170
 Barack Obama,President ,,DEM,Lewis,Precinct 14,34
 Keith Judd,President ,,DEM,Lewis,Precinct 14,48
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 14,74
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 14,23
-William McCann,US House,2,DEM,Lewis,Precinct 14,44
-Howard Swint,US House,2,DEM,Lewis,Precinct 14,13
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 14,17
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 14,74
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 14,23
+William McCann,U.S. House,2,DEM,Lewis,Precinct 14,44
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 14,13
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 14,17
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 14,74
 Arne Moltis,Governor,,DEM,Lewis,Precinct 14,20
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 14,80
@@ -492,10 +492,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 14,1
 Rick Santorum,President ,,REP,Lewis,Precinct 14,6
 Ron Paul,President ,,REP,Lewis,Precinct 14,7
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 14,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 14,62
-Michael Davis,US House,2,REP,Lewis,Precinct 14,5
-Jonathan Miller,US House,2,REP,Lewis,Precinct 14,3
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 14,65
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 14,62
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 14,5
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 14,3
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 14,65
 Ralph William Clark,Governor,,REP,Lewis,Precinct 14,14
 Bill Maloney,Governor,,REP,Lewis,Precinct 14,57
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 14,51
@@ -505,11 +505,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 14,27
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 14,56
 Barack Obama,President ,,DEM,Lewis,Precinct 15,78
 Keith Judd,President ,,DEM,Lewis,Precinct 15,62
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 15,130
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 15,35
-William McCann,US House,2,DEM,Lewis,Precinct 15,77
-Howard Swint,US House,2,DEM,Lewis,Precinct 15,32
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 15,31
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 15,130
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 15,35
+William McCann,U.S. House,2,DEM,Lewis,Precinct 15,77
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 15,32
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 15,31
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 15,135
 Arne Moltis,Governor,,DEM,Lewis,Precinct 15,29
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 15,154
@@ -528,10 +528,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 15,17
 Rick Santorum,President ,,REP,Lewis,Precinct 15,16
 Ron Paul,President ,,REP,Lewis,Precinct 15,7
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 15,1
-John R. Raese,US Senate,,REP,Lewis,Precinct 15,149
-Michael Davis,US House,2,REP,Lewis,Precinct 15,15
-Jonathan Miller,US House,2,REP,Lewis,Precinct 15,1
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 15,156
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 15,149
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 15,15
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 15,1
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 15,156
 Ralph William Clark,Governor,,REP,Lewis,Precinct 15,22
 Bill Maloney,Governor,,REP,Lewis,Precinct 15,140
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 15,124
@@ -541,11 +541,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 15,103
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 15,129
 Barack Obama,President ,,DEM,Lewis,Precinct 16,30
 Keith Judd,President ,,DEM,Lewis,Precinct 16,20
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 16,48
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 16,8
-William McCann,US House,2,DEM,Lewis,Precinct 16,27
-Howard Swint,US House,2,DEM,Lewis,Precinct 16,14
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 16,7
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 16,48
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 16,8
+William McCann,U.S. House,2,DEM,Lewis,Precinct 16,27
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 16,14
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 16,7
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 16,45
 Arne Moltis,Governor,,DEM,Lewis,Precinct 16,11
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 16,52
@@ -564,10 +564,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 16,1
 Rick Santorum,President ,,REP,Lewis,Precinct 16,0
 Ron Paul,President ,,REP,Lewis,Precinct 16,5
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 16,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 16,24
-Michael Davis,US House,2,REP,Lewis,Precinct 16,1
-Jonathan Miller,US House,2,REP,Lewis,Precinct 16,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 16,26
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 16,24
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 16,1
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 16,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 16,26
 Ralph William Clark,Governor,,REP,Lewis,Precinct 16,4
 Bill Maloney,Governor,,REP,Lewis,Precinct 16,18
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 16,20
@@ -577,11 +577,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 16,13
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 16,19
 Barack Obama,President ,,DEM,Lewis,Precinct 17,46
 Keith Judd,President ,,DEM,Lewis,Precinct 17,40
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 17,73
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 17,21
-William McCann,US House,2,DEM,Lewis,Precinct 17,52
-Howard Swint,US House,2,DEM,Lewis,Precinct 17,14
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 17,14
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 17,73
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 17,21
+William McCann,U.S. House,2,DEM,Lewis,Precinct 17,52
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 17,14
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 17,14
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 17,80
 Arne Moltis,Governor,,DEM,Lewis,Precinct 17,13
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 17,86
@@ -600,10 +600,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 17,3
 Rick Santorum,President ,,REP,Lewis,Precinct 17,5
 Ron Paul,President ,,REP,Lewis,Precinct 17,3
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 17,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 17,50
-Michael Davis,US House,2,REP,Lewis,Precinct 17,10
-Jonathan Miller,US House,2,REP,Lewis,Precinct 17,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 17,47
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 17,50
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 17,10
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 17,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 17,47
 Ralph William Clark,Governor,,REP,Lewis,Precinct 17,7
 Bill Maloney,Governor,,REP,Lewis,Precinct 17,48
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 17,44
@@ -613,11 +613,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 17,33
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 17,47
 Barack Obama,President ,,DEM,Lewis,Precinct 18,27
 Keith Judd,President ,,DEM,Lewis,Precinct 18,13
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 18,37
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 18,6
-William McCann,US House,2,DEM,Lewis,Precinct 18,27
-Howard Swint,US House,2,DEM,Lewis,Precinct 18,7
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 18,6
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 18,37
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 18,6
+William McCann,U.S. House,2,DEM,Lewis,Precinct 18,27
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 18,7
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 18,6
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 18,36
 Arne Moltis,Governor,,DEM,Lewis,Precinct 18,10
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 18,42
@@ -636,10 +636,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 18,1
 Rick Santorum,President ,,REP,Lewis,Precinct 18,0
 Ron Paul,President ,,REP,Lewis,Precinct 18,4
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 18,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 18,27
-Michael Davis,US House,2,REP,Lewis,Precinct 18,3
-Jonathan Miller,US House,2,REP,Lewis,Precinct 18,2
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 18,27
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 18,27
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 18,3
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 18,2
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 18,27
 Ralph William Clark,Governor,,REP,Lewis,Precinct 18,6
 Bill Maloney,Governor,,REP,Lewis,Precinct 18,20
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 18,21
@@ -649,11 +649,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 18,17
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 18,19
 Barack Obama,President ,,DEM,Lewis,Precinct 19,30
 Keith Judd,President ,,DEM,Lewis,Precinct 19,27
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 19,48
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 19,15
-William McCann,US House,2,DEM,Lewis,Precinct 19,32
-Howard Swint,US House,2,DEM,Lewis,Precinct 19,8
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 19,8
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 19,48
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 19,15
+William McCann,U.S. House,2,DEM,Lewis,Precinct 19,32
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 19,8
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 19,8
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 19,52
 Arne Moltis,Governor,,DEM,Lewis,Precinct 19,12
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 19,58
@@ -672,10 +672,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 19,2
 Rick Santorum,President ,,REP,Lewis,Precinct 19,4
 Ron Paul,President ,,REP,Lewis,Precinct 19,5
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 19,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 19,34
-Michael Davis,US House,2,REP,Lewis,Precinct 19,4
-Jonathan Miller,US House,2,REP,Lewis,Precinct 19,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 19,40
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 19,34
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 19,4
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 19,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 19,40
 Ralph William Clark,Governor,,REP,Lewis,Precinct 19,8
 Bill Maloney,Governor,,REP,Lewis,Precinct 19,34
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 19,26
@@ -685,11 +685,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 19,23
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 19,29
 Barack Obama,President ,,DEM,Lewis,Precinct 20,74
 Keith Judd,President ,,DEM,Lewis,Precinct 20,68
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 20,140
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 20,31
-William McCann,US House,2,DEM,Lewis,Precinct 20,76
-Howard Swint,US House,2,DEM,Lewis,Precinct 20,39
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 20,16
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 20,140
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 20,31
+William McCann,U.S. House,2,DEM,Lewis,Precinct 20,76
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 20,39
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 20,16
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 20,153
 Arne Moltis,Governor,,DEM,Lewis,Precinct 20,17
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 20,153
@@ -708,10 +708,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 20,10
 Rick Santorum,President ,,REP,Lewis,Precinct 20,9
 Ron Paul,President ,,REP,Lewis,Precinct 20,2
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 20,3
-John R. Raese,US Senate,,REP,Lewis,Precinct 20,114
-Michael Davis,US House,2,REP,Lewis,Precinct 20,20
-Jonathan Miller,US House,2,REP,Lewis,Precinct 20,1
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 20,117
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 20,114
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 20,20
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 20,1
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 20,117
 Ralph William Clark,Governor,,REP,Lewis,Precinct 20,12
 Bill Maloney,Governor,,REP,Lewis,Precinct 20,113
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 20,91
@@ -721,11 +721,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 20,79
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 20,100
 Barack Obama,President ,,DEM,Lewis,Precinct 21,49
 Keith Judd,President ,,DEM,Lewis,Precinct 21,40
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 21,83
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 21,22
-William McCann,US House,2,DEM,Lewis,Precinct 21,44
-Howard Swint,US House,2,DEM,Lewis,Precinct 21,24
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 21,13
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 21,83
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 21,22
+William McCann,U.S. House,2,DEM,Lewis,Precinct 21,44
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 21,24
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 21,13
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 21,91
 Arne Moltis,Governor,,DEM,Lewis,Precinct 21,13
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 21,96
@@ -744,10 +744,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 21,11
 Rick Santorum,President ,,REP,Lewis,Precinct 21,5
 Ron Paul,President ,,REP,Lewis,Precinct 21,6
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 21,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 21,58
-Michael Davis,US House,2,REP,Lewis,Precinct 21,15
-Jonathan Miller,US House,2,REP,Lewis,Precinct 21,3
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 21,47
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 21,58
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 21,15
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 21,3
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 21,47
 Ralph William Clark,Governor,,REP,Lewis,Precinct 21,10
 Bill Maloney,Governor,,REP,Lewis,Precinct 21,51
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 21,51
@@ -757,11 +757,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 21,37
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 21,51
 Barack Obama,President ,,DEM,Lewis,Precinct 22,20
 Keith Judd,President ,,DEM,Lewis,Precinct 22,14
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 22,39
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 22,3
-William McCann,US House,2,DEM,Lewis,Precinct 22,17
-Howard Swint,US House,2,DEM,Lewis,Precinct 22,13
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 22,5
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 22,39
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 22,3
+William McCann,U.S. House,2,DEM,Lewis,Precinct 22,17
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 22,13
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 22,5
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 22,38
 Arne Moltis,Governor,,DEM,Lewis,Precinct 22,5
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 22,37
@@ -780,10 +780,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 22,4
 Rick Santorum,President ,,REP,Lewis,Precinct 22,1
 Ron Paul,President ,,REP,Lewis,Precinct 22,4
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 22,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 22,27
-Michael Davis,US House,2,REP,Lewis,Precinct 22,7
-Jonathan Miller,US House,2,REP,Lewis,Precinct 22,0
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 22,27
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 22,27
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 22,7
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 22,0
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 22,27
 Ralph William Clark,Governor,,REP,Lewis,Precinct 22,5
 Bill Maloney,Governor,,REP,Lewis,Precinct 22,26
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 22,21
@@ -793,11 +793,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 22,17
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 22,24
 Barack Obama,President ,,DEM,Lewis,Precinct 23,58
 Keith Judd,President ,,DEM,Lewis,Precinct 23,159
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 23,114
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 23,28
-William McCann,US House,2,DEM,Lewis,Precinct 23,64
-Howard Swint,US House,2,DEM,Lewis,Precinct 23,25
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 23,21
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 23,114
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 23,28
+William McCann,U.S. House,2,DEM,Lewis,Precinct 23,64
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 23,25
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 23,21
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 23,112
 Arne Moltis,Governor,,DEM,Lewis,Precinct 23,25
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 23,122
@@ -816,10 +816,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 23,7
 Rick Santorum,President ,,REP,Lewis,Precinct 23,13
 Ron Paul,President ,,REP,Lewis,Precinct 23,8
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 23,2
-John R. Raese,US Senate,,REP,Lewis,Precinct 23,88
-Michael Davis,US House,2,REP,Lewis,Precinct 23,13
-Jonathan Miller,US House,2,REP,Lewis,Precinct 23,4
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 23,81
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 23,88
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 23,13
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 23,4
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 23,81
 Ralph William Clark,Governor,,REP,Lewis,Precinct 23,16
 Bill Maloney,Governor,,REP,Lewis,Precinct 23,75
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 23,75
@@ -829,11 +829,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 23,60
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 23,73
 Barack Obama,President ,,DEM,Lewis,Precinct 24,57
 Keith Judd,President ,,DEM,Lewis,Precinct 24,82
-Joe Manchin III,US Senate,,DEM,Lewis,Precinct 24,121
-Sheirl Fletcher,US Senate,,DEM,Lewis,Precinct 24,42
-William McCann,US House,2,DEM,Lewis,Precinct 24,87
-Howard Swint,US House,2,DEM,Lewis,Precinct 24,17
-Dugald Brown ,US House,2,DEM,Lewis,Precinct 24,36
+Joe Manchin III,U.S. Senate,,DEM,Lewis,Precinct 24,121
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,Precinct 24,42
+William McCann,U.S. House,2,DEM,Lewis,Precinct 24,87
+Howard Swint,U.S. House,2,DEM,Lewis,Precinct 24,17
+Dugald Brown ,U.S. House,2,DEM,Lewis,Precinct 24,36
 Earl Ray Tomblin,Governor,,DEM,Lewis,Precinct 24,132
 Arne Moltis,Governor,,DEM,Lewis,Precinct 24,31
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,Precinct 24,151
@@ -852,10 +852,10 @@ Newt Gingrich,President ,,REP,Lewis,Precinct 24,6
 Rick Santorum,President ,,REP,Lewis,Precinct 24,18
 Ron Paul,President ,,REP,Lewis,Precinct 24,14
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,Precinct 24,0
-John R. Raese,US Senate,,REP,Lewis,Precinct 24,98
-Michael Davis,US House,2,REP,Lewis,Precinct 24,16
-Jonathan Miller,US House,2,REP,Lewis,Precinct 24,2
-Shelley Moore Capito,US House,2,REP,Lewis,Precinct 24,102
+John R. Raese,U.S. Senate,,REP,Lewis,Precinct 24,98
+Michael Davis,U.S. House,2,REP,Lewis,Precinct 24,16
+Jonathan Miller,U.S. House,2,REP,Lewis,Precinct 24,2
+Shelley Moore Capito,U.S. House,2,REP,Lewis,Precinct 24,102
 Ralph William Clark,Governor,,REP,Lewis,Precinct 24,19
 Bill Maloney,Governor,,REP,Lewis,Precinct 24,92
 Brian Savilla,Secretary of State ,,REP,Lewis,Precinct 24,79
@@ -865,11 +865,11 @@ Mike Hall,Treasurer,,REP,Lewis,Precinct 24,64
 Patrick Morrisey,Attorney General,,REP,Lewis,Precinct 24,84
 Barack Obama,President ,,DEM,Lewis,TOTALS ,1081
 Keith Judd,President ,,DEM,Lewis,TOTALS ,910
-Joe Manchin III,US Senate,,DEM,Lewis,TOTALS ,1826
-Sheirl Fletcher,US Senate,,DEM,Lewis,TOTALS ,450
-William McCann,US House,2,DEM,Lewis,TOTALS ,1043
-Howard Swint,US House,2,DEM,Lewis,TOTALS ,452
-Dugald Brown ,US House,2,DEM,Lewis,TOTALS ,361
+Joe Manchin III,U.S. Senate,,DEM,Lewis,TOTALS ,1826
+Sheirl Fletcher,U.S. Senate,,DEM,Lewis,TOTALS ,450
+William McCann,U.S. House,2,DEM,Lewis,TOTALS ,1043
+Howard Swint,U.S. House,2,DEM,Lewis,TOTALS ,452
+Dugald Brown ,U.S. House,2,DEM,Lewis,TOTALS ,361
 Earl Ray Tomblin,Governor,,DEM,Lewis,TOTALS ,1897
 Arne Moltis,Governor,,DEM,Lewis,TOTALS ,362
 Natalie E. Tennant,Secretary of State ,,DEM,Lewis,TOTALS ,2054
@@ -888,10 +888,10 @@ Newt Gingrich,President ,,REP,Lewis,TOTALS ,128
 Rick Santorum,President ,,REP,Lewis,TOTALS ,177
 Ron Paul,President ,,REP,Lewis,TOTALS ,129
 "Charles ""Buddy"" Roemer",President ,,REP,Lewis,TOTALS ,19
-John R. Raese,US Senate,,REP,Lewis,TOTALS ,1550
-Michael Davis,US House,2,REP,Lewis,TOTALS ,195
-Jonathan Miller,US House,2,REP,Lewis,TOTALS ,35
-Shelley Moore Capito,US House,2,REP,Lewis,TOTALS ,1545
+John R. Raese,U.S. Senate,,REP,Lewis,TOTALS ,1550
+Michael Davis,U.S. House,2,REP,Lewis,TOTALS ,195
+Jonathan Miller,U.S. House,2,REP,Lewis,TOTALS ,35
+Shelley Moore Capito,U.S. House,2,REP,Lewis,TOTALS ,1545
 Ralph William Clark,Governor,,REP,Lewis,TOTALS ,255
 Bill Maloney,Governor,,REP,Lewis,TOTALS ,1397
 Brian Savilla,Secretary of State ,,REP,Lewis,TOTALS ,1282

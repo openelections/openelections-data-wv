@@ -1,9 +1,9 @@
 candidate,office,district,party,county,precinct,total votes
 Barack Obama,President ,,DEM,Summers,Precinct 1 - Forest Hill ,76
 Keith Judd,President ,,DEM,Summers,Precinct 1 - Forest Hill ,58
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 1 - Forest Hill ,28
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 1 - Forest Hill ,122
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 1 - Forest Hill ,127
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 1 - Forest Hill ,28
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 1 - Forest Hill ,122
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 1 - Forest Hill ,127
 Arne Moltis,Governor,,DEM,Summers,Precinct 1 - Forest Hill ,25
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 1 - Forest Hill ,123
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 1 - Forest Hill ,111
@@ -29,10 +29,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 1 - Forest Hill ,3
 Newt Gingrich,President ,,REP,Summers,Precinct 1 - Forest Hill ,5
 Ron Paul,President ,,REP,Summers,Precinct 1 - Forest Hill ,6
 Mitt Romney,President ,,REP,Summers,Precinct 1 - Forest Hill ,37
-John R. Raese,US Senate,,REP,Summers,Precinct 1 - Forest Hill ,39
-Rick Snuffer,US House,3,REP,Summers,Precinct 1 - Forest Hill ,32
-Lee A. Bias,US House,3,REP,Summers,Precinct 1 - Forest Hill ,3
-Bill Lester,US House,3,REP,Summers,Precinct 1 - Forest Hill ,10
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 1 - Forest Hill ,39
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 1 - Forest Hill ,32
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 1 - Forest Hill ,3
+Bill Lester,U.S. House,3,REP,Summers,Precinct 1 - Forest Hill ,10
 Ralph William Clark,Governor,,REP,Summers,Precinct 1 - Forest Hill ,9
 Bill Maloney,Governor,,REP,Summers,Precinct 1 - Forest Hill ,39
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 1 - Forest Hill ,38
@@ -48,9 +48,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 1 - Forest
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 1 - Forest Hill ,
 Barack Obama,President ,,DEM,Summers,Precinct 4 - West End,90
 Keith Judd,President ,,DEM,Summers,Precinct 4 - West End,46
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 4 - West End,32
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 4 - West End,117
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 4 - West End,133
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 4 - West End,32
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 4 - West End,117
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 4 - West End,133
 Arne Moltis,Governor,,DEM,Summers,Precinct 4 - West End,29
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 4 - West End,116
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 4 - West End,108
@@ -76,10 +76,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 4 - West End,2
 Newt Gingrich,President ,,REP,Summers,Precinct 4 - West End,1
 Ron Paul,President ,,REP,Summers,Precinct 4 - West End,3
 Mitt Romney,President ,,REP,Summers,Precinct 4 - West End,17
-John R. Raese,US Senate,,REP,Summers,Precinct 4 - West End,15
-Rick Snuffer,US House,3,REP,Summers,Precinct 4 - West End,12
-Lee A. Bias,US House,3,REP,Summers,Precinct 4 - West End,1
-Bill Lester,US House,3,REP,Summers,Precinct 4 - West End,7
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 4 - West End,15
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 4 - West End,12
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 4 - West End,1
+Bill Lester,U.S. House,3,REP,Summers,Precinct 4 - West End,7
 Ralph William Clark,Governor,,REP,Summers,Precinct 4 - West End,3
 Bill Maloney,Governor,,REP,Summers,Precinct 4 - West End,16
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 4 - West End,14
@@ -95,9 +95,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 4 - West E
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 4 - West End,
 Barack Obama,President ,,DEM,Summers,Precinct 7 - City Hall,46
 Keith Judd,President ,,DEM,Summers,Precinct 7 - City Hall,23
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 7 - City Hall,16
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 7 - City Hall,69
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 7 - City Hall,63
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 7 - City Hall,16
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 7 - City Hall,69
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 7 - City Hall,63
 Arne Moltis,Governor,,DEM,Summers,Precinct 7 - City Hall,10
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 7 - City Hall,64
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 7 - City Hall,56
@@ -123,10 +123,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 7 - City Hall,1
 Newt Gingrich,President ,,REP,Summers,Precinct 7 - City Hall,1
 Ron Paul,President ,,REP,Summers,Precinct 7 - City Hall,2
 Mitt Romney,President ,,REP,Summers,Precinct 7 - City Hall,13
-John R. Raese,US Senate,,REP,Summers,Precinct 7 - City Hall,14
-Rick Snuffer,US House,3,REP,Summers,Precinct 7 - City Hall,8
-Lee A. Bias,US House,3,REP,Summers,Precinct 7 - City Hall,2
-Bill Lester,US House,3,REP,Summers,Precinct 7 - City Hall,4
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 7 - City Hall,14
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 7 - City Hall,8
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 7 - City Hall,2
+Bill Lester,U.S. House,3,REP,Summers,Precinct 7 - City Hall,4
 Ralph William Clark,Governor,,REP,Summers,Precinct 7 - City Hall,5
 Bill Maloney,Governor,,REP,Summers,Precinct 7 - City Hall,12
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 7 - City Hall,15
@@ -142,9 +142,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 7 - City H
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 7 - City Hall,
 Barack Obama,President ,,DEM,Summers,Precinct 9 - Hinton Area,47
 Keith Judd,President ,,DEM,Summers,Precinct 9 - Hinton Area,32
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 9 - Hinton Area,14
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 9 - Hinton Area,77
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 9 - Hinton Area,78
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 9 - Hinton Area,14
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 9 - Hinton Area,77
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 9 - Hinton Area,78
 Arne Moltis,Governor,,DEM,Summers,Precinct 9 - Hinton Area,11
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 9 - Hinton Area,81
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 9 - Hinton Area,68
@@ -170,10 +170,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 9 - Hinton Area,3
 Newt Gingrich,President ,,REP,Summers,Precinct 9 - Hinton Area,1
 Ron Paul,President ,,REP,Summers,Precinct 9 - Hinton Area,0
 Mitt Romney,President ,,REP,Summers,Precinct 9 - Hinton Area,5
-John R. Raese,US Senate,,REP,Summers,Precinct 9 - Hinton Area,5
-Rick Snuffer,US House,3,REP,Summers,Precinct 9 - Hinton Area,4
-Lee A. Bias,US House,3,REP,Summers,Precinct 9 - Hinton Area,0
-Bill Lester,US House,3,REP,Summers,Precinct 9 - Hinton Area,2
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 9 - Hinton Area,5
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 9 - Hinton Area,4
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 9 - Hinton Area,0
+Bill Lester,U.S. House,3,REP,Summers,Precinct 9 - Hinton Area,2
 Ralph William Clark,Governor,,REP,Summers,Precinct 9 - Hinton Area,4
 Bill Maloney,Governor,,REP,Summers,Precinct 9 - Hinton Area,5
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 9 - Hinton Area,5
@@ -189,9 +189,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 9 - Hinton
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 9 - Hinton Area,
 Barack Obama,President ,,DEM,Summers,Precinct 11 - Bellepoint,146
 Keith Judd,President ,,DEM,Summers,Precinct 11 - Bellepoint,82
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 11 - Bellepoint,39
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 11 - Bellepoint,231
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 11 - Bellepoint,248
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 11 - Bellepoint,39
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 11 - Bellepoint,231
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 11 - Bellepoint,248
 Arne Moltis,Governor,,DEM,Summers,Precinct 11 - Bellepoint,29
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 11 - Bellepoint,232
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 11 - Bellepoint,212
@@ -217,10 +217,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 11 - Bellepoint,4
 Newt Gingrich,President ,,REP,Summers,Precinct 11 - Bellepoint,9
 Ron Paul,President ,,REP,Summers,Precinct 11 - Bellepoint,7
 Mitt Romney,President ,,REP,Summers,Precinct 11 - Bellepoint,28
-John R. Raese,US Senate,,REP,Summers,Precinct 11 - Bellepoint,27
-Rick Snuffer,US House,3,REP,Summers,Precinct 11 - Bellepoint,34
-Lee A. Bias,US House,3,REP,Summers,Precinct 11 - Bellepoint,1
-Bill Lester,US House,3,REP,Summers,Precinct 11 - Bellepoint,6
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 11 - Bellepoint,27
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 11 - Bellepoint,34
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 11 - Bellepoint,1
+Bill Lester,U.S. House,3,REP,Summers,Precinct 11 - Bellepoint,6
 Ralph William Clark,Governor,,REP,Summers,Precinct 11 - Bellepoint,8
 Bill Maloney,Governor,,REP,Summers,Precinct 11 - Bellepoint,38
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 11 - Bellepoint,37
@@ -236,9 +236,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 11 - Belle
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 11 - Bellepoint,
 Barack Obama,President ,,DEM,Summers,Precinct 12 - Upland,45
 Keith Judd,President ,,DEM,Summers,Precinct 12 - Upland,54
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 12 - Upland,24
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 12 - Upland,91
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 12 - Upland,103
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 12 - Upland,24
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 12 - Upland,91
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 12 - Upland,103
 Arne Moltis,Governor,,DEM,Summers,Precinct 12 - Upland,13
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 12 - Upland,102
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 12 - Upland,72
@@ -264,10 +264,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 12 - Upland,4
 Newt Gingrich,President ,,REP,Summers,Precinct 12 - Upland,2
 Ron Paul,President ,,REP,Summers,Precinct 12 - Upland,2
 Mitt Romney,President ,,REP,Summers,Precinct 12 - Upland,13
-John R. Raese,US Senate,,REP,Summers,Precinct 12 - Upland,12
-Rick Snuffer,US House,3,REP,Summers,Precinct 12 - Upland,14
-Lee A. Bias,US House,3,REP,Summers,Precinct 12 - Upland,1
-Bill Lester,US House,3,REP,Summers,Precinct 12 - Upland,6
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 12 - Upland,12
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 12 - Upland,14
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 12 - Upland,1
+Bill Lester,U.S. House,3,REP,Summers,Precinct 12 - Upland,6
 Ralph William Clark,Governor,,REP,Summers,Precinct 12 - Upland,4
 Bill Maloney,Governor,,REP,Summers,Precinct 12 - Upland,16
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 12 - Upland,15
@@ -283,9 +283,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 12 - Uplan
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 12 - Upland,
 Barack Obama,President ,,DEM,Summers,Precinct 13 - Wiggins,64
 Keith Judd,President ,,DEM,Summers,Precinct 13 - Wiggins,40
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 13 - Wiggins,17
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 13 - Wiggins,95
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 13 - Wiggins,100
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 13 - Wiggins,17
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 13 - Wiggins,95
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 13 - Wiggins,100
 Arne Moltis,Governor,,DEM,Summers,Precinct 13 - Wiggins,8
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 13 - Wiggins,99
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 13 - Wiggins,85
@@ -311,10 +311,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 13 - Wiggins,5
 Newt Gingrich,President ,,REP,Summers,Precinct 13 - Wiggins,1
 Ron Paul,President ,,REP,Summers,Precinct 13 - Wiggins,1
 Mitt Romney,President ,,REP,Summers,Precinct 13 - Wiggins,17
-John R. Raese,US Senate,,REP,Summers,Precinct 13 - Wiggins,18
-Rick Snuffer,US House,3,REP,Summers,Precinct 13 - Wiggins,14
-Lee A. Bias,US House,3,REP,Summers,Precinct 13 - Wiggins,0
-Bill Lester,US House,3,REP,Summers,Precinct 13 - Wiggins,7
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 13 - Wiggins,18
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 13 - Wiggins,14
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 13 - Wiggins,0
+Bill Lester,U.S. House,3,REP,Summers,Precinct 13 - Wiggins,7
 Ralph William Clark,Governor,,REP,Summers,Precinct 13 - Wiggins,5
 Bill Maloney,Governor,,REP,Summers,Precinct 13 - Wiggins,16
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 13 - Wiggins,17
@@ -330,9 +330,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 13 - Wiggi
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 13 - Wiggins,
 Barack Obama,President ,,DEM,Summers,Precinct 15 - Green Sulphur,47
 Keith Judd,President ,,DEM,Summers,Precinct 15 - Green Sulphur,29
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 15 - Green Sulphur,14
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 15 - Green Sulphur,68
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 15 - Green Sulphur,65
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 15 - Green Sulphur,14
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 15 - Green Sulphur,68
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 15 - Green Sulphur,65
 Arne Moltis,Governor,,DEM,Summers,Precinct 15 - Green Sulphur,19
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 15 - Green Sulphur,62
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 15 - Green Sulphur,59
@@ -358,10 +358,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 15 - Green Sulphur,4
 Newt Gingrich,President ,,REP,Summers,Precinct 15 - Green Sulphur,3
 Ron Paul,President ,,REP,Summers,Precinct 15 - Green Sulphur,9
 Mitt Romney,President ,,REP,Summers,Precinct 15 - Green Sulphur,28
-John R. Raese,US Senate,,REP,Summers,Precinct 15 - Green Sulphur,36
-Rick Snuffer,US House,3,REP,Summers,Precinct 15 - Green Sulphur,36
-Lee A. Bias,US House,3,REP,Summers,Precinct 15 - Green Sulphur,0
-Bill Lester,US House,3,REP,Summers,Precinct 15 - Green Sulphur,11
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 15 - Green Sulphur,36
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 15 - Green Sulphur,36
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 15 - Green Sulphur,0
+Bill Lester,U.S. House,3,REP,Summers,Precinct 15 - Green Sulphur,11
 Ralph William Clark,Governor,,REP,Summers,Precinct 15 - Green Sulphur,11
 Bill Maloney,Governor,,REP,Summers,Precinct 15 - Green Sulphur,35
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 15 - Green Sulphur,36
@@ -377,9 +377,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 15 - Green
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 15 - Green Sulphur,
 Barack Obama,President ,,DEM,Summers,Precinct 17 - Sandstone,41
 Keith Judd,President ,,DEM,Summers,Precinct 17 - Sandstone,33
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 17 - Sandstone,19
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 17 - Sandstone,68
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 17 - Sandstone,71
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 17 - Sandstone,19
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 17 - Sandstone,68
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 17 - Sandstone,71
 Arne Moltis,Governor,,DEM,Summers,Precinct 17 - Sandstone,10
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 17 - Sandstone,74
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 17 - Sandstone,57
@@ -405,10 +405,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 17 - Sandstone,4
 Newt Gingrich,President ,,REP,Summers,Precinct 17 - Sandstone,1
 Ron Paul,President ,,REP,Summers,Precinct 17 - Sandstone,5
 Mitt Romney,President ,,REP,Summers,Precinct 17 - Sandstone,27
-John R. Raese,US Senate,,REP,Summers,Precinct 17 - Sandstone,26
-Rick Snuffer,US House,3,REP,Summers,Precinct 17 - Sandstone,18
-Lee A. Bias,US House,3,REP,Summers,Precinct 17 - Sandstone,2
-Bill Lester,US House,3,REP,Summers,Precinct 17 - Sandstone,10
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 17 - Sandstone,26
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 17 - Sandstone,18
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 17 - Sandstone,2
+Bill Lester,U.S. House,3,REP,Summers,Precinct 17 - Sandstone,10
 Ralph William Clark,Governor,,REP,Summers,Precinct 17 - Sandstone,8
 Bill Maloney,Governor,,REP,Summers,Precinct 17 - Sandstone,26
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 17 - Sandstone,25
@@ -424,9 +424,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 17 - Sands
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 17 - Sandstone,
 Barack Obama,President ,,DEM,Summers,Precinct 22 - Jumping Branch,60
 Keith Judd,President ,,DEM,Summers,Precinct 22 - Jumping Branch,78
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 22 - Jumping Branch,34
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 22 - Jumping Branch,138
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 22 - Jumping Branch,134
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 22 - Jumping Branch,34
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 22 - Jumping Branch,138
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 22 - Jumping Branch,134
 Arne Moltis,Governor,,DEM,Summers,Precinct 22 - Jumping Branch,23
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 22 - Jumping Branch,146
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 22 - Jumping Branch,128
@@ -452,10 +452,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 22 - Jumping Branch,11
 Newt Gingrich,President ,,REP,Summers,Precinct 22 - Jumping Branch,8
 Ron Paul,President ,,REP,Summers,Precinct 22 - Jumping Branch,3
 Mitt Romney,President ,,REP,Summers,Precinct 22 - Jumping Branch,35
-John R. Raese,US Senate,,REP,Summers,Precinct 22 - Jumping Branch,50
-Rick Snuffer,US House,3,REP,Summers,Precinct 22 - Jumping Branch,48
-Lee A. Bias,US House,3,REP,Summers,Precinct 22 - Jumping Branch,0
-Bill Lester,US House,3,REP,Summers,Precinct 22 - Jumping Branch,10
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 22 - Jumping Branch,50
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 22 - Jumping Branch,48
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 22 - Jumping Branch,0
+Bill Lester,U.S. House,3,REP,Summers,Precinct 22 - Jumping Branch,10
 Ralph William Clark,Governor,,REP,Summers,Precinct 22 - Jumping Branch,7
 Bill Maloney,Governor,,REP,Summers,Precinct 22 - Jumping Branch,50
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 22 - Jumping Branch,44
@@ -471,9 +471,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 22 - Jumpi
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 22 - Jumping Branch,
 Barack Obama,President ,,DEM,Summers,Precinct 23 - White Oak,68
 Keith Judd,President ,,DEM,Summers,Precinct 23 - White Oak,71
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 23 - White Oak,34
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 23 - White Oak,140
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 23 - White Oak,132
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 23 - White Oak,34
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 23 - White Oak,140
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 23 - White Oak,132
 Arne Moltis,Governor,,DEM,Summers,Precinct 23 - White Oak,38
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 23 - White Oak,128
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 23 - White Oak,123
@@ -499,10 +499,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 23 - White Oak,5
 Newt Gingrich,President ,,REP,Summers,Precinct 23 - White Oak,8
 Ron Paul,President ,,REP,Summers,Precinct 23 - White Oak,5
 Mitt Romney,President ,,REP,Summers,Precinct 23 - White Oak,34
-John R. Raese,US Senate,,REP,Summers,Precinct 23 - White Oak,35
-Rick Snuffer,US House,3,REP,Summers,Precinct 23 - White Oak,39
-Lee A. Bias,US House,3,REP,Summers,Precinct 23 - White Oak,2
-Bill Lester,US House,3,REP,Summers,Precinct 23 - White Oak,5
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 23 - White Oak,35
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 23 - White Oak,39
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 23 - White Oak,2
+Bill Lester,U.S. House,3,REP,Summers,Precinct 23 - White Oak,5
 Ralph William Clark,Governor,,REP,Summers,Precinct 23 - White Oak,4
 Bill Maloney,Governor,,REP,Summers,Precinct 23 - White Oak,42
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 23 - White Oak,35
@@ -518,9 +518,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 23 - White
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 23 - White Oak,
 Barack Obama,President ,,DEM,Summers,Precinct 26 - Madams Creek,39
 Keith Judd,President ,,DEM,Summers,Precinct 26 - Madams Creek,35
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 26 - Madams Creek,13
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 26 - Madams Creek,70
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 26 - Madams Creek,73
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 26 - Madams Creek,13
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 26 - Madams Creek,70
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 26 - Madams Creek,73
 Arne Moltis,Governor,,DEM,Summers,Precinct 26 - Madams Creek,12
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 26 - Madams Creek,72
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 26 - Madams Creek,67
@@ -546,10 +546,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 26 - Madams Creek,2
 Newt Gingrich,President ,,REP,Summers,Precinct 26 - Madams Creek,1
 Ron Paul,President ,,REP,Summers,Precinct 26 - Madams Creek,2
 Mitt Romney,President ,,REP,Summers,Precinct 26 - Madams Creek,8
-John R. Raese,US Senate,,REP,Summers,Precinct 26 - Madams Creek,12
-Rick Snuffer,US House,3,REP,Summers,Precinct 26 - Madams Creek,7
-Lee A. Bias,US House,3,REP,Summers,Precinct 26 - Madams Creek,0
-Bill Lester,US House,3,REP,Summers,Precinct 26 - Madams Creek,4
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 26 - Madams Creek,12
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 26 - Madams Creek,7
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 26 - Madams Creek,0
+Bill Lester,U.S. House,3,REP,Summers,Precinct 26 - Madams Creek,4
 Ralph William Clark,Governor,,REP,Summers,Precinct 26 - Madams Creek,4
 Bill Maloney,Governor,,REP,Summers,Precinct 26 - Madams Creek,9
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 26 - Madams Creek,11
@@ -565,9 +565,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 26 - Madam
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 26 - Madams Creek,
 Barack Obama,President ,,DEM,Summers,Precinct 27 - Pipestem,83
 Keith Judd,President ,,DEM,Summers,Precinct 27 - Pipestem,78
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 27 - Pipestem,22
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 27 - Pipestem,170
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 27 - Pipestem,149
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 27 - Pipestem,22
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 27 - Pipestem,170
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 27 - Pipestem,149
 Arne Moltis,Governor,,DEM,Summers,Precinct 27 - Pipestem,18
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 27 - Pipestem,171
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 27 - Pipestem,136
@@ -593,10 +593,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 27 - Pipestem,13
 Newt Gingrich,President ,,REP,Summers,Precinct 27 - Pipestem,3
 Ron Paul,President ,,REP,Summers,Precinct 27 - Pipestem,7
 Mitt Romney,President ,,REP,Summers,Precinct 27 - Pipestem,52
-John R. Raese,US Senate,,REP,Summers,Precinct 27 - Pipestem,54
-Rick Snuffer,US House,3,REP,Summers,Precinct 27 - Pipestem,50
-Lee A. Bias,US House,3,REP,Summers,Precinct 27 - Pipestem,2
-Bill Lester,US House,3,REP,Summers,Precinct 27 - Pipestem,19
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 27 - Pipestem,54
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 27 - Pipestem,50
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 27 - Pipestem,2
+Bill Lester,U.S. House,3,REP,Summers,Precinct 27 - Pipestem,19
 Ralph William Clark,Governor,,REP,Summers,Precinct 27 - Pipestem,16
 Bill Maloney,Governor,,REP,Summers,Precinct 27 - Pipestem,55
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 27 - Pipestem,61
@@ -612,9 +612,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 27 - Pipes
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 27 - Pipestem,
 Barack Obama,President ,,DEM,Summers,Precinct 30 - Talcott,109
 Keith Judd,President ,,DEM,Summers,Precinct 30 - Talcott,84
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 30 - Talcott,28
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 30 - Talcott,191
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 30 - Talcott,187
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 30 - Talcott,28
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 30 - Talcott,191
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 30 - Talcott,187
 Arne Moltis,Governor,,DEM,Summers,Precinct 30 - Talcott,22
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 30 - Talcott,192
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 30 - Talcott,164
@@ -640,10 +640,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 30 - Talcott,4
 Newt Gingrich,President ,,REP,Summers,Precinct 30 - Talcott,6
 Ron Paul,President ,,REP,Summers,Precinct 30 - Talcott,2
 Mitt Romney,President ,,REP,Summers,Precinct 30 - Talcott,53
-John R. Raese,US Senate,,REP,Summers,Precinct 30 - Talcott,51
-Rick Snuffer,US House,3,REP,Summers,Precinct 30 - Talcott,41
-Lee A. Bias,US House,3,REP,Summers,Precinct 30 - Talcott,4
-Bill Lester,US House,3,REP,Summers,Precinct 30 - Talcott,13
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 30 - Talcott,51
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 30 - Talcott,41
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 30 - Talcott,4
+Bill Lester,U.S. House,3,REP,Summers,Precinct 30 - Talcott,13
 Ralph William Clark,Governor,,REP,Summers,Precinct 30 - Talcott,12
 Bill Maloney,Governor,,REP,Summers,Precinct 30 - Talcott,47
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 30 - Talcott,48
@@ -659,9 +659,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 30 - Talco
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 30 - Talcott,
 Barack Obama,President ,,DEM,Summers,Precinct 32 - Pence Springs,47
 Keith Judd,President ,,DEM,Summers,Precinct 32 - Pence Springs,64
-Sheirl Fletcher,US Senate,,DEM,Summers,Precinct 32 - Pence Springs,42
-Joe Manchin III,US Senate,,DEM,Summers,Precinct 32 - Pence Springs,83
-"Nick J. Rahall, II",US House,3,DEM,Summers,Precinct 32 - Pence Springs,103
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,Precinct 32 - Pence Springs,42
+Joe Manchin III,U.S. Senate,,DEM,Summers,Precinct 32 - Pence Springs,83
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,Precinct 32 - Pence Springs,103
 Arne Moltis,Governor,,DEM,Summers,Precinct 32 - Pence Springs,36
 Earl Ray Tomblin,Governor,,DEM,Summers,Precinct 32 - Pence Springs,88
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,Precinct 32 - Pence Springs,98
@@ -687,10 +687,10 @@ Rick Santorum,President ,,REP,Summers,Precinct 32 - Pence Springs,4
 Newt Gingrich,President ,,REP,Summers,Precinct 32 - Pence Springs,2
 Ron Paul,President ,,REP,Summers,Precinct 32 - Pence Springs,6
 Mitt Romney,President ,,REP,Summers,Precinct 32 - Pence Springs,18
-John R. Raese,US Senate,,REP,Summers,Precinct 32 - Pence Springs,19
-Rick Snuffer,US House,3,REP,Summers,Precinct 32 - Pence Springs,16
-Lee A. Bias,US House,3,REP,Summers,Precinct 32 - Pence Springs,1
-Bill Lester,US House,3,REP,Summers,Precinct 32 - Pence Springs,11
+John R. Raese,U.S. Senate,,REP,Summers,Precinct 32 - Pence Springs,19
+Rick Snuffer,U.S. House,3,REP,Summers,Precinct 32 - Pence Springs,16
+Lee A. Bias,U.S. House,3,REP,Summers,Precinct 32 - Pence Springs,1
+Bill Lester,U.S. House,3,REP,Summers,Precinct 32 - Pence Springs,11
 Ralph William Clark,Governor,,REP,Summers,Precinct 32 - Pence Springs,7
 Bill Maloney,Governor,,REP,Summers,Precinct 32 - Pence Springs,22
 Brian Savilla,Secretary of State ,,REP,Summers,Precinct 32 - Pence Springs,22
@@ -706,9 +706,9 @@ Marcie Easton (Greenbrier),House of Delegates,42,REP,Summers,Precinct 32 - Pence
 "George ""Boogie"" Ambler (Gbr)",House of Delegates,42,REP,Summers,Precinct 32 - Pence Springs,15
 Barack Obama,President ,,DEM,Summers,TOTALS,1008
 Keith Judd,President ,,DEM,Summers,TOTALS,807
-Sheirl Fletcher,US Senate,,DEM,Summers,TOTALS,376
-Joe Manchin III,US Senate,,DEM,Summers,TOTALS,1730
-"Nick J. Rahall, II",US House,3,DEM,Summers,TOTALS,1766
+Sheirl Fletcher,U.S. Senate,,DEM,Summers,TOTALS,376
+Joe Manchin III,U.S. Senate,,DEM,Summers,TOTALS,1730
+"Nick J. Rahall, II",U.S. House,3,DEM,Summers,TOTALS,1766
 Arne Moltis,Governor,,DEM,Summers,TOTALS,303
 Earl Ray Tomblin,Governor,,DEM,Summers,TOTALS,1750
 Natalie E. Tennant,Secretary of State ,,DEM,Summers,TOTALS,1544
@@ -734,10 +734,10 @@ Rick Santorum,President ,,REP,Summers,TOTALS,69
 Newt Gingrich,President ,,REP,Summers,TOTALS,52
 Ron Paul,President ,,REP,Summers,TOTALS,60
 Mitt Romney,President ,,REP,Summers,TOTALS,385
-John R. Raese,US Senate,,REP,Summers,TOTALS,413
-Rick Snuffer,US House,3,REP,Summers,TOTALS,373
-Lee A. Bias,US House,3,REP,Summers,TOTALS,19
-Bill Lester,US House,3,REP,Summers,TOTALS,125
+John R. Raese,U.S. Senate,,REP,Summers,TOTALS,413
+Rick Snuffer,U.S. House,3,REP,Summers,TOTALS,373
+Lee A. Bias,U.S. House,3,REP,Summers,TOTALS,19
+Bill Lester,U.S. House,3,REP,Summers,TOTALS,125
 Ralph William Clark,Governor,,REP,Summers,TOTALS,107
 Bill Maloney,Governor,,REP,Summers,TOTALS,428
 Brian Savilla,Secretary of State ,,REP,Summers,TOTALS,423

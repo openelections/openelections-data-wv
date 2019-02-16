@@ -1,11 +1,11 @@
 candidate,office,district,party,county,precinct,votes
 Barack Obama,President ,,DEM,Putnam,Precinct 1,60
 Keith Judd,President ,,DEM,Putnam,Precinct 1,21
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 1,63
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 1,26
-William McCann,US House,2,DEM,Putnam,Precinct 1,15
-Dugald Brown,US House,2,DEM,Putnam,Precinct 1,9
-Howard Swint,US House,2,DEM,Putnam,Precinct 1,52
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 1,63
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 1,26
+William McCann,U.S. House,2,DEM,Putnam,Precinct 1,15
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 1,9
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 1,52
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 1,71
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 1,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 1,79
@@ -37,10 +37,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 1,82
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 1,0
 Rick Santorum,President ,,REP,Putnam,Precinct 1,21
 Newt Gingrich,President ,,REP,Putnam,Precinct 1,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 1,94
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 1,119
-Jonathan Miller,US House,2,REP,Putnam,Precinct 1,5
-Michael Davis,US House,2,REP,Putnam,Precinct 1,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 1,94
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 1,119
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 1,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 1,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 1,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 1,96
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 1,97
@@ -64,11 +64,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 1,
 Barack Obama,President ,,DEM,Putnam,Precinct 2,39
 Keith Judd,President ,,DEM,Putnam,Precinct 2,25
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 2,65
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 2,13
-William McCann,US House,2,DEM,Putnam,Precinct 2,7
-Dugald Brown,US House,2,DEM,Putnam,Precinct 2,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 2,39
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 2,65
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 2,13
+William McCann,U.S. House,2,DEM,Putnam,Precinct 2,7
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 2,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 2,39
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 2,57
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 2,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 2,72
@@ -100,10 +100,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 2,39
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 2,2
 Rick Santorum,President ,,REP,Putnam,Precinct 2,12
 Newt Gingrich,President ,,REP,Putnam,Precinct 2,3
-John R. Raese,US Senate,,REP,Putnam,Precinct 2,45
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 2,59
-Jonathan Miller,US House,2,REP,Putnam,Precinct 2,0
-Michael Davis,US House,2,REP,Putnam,Precinct 2,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 2,45
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 2,59
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 2,0
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 2,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 2,7
 Bill Maloney,Governor,,REP,Putnam,Precinct 2,43
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 2,50
@@ -127,11 +127,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 2,
 Barack Obama,President ,,DEM,Putnam,Precinct 4,57
 Keith Judd,President ,,DEM,Putnam,Precinct 4,26
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 4,74
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 4,23
-William McCann,US House,2,DEM,Putnam,Precinct 4,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 4,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 4,68
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 4,74
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 4,23
+William McCann,U.S. House,2,DEM,Putnam,Precinct 4,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 4,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 4,68
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 4,78
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 4,20
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 4,89
@@ -163,10 +163,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 4,60
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 4,1
 Rick Santorum,President ,,REP,Putnam,Precinct 4,13
 Newt Gingrich,President ,,REP,Putnam,Precinct 4,7
-John R. Raese,US Senate,,REP,Putnam,Precinct 4,71
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 4,87
-Jonathan Miller,US House,2,REP,Putnam,Precinct 4,1
-Michael Davis,US House,2,REP,Putnam,Precinct 4,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 4,71
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 4,87
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 4,1
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 4,1
 Ralph William Clark,Governor,,REP,Putnam,Precinct 4,10
 Bill Maloney,Governor,,REP,Putnam,Precinct 4,70
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 4,74
@@ -190,11 +190,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 4,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 4,
 Barack Obama,President ,,DEM,Putnam,Precinct 6-1,61
 Keith Judd,President ,,DEM,Putnam,Precinct 6-1,38
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 6-1,87
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 6-1,19
-William McCann,US House,2,DEM,Putnam,Precinct 6-1,16
-Dugald Brown,US House,2,DEM,Putnam,Precinct 6-1,7
-Howard Swint,US House,2,DEM,Putnam,Precinct 6-1,64
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 6-1,87
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 6-1,19
+William McCann,U.S. House,2,DEM,Putnam,Precinct 6-1,16
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 6-1,7
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 6-1,64
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 6-1,81
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 6-1,23
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 6-1,96
@@ -226,10 +226,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 6-1,113
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 6-1,2
 Rick Santorum,President ,,REP,Putnam,Precinct 6-1,28
 Newt Gingrich,President ,,REP,Putnam,Precinct 6-1,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 6-1,151
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 6-1,160
-Jonathan Miller,US House,2,REP,Putnam,Precinct 6-1,8
-Michael Davis,US House,2,REP,Putnam,Precinct 6-1,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 6-1,151
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 6-1,160
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 6-1,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 6-1,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 6-1,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 6-1,149
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 6-1,140
@@ -253,11 +253,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 6-1,133
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 6-1,58
 Barack Obama,President ,,DEM,Putnam,Precinct 6-2,53
 Keith Judd,President ,,DEM,Putnam,Precinct 6-2,36
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 6-2,72
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 6-2,28
-William McCann,US House,2,DEM,Putnam,Precinct 6-2,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 6-2,7
-Howard Swint,US House,2,DEM,Putnam,Precinct 6-2,58
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 6-2,72
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 6-2,28
+William McCann,U.S. House,2,DEM,Putnam,Precinct 6-2,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 6-2,7
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 6-2,58
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 6-2,75
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 6-2,25
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 6-2,85
@@ -289,10 +289,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 6-2,98
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 6-2,1
 Rick Santorum,President ,,REP,Putnam,Precinct 6-2,14
 Newt Gingrich,President ,,REP,Putnam,Precinct 6-2,3
-John R. Raese,US Senate,,REP,Putnam,Precinct 6-2,112
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 6-2,137
-Jonathan Miller,US House,2,REP,Putnam,Precinct 6-2,3
-Michael Davis,US House,2,REP,Putnam,Precinct 6-2,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 6-2,112
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 6-2,137
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 6-2,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 6-2,2
 Ralph William Clark,Governor,,REP,Putnam,Precinct 6-2,22
 Bill Maloney,Governor,,REP,Putnam,Precinct 6-2,107
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 6-2,106
@@ -316,11 +316,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 6-2,113
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 6-2,45
 Barack Obama,President ,,DEM,Putnam,Precinct 7,53
 Keith Judd,President ,,DEM,Putnam,Precinct 7,18
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 7,60
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 7,23
-William McCann,US House,2,DEM,Putnam,Precinct 7,10
-Dugald Brown,US House,2,DEM,Putnam,Precinct 7,2
-Howard Swint,US House,2,DEM,Putnam,Precinct 7,51
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 7,60
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 7,23
+William McCann,U.S. House,2,DEM,Putnam,Precinct 7,10
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 7,2
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 7,51
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 7,64
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 7,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 7,68
@@ -352,10 +352,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 7,49
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 7,2
 Rick Santorum,President ,,REP,Putnam,Precinct 7,10
 Newt Gingrich,President ,,REP,Putnam,Precinct 7,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 7,66
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 7,67
-Jonathan Miller,US House,2,REP,Putnam,Precinct 7,5
-Michael Davis,US House,2,REP,Putnam,Precinct 7,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 7,66
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 7,67
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 7,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 7,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 7,11
 Bill Maloney,Governor,,REP,Putnam,Precinct 7,58
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 7,64
@@ -379,11 +379,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 7,64
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 7,26
 Barack Obama,President ,,DEM,Putnam,Precinct 8-1,38
 Keith Judd,President ,,DEM,Putnam,Precinct 8-1,23
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 8-1,50
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 8-1,18
-William McCann,US House,2,DEM,Putnam,Precinct 8-1,8
-Dugald Brown,US House,2,DEM,Putnam,Precinct 8-1,5
-Howard Swint,US House,2,DEM,Putnam,Precinct 8-1,43
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 8-1,50
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 8-1,18
+William McCann,U.S. House,2,DEM,Putnam,Precinct 8-1,8
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 8-1,5
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 8-1,43
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 8-1,49
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 8-1,19
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 8-1,60
@@ -415,10 +415,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 8-1,57
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 8-1,1
 Rick Santorum,President ,,REP,Putnam,Precinct 8-1,8
 Newt Gingrich,President ,,REP,Putnam,Precinct 8-1,3
-John R. Raese,US Senate,,REP,Putnam,Precinct 8-1,64
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 8-1,77
-Jonathan Miller,US House,2,REP,Putnam,Precinct 8-1,3
-Michael Davis,US House,2,REP,Putnam,Precinct 8-1,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 8-1,64
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 8-1,77
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 8-1,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 8-1,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 8-1,8
 Bill Maloney,Governor,,REP,Putnam,Precinct 8-1,67
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 8-1,62
@@ -442,11 +442,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 8-1,65
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 8-1,18
 Barack Obama,President ,,DEM,Putnam,Precinct 8-2,50
 Keith Judd,President ,,DEM,Putnam,Precinct 8-2,21
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 8-2,64
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 8-2,18
-William McCann,US House,2,DEM,Putnam,Precinct 8-2,10
-Dugald Brown,US House,2,DEM,Putnam,Precinct 8-2,9
-Howard Swint,US House,2,DEM,Putnam,Precinct 8-2,46
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 8-2,64
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 8-2,18
+William McCann,U.S. House,2,DEM,Putnam,Precinct 8-2,10
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 8-2,9
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 8-2,46
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 8-2,60
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 8-2,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 8-2,69
@@ -478,10 +478,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 8-2,66
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 8-2,1
 Rick Santorum,President ,,REP,Putnam,Precinct 8-2,18
 Newt Gingrich,President ,,REP,Putnam,Precinct 8-2,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 8-2,86
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 8-2,96
-Jonathan Miller,US House,2,REP,Putnam,Precinct 8-2,6
-Michael Davis,US House,2,REP,Putnam,Precinct 8-2,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 8-2,86
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 8-2,96
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 8-2,6
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 8-2,2
 Ralph William Clark,Governor,,REP,Putnam,Precinct 8-2,12
 Bill Maloney,Governor,,REP,Putnam,Precinct 8-2,89
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 8-2,85
@@ -505,11 +505,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 8-2,83
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 8-2,39
 Barack Obama,President ,,DEM,Putnam,Precinct 9,46
 Keith Judd,President ,,DEM,Putnam,Precinct 9,16
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 9,52
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 9,12
-William McCann,US House,2,DEM,Putnam,Precinct 9,6
-Dugald Brown,US House,2,DEM,Putnam,Precinct 9,3
-Howard Swint,US House,2,DEM,Putnam,Precinct 9,49
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 9,52
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 9,12
+William McCann,U.S. House,2,DEM,Putnam,Precinct 9,6
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 9,3
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 9,49
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 9,56
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 9,9
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 9,64
@@ -541,10 +541,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 9,70
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 9,0
 Rick Santorum,President ,,REP,Putnam,Precinct 9,8
 Newt Gingrich,President ,,REP,Putnam,Precinct 9,3
-John R. Raese,US Senate,,REP,Putnam,Precinct 9,64
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 9,82
-Jonathan Miller,US House,2,REP,Putnam,Precinct 9,5
-Michael Davis,US House,2,REP,Putnam,Precinct 9,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 9,64
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 9,82
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 9,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 9,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 9,10
 Bill Maloney,Governor,,REP,Putnam,Precinct 9,74
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 9,63
@@ -568,11 +568,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 9,66
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 9,21
 Barack Obama,President ,,DEM,Putnam,Precinct 10-1,58
 Keith Judd,President ,,DEM,Putnam,Precinct 10-1,54
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 10-1,82
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 10-1,37
-William McCann,US House,2,DEM,Putnam,Precinct 10-1,18
-Dugald Brown,US House,2,DEM,Putnam,Precinct 10-1,11
-Howard Swint,US House,2,DEM,Putnam,Precinct 10-1,74
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 10-1,82
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 10-1,37
+William McCann,U.S. House,2,DEM,Putnam,Precinct 10-1,18
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 10-1,11
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 10-1,74
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 10-1,93
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 10-1,27
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 10-1,106
@@ -604,10 +604,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 10-1,68
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 10-1,2
 Rick Santorum,President ,,REP,Putnam,Precinct 10-1,12
 Newt Gingrich,President ,,REP,Putnam,Precinct 10-1,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 10-1,82
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 10-1,86
-Jonathan Miller,US House,2,REP,Putnam,Precinct 10-1,5
-Michael Davis,US House,2,REP,Putnam,Precinct 10-1,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 10-1,82
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 10-1,86
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 10-1,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 10-1,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 10-1,17
 Bill Maloney,Governor,,REP,Putnam,Precinct 10-1,76
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 10-1,72
@@ -631,11 +631,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 10-1,72
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 10-1,27
 Barack Obama,President ,,DEM,Putnam,Precinct 10-2,56
 Keith Judd,President ,,DEM,Putnam,Precinct 10-2,35
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 10-2,90
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 10-2,13
-William McCann,US House,2,DEM,Putnam,Precinct 10-2,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 10-2,11
-Howard Swint,US House,2,DEM,Putnam,Precinct 10-2,63
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 10-2,90
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 10-2,13
+William McCann,U.S. House,2,DEM,Putnam,Precinct 10-2,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 10-2,11
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 10-2,63
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 10-2,86
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 10-2,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 10-2,93
@@ -667,10 +667,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 10-2,81
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 10-2,2
 Rick Santorum,President ,,REP,Putnam,Precinct 10-2,8
 Newt Gingrich,President ,,REP,Putnam,Precinct 10-2,7
-John R. Raese,US Senate,,REP,Putnam,Precinct 10-2,97
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 10-2,101
-Jonathan Miller,US House,2,REP,Putnam,Precinct 10-2,6
-Michael Davis,US House,2,REP,Putnam,Precinct 10-2,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 10-2,97
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 10-2,101
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 10-2,6
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 10-2,1
 Ralph William Clark,Governor,,REP,Putnam,Precinct 10-2,8
 Bill Maloney,Governor,,REP,Putnam,Precinct 10-2,99
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 10-2,91
@@ -694,11 +694,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 10-2,90
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 10-2,36
 Barack Obama,President ,,DEM,Putnam,Precinct 11,81
 Keith Judd,President ,,DEM,Putnam,Precinct 11,13
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 11,44
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 11,12
-William McCann,US House,2,DEM,Putnam,Precinct 11,12
-Dugald Brown,US House,2,DEM,Putnam,Precinct 11,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 11,29
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 11,44
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 11,12
+William McCann,U.S. House,2,DEM,Putnam,Precinct 11,12
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 11,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 11,29
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 11,46
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 11,9
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 11,49
@@ -730,10 +730,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 11,63
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 11,1
 Rick Santorum,President ,,REP,Putnam,Precinct 11,11
 Newt Gingrich,President ,,REP,Putnam,Precinct 11,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 11,86
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 11,89
-Jonathan Miller,US House,2,REP,Putnam,Precinct 11,0
-Michael Davis,US House,2,REP,Putnam,Precinct 11,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 11,86
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 11,89
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 11,0
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 11,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 11,14
 Bill Maloney,Governor,,REP,Putnam,Precinct 11,75
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 11,72
@@ -757,11 +757,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 11,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 11,
 Barack Obama,President ,,DEM,Putnam,Precinct 14,60
 Keith Judd,President ,,DEM,Putnam,Precinct 14,30
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 14,76
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 14,21
-William McCann,US House,2,DEM,Putnam,Precinct 14,9
-Dugald Brown,US House,2,DEM,Putnam,Precinct 14,7
-Howard Swint,US House,2,DEM,Putnam,Precinct 14,59
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 14,76
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 14,21
+William McCann,U.S. House,2,DEM,Putnam,Precinct 14,9
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 14,7
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 14,59
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 14,74
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 14,22
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 14,88
@@ -793,10 +793,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 14,88
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 14,0
 Rick Santorum,President ,,REP,Putnam,Precinct 14,14
 Newt Gingrich,President ,,REP,Putnam,Precinct 14,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 14,92
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 14,115
-Jonathan Miller,US House,2,REP,Putnam,Precinct 14,3
-Michael Davis,US House,2,REP,Putnam,Precinct 14,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 14,92
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 14,115
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 14,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 14,2
 Ralph William Clark,Governor,,REP,Putnam,Precinct 14,14
 Bill Maloney,Governor,,REP,Putnam,Precinct 14,101
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 14,98
@@ -820,11 +820,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 14,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 14,
 Barack Obama,President ,,DEM,Putnam,Precinct 15,55
 Keith Judd,President ,,DEM,Putnam,Precinct 15,24
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 15,83
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 15,13
-William McCann,US House,2,DEM,Putnam,Precinct 15,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 15,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 15,56
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 15,83
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 15,13
+William McCann,U.S. House,2,DEM,Putnam,Precinct 15,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 15,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 15,56
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 15,86
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 15,10
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 15,83
@@ -856,10 +856,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 15,45
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 15,0
 Rick Santorum,President ,,REP,Putnam,Precinct 15,8
 Newt Gingrich,President ,,REP,Putnam,Precinct 15,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 15,52
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 15,58
-Jonathan Miller,US House,2,REP,Putnam,Precinct 15,6
-Michael Davis,US House,2,REP,Putnam,Precinct 15,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 15,52
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 15,58
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 15,6
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 15,2
 Ralph William Clark,Governor,,REP,Putnam,Precinct 15,11
 Bill Maloney,Governor,,REP,Putnam,Precinct 15,50
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 15,59
@@ -883,11 +883,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 15,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 15,
 Barack Obama,President ,,DEM,Putnam,Precinct 16,61
 Keith Judd,President ,,DEM,Putnam,Precinct 16,34
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 16,90
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 16,13
-William McCann,US House,2,DEM,Putnam,Precinct 16,12
-Dugald Brown,US House,2,DEM,Putnam,Precinct 16,7
-Howard Swint,US House,2,DEM,Putnam,Precinct 16,65
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 16,90
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 16,13
+William McCann,U.S. House,2,DEM,Putnam,Precinct 16,12
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 16,7
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 16,65
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 16,88
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 16,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 16,96
@@ -919,10 +919,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 16,62
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 16,1
 Rick Santorum,President ,,REP,Putnam,Precinct 16,11
 Newt Gingrich,President ,,REP,Putnam,Precinct 16,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 16,75
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 16,86
-Jonathan Miller,US House,2,REP,Putnam,Precinct 16,4
-Michael Davis,US House,2,REP,Putnam,Precinct 16,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 16,75
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 16,86
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 16,4
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 16,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 16,7
 Bill Maloney,Governor,,REP,Putnam,Precinct 16,77
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 16,74
@@ -946,11 +946,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 16,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 16,
 Barack Obama,President ,,DEM,Putnam,Precinct 17,47
 Keith Judd,President ,,DEM,Putnam,Precinct 17,31
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 17,61
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 17,21
-William McCann,US House,2,DEM,Putnam,Precinct 17,11
-Dugald Brown,US House,2,DEM,Putnam,Precinct 17,2
-Howard Swint,US House,2,DEM,Putnam,Precinct 17,56
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 17,61
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 17,21
+William McCann,U.S. House,2,DEM,Putnam,Precinct 17,11
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 17,2
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 17,56
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 17,63
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 17,21
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 17,77
@@ -982,10 +982,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 17,75
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 17,1
 Rick Santorum,President ,,REP,Putnam,Precinct 17,12
 Newt Gingrich,President ,,REP,Putnam,Precinct 17,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 17,92
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 17,101
-Jonathan Miller,US House,2,REP,Putnam,Precinct 17,5
-Michael Davis,US House,2,REP,Putnam,Precinct 17,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 17,92
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 17,101
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 17,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 17,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 17,17
 Bill Maloney,Governor,,REP,Putnam,Precinct 17,89
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 17,92
@@ -1009,11 +1009,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 17,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 17,
 Barack Obama,President ,,DEM,Putnam,Precinct 18,47
 Keith Judd,President ,,DEM,Putnam,Precinct 18,21
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 18,67
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 18,10
-William McCann,US House,2,DEM,Putnam,Precinct 18,15
-Dugald Brown,US House,2,DEM,Putnam,Precinct 18,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 18,43
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 18,67
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 18,10
+William McCann,U.S. House,2,DEM,Putnam,Precinct 18,15
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 18,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 18,43
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 18,67
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 18,11
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 18,70
@@ -1045,10 +1045,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 18,22
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 18,0
 Rick Santorum,President ,,REP,Putnam,Precinct 18,2
 Newt Gingrich,President ,,REP,Putnam,Precinct 18,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 18,29
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 18,34
-Jonathan Miller,US House,2,REP,Putnam,Precinct 18,0
-Michael Davis,US House,2,REP,Putnam,Precinct 18,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 18,29
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 18,34
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 18,0
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 18,2
 Ralph William Clark,Governor,,REP,Putnam,Precinct 18,6
 Bill Maloney,Governor,,REP,Putnam,Precinct 18,27
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 18,32
@@ -1072,11 +1072,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 18,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 18,
 Barack Obama,President ,,DEM,Putnam,Precinct 19,40
 Keith Judd,President ,,DEM,Putnam,Precinct 19,15
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 19,54
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 19,12
-William McCann,US House,2,DEM,Putnam,Precinct 19,11
-Dugald Brown,US House,2,DEM,Putnam,Precinct 19,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 19,37
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 19,54
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 19,12
+William McCann,U.S. House,2,DEM,Putnam,Precinct 19,11
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 19,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 19,37
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 19,52
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 19,14
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 19,61
@@ -1108,10 +1108,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 19,10
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 19,1
 Rick Santorum,President ,,REP,Putnam,Precinct 19,1
 Newt Gingrich,President ,,REP,Putnam,Precinct 19,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 19,15
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 19,18
-Jonathan Miller,US House,2,REP,Putnam,Precinct 19,0
-Michael Davis,US House,2,REP,Putnam,Precinct 19,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 19,15
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 19,18
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 19,0
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 19,1
 Ralph William Clark,Governor,,REP,Putnam,Precinct 19,1
 Bill Maloney,Governor,,REP,Putnam,Precinct 19,18
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 19,17
@@ -1135,11 +1135,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 19,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 19,
 Barack Obama,President ,,DEM,Putnam,Precinct 21,39
 Keith Judd,President ,,DEM,Putnam,Precinct 21,26
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 21,45
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 21,23
-William McCann,US House,2,DEM,Putnam,Precinct 21,11
-Dugald Brown,US House,2,DEM,Putnam,Precinct 21,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 21,42
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 21,45
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 21,23
+William McCann,U.S. House,2,DEM,Putnam,Precinct 21,11
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 21,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 21,42
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 21,45
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 21,19
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 21,60
@@ -1171,10 +1171,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 21,30
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 21,0
 Rick Santorum,President ,,REP,Putnam,Precinct 21,4
 Newt Gingrich,President ,,REP,Putnam,Precinct 21,3
-John R. Raese,US Senate,,REP,Putnam,Precinct 21,34
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 21,37
-Jonathan Miller,US House,2,REP,Putnam,Precinct 21,0
-Michael Davis,US House,2,REP,Putnam,Precinct 21,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 21,34
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 21,37
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 21,0
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 21,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 21,3
 Bill Maloney,Governor,,REP,Putnam,Precinct 21,35
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 21,35
@@ -1198,11 +1198,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 21,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 21,
 Barack Obama,President ,,DEM,Putnam,Precinct 22,40
 Keith Judd,President ,,DEM,Putnam,Precinct 22,16
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 22,59
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 22,14
-William McCann,US House,2,DEM,Putnam,Precinct 22,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 22,4
-Howard Swint,US House,2,DEM,Putnam,Precinct 22,48
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 22,59
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 22,14
+William McCann,U.S. House,2,DEM,Putnam,Precinct 22,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 22,4
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 22,48
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 22,65
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 22,7
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 22,63
@@ -1234,10 +1234,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 22,29
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 22,2
 Rick Santorum,President ,,REP,Putnam,Precinct 22,6
 Newt Gingrich,President ,,REP,Putnam,Precinct 22,8
-John R. Raese,US Senate,,REP,Putnam,Precinct 22,44
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 22,47
-Jonathan Miller,US House,2,REP,Putnam,Precinct 22,2
-Michael Davis,US House,2,REP,Putnam,Precinct 22,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 22,44
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 22,47
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 22,2
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 22,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 22,8
 Bill Maloney,Governor,,REP,Putnam,Precinct 22,44
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 22,44
@@ -1261,11 +1261,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 22,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 22,
 Barack Obama,President ,,DEM,Putnam,Precinct 23,75
 Keith Judd,President ,,DEM,Putnam,Precinct 23,25
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 23,87
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 23,34
-William McCann,US House,2,DEM,Putnam,Precinct 23,15
-Dugald Brown,US House,2,DEM,Putnam,Precinct 23,4
-Howard Swint,US House,2,DEM,Putnam,Precinct 23,77
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 23,87
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 23,34
+William McCann,U.S. House,2,DEM,Putnam,Precinct 23,15
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 23,4
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 23,77
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 23,94
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 23,23
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 23,109
@@ -1297,10 +1297,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 23,53
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 23,0
 Rick Santorum,President ,,REP,Putnam,Precinct 23,17
 Newt Gingrich,President ,,REP,Putnam,Precinct 23,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 23,64
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 23,67
-Jonathan Miller,US House,2,REP,Putnam,Precinct 23,4
-Michael Davis,US House,2,REP,Putnam,Precinct 23,10
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 23,64
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 23,67
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 23,4
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 23,10
 Ralph William Clark,Governor,,REP,Putnam,Precinct 23,12
 Bill Maloney,Governor,,REP,Putnam,Precinct 23,64
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 23,69
@@ -1324,11 +1324,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 23,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 23,
 Barack Obama,President ,,DEM,Putnam,Precinct 24,35
 Keith Judd,President ,,DEM,Putnam,Precinct 24,17
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 24,33
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 24,24
-William McCann,US House,2,DEM,Putnam,Precinct 24,8
-Dugald Brown,US House,2,DEM,Putnam,Precinct 24,9
-Howard Swint,US House,2,DEM,Putnam,Precinct 24,31
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 24,33
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 24,24
+William McCann,U.S. House,2,DEM,Putnam,Precinct 24,8
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 24,9
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 24,31
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 24,41
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 24,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 24,51
@@ -1360,10 +1360,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 24,56
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 24,0
 Rick Santorum,President ,,REP,Putnam,Precinct 24,13
 Newt Gingrich,President ,,REP,Putnam,Precinct 24,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 24,66
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 24,70
-Jonathan Miller,US House,2,REP,Putnam,Precinct 24,7
-Michael Davis,US House,2,REP,Putnam,Precinct 24,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 24,66
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 24,70
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 24,7
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 24,1
 Ralph William Clark,Governor,,REP,Putnam,Precinct 24,3
 Bill Maloney,Governor,,REP,Putnam,Precinct 24,70
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 24,62
@@ -1387,11 +1387,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 24,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 24,
 Barack Obama,President ,,DEM,Putnam,Precinct 25-1,75
 Keith Judd,President ,,DEM,Putnam,Precinct 25-1,28
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 25-1,87
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 25-1,29
-William McCann,US House,2,DEM,Putnam,Precinct 25-1,21
-Dugald Brown,US House,2,DEM,Putnam,Precinct 25-1,11
-Howard Swint,US House,2,DEM,Putnam,Precinct 25-1,65
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 25-1,87
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 25-1,29
+William McCann,U.S. House,2,DEM,Putnam,Precinct 25-1,21
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 25-1,11
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 25-1,65
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 25-1,89
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 25-1,28
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 25-1,105
@@ -1423,10 +1423,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 25-1,150
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 25-1,0
 Rick Santorum,President ,,REP,Putnam,Precinct 25-1,15
 Newt Gingrich,President ,,REP,Putnam,Precinct 25-1,11
-John R. Raese,US Senate,,REP,Putnam,Precinct 25-1,164
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 25-1,179
-Jonathan Miller,US House,2,REP,Putnam,Precinct 25-1,8
-Michael Davis,US House,2,REP,Putnam,Precinct 25-1,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 25-1,164
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 25-1,179
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 25-1,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 25-1,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 25-1,14
 Bill Maloney,Governor,,REP,Putnam,Precinct 25-1,162
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 25-1,150
@@ -1450,11 +1450,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 25-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 25-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 25-2,56
 Keith Judd,President ,,DEM,Putnam,Precinct 25-2,34
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 25-2,67
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 25-2,36
-William McCann,US House,2,DEM,Putnam,Precinct 25-2,21
-Dugald Brown,US House,2,DEM,Putnam,Precinct 25-2,9
-Howard Swint,US House,2,DEM,Putnam,Precinct 25-2,52
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 25-2,67
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 25-2,36
+William McCann,U.S. House,2,DEM,Putnam,Precinct 25-2,21
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 25-2,9
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 25-2,52
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 25-2,74
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 25-2,27
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 25-2,92
@@ -1486,10 +1486,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 25-2,126
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 25-2,2
 Rick Santorum,President ,,REP,Putnam,Precinct 25-2,15
 Newt Gingrich,President ,,REP,Putnam,Precinct 25-2,8
-John R. Raese,US Senate,,REP,Putnam,Precinct 25-2,130
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 25-2,156
-Jonathan Miller,US House,2,REP,Putnam,Precinct 25-2,6
-Michael Davis,US House,2,REP,Putnam,Precinct 25-2,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 25-2,130
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 25-2,156
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 25-2,6
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 25-2,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 25-2,21
 Bill Maloney,Governor,,REP,Putnam,Precinct 25-2,140
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 25-2,141
@@ -1513,11 +1513,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 25-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 25-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 26-1,89
 Keith Judd,President ,,DEM,Putnam,Precinct 26-1,23
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 26-1,93
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 26-1,29
-William McCann,US House,2,DEM,Putnam,Precinct 26-1,18
-Dugald Brown,US House,2,DEM,Putnam,Precinct 26-1,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 26-1,74
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 26-1,93
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 26-1,29
+William McCann,U.S. House,2,DEM,Putnam,Precinct 26-1,18
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 26-1,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 26-1,74
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 26-1,102
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 26-1,20
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 26-1,118
@@ -1549,10 +1549,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 26-1,118
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 26-1,1
 Rick Santorum,President ,,REP,Putnam,Precinct 26-1,24
 Newt Gingrich,President ,,REP,Putnam,Precinct 26-1,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 26-1,142
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 26-1,165
-Jonathan Miller,US House,2,REP,Putnam,Precinct 26-1,7
-Michael Davis,US House,2,REP,Putnam,Precinct 26-1,8
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 26-1,142
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 26-1,165
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 26-1,7
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 26-1,8
 Ralph William Clark,Governor,,REP,Putnam,Precinct 26-1,17
 Bill Maloney,Governor,,REP,Putnam,Precinct 26-1,148
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 26-1,147
@@ -1576,11 +1576,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 26-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 26-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 26-2,80
 Keith Judd,President ,,DEM,Putnam,Precinct 26-2,39
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 26-2,103
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 26-2,28
-William McCann,US House,2,DEM,Putnam,Precinct 26-2,18
-Dugald Brown,US House,2,DEM,Putnam,Precinct 26-2,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 26-2,82
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 26-2,103
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 26-2,28
+William McCann,U.S. House,2,DEM,Putnam,Precinct 26-2,18
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 26-2,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 26-2,82
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 26-2,98
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 26-2,28
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 26-2,117
@@ -1612,10 +1612,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 26-2,106
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 26-2,1
 Rick Santorum,President ,,REP,Putnam,Precinct 26-2,22
 Newt Gingrich,President ,,REP,Putnam,Precinct 26-2,10
-John R. Raese,US Senate,,REP,Putnam,Precinct 26-2,121
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 26-2,146
-Jonathan Miller,US House,2,REP,Putnam,Precinct 26-2,7
-Michael Davis,US House,2,REP,Putnam,Precinct 26-2,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 26-2,121
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 26-2,146
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 26-2,7
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 26-2,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 26-2,13
 Bill Maloney,Governor,,REP,Putnam,Precinct 26-2,130
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 26-2,125
@@ -1639,11 +1639,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 26-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 26-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 27-1,61
 Keith Judd,President ,,DEM,Putnam,Precinct 27-1,22
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 27-1,71
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 27-1,21
-William McCann,US House,2,DEM,Putnam,Precinct 27-1,8
-Dugald Brown,US House,2,DEM,Putnam,Precinct 27-1,5
-Howard Swint,US House,2,DEM,Putnam,Precinct 27-1,59
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 27-1,71
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 27-1,21
+William McCann,U.S. House,2,DEM,Putnam,Precinct 27-1,8
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 27-1,5
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 27-1,59
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 27-1,74
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 27-1,17
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 27-1,81
@@ -1675,10 +1675,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 27-1,107
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 27-1,1
 Rick Santorum,President ,,REP,Putnam,Precinct 27-1,25
 Newt Gingrich,President ,,REP,Putnam,Precinct 27-1,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 27-1,123
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 27-1,141
-Jonathan Miller,US House,2,REP,Putnam,Precinct 27-1,8
-Michael Davis,US House,2,REP,Putnam,Precinct 27-1,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 27-1,123
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 27-1,141
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 27-1,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 27-1,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 27-1,18
 Bill Maloney,Governor,,REP,Putnam,Precinct 27-1,126
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 27-1,123
@@ -1702,11 +1702,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 27-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 27-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 27-2,46
 Keith Judd,President ,,DEM,Putnam,Precinct 27-2,43
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 27-2,78
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 27-2,29
-William McCann,US House,2,DEM,Putnam,Precinct 27-2,15
-Dugald Brown,US House,2,DEM,Putnam,Precinct 27-2,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 27-2,65
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 27-2,78
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 27-2,29
+William McCann,U.S. House,2,DEM,Putnam,Precinct 27-2,15
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 27-2,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 27-2,65
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 27-2,88
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 27-2,19
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 27-2,91
@@ -1738,10 +1738,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 27-2,118
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 27-2,0
 Rick Santorum,President ,,REP,Putnam,Precinct 27-2,13
 Newt Gingrich,President ,,REP,Putnam,Precinct 27-2,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 27-2,135
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 27-2,145
-Jonathan Miller,US House,2,REP,Putnam,Precinct 27-2,2
-Michael Davis,US House,2,REP,Putnam,Precinct 27-2,9
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 27-2,135
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 27-2,145
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 27-2,2
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 27-2,9
 Ralph William Clark,Governor,,REP,Putnam,Precinct 27-2,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 27-2,134
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 27-2,133
@@ -1765,11 +1765,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 27-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 27-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 28-1,40
 Keith Judd,President ,,DEM,Putnam,Precinct 28-1,31
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 28-1,48
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 28-1,29
-William McCann,US House,2,DEM,Putnam,Precinct 28-1,13
-Dugald Brown,US House,2,DEM,Putnam,Precinct 28-1,9
-Howard Swint,US House,2,DEM,Putnam,Precinct 28-1,47
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 28-1,48
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 28-1,29
+William McCann,U.S. House,2,DEM,Putnam,Precinct 28-1,13
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 28-1,9
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 28-1,47
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 28-1,52
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 28-1,27
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 28-1,66
@@ -1801,10 +1801,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 28-1,94
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 28-1,0
 Rick Santorum,President ,,REP,Putnam,Precinct 28-1,20
 Newt Gingrich,President ,,REP,Putnam,Precinct 28-1,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 28-1,110
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 28-1,120
-Jonathan Miller,US House,2,REP,Putnam,Precinct 28-1,4
-Michael Davis,US House,2,REP,Putnam,Precinct 28-1,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 28-1,110
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 28-1,120
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 28-1,4
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 28-1,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 28-1,18
 Bill Maloney,Governor,,REP,Putnam,Precinct 28-1,108
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 28-1,114
@@ -1828,11 +1828,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 28-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 28-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 28-2,61
 Keith Judd,President ,,DEM,Putnam,Precinct 28-2,29
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 28-2,79
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 28-2,28
-William McCann,US House,2,DEM,Putnam,Precinct 28-2,12
-Dugald Brown,US House,2,DEM,Putnam,Precinct 28-2,14
-Howard Swint,US House,2,DEM,Putnam,Precinct 28-2,59
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 28-2,79
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 28-2,28
+William McCann,U.S. House,2,DEM,Putnam,Precinct 28-2,12
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 28-2,14
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 28-2,59
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 28-2,85
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 28-2,18
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 28-2,90
@@ -1864,10 +1864,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 28-2,85
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 28-2,0
 Rick Santorum,President ,,REP,Putnam,Precinct 28-2,7
 Newt Gingrich,President ,,REP,Putnam,Precinct 28-2,10
-John R. Raese,US Senate,,REP,Putnam,Precinct 28-2,93
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 28-2,107
-Jonathan Miller,US House,2,REP,Putnam,Precinct 28-2,11
-Michael Davis,US House,2,REP,Putnam,Precinct 28-2,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 28-2,93
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 28-2,107
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 28-2,11
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 28-2,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 28-2,17
 Bill Maloney,Governor,,REP,Putnam,Precinct 28-2,103
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 28-2,98
@@ -1891,11 +1891,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 28-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 28-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 29-1,63
 Keith Judd,President ,,DEM,Putnam,Precinct 29-1,30
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 29-1,81
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 29-1,20
-William McCann,US House,2,DEM,Putnam,Precinct 29-1,8
-Dugald Brown,US House,2,DEM,Putnam,Precinct 29-1,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 29-1,68
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 29-1,81
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 29-1,20
+William McCann,U.S. House,2,DEM,Putnam,Precinct 29-1,8
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 29-1,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 29-1,68
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 29-1,87
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 29-1,16
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 29-1,93
@@ -1927,10 +1927,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 29-1,106
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 29-1,2
 Rick Santorum,President ,,REP,Putnam,Precinct 29-1,28
 Newt Gingrich,President ,,REP,Putnam,Precinct 29-1,6
-John R. Raese,US Senate,,REP,Putnam,Precinct 29-1,133
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 29-1,153
-Jonathan Miller,US House,2,REP,Putnam,Precinct 29-1,8
-Michael Davis,US House,2,REP,Putnam,Precinct 29-1,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 29-1,133
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 29-1,153
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 29-1,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 29-1,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 29-1,24
 Bill Maloney,Governor,,REP,Putnam,Precinct 29-1,134
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 29-1,134
@@ -1954,11 +1954,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 29-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 29-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 29-2,79
 Keith Judd,President ,,DEM,Putnam,Precinct 29-2,30
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 29-2,90
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 29-2,81
-William McCann,US House,2,DEM,Putnam,Precinct 29-2,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 29-2,13
-Howard Swint,US House,2,DEM,Putnam,Precinct 29-2,78
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 29-2,90
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 29-2,81
+William McCann,U.S. House,2,DEM,Putnam,Precinct 29-2,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 29-2,13
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 29-2,78
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 29-2,94
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 29-2,27
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 29-2,107
@@ -1990,10 +1990,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 29-2,128
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 29-2,1
 Rick Santorum,President ,,REP,Putnam,Precinct 29-2,12
 Newt Gingrich,President ,,REP,Putnam,Precinct 29-2,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 29-2,133
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 29-2,152
-Jonathan Miller,US House,2,REP,Putnam,Precinct 29-2,4
-Michael Davis,US House,2,REP,Putnam,Precinct 29-2,8
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 29-2,133
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 29-2,152
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 29-2,4
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 29-2,8
 Ralph William Clark,Governor,,REP,Putnam,Precinct 29-2,15
 Bill Maloney,Governor,,REP,Putnam,Precinct 29-2,135
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 29-2,135
@@ -2017,11 +2017,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 29-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 29-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 30,69
 Keith Judd,President ,,DEM,Putnam,Precinct 30,50
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 30,97
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 30,30
-William McCann,US House,2,DEM,Putnam,Precinct 30,23
-Dugald Brown,US House,2,DEM,Putnam,Precinct 30,12
-Howard Swint,US House,2,DEM,Putnam,Precinct 30,74
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 30,97
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 30,30
+William McCann,U.S. House,2,DEM,Putnam,Precinct 30,23
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 30,12
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 30,74
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 30,94
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 30,32
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 30,113
@@ -2053,10 +2053,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 30,130
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 30,3
 Rick Santorum,President ,,REP,Putnam,Precinct 30,16
 Newt Gingrich,President ,,REP,Putnam,Precinct 30,12
-John R. Raese,US Senate,,REP,Putnam,Precinct 30,146
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 30,163
-Jonathan Miller,US House,2,REP,Putnam,Precinct 30,8
-Michael Davis,US House,2,REP,Putnam,Precinct 30,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 30,146
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 30,163
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 30,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 30,7
 Ralph William Clark,Governor,,REP,Putnam,Precinct 30,22
 Bill Maloney,Governor,,REP,Putnam,Precinct 30,150
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 30,150
@@ -2080,11 +2080,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 30,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 30,
 Barack Obama,President ,,DEM,Putnam,Precinct 31,50
 Keith Judd,President ,,DEM,Putnam,Precinct 31,26
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 31,41
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 31,36
-William McCann,US House,2,DEM,Putnam,Precinct 31,15
-Dugald Brown,US House,2,DEM,Putnam,Precinct 31,12
-Howard Swint,US House,2,DEM,Putnam,Precinct 31,48
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 31,41
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 31,36
+William McCann,U.S. House,2,DEM,Putnam,Precinct 31,15
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 31,12
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 31,48
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 31,51
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 31,22
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 31,70
@@ -2116,10 +2116,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 31,66
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 31,2
 Rick Santorum,President ,,REP,Putnam,Precinct 31,11
 Newt Gingrich,President ,,REP,Putnam,Precinct 31,8
-John R. Raese,US Senate,,REP,Putnam,Precinct 31,80
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 31,103
-Jonathan Miller,US House,2,REP,Putnam,Precinct 31,2
-Michael Davis,US House,2,REP,Putnam,Precinct 31,9
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 31,80
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 31,103
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 31,2
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 31,9
 Ralph William Clark,Governor,,REP,Putnam,Precinct 31,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 31,83
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 31,86
@@ -2143,11 +2143,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 31,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 31,
 Barack Obama,President ,,DEM,Putnam,Precinct 32,30
 Keith Judd,President ,,DEM,Putnam,Precinct 32,22
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 32,41
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 32,20
-William McCann,US House,2,DEM,Putnam,Precinct 32,8
-Dugald Brown,US House,2,DEM,Putnam,Precinct 32,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 32,34
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 32,41
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 32,20
+William McCann,U.S. House,2,DEM,Putnam,Precinct 32,8
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 32,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 32,34
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 32,47
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 32,15
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 32,53
@@ -2179,10 +2179,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 32,77
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 32,0
 Rick Santorum,President ,,REP,Putnam,Precinct 32,11
 Newt Gingrich,President ,,REP,Putnam,Precinct 32,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 32,87
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 32,94
-Jonathan Miller,US House,2,REP,Putnam,Precinct 32,7
-Michael Davis,US House,2,REP,Putnam,Precinct 32,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 32,87
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 32,94
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 32,7
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 32,1
 Ralph William Clark,Governor,,REP,Putnam,Precinct 32,11
 Bill Maloney,Governor,,REP,Putnam,Precinct 32,80
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 32,81
@@ -2206,11 +2206,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 32,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 32,
 Barack Obama,President ,,DEM,Putnam,Precinct 33-1,39
 Keith Judd,President ,,DEM,Putnam,Precinct 33-1,18
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 33-1,51
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 33-1,17
-William McCann,US House,2,DEM,Putnam,Precinct 33-1,12
-Dugald Brown,US House,2,DEM,Putnam,Precinct 33-1,4
-Howard Swint,US House,2,DEM,Putnam,Precinct 33-1,38
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 33-1,51
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 33-1,17
+William McCann,U.S. House,2,DEM,Putnam,Precinct 33-1,12
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 33-1,4
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 33-1,38
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 33-1,55
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 33-1,12
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 33-1,57
@@ -2242,10 +2242,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 33-1,79
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 33-1,6
 Rick Santorum,President ,,REP,Putnam,Precinct 33-1,14
 Newt Gingrich,President ,,REP,Putnam,Precinct 33-1,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 33-1,99
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 33-1,111
-Jonathan Miller,US House,2,REP,Putnam,Precinct 33-1,5
-Michael Davis,US House,2,REP,Putnam,Precinct 33-1,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 33-1,99
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 33-1,111
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 33-1,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 33-1,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 33-1,12
 Bill Maloney,Governor,,REP,Putnam,Precinct 33-1,100
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 33-1,96
@@ -2269,11 +2269,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 33-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 33-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 33-2,50
 Keith Judd,President ,,DEM,Putnam,Precinct 33-2,31
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 33-2,69
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 33-2,19
-William McCann,US House,2,DEM,Putnam,Precinct 33-2,16
-Dugald Brown,US House,2,DEM,Putnam,Precinct 33-2,2
-Howard Swint,US House,2,DEM,Putnam,Precinct 33-2,51
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 33-2,69
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 33-2,19
+William McCann,U.S. House,2,DEM,Putnam,Precinct 33-2,16
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 33-2,2
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 33-2,51
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 33-2,69
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 33-2,19
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 33-2,79
@@ -2305,10 +2305,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 33-2,104
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 33-2,1
 Rick Santorum,President ,,REP,Putnam,Precinct 33-2,13
 Newt Gingrich,President ,,REP,Putnam,Precinct 33-2,7
-John R. Raese,US Senate,,REP,Putnam,Precinct 33-2,118
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 33-2,134
-Jonathan Miller,US House,2,REP,Putnam,Precinct 33-2,3
-Michael Davis,US House,2,REP,Putnam,Precinct 33-2,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 33-2,118
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 33-2,134
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 33-2,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 33-2,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 33-2,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 33-2,114
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 33-2,125
@@ -2332,11 +2332,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 33-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 33-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 34,60
 Keith Judd,President ,,DEM,Putnam,Precinct 34,26
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 34,68
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 34,29
-William McCann,US House,2,DEM,Putnam,Precinct 34,14
-Dugald Brown,US House,2,DEM,Putnam,Precinct 34,6
-Howard Swint,US House,2,DEM,Putnam,Precinct 34,59
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 34,68
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 34,29
+William McCann,U.S. House,2,DEM,Putnam,Precinct 34,14
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 34,6
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 34,59
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 34,72
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 34,23
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 34,86
@@ -2368,10 +2368,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 34,45
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 34,1
 Rick Santorum,President ,,REP,Putnam,Precinct 34,14
 Newt Gingrich,President ,,REP,Putnam,Precinct 34,2
-John R. Raese,US Senate,,REP,Putnam,Precinct 34,59
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 34,62
-Jonathan Miller,US House,2,REP,Putnam,Precinct 34,3
-Michael Davis,US House,2,REP,Putnam,Precinct 34,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 34,59
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 34,62
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 34,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 34,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 34,12
 Bill Maloney,Governor,,REP,Putnam,Precinct 34,51
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 34,60
@@ -2395,11 +2395,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 34,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 34,
 Barack Obama,President ,,DEM,Putnam,Precinct 35,16
 Keith Judd,President ,,DEM,Putnam,Precinct 35,4
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 35,21
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 35,5
-William McCann,US House,2,DEM,Putnam,Precinct 35,2
-Dugald Brown,US House,2,DEM,Putnam,Precinct 35,3
-Howard Swint,US House,2,DEM,Putnam,Precinct 35,14
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 35,21
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 35,5
+William McCann,U.S. House,2,DEM,Putnam,Precinct 35,2
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 35,3
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 35,14
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 35,19
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 35,6
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 35,22
@@ -2431,10 +2431,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 35,28
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 35,0
 Rick Santorum,President ,,REP,Putnam,Precinct 35,5
 Newt Gingrich,President ,,REP,Putnam,Precinct 35,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 35,23
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 35,33
-Jonathan Miller,US House,2,REP,Putnam,Precinct 35,3
-Michael Davis,US House,2,REP,Putnam,Precinct 35,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 35,23
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 35,33
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 35,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 35,3
 Ralph William Clark,Governor,,REP,Putnam,Precinct 35,2
 Bill Maloney,Governor,,REP,Putnam,Precinct 35,36
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 35,28
@@ -2458,11 +2458,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 35,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 35,
 Barack Obama,President ,,DEM,Putnam,Precinct 37,38
 Keith Judd,President ,,DEM,Putnam,Precinct 37,22
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 37,57
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 37,8
-William McCann,US House,2,DEM,Putnam,Precinct 37,11
-Dugald Brown,US House,2,DEM,Putnam,Precinct 37,2
-Howard Swint,US House,2,DEM,Putnam,Precinct 37,41
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 37,57
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 37,8
+William McCann,U.S. House,2,DEM,Putnam,Precinct 37,11
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 37,2
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 37,41
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 37,52
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 37,12
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 37,61
@@ -2494,10 +2494,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 37,28
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 37,1
 Rick Santorum,President ,,REP,Putnam,Precinct 37,10
 Newt Gingrich,President ,,REP,Putnam,Precinct 37,4
-John R. Raese,US Senate,,REP,Putnam,Precinct 37,40
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 37,46
-Jonathan Miller,US House,2,REP,Putnam,Precinct 37,2
-Michael Davis,US House,2,REP,Putnam,Precinct 37,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 37,40
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 37,46
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 37,2
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 37,1
 Ralph William Clark,Governor,,REP,Putnam,Precinct 37,4
 Bill Maloney,Governor,,REP,Putnam,Precinct 37,41
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 37,43
@@ -2521,11 +2521,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 37,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 37,
 Barack Obama,President ,,DEM,Putnam,Precinct 38,62
 Keith Judd,President ,,DEM,Putnam,Precinct 38,23
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 38,73
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 38,18
-William McCann,US House,2,DEM,Putnam,Precinct 38,10
-Dugald Brown,US House,2,DEM,Putnam,Precinct 38,5
-Howard Swint,US House,2,DEM,Putnam,Precinct 38,58
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 38,73
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 38,18
+William McCann,U.S. House,2,DEM,Putnam,Precinct 38,10
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 38,5
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 38,58
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 38,82
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 38,12
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 38,81
@@ -2557,10 +2557,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 38,65
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 38,0
 Rick Santorum,President ,,REP,Putnam,Precinct 38,18
 Newt Gingrich,President ,,REP,Putnam,Precinct 38,4
-John R. Raese,US Senate,,REP,Putnam,Precinct 38,75
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 38,91
-Jonathan Miller,US House,2,REP,Putnam,Precinct 38,2
-Michael Davis,US House,2,REP,Putnam,Precinct 38,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 38,75
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 38,91
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 38,2
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 38,2
 Ralph William Clark,Governor,,REP,Putnam,Precinct 38,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 38,69
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 38,72
@@ -2584,11 +2584,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 38,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 38,
 Barack Obama,President ,,DEM,Putnam,Precinct 40,115
 Keith Judd,President ,,DEM,Putnam,Precinct 40,44
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 40,152
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 40,25
-William McCann,US House,2,DEM,Putnam,Precinct 40,28
-Dugald Brown,US House,2,DEM,Putnam,Precinct 40,14
-Howard Swint,US House,2,DEM,Putnam,Precinct 40,84
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 40,152
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 40,25
+William McCann,U.S. House,2,DEM,Putnam,Precinct 40,28
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 40,14
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 40,84
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 40,145
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 40,25
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 40,153
@@ -2620,10 +2620,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 40,105
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 40,0
 Rick Santorum,President ,,REP,Putnam,Precinct 40,19
 Newt Gingrich,President ,,REP,Putnam,Precinct 40,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 40,116
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 40,142
-Jonathan Miller,US House,2,REP,Putnam,Precinct 40,4
-Michael Davis,US House,2,REP,Putnam,Precinct 40,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 40,116
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 40,142
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 40,4
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 40,7
 Ralph William Clark,Governor,,REP,Putnam,Precinct 40,23
 Bill Maloney,Governor,,REP,Putnam,Precinct 40,121
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 40,120
@@ -2647,11 +2647,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 40,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 40,
 Barack Obama,President ,,DEM,Putnam,Precinct 41,78
 Keith Judd,President ,,DEM,Putnam,Precinct 41,24
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 41,75
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 41,30
-William McCann,US House,2,DEM,Putnam,Precinct 41,10
-Dugald Brown,US House,2,DEM,Putnam,Precinct 41,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 41,65
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 41,75
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 41,30
+William McCann,U.S. House,2,DEM,Putnam,Precinct 41,10
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 41,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 41,65
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 41,83
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 41,18
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 41,92
@@ -2683,10 +2683,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 41,98
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 41,0
 Rick Santorum,President ,,REP,Putnam,Precinct 41,21
 Newt Gingrich,President ,,REP,Putnam,Precinct 41,8
-John R. Raese,US Senate,,REP,Putnam,Precinct 41,116
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 41,131
-Jonathan Miller,US House,2,REP,Putnam,Precinct 41,5
-Michael Davis,US House,2,REP,Putnam,Precinct 41,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 41,116
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 41,131
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 41,5
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 41,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 41,15
 Bill Maloney,Governor,,REP,Putnam,Precinct 41,117
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 41,117
@@ -2710,11 +2710,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 41,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 41,
 Barack Obama,President ,,DEM,Putnam,Precinct 42,47
 Keith Judd,President ,,DEM,Putnam,Precinct 42,28
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 42,57
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 42,27
-William McCann,US House,2,DEM,Putnam,Precinct 42,6
-Dugald Brown,US House,2,DEM,Putnam,Precinct 42,8
-Howard Swint,US House,2,DEM,Putnam,Precinct 42,49
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 42,57
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 42,27
+William McCann,U.S. House,2,DEM,Putnam,Precinct 42,6
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 42,8
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 42,49
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 42,61
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 42,22
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 42,67
@@ -2746,10 +2746,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 42,104
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 42,0
 Rick Santorum,President ,,REP,Putnam,Precinct 42,22
 Newt Gingrich,President ,,REP,Putnam,Precinct 42,10
-John R. Raese,US Senate,,REP,Putnam,Precinct 42,133
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 42,145
-Jonathan Miller,US House,2,REP,Putnam,Precinct 42,8
-Michael Davis,US House,2,REP,Putnam,Precinct 42,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 42,133
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 42,145
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 42,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 42,5
 Ralph William Clark,Governor,,REP,Putnam,Precinct 42,23
 Bill Maloney,Governor,,REP,Putnam,Precinct 42,125
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 42,129
@@ -2773,11 +2773,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 42,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 42,
 Barack Obama,President ,,DEM,Putnam,Precinct 43-1,83
 Keith Judd,President ,,DEM,Putnam,Precinct 43-1,30
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 43-1,102
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 43-1,27
-William McCann,US House,2,DEM,Putnam,Precinct 43-1,16
-Dugald Brown,US House,2,DEM,Putnam,Precinct 43-1,10
-Howard Swint,US House,2,DEM,Putnam,Precinct 43-1,77
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 43-1,102
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 43-1,27
+William McCann,U.S. House,2,DEM,Putnam,Precinct 43-1,16
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 43-1,10
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 43-1,77
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 43-1,109
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 43-1,21
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 43-1,124
@@ -2809,10 +2809,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 43-1,222
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 43-1,3
 Rick Santorum,President ,,REP,Putnam,Precinct 43-1,21
 Newt Gingrich,President ,,REP,Putnam,Precinct 43-1,13
-John R. Raese,US Senate,,REP,Putnam,Precinct 43-1,242
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 43-1,281
-Jonathan Miller,US House,2,REP,Putnam,Precinct 43-1,4
-Michael Davis,US House,2,REP,Putnam,Precinct 43-1,8
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 43-1,242
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 43-1,281
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 43-1,4
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 43-1,8
 Ralph William Clark,Governor,,REP,Putnam,Precinct 43-1,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 43-1,247
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 43-1,230
@@ -2836,11 +2836,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 43-1,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 43-1,
 Barack Obama,President ,,DEM,Putnam,Precinct 43-2,103
 Keith Judd,President ,,DEM,Putnam,Precinct 43-2,62
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 43-2,134
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 43-2,45
-William McCann,US House,2,DEM,Putnam,Precinct 43-2,28
-Dugald Brown,US House,2,DEM,Putnam,Precinct 43-2,11
-Howard Swint,US House,2,DEM,Putnam,Precinct 43-2,108
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 43-2,134
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 43-2,45
+William McCann,U.S. House,2,DEM,Putnam,Precinct 43-2,28
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 43-2,11
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 43-2,108
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 43-2,148
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 43-2,34
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 43-2,155
@@ -2872,10 +2872,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 43-2,181
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 43-2,2
 Rick Santorum,President ,,REP,Putnam,Precinct 43-2,30
 Newt Gingrich,President ,,REP,Putnam,Precinct 43-2,9
-John R. Raese,US Senate,,REP,Putnam,Precinct 43-2,191
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 43-2,233
-Jonathan Miller,US House,2,REP,Putnam,Precinct 43-2,3
-Michael Davis,US House,2,REP,Putnam,Precinct 43-2,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 43-2,191
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 43-2,233
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 43-2,3
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 43-2,4
 Ralph William Clark,Governor,,REP,Putnam,Precinct 43-2,16
 Bill Maloney,Governor,,REP,Putnam,Precinct 43-2,204
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 43-2,196
@@ -2899,11 +2899,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 43-2,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 43-2,
 Barack Obama,President ,,DEM,Putnam,Precinct 47,53
 Keith Judd,President ,,DEM,Putnam,Precinct 47,25
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 47,64
-Sheirl Fletcher,US Senate,,DEM,Putnam,Precinct 47,30
-William McCann,US House,2,DEM,Putnam,Precinct 47,17
-Dugald Brown,US House,2,DEM,Putnam,Precinct 47,5
-Howard Swint,US House,2,DEM,Putnam,Precinct 47,46
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 47,64
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,Precinct 47,30
+William McCann,U.S. House,2,DEM,Putnam,Precinct 47,17
+Dugald Brown,U.S. House,2,DEM,Putnam,Precinct 47,5
+Howard Swint,U.S. House,2,DEM,Putnam,Precinct 47,46
 Earl Ray Tomblin,Governor,,DEM,Putnam,Precinct 47,66
 Arne Moltis ,Governor,,DEM,Putnam,Precinct 47,25
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,Precinct 47,85
@@ -2935,10 +2935,10 @@ Mitt Romney ,President ,,REP,Putnam,Precinct 47,105
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,Precinct 47,1
 Rick Santorum,President ,,REP,Putnam,Precinct 47,21
 Newt Gingrich,President ,,REP,Putnam,Precinct 47,5
-John R. Raese,US Senate,,REP,Putnam,Precinct 47,118
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 47,129
-Jonathan Miller,US House,2,REP,Putnam,Precinct 47,8
-Michael Davis,US House,2,REP,Putnam,Precinct 47,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 47,118
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 47,129
+Jonathan Miller,U.S. House,2,REP,Putnam,Precinct 47,8
+Michael Davis,U.S. House,2,REP,Putnam,Precinct 47,7
 Ralph William Clark,Governor,,REP,Putnam,Precinct 47,19
 Bill Maloney,Governor,,REP,Putnam,Precinct 47,126
 Brian Savilla,Secretary of State,,REP,Putnam,Precinct 47,109
@@ -2962,11 +2962,11 @@ Michel G. Moffatt,House of Delegates,22,REP,Putnam,Precinct 47,
 Gary L. Johngrass,House of Delegates,22,REP,Putnam,Precinct 47,
 Barack Obama,President ,,DEM,Putnam,TOTALS ,2653
 Keith Judd,President ,,DEM,Putnam,TOTALS ,1309
-Joe Manchin III,US Senate,,DEM,Putnam,TOTALS ,3357
-Sheirl Fletcher,US Senate,,DEM,Putnam,TOTALS ,1073
-William McCann,US House,2,DEM,Putnam,TOTALS ,628
-Dugald Brown,US House,2,DEM,Putnam,TOTALS ,343
-Howard Swint,US House,2,DEM,Putnam,TOTALS ,2640
+Joe Manchin III,U.S. Senate,,DEM,Putnam,TOTALS ,3357
+Sheirl Fletcher,U.S. Senate,,DEM,Putnam,TOTALS ,1073
+William McCann,U.S. House,2,DEM,Putnam,TOTALS ,628
+Dugald Brown,U.S. House,2,DEM,Putnam,TOTALS ,343
+Howard Swint,U.S. House,2,DEM,Putnam,TOTALS ,2640
 Earl Ray Tomblin,Governor,,DEM,Putnam,TOTALS ,3487
 Arne Moltis ,Governor,,DEM,Putnam,TOTALS ,903
 Natalie E. Tennant,Secretary of State,,DEM,Putnam,TOTALS ,3946
@@ -2998,10 +2998,10 @@ Mitt Romney ,President ,,REP,Putnam,TOTALS ,3891
 "Charles ""Buddy"" Roemer",President ,,REP,Putnam,TOTALS ,48
 Rick Santorum,President ,,REP,Putnam,TOTALS ,678
 Newt Gingrich,President ,,REP,Putnam,TOTALS ,292
-John R. Raese,US Senate,,REP,Putnam,TOTALS ,4508
-Shelley Moore Capito,US House,2,REP,Putnam,TOTALS ,5155
-Jonathan Miller,US House,2,REP,Putnam,TOTALS ,210
-Michael Davis,US House,2,REP,Putnam,TOTALS ,194
+John R. Raese,U.S. Senate,,REP,Putnam,TOTALS ,4508
+Shelley Moore Capito,U.S. House,2,REP,Putnam,TOTALS ,5155
+Jonathan Miller,U.S. House,2,REP,Putnam,TOTALS ,210
+Michael Davis,U.S. House,2,REP,Putnam,TOTALS ,194
 Ralph William Clark,Governor,,REP,Putnam,TOTALS ,627
 Bill Maloney,Governor,,REP,Putnam,TOTALS ,4562
 Brian Savilla,Secretary of State,,REP,Putnam,TOTALS ,4500

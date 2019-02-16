@@ -7,9 +7,9 @@ candidate,office,district,party,county,precinct,total votes
 ,Ballots Cast,,DEM,Wetzel,Precinct 1,117
 Barack Obama,President ,,DEM,Wetzel,Precinct 1,66
 Keith Judd,President ,,DEM,Wetzel,Precinct 1,37
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 1,93
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 1,16
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 1,82
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 1,93
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 1,16
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 1,82
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 1,14
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 1,95
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 1,85
@@ -20,8 +20,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 1,9
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 1,26
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 1,13
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 1,27
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 1,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 1,95
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 1,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 1,95
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 1,85
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 1,45
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 1,62
@@ -32,11 +32,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 1,5
 Mitt Romney,President ,,REP,Wetzel,Precinct 1,41
 Ron Paul,President ,,REP,Wetzel,Precinct 1,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 1,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 1,41
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 1,41
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 1,16
 Bill Maloney,Governor,,REP,Wetzel,Precinct 1,35
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 1,42
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 1,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 1,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 1,44
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 1,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 1,
@@ -45,7 +45,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 1,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 1,23
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 1,18
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 1,40
-David B. McKinley,US House,1,REP,Wetzel,Precinct 1,52
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 1,52
 ,Registered Voters,,,Wetzel,Precinct 4,641
 ,Registered Voters,,REP,Wetzel,Precinct 4,212
 ,Registered Voters,,DEM,Wetzel,Precinct 4,297
@@ -54,9 +54,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 1,52
 ,Ballots Cast,,DEM,Wetzel,Precinct 4,141
 Barack Obama,President ,,DEM,Wetzel,Precinct 4,69
 Keith Judd,President ,,DEM,Wetzel,Precinct 4,52
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 4,113
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 4,21
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 4,
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 4,113
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 4,21
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 4,
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 4,99
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 4,112
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 4,113
@@ -67,8 +67,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 4,6
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 4,22
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 4,23
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 4,39
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 4,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 4,116
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 4,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 4,116
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 4,104
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 4,38
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 4,74
@@ -79,11 +79,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 4,5
 Mitt Romney,President ,,REP,Wetzel,Precinct 4,65
 Ron Paul,President ,,REP,Wetzel,Precinct 4,10
 Rick Santorum,President ,,REP,Wetzel,Precinct 4,7
-John R. Raese,US Senate,,REP,Wetzel,Precinct 4,46
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 4,46
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 4,7
 Bill Maloney,Governor,,REP,Wetzel,Precinct 4,68
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 4,59
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 4,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 4,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 4,72
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 4,7
 Bill Maloney,Governor,,REP,Wetzel,Precinct 4,68
@@ -92,7 +92,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 4,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 4,32
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 4,28
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 4,60
-David B. McKinley,US House,1,REP,Wetzel,Precinct 4,74
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 4,74
 ,Registered Voters,,,Wetzel,Precinct 6,399
 ,Registered Voters,,REP,Wetzel,Precinct 6,84
 ,Registered Voters,,DEM,Wetzel,Precinct 6,197
@@ -101,9 +101,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 4,74
 ,Ballots Cast,,DEM,Wetzel,Precinct 6,56
 Barack Obama,President ,,DEM,Wetzel,Precinct 6,27
 Keith Judd,President ,,DEM,Wetzel,Precinct 6,17
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 6,44
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 6,12
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 6,39
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 6,44
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 6,12
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 6,39
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 6,10
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 6,42
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 6,44
@@ -114,8 +114,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 6,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 6,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 6,11
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 6,11
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 6,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 6,47
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 6,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 6,47
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 6,43
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 6,12
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 6,28
@@ -126,11 +126,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 6,1
 Mitt Romney,President ,,REP,Wetzel,Precinct 6,20
 Ron Paul,President ,,REP,Wetzel,Precinct 6,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 6,1
-John R. Raese,US Senate,,REP,Wetzel,Precinct 6,17
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 6,17
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 6,4
 Bill Maloney,Governor,,REP,Wetzel,Precinct 6,18
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 6,17
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 6,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 6,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 6,20
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 6,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 6,
@@ -139,7 +139,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 6,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 6,8
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 6,8
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 6,19
-David B. McKinley,US House,1,REP,Wetzel,Precinct 6,22
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 6,22
 ,Registered Voters,,,Wetzel,Precinct 7,686
 ,Registered Voters,,REP,Wetzel,Precinct 7,164
 ,Registered Voters,,DEM,Wetzel,Precinct 7,378
@@ -148,9 +148,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 6,22
 ,Ballots Cast,,DEM,Wetzel,Precinct 7,169
 Barack Obama,President ,,DEM,Wetzel,Precinct 7,96
 Keith Judd,President ,,DEM,Wetzel,Precinct 7,54
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 7,129
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 7,33
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 7,125
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 7,129
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 7,33
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 7,125
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 7,27
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 7,132
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 7,132
@@ -161,8 +161,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 7,10
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 7,26
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 7,33
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 7,45
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 7,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 7,140
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 7,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 7,140
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 7,145
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 7,50
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 7,93
@@ -173,11 +173,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 7,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 7,30
 Ron Paul,President ,,REP,Wetzel,Precinct 7,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 7,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 7,36
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 7,36
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 7,12
 Bill Maloney,Governor,,REP,Wetzel,Precinct 7,26
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 7,34
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 7,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 7,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 7,39
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 7,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 7,
@@ -186,7 +186,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 7,34
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 7,20
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 7,17
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 7,36
-David B. McKinley,US House,1,REP,Wetzel,Precinct 7,38
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 7,38
 ,Registered Voters,,,Wetzel,Precinct 9,550
 ,Registered Voters,,REP,Wetzel,Precinct 9,144
 ,Registered Voters,,DEM,Wetzel,Precinct 9,274
@@ -195,9 +195,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 7,38
 ,Ballots Cast,,DEM,Wetzel,Precinct 9,132
 Barack Obama,President ,,DEM,Wetzel,Precinct 9,75
 Keith Judd,President ,,DEM,Wetzel,Precinct 9,33
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 9,113
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 9,16
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 9,92
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 9,113
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 9,16
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 9,92
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 9,10
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 9,113
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 9,102
@@ -208,8 +208,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9,5
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9,19
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9,22
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9,33
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 9,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 9,114
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 9,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 9,114
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 9,101
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 9,41
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 9,72
@@ -220,11 +220,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 9,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 9,53
 Ron Paul,President ,,REP,Wetzel,Precinct 9,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 9,3
-John R. Raese,US Senate,,REP,Wetzel,Precinct 9,40
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 9,40
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 9,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 9,48
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 9,
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 9,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 9,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 9,51
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 9,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 9,
@@ -233,7 +233,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 9,45
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 9,27
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 9,20
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 9,46
-David B. McKinley,US House,1,REP,Wetzel,Precinct 9,59
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 9,59
 ,Registered Voters,,,Wetzel,Precinct 9A,608
 ,Registered Voters,,REP,Wetzel,Precinct 9A,186
 ,Registered Voters,,DEM,Wetzel,Precinct 9A,328
@@ -242,9 +242,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 9,59
 ,Ballots Cast,,DEM,Wetzel,Precinct 9A,186
 Barack Obama,President ,,DEM,Wetzel,Precinct 9A,94
 Keith Judd,President ,,DEM,Wetzel,Precinct 9A,63
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 9A,158
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 9A,24
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 9A,135
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 9A,158
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 9A,24
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 9A,135
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 9A,19
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 9A,157
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 9A,145
@@ -255,8 +255,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9A,9
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9A,37
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9A,29
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 9A,41
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 9A,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 9A,159
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 9A,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 9A,159
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 9A,147
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 9A,46
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 9A,122
@@ -267,11 +267,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 9A,5
 Mitt Romney,President ,,REP,Wetzel,Precinct 9A,45
 Ron Paul,President ,,REP,Wetzel,Precinct 9A,7
 Rick Santorum,President ,,REP,Wetzel,Precinct 9A,9
-John R. Raese,US Senate,,REP,Wetzel,Precinct 9A,44
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 9A,44
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 9A,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 9A,47
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 9A,46
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 9A,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 9A,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 9A,49
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 9A,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 9A,
@@ -280,7 +280,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 9A,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 9A,22
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 9A,24
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 9A,44
-David B. McKinley,US House,1,REP,Wetzel,Precinct 9A,55
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 9A,55
 ,Registered Voters,,,Wetzel,Precinct 10,485
 ,Registered Voters,,REP,Wetzel,Precinct 10,116
 ,Registered Voters,,DEM,Wetzel,Precinct 10,283
@@ -289,9 +289,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 9A,55
 ,Ballots Cast,,DEM,Wetzel,Precinct 10,111
 Barack Obama,President ,,DEM,Wetzel,Precinct 10,57
 Keith Judd,President ,,DEM,Wetzel,Precinct 10,39
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 10,92
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 10,15
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 10,87
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 10,92
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 10,15
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 10,87
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 10,17
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 10,86
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 10,92
@@ -302,8 +302,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 10,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 10,25
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 10,17
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 10,31
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 10,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 10,98
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 10,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 10,98
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 10,100
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 10,23
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 10,72
@@ -314,11 +314,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 10,2
 Mitt Romney,President ,,REP,Wetzel,Precinct 10,29
 Ron Paul,President ,,REP,Wetzel,Precinct 10,6
 Rick Santorum,President ,,REP,Wetzel,Precinct 10,7
-John R. Raese,US Senate,,REP,Wetzel,Precinct 10,30
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 10,30
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 10,7
 Bill Maloney,Governor,,REP,Wetzel,Precinct 10,31
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 10,35
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 10,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 10,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 10,34
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 10,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 10,
@@ -327,7 +327,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 10,35
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 10,16
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 10,21
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 10,37
-David B. McKinley,US House,1,REP,Wetzel,Precinct 10,38
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 10,38
 ,Registered Voters,,,Wetzel,Precinct 11,684
 ,Registered Voters,,REP,Wetzel,Precinct 11,230
 ,Registered Voters,,DEM,Wetzel,Precinct 11,455
@@ -336,9 +336,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 10,38
 ,Ballots Cast,,DEM,Wetzel,Precinct 11,187
 Barack Obama,President ,,DEM,Wetzel,Precinct 11,83
 Keith Judd,President ,,DEM,Wetzel,Precinct 11,79
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 11,160
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 11,21
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 11,145
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 11,160
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 11,21
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 11,145
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 11,26
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 11,154
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 11,150
@@ -349,8 +349,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 11,13
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 11,42
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 11,34
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 11,50
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 11,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 11,162
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 11,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 11,162
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 11,150
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 11,62
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 11,106
@@ -361,11 +361,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 11,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 11,45
 Ron Paul,President ,,REP,Wetzel,Precinct 11,7
 Rick Santorum,President ,,REP,Wetzel,Precinct 11,12
-John R. Raese,US Senate,,REP,Wetzel,Precinct 11,57
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 11,57
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 11,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 11,59
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 11,53
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 11,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 11,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 11,61
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 11,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 11,
@@ -374,7 +374,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 11,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 11,32
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 11,26
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 11,56
-David B. McKinley,US House,1,REP,Wetzel,Precinct 11,62
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 11,62
 ,Registered Voters,,,Wetzel,Precinct 12,670
 ,Registered Voters,,REP,Wetzel,Precinct 12,223
 ,Registered Voters,,DEM,Wetzel,Precinct 12,313
@@ -383,9 +383,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 11,62
 ,Ballots Cast,,DEM,Wetzel,Precinct 12,181
 Barack Obama,President ,,DEM,Wetzel,Precinct 12,80
 Keith Judd,President ,,DEM,Wetzel,Precinct 12,77
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 12,152
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 12,24
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 12,124
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 12,152
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 12,24
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 12,124
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 12,23
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 12,152
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 12,139
@@ -396,8 +396,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 12,9
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 12,57
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 12,22
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 12,29
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 12,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 12,151
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 12,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 12,151
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 12,144
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 12,96
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 12,59
@@ -408,11 +408,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 12,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 12,58
 Ron Paul,President ,,REP,Wetzel,Precinct 12,7
 Rick Santorum,President ,,REP,Wetzel,Precinct 12,16
-John R. Raese,US Senate,,REP,Wetzel,Precinct 12,49
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 12,49
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 12,21
 Bill Maloney,Governor,,REP,Wetzel,Precinct 12,49
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 12,60
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 12,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 12,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 12,75
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 12,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 12,
@@ -421,7 +421,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 12,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 12,36
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 12,21
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 12,56
-David B. McKinley,US House,1,REP,Wetzel,Precinct 12,71
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 12,71
 ,Registered Voters,,,Wetzel,Precinct 13,488
 ,Registered Voters,,REP,Wetzel,Precinct 13,153
 ,Registered Voters,,DEM,Wetzel,Precinct 13,250
@@ -430,9 +430,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 12,71
 ,Ballots Cast,,DEM,Wetzel,Precinct 13,134
 Barack Obama,President ,,DEM,Wetzel,Precinct 13,68
 Keith Judd,President ,,DEM,Wetzel,Precinct 13,39
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 13,115
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 13,14
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 13,90
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 13,115
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 13,14
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 13,90
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 13,22
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 13,102
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 13,105
@@ -443,8 +443,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 13,6
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 13,20
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 13,23
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 13,33
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 13,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 13,118
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 13,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 13,118
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 13,92
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 13,29
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 13,84
@@ -455,11 +455,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 13,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 13,59
 Ron Paul,President ,,REP,Wetzel,Precinct 13,9
 Rick Santorum,President ,,REP,Wetzel,Precinct 13,9
-John R. Raese,US Senate,,REP,Wetzel,Precinct 13,53
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 13,53
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 13,14
 Bill Maloney,Governor,,REP,Wetzel,Precinct 13,55
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 13,61
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 13,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 13,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 13,59
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 13,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 13,
@@ -468,7 +468,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 13,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 13,29
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 13,30
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 13,58
-David B. McKinley,US House,1,REP,Wetzel,Precinct 13,70
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 13,70
 ,Registered Voters,,,Wetzel,Precinct 14,705
 ,Registered Voters,,REP,Wetzel,Precinct 14,245
 ,Registered Voters,,DEM,Wetzel,Precinct 14,360
@@ -477,9 +477,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 13,70
 ,Ballots Cast,,DEM,Wetzel,Precinct 14,196
 Barack Obama,President ,,DEM,Wetzel,Precinct 14,97
 Keith Judd,President ,,DEM,Wetzel,Precinct 14,76
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 14,164
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 14,26
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 14,139
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 14,164
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 14,26
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 14,139
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 14,16
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 14,168
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 14,154
@@ -490,8 +490,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 14,8
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 14,40
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 14,47
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 14,40
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 14,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 14,175
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 14,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 14,175
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 14,151
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 14,36
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 14,116
@@ -502,11 +502,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 14,5
 Mitt Romney,President ,,REP,Wetzel,Precinct 14,97
 Ron Paul,President ,,REP,Wetzel,Precinct 14,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 14,10
-John R. Raese,US Senate,,REP,Wetzel,Precinct 14,82
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 14,82
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 14,15
 Bill Maloney,Governor,,REP,Wetzel,Precinct 14,93
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 14,80
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 14,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 14,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 14,95
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 14,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 14,
@@ -515,7 +515,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 14,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 14,41
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 14,43
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 14,86
-David B. McKinley,US House,1,REP,Wetzel,Precinct 14,104
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 14,104
 ,Registered Voters,,,Wetzel,Precinct 15A,504
 ,Registered Voters,,REP,Wetzel,Precinct 15A,129
 ,Registered Voters,,DEM,Wetzel,Precinct 15A,255
@@ -524,9 +524,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 14,104
 ,Ballots Cast,,DEM,Wetzel,Precinct 15A,111
 Barack Obama,President ,,DEM,Wetzel,Precinct 15A,41
 Keith Judd,President ,,DEM,Wetzel,Precinct 15A,49
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 15A,87
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 15A,16
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 15A,77
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 15A,87
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 15A,16
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 15A,77
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 15A,6
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 15A,85
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 15A,76
@@ -537,8 +537,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 15A,5
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 15A,15
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 15A,19
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 15A,37
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 15A,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 15A,88
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 15A,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 15A,88
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 15A,84
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 15A,53
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 15A,42
@@ -549,11 +549,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 15A,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 15A,26
 Ron Paul,President ,,REP,Wetzel,Precinct 15A,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 15A,9
-John R. Raese,US Senate,,REP,Wetzel,Precinct 15A,28
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 15A,28
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 15A,8
 Bill Maloney,Governor,,REP,Wetzel,Precinct 15A,32
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 15A,30
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 15A,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 15A,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 15A,32
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 15A,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 15A,
@@ -562,7 +562,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 15A,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 15A,10
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 15A,19
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 15A,23
-David B. McKinley,US House,1,REP,Wetzel,Precinct 15A,33
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 15A,33
 ,Registered Voters,,,Wetzel,Precinct 16,424
 ,Registered Voters,,REP,Wetzel,Precinct 16,109
 ,Registered Voters,,DEM,Wetzel,Precinct 16,229
@@ -571,9 +571,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 15A,33
 ,Ballots Cast,,DEM,Wetzel,Precinct 16,115
 Barack Obama,President ,,DEM,Wetzel,Precinct 16,56
 Keith Judd,President ,,DEM,Wetzel,Precinct 16,34
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 16,101
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 16,11
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 16,73
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 16,101
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 16,11
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 16,73
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 16,11
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 16,97
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 16,89
@@ -584,8 +584,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 16,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 16,17
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 16,20
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 16,31
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 16,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 16,96
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 16,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 16,96
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 16,90
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 16,36
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 16,60
@@ -596,11 +596,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 16,2
 Mitt Romney,President ,,REP,Wetzel,Precinct 16,30
 Ron Paul,President ,,REP,Wetzel,Precinct 16,6
 Rick Santorum,President ,,REP,Wetzel,Precinct 16,9
-John R. Raese,US Senate,,REP,Wetzel,Precinct 16,30
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 16,30
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 16,8
 Bill Maloney,Governor,,REP,Wetzel,Precinct 16,36
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 16,38
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 16,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 16,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 16,42
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 16,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 16,
@@ -609,7 +609,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 16,38
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 16,21
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 16,18
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 16,36
-David B. McKinley,US House,1,REP,Wetzel,Precinct 16,45
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 16,45
 ,Registered Voters,,,Wetzel,Precinct 17,325
 ,Registered Voters,,REP,Wetzel,Precinct 17,83
 ,Registered Voters,,DEM,Wetzel,Precinct 17,186
@@ -618,9 +618,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 16,45
 ,Ballots Cast,,DEM,Wetzel,Precinct 17,68
 Barack Obama,President ,,DEM,Wetzel,Precinct 17,31
 Keith Judd,President ,,DEM,Wetzel,Precinct 17,21
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 17,57
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 17,4
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 17,44
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 17,57
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 17,4
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 17,44
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 17,5
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 17,57
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 17,56
@@ -631,8 +631,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17,1
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17,22
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 17,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 17,58
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 17,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 17,58
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 17,52
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 17,21
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 17,41
@@ -643,11 +643,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 17,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 17,11
 Ron Paul,President ,,REP,Wetzel,Precinct 17,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 17,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 17,14
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 17,14
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 17,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 17,15
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 17,15
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 17,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 17,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 17,16
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 17,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 17,15
@@ -656,7 +656,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 17,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 17,9
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 17,6
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 17,14
-David B. McKinley,US House,1,REP,Wetzel,Precinct 17,16
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 17,16
 ,Registered Voters,,,Wetzel,Precinct 17A,397
 ,Registered Voters,,REP,Wetzel,Precinct 17A,141
 ,Registered Voters,,DEM,Wetzel,Precinct 17A,190
@@ -665,9 +665,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 17,16
 ,Ballots Cast,,DEM,Wetzel,Precinct 17A,114
 Barack Obama,President ,,DEM,Wetzel,Precinct 17A,49
 Keith Judd,President ,,DEM,Wetzel,Precinct 17A,44
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 17A,96
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 17A,12
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 17A,82
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 17A,96
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 17A,12
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 17A,82
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 17A,17
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 17A,87
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 17A,89
@@ -678,8 +678,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17A,6
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17A,22
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17A,21
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 17A,23
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 17A,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 17A,99
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 17A,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 17A,99
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 17A,88
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 17A,43
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 17A,50
@@ -690,11 +690,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 17A,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 17A,44
 Ron Paul,President ,,REP,Wetzel,Precinct 17A,3
 Rick Santorum,President ,,REP,Wetzel,Precinct 17A,5
-John R. Raese,US Senate,,REP,Wetzel,Precinct 17A,39
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 17A,39
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 17A,13
 Bill Maloney,Governor,,REP,Wetzel,Precinct 17A,39
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 17A,41
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 17A,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 17A,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 17A,46
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 17A,13
 Bill Maloney,Governor,,REP,Wetzel,Precinct 17A,39
@@ -703,7 +703,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 17A,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 17A,26
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 17A,14
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 17A,42
-David B. McKinley,US House,1,REP,Wetzel,Precinct 17A,52
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 17A,52
 ,Registered Voters,,,Wetzel,Precinct 18,597
 ,Registered Voters,,REP,Wetzel,Precinct 18,160
 ,Registered Voters,,DEM,Wetzel,Precinct 18,325
@@ -712,9 +712,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 17A,52
 ,Ballots Cast,,DEM,Wetzel,Precinct 18,150
 Barack Obama,President ,,DEM,Wetzel,Precinct 18,75
 Keith Judd,President ,,DEM,Wetzel,Precinct 18,49
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 18,117
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 18,28
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 18,118
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 18,117
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 18,28
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 18,118
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 18,13
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 18,132
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 18,129
@@ -725,8 +725,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 18,8
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 18,30
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 18,22
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 18,36
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 18,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 18,134
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 18,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 18,134
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 18,130
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 18,50
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 18,84
@@ -737,11 +737,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 18,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 18,45
 Ron Paul,President ,,REP,Wetzel,Precinct 18,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 18,7
-John R. Raese,US Senate,,REP,Wetzel,Precinct 18,45
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 18,45
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 18,15
 Bill Maloney,Governor,,REP,Wetzel,Precinct 18,37
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 18,43
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 18,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 18,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 18,50
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 18,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 18,
@@ -750,7 +750,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 18,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 18,23
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 18,25
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 18,40
-David B. McKinley,US House,1,REP,Wetzel,Precinct 18,49
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 18,49
 ,Registered Voters,,,Wetzel,Precinct 19,221
 ,Registered Voters,,REP,Wetzel,Precinct 19,49
 ,Registered Voters,,DEM,Wetzel,Precinct 19,118
@@ -759,9 +759,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 18,49
 ,Ballots Cast,,DEM,Wetzel,Precinct 19,47
 Barack Obama,President ,,DEM,Wetzel,Precinct 19,31
 Keith Judd,President ,,DEM,Wetzel,Precinct 19,10
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 19,37
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 19,9
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 19,38
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 19,37
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 19,9
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 19,38
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 19,5
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 19,39
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 19,42
@@ -772,8 +772,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 19,3
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 19,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 19,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 19,6
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 19,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 19,43
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 19,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 19,43
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 19,40
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 19,9
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 19,27
@@ -784,11 +784,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 19,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 19,10
 Ron Paul,President ,,REP,Wetzel,Precinct 19,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 19,2
-John R. Raese,US Senate,,REP,Wetzel,Precinct 19,8
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 19,8
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 19,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 19,10
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 19,
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 19,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 19,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 19,14
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 19,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 19,
@@ -797,7 +797,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 19,12
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 19,6
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 19,6
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 19,12
-David B. McKinley,US House,1,REP,Wetzel,Precinct 19,13
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 19,13
 ,Registered Voters,,,Wetzel,Precinct 20B1,162
 ,Registered Voters,,REP,Wetzel,Precinct 20B1,15
 ,Registered Voters,,DEM,Wetzel,Precinct 20B1,114
@@ -806,9 +806,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 19,13
 ,Ballots Cast,,DEM,Wetzel,Precinct 20B1,65
 Barack Obama,President ,,DEM,Wetzel,Precinct 20B1,36
 Keith Judd,President ,,DEM,Wetzel,Precinct 20B1,12
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 20B1,53
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 20B1,9
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 20B1,41
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 20B1,53
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 20B1,9
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 20B1,41
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 20B1,2
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 20B1,58
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 20B1,48
@@ -819,8 +819,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B1,2
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B1,11
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B1,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B1,10
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 20B1,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 20B1,58
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 20B1,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 20B1,58
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 20B1,51
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 20B1,6
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 20B1,42
@@ -831,11 +831,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 20B1,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 20B1,0
 Ron Paul,President ,,REP,Wetzel,Precinct 20B1,1
 Rick Santorum,President ,,REP,Wetzel,Precinct 20B1,1
-John R. Raese,US Senate,,REP,Wetzel,Precinct 20B1,3
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 20B1,3
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 20B1,0
 Bill Maloney,Governor,,REP,Wetzel,Precinct 20B1,2
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 20B1,1
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 20B1,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 20B1,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 20B1,2
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 20B1,0
 Bill Maloney,Governor,,REP,Wetzel,Precinct 20B1,2
@@ -844,7 +844,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 20B1,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 20B1,1
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 20B1,0
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 20B1,1
-David B. McKinley,US House,1,REP,Wetzel,Precinct 20B1,3
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 20B1,3
 ,Registered Voters,,,Wetzel,Precinct 20B4,106
 ,Registered Voters,,REP,Wetzel,Precinct 20B4,19
 ,Registered Voters,,DEM,Wetzel,Precinct 20B4,71
@@ -853,9 +853,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 20B1,3
 ,Ballots Cast,,DEM,Wetzel,Precinct 20B4,26
 Barack Obama,President ,,DEM,Wetzel,Precinct 20B4,12
 Keith Judd,President ,,DEM,Wetzel,Precinct 20B4,8
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 20B4,25
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 20B4,1
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 20B4,21
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 20B4,25
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 20B4,1
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 20B4,21
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 20B4,0
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 20B4,25
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 20B4,23
@@ -866,8 +866,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B4,0
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B4,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B4,2
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 20B4,11
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 20B4,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 20B4,26
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 20B4,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 20B4,26
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 20B4,23
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 20B4,3
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 20B4,17
@@ -878,11 +878,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 20B4,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 20B4,5
 Ron Paul,President ,,REP,Wetzel,Precinct 20B4,0
 Rick Santorum,President ,,REP,Wetzel,Precinct 20B4,0
-John R. Raese,US Senate,,REP,Wetzel,Precinct 20B4,3
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 20B4,3
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 20B4,0
 Bill Maloney,Governor,,REP,Wetzel,Precinct 20B4,4
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 20B4,3
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 20B4,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 20B4,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 20B4,3
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 20B4,0
 Bill Maloney,Governor,,REP,Wetzel,Precinct 20B4,4
@@ -891,7 +891,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 20B4,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 20B4,2
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 20B4,1
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 20B4,3
-David B. McKinley,US House,1,REP,Wetzel,Precinct 20B4,4
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 20B4,4
 ,Registered Voters,,,Wetzel,Precinct 21,395
 ,Registered Voters,,REP,Wetzel,Precinct 21,98
 ,Registered Voters,,DEM,Wetzel,Precinct 21,198
@@ -900,9 +900,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 20B4,4
 ,Ballots Cast,,DEM,Wetzel,Precinct 21,54
 Barack Obama,President ,,DEM,Wetzel,Precinct 21,27
 Keith Judd,President ,,DEM,Wetzel,Precinct 21,14
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 21,46
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 21,8
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 21,39
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 21,46
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 21,8
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 21,39
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 21,7
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 21,45
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 21,44
@@ -913,8 +913,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 21,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 21,13
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 21,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 21,11
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 21,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 21,48
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 21,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 21,48
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 21,46
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 21,14
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 21,33
@@ -925,11 +925,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 21,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 21,27
 Ron Paul,President ,,REP,Wetzel,Precinct 21,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 21,3
-John R. Raese,US Senate,,REP,Wetzel,Precinct 21,19
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 21,19
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 21,7
 Bill Maloney,Governor,,REP,Wetzel,Precinct 21,26
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 21,25
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 21,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 21,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 21,31
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 21,7
 Bill Maloney,Governor,,REP,Wetzel,Precinct 21,26
@@ -938,7 +938,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 21,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 21,16
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 21,14
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 21,28
-David B. McKinley,US House,1,REP,Wetzel,Precinct 21,30
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 21,30
 ,Registered Voters,,,Wetzel,Precinct 23,259
 ,Registered Voters,,REP,Wetzel,Precinct 23,37
 ,Registered Voters,,DEM,Wetzel,Precinct 23,174
@@ -947,9 +947,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 21,30
 ,Ballots Cast,,DEM,Wetzel,Precinct 23,87
 Barack Obama,President ,,DEM,Wetzel,Precinct 23,42
 Keith Judd,President ,,DEM,Wetzel,Precinct 23,25
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 23,68
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 23,12
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 23,46
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 23,68
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 23,12
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 23,46
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 23,13
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 23,58
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 23,50
@@ -960,8 +960,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 23,6
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 23,13
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 23,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 23,12
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 23,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 23,70
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 23,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 23,70
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 23,56
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 23,9
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 23,62
@@ -972,11 +972,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 23,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 23,12
 Ron Paul,President ,,REP,Wetzel,Precinct 23,0
 Rick Santorum,President ,,REP,Wetzel,Precinct 23,5
-John R. Raese,US Senate,,REP,Wetzel,Precinct 23,11
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 23,11
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 23,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 23,11
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 23,8
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 23,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 23,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 23,8
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 23,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 23,11
@@ -985,7 +985,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 23,8
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 23,3
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 23,5
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 23,7
-David B. McKinley,US House,1,REP,Wetzel,Precinct 23,14
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 23,14
 ,Registered Voters,,,Wetzel,Precinct 24,452
 ,Registered Voters,,REP,Wetzel,Precinct 24,144
 ,Registered Voters,,DEM,Wetzel,Precinct 24,249
@@ -994,9 +994,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 23,14
 ,Ballots Cast,,DEM,Wetzel,Precinct 24,124
 Barack Obama,President ,,DEM,Wetzel,Precinct 24,68
 Keith Judd,President ,,DEM,Wetzel,Precinct 24,30
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 24,107
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 24,14
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 24,89
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 24,107
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 24,14
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 24,89
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 24,15
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 24,101
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 24,99
@@ -1007,8 +1007,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 24,11
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 24,32
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 24,23
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 24,27
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 24,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 24,106
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 24,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 24,106
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 24,99
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 24,32
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 24,71
@@ -1019,11 +1019,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 24,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 24,35
 Ron Paul,President ,,REP,Wetzel,Precinct 24,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 24,17
-John R. Raese,US Senate,,REP,Wetzel,Precinct 24,44
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 24,44
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 24,15
 Bill Maloney,Governor,,REP,Wetzel,Precinct 24,42
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 24,45
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 24,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 24,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 24,53
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 24,15
 Bill Maloney,Governor,,REP,Wetzel,Precinct 24,42
@@ -1032,7 +1032,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 24,45
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 24,20
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 24,26
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 24,43
-David B. McKinley,US House,1,REP,Wetzel,Precinct 24,50
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 24,50
 ,Registered Voters,,,Wetzel,Precinct 25B2,36
 ,Registered Voters,,REP,Wetzel,Precinct 25B2,3
 ,Registered Voters,,DEM,Wetzel,Precinct 25B2,25
@@ -1041,9 +1041,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 24,50
 ,Ballots Cast,,DEM,Wetzel,Precinct 25B2,10
 Barack Obama,President ,,DEM,Wetzel,Precinct 25B2,6
 Keith Judd,President ,,DEM,Wetzel,Precinct 25B2,3
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 25B2,6
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 25B2,4
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 25B2,6
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 25B2,6
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 25B2,4
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 25B2,6
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 25B2,0
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 25B2,9
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 25B2,5
@@ -1054,8 +1054,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B2,1
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B2,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B2,1
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B2,2
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 25B2,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 25B2,8
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 25B2,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 25B2,8
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 25B2,7
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 25B2,0
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 25B2,6
@@ -1066,11 +1066,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 25B2,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 25B2,2
 Ron Paul,President ,,REP,Wetzel,Precinct 25B2,0
 Rick Santorum,President ,,REP,Wetzel,Precinct 25B2,0
-John R. Raese,US Senate,,REP,Wetzel,Precinct 25B2,1
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 25B2,1
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 25B2,2
 Bill Maloney,Governor,,REP,Wetzel,Precinct 25B2,0
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 25B2,1
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 25B2,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 25B2,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 25B2,1
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 25B2,2
 Bill Maloney,Governor,,REP,Wetzel,Precinct 25B2,0
@@ -1079,7 +1079,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 25B2,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 25B2,2
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 25B2,0
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 25B2,1
-David B. McKinley,US House,1,REP,Wetzel,Precinct 25B2,1
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 25B2,1
 ,Registered Voters,,,Wetzel,Precinct 25B3,320
 ,Registered Voters,,REP,Wetzel,Precinct 25B3,59
 ,Registered Voters,,DEM,Wetzel,Precinct 25B3,182
@@ -1088,9 +1088,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 25B2,1
 ,Ballots Cast,,DEM,Wetzel,Precinct 25B3,85
 Barack Obama,President ,,DEM,Wetzel,Precinct 25B3,45
 Keith Judd,President ,,DEM,Wetzel,Precinct 25B3,24
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 25B3,67
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 25B3,12
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 25B3,48
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 25B3,67
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 25B3,12
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 25B3,48
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 25B3,9
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 25B3,67
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 25B3,59
@@ -1101,8 +1101,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B3,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B3,23
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B3,9
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 25B3,16
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 25B3,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 25B3,73
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 25B3,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 25B3,73
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 25B3,66
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 25B3,11
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 25B3,53
@@ -1113,11 +1113,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 25B3,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 25B3,17
 Ron Paul,President ,,REP,Wetzel,Precinct 25B3,0
 Rick Santorum,President ,,REP,Wetzel,Precinct 25B3,3
-John R. Raese,US Senate,,REP,Wetzel,Precinct 25B3,15
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 25B3,15
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 25B3,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 25B3,15
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 25B3,17
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 25B3,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 25B3,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 25B3,17
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 25B3,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 25B3,15
@@ -1126,7 +1126,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 25B3,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 25B3,7
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 25B3,12
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 25B3,20
-David B. McKinley,US House,1,REP,Wetzel,Precinct 25B3,19
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 25B3,19
 ,Registered Voters,,,Wetzel,Precinct 26,348
 ,Registered Voters,,REP,Wetzel,Precinct 26,59
 ,Registered Voters,,DEM,Wetzel,Precinct 26,219
@@ -1135,9 +1135,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 25B3,19
 ,Ballots Cast,,DEM,Wetzel,Precinct 26,88
 Barack Obama,President ,,DEM,Wetzel,Precinct 26,50
 Keith Judd,President ,,DEM,Wetzel,Precinct 26,26
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 26,78
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 26,8
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 26,70
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 26,78
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 26,8
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 26,70
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 26,8
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 26,74
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 26,72
@@ -1148,8 +1148,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 26,5
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 26,21
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 26,16
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 26,17
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 26,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 26,79
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 26,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 26,79
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 26,75
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 26,7
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 26,66
@@ -1160,11 +1160,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 26,1
 Mitt Romney,President ,,REP,Wetzel,Precinct 26,12
 Ron Paul,President ,,REP,Wetzel,Precinct 26,0
 Rick Santorum,President ,,REP,Wetzel,Precinct 26,7
-John R. Raese,US Senate,,REP,Wetzel,Precinct 26,16
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 26,16
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 26,5
 Bill Maloney,Governor,,REP,Wetzel,Precinct 26,16
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 26,18
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 26,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 26,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 26,16
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 26,5
 Bill Maloney,Governor,,REP,Wetzel,Precinct 26,16
@@ -1173,7 +1173,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 26,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 26,13
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 26,5
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 26,15
-David B. McKinley,US House,1,REP,Wetzel,Precinct 26,19
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 26,19
 ,Registered Voters,,,Wetzel,Precinct 27,349
 ,Registered Voters,,REP,Wetzel,Precinct 27,110
 ,Registered Voters,,DEM,Wetzel,Precinct 27,165
@@ -1182,9 +1182,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 26,19
 ,Ballots Cast,,DEM,Wetzel,Precinct 27,78
 Barack Obama,President ,,DEM,Wetzel,Precinct 27,31
 Keith Judd,President ,,DEM,Wetzel,Precinct 27,32
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 27,58
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 27,17
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 27,57
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 27,58
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 27,17
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 27,57
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 27,11
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 27,61
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 27,63
@@ -1195,8 +1195,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 27,3
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 27,20
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 27,17
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 27,16
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 27,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 27,68
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 27,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 27,68
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 27,53
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 27,20
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 27,46
@@ -1207,11 +1207,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 27,5
 Mitt Romney,President ,,REP,Wetzel,Precinct 27,33
 Ron Paul,President ,,REP,Wetzel,Precinct 27,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 27,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 27,32
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 27,32
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 27,8
 Bill Maloney,Governor,,REP,Wetzel,Precinct 27,34
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 27,34
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 27,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 27,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 27,41
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 27,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 27,
@@ -1220,7 +1220,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 27,34
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 27,20
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 27,16
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 27,36
-David B. McKinley,US House,1,REP,Wetzel,Precinct 27,40
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 27,40
 ,Registered Voters,,,Wetzel,Precinct 28,602
 ,Registered Voters,,REP,Wetzel,Precinct 28,137
 ,Registered Voters,,DEM,Wetzel,Precinct 28,365
@@ -1229,9 +1229,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 27,40
 ,Ballots Cast,,DEM,Wetzel,Precinct 28,178
 Barack Obama,President ,,DEM,Wetzel,Precinct 28,103
 Keith Judd,President ,,DEM,Wetzel,Precinct 28,52
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 28,152
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 28,16
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 28,124
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 28,152
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 28,16
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 28,124
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 28,15
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 28,151
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 28,140
@@ -1242,8 +1242,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 28,8
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 28,47
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 28,27
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 28,41
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 28,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 28,163
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 28,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 28,163
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 28,142
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 28,15
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 28,125
@@ -1254,11 +1254,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 28,6
 Mitt Romney,President ,,REP,Wetzel,Precinct 28,32
 Ron Paul,President ,,REP,Wetzel,Precinct 28,3
 Rick Santorum,President ,,REP,Wetzel,Precinct 28,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 28,29
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 28,29
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 28,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 28,34
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 28,
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 28,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 28,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 28,41
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 28,
 Bill Maloney,Governor,,REP,Wetzel,Precinct 28,
@@ -1267,7 +1267,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 28,39
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 28,16
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 28,21
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 28,36
-David B. McKinley,US House,1,REP,Wetzel,Precinct 28,44
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 28,44
 ,Registered Voters,,,Wetzel,Precinct 29,583
 ,Registered Voters,,REP,Wetzel,Precinct 29,205
 ,Registered Voters,,DEM,Wetzel,Precinct 29,251
@@ -1276,9 +1276,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 28,44
 ,Ballots Cast,,DEM,Wetzel,Precinct 29,119
 Barack Obama,President ,,DEM,Wetzel,Precinct 29,55
 Keith Judd,President ,,DEM,Wetzel,Precinct 29,36
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 29,104
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 29,10
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 29,83
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 29,104
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 29,10
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 29,83
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 29,15
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 29,92
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 29,93
@@ -1289,8 +1289,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 29,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 29,46
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 29,19
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 29,18
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 29,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 29,103
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 29,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 29,103
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 29,93
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 29,38
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 29,50
@@ -1301,11 +1301,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 29,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 29,53
 Ron Paul,President ,,REP,Wetzel,Precinct 29,7
 Rick Santorum,President ,,REP,Wetzel,Precinct 29,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 29,52
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 29,52
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 29,18
 Bill Maloney,Governor,,REP,Wetzel,Precinct 29,49
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 29,57
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 29,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 29,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 29,65
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 29,18
 Bill Maloney,Governor,,REP,Wetzel,Precinct 29,49
@@ -1314,7 +1314,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 29,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 29,28
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 29,34
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 29,55
-David B. McKinley,US House,1,REP,Wetzel,Precinct 29,61
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 29,61
 ,Registered Voters,,,Wetzel,Precinct 30,334
 ,Registered Voters,,REP,Wetzel,Precinct 30,57
 ,Registered Voters,,DEM,Wetzel,Precinct 30,201
@@ -1323,9 +1323,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 29,61
 ,Ballots Cast,,DEM,Wetzel,Precinct 30,87
 Barack Obama,President ,,DEM,Wetzel,Precinct 30,40
 Keith Judd,President ,,DEM,Wetzel,Precinct 30,27
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 30,76
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 30,8
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 30,55
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 30,76
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 30,8
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 30,55
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 30,7
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 30,74
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 30,62
@@ -1336,8 +1336,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 30,6
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 30,28
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 30,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 30,18
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 30,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 30,76
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 30,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 30,76
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 30,64
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 30,6
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 30,56
@@ -1348,11 +1348,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 30,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 30,11
 Ron Paul,President ,,REP,Wetzel,Precinct 30,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 30,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 30,10
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 30,10
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 30,4
 Bill Maloney,Governor,,REP,Wetzel,Precinct 30,9
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 30,12
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 30,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 30,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 30,12
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 30,4
 Bill Maloney,Governor,,REP,Wetzel,Precinct 30,9
@@ -1361,7 +1361,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 30,12
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 30,6
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 30,7
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 30,11
-David B. McKinley,US House,1,REP,Wetzel,Precinct 30,13
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 30,13
 ,Registered Voters,,,Wetzel,Precinct 33,781
 ,Registered Voters,,REP,Wetzel,Precinct 33,301
 ,Registered Voters,,DEM,Wetzel,Precinct 33,340
@@ -1370,9 +1370,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 30,13
 ,Ballots Cast,,DEM,Wetzel,Precinct 33,164
 Barack Obama,President ,,DEM,Wetzel,Precinct 33,94
 Keith Judd,President ,,DEM,Wetzel,Precinct 33,42
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 33,139
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 33,21
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 33,126
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 33,139
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 33,21
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 33,126
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 33,19
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 33,137
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 33,135
@@ -1383,8 +1383,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 33,5
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 33,47
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 33,28
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 33,35
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 33,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 33,140
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 33,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 33,140
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 33,128
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 33,49
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 33,84
@@ -1395,11 +1395,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 33,5
 Mitt Romney,President ,,REP,Wetzel,Precinct 33,84
 Ron Paul,President ,,REP,Wetzel,Precinct 33,11
 Rick Santorum,President ,,REP,Wetzel,Precinct 33,11
-John R. Raese,US Senate,,REP,Wetzel,Precinct 33,68
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 33,68
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 33,16
 Bill Maloney,Governor,,REP,Wetzel,Precinct 33,82
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 33,88
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 33,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 33,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 33,96
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 33,16
 Bill Maloney,Governor,,REP,Wetzel,Precinct 33,82
@@ -1408,7 +1408,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 33,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 33,50
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 33,44
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 33,86
-David B. McKinley,US House,1,REP,Wetzel,Precinct 33,95
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 33,95
 ,Registered Voters,,,Wetzel,Precinct 34,589
 ,Registered Voters,,REP,Wetzel,Precinct 34,177
 ,Registered Voters,,DEM,Wetzel,Precinct 34,317
@@ -1417,9 +1417,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 33,95
 ,Ballots Cast,,DEM,Wetzel,Precinct 34,108
 Barack Obama,President ,,DEM,Wetzel,Precinct 34,65
 Keith Judd,President ,,DEM,Wetzel,Precinct 34,24
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 34,97
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 34,9
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 34,85
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 34,97
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 34,9
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 34,85
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 34,13
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 34,87
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 34,96
@@ -1430,8 +1430,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 34,8
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 34,23
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 34,22
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 34,25
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 34,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 34,98
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 34,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 34,98
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 34,87
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 34,32
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 34,60
@@ -1442,11 +1442,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 34,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 34,43
 Ron Paul,President ,,REP,Wetzel,Precinct 34,9
 Rick Santorum,President ,,REP,Wetzel,Precinct 34,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 34,45
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 34,45
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 34,5
 Bill Maloney,Governor,,REP,Wetzel,Precinct 34,53
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 34,51
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 34,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 34,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 34,50
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 34,5
 Bill Maloney,Governor,,REP,Wetzel,Precinct 34,53
@@ -1455,7 +1455,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 34,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 34,28
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 34,20
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 34,47
-David B. McKinley,US House,1,REP,Wetzel,Precinct 34,54
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 34,54
 ,Registered Voters,,,Wetzel,Precinct 35,612
 ,Registered Voters,,REP,Wetzel,Precinct 35,203
 ,Registered Voters,,DEM,Wetzel,Precinct 35,277
@@ -1464,9 +1464,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 34,54
 ,Ballots Cast,,DEM,Wetzel,Precinct 35,108
 Barack Obama,President ,,DEM,Wetzel,Precinct 35,56
 Keith Judd,President ,,DEM,Wetzel,Precinct 35,36
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 35,82
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 35,18
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 35,80
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 35,82
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 35,18
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 35,80
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 35,19
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 35,80
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 35,86
@@ -1477,8 +1477,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 35,3
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 35,36
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 35,16
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 35,20
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 35,83
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 35,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 35,83
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 35,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 35,89
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 35,68
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 35,27
@@ -1489,11 +1489,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 35,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 35,56
 Ron Paul,President ,,REP,Wetzel,Precinct 35,6
 Rick Santorum,President ,,REP,Wetzel,Precinct 35,12
-John R. Raese,US Senate,,REP,Wetzel,Precinct 35,53
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 35,53
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 35,18
 Bill Maloney,Governor,,REP,Wetzel,Precinct 35,55
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 35,54
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 35,55
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 35,55
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 35,75
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 35,18
 Bill Maloney,Governor,,REP,Wetzel,Precinct 35,55
@@ -1502,7 +1502,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 35,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 35,36
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 35,25
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 35,56
-David B. McKinley,US House,1,REP,Wetzel,Precinct 35,70
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 35,70
 ,Registered Voters,,,Wetzel,Precinct 36,173
 ,Registered Voters,,REP,Wetzel,Precinct 36,59
 ,Registered Voters,,DEM,Wetzel,Precinct 36,86
@@ -1511,9 +1511,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 35,70
 ,Ballots Cast,,DEM,Wetzel,Precinct 36,38
 Barack Obama,President ,,DEM,Wetzel,Precinct 36,11
 Keith Judd,President ,,DEM,Wetzel,Precinct 36,23
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 36,29
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 36,9
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 36,31
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 36,29
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 36,9
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 36,31
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 36,6
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 36,29
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 36,33
@@ -1524,8 +1524,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 36,0
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 36,14
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 36,6
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 36,8
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 36,30
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 36,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 36,30
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 36,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 36,32
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 36,32
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 36,7
@@ -1536,11 +1536,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 36,0
 Mitt Romney,President ,,REP,Wetzel,Precinct 36,22
 Ron Paul,President ,,REP,Wetzel,Precinct 36,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 36,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 36,18
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 36,18
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 36,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 36,19
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 36,24
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 36,22
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 36,22
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 36,30
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 36,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 36,19
@@ -1549,7 +1549,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 36,24
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 36,17
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 36,9
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 36,24
-David B. McKinley,US House,1,REP,Wetzel,Precinct 36,25
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 36,25
 ,Registered Voters,,,Wetzel,Precinct 38,448
 ,Registered Voters,,REP,Wetzel,Precinct 38,137
 ,Registered Voters,,DEM,Wetzel,Precinct 38,192
@@ -1558,9 +1558,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 36,25
 ,Ballots Cast,,DEM,Wetzel,Precinct 38,67
 Barack Obama,President ,,DEM,Wetzel,Precinct 38,34
 Keith Judd,President ,,DEM,Wetzel,Precinct 38,20
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 38,48
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 38,15
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 38,43
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 38,48
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 38,15
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 38,43
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 38,5
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 38,56
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 38,47
@@ -1571,8 +1571,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 38,8
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 38,13
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 38,9
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 38,11
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 38,48
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 38,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 38,48
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 38,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 38,50
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 38,25
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 38,10
@@ -1583,11 +1583,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 38,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 38,32
 Ron Paul,President ,,REP,Wetzel,Precinct 38,7
 Rick Santorum,President ,,REP,Wetzel,Precinct 38,8
-John R. Raese,US Senate,,REP,Wetzel,Precinct 38,33
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 38,33
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 38,13
 Bill Maloney,Governor,,REP,Wetzel,Precinct 38,35
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 38,45
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 38,43
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 38,43
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 38,45
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 38,13
 Bill Maloney,Governor,,REP,Wetzel,Precinct 38,35
@@ -1596,7 +1596,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 38,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 38,17
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 38,27
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 38,45
-David B. McKinley,US House,1,REP,Wetzel,Precinct 38,45
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 38,45
 ,Registered Voters,,,Wetzel,Precinct 39,220
 ,Registered Voters,,REP,Wetzel,Precinct 39,61
 ,Registered Voters,,DEM,Wetzel,Precinct 39,108
@@ -1605,9 +1605,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 38,45
 ,Ballots Cast,,DEM,Wetzel,Precinct 39,27
 Barack Obama,President ,,DEM,Wetzel,Precinct 39,10
 Keith Judd,President ,,DEM,Wetzel,Precinct 39,13
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 39,21
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 39,5
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 39,25
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 39,21
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 39,5
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 39,25
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 39,5
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 39,21
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 39,23
@@ -1618,8 +1618,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39,3
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39,6
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39,8
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 39,25
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 39,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 39,25
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 39,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 39,26
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 39,10
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 39,10
@@ -1630,11 +1630,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 39,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 39,40
 Ron Paul,President ,,REP,Wetzel,Precinct 39,1
 Rick Santorum,President ,,REP,Wetzel,Precinct 39,7
-John R. Raese,US Senate,,REP,Wetzel,Precinct 39,39
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 39,39
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 39,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 39,38
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 39,41
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 39,41
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 39,41
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 39,44
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 39,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 39,38
@@ -1643,7 +1643,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 39,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 39,21
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 39,21
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 39,41
-David B. McKinley,US House,1,REP,Wetzel,Precinct 39,44
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 39,44
 ,Registered Voters,,,Wetzel,Precinct 39W,252
 ,Registered Voters,,REP,Wetzel,Precinct 39W,99
 ,Registered Voters,,DEM,Wetzel,Precinct 39W,97
@@ -1652,9 +1652,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 39,44
 ,Ballots Cast,,DEM,Wetzel,Precinct 39W,32
 Barack Obama,President ,,DEM,Wetzel,Precinct 39W,19
 Keith Judd,President ,,DEM,Wetzel,Precinct 39W,7
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 39W,22
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 39W,7
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 39W,25
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 39W,22
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 39W,7
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 39W,25
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 39W,3
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 39W,28
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 39W,28
@@ -1665,8 +1665,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39W,1
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39W,5
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39W,7
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 39W,12
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 39W,26
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 39W,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 39W,26
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 39W,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 39W,25
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 39W,7
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 39W,12
@@ -1677,11 +1677,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 39W,1
 Mitt Romney,President ,,REP,Wetzel,Precinct 39W,18
 Ron Paul,President ,,REP,Wetzel,Precinct 39W,1
 Rick Santorum,President ,,REP,Wetzel,Precinct 39W,2
-John R. Raese,US Senate,,REP,Wetzel,Precinct 39W,17
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 39W,17
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 39W,0
 Bill Maloney,Governor,,REP,Wetzel,Precinct 39W,22
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 39W,18
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 39W,15
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 39W,15
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 39W,18
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 39W,0
 Bill Maloney,Governor,,REP,Wetzel,Precinct 39W,22
@@ -1690,7 +1690,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 39W,18
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 39W,12
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 39W,7
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 39W,18
-David B. McKinley,US House,1,REP,Wetzel,Precinct 39W,21
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 39W,21
 ,Registered Voters,,,Wetzel,Precinct 40,266
 ,Registered Voters,,REP,Wetzel,Precinct 40,88
 ,Registered Voters,,DEM,Wetzel,Precinct 40,117
@@ -1699,9 +1699,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 39W,21
 ,Ballots Cast,,DEM,Wetzel,Precinct 40,51
 Barack Obama,President ,,DEM,Wetzel,Precinct 40,25
 Keith Judd,President ,,DEM,Wetzel,Precinct 40,17
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 40,41
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 40,7
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 40,35
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 40,41
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 40,7
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 40,35
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 40,8
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 40,38
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 40,34
@@ -1712,8 +1712,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 40,6
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 40,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 40,7
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 40,13
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 40,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 40,36
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 40,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 40,36
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 40,37
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 40,35
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 40,11
@@ -1724,11 +1724,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 40,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 40,28
 Ron Paul,President ,,REP,Wetzel,Precinct 40,4
 Rick Santorum,President ,,REP,Wetzel,Precinct 40,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 40,24
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 40,24
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 40,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 40,32
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 40,25
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 40,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 40,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 40,32
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 40,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 40,32
@@ -1737,7 +1737,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 40,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 40,12
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 40,16
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 40,28
-David B. McKinley,US House,1,REP,Wetzel,Precinct 40,35
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 40,35
 ,Registered Voters,,,Wetzel,Precinct 41,291
 ,Registered Voters,,REP,Wetzel,Precinct 41,84
 ,Registered Voters,,DEM,Wetzel,Precinct 41,140
@@ -1746,9 +1746,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 40,35
 ,Ballots Cast,,DEM,Wetzel,Precinct 41,68
 Barack Obama,President ,,DEM,Wetzel,Precinct 41,24
 Keith Judd,President ,,DEM,Wetzel,Precinct 41,28
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 41,56
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 41,9
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 41,43
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 41,56
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 41,9
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 41,43
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 41,8
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 41,51
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 41,48
@@ -1759,8 +1759,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 41,3
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 41,13
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 41,13
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 41,12
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 41,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 41,51
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 41,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 41,51
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 41,54
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 41,34
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 41,29
@@ -1771,11 +1771,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 41,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 41,29
 Ron Paul,President ,,REP,Wetzel,Precinct 41,1
 Rick Santorum,President ,,REP,Wetzel,Precinct 41,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 41,26
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 41,26
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 41,8
 Bill Maloney,Governor,,REP,Wetzel,Precinct 41,29
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 41,28
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 41,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 41,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 41,33
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 41,8
 Bill Maloney,Governor,,REP,Wetzel,Precinct 41,29
@@ -1784,7 +1784,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 41,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 41,15
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 41,18
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 41,31
-David B. McKinley,US House,1,REP,Wetzel,Precinct 41,32
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 41,32
 ,Registered Voters,,,Wetzel,Precinct 43,668
 ,Registered Voters,,REP,Wetzel,Precinct 43,219
 ,Registered Voters,,DEM,Wetzel,Precinct 43,306
@@ -1793,9 +1793,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 41,32
 ,Ballots Cast,,DEM,Wetzel,Precinct 43,114
 Barack Obama,President ,,DEM,Wetzel,Precinct 43,47
 Keith Judd,President ,,DEM,Wetzel,Precinct 43,53
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 43,95
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 43,15
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 43,86
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 43,95
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 43,15
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 43,86
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 43,17
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 43,88
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 43,97
@@ -1806,8 +1806,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 43,7
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 43,33
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 43,14
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 43,24
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 43,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 43,96
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 43,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 43,96
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 43,93
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 43,52
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 43,54
@@ -1818,11 +1818,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 43,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 43,53
 Ron Paul,President ,,REP,Wetzel,Precinct 43,8
 Rick Santorum,President ,,REP,Wetzel,Precinct 43,12
-John R. Raese,US Senate,,REP,Wetzel,Precinct 43,49
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 43,49
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 43,16
 Bill Maloney,Governor,,REP,Wetzel,Precinct 43,47
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 43,56
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 43,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 43,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 43,67
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 43,16
 Bill Maloney,Governor,,REP,Wetzel,Precinct 43,47
@@ -1831,7 +1831,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 43,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 43,30
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 43,30
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 43,55
-David B. McKinley,US House,1,REP,Wetzel,Precinct 43,66
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 43,66
 ,Registered Voters,,,Wetzel,Precinct 44,682
 ,Registered Voters,,REP,Wetzel,Precinct 44,147
 ,Registered Voters,,DEM,Wetzel,Precinct 44,375
@@ -1840,9 +1840,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 43,66
 ,Ballots Cast,,DEM,Wetzel,Precinct 44,141
 Barack Obama,President ,,DEM,Wetzel,Precinct 44,59
 Keith Judd,President ,,DEM,Wetzel,Precinct 44,54
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 44,107
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 44,24
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 44,97
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 44,107
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 44,24
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 44,97
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 44,17
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 44,113
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 44,99
@@ -1853,8 +1853,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 44,7
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 44,21
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 44,22
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 44,36
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 44,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 44,117
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 44,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 44,117
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 44,115
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 44,56
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 44,73
@@ -1865,11 +1865,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 44,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 44,36
 Ron Paul,President ,,REP,Wetzel,Precinct 44,7
 Rick Santorum,President ,,REP,Wetzel,Precinct 44,5
-John R. Raese,US Senate,,REP,Wetzel,Precinct 44,27
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 44,27
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 44,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 44,35
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 44,33
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 44,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 44,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 44,41
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 44,9
 Bill Maloney,Governor,,REP,Wetzel,Precinct 44,35
@@ -1878,7 +1878,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 44,33
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 44,18
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 44,22
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 44,36
-David B. McKinley,US House,1,REP,Wetzel,Precinct 44,46
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 44,46
 ,Registered Voters,,,Wetzel,Precinct 45,436
 ,Registered Voters,,REP,Wetzel,Precinct 45,159
 ,Registered Voters,,DEM,Wetzel,Precinct 45,182
@@ -1887,9 +1887,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 44,46
 ,Ballots Cast,,DEM,Wetzel,Precinct 45,57
 Barack Obama,President ,,DEM,Wetzel,Precinct 45,20
 Keith Judd,President ,,DEM,Wetzel,Precinct 45,28
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 45,47
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 45,9
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 45,40
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 45,47
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 45,9
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 45,40
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 45,10
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 45,44
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 45,47
@@ -1900,8 +1900,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 45,0
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 45,14
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 45,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 45,15
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 45,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 45,50
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 45,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 45,50
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 45,44
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 45,25
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 45,21
@@ -1912,11 +1912,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 45,2
 Mitt Romney,President ,,REP,Wetzel,Precinct 45,44
 Ron Paul,President ,,REP,Wetzel,Precinct 45,5
 Rick Santorum,President ,,REP,Wetzel,Precinct 45,7
-John R. Raese,US Senate,,REP,Wetzel,Precinct 45,35
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 45,35
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 45,11
 Bill Maloney,Governor,,REP,Wetzel,Precinct 45,42
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 45,45
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 45,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 45,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 45,52
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 45,11
 Bill Maloney,Governor,,REP,Wetzel,Precinct 45,42
@@ -1925,7 +1925,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 45,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 45,27
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 45,20
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 45,46
-David B. McKinley,US House,1,REP,Wetzel,Precinct 45,49
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 45,49
 ,Registered Voters,,,Wetzel,Precinct 46,911
 ,Registered Voters,,REP,Wetzel,Precinct 46,248
 ,Registered Voters,,DEM,Wetzel,Precinct 46,460
@@ -1934,9 +1934,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 45,49
 ,Ballots Cast,,DEM,Wetzel,Precinct 46,165
 Barack Obama,President ,,DEM,Wetzel,Precinct 46,88
 Keith Judd,President ,,DEM,Wetzel,Precinct 46,47
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 46,129
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 46,31
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 46,117
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 46,129
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 46,31
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 46,117
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 46,28
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 46,128
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 46,131
@@ -1947,8 +1947,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 46,11
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 46,24
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 46,30
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 46,47
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 46,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 46,136
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 46,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 46,136
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 46,133
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 46,64
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 46,89
@@ -1959,11 +1959,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 46,11
 Mitt Romney,President ,,REP,Wetzel,Precinct 46,72
 Ron Paul,President ,,REP,Wetzel,Precinct 46,8
 Rick Santorum,President ,,REP,Wetzel,Precinct 46,9
-John R. Raese,US Senate,,REP,Wetzel,Precinct 46,63
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 46,63
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 46,17
 Bill Maloney,Governor,,REP,Wetzel,Precinct 46,76
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 46,73
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 46,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 46,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 46,88
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 46,17
 Bill Maloney,Governor,,REP,Wetzel,Precinct 46,76
@@ -1972,7 +1972,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 46,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 46,48
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 46,37
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 46,83
-David B. McKinley,US House,1,REP,Wetzel,Precinct 46,94
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 46,94
 ,Registered Voters,,,Wetzel,Precinct 48,231
 ,Registered Voters,,REP,Wetzel,Precinct 48,75
 ,Registered Voters,,DEM,Wetzel,Precinct 48,111
@@ -1981,9 +1981,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 46,94
 ,Ballots Cast,,DEM,Wetzel,Precinct 48,35
 Barack Obama,President ,,DEM,Wetzel,Precinct 48,18
 Keith Judd,President ,,DEM,Wetzel,Precinct 48,8
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 48,27
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 48,6
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 48,24
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 48,27
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 48,6
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 48,24
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 48,1
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 48,30
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 48,26
@@ -1994,8 +1994,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 48,0
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 48,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 48,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 48,6
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 48,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 48,27
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 48,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 48,27
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 48,27
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 48,27
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 48,10
@@ -2006,11 +2006,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 48,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 48,29
 Ron Paul,President ,,REP,Wetzel,Precinct 48,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 48,3
-John R. Raese,US Senate,,REP,Wetzel,Precinct 48,25
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 48,25
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 48,5
 Bill Maloney,Governor,,REP,Wetzel,Precinct 48,30
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 48,29
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 48,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 48,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 48,37
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 48,5
 Bill Maloney,Governor,,REP,Wetzel,Precinct 48,30
@@ -2019,7 +2019,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 48,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 48,14
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 48,19
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 48,29
-David B. McKinley,US House,1,REP,Wetzel,Precinct 48,34
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 48,34
 ,Registered Voters,,,Wetzel,Precinct 52,633
 ,Registered Voters,,REP,Wetzel,Precinct 52,165
 ,Registered Voters,,DEM,Wetzel,Precinct 52,329
@@ -2028,9 +2028,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 48,34
 ,Ballots Cast,,DEM,Wetzel,Precinct 52,108
 Barack Obama,President ,,DEM,Wetzel,Precinct 52,57
 Keith Judd,President ,,DEM,Wetzel,Precinct 52,35
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 52,90
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 52,17
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 52,86
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 52,90
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 52,17
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 52,86
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 52,17
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 52,89
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 52,93
@@ -2041,8 +2041,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 52,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 52,32
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 52,25
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 52,17
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 52,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 52,97
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 52,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 52,97
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 52,95
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 52,49
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 52,55
@@ -2053,11 +2053,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 52,1
 Mitt Romney,President ,,REP,Wetzel,Precinct 52,29
 Ron Paul,President ,,REP,Wetzel,Precinct 52,8
 Rick Santorum,President ,,REP,Wetzel,Precinct 52,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 52,34
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 52,34
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 52,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 52,34
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 52,26
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 52,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 52,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 52,28
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 52,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 52,34
@@ -2066,7 +2066,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 52,
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 52,14
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 52,14
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 52,26
-David B. McKinley,US House,1,REP,Wetzel,Precinct 52,34
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 52,34
 ,Registered Voters,,,Wetzel,Precinct 56C1,215
 ,Registered Voters,,REP,Wetzel,Precinct 56C1,46
 ,Registered Voters,,DEM,Wetzel,Precinct 56C1,106
@@ -2075,9 +2075,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 52,34
 ,Ballots Cast,,DEM,Wetzel,Precinct 56C1,44
 Barack Obama,President ,,DEM,Wetzel,Precinct 56C1,18
 Keith Judd,President ,,DEM,Wetzel,Precinct 56C1,18
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 56C1,38
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 56C1,2
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 56C1,32
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 56C1,38
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 56C1,2
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 56C1,32
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 56C1,2
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 56C1,39
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 56C1,36
@@ -2088,8 +2088,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C1,4
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C1,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C1,8
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C1,6
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 56C1,29
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 56C1,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 56C1,29
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 56C1,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 56C1,34
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 56C1,34
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 56C1,13
@@ -2100,11 +2100,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 56C1,2
 Mitt Romney,President ,,REP,Wetzel,Precinct 56C1,12
 Ron Paul,President ,,REP,Wetzel,Precinct 56C1,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 56C1,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 56C1,16
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 56C1,16
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 56C1,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 56C1,17
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 56C1,17
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 56C1,14
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 56C1,14
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 56C1,21
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 56C1,3
 Bill Maloney,Governor,,REP,Wetzel,Precinct 56C1,17
@@ -2113,7 +2113,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 56C1,17
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 56C1,10
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 56C1,7
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 56C1,17
-David B. McKinley,US House,1,REP,Wetzel,Precinct 56C1,22
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 56C1,22
 ,Registered Voters,,,Wetzel,Precinct 56C2,169
 ,Registered Voters,,REP,Wetzel,Precinct 56C2,56
 ,Registered Voters,,DEM,Wetzel,Precinct 56C2,69
@@ -2122,9 +2122,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 56C1,22
 ,Ballots Cast,,DEM,Wetzel,Precinct 56C2,29
 Barack Obama,President ,,DEM,Wetzel,Precinct 56C2,14
 Keith Judd,President ,,DEM,Wetzel,Precinct 56C2,11
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 56C2,27
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 56C2,1
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 56C2,20
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 56C2,27
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 56C2,1
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 56C2,20
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 56C2,2
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 56C2,23
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 56C2,25
@@ -2135,8 +2135,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C2,1
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C2,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C2,6
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C2,5
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 56C2,20
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 56C2,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 56C2,20
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 56C2,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 56C2,25
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 56C2,25
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 56C2,7
@@ -2147,11 +2147,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 56C2,1
 Mitt Romney,President ,,REP,Wetzel,Precinct 56C2,19
 Ron Paul,President ,,REP,Wetzel,Precinct 56C2,0
 Rick Santorum,President ,,REP,Wetzel,Precinct 56C2,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 56C2,17
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 56C2,17
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 56C2,4
 Bill Maloney,Governor,,REP,Wetzel,Precinct 56C2,17
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 56C2,16
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 56C2,19
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 56C2,19
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 56C2,23
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 56C2,4
 Bill Maloney,Governor,,REP,Wetzel,Precinct 56C2,17
@@ -2160,7 +2160,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 56C2,16
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 56C2,7
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 56C2,11
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 56C2,17
-David B. McKinley,US House,1,REP,Wetzel,Precinct 56C2,20
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 56C2,20
 ,Registered Voters,,,Wetzel,Precinct 56C3,224
 ,Registered Voters,,REP,Wetzel,Precinct 56C3,58
 ,Registered Voters,,DEM,Wetzel,Precinct 56C3,119
@@ -2169,9 +2169,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 56C2,20
 ,Ballots Cast,,DEM,Wetzel,Precinct 56C3,49
 Barack Obama,President ,,DEM,Wetzel,Precinct 56C3,29
 Keith Judd,President ,,DEM,Wetzel,Precinct 56C3,11
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 56C3,41
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 56C3,6
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 56C3,37
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 56C3,41
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 56C3,6
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 56C3,37
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 56C3,5
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 56C3,42
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 56C3,39
@@ -2182,8 +2182,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C3,3
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C3,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C3,6
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 56C3,11
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 56C3,38
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 56C3,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 56C3,38
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 56C3,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 56C3,42
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 56C3,41
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 56C3,16
@@ -2194,11 +2194,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 56C3,1
 Mitt Romney,President ,,REP,Wetzel,Precinct 56C3,19
 Ron Paul,President ,,REP,Wetzel,Precinct 56C3,1
 Rick Santorum,President ,,REP,Wetzel,Precinct 56C3,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 56C3,14
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 56C3,14
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 56C3,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 56C3,15
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 56C3,16
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 56C3,15
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 56C3,15
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 56C3,24
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 56C3,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 56C3,15
@@ -2207,7 +2207,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 56C3,16
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 56C3,12
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 56C3,5
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 56C3,14
-David B. McKinley,US House,1,REP,Wetzel,Precinct 56C3,21
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 56C3,21
 ,Registered Voters,,,Wetzel,Precinct 58,249
 ,Registered Voters,,REP,Wetzel,Precinct 58,84
 ,Registered Voters,,DEM,Wetzel,Precinct 58,110
@@ -2216,9 +2216,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 56C3,21
 ,Ballots Cast,,DEM,Wetzel,Precinct 58,47
 Barack Obama,President ,,DEM,Wetzel,Precinct 58,21
 Keith Judd,President ,,DEM,Wetzel,Precinct 58,21
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 58,41
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 58,6
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 58,39
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 58,41
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 58,6
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 58,39
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 58,7
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 58,39
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 58,40
@@ -2229,8 +2229,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 58,1
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 58,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 58,12
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 58,9
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 58,38
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 58,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 58,38
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 58,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 58,43
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 58,43
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 58,7
@@ -2241,11 +2241,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 58,4
 Mitt Romney,President ,,REP,Wetzel,Precinct 58,22
 Ron Paul,President ,,REP,Wetzel,Precinct 58,5
 Rick Santorum,President ,,REP,Wetzel,Precinct 58,6
-John R. Raese,US Senate,,REP,Wetzel,Precinct 58,25
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 58,25
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 58,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 58,28
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 58,26
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 58,26
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 58,26
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 58,38
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 58,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 58,28
@@ -2254,7 +2254,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 58,26
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 58,17
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 58,13
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 58,28
-David B. McKinley,US House,1,REP,Wetzel,Precinct 58,34
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 58,34
 ,Registered Voters,,,Wetzel,Precinct 60,446
 ,Registered Voters,,REP,Wetzel,Precinct 60,119
 ,Registered Voters,,DEM,Wetzel,Precinct 60,219
@@ -2263,9 +2263,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 58,34
 ,Ballots Cast,,DEM,Wetzel,Precinct 60,83
 Barack Obama,President ,,DEM,Wetzel,Precinct 60,31
 Keith Judd,President ,,DEM,Wetzel,Precinct 60,38
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 60,72
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 60,7
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 60,63
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 60,72
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 60,7
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 60,63
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 60,9
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 60,68
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 60,70
@@ -2276,8 +2276,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 60,5
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 60,11
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 60,12
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 60,23
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 60,
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 60,71
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 60,
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 60,71
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 60,76
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 60,58
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 60,28
@@ -2288,11 +2288,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 60,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 60,33
 Ron Paul,President ,,REP,Wetzel,Precinct 60,3
 Rick Santorum,President ,,REP,Wetzel,Precinct 60,4
-John R. Raese,US Senate,,REP,Wetzel,Precinct 60,28
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 60,28
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 60,14
 Bill Maloney,Governor,,REP,Wetzel,Precinct 60,27
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 60,35
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 60,
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 60,
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 60,40
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 60,14
 Bill Maloney,Governor,,REP,Wetzel,Precinct 60,27
@@ -2301,7 +2301,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 60,35
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 60,25
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 60,13
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 60,32
-David B. McKinley,US House,1,REP,Wetzel,Precinct 60,39
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 60,39
 ,Registered Voters,,,Wetzel,Precinct 61,222
 ,Registered Voters,,REP,Wetzel,Precinct 61,78
 ,Registered Voters,,DEM,Wetzel,Precinct 61,99
@@ -2310,9 +2310,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 60,39
 ,Ballots Cast,,DEM,Wetzel,Precinct 61,32
 Barack Obama,President ,,DEM,Wetzel,Precinct 61,12
 Keith Judd,President ,,DEM,Wetzel,Precinct 61,13
-Joe Manchin III,US Senate,,DEM,Wetzel,Precinct 61,29
-Sheirl Fletcher,US Senate,,DEM,Wetzel,Precinct 61,3
-Sue Thorn,US House,1,DEM,Wetzel,Precinct 61,23
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,Precinct 61,29
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,Precinct 61,3
+Sue Thorn,U.S. House,1,DEM,Wetzel,Precinct 61,23
 Arne Moltis,Governor,,DEM,Wetzel,Precinct 61,4
 Earl Ray Tomblin,Governor,,DEM,Wetzel,Precinct 61,26
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,Precinct 61,25
@@ -2323,8 +2323,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,Precinct 61,0
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,Precinct 61,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,Precinct 61,7
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,Precinct 61,9
-Jack Yost ,State Senate ,1,DEM,Wetzel,Precinct 61,25
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,Precinct 61,
+Jack Yost ,State Senate,1,DEM,Wetzel,Precinct 61,25
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,Precinct 61,
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,Precinct 61,23
 Keith Hughes,House of Delegates,4,DEM,Wetzel,Precinct 61,29
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,Precinct 61,10
@@ -2335,11 +2335,11 @@ Newt Gingrich,President ,,REP,Wetzel,Precinct 61,3
 Mitt Romney,President ,,REP,Wetzel,Precinct 61,21
 Ron Paul,President ,,REP,Wetzel,Precinct 61,2
 Rick Santorum,President ,,REP,Wetzel,Precinct 61,5
-John R. Raese,US Senate,,REP,Wetzel,Precinct 61,61
+John R. Raese,U.S. Senate,,REP,Wetzel,Precinct 61,61
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 61,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 61,23
 Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 61,22
-Pat McGeehan,State Senate ,1,REP,Wetzel,Precinct 61,20
+Pat McGeehan,State Senate,1,REP,Wetzel,Precinct 61,20
 David A. Evans,House of Delegates,4,REP,Wetzel,Precinct 61,32
 Ralph William Clark,Governor,,REP,Wetzel,Precinct 61,6
 Bill Maloney,Governor,,REP,Wetzel,Precinct 61,23
@@ -2348,7 +2348,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,Precinct 61,22
 Mike Hall,Treasurer,,REP,Wetzel,Precinct 61,12
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,Precinct 61,7
 Patrick Morrisey,Attorney General,,REP,Wetzel,Precinct 61,17
-David B. McKinley,US House,1,REP,Wetzel,Precinct 61,28
+David B. McKinley,U.S. House,1,REP,Wetzel,Precinct 61,28
 ,Registered Voters,,,Wetzel,TOTAL ,21848
 ,Registered Voters,,REP,Wetzel,TOTAL ,6175
 ,Registered Voters,,DEM,Wetzel,TOTAL ,11143
@@ -2357,9 +2357,9 @@ David B. McKinley,US House,1,REP,Wetzel,Precinct 61,28
 ,Ballots Cast,,DEM,Wetzel,TOTAL ,4783
 Barack Obama,President ,,DEM,Wetzel,TOTAL ,2362
 Keith Judd,President ,,DEM,Wetzel,TOTAL ,1609
-Joe Manchin III,US Senate,,DEM,Wetzel,TOTAL ,3946
-Sheirl Fletcher,US Senate,,DEM,Wetzel,TOTAL ,648
-Sue Thorn,US House,1,DEM,Wetzel,TOTAL ,3425
+Joe Manchin III,U.S. Senate,,DEM,Wetzel,TOTAL ,3946
+Sheirl Fletcher,U.S. Senate,,DEM,Wetzel,TOTAL ,648
+Sue Thorn,U.S. House,1,DEM,Wetzel,TOTAL ,3425
 Arne Moltis,Governor,,DEM,Wetzel,TOTAL ,579
 Earl Ray Tomblin,Governor,,DEM,Wetzel,TOTAL ,3881
 Natalie E. Tennant,Secretary of State ,,DEM,Wetzel,TOTAL ,3758
@@ -2370,8 +2370,8 @@ Bobb Tabb,Commissioner of Agriculture,,DEM,Wetzel,TOTAL ,244
 Steve Miller,Commissioner of Agriculture,,DEM,Wetzel,TOTAL ,1031
 Walt Helmick,Commissioner of Agriculture,,DEM,Wetzel,TOTAL ,790
 Sally Shepherd ,Commissioner of Agriculture,,DEM,Wetzel,TOTAL ,1085
-Jack Yost ,State Senate ,1,DEM,Wetzel,TOTAL ,362
-Jeffrey V. Kessler ,State Senate ,2,DEM,Wetzel,TOTAL ,3690
+Jack Yost ,State Senate,1,DEM,Wetzel,TOTAL ,362
+Jeffrey V. Kessler ,State Senate,2,DEM,Wetzel,TOTAL ,3690
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Wetzel,TOTAL ,3798
 Keith Hughes,House of Delegates,4,DEM,Wetzel,TOTAL ,1646
 David Sidiropolis,House of Delegates,4,DEM,Wetzel,TOTAL ,2452
@@ -2382,11 +2382,11 @@ Newt Gingrich,President ,,REP,Wetzel,TOTAL ,137
 Mitt Romney,President ,,REP,Wetzel,TOTAL ,1687
 Ron Paul,President ,,REP,Wetzel,TOTAL ,201
 Rick Santorum,President ,,REP,Wetzel,TOTAL ,307
-John R. Raese,US Senate,,REP,Wetzel,TOTAL ,1572
+John R. Raese,U.S. Senate,,REP,Wetzel,TOTAL ,1572
 Ralph William Clark,Governor,,REP,Wetzel,TOTAL ,434
 Bill Maloney,Governor,,REP,Wetzel,TOTAL ,1696
 Larry V. Faircloth,Auditor,,REP,Wetzel,TOTAL ,1739
-Pat McGeehan,State Senate ,1,REP,Wetzel,TOTAL ,270
+Pat McGeehan,State Senate,1,REP,Wetzel,TOTAL ,270
 David A. Evans,House of Delegates,4,REP,Wetzel,TOTAL ,2003
 Ralph William Clark,Governor,,REP,Wetzel,TOTAL ,434
 Bill Maloney,Governor,,REP,Wetzel,TOTAL ,1696
@@ -2395,7 +2395,7 @@ Larry V. Faircloth,Auditor,,REP,Wetzel,TOTAL ,1739
 Mike Hall,Treasurer,,REP,Wetzel,TOTAL ,957
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Wetzel,TOTAL ,870
 Patrick Morrisey,Attorney General,,REP,Wetzel,TOTAL ,1736
-David B. McKinley,US House,1,REP,Wetzel,TOTAL ,2059
+David B. McKinley,U.S. House,1,REP,Wetzel,TOTAL ,2059
 ,,,,,,
 ,,,,,,
 ,,,,,,

@@ -5,13 +5,13 @@ candidate,office,district,party,county,precinct,total votes
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 1,46
 ,Straight Party Ticket ,,CON,Putnam,Precinct 1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 1,199
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 1,201
-Jeff Becker,US Senate,,CON,Putnam,Precinct 1,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 1,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 1,307
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 1,75
-Phil Hudok,US House,2,CON,Putnam,Precinct 1,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 1,199
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 1,201
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 1,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 1,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 1,307
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 1,75
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 1,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 1,284
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 1,212
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 1,184
@@ -31,13 +31,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 2,16
 ,Straight Party Ticket ,,CON,Putnam,Precinct 2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 2,87
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 2,80
-Jeff Becker,US Senate,,CON,Putnam,Precinct 2,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 2,4
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 2,126
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 2,35
-Phil Hudok,US House,2,CON,Putnam,Precinct 2,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 2,87
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 2,80
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 2,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 2,4
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 2,126
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 2,35
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 2,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 2,123
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 2,92
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 2,84
@@ -57,13 +57,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 4,34
 ,Straight Party Ticket ,,CON,Putnam,Precinct 4,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 4,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 4,136
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 4,137
-Jeff Becker,US Senate,,CON,Putnam,Precinct 4,0
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 4,8
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 4,203
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 4,65
-Phil Hudok,US House,2,CON,Putnam,Precinct 4,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 4,136
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 4,137
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 4,0
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 4,8
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 4,203
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 4,65
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 4,4
 Mike Hall,State Senate,4,REP,Putnam,Precinct 4,216
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 4,159
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 4,124
@@ -83,13 +83,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 4,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 6-1,75
 ,Straight Party Ticket ,,CON,Putnam,Precinct 6-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 6-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 6-1,317
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 6-1,285
-Jeff Becker,US Senate,,CON,Putnam,Precinct 6-1,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 6-1,15
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 6-1,455
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 6-1,137
-Phil Hudok,US House,2,CON,Putnam,Precinct 6-1,10
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 6-1,317
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 6-1,285
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 6-1,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 6-1,15
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 6-1,455
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 6-1,137
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 6-1,10
 Mike Hall,State Senate,4,REP,Putnam,Precinct 6-1,513
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 6-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 6-1,
@@ -109,13 +109,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 6-1,155
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 6-2,47
 ,Straight Party Ticket ,,CON,Putnam,Precinct 6-2,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 6-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 6-2,275
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 6-2,223
-Jeff Becker,US Senate,,CON,Putnam,Precinct 6-2,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 6-2,13
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 6-2,392
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 6-2,101
-Phil Hudok,US House,2,CON,Putnam,Precinct 6-2,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 6-2,275
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 6-2,223
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 6-2,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 6-2,13
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 6-2,392
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 6-2,101
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 6-2,7
 Mike Hall,State Senate,4,REP,Putnam,Precinct 6-2,413
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 6-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 6-2,
@@ -135,13 +135,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 6-2,119
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 7,36
 ,Straight Party Ticket ,,CON,Putnam,Precinct 7,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 7,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 7,139
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 7,178
-Jeff Becker,US Senate,,CON,Putnam,Precinct 7,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 7,7
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 7,216
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 7,98
-Phil Hudok,US House,2,CON,Putnam,Precinct 7,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 7,139
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 7,178
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 7,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 7,7
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 7,216
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 7,98
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 7,4
 Mike Hall,State Senate,4,REP,Putnam,Precinct 7,242
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 7,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 7,
@@ -161,13 +161,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 7,100
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 8-1,28
 ,Straight Party Ticket ,,CON,Putnam,Precinct 8-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 8-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 8-1,132
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 8-1,142
-Jeff Becker,US Senate,,CON,Putnam,Precinct 8-1,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 8-1,9
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 8-1,216
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 8-1,49
-Phil Hudok,US House,2,CON,Putnam,Precinct 8-1,10
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 8-1,132
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 8-1,142
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 8-1,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 8-1,9
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 8-1,216
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 8-1,49
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 8-1,10
 Mike Hall,State Senate,4,REP,Putnam,Precinct 8-1,222
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 8-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 8-1,
@@ -187,13 +187,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 8-1,62
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 8-2,50
 ,Straight Party Ticket ,,CON,Putnam,Precinct 8-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 8-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 8-2,165
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 8-2,168
-Jeff Becker,US Senate,,CON,Putnam,Precinct 8-2,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 8-2,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 8-2,237
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 8-2,87
-Phil Hudok,US House,2,CON,Putnam,Precinct 8-2,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 8-2,165
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 8-2,168
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 8-2,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 8-2,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 8-2,237
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 8-2,87
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 8-2,4
 Mike Hall,State Senate,4,REP,Putnam,Precinct 8-2,267
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 8-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 8-2,
@@ -213,13 +213,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 8-2,94
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 9,59
 ,Straight Party Ticket ,,CON,Putnam,Precinct 9,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 9,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 9,164
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 9,174
-Jeff Becker,US Senate,,CON,Putnam,Precinct 9,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 9,16
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 9,237
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 9,107
-Phil Hudok,US House,2,CON,Putnam,Precinct 9,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 9,164
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 9,174
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 9,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 9,16
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 9,237
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 9,107
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 9,7
 Mike Hall,State Senate,4,REP,Putnam,Precinct 9,268
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 9,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 9,
@@ -239,13 +239,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 9,106
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 10,66
 ,Straight Party Ticket ,,CON,Putnam,Precinct 10,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 10,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 10,205
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 10,216
-Jeff Becker,US Senate,,CON,Putnam,Precinct 10,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 10,16
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 10,310
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 10,117
-Phil Hudok,US House,2,CON,Putnam,Precinct 10,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 10,205
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 10,216
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 10,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 10,16
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 10,310
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 10,117
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 10,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 10,346
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 10,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 10,
@@ -265,13 +265,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 10,117
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 13,51
 ,Straight Party Ticket ,,CON,Putnam,Precinct 13,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 13,2
-John R. Raese,US Senate,,REP,Putnam,Precinct 13,187
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 13,146
-Jeff Becker,US Senate,,CON,Putnam,Precinct 13,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 13,14
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 13,247
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 13,83
-Phil Hudok,US House,2,CON,Putnam,Precinct 13,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 13,187
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 13,146
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 13,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 13,14
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 13,247
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 13,83
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 13,7
 Mike Hall,State Senate,4,REP,Putnam,Precinct 13,269
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 13,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 13,
@@ -291,13 +291,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 13,78
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 15,45
 ,Straight Party Ticket ,,CON,Putnam,Precinct 15,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 15,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 15,83
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 15,154
-Jeff Becker,US Senate,,CON,Putnam,Precinct 15,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 15,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 15,150
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 15,73
-Phil Hudok,US House,2,CON,Putnam,Precinct 15,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 15,83
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 15,154
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 15,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 15,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 15,150
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 15,73
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 15,7
 Mike Hall,State Senate,4,REP,Putnam,Precinct 15,172
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 15,104
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 15,129
@@ -317,13 +317,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 15,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 16-1,47
 ,Straight Party Ticket ,,CON,Putnam,Precinct 16-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 16-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 16-1,186
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 16-1,200
-Jeff Becker,US Senate,,CON,Putnam,Precinct 16-1,6
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 16-1,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 16-1,284
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 16-1,87
-Phil Hudok,US House,2,CON,Putnam,Precinct 16-1,10
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 16-1,186
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 16-1,200
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 16-1,6
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 16-1,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 16-1,284
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 16-1,87
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 16-1,10
 Mike Hall,State Senate,4,REP,Putnam,Precinct 16-1,277
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 16-1,216
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 16-1,210
@@ -343,13 +343,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 16-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 16-2,51
 ,Straight Party Ticket ,,CON,Putnam,Precinct 16-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 16-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 16-2,188
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 16-2,211
-Jeff Becker,US Senate,,CON,Putnam,Precinct 16-2,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 16-2,11
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 16-2,288
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 16-2,112
-Phil Hudok,US House,2,CON,Putnam,Precinct 16-2,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 16-2,188
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 16-2,211
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 16-2,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 16-2,11
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 16-2,288
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 16-2,112
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 16-2,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 16-2,298
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 16-2,213
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 16-2,221
@@ -369,13 +369,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 16-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 17,19
 ,Straight Party Ticket ,,CON,Putnam,Precinct 17,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 17,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 17,90
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 17,105
-Jeff Becker,US Senate,,CON,Putnam,Precinct 17,0
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 17,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 17,133
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 17,50
-Phil Hudok,US House,2,CON,Putnam,Precinct 17,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 17,90
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 17,105
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 17,0
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 17,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 17,133
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 17,50
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 17,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 17,141
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 17,134
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 17,85
@@ -395,13 +395,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 17,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 18,58
 ,Straight Party Ticket ,,CON,Putnam,Precinct 18,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 18,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 18,103
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 18,199
-Jeff Becker,US Senate,,CON,Putnam,Precinct 18,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 18,8
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 18,179
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 18,110
-Phil Hudok,US House,2,CON,Putnam,Precinct 18,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 18,103
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 18,199
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 18,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 18,8
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 18,179
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 18,110
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 18,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 18,173
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 18,154
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 18,169
@@ -421,13 +421,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 18,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 19,54
 ,Straight Party Ticket ,,CON,Putnam,Precinct 19,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 19,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 19,32
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 19,124
-Jeff Becker,US Senate,,CON,Putnam,Precinct 19,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 19,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 19,65
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 19,82
-Phil Hudok,US House,2,CON,Putnam,Precinct 19,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 19,32
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 19,124
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 19,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 19,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 19,65
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 19,82
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 19,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 19,84
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 19,49
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 19,106
@@ -447,13 +447,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 19,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 21,31
 ,Straight Party Ticket ,,CON,Putnam,Precinct 21,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 21,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 21,93
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 21,97
-Jeff Becker,US Senate,,CON,Putnam,Precinct 21,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 21,10
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 21,136
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 21,57
-Phil Hudok,US House,2,CON,Putnam,Precinct 21,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 21,93
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 21,97
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 21,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 21,10
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 21,136
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 21,57
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 21,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 21,134
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 21,97
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 21,106
@@ -473,13 +473,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 21,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 22,39
 ,Straight Party Ticket ,,CON,Putnam,Precinct 22,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 22,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 22,112
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 22,135
-Jeff Becker,US Senate,,CON,Putnam,Precinct 22,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 22,4
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 22,172
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 22,72
-Phil Hudok,US House,2,CON,Putnam,Precinct 22,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 22,112
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 22,135
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 22,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 22,4
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 22,172
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 22,72
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 22,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 22,184
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 22,124
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 22,116
@@ -499,13 +499,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 22,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 23,72
 ,Straight Party Ticket ,,CON,Putnam,Precinct 23,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 23,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 23,203
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 23,236
-Jeff Becker,US Senate,,CON,Putnam,Precinct 23,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 23,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 23,297
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 23,132
-Phil Hudok,US House,2,CON,Putnam,Precinct 23,10
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 23,203
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 23,236
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 23,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 23,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 23,297
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 23,132
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 23,10
 Mike Hall,State Senate,4,REP,Putnam,Precinct 23,330
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 23,205
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 23,248
@@ -525,13 +525,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 23,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 24,20
 ,Straight Party Ticket ,,CON,Putnam,Precinct 24,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 24,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 24,151
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 24,116
-Jeff Becker,US Senate,,CON,Putnam,Precinct 24,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 24,4
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 24,206
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 24,53
-Phil Hudok,US House,2,CON,Putnam,Precinct 24,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 24,151
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 24,116
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 24,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 24,4
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 24,206
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 24,53
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 24,7
 Mike Hall,State Senate,4,REP,Putnam,Precinct 24,225
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 24,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 24,
@@ -551,13 +551,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 24,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 25-1,46
 ,Straight Party Ticket ,,CON,Putnam,Precinct 25-1,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 25-1,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 25-1,313
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 25-1,271
-Jeff Becker,US Senate,,CON,Putnam,Precinct 25-1,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 25-1,10
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 25-1,463
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 25-1,116
-Phil Hudok,US House,2,CON,Putnam,Precinct 25-1,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 25-1,313
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 25-1,271
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 25-1,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 25-1,10
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 25-1,463
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 25-1,116
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 25-1,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 25-1,471
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 25-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 25-1,
@@ -577,13 +577,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 25-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 25-2,51
 ,Straight Party Ticket ,,CON,Putnam,Precinct 25-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 25-2,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 25-2,311
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 25-2,242
-Jeff Becker,US Senate,,CON,Putnam,Precinct 25-2,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 25-2,7
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 25-2,444
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 25-2,100
-Phil Hudok,US House,2,CON,Putnam,Precinct 25-2,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 25-2,311
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 25-2,242
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 25-2,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 25-2,7
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 25-2,444
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 25-2,100
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 25-2,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 25-2,441
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 25-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 25-2,
@@ -603,13 +603,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 25-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 26-1,58
 ,Straight Party Ticket ,,CON,Putnam,Precinct 26-1,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 26-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 26-1,311
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 26-1,267
-Jeff Becker,US Senate,,CON,Putnam,Precinct 26-1,6
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 26-1,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 26-1,434
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 26-1,126
-Phil Hudok,US House,2,CON,Putnam,Precinct 26-1,11
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 26-1,311
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 26-1,267
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 26-1,6
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 26-1,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 26-1,434
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 26-1,126
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 26-1,11
 Mike Hall,State Senate,4,REP,Putnam,Precinct 26-1,445
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 26-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 26-1,
@@ -629,13 +629,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 26-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 26-2,56
 ,Straight Party Ticket ,,CON,Putnam,Precinct 26-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 26-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 26-2,277
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 26-2,259
-Jeff Becker,US Senate,,CON,Putnam,Precinct 26-2,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 26-2,6
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 26-2,397
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 26-2,129
-Phil Hudok,US House,2,CON,Putnam,Precinct 26-2,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 26-2,277
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 26-2,259
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 26-2,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 26-2,6
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 26-2,397
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 26-2,129
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 26-2,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 26-2,413
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 26-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 26-2,
@@ -655,13 +655,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 26-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 27-1,62
 ,Straight Party Ticket ,,CON,Putnam,Precinct 27-1,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 27-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 27-1,258
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 27-1,263
-Jeff Becker,US Senate,,CON,Putnam,Precinct 27-1,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 27-1,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 27-1,377
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 27-1,120
-Phil Hudok,US House,2,CON,Putnam,Precinct 27-1,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 27-1,258
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 27-1,263
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 27-1,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 27-1,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 27-1,377
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 27-1,120
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 27-1,4
 Mike Hall,State Senate,4,REP,Putnam,Precinct 27-1,377
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 27-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 27-1,
@@ -681,13 +681,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 27-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 27-2,43
 ,Straight Party Ticket ,,CON,Putnam,Precinct 27-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 27-2,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 27-2,304
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 27-2,208
-Jeff Becker,US Senate,,CON,Putnam,Precinct 27-2,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 27-2,16
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 27-2,420
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 27-2,95
-Phil Hudok,US House,2,CON,Putnam,Precinct 27-2,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 27-2,304
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 27-2,208
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 27-2,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 27-2,16
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 27-2,420
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 27-2,95
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 27-2,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 27-2,435
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 27-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 27-2,
@@ -707,13 +707,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 27-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 28-1,39
 ,Straight Party Ticket ,,CON,Putnam,Precinct 28-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 28-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 28-1,261
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 28-1,174
-Jeff Becker,US Senate,,CON,Putnam,Precinct 28-1,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 28-1,9
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 28-1,343
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 28-1,86
-Phil Hudok,US House,2,CON,Putnam,Precinct 28-1,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 28-1,261
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 28-1,174
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 28-1,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 28-1,9
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 28-1,343
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 28-1,86
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 28-1,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 28-1,349
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 28-1,278
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 28-1,178
@@ -733,13 +733,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 28-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 28-2,32
 ,Straight Party Ticket ,,CON,Putnam,Precinct 28-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 28-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 28-2,183
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 28-2,155
-Jeff Becker,US Senate,,CON,Putnam,Precinct 28-2,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 28-2,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 28-2,268
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 28-2,60
-Phil Hudok,US House,2,CON,Putnam,Precinct 28-2,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 28-2,183
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 28-2,155
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 28-2,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 28-2,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 28-2,268
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 28-2,60
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 28-2,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 28-2,267
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 28-2,198
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 28-2,141
@@ -759,13 +759,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 28-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 29-1,52
 ,Straight Party Ticket ,,CON,Putnam,Precinct 29-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 29-1,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 29-1,266
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 29-1,260
-Jeff Becker,US Senate,,CON,Putnam,Precinct 29-1,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 29-1,11
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 29-1,411
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 29-1,108
-Phil Hudok,US House,2,CON,Putnam,Precinct 29-1,21
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 29-1,266
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 29-1,260
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 29-1,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 29-1,11
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 29-1,411
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 29-1,108
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 29-1,21
 Mike Hall,State Senate,4,REP,Putnam,Precinct 29-1,420
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 29-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 29-1,
@@ -785,13 +785,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 29-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 29-2,59
 ,Straight Party Ticket ,,CON,Putnam,Precinct 29-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 29-2,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 29-2,252
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 29-2,238
-Jeff Becker,US Senate,,CON,Putnam,Precinct 29-2,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 29-2,8
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 29-2,387
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 29-2,105
-Phil Hudok,US House,2,CON,Putnam,Precinct 29-2,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 29-2,252
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 29-2,238
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 29-2,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 29-2,8
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 29-2,387
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 29-2,105
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 29-2,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 29-2,396
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 29-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 29-2,
@@ -811,13 +811,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 29-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 30,59
 ,Straight Party Ticket ,,CON,Putnam,Precinct 30,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 30,2
-John R. Raese,US Senate,,REP,Putnam,Precinct 30,249
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 30,250
-Jeff Becker,US Senate,,CON,Putnam,Precinct 30,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 30,13
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 30,365
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 30,129
-Phil Hudok,US House,2,CON,Putnam,Precinct 30,12
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 30,249
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 30,250
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 30,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 30,13
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 30,365
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 30,129
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 30,12
 Mike Hall,State Senate,4,REP,Putnam,Precinct 30,389
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 30,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 30,
@@ -837,13 +837,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 30,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 31,51
 ,Straight Party Ticket ,,CON,Putnam,Precinct 31,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 31,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 31,145
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 31,164
-Jeff Becker,US Senate,,CON,Putnam,Precinct 31,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 31,7
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 31,206
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 31,98
-Phil Hudok,US House,2,CON,Putnam,Precinct 31,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 31,145
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 31,164
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 31,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 31,7
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 31,206
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 31,98
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 31,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 31,213
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 31,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 31,
@@ -863,13 +863,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 31,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 32,23
 ,Straight Party Ticket ,,CON,Putnam,Precinct 32,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 32,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 32,193
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 32,117
-Jeff Becker,US Senate,,CON,Putnam,Precinct 32,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 32,9
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 32,259
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 32,50
-Phil Hudok,US House,2,CON,Putnam,Precinct 32,9
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 32,193
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 32,117
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 32,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 32,9
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 32,259
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 32,50
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 32,9
 Mike Hall,State Senate,4,REP,Putnam,Precinct 32,262
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 32,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 32,
@@ -889,13 +889,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 32,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 33-1,29
 ,Straight Party Ticket ,,CON,Putnam,Precinct 33-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 33-1,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 33-1,229
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 33-1,136
-Jeff Becker,US Senate,,CON,Putnam,Precinct 33-1,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 33-1,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 33-1,293
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 33-1,65
-Phil Hudok,US House,2,CON,Putnam,Precinct 33-1,6
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 33-1,229
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 33-1,136
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 33-1,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 33-1,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 33-1,293
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 33-1,65
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 33-1,6
 Mike Hall,State Senate,4,REP,Putnam,Precinct 33-1,303
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 33-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 33-1,
@@ -915,13 +915,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 33-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 33-2,33
 ,Straight Party Ticket ,,CON,Putnam,Precinct 33-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 33-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 33-2,232
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 33-2,162
-Jeff Becker,US Senate,,CON,Putnam,Precinct 33-2,1
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 33-2,4
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 33-2,321
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 33-2,65
-Phil Hudok,US House,2,CON,Putnam,Precinct 33-2,7
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 33-2,232
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 33-2,162
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 33-2,1
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 33-2,4
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 33-2,321
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 33-2,65
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 33-2,7
 Mike Hall,State Senate,4,REP,Putnam,Precinct 33-2,325
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 33-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 33-2,
@@ -941,13 +941,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 33-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 34,33
 ,Straight Party Ticket ,,CON,Putnam,Precinct 34,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 34,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 34,104
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 34,128
-Jeff Becker,US Senate,,CON,Putnam,Precinct 34,6
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 34,6
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 34,158
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 34,76
-Phil Hudok,US House,2,CON,Putnam,Precinct 34,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 34,104
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 34,128
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 34,6
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 34,6
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 34,158
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 34,76
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 34,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 34,162
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 34,138
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 34,120
@@ -967,13 +967,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 34,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 35,20
 ,Straight Party Ticket ,,CON,Putnam,Precinct 35,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 35,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 35,65
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 35,53
-Jeff Becker,US Senate,,CON,Putnam,Precinct 35,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 35,3
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 35,79
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 35,35
-Phil Hudok,US House,2,CON,Putnam,Precinct 35,2
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 35,65
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 35,53
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 35,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 35,3
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 35,79
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 35,35
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 35,2
 Mike Hall,State Senate,4,REP,Putnam,Precinct 35,79
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 35,71
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 35,48
@@ -993,13 +993,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 35,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 36,18
 ,Straight Party Ticket ,,CON,Putnam,Precinct 36,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 36,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 36,113
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 36,68
-Jeff Becker,US Senate,,CON,Putnam,Precinct 36,0
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 36,4
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 36,138
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 36,38
-Phil Hudok,US House,2,CON,Putnam,Precinct 36,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 36,113
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 36,68
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 36,0
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 36,4
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 36,138
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 36,38
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 36,4
 Mike Hall,State Senate,4,REP,Putnam,Precinct 36,146
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 36,118
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 36,64
@@ -1019,13 +1019,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 36,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 37,37
 ,Straight Party Ticket ,,CON,Putnam,Precinct 37,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 37,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 37,63
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 37,122
-Jeff Becker,US Senate,,CON,Putnam,Precinct 37,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 37,2
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 37,114
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 37,60
-Phil Hudok,US House,2,CON,Putnam,Precinct 37,1
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 37,63
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 37,122
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 37,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 37,2
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 37,114
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 37,60
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 37,1
 Mike Hall,State Senate,4,REP,Putnam,Precinct 37,134
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 37,97
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 37,103
@@ -1045,13 +1045,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 37,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 38,48
 ,Straight Party Ticket ,,CON,Putnam,Precinct 38,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 38,1
-John R. Raese,US Senate,,REP,Putnam,Precinct 38,139
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 38,185
-Jeff Becker,US Senate,,CON,Putnam,Precinct 38,0
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 38,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 38,226
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 38,87
-Phil Hudok,US House,2,CON,Putnam,Precinct 38,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 38,139
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 38,185
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 38,0
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 38,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 38,226
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 38,87
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 38,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 38,222
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 38,186
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 38,143
@@ -1071,13 +1071,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 38,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 40,67
 ,Straight Party Ticket ,,CON,Putnam,Precinct 40,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 40,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 40,226
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 40,323
-Jeff Becker,US Senate,,CON,Putnam,Precinct 40,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 40,12
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 40,374
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 40,156
-Phil Hudok,US House,2,CON,Putnam,Precinct 40,10
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 40,226
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 40,323
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 40,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 40,12
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 40,374
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 40,156
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 40,10
 Mike Hall,State Senate,4,REP,Putnam,Precinct 40,370
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 40,288
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 40,264
@@ -1097,13 +1097,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 40,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 41,38
 ,Straight Party Ticket ,,CON,Putnam,Precinct 41,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 41,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 41,280
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 41,220
-Jeff Becker,US Senate,,CON,Putnam,Precinct 41,2
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 41,6
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 41,390
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 41,101
-Phil Hudok,US House,2,CON,Putnam,Precinct 41,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 41,280
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 41,220
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 41,2
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 41,6
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 41,390
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 41,101
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 41,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 41,412
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 41,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 41,
@@ -1123,13 +1123,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 41,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 42,48
 ,Straight Party Ticket ,,CON,Putnam,Precinct 42,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 42,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 42,304
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 42,183
-Jeff Becker,US Senate,,CON,Putnam,Precinct 42,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 42,2
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 42,390
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 42,90
-Phil Hudok,US House,2,CON,Putnam,Precinct 42,8
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 42,304
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 42,183
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 42,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 42,2
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 42,390
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 42,90
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 42,8
 Mike Hall,State Senate,4,REP,Putnam,Precinct 42,391
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 42,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 42,
@@ -1149,13 +1149,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 42,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 43-1,69
 ,Straight Party Ticket ,,CON,Putnam,Precinct 43-1,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 43-1,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 43-1,487
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 43-1,303
-Jeff Becker,US Senate,,CON,Putnam,Precinct 43-1,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 43-1,10
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 43-1,650
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 43-1,131
-Phil Hudok,US House,2,CON,Putnam,Precinct 43-1,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 43-1,487
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 43-1,303
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 43-1,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 43-1,10
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 43-1,650
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 43-1,131
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 43-1,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 43-1,664
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 43-1,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 43-1,
@@ -1175,13 +1175,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 43-1,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 43-2,62
 ,Straight Party Ticket ,,CON,Putnam,Precinct 43-2,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 43-2,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 43-2,450
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 43-2,358
-Jeff Becker,US Senate,,CON,Putnam,Precinct 43-2,4
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 43-2,8
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 43-2,625
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 43-2,172
-Phil Hudok,US House,2,CON,Putnam,Precinct 43-2,4
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 43-2,450
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 43-2,358
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 43-2,4
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 43-2,8
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 43-2,625
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 43-2,172
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 43-2,4
 Mike Hall,State Senate,4,REP,Putnam,Precinct 43-2,631
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 43-2,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 43-2,
@@ -1201,13 +1201,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 43-2,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 47,57
 ,Straight Party Ticket ,,CON,Putnam,Precinct 47,1
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 47,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 47,254
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 47,238
-Jeff Becker,US Senate,,CON,Putnam,Precinct 47,3
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 47,5
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 47,373
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 47,114
-Phil Hudok,US House,2,CON,Putnam,Precinct 47,5
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 47,254
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 47,238
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 47,3
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 47,5
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 47,373
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 47,114
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 47,5
 Mike Hall,State Senate,4,REP,Putnam,Precinct 47,379
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 47,
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 47,
@@ -1227,13 +1227,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 47,
 ,Straight Party Ticket ,,DEM,Putnam,Precinct 48,8
 ,Straight Party Ticket ,,CON,Putnam,Precinct 48,0
 ,Straight Party Ticket ,,MTN ,Putnam,Precinct 48,0
-John R. Raese,US Senate,,REP,Putnam,Precinct 48,62
-Joe Manchin III,US Senate,,DEM,Putnam,Precinct 48,34
-Jeff Becker,US Senate,,CON,Putnam,Precinct 48,0
-Jesse Johnson ,US Senate,,MTN ,Putnam,Precinct 48,0
-Shelley Moore Capito,US House,2,REP,Putnam,Precinct 48,73
-Virginia Lynch Graf,US House,2,DEM,Putnam,Precinct 48,17
-Phil Hudok,US House,2,CON,Putnam,Precinct 48,3
+John R. Raese,U.S. Senate,,REP,Putnam,Precinct 48,62
+Joe Manchin III,U.S. Senate,,DEM,Putnam,Precinct 48,34
+Jeff Becker,U.S. Senate,,CON,Putnam,Precinct 48,0
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,Precinct 48,0
+Shelley Moore Capito,U.S. House,2,REP,Putnam,Precinct 48,73
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,Precinct 48,17
+Phil Hudok,U.S. House,2,CON,Putnam,Precinct 48,3
 Mike Hall,State Senate,4,REP,Putnam,Precinct 48,81
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,Precinct 48,65
 Dale Martin,House of Delegates,13,DEM,Putnam,Precinct 48,30
@@ -1253,13 +1253,13 @@ Ralph Rodighiero ,House of Delegates,19,DEM,Putnam,Precinct 48,
 ,Straight Party Ticket ,,DEM,Putnam,TOTALS ,2142
 ,Straight Party Ticket ,,CON,Putnam,TOTALS ,21
 ,Straight Party Ticket ,,MTN ,Putnam,TOTALS ,18
-John R. Raese,US Senate,,REP,Putnam,TOTALS ,9578
-Joe Manchin III,US Senate,,DEM,Putnam,TOTALS ,8908
-Jeff Becker,US Senate,,CON,Putnam,TOTALS ,112
-Jesse Johnson ,US Senate,,MTN ,Putnam,TOTALS ,345
-Shelley Moore Capito,US House,2,REP,Putnam,TOTALS ,13834
-Virginia Lynch Graf,US House,2,DEM,Putnam,TOTALS ,4311
-Phil Hudok,US House,2,CON,Putnam,TOTALS ,292
+John R. Raese,U.S. Senate,,REP,Putnam,TOTALS ,9578
+Joe Manchin III,U.S. Senate,,DEM,Putnam,TOTALS ,8908
+Jeff Becker,U.S. Senate,,CON,Putnam,TOTALS ,112
+Jesse Johnson ,U.S. Senate,,MTN ,Putnam,TOTALS ,345
+Shelley Moore Capito,U.S. House,2,REP,Putnam,TOTALS ,13834
+Virginia Lynch Graf,U.S. House,2,DEM,Putnam,TOTALS ,4311
+Phil Hudok,U.S. House,2,CON,Putnam,TOTALS ,292
 Mike Hall,State Senate,4,REP,Putnam,TOTALS ,14358
 Brian (Scotty) Scott,House of Delegates,13,REP,Putnam,TOTALS ,3198
 Dale Martin,House of Delegates,13,DEM,Putnam,TOTALS ,2873

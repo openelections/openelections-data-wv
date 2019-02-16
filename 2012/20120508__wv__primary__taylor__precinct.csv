@@ -1,9 +1,9 @@
 candidate,office,district,party,county,precinct,total votes
 Barack Obama,President ,,DEM,Taylor,Precinct 1,81
 Keith Judd,President ,,DEM,Taylor,Precinct 1,70
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 1,38
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 1,148
-Sue Thorn,US House,1,DEM,Taylor,Precinct 1,132
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 1,38
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 1,148
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 1,132
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 1,150
 Arne Moltis,Governor,,DEM,Taylor,Precinct 1,34
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 1,166
@@ -28,8 +28,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 1,67
 Newt Gingrich,President ,,REP,Taylor,Precinct 1,5
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 1,0
 Rick Santorum,President ,,REP,Taylor,Precinct 1,13
-John R. Raese,US Senate,,REP,Taylor,Precinct 1,88
-David B. McKinley,US House,1,REP,Taylor,Precinct 1,86
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 1,88
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 1,86
 Ralph William Clark,Governor,,REP,Taylor,Precinct 1,11
 Bill Maloney,Governor,,REP,Taylor,Precinct 1,84
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 1,78
@@ -45,9 +45,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 1,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 1,91
 Barack Obama,President ,,DEM,Taylor,Precinct 2,89
 Keith Judd,President ,,DEM,Taylor,Precinct 2,56
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 2,36
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 2,137
-Sue Thorn,US House,1,DEM,Taylor,Precinct 2,124
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 2,36
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 2,137
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 2,124
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 2,137
 Arne Moltis,Governor,,DEM,Taylor,Precinct 2,30
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 2,150
@@ -72,8 +72,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 2,56
 Newt Gingrich,President ,,REP,Taylor,Precinct 2,7
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 2,0
 Rick Santorum,President ,,REP,Taylor,Precinct 2,12
-John R. Raese,US Senate,,REP,Taylor,Precinct 2,74
-David B. McKinley,US House,1,REP,Taylor,Precinct 2,74
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 2,74
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 2,74
 Ralph William Clark,Governor,,REP,Taylor,Precinct 2,12
 Bill Maloney,Governor,,REP,Taylor,Precinct 2,68
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 2,67
@@ -89,9 +89,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 2,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 2,73
 Barack Obama,President ,,DEM,Taylor,Precinct 3,66
 Keith Judd,President ,,DEM,Taylor,Precinct 3,58
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 3,37
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 3,113
-Sue Thorn,US House,1,DEM,Taylor,Precinct 3,99
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 3,37
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 3,113
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 3,99
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 3,122
 Arne Moltis,Governor,,DEM,Taylor,Precinct 3,24
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 3,136
@@ -116,8 +116,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 3,61
 Newt Gingrich,President ,,REP,Taylor,Precinct 3,4
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 3,0
 Rick Santorum,President ,,REP,Taylor,Precinct 3,8
-John R. Raese,US Senate,,REP,Taylor,Precinct 3,72
-David B. McKinley,US House,1,REP,Taylor,Precinct 3,75
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 3,72
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 3,75
 Ralph William Clark,Governor,,REP,Taylor,Precinct 3,7
 Bill Maloney,Governor,,REP,Taylor,Precinct 3,67
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 3,65
@@ -133,9 +133,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 3,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 3,69
 Barack Obama,President ,,DEM,Taylor,Precinct 4,60
 Keith Judd,President ,,DEM,Taylor,Precinct 4,31
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 4,20
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 4,90
-Sue Thorn,US House,1,DEM,Taylor,Precinct 4,69
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 4,20
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 4,90
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 4,69
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 4,90
 Arne Moltis,Governor,,DEM,Taylor,Precinct 4,17
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 4,93
@@ -160,8 +160,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 4,32
 Newt Gingrich,President ,,REP,Taylor,Precinct 4,1
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 4,0
 Rick Santorum,President ,,REP,Taylor,Precinct 4,10
-John R. Raese,US Senate,,REP,Taylor,Precinct 4,50
-David B. McKinley,US House,1,REP,Taylor,Precinct 4,51
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 4,50
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 4,51
 Ralph William Clark,Governor,,REP,Taylor,Precinct 4,9
 Bill Maloney,Governor,,REP,Taylor,Precinct 4,44
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 4,44
@@ -177,9 +177,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 4,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 4,45
 Barack Obama,President ,,DEM,Taylor,Precinct 5,48
 Keith Judd,President ,,DEM,Taylor,Precinct 5,59
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 5,26
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 5,90
-Sue Thorn,US House,1,DEM,Taylor,Precinct 5,95
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 5,26
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 5,90
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 5,95
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 5,96
 Arne Moltis,Governor,,DEM,Taylor,Precinct 5,22
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 5,109
@@ -204,8 +204,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 5,46
 Newt Gingrich,President ,,REP,Taylor,Precinct 5,6
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 5,1
 Rick Santorum,President ,,REP,Taylor,Precinct 5,6
-John R. Raese,US Senate,,REP,Taylor,Precinct 5,59
-David B. McKinley,US House,1,REP,Taylor,Precinct 5,62
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 5,59
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 5,62
 Ralph William Clark,Governor,,REP,Taylor,Precinct 5,10
 Bill Maloney,Governor,,REP,Taylor,Precinct 5,56
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 5,56
@@ -221,9 +221,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 5,42
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 5,
 Barack Obama,President ,,DEM,Taylor,Precinct 6,33
 Keith Judd,President ,,DEM,Taylor,Precinct 6,26
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 6,13
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 6,56
-Sue Thorn,US House,1,DEM,Taylor,Precinct 6,36
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 6,13
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 6,56
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 6,36
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 6,64
 Arne Moltis,Governor,,DEM,Taylor,Precinct 6,4
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 6,61
@@ -248,8 +248,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 6,14
 Newt Gingrich,President ,,REP,Taylor,Precinct 6,1
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 6,0
 Rick Santorum,President ,,REP,Taylor,Precinct 6,5
-John R. Raese,US Senate,,REP,Taylor,Precinct 6,19
-David B. McKinley,US House,1,REP,Taylor,Precinct 6,17
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 6,19
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 6,17
 Ralph William Clark,Governor,,REP,Taylor,Precinct 6,2
 Bill Maloney,Governor,,REP,Taylor,Precinct 6,19
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 6,16
@@ -265,9 +265,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 6,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 6,16
 Barack Obama,President ,,DEM,Taylor,Precinct 9,41
 Keith Judd,President ,,DEM,Taylor,Precinct 9,31
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 9,17
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 9,68
-Sue Thorn,US House,1,DEM,Taylor,Precinct 9,60
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 9,17
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 9,68
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 9,60
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 9,68
 Arne Moltis,Governor,,DEM,Taylor,Precinct 9,15
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 9,82
@@ -292,8 +292,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 9,39
 Newt Gingrich,President ,,REP,Taylor,Precinct 9,1
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 9,0
 Rick Santorum,President ,,REP,Taylor,Precinct 9,7
-John R. Raese,US Senate,,REP,Taylor,Precinct 9,51
-David B. McKinley,US House,1,REP,Taylor,Precinct 9,47
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 9,51
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 9,47
 Ralph William Clark,Governor,,REP,Taylor,Precinct 9,4
 Bill Maloney,Governor,,REP,Taylor,Precinct 9,46
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 9,39
@@ -309,9 +309,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 9,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 9,51
 Barack Obama,President ,,DEM,Taylor,Precinct 10,113
 Keith Judd,President ,,DEM,Taylor,Precinct 10,89
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 10,59
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 10,154
-Sue Thorn,US House,1,DEM,Taylor,Precinct 10,156
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 10,59
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 10,154
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 10,156
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 10,172
 Arne Moltis,Governor,,DEM,Taylor,Precinct 10,39
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 10,195
@@ -336,8 +336,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 10,54
 Newt Gingrich,President ,,REP,Taylor,Precinct 10,12
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 10,0
 Rick Santorum,President ,,REP,Taylor,Precinct 10,7
-John R. Raese,US Senate,,REP,Taylor,Precinct 10,76
-David B. McKinley,US House,1,REP,Taylor,Precinct 10,78
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 10,76
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 10,78
 Ralph William Clark,Governor,,REP,Taylor,Precinct 10,6
 Bill Maloney,Governor,,REP,Taylor,Precinct 10,79
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 10,67
@@ -353,9 +353,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 10,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 10,69
 Barack Obama,President ,,DEM,Taylor,Precinct 11,30
 Keith Judd,President ,,DEM,Taylor,Precinct 11,27
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 11,17
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 11,50
-Sue Thorn,US House,1,DEM,Taylor,Precinct 11,47
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 11,17
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 11,50
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 11,47
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 11,55
 Arne Moltis,Governor,,DEM,Taylor,Precinct 11,12
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 11,61
@@ -380,8 +380,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 11,20
 Newt Gingrich,President ,,REP,Taylor,Precinct 11,3
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 11,0
 Rick Santorum,President ,,REP,Taylor,Precinct 11,0
-John R. Raese,US Senate,,REP,Taylor,Precinct 11,28
-David B. McKinley,US House,1,REP,Taylor,Precinct 11,26
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 11,28
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 11,26
 Ralph William Clark,Governor,,REP,Taylor,Precinct 11,3
 Bill Maloney,Governor,,REP,Taylor,Precinct 11,27
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 11,24
@@ -397,9 +397,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 11,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 11,26
 Barack Obama,President ,,DEM,Taylor,Precinct 12,98
 Keith Judd,President ,,DEM,Taylor,Precinct 12,51
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 12,35
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 12,133
-Sue Thorn,US House,1,DEM,Taylor,Precinct 12,133
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 12,35
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 12,133
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 12,133
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 12,144
 Arne Moltis,Governor,,DEM,Taylor,Precinct 12,23
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 12,154
@@ -424,8 +424,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 12,71
 Newt Gingrich,President ,,REP,Taylor,Precinct 12,3
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 12,0
 Rick Santorum,President ,,REP,Taylor,Precinct 12,12
-John R. Raese,US Senate,,REP,Taylor,Precinct 12,86
-David B. McKinley,US House,1,REP,Taylor,Precinct 12,83
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 12,86
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 12,83
 Ralph William Clark,Governor,,REP,Taylor,Precinct 12,17
 Bill Maloney,Governor,,REP,Taylor,Precinct 12,77
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 12,74
@@ -441,9 +441,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 12,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 12,85
 Barack Obama,President ,,DEM,Taylor,Precinct 14,49
 Keith Judd,President ,,DEM,Taylor,Precinct 14,44
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 14,25
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 14,78
-Sue Thorn,US House,1,DEM,Taylor,Precinct 14,80
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 14,25
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 14,78
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 14,80
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 14,93
 Arne Moltis,Governor,,DEM,Taylor,Precinct 14,10
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 14,96
@@ -468,8 +468,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 14,33
 Newt Gingrich,President ,,REP,Taylor,Precinct 14,4
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 14,0
 Rick Santorum,President ,,REP,Taylor,Precinct 14,9
-John R. Raese,US Senate,,REP,Taylor,Precinct 14,46
-David B. McKinley,US House,1,REP,Taylor,Precinct 14,41
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 14,46
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 14,41
 Ralph William Clark,Governor,,REP,Taylor,Precinct 14,5
 Bill Maloney,Governor,,REP,Taylor,Precinct 14,43
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 14,38
@@ -485,9 +485,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 14,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 14,42
 Barack Obama,President ,,DEM,Taylor,Precinct 17,50
 Keith Judd,President ,,DEM,Taylor,Precinct 17,64
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 17,22
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 17,102
-Sue Thorn,US House,1,DEM,Taylor,Precinct 17,91
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 17,22
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 17,102
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 17,91
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 17,101
 Arne Moltis,Governor,,DEM,Taylor,Precinct 17,22
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 17,112
@@ -512,8 +512,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 17,45
 Newt Gingrich,President ,,REP,Taylor,Precinct 17,6
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 17,0
 Rick Santorum,President ,,REP,Taylor,Precinct 17,7
-John R. Raese,US Senate,,REP,Taylor,Precinct 17,56
-David B. McKinley,US House,1,REP,Taylor,Precinct 17,61
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 17,56
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 17,61
 Ralph William Clark,Governor,,REP,Taylor,Precinct 17,9
 Bill Maloney,Governor,,REP,Taylor,Precinct 17,51
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 17,54
@@ -529,9 +529,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 17,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 17,53
 Barack Obama,President ,,DEM,Taylor,Precinct 19,62
 Keith Judd,President ,,DEM,Taylor,Precinct 19,54
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 19,26
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 19,111
-Sue Thorn,US House,1,DEM,Taylor,Precinct 19,98
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 19,26
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 19,111
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 19,98
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 19,108
 Arne Moltis,Governor,,DEM,Taylor,Precinct 19,26
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 19,128
@@ -556,8 +556,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 19,53
 Newt Gingrich,President ,,REP,Taylor,Precinct 19,8
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 19,0
 Rick Santorum,President ,,REP,Taylor,Precinct 19,6
-John R. Raese,US Senate,,REP,Taylor,Precinct 19,63
-David B. McKinley,US House,1,REP,Taylor,Precinct 19,64
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 19,63
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 19,64
 Ralph William Clark,Governor,,REP,Taylor,Precinct 19,8
 Bill Maloney,Governor,,REP,Taylor,Precinct 19,59
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 19,55
@@ -573,9 +573,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 19,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 19,64
 Barack Obama,President ,,DEM,Taylor,Precinct 23,51
 Keith Judd,President ,,DEM,Taylor,Precinct 23,32
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 23,26
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 23,61
-Sue Thorn,US House,1,DEM,Taylor,Precinct 23,70
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 23,26
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 23,61
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 23,70
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 23,73
 Arne Moltis,Governor,,DEM,Taylor,Precinct 23,14
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 23,74
@@ -600,8 +600,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 23,26
 Newt Gingrich,President ,,REP,Taylor,Precinct 23,5
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 23,1
 Rick Santorum,President ,,REP,Taylor,Precinct 23,6
-John R. Raese,US Senate,,REP,Taylor,Precinct 23,39
-David B. McKinley,US House,1,REP,Taylor,Precinct 23,40
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 23,39
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 23,40
 Ralph William Clark,Governor,,REP,Taylor,Precinct 23,7
 Bill Maloney,Governor,,REP,Taylor,Precinct 23,34
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 23,35
@@ -617,9 +617,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 23,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 23,35
 Barack Obama,President ,,DEM,Taylor,Precinct 25,25
 Keith Judd,President ,,DEM,Taylor,Precinct 25,16
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 25,7
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 25,39
-Sue Thorn,US House,1,DEM,Taylor,Precinct 25,38
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 25,7
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 25,39
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 25,38
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 25,37
 Arne Moltis,Governor,,DEM,Taylor,Precinct 25,9
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 25,43
@@ -644,8 +644,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 25,13
 Newt Gingrich,President ,,REP,Taylor,Precinct 25,2
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 25,0
 Rick Santorum,President ,,REP,Taylor,Precinct 25,4
-John R. Raese,US Senate,,REP,Taylor,Precinct 25,21
-David B. McKinley,US House,1,REP,Taylor,Precinct 25,21
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 25,21
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 25,21
 Ralph William Clark,Governor,,REP,Taylor,Precinct 25,2
 Bill Maloney,Governor,,REP,Taylor,Precinct 25,20
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 25,18
@@ -661,9 +661,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 25,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 25,21
 Barack Obama,President ,,DEM,Taylor,Precinct 26,36
 Keith Judd,President ,,DEM,Taylor,Precinct 26,19
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 26,16
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 26,47
-Sue Thorn,US House,1,DEM,Taylor,Precinct 26,45
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 26,16
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 26,47
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 26,45
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 26,50
 Arne Moltis,Governor,,DEM,Taylor,Precinct 26,13
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 26,58
@@ -688,8 +688,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 26,22
 Newt Gingrich,President ,,REP,Taylor,Precinct 26,0
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 26,0
 Rick Santorum,President ,,REP,Taylor,Precinct 26,5
-John R. Raese,US Senate,,REP,Taylor,Precinct 26,25
-David B. McKinley,US House,1,REP,Taylor,Precinct 26,25
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 26,25
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 26,25
 Ralph William Clark,Governor,,REP,Taylor,Precinct 26,5
 Bill Maloney,Governor,,REP,Taylor,Precinct 26,20
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 26,19
@@ -705,9 +705,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 26,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 26,24
 Barack Obama,President ,,DEM,Taylor,Precinct 29,47
 Keith Judd,President ,,DEM,Taylor,Precinct 29,39
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 29,13
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 29,82
-Sue Thorn,US House,1,DEM,Taylor,Precinct 29,73
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 29,13
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 29,82
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 29,73
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 29,81
 Arne Moltis,Governor,,DEM,Taylor,Precinct 29,15
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 29,88
@@ -732,8 +732,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 29,34
 Newt Gingrich,President ,,REP,Taylor,Precinct 29,3
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 29,0
 Rick Santorum,President ,,REP,Taylor,Precinct 29,6
-John R. Raese,US Senate,,REP,Taylor,Precinct 29,45
-David B. McKinley,US House,1,REP,Taylor,Precinct 29,37
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 29,45
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 29,37
 Ralph William Clark,Governor,,REP,Taylor,Precinct 29,5
 Bill Maloney,Governor,,REP,Taylor,Precinct 29,41
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 29,39
@@ -749,9 +749,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 29,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 29,44
 Barack Obama,President ,,DEM,Taylor,Precinct 31,75
 Keith Judd,President ,,DEM,Taylor,Precinct 31,31
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 31,30
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 31,79
-Sue Thorn,US House,1,DEM,Taylor,Precinct 31,81
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 31,30
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 31,79
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 31,81
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 31,85
 Arne Moltis,Governor,,DEM,Taylor,Precinct 31,21
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 31,104
@@ -776,8 +776,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 31,20
 Newt Gingrich,President ,,REP,Taylor,Precinct 31,3
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 31,1
 Rick Santorum,President ,,REP,Taylor,Precinct 31,12
-John R. Raese,US Senate,,REP,Taylor,Precinct 31,39
-David B. McKinley,US House,1,REP,Taylor,Precinct 31,40
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 31,39
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 31,40
 Ralph William Clark,Governor,,REP,Taylor,Precinct 31,3
 Bill Maloney,Governor,,REP,Taylor,Precinct 31,38
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 31,36
@@ -793,9 +793,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 31,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 31,39
 Barack Obama,President ,,DEM,Taylor,Precinct 36,93
 Keith Judd,President ,,DEM,Taylor,Precinct 36,72
-Sheirl Fletcher,US Senate,,DEM,Taylor,Precinct 36,34
-Joe Manchin III,US Senate,,DEM,Taylor,Precinct 36,168
-Sue Thorn,US House,1,DEM,Taylor,Precinct 36,154
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,Precinct 36,34
+Joe Manchin III,U.S. Senate,,DEM,Taylor,Precinct 36,168
+Sue Thorn,U.S. House,1,DEM,Taylor,Precinct 36,154
 Earl Ray Tomblin,Governor,,DEM,Taylor,Precinct 36,179
 Arne Moltis,Governor,,DEM,Taylor,Precinct 36,19
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,Precinct 36,185
@@ -820,8 +820,8 @@ Mitt Romney,President ,,REP,Taylor,Precinct 36,78
 Newt Gingrich,President ,,REP,Taylor,Precinct 36,12
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,Precinct 36,1
 Rick Santorum,President ,,REP,Taylor,Precinct 36,11
-John R. Raese,US Senate,,REP,Taylor,Precinct 36,98
-David B. McKinley,US House,1,REP,Taylor,Precinct 36,103
+John R. Raese,U.S. Senate,,REP,Taylor,Precinct 36,98
+David B. McKinley,U.S. House,1,REP,Taylor,Precinct 36,103
 Ralph William Clark,Governor,,REP,Taylor,Precinct 36,17
 Bill Maloney,Governor,,REP,Taylor,Precinct 36,96
 Brian Savilla,Secretary of State ,,REP,Taylor,Precinct 36,89
@@ -837,9 +837,9 @@ Diana Bartley,House of Delegates,48,REP,Taylor,Precinct 36,
 Jeff Tansill ,House of Delegates,49,REP,Taylor,Precinct 36,99
 Barack Obama,President ,,DEM,Taylor,TOTALS,1147
 Keith Judd,President ,,DEM,Taylor,TOTALS,869
-Sheirl Fletcher,US Senate,,DEM,Taylor,TOTALS,497
-Joe Manchin III,US Senate,,DEM,Taylor,TOTALS,1806
-Sue Thorn,US House,1,DEM,Taylor,TOTALS,1681
+Sheirl Fletcher,U.S. Senate,,DEM,Taylor,TOTALS,497
+Joe Manchin III,U.S. Senate,,DEM,Taylor,TOTALS,1806
+Sue Thorn,U.S. House,1,DEM,Taylor,TOTALS,1681
 Earl Ray Tomblin,Governor,,DEM,Taylor,TOTALS,1905
 Arne Moltis,Governor,,DEM,Taylor,TOTALS,369
 Natalie E. Tennant,Secretary of State ,,DEM,Taylor,TOTALS,2095
@@ -864,8 +864,8 @@ Mitt Romney,President ,,REP,Taylor,TOTALS,784
 Newt Gingrich,President ,,REP,Taylor,TOTALS,86
 "Charles ""Buddy"" Roemer",President ,,REP,Taylor,TOTALS,4
 Rick Santorum,President ,,REP,Taylor,TOTALS,146
-John R. Raese,US Senate,,REP,Taylor,TOTALS,1035
-David B. McKinley,US House,1,REP,Taylor,TOTALS,1031
+John R. Raese,U.S. Senate,,REP,Taylor,TOTALS,1035
+David B. McKinley,U.S. House,1,REP,Taylor,TOTALS,1031
 Ralph William Clark,Governor,,REP,Taylor,TOTALS,142
 Bill Maloney,Governor,,REP,Taylor,TOTALS,969
 Brian Savilla,Secretary of State ,,REP,Taylor,TOTALS,913

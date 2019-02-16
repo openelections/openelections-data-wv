@@ -2,12 +2,12 @@ candidate,office,district,party,county,precinct,total votes
 ,Straight Party Ticket ,,REP,Fayette,Precinct 1,58
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 1,135
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 1,0
-John R. Raese,US Senate,,,Fayette,Precinct 1,148
-Joe Manchin III,US Senate,,,Fayette,Precinct 1,281
-Jeff Becker,US Senate,,,Fayette,Precinct 1,4
-Jesse Johnson ,US Senate,,,Fayette,Precinct 1,7
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 1,160
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 1,270
+John R. Raese,U.S. Senate,,,Fayette,Precinct 1,148
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 1,281
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 1,4
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 1,7
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 1,160
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 1,270
 John Harnes,State Senate,10,,Fayette,Precinct 1,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 1,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 1,134
@@ -22,12 +22,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 1,253
 ,Straight Party Ticket ,,REP,Fayette,Precinct 4,77
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 4,87
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 4,3
-John R. Raese,US Senate,,,Fayette,Precinct 4,196
-Joe Manchin III,US Senate,,,Fayette,Precinct 4,198
-Jeff Becker,US Senate,,,Fayette,Precinct 4,7
-Jesse Johnson ,US Senate,,,Fayette,Precinct 4,10
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 4,210
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 4,194
+John R. Raese,U.S. Senate,,,Fayette,Precinct 4,196
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 4,198
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 4,7
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 4,10
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 4,210
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 4,194
 John Harnes,State Senate,10,,Fayette,Precinct 4,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 4,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 4,178
@@ -42,12 +42,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 4,217
 ,Straight Party Ticket ,,REP,Fayette,Precinct 5,23
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 5,74
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 5,1
-John R. Raese,US Senate,,,Fayette,Precinct 5,76
-Joe Manchin III,US Senate,,,Fayette,Precinct 5,149
-Jeff Becker,US Senate,,,Fayette,Precinct 5,4
-Jesse Johnson ,US Senate,,,Fayette,Precinct 5,9
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 5,84
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 5,147
+John R. Raese,U.S. Senate,,,Fayette,Precinct 5,76
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 5,149
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 5,4
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 5,9
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 5,84
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 5,147
 John Harnes,State Senate,10,,Fayette,Precinct 5,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 5,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 5,71
@@ -62,12 +62,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 5,144
 ,Straight Party Ticket ,,REP,Fayette,Precinct 8,26
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 8,69
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 8,0
-John R. Raese,US Senate,,,Fayette,Precinct 8,142
-Joe Manchin III,US Senate,,,Fayette,Precinct 8,203
-Jeff Becker,US Senate,,,Fayette,Precinct 8,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 8,9
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 8,140
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 8,207
+John R. Raese,U.S. Senate,,,Fayette,Precinct 8,142
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 8,203
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 8,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 8,9
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 8,140
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 8,207
 John Harnes,State Senate,10,,Fayette,Precinct 8,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 8,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 8,130
@@ -82,12 +82,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 8,206
 ,Straight Party Ticket ,,REP,Fayette,Precinct 9,15
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 9,66
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 9,0
-John R. Raese,US Senate,,,Fayette,Precinct 9,83
-Joe Manchin III,US Senate,,,Fayette,Precinct 9,138
-Jeff Becker,US Senate,,,Fayette,Precinct 9,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 9,9
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 9,92
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 9,134
+John R. Raese,U.S. Senate,,,Fayette,Precinct 9,83
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 9,138
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 9,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 9,9
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 9,92
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 9,134
 John Harnes,State Senate,10,,Fayette,Precinct 9,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 9,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 9,80
@@ -102,12 +102,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 9,155
 ,Straight Party Ticket ,,REP,Fayette,Precinct 10,17
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 10,52
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 10,0
-John R. Raese,US Senate,,,Fayette,Precinct 10,129
-Joe Manchin III,US Senate,,,Fayette,Precinct 10,209
-Jeff Becker,US Senate,,,Fayette,Precinct 10,5
-Jesse Johnson ,US Senate,,,Fayette,Precinct 10,8
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 10,142
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 10,203
+John R. Raese,U.S. Senate,,,Fayette,Precinct 10,129
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 10,209
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 10,5
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 10,8
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 10,142
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 10,203
 John Harnes,State Senate,10,,Fayette,Precinct 10,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 10,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 10,116
@@ -122,12 +122,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 10,202
 ,Straight Party Ticket ,,REP,Fayette,Precinct 11,34
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 11,74
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 11,0
-John R. Raese,US Senate,,,Fayette,Precinct 11,70
-Joe Manchin III,US Senate,,,Fayette,Precinct 11,229
-Jeff Becker,US Senate,,,Fayette,Precinct 11,9
-Jesse Johnson ,US Senate,,,Fayette,Precinct 11,15
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 11,208
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 11,204
+John R. Raese,U.S. Senate,,,Fayette,Precinct 11,70
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 11,229
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 11,9
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 11,15
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 11,208
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 11,204
 John Harnes,State Senate,10,,Fayette,Precinct 11,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 11,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 11,148
@@ -142,12 +142,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 11,230
 ,Straight Party Ticket ,,REP,Fayette,Precinct 12,37
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 12,87
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 12,1
-John R. Raese,US Senate,,,Fayette,Precinct 12,235
-Joe Manchin III,US Senate,,,Fayette,Precinct 12,238
-Jeff Becker,US Senate,,,Fayette,Precinct 12,7
-Jesse Johnson ,US Senate,,,Fayette,Precinct 12,13
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 12,134
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 12,252
+John R. Raese,U.S. Senate,,,Fayette,Precinct 12,235
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 12,238
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 12,7
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 12,13
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 12,134
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 12,252
 John Harnes,State Senate,10,,Fayette,Precinct 12,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 12,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 12,126
@@ -162,12 +162,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 12,233
 ,Straight Party Ticket ,,REP,Fayette,Precinct 13,27
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 13,65
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 13,2
-John R. Raese,US Senate,,,Fayette,Precinct 13,114
-Joe Manchin III,US Senate,,,Fayette,Precinct 13,293
-Jeff Becker,US Senate,,,Fayette,Precinct 13,4
-Jesse Johnson ,US Senate,,,Fayette,Precinct 13,8
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 13,129
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 13,180
+John R. Raese,U.S. Senate,,,Fayette,Precinct 13,114
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 13,293
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 13,4
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 13,8
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 13,129
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 13,180
 John Harnes,State Senate,10,,Fayette,Precinct 13,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 13,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 13,108
@@ -182,12 +182,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 13,175
 ,Straight Party Ticket ,,REP,Fayette,Precinct 15,42
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 15,71
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 15,0
-John R. Raese,US Senate,,,Fayette,Precinct 15,113
-Joe Manchin III,US Senate,,,Fayette,Precinct 15,185
-Jeff Becker,US Senate,,,Fayette,Precinct 15,9
-Jesse Johnson ,US Senate,,,Fayette,Precinct 15,7
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 15,126
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 15,177
+John R. Raese,U.S. Senate,,,Fayette,Precinct 15,113
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 15,185
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 15,9
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 15,7
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 15,126
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 15,177
 John Harnes,State Senate,10,,Fayette,Precinct 15,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 15,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 15,101
@@ -202,12 +202,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 15,178
 ,Straight Party Ticket ,,REP,Fayette,Precinct 17,35
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 17,38
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 17,0
-John R. Raese,US Senate,,,Fayette,Precinct 17,107
-Joe Manchin III,US Senate,,,Fayette,Precinct 17,118
-Jeff Becker,US Senate,,,Fayette,Precinct 17,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 17,3
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 17,117
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 17,112
+John R. Raese,U.S. Senate,,,Fayette,Precinct 17,107
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 17,118
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 17,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 17,3
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 17,117
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 17,112
 John Harnes,State Senate,10,,Fayette,Precinct 17,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 17,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 17,112
@@ -222,12 +222,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 17,112
 ,Straight Party Ticket ,,REP,Fayette,Precinct 18,48
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 18,38
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 18,0
-John R. Raese,US Senate,,,Fayette,Precinct 18,87
-Joe Manchin III,US Senate,,,Fayette,Precinct 18,101
-Jeff Becker,US Senate,,,Fayette,Precinct 18,1
-Jesse Johnson ,US Senate,,,Fayette,Precinct 18,4
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 18,89
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 18,98
+John R. Raese,U.S. Senate,,,Fayette,Precinct 18,87
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 18,101
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 18,1
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 18,4
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 18,89
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 18,98
 John Harnes,State Senate,10,,Fayette,Precinct 18,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 18,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 18,86
@@ -242,12 +242,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 18,92
 ,Straight Party Ticket ,,REP,Fayette,Precinct 19,30
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 19,107
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 19,1
-John R. Raese,US Senate,,,Fayette,Precinct 19,114
-Joe Manchin III,US Senate,,,Fayette,Precinct 19,255
-Jeff Becker,US Senate,,,Fayette,Precinct 19,5
-Jesse Johnson ,US Senate,,,Fayette,Precinct 19,6
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 19,128
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 19,250
+John R. Raese,U.S. Senate,,,Fayette,Precinct 19,114
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 19,255
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 19,5
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 19,6
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 19,128
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 19,250
 John Harnes,State Senate,10,,Fayette,Precinct 19,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 19,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 19,100
@@ -262,12 +262,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 19,246
 ,Straight Party Ticket ,,REP,Fayette,Precinct 23,33
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 23,67
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 23,0
-John R. Raese,US Senate,,,Fayette,Precinct 23,89
-Joe Manchin III,US Senate,,,Fayette,Precinct 23,139
-Jeff Becker,US Senate,,,Fayette,Precinct 23,0
-Jesse Johnson ,US Senate,,,Fayette,Precinct 23,5
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 23,93
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 23,156
+John R. Raese,U.S. Senate,,,Fayette,Precinct 23,89
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 23,139
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 23,0
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 23,5
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 23,93
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 23,156
 John Harnes,State Senate,10,,Fayette,Precinct 23,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 23,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 23,95
@@ -282,12 +282,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 23,154
 ,Straight Party Ticket ,,REP,Fayette,Precinct 24,30
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 24,50
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 24,0
-John R. Raese,US Senate,,,Fayette,Precinct 24,74
-Joe Manchin III,US Senate,,,Fayette,Precinct 24,117
-Jeff Becker,US Senate,,,Fayette,Precinct 24,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 24,1
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 24,82
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 24,108
+John R. Raese,U.S. Senate,,,Fayette,Precinct 24,74
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 24,117
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 24,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 24,1
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 24,82
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 24,108
 John Harnes,State Senate,10,,Fayette,Precinct 24,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 24,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 24,77
@@ -302,12 +302,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 24,112
 ,Straight Party Ticket ,,REP,Fayette,Precinct 26,8
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 26,58
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 26,0
-John R. Raese,US Senate,,,Fayette,Precinct 26,25
-Joe Manchin III,US Senate,,,Fayette,Precinct 26,113
-Jeff Becker,US Senate,,,Fayette,Precinct 26,0
-Jesse Johnson ,US Senate,,,Fayette,Precinct 26,1
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 26,24
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 26,113
+John R. Raese,U.S. Senate,,,Fayette,Precinct 26,25
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 26,113
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 26,0
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 26,1
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 26,24
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 26,113
 John Harnes,State Senate,10,,Fayette,Precinct 26,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 26,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 26,26
@@ -322,12 +322,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 26,92
 ,Straight Party Ticket ,,REP,Fayette,Precinct 28,9
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 28,104
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 28,0
-John R. Raese,US Senate,,,Fayette,Precinct 28,65
-Joe Manchin III,US Senate,,,Fayette,Precinct 28,196
-Jeff Becker,US Senate,,,Fayette,Precinct 28,1
-Jesse Johnson ,US Senate,,,Fayette,Precinct 28,2
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 28,59
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 28,198
+John R. Raese,U.S. Senate,,,Fayette,Precinct 28,65
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 28,196
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 28,1
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 28,2
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 28,59
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 28,198
 John Harnes,State Senate,10,,Fayette,Precinct 28,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 28,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 28,52
@@ -342,12 +342,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 28,180
 ,Straight Party Ticket ,,REP,Fayette,Precinct 29,22
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 29,89
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 29,2
-John R. Raese,US Senate,,,Fayette,Precinct 29,88
-Joe Manchin III,US Senate,,,Fayette,Precinct 29,198
-Jeff Becker,US Senate,,,Fayette,Precinct 29,5
-Jesse Johnson ,US Senate,,,Fayette,Precinct 29,16
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 29,97
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 29,203
+John R. Raese,U.S. Senate,,,Fayette,Precinct 29,88
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 29,198
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 29,5
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 29,16
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 29,97
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 29,203
 John Harnes,State Senate,10,,Fayette,Precinct 29,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 29,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 29,91
@@ -362,12 +362,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 29,208
 ,Straight Party Ticket ,,REP,Fayette,Precinct 31,1
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 31,30
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 31,0
-John R. Raese,US Senate,,,Fayette,Precinct 31,14
-Joe Manchin III,US Senate,,,Fayette,Precinct 31,63
-Jeff Becker,US Senate,,,Fayette,Precinct 31,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 31,1
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 31,12
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 31,67
+John R. Raese,U.S. Senate,,,Fayette,Precinct 31,14
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 31,63
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 31,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 31,1
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 31,12
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 31,67
 John Harnes,State Senate,10,,Fayette,Precinct 31,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 31,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 31,12
@@ -382,12 +382,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 31,68
 ,Straight Party Ticket ,,REP,Fayette,Precinct 32,14
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 32,21
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 32,0
-John R. Raese,US Senate,,,Fayette,Precinct 32,46
-Joe Manchin III,US Senate,,,Fayette,Precinct 32,58
-Jeff Becker,US Senate,,,Fayette,Precinct 32,1
-Jesse Johnson ,US Senate,,,Fayette,Precinct 32,1
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 32,52
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 32,51
+John R. Raese,U.S. Senate,,,Fayette,Precinct 32,46
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 32,58
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 32,1
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 32,1
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 32,52
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 32,51
 John Harnes,State Senate,10,,Fayette,Precinct 32,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 32,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 32,31
@@ -402,12 +402,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 32,63
 ,Straight Party Ticket ,,REP,Fayette,Precinct 37,9
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 37,68
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 37,0
-John R. Raese,US Senate,,,Fayette,Precinct 37,40
-Joe Manchin III,US Senate,,,Fayette,Precinct 37,147
-Jeff Becker,US Senate,,,Fayette,Precinct 37,0
-Jesse Johnson ,US Senate,,,Fayette,Precinct 37,5
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 37,36
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 37,154
+John R. Raese,U.S. Senate,,,Fayette,Precinct 37,40
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 37,147
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 37,0
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 37,5
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 37,36
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 37,154
 John Harnes,State Senate,10,,Fayette,Precinct 37,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 37,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 37,35
@@ -422,12 +422,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 37,137
 ,Straight Party Ticket ,,REP,Fayette,Precinct 38,15
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 38,53
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 38,1
-John R. Raese,US Senate,,,Fayette,Precinct 38,47
-Joe Manchin III,US Senate,,,Fayette,Precinct 38,135
-Jeff Becker,US Senate,,,Fayette,Precinct 38,3
-Jesse Johnson ,US Senate,,,Fayette,Precinct 38,1
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 38,44
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 38,140
+John R. Raese,U.S. Senate,,,Fayette,Precinct 38,47
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 38,135
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 38,3
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 38,1
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 38,44
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 38,140
 John Harnes,State Senate,10,,Fayette,Precinct 38,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 38,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 38,41
@@ -442,12 +442,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 38,121
 ,Straight Party Ticket ,,REP,Fayette,Precinct 41,30
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 41,76
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 41,1
-John R. Raese,US Senate,,,Fayette,Precinct 41,71
-Joe Manchin III,US Senate,,,Fayette,Precinct 41,143
-Jeff Becker,US Senate,,,Fayette,Precinct 41,3
-Jesse Johnson ,US Senate,,,Fayette,Precinct 41,8
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 41,83
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 41,136
+John R. Raese,U.S. Senate,,,Fayette,Precinct 41,71
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 41,143
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 41,3
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 41,8
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 41,83
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 41,136
 John Harnes,State Senate,10,,Fayette,Precinct 41,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 41,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 41,74
@@ -462,12 +462,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 41,140
 ,Straight Party Ticket ,,REP,Fayette,Precinct 42,23
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 42,50
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 42,0
-John R. Raese,US Senate,,,Fayette,Precinct 42,36
-Joe Manchin III,US Senate,,,Fayette,Precinct 42,75
-Jeff Becker,US Senate,,,Fayette,Precinct 42,0
-Jesse Johnson ,US Senate,,,Fayette,Precinct 42,1
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 42,41
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 42,69
+John R. Raese,U.S. Senate,,,Fayette,Precinct 42,36
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 42,75
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 42,0
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 42,1
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 42,41
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 42,69
 John Harnes,State Senate,10,,Fayette,Precinct 42,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 42,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 42,36
@@ -482,12 +482,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 42,67
 ,Straight Party Ticket ,,REP,Fayette,Precinct 45,2
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 45,86
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 45,0
-John R. Raese,US Senate,,,Fayette,Precinct 45,22
-Joe Manchin III,US Senate,,,Fayette,Precinct 45,135
-Jeff Becker,US Senate,,,Fayette,Precinct 45,0
-Jesse Johnson ,US Senate,,,Fayette,Precinct 45,5
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 45,15
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 45,145
+John R. Raese,U.S. Senate,,,Fayette,Precinct 45,22
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 45,135
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 45,0
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 45,5
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 45,15
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 45,145
 John Harnes,State Senate,10,,Fayette,Precinct 45,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 45,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 45,15
@@ -502,12 +502,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 45,230
 ,Straight Party Ticket ,,REP,Fayette,Precinct 46,10
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 46,141
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 46,2
-John R. Raese,US Senate,,,Fayette,Precinct 46,91
-Joe Manchin III,US Senate,,,Fayette,Precinct 46,265
-Jeff Becker,US Senate,,,Fayette,Precinct 46,1
-Jesse Johnson ,US Senate,,,Fayette,Precinct 46,11
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 46,92
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 46,268
+John R. Raese,U.S. Senate,,,Fayette,Precinct 46,91
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 46,265
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 46,1
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 46,11
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 46,92
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 46,268
 John Harnes,State Senate,10,,Fayette,Precinct 46,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 46,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 46,77
@@ -522,12 +522,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 46,253
 ,Straight Party Ticket ,,REP,Fayette,Precinct 47,29
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 47,81
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 47,0
-John R. Raese,US Senate,,,Fayette,Precinct 47,60
-Joe Manchin III,US Senate,,,Fayette,Precinct 47,161
-Jeff Becker,US Senate,,,Fayette,Precinct 47,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 47,2
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 47,65
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 47,152
+John R. Raese,U.S. Senate,,,Fayette,Precinct 47,60
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 47,161
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 47,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 47,2
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 47,65
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 47,152
 John Harnes,State Senate,10,,Fayette,Precinct 47,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 47,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 47,56
@@ -542,12 +542,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 47,144
 ,Straight Party Ticket ,,REP,Fayette,Precinct 51,21
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 51,42
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 51,2
-John R. Raese,US Senate,,,Fayette,Precinct 51,61
-Joe Manchin III,US Senate,,,Fayette,Precinct 51,107
-Jeff Becker,US Senate,,,Fayette,Precinct 51,4
-Jesse Johnson ,US Senate,,,Fayette,Precinct 51,6
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 51,75
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 51,100
+John R. Raese,U.S. Senate,,,Fayette,Precinct 51,61
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 51,107
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 51,4
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 51,6
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 51,75
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 51,100
 John Harnes,State Senate,10,,Fayette,Precinct 51,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 51,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 51,64
@@ -562,12 +562,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 51,114
 ,Straight Party Ticket ,,REP,Fayette,Precinct 52,36
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 52,68
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 52,2
-John R. Raese,US Senate,,,Fayette,Precinct 52,183
-Joe Manchin III,US Senate,,,Fayette,Precinct 52,245
-Jeff Becker,US Senate,,,Fayette,Precinct 52,6
-Jesse Johnson ,US Senate,,,Fayette,Precinct 52,14
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 52,197
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 52,212
+John R. Raese,U.S. Senate,,,Fayette,Precinct 52,183
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 52,245
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 52,6
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 52,14
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 52,197
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 52,212
 John Harnes,State Senate,10,,Fayette,Precinct 52,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 52,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 52,155
@@ -582,12 +582,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 52,276
 ,Straight Party Ticket ,,REP,Fayette,Precinct 55,61
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 55,108
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 55,4
-John R. Raese,US Senate,,,Fayette,Precinct 55,219
-Joe Manchin III,US Senate,,,Fayette,Precinct 55,297
-Jeff Becker,US Senate,,,Fayette,Precinct 55,6
-Jesse Johnson ,US Senate,,,Fayette,Precinct 55,17
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 55,226
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 55,298
+John R. Raese,U.S. Senate,,,Fayette,Precinct 55,219
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 55,297
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 55,6
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 55,17
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 55,226
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 55,298
 John Harnes,State Senate,10,,Fayette,Precinct 55,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 55,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 55,193
@@ -602,12 +602,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 55,321
 ,Straight Party Ticket ,,REP,Fayette,Precinct 56,34
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 56,94
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 56,0
-John R. Raese,US Senate,,,Fayette,Precinct 56,158
-Joe Manchin III,US Senate,,,Fayette,Precinct 56,274
-Jeff Becker,US Senate,,,Fayette,Precinct 56,6
-Jesse Johnson ,US Senate,,,Fayette,Precinct 56,12
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 56,160
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 56,278
+John R. Raese,U.S. Senate,,,Fayette,Precinct 56,158
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 56,274
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 56,6
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 56,12
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 56,160
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 56,278
 John Harnes,State Senate,10,,Fayette,Precinct 56,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 56,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 56,124
@@ -622,12 +622,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 56,290
 ,Straight Party Ticket ,,REP,Fayette,Precinct 58,66
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 58,74
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 58,3
-John R. Raese,US Senate,,,Fayette,Precinct 58,201
-Joe Manchin III,US Senate,,,Fayette,Precinct 58,203
-Jeff Becker,US Senate,,,Fayette,Precinct 58,4
-Jesse Johnson ,US Senate,,,Fayette,Precinct 58,16
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 58,228
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 58,185
+John R. Raese,U.S. Senate,,,Fayette,Precinct 58,201
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 58,203
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 58,4
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 58,16
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 58,228
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 58,185
 John Harnes,State Senate,10,,Fayette,Precinct 58,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 58,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 58,191
@@ -642,12 +642,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 58,223
 ,Straight Party Ticket ,,REP,Fayette,Precinct 59,44
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 59,42
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 59,0
-John R. Raese,US Senate,,,Fayette,Precinct 59,126
-Joe Manchin III,US Senate,,,Fayette,Precinct 59,140
-Jeff Becker,US Senate,,,Fayette,Precinct 59,5
-Jesse Johnson ,US Senate,,,Fayette,Precinct 59,7
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 59,126
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 59,138
+John R. Raese,U.S. Senate,,,Fayette,Precinct 59,126
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 59,140
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 59,5
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 59,7
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 59,126
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 59,138
 John Harnes,State Senate,10,,Fayette,Precinct 59,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 59,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 59,111
@@ -662,12 +662,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 59,160
 ,Straight Party Ticket ,,REP,Fayette,Precinct 60,54
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 60,87
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 60,0
-John R. Raese,US Senate,,,Fayette,Precinct 60,165
-Joe Manchin III,US Senate,,,Fayette,Precinct 60,214
-Jeff Becker,US Senate,,,Fayette,Precinct 60,6
-Jesse Johnson ,US Senate,,,Fayette,Precinct 60,15
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 60,175
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 60,210
+John R. Raese,U.S. Senate,,,Fayette,Precinct 60,165
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 60,214
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 60,6
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 60,15
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 60,175
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 60,210
 John Harnes,State Senate,10,,Fayette,Precinct 60,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 60,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 60,143
@@ -682,12 +682,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 60,224
 ,Straight Party Ticket ,,REP,Fayette,Precinct 65,19
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 65,31
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 65,1
-John R. Raese,US Senate,,,Fayette,Precinct 65,54
-Joe Manchin III,US Senate,,,Fayette,Precinct 65,97
-Jeff Becker,US Senate,,,Fayette,Precinct 65,0
-Jesse Johnson ,US Senate,,,Fayette,Precinct 65,5
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 65,54
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 65,102
+John R. Raese,U.S. Senate,,,Fayette,Precinct 65,54
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 65,97
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 65,0
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 65,5
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 65,54
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 65,102
 John Harnes,State Senate,10,,Fayette,Precinct 65,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 65,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 65,51
@@ -702,12 +702,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 65,90
 ,Straight Party Ticket ,,REP,Fayette,Precinct 67,25
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 67,61
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 67,1
-John R. Raese,US Senate,,,Fayette,Precinct 67,94
-Joe Manchin III,US Senate,,,Fayette,Precinct 67,143
-Jeff Becker,US Senate,,,Fayette,Precinct 67,2
-Jesse Johnson ,US Senate,,,Fayette,Precinct 67,3
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 67,105
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 67,130
+John R. Raese,U.S. Senate,,,Fayette,Precinct 67,94
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 67,143
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 67,2
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 67,3
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 67,105
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 67,130
 John Harnes,State Senate,10,,Fayette,Precinct 67,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 67,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 67,87
@@ -722,12 +722,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 67,140
 ,Straight Party Ticket ,,REP,Fayette,Precinct 68,69
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 68,78
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 68,1
-John R. Raese,US Senate,,,Fayette,Precinct 68,149
-Joe Manchin III,US Senate,,,Fayette,Precinct 68,192
-Jeff Becker,US Senate,,,Fayette,Precinct 68,8
-Jesse Johnson ,US Senate,,,Fayette,Precinct 68,9
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 68,157
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 68,187
+John R. Raese,U.S. Senate,,,Fayette,Precinct 68,149
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 68,192
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 68,8
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 68,9
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 68,157
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 68,187
 John Harnes,State Senate,10,,Fayette,Precinct 68,161
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 68,170
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 68,
@@ -742,12 +742,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 68,180
 ,Straight Party Ticket ,,REP,Fayette,Precinct 72,51
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 72,91
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 72,2
-John R. Raese,US Senate,,,Fayette,Precinct 72,156
-Joe Manchin III,US Senate,,,Fayette,Precinct 72,216
-Jeff Becker,US Senate,,,Fayette,Precinct 72,4
-Jesse Johnson ,US Senate,,,Fayette,Precinct 72,10
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 72,179
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 72,202
+John R. Raese,U.S. Senate,,,Fayette,Precinct 72,156
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 72,216
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 72,4
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 72,10
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 72,179
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 72,202
 John Harnes,State Senate,10,,Fayette,Precinct 72,168
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 72,196
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 72,
@@ -762,12 +762,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 72,199
 ,Straight Party Ticket ,,REP,Fayette,Precinct 74,32
 ,Straight Party Ticket ,,DEM,Fayette,Precinct 74,48
 ,Straight Party Ticket ,,MTN,Fayette,Precinct 74,0
-John R. Raese,US Senate,,,Fayette,Precinct 74,117
-Joe Manchin III,US Senate,,,Fayette,Precinct 74,133
-Jeff Becker,US Senate,,,Fayette,Precinct 74,6
-Jesse Johnson ,US Senate,,,Fayette,Precinct 74,11
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,Precinct 74,138
-Nick Joe Rahall II,US House,3,,Fayette,Precinct 74,120
+John R. Raese,U.S. Senate,,,Fayette,Precinct 74,117
+Joe Manchin III,U.S. Senate,,,Fayette,Precinct 74,133
+Jeff Becker,U.S. Senate,,,Fayette,Precinct 74,6
+Jesse Johnson ,U.S. Senate,,,Fayette,Precinct 74,11
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,Precinct 74,138
+Nick Joe Rahall II,U.S. House,3,,Fayette,Precinct 74,120
 John Harnes,State Senate,10,,Fayette,Precinct 74,
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,Precinct 74,
 Adam Harris Milligan ,State Senate,11,,Fayette,Precinct 74,128
@@ -782,12 +782,12 @@ Margaret Anne Staggers ,House of Delegates,29,,Fayette,Precinct 74,154
 ,Straight Party Ticket ,,REP,Fayette,TOTALS ,1256
 ,Straight Party Ticket ,,DEM,Fayette,TOTALS ,2761
 ,Straight Party Ticket ,,MTN,Fayette,TOTALS ,29
-John R. Raese,US Senate,,,Fayette,TOTALS ,4065
-Joe Manchin III,US Senate,,,Fayette,TOTALS ,6723
-Jeff Becker,US Senate,,,Fayette,TOTALS ,118
-Jesse Johnson ,US Senate,,,Fayette,TOTALS ,293
-"Elliott E ""Spike"" Maynard ",US House,3,,Fayette,TOTALS ,4374
-Nick Joe Rahall II,US House,3,,Fayette,TOTALS ,6570
+John R. Raese,U.S. Senate,,,Fayette,TOTALS ,4065
+Joe Manchin III,U.S. Senate,,,Fayette,TOTALS ,6723
+Jeff Becker,U.S. Senate,,,Fayette,TOTALS ,118
+Jesse Johnson ,U.S. Senate,,,Fayette,TOTALS ,293
+"Elliott E ""Spike"" Maynard ",U.S. House,3,,Fayette,TOTALS ,4374
+Nick Joe Rahall II,U.S. House,3,,Fayette,TOTALS ,6570
 John Harnes,State Senate,10,,Fayette,TOTALS ,329
 Ronald F. (Ron) Miller,State Senate,10,,Fayette,TOTALS ,166
 Adam Harris Milligan ,State Senate,11,,Fayette,TOTALS ,3455

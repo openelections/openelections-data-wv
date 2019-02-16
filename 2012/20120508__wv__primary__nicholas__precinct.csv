@@ -1,9 +1,9 @@
 candidate,office,district,party,county,precinct,total votes
 Keith Judd,President ,,DEM,Nicholas,Precinct 1A,64
 Barack Obama,President ,,DEM,Nicholas,Precinct 1A,80
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 1A,29
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 1A,118
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 1A,130
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 1A,29
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 1A,118
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 1A,130
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 1A,133
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 1A,18
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 1A,137
@@ -24,10 +24,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 1A,4
 Mitt Romney,President ,,REP,Nicholas,Precinct 1A,25
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 1A,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 1A,9
-John R. Raese,US Senate,,REP,Nicholas,Precinct 1A,32
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 1A,14
-Bill Lester,US House,3,REP,Nicholas,Precinct 1A,13
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 1A,9
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 1A,32
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 1A,14
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 1A,13
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 1A,9
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 1A,6
 Bill Maloney,Governor,,REP,Nicholas,Precinct 1A,32
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 1A,27
@@ -51,9 +51,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 1A,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 1A,
 Keith Judd,President ,,DEM,Nicholas,Precinct 1B,45
 Barack Obama,President ,,DEM,Nicholas,Precinct 1B,47
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 1B,22
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 1B,82
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 1B,87
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 1B,22
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 1B,82
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 1B,87
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 1B,81
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 1B,17
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 1B,91
@@ -74,10 +74,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 1B,3
 Mitt Romney,President ,,REP,Nicholas,Precinct 1B,30
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 1B,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 1B,8
-John R. Raese,US Senate,,REP,Nicholas,Precinct 1B,39
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 1B,17
-Bill Lester,US House,3,REP,Nicholas,Precinct 1B,19
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 1B,4
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 1B,39
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 1B,17
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 1B,19
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 1B,4
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 1B,11
 Bill Maloney,Governor,,REP,Nicholas,Precinct 1B,34
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 1B,35
@@ -101,9 +101,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 1B,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 1B,
 Keith Judd,President ,,DEM,Nicholas,Precinct 2,93
 Barack Obama,President ,,DEM,Nicholas,Precinct 2,72
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 2,34
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 2,150
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 2,155
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 2,34
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 2,150
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 2,155
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 2,150
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 2,31
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 2,152
@@ -124,10 +124,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 2,3
 Mitt Romney,President ,,REP,Nicholas,Precinct 2,29
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 2,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 2,6
-John R. Raese,US Senate,,REP,Nicholas,Precinct 2,37
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 2,18
-Bill Lester,US House,3,REP,Nicholas,Precinct 2,15
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 2,3
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 2,37
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 2,18
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 2,15
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 2,3
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 2,8
 Bill Maloney,Governor,,REP,Nicholas,Precinct 2,33
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 2,33
@@ -151,9 +151,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 2,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 2,
 Keith Judd,President ,,DEM,Nicholas,Precinct 3,22
 Barack Obama,President ,,DEM,Nicholas,Precinct 3,35
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 3,5
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 3,71
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 3,60
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 3,5
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 3,71
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 3,60
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 3,63
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 3,10
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 3,64
@@ -174,10 +174,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 3,2
 Mitt Romney,President ,,REP,Nicholas,Precinct 3,25
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 3,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 3,9
-John R. Raese,US Senate,,REP,Nicholas,Precinct 3,38
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 3,23
-Bill Lester,US House,3,REP,Nicholas,Precinct 3,10
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 3,2
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 3,38
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 3,23
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 3,10
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 3,2
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 3,4
 Bill Maloney,Governor,,REP,Nicholas,Precinct 3,36
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 3,35
@@ -201,9 +201,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 3,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 3,
 Keith Judd,President ,,DEM,Nicholas,Precinct 5,56
 Barack Obama,President ,,DEM,Nicholas,Precinct 5,92
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 5,27
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 5,129
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 5,146
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 5,27
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 5,129
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 5,146
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 5,144
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 5,14
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 5,142
@@ -224,10 +224,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 5,2
 Mitt Romney,President ,,REP,Nicholas,Precinct 5,26
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 5,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 5,6
-John R. Raese,US Senate,,REP,Nicholas,Precinct 5,36
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 5,20
-Bill Lester,US House,3,REP,Nicholas,Precinct 5,15
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 5,3
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 5,36
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 5,20
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 5,15
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 5,3
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 5,8
 Bill Maloney,Governor,,REP,Nicholas,Precinct 5,30
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 5,34
@@ -251,9 +251,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 5,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 5,
 Keith Judd,President ,,DEM,Nicholas,Precinct 7,52
 Barack Obama,President ,,DEM,Nicholas,Precinct 7,74
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 7,31
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 7,108
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 7,124
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 7,31
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 7,108
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 7,124
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 7,114
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 7,26
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 7,130
@@ -274,10 +274,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 7,2
 Mitt Romney,President ,,REP,Nicholas,Precinct 7,21
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 7,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 7,3
-John R. Raese,US Senate,,REP,Nicholas,Precinct 7,23
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 7,14
-Bill Lester,US House,3,REP,Nicholas,Precinct 7,6
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 7,4
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 7,23
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 7,14
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 7,6
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 7,4
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 7,5
 Bill Maloney,Governor,,REP,Nicholas,Precinct 7,22
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 7,20
@@ -301,9 +301,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 7,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 7,
 Keith Judd,President ,,DEM,Nicholas,Precinct 8,25
 Barack Obama,President ,,DEM,Nicholas,Precinct 8,63
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 8,25
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 8,67
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 8,84
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 8,25
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 8,67
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 8,84
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 8,77
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 8,16
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 8,84
@@ -324,10 +324,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 8,5
 Mitt Romney,President ,,REP,Nicholas,Precinct 8,12
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 8,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 8,5
-John R. Raese,US Senate,,REP,Nicholas,Precinct 8,23
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 8,12
-Bill Lester,US House,3,REP,Nicholas,Precinct 8,9
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 8,0
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 8,23
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 8,12
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 8,9
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 8,0
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 8,5
 Bill Maloney,Governor,,REP,Nicholas,Precinct 8,18
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 8,19
@@ -351,9 +351,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 8,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 8,
 Keith Judd,President ,,DEM,Nicholas,Precinct 9,24
 Barack Obama,President ,,DEM,Nicholas,Precinct 9,46
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 9,11
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 9,61
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 9,69
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 9,11
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 9,61
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 9,69
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 9,66
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 9,8
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 9,68
@@ -374,10 +374,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 9,0
 Mitt Romney,President ,,REP,Nicholas,Precinct 9,11
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 9,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 9,2
-John R. Raese,US Senate,,REP,Nicholas,Precinct 9,13
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 9,6
-Bill Lester,US House,3,REP,Nicholas,Precinct 9,4
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 9,1
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 9,13
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 9,6
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 9,4
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 9,1
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 9,3
 Bill Maloney,Governor,,REP,Nicholas,Precinct 9,13
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 9,11
@@ -401,9 +401,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 9,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 9,
 Keith Judd,President ,,DEM,Nicholas,Precinct 13,50
 Barack Obama,President ,,DEM,Nicholas,Precinct 13,30
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 13,22
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 13,67
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 13,75
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 13,22
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 13,67
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 13,75
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 13,62
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 13,24
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 13,79
@@ -424,10 +424,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 13,3
 Mitt Romney,President ,,REP,Nicholas,Precinct 13,9
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 13,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 13,3
-John R. Raese,US Senate,,REP,Nicholas,Precinct 13,15
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 13,8
-Bill Lester,US House,3,REP,Nicholas,Precinct 13,6
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 13,1
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 13,15
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 13,8
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 13,6
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 13,1
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 13,3
 Bill Maloney,Governor,,REP,Nicholas,Precinct 13,13
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 13,14
@@ -451,9 +451,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 13,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 13,
 Keith Judd,President ,,DEM,Nicholas,Precinct 14,91
 Barack Obama,President ,,DEM,Nicholas,Precinct 14,104
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 14,48
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 14,161
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 14,172
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 14,48
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 14,161
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 14,172
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 14,167
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 14,36
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 14,178
@@ -474,10 +474,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 14,2
 Mitt Romney,President ,,REP,Nicholas,Precinct 14,24
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 14,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 14,5
-John R. Raese,US Senate,,REP,Nicholas,Precinct 14,25
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 14,16
-Bill Lester,US House,3,REP,Nicholas,Precinct 14,11
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 14,2
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 14,25
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 14,16
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 14,11
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 14,2
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 14,6
 Bill Maloney,Governor,,REP,Nicholas,Precinct 14,26
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 14,22
@@ -501,9 +501,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 14,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 14,
 Keith Judd,President ,,DEM,Nicholas,Precinct 15,88
 Barack Obama,President ,,DEM,Nicholas,Precinct 15,74
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 15,19
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 15,166
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 15,144
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 15,19
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 15,166
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 15,144
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 15,147
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 15,27
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 15,159
@@ -524,10 +524,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 15,10
 Mitt Romney,President ,,REP,Nicholas,Precinct 15,44
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 15,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 15,7
-John R. Raese,US Senate,,REP,Nicholas,Precinct 15,59
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 15,32
-Bill Lester,US House,3,REP,Nicholas,Precinct 15,26
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 15,2
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 15,59
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 15,32
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 15,26
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 15,2
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 15,7
 Bill Maloney,Governor,,REP,Nicholas,Precinct 15,62
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 15,53
@@ -551,9 +551,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 15,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 15,
 Keith Judd,President ,,DEM,Nicholas,Precinct 16,96
 Barack Obama,President ,,DEM,Nicholas,Precinct 16,84
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 16,42
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 16,166
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 16,181
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 16,42
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 16,166
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 16,181
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 16,164
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 16,41
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 16,178
@@ -574,10 +574,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 16,6
 Mitt Romney,President ,,REP,Nicholas,Precinct 16,58
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 16,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 16,4
-John R. Raese,US Senate,,REP,Nicholas,Precinct 16,66
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 16,38
-Bill Lester,US House,3,REP,Nicholas,Precinct 16,21
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 16,11
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 16,66
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 16,38
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 16,21
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 16,11
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 16,8
 Bill Maloney,Governor,,REP,Nicholas,Precinct 16,63
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 16,60
@@ -601,9 +601,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 16,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 16,
 Keith Judd,President ,,DEM,Nicholas,Precinct 17,27
 Barack Obama,President ,,DEM,Nicholas,Precinct 17,12
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 17,7
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 17,38
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 17,35
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 17,7
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 17,38
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 17,35
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 17,38
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 17,5
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 17,36
@@ -624,10 +624,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 17,1
 Mitt Romney,President ,,REP,Nicholas,Precinct 17,9
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 17,2
 Rick Santorum,President ,,REP,Nicholas,Precinct 17,6
-John R. Raese,US Senate,,REP,Nicholas,Precinct 17,18
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 17,6
-Bill Lester,US House,3,REP,Nicholas,Precinct 17,10
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 17,1
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 17,18
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 17,6
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 17,10
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 17,1
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 17,2
 Bill Maloney,Governor,,REP,Nicholas,Precinct 17,15
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 17,17
@@ -651,9 +651,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 17,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 17,
 Keith Judd,President ,,DEM,Nicholas,Precinct 18,89
 Barack Obama,President ,,DEM,Nicholas,Precinct 18,131
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 18,55
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 18,193
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 18,196
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 18,55
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 18,193
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 18,196
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 18,202
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 18,45
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 18,220
@@ -674,10 +674,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 18,11
 Mitt Romney,President ,,REP,Nicholas,Precinct 18,63
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 18,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 18,10
-John R. Raese,US Senate,,REP,Nicholas,Precinct 18,75
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 18,48
-Bill Lester,US House,3,REP,Nicholas,Precinct 18,28
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 18,3
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 18,75
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 18,48
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 18,28
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 18,3
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 18,7
 Bill Maloney,Governor,,REP,Nicholas,Precinct 18,78
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 18,71
@@ -701,9 +701,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 18,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 18,
 Keith Judd,President ,,DEM,Nicholas,Precinct 19,57
 Barack Obama,President ,,DEM,Nicholas,Precinct 19,70
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 19,30
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 19,121
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 19,113
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 19,30
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 19,121
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 19,113
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 19,112
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 19,33
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 19,121
@@ -724,10 +724,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 19,3
 Mitt Romney,President ,,REP,Nicholas,Precinct 19,47
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 19,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 19,5
-John R. Raese,US Senate,,REP,Nicholas,Precinct 19,51
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 19,32
-Bill Lester,US House,3,REP,Nicholas,Precinct 19,18
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 19,2
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 19,51
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 19,32
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 19,18
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 19,2
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 19,2
 Bill Maloney,Governor,,REP,Nicholas,Precinct 19,50
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 19,46
@@ -751,9 +751,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 19,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 19,
 Keith Judd,President ,,DEM,Nicholas,Precinct 20,86
 Barack Obama,President ,,DEM,Nicholas,Precinct 20,94
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 20,48
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 20,173
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 20,156
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 20,48
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 20,173
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 20,156
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 20,169
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 20,48
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 20,175
@@ -774,10 +774,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 20,12
 Mitt Romney,President ,,REP,Nicholas,Precinct 20,53
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 20,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 20,11
-John R. Raese,US Senate,,REP,Nicholas,Precinct 20,68
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 20,37
-Bill Lester,US House,3,REP,Nicholas,Precinct 20,22
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 20,4
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 20,68
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 20,37
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 20,22
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 20,4
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 20,6
 Bill Maloney,Governor,,REP,Nicholas,Precinct 20,69
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 20,58
@@ -801,9 +801,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 20,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 20,
 Keith Judd,President ,,DEM,Nicholas,Precinct 21A,74
 Barack Obama,President ,,DEM,Nicholas,Precinct 21A,63
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 21A,40
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 21A,125
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 21A,129
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 21A,40
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 21A,125
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 21A,129
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 21A,123
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 21A,40
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 21A,146
@@ -824,10 +824,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 21A,8
 Mitt Romney,President ,,REP,Nicholas,Precinct 21A,37
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 21A,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 21A,6
-John R. Raese,US Senate,,REP,Nicholas,Precinct 21A,45
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 21A,27
-Bill Lester,US House,3,REP,Nicholas,Precinct 21A,13
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 21A,6
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 21A,45
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 21A,27
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 21A,13
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 21A,6
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 21A,3
 Bill Maloney,Governor,,REP,Nicholas,Precinct 21A,47
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 21A,39
@@ -851,9 +851,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 21A,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 21A,
 Keith Judd,President ,,DEM,Nicholas,Precinct 21B,53
 Barack Obama,President ,,DEM,Nicholas,Precinct 21B,54
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 21B,31
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 21B,94
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 21B,95
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 21B,31
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 21B,94
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 21B,95
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 21B,91
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 21B,29
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 21B,103
@@ -874,10 +874,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 21B,4
 Mitt Romney,President ,,REP,Nicholas,Precinct 21B,33
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 21B,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 21B,2
-John R. Raese,US Senate,,REP,Nicholas,Precinct 21B,36
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 21B,20
-Bill Lester,US House,3,REP,Nicholas,Precinct 21B,13
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 21B,3
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 21B,36
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 21B,20
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 21B,13
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 21B,3
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 21B,1
 Bill Maloney,Governor,,REP,Nicholas,Precinct 21B,40
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 21B,32
@@ -901,9 +901,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 21B,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 21B,
 Keith Judd,President ,,DEM,Nicholas,Precinct 23,3
 Barack Obama,President ,,DEM,Nicholas,Precinct 23,17
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 23,5
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 23,18
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 23,21
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 23,5
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 23,18
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 23,21
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 23,21
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 23,2
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 23,22
@@ -924,10 +924,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 23,1
 Mitt Romney,President ,,REP,Nicholas,Precinct 23,5
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 23,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 23,0
-John R. Raese,US Senate,,REP,Nicholas,Precinct 23,6
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 23,1
-Bill Lester,US House,3,REP,Nicholas,Precinct 23,3
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 23,1
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 23,6
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 23,1
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 23,3
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 23,1
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 23,1
 Bill Maloney,Governor,,REP,Nicholas,Precinct 23,4
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 23,4
@@ -951,9 +951,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 23,10
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 23,1
 Keith Judd,President ,,DEM,Nicholas,Precinct 25,27
 Barack Obama,President ,,DEM,Nicholas,Precinct 25,37
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 25,19
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 25,48
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 25,62
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 25,19
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 25,48
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 25,62
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 25,47
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 25,19
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 25,63
@@ -974,10 +974,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 25,3
 Mitt Romney,President ,,REP,Nicholas,Precinct 25,15
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 25,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 25,6
-John R. Raese,US Senate,,REP,Nicholas,Precinct 25,23
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 25,6
-Bill Lester,US House,3,REP,Nicholas,Precinct 25,13
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 25,2
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 25,23
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 25,6
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 25,13
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 25,2
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 25,1
 Bill Maloney,Governor,,REP,Nicholas,Precinct 25,22
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 25,19
@@ -1001,9 +1001,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 25,35
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 25,10
 Keith Judd,President ,,DEM,Nicholas,Precinct 27,26
 Barack Obama,President ,,DEM,Nicholas,Precinct 27,24
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 27,6
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 27,52
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 27,48
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 27,6
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 27,52
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 27,48
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 27,52
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 27,7
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 27,55
@@ -1024,10 +1024,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 27,3
 Mitt Romney,President ,,REP,Nicholas,Precinct 27,17
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 27,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 27,1
-John R. Raese,US Senate,,REP,Nicholas,Precinct 27,18
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 27,17
-Bill Lester,US House,3,REP,Nicholas,Precinct 27,4
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 27,1
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 27,18
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 27,17
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 27,4
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 27,1
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 27,3
 Bill Maloney,Governor,,REP,Nicholas,Precinct 27,19
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 27,18
@@ -1051,9 +1051,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 27,18
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 27,9
 Keith Judd,President ,,DEM,Nicholas,Precinct 28,76
 Barack Obama,President ,,DEM,Nicholas,Precinct 28,73
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 28,26
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 28,142
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 28,38
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 28,26
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 28,142
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 28,38
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 28,135
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 28,32
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 28,138
@@ -1074,10 +1074,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 28,4
 Mitt Romney,President ,,REP,Nicholas,Precinct 28,45
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 28,2
 Rick Santorum,President ,,REP,Nicholas,Precinct 28,4
-John R. Raese,US Senate,,REP,Nicholas,Precinct 28,48
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 28,29
-Bill Lester,US House,3,REP,Nicholas,Precinct 28,22
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 28,0
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 28,48
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 28,29
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 28,22
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 28,0
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 28,7
 Bill Maloney,Governor,,REP,Nicholas,Precinct 28,47
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 28,43
@@ -1101,9 +1101,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 28,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 28,
 Keith Judd,President ,,DEM,Nicholas,Precinct 29,121
 Barack Obama,President ,,DEM,Nicholas,Precinct 29,141
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 29,62
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 29,228
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 29,230
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 29,62
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 29,228
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 29,230
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 29,232
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 29,50
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 29,243
@@ -1124,10 +1124,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 29,7
 Mitt Romney,President ,,REP,Nicholas,Precinct 29,58
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 29,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 29,9
-John R. Raese,US Senate,,REP,Nicholas,Precinct 29,74
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 29,42
-Bill Lester,US House,3,REP,Nicholas,Precinct 29,22
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 29,3
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 29,74
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 29,42
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 29,22
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 29,3
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 29,5
 Bill Maloney,Governor,,REP,Nicholas,Precinct 29,72
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 29,54
@@ -1151,9 +1151,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 29,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 29,
 Keith Judd,President ,,DEM,Nicholas,Precinct 30,54
 Barack Obama,President ,,DEM,Nicholas,Precinct 30,67
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 30,26
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 30,112
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 30,120
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 30,26
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 30,112
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 30,120
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 30,115
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 30,20
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 30,124
@@ -1174,10 +1174,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 30,4
 Mitt Romney,President ,,REP,Nicholas,Precinct 30,24
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 30,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 30,5
-John R. Raese,US Senate,,REP,Nicholas,Precinct 30,33
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 30,16
-Bill Lester,US House,3,REP,Nicholas,Precinct 30,15
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 30,2
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 30,33
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 30,16
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 30,15
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 30,2
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 30,5
 Bill Maloney,Governor,,REP,Nicholas,Precinct 30,27
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 30,24
@@ -1201,9 +1201,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 30,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 30,
 Keith Judd,President ,,DEM,Nicholas,Precinct 31,27
 Barack Obama,President ,,DEM,Nicholas,Precinct 31,23
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 31,10
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 31,44
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 31,50
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 31,10
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 31,44
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 31,50
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 31,43
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 31,11
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 31,49
@@ -1224,10 +1224,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 31,1
 Mitt Romney,President ,,REP,Nicholas,Precinct 31,17
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 31,0
 Rick Santorum,President ,,REP,Nicholas,Precinct 31,1
-John R. Raese,US Senate,,REP,Nicholas,Precinct 31,14
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 31,11
-Bill Lester,US House,3,REP,Nicholas,Precinct 31,4
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 31,1
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 31,14
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 31,11
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 31,4
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 31,1
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 31,1
 Bill Maloney,Governor,,REP,Nicholas,Precinct 31,17
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 31,14
@@ -1251,9 +1251,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 31,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 31,
 Keith Judd,President ,,DEM,Nicholas,Precinct 32,59
 Barack Obama,President ,,DEM,Nicholas,Precinct 32,42
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 32,15
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 32,96
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 32,88
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 32,15
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 32,96
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 32,88
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 32,94
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 32,13
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 32,95
@@ -1274,10 +1274,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 32,1
 Mitt Romney,President ,,REP,Nicholas,Precinct 32,32
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 32,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 32,7
-John R. Raese,US Senate,,REP,Nicholas,Precinct 32,41
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 32,26
-Bill Lester,US House,3,REP,Nicholas,Precinct 32,10
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 32,0
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 32,41
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 32,26
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 32,10
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 32,0
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 32,4
 Bill Maloney,Governor,,REP,Nicholas,Precinct 32,38
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 32,33
@@ -1301,9 +1301,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 32,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 32,
 Keith Judd,President ,,DEM,Nicholas,Precinct 33,83
 Barack Obama,President ,,DEM,Nicholas,Precinct 33,71
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 33,39
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 33,146
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 33,149
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 33,39
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 33,146
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 33,149
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 33,152
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 33,28
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 33,150
@@ -1324,10 +1324,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 33,9
 Mitt Romney,President ,,REP,Nicholas,Precinct 33,57
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 33,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 33,7
-John R. Raese,US Senate,,REP,Nicholas,Precinct 33,65
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 33,33
-Bill Lester,US House,3,REP,Nicholas,Precinct 33,33
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 33,4
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 33,65
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 33,33
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 33,33
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 33,4
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 33,12
 Bill Maloney,Governor,,REP,Nicholas,Precinct 33,65
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 33,60
@@ -1351,9 +1351,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 33,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 33,
 Keith Judd,President ,,DEM,Nicholas,Precinct 35,92
 Barack Obama,President ,,DEM,Nicholas,Precinct 35,100
-Sheirl Fletcher,US Senate,,DEM,Nicholas,Precinct 35,29
-Joe Manchin III,US Senate,,DEM,Nicholas,Precinct 35,197
-Nick J. Rahall II,US House,,DEM,Nicholas,Precinct 35,175
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,Precinct 35,29
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,Precinct 35,197
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,Precinct 35,175
 Earl Ray Tomblin,Governor,,DEM,Nicholas,Precinct 35,176
 Arne Moltis,Governor,,DEM,Nicholas,Precinct 35,43
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,Precinct 35,188
@@ -1374,10 +1374,10 @@ Ron Paul,President ,,REP,Nicholas,Precinct 35,9
 Mitt Romney,President ,,REP,Nicholas,Precinct 35,49
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,Precinct 35,1
 Rick Santorum,President ,,REP,Nicholas,Precinct 35,7
-John R. Raese,US Senate,,REP,Nicholas,Precinct 35,63
-Rick Snuffer,US House,3,REP,Nicholas,Precinct 35,34
-Bill Lester,US House,3,REP,Nicholas,Precinct 35,23
-Lee A. Bias,US House,3,REP,Nicholas,Precinct 35,9
+John R. Raese,U.S. Senate,,REP,Nicholas,Precinct 35,63
+Rick Snuffer,U.S. House,3,REP,Nicholas,Precinct 35,34
+Bill Lester,U.S. House,3,REP,Nicholas,Precinct 35,23
+Lee A. Bias,U.S. House,3,REP,Nicholas,Precinct 35,9
 Ralph William Clark,Governor,,REP,Nicholas,Precinct 35,13
 Bill Maloney,Governor,,REP,Nicholas,Precinct 35,59
 Brian Savilla,Secretary of State ,,REP,Nicholas,Precinct 35,58
@@ -1401,9 +1401,9 @@ Dave Perry,House of Delegates,32,REP,Nicholas,Precinct 35,
 Jan M. Lafferty ,House of Delegates,32,REP,Nicholas,Precinct 35,
 Keith Judd,President ,,DEM,Nicholas,TOTALS,1660
 Barack Obama,President ,,DEM,Nicholas,TOTALS,1820
-Sheirl Fletcher,US Senate,,DEM,Nicholas,TOTALS,763
-Joe Manchin III,US Senate,,DEM,Nicholas,TOTALS,3173
-Nick J. Rahall II,US House,,DEM,Nicholas,TOTALS,3232
+Sheirl Fletcher,U.S. Senate,,DEM,Nicholas,TOTALS,763
+Joe Manchin III,U.S. Senate,,DEM,Nicholas,TOTALS,3173
+Nick J. Rahall II,U.S. House,,DEM,Nicholas,TOTALS,3232
 Earl Ray Tomblin,Governor,,DEM,Nicholas,TOTALS,3170
 Arne Moltis,Governor,,DEM,Nicholas,TOTALS,693
 Natalie E. Tennant,Secretary of State ,,DEM,Nicholas,TOTALS,3390
@@ -1424,10 +1424,10 @@ Ron Paul,President ,,REP,Nicholas,TOTALS,123
 Mitt Romney,President ,,REP,Nicholas,TOTALS,875
 "Charles ""Buddy"" Roemer",President ,,REP,Nicholas,TOTALS,13
 Rick Santorum,President ,,REP,Nicholas,TOTALS,154
-John R. Raese,US Senate,,REP,Nicholas,TOTALS,1084
-Rick Snuffer,US House,3,REP,Nicholas,TOTALS,603
-Bill Lester,US House,3,REP,Nicholas,TOTALS,408
-Lee A. Bias,US House,3,REP,Nicholas,TOTALS,84
+John R. Raese,U.S. Senate,,REP,Nicholas,TOTALS,1084
+Rick Snuffer,U.S. House,3,REP,Nicholas,TOTALS,603
+Bill Lester,U.S. House,3,REP,Nicholas,TOTALS,408
+Lee A. Bias,U.S. House,3,REP,Nicholas,TOTALS,84
 Ralph William Clark,Governor,,REP,Nicholas,TOTALS,147
 Bill Maloney,Governor,,REP,Nicholas,TOTALS,1051
 Brian Savilla,Secretary of State ,,REP,Nicholas,TOTALS,953
