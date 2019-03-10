@@ -1,0 +1,11 @@
+year,election,office,district,party,candidate,county,votes,winner
+1958,general,Circuit Judge,8,REP,W.H. (Colonel) Ballard II,Totals,5590,
+1958,general,Circuit Judge,8,REP,W.H. (Colonel) Ballard II,McDowell,5590,
+1958,general,Circuit Judge,8,DEM,Otis E. St. Clair,Totals,16664,TRUE
+1958,general,Circuit Judge,8,DEM,Otis E. St. Clair,McDowell,16664,
+1958,general,Circuit Judge,19,REP,Hugh R. McPhail,Totals,5890,
+1958,general,Circuit Judge,19,REP,Hugh R. McPhail,Barbour,2999,
+1958,general,Circuit Judge,19,REP,Hugh R. McPhail,Taylor,2891,
+1958,general,Circuit Judge,19,DEM,Francis L. Warder,Totals,7247,TRUE
+1958,general,Circuit Judge,19,DEM,Francis L. Warder,Barbour,3425,
+1958,general,Circuit Judge,19,DEM,Francis L. Warder,Taylor,3822,
