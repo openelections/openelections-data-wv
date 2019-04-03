@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,votes,vtd
 Barbour,PRECINCT 1,U.S. Senate,,PATRICK MORRISEY,,103
 Barbour,PRECINCT 2,U.S. Senate,,PATRICK MORRISEY,,306
 Barbour,PRECINCT 3,U.S. Senate,,PATRICK MORRISEY,,222
@@ -3296,7 +3296,7 @@ Doddridge,PRECINCT 18,House of Delegates,6th District,J. SCOTT BEAVER,,4
 Doddridge,PRECINCT 20,House of Delegates,6th District,J. SCOTT BEAVER,,4
 Doddridge,PRECINCT 22,House of Delegates,6th District,J. SCOTT BEAVER,,7
 Doddridge,PRECINCT 24,House of Delegates,6th District,J. SCOTT BEAVER,,11
-Fayette,Precinct 1,U.S. Senate,,Patrick Morrisey ,,360
+Fayette,Precinct 1,U.S. Senate,,Patrick Morrisey ,,160
 Fayette,Precinct 1,U.S. Senate,,Joseph Manchin III,,284
 Fayette,Precinct 1,U.S. Senate,,Rusty Hollen ,,20
 Fayette,Precinct 1,U.S. House,3,Carol Miller,,179
@@ -3604,7 +3604,7 @@ Fayette,Precinct 38,House of Delegates,32,Luke Lively ,,48
 Fayette,Precinct 38,House of Delegates,32,"Melvin ""Mel"" Kessler",,55
 Fayette,Precinct 38,House of Delegates,32,Margaret Anne Staggers,,76
 Fayette,Precinct 38,House of Delegates,32,"David ""Elliott"" Pritt",,26
-Fayette,Precinct 41,U.S. Senate,,Patrick Morrisey ,,120
+Fayette,Precinct 41,U.S. Senate,,Patrick Morrisey ,,110
 Fayette,Precinct 41,U.S. Senate,,Joseph Manchin III,,110
 Fayette,Precinct 41,U.S. Senate,,Rusty Hollen ,,10
 Fayette,Precinct 41,U.S. House,3,Carol Miller,,117
@@ -10435,7 +10435,7 @@ Lewis,Precinct 12,House of Delegates,46,Patrick S Martin,REP,79
 Lewis,Precinct 12,House of Delegates,46,"Robert L. ""Bob"" Stultz",DEM,50
 Lewis,Precinct 12,House of Delegates,46,Write-In,,0
 Lewis,Precinct 13,U.S. Senate,,Patrick Morrisey ,REP,378
-Lewis,Precinct 13,U.S. Senate,,Joseph Manchin III,DEM,246
+Lewis,Precinct 13,U.S. Senate,,Joseph Manchin III,DEM,243
 Lewis,Precinct 13,U.S. Senate,,Rusty Hollen ,LIB,36
 Lewis,Precinct 13,U.S. Senate,,Write-In,,0
 Lewis,Precinct 13,U.S. House,2,Alex X. Mooney ,REP,435
@@ -22306,8 +22306,8 @@ Ritchie,Precinct 4,State Senate,2,Write-In,,0
 Ritchie,Precinct 4,House of Delegates,7,Jason S. Harshbarger,Republican,209
 Ritchie,Precinct 4,House of Delegates,7,Lissa Lucas,Democrat,62
 Ritchie,Precinct 4,House of Delegates,7,Write-In,,0
-Ritchie,Precinct 5,U.S. Senate,,Patrick Morrisey,Republican,143
-Ritchie,Precinct 5,U.S. Senate,,Joseph Manchin III,Democrat,92
+Ritchie,Precinct 5,U.S. Senate,,Patrick Morrisey,Republican,142
+Ritchie,Precinct 5,U.S. Senate,,Joseph Manchin III,Democrat,93
 Ritchie,Precinct 5,U.S. Senate,,Rusty Hollen,Libertarian,8
 Ritchie,Precinct 5,U.S. Senate,,Write-In ,,0
 Ritchie,Precinct 5,U.S. House,1,David B McKinley,Republican,186
@@ -24530,7 +24530,7 @@ Wetzel,Precinct 4,State Senate,2,Denny Longwell,,111
 Wetzel,Precinct 4,House of Delegates,5,Phillip Wiley,,77
 Wetzel,Precinct 4,House of Delegates,5,Dave Pethtel ,,149
 Wetzel,Precinct 5,U.S. Senate,,Patrick Morrisey ,,42
-Wetzel,Precinct 5,U.S. Senate,,Joseph Manchin III,,12
+Wetzel,Precinct 5,U.S. Senate,,Joseph Manchin III,,32
 Wetzel,Precinct 5,U.S. Senate,,Rusty Hollen ,,4
 Wetzel,Precinct 5,U.S. House,1,David B McKinley,,55
 Wetzel,Precinct 5,U.S. House,1,Kendra Fershee,,19
