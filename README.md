@@ -9,7 +9,7 @@ These CSV files are converted from [original source files](https://github.com/op
 
 | year  | general  | primary  |
 |---|---|---|
-| 2018  | working |  working |
+| 2018  | [done](https://github.com/openelections/openelections-data-wv/blob/master/2018/20181106__wv__general__precinct.csv) |  working |
 | 2016  | working  |  working |
 | 2014 |  [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20141104__wv__general__precinct__raw.csv) | [published](https://github.com/openelections/openelections-results-wv/blob/master/raw/20140513__wv__primary__precinct__raw.csv)  |
 | 2012  |  [working](https://github.com/openelections/openelections-data-wv/issues/12) | [working](https://github.com/openelections/openelections-data-wv/issues/13) |
