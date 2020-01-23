@@ -1,0 +1,805 @@
+county,precinct,office,district,candidate,party,votes,election_day,early_voting
+Wayne,1,Registered Voters - Total,,,,1161,,
+Wayne,3,Registered Voters - Total,,,,654,,
+Wayne,5,Registered Voters - Total,,,,849,,
+Wayne,6,Registered Voters - Total,,,,708,,
+Wayne,11,Registered Voters - Total,,,,511,,
+Wayne,12,Registered Voters - Total,,,,541,,
+Wayne,13,Registered Voters - Total,,,,808,,
+Wayne,14,Registered Voters - Total,,,,1094,,
+Wayne,16,Registered Voters - Total,,,,399,,
+Wayne,17,Registered Voters - Total,,,,620,,
+Wayne,18,Registered Voters - Total,,,,616,,
+Wayne,19,Registered Voters - Total,,,,974,,
+Wayne,20,Registered Voters - Total,,,,729,,
+Wayne,21,Registered Voters - Total,,,,468,,
+Wayne,22,Registered Voters - Total,,,,549,,
+Wayne,30,Registered Voters - Total,,,,547,,
+Wayne,31,Registered Voters - Total,,,,634,,
+Wayne,34,Registered Voters - Total,,,,895,,
+Wayne,36,Registered Voters - Total,,,,798,,
+Wayne,37,Registered Voters - Total,,,,877,,
+Wayne,41,Registered Voters - Total,,,,597,,
+Wayne,42,Registered Voters - Total,,,,452,,
+Wayne,45,Registered Voters - Total,,,,618,,
+Wayne,48,Registered Voters - Total,,,,903,,
+Wayne,49,Registered Voters - Total,,,,1011,,
+Wayne,50,Registered Voters - Total,,,,795,,
+Wayne,51,Registered Voters - Total,,,,1107,,
+Wayne,52,Registered Voters - Total,,,,481,,
+Wayne,53,Registered Voters - Total,,,,762,,
+Wayne,54,Registered Voters - Total,,,,691,,
+Wayne,56,Registered Voters - Total,,,,1079,,
+Wayne,57,Registered Voters - Total,,,,585,,
+Wayne,59,Registered Voters - Total,,,,731,,
+Wayne,60,Registered Voters - Total,,,,694,,
+Wayne,61,Registered Voters - Total,,,,560,,
+Wayne,62,Registered Voters - Total,,,,1017,,
+Wayne,63,Registered Voters - Total,,,,492,,
+Wayne,1,Registered Voters,,,REP,278,,
+Wayne,3,Registered Voters,,,REP,144,,
+Wayne,5,Registered Voters,,,REP,190,,
+Wayne,6,Registered Voters,,,REP,121,,
+Wayne,11,Registered Voters,,,REP,147,,
+Wayne,12,Registered Voters,,,REP,153,,
+Wayne,13,Registered Voters,,,REP,217,,
+Wayne,14,Registered Voters,,,REP,371,,
+Wayne,16,Registered Voters,,,REP,121,,
+Wayne,17,Registered Voters,,,REP,210,,
+Wayne,18,Registered Voters,,,REP,194,,
+Wayne,19,Registered Voters,,,REP,313,,
+Wayne,20,Registered Voters,,,REP,194,,
+Wayne,21,Registered Voters,,,REP,139,,
+Wayne,22,Registered Voters,,,REP,180,,
+Wayne,30,Registered Voters,,,REP,132,,
+Wayne,31,Registered Voters,,,REP,143,,
+Wayne,34,Registered Voters,,,REP,116,,
+Wayne,36,Registered Voters,,,REP,188,,
+Wayne,37,Registered Voters,,,REP,214,,
+Wayne,41,Registered Voters,,,REP,77,,
+Wayne,42,Registered Voters,,,REP,42,,
+Wayne,45,Registered Voters,,,REP,99,,
+Wayne,48,Registered Voters,,,REP,256,,
+Wayne,49,Registered Voters,,,REP,248,,
+Wayne,50,Registered Voters,,,REP,138,,
+Wayne,51,Registered Voters,,,REP,155,,
+Wayne,52,Registered Voters,,,REP,79,,
+Wayne,53,Registered Voters,,,REP,163,,
+Wayne,54,Registered Voters,,,REP,109,,
+Wayne,56,Registered Voters,,,REP,405,,
+Wayne,57,Registered Voters,,,REP,205,,
+Wayne,59,Registered Voters,,,REP,243,,
+Wayne,60,Registered Voters,,,REP,248,,
+Wayne,61,Registered Voters,,,REP,171,,
+Wayne,62,Registered Voters,,,REP,363,,
+Wayne,63,Registered Voters,,,REP,165,,
+Wayne,1,Registered Voters,,,DEM,863,,
+Wayne,3,Registered Voters,,,DEM,506,,
+Wayne,5,Registered Voters,,,DEM,648,,
+Wayne,6,Registered Voters,,,DEM,580,,
+Wayne,11,Registered Voters,,,DEM,357,,
+Wayne,12,Registered Voters,,,DEM,381,,
+Wayne,13,Registered Voters,,,DEM,584,,
+Wayne,14,Registered Voters,,,DEM,709,,
+Wayne,16,Registered Voters,,,DEM,272,,
+Wayne,17,Registered Voters,,,DEM,405,,
+Wayne,18,Registered Voters,,,DEM,417,,
+Wayne,19,Registered Voters,,,DEM,651,,
+Wayne,20,Registered Voters,,,DEM,533,,
+Wayne,21,Registered Voters,,,DEM,320,,
+Wayne,22,Registered Voters,,,DEM,366,,
+Wayne,30,Registered Voters,,,DEM,407,,
+Wayne,31,Registered Voters,,,DEM,481,,
+Wayne,34,Registered Voters,,,DEM,774,,
+Wayne,36,Registered Voters,,,DEM,595,,
+Wayne,37,Registered Voters,,,DEM,654,,
+Wayne,41,Registered Voters,,,DEM,518,,
+Wayne,42,Registered Voters,,,DEM,410,,
+Wayne,45,Registered Voters,,,DEM,518,,
+Wayne,48,Registered Voters,,,DEM,640,,
+Wayne,49,Registered Voters,,,DEM,746,,
+Wayne,50,Registered Voters,,,DEM,648,,
+Wayne,51,Registered Voters,,,DEM,936,,
+Wayne,52,Registered Voters,,,DEM,388,,
+Wayne,53,Registered Voters,,,DEM,595,,
+Wayne,54,Registered Voters,,,DEM,575,,
+Wayne,56,Registered Voters,,,DEM,660,,
+Wayne,57,Registered Voters,,,DEM,372,,
+Wayne,59,Registered Voters,,,DEM,481,,
+Wayne,60,Registered Voters,,,DEM,442,,
+Wayne,61,Registered Voters,,,DEM,382,,
+Wayne,62,Registered Voters,,,DEM,644,,
+Wayne,63,Registered Voters,,,DEM,322,,
+Wayne,1,Registered Voters,,,MTN,2,,
+Wayne,3,Registered Voters,,,MTN,0,,
+Wayne,5,Registered Voters,,,MTN,1,,
+Wayne,6,Registered Voters,,,MTN,0,,
+Wayne,11,Registered Voters,,,MTN,1,,
+Wayne,12,Registered Voters,,,MTN,0,,
+Wayne,13,Registered Voters,,,MTN,0,,
+Wayne,14,Registered Voters,,,MTN,0,,
+Wayne,16,Registered Voters,,,MTN,0,,
+Wayne,17,Registered Voters,,,MTN,0,,
+Wayne,18,Registered Voters,,,MTN,0,,
+Wayne,19,Registered Voters,,,MTN,0,,
+Wayne,20,Registered Voters,,,MTN,0,,
+Wayne,21,Registered Voters,,,MTN,0,,
+Wayne,22,Registered Voters,,,MTN,0,,
+Wayne,30,Registered Voters,,,MTN,0,,
+Wayne,31,Registered Voters,,,MTN,1,,
+Wayne,34,Registered Voters,,,MTN,0,,
+Wayne,36,Registered Voters,,,MTN,0,,
+Wayne,37,Registered Voters,,,MTN,1,,
+Wayne,41,Registered Voters,,,MTN,0,,
+Wayne,42,Registered Voters,,,MTN,0,,
+Wayne,45,Registered Voters,,,MTN,0,,
+Wayne,48,Registered Voters,,,MTN,0,,
+Wayne,49,Registered Voters,,,MTN,0,,
+Wayne,50,Registered Voters,,,MTN,0,,
+Wayne,51,Registered Voters,,,MTN,0,,
+Wayne,52,Registered Voters,,,MTN,2,,
+Wayne,53,Registered Voters,,,MTN,0,,
+Wayne,54,Registered Voters,,,MTN,0,,
+Wayne,56,Registered Voters,,,MTN,1,,
+Wayne,57,Registered Voters,,,MTN,0,,
+Wayne,59,Registered Voters,,,MTN,0,,
+Wayne,60,Registered Voters,,,MTN,0,,
+Wayne,61,Registered Voters,,,MTN,0,,
+Wayne,62,Registered Voters,,,MTN,0,,
+Wayne,63,Registered Voters,,,MTN,0,,
+Wayne,1,Ballots Cast - Total,,,,106,106,0
+Wayne,3,Ballots Cast - Total,,,,74,74,0
+Wayne,5,Ballots Cast - Total,,,,103,103,0
+Wayne,6,Ballots Cast - Total,,,,42,42,0
+Wayne,11,Ballots Cast - Total,,,,51,51,0
+Wayne,12,Ballots Cast - Total,,,,87,87,0
+Wayne,13,Ballots Cast - Total,,,,93,93,0
+Wayne,14,Ballots Cast - Total,,,,142,142,0
+Wayne,16,Ballots Cast - Total,,,,38,38,0
+Wayne,17,Ballots Cast - Total,,,,81,81,0
+Wayne,18,Ballots Cast - Total,,,,91,91,0
+Wayne,19,Ballots Cast - Total,,,,95,95,0
+Wayne,20,Ballots Cast - Total,,,,104,104,0
+Wayne,21,Ballots Cast - Total,,,,53,53,0
+Wayne,22,Ballots Cast - Total,,,,95,95,0
+Wayne,30,Ballots Cast - Total,,,,62,62,0
+Wayne,31,Ballots Cast - Total,,,,40,40,0
+Wayne,34,Ballots Cast - Total,,,,54,54,0
+Wayne,36,Ballots Cast - Total,,,,81,81,0
+Wayne,37,Ballots Cast - Total,,,,56,56,0
+Wayne,41,Ballots Cast - Total,,,,48,48,0
+Wayne,42,Ballots Cast - Total,,,,39,39,0
+Wayne,45,Ballots Cast - Total,,,,59,59,0
+Wayne,48,Ballots Cast - Total,,,,122,122,0
+Wayne,49,Ballots Cast - Total,,,,149,149,0
+Wayne,50,Ballots Cast - Total,,,,94,94,0
+Wayne,51,Ballots Cast - Total,,,,86,86,0
+Wayne,52,Ballots Cast - Total,,,,47,47,0
+Wayne,53,Ballots Cast - Total,,,,76,76,0
+Wayne,54,Ballots Cast - Total,,,,70,70,0
+Wayne,56,Ballots Cast - Total,,,,109,109,0
+Wayne,57,Ballots Cast - Total,,,,86,86,0
+Wayne,59,Ballots Cast - Total,,,,121,121,0
+Wayne,60,Ballots Cast - Total,,,,112,112,0
+Wayne,61,Ballots Cast - Total,,,,82,82,0
+Wayne,62,Ballots Cast - Total,,,,130,130,0
+Wayne,63,Ballots Cast - Total,,,,67,67,0
+Wayne,1,Ballots Cast ,,,REP,17,17,0
+Wayne,3,Ballots Cast ,,,REP,23,23,0
+Wayne,5,Ballots Cast ,,,REP,15,15,0
+Wayne,6,Ballots Cast ,,,REP,8,8,0
+Wayne,11,Ballots Cast ,,,REP,16,16,0
+Wayne,12,Ballots Cast ,,,REP,22,22,0
+Wayne,13,Ballots Cast ,,,REP,20,20,0
+Wayne,14,Ballots Cast ,,,REP,40,40,0
+Wayne,16,Ballots Cast ,,,REP,9,9,0
+Wayne,17,Ballots Cast ,,,REP,22,22,0
+Wayne,18,Ballots Cast ,,,REP,28,28,0
+Wayne,19,Ballots Cast ,,,REP,36,36,0
+Wayne,20,Ballots Cast ,,,REP,24,24,0
+Wayne,21,Ballots Cast ,,,REP,12,12,0
+Wayne,22,Ballots Cast ,,,REP,26,26,0
+Wayne,30,Ballots Cast ,,,REP,14,14,0
+Wayne,31,Ballots Cast ,,,REP,11,11,0
+Wayne,34,Ballots Cast ,,,REP,7,7,0
+Wayne,36,Ballots Cast ,,,REP,10,10,0
+Wayne,37,Ballots Cast ,,,REP,22,22,0
+Wayne,41,Ballots Cast ,,,REP,15,15,0
+Wayne,42,Ballots Cast ,,,REP,7,7,0
+Wayne,45,Ballots Cast ,,,REP,4,4,0
+Wayne,48,Ballots Cast ,,,REP,41,41,0
+Wayne,49,Ballots Cast ,,,REP,31,31,0
+Wayne,50,Ballots Cast ,,,REP,16,16,0
+Wayne,51,Ballots Cast ,,,REP,9,9,0
+Wayne,52,Ballots Cast ,,,REP,6,6,0
+Wayne,53,Ballots Cast ,,,REP,15,15,0
+Wayne,54,Ballots Cast ,,,REP,13,13,0
+Wayne,56,Ballots Cast ,,,REP,30,30,0
+Wayne,57,Ballots Cast ,,,REP,19,19,0
+Wayne,59,Ballots Cast ,,,REP,33,33,0
+Wayne,60,Ballots Cast ,,,REP,38,38,0
+Wayne,61,Ballots Cast ,,,REP,20,20,0
+Wayne,62,Ballots Cast ,,,REP,44,44,0
+Wayne,63,Ballots Cast ,,,REP,18,18,0
+Wayne,1,Ballots Cast ,,,DEM,89,89,0
+Wayne,3,Ballots Cast ,,,DEM,51,51,0
+Wayne,5,Ballots Cast ,,,DEM,88,88,0
+Wayne,6,Ballots Cast ,,,DEM,34,34,0
+Wayne,11,Ballots Cast ,,,DEM,35,35,0
+Wayne,12,Ballots Cast ,,,DEM,65,65,0
+Wayne,13,Ballots Cast ,,,DEM,73,73,0
+Wayne,14,Ballots Cast ,,,DEM,102,102,0
+Wayne,16,Ballots Cast ,,,DEM,29,29,0
+Wayne,17,Ballots Cast ,,,DEM,59,59,0
+Wayne,18,Ballots Cast ,,,DEM,63,63,0
+Wayne,19,Ballots Cast ,,,DEM,58,58,0
+Wayne,20,Ballots Cast ,,,DEM,80,80,0
+Wayne,21,Ballots Cast ,,,DEM,41,41,0
+Wayne,22,Ballots Cast ,,,DEM,69,69,0
+Wayne,30,Ballots Cast ,,,DEM,48,48,0
+Wayne,31,Ballots Cast ,,,DEM,29,29,0
+Wayne,34,Ballots Cast ,,,DEM,47,47,0
+Wayne,36,Ballots Cast ,,,DEM,71,71,0
+Wayne,37,Ballots Cast ,,,DEM,34,34,0
+Wayne,41,Ballots Cast ,,,DEM,33,33,0
+Wayne,42,Ballots Cast ,,,DEM,32,32,0
+Wayne,45,Ballots Cast ,,,DEM,55,55,0
+Wayne,48,Ballots Cast ,,,DEM,81,81,0
+Wayne,49,Ballots Cast ,,,DEM,118,118,0
+Wayne,50,Ballots Cast ,,,DEM,78,78,0
+Wayne,51,Ballots Cast ,,,DEM,77,77,0
+Wayne,52,Ballots Cast ,,,DEM,41,41,0
+Wayne,53,Ballots Cast ,,,DEM,61,61,0
+Wayne,54,Ballots Cast ,,,DEM,57,57,0
+Wayne,56,Ballots Cast ,,,DEM,79,79,0
+Wayne,57,Ballots Cast ,,,DEM,67,67,0
+Wayne,59,Ballots Cast ,,,DEM,88,88,0
+Wayne,60,Ballots Cast ,,,DEM,74,74,0
+Wayne,61,Ballots Cast ,,,DEM,62,62,0
+Wayne,62,Ballots Cast ,,,DEM,86,86,0
+Wayne,63,Ballots Cast ,,,DEM,49,49,0
+Wayne,1,Ballots Cast ,,,MTN,0,0,0
+Wayne,3,Ballots Cast ,,,MTN,0,0,0
+Wayne,5,Ballots Cast ,,,MTN,0,0,0
+Wayne,6,Ballots Cast ,,,MTN,0,0,0
+Wayne,11,Ballots Cast ,,,MTN,0,0,0
+Wayne,12,Ballots Cast ,,,MTN,0,0,0
+Wayne,13,Ballots Cast ,,,MTN,0,0,0
+Wayne,14,Ballots Cast ,,,MTN,0,0,0
+Wayne,16,Ballots Cast ,,,MTN,0,0,0
+Wayne,17,Ballots Cast ,,,MTN,0,0,0
+Wayne,18,Ballots Cast ,,,MTN,0,0,0
+Wayne,19,Ballots Cast ,,,MTN,1,1,0
+Wayne,20,Ballots Cast ,,,MTN,0,0,0
+Wayne,21,Ballots Cast ,,,MTN,0,0,0
+Wayne,22,Ballots Cast ,,,MTN,0,0,0
+Wayne,30,Ballots Cast ,,,MTN,0,0,0
+Wayne,31,Ballots Cast ,,,MTN,0,0,0
+Wayne,34,Ballots Cast ,,,MTN,0,0,0
+Wayne,36,Ballots Cast ,,,MTN,0,0,0
+Wayne,37,Ballots Cast ,,,MTN,0,0,0
+Wayne,41,Ballots Cast ,,,MTN,0,0,0
+Wayne,42,Ballots Cast ,,,MTN,0,0,0
+Wayne,45,Ballots Cast ,,,MTN,0,0,0
+Wayne,48,Ballots Cast ,,,MTN,0,0,0
+Wayne,49,Ballots Cast ,,,MTN,0,0,0
+Wayne,50,Ballots Cast ,,,MTN,0,0,0
+Wayne,51,Ballots Cast ,,,MTN,0,0,0
+Wayne,52,Ballots Cast ,,,MTN,0,0,0
+Wayne,53,Ballots Cast ,,,MTN,0,0,0
+Wayne,54,Ballots Cast ,,,MTN,0,0,0
+Wayne,56,Ballots Cast ,,,MTN,0,0,0
+Wayne,57,Ballots Cast ,,,MTN,0,0,0
+Wayne,59,Ballots Cast ,,,MTN,0,0,0
+Wayne,60,Ballots Cast ,,,MTN,0,0,0
+Wayne,61,Ballots Cast ,,,MTN,0,0,0
+Wayne,62,Ballots Cast ,,,MTN,0,0,0
+Wayne,63,Ballots Cast ,,,MTN,0,0,0
+Wayne,1,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,3,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,5,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,6,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,11,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,12,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,13,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,14,U.S. Senate,,Thomas Ressler,REP,2,2,0
+Wayne,16,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,17,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,18,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,19,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,20,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,21,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,22,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,30,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,31,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,34,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,36,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,37,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,41,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,42,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,45,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,48,U.S. Senate,,Thomas Ressler,REP,2,2,0
+Wayne,49,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,51,U.S. Senate,,Thomas Ressler,REP,3,3,0
+Wayne,52,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,53,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,54,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,56,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,57,U.S. Senate,,Thomas Ressler,REP,1,1,0
+Wayne,59,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,60,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,61,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,62,U.S. Senate,,Thomas Ressler,REP,2,2,0
+Wayne,63,U.S. Senate,,Thomas Ressler,REP,0,0,0
+Wayne,1,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,3,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,5,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,6,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,11,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,12,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,13,U.S. Senate,,"Harry C. Bruner, Jr.",REP,2,2,0
+Wayne,14,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,16,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,17,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,18,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,19,U.S. Senate,,"Harry C. Bruner, Jr.",REP,3,3,0
+Wayne,20,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,21,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,22,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,30,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,31,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,34,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,36,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,37,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,41,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,42,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,45,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,48,U.S. Senate,,"Harry C. Bruner, Jr.",REP,3,3,0
+Wayne,49,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,51,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,52,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,53,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,54,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,56,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,57,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,59,U.S. Senate,,"Harry C. Bruner, Jr.",REP,2,2,0
+Wayne,60,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,61,U.S. Senate,,"Harry C. Bruner, Jr.",REP,1,1,0
+Wayne,62,U.S. Senate,,"Harry C. Bruner, Jr.",REP,2,2,0
+Wayne,63,U.S. Senate,,"Harry C. Bruner, Jr.",REP,0,0,0
+Wayne,1,U.S. Senate,,Frank Kubic,REP,1,1,0
+Wayne,3,U.S. Senate,,Frank Kubic,REP,2,2,0
+Wayne,5,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,6,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,11,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,12,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,13,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,14,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,16,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,17,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,18,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,19,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,20,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,21,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,22,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,30,U.S. Senate,,Frank Kubic,REP,1,1,0
+Wayne,31,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,34,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,36,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,37,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,41,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,42,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,45,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,48,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,49,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,51,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,52,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,53,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,54,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,56,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,57,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,59,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,60,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,61,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,62,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,63,U.S. Senate,,Frank Kubic,REP,0,0,0
+Wayne,1,U.S. Senate,,John R. Raese,REP,13,13,0
+Wayne,3,U.S. Senate,,John R. Raese,REP,18,18,0
+Wayne,5,U.S. Senate,,John R. Raese,REP,13,13,0
+Wayne,6,U.S. Senate,,John R. Raese,REP,4,4,0
+Wayne,11,U.S. Senate,,John R. Raese,REP,12,12,0
+Wayne,12,U.S. Senate,,John R. Raese,REP,18,18,0
+Wayne,13,U.S. Senate,,John R. Raese,REP,14,14,0
+Wayne,14,U.S. Senate,,John R. Raese,REP,34,34,0
+Wayne,16,U.S. Senate,,John R. Raese,REP,8,8,0
+Wayne,17,U.S. Senate,,John R. Raese,REP,18,18,0
+Wayne,18,U.S. Senate,,John R. Raese,REP,23,23,0
+Wayne,19,U.S. Senate,,John R. Raese,REP,26,26,0
+Wayne,20,U.S. Senate,,John R. Raese,REP,19,19,0
+Wayne,21,U.S. Senate,,John R. Raese,REP,9,9,0
+Wayne,22,U.S. Senate,,John R. Raese,REP,21,21,0
+Wayne,30,U.S. Senate,,John R. Raese,REP,9,9,0
+Wayne,31,U.S. Senate,,John R. Raese,REP,8,8,0
+Wayne,34,U.S. Senate,,John R. Raese,REP,7,7,0
+Wayne,36,U.S. Senate,,John R. Raese,REP,8,8,0
+Wayne,37,U.S. Senate,,John R. Raese,REP,22,22,0
+Wayne,41,U.S. Senate,,John R. Raese,REP,13,13,0
+Wayne,42,U.S. Senate,,John R. Raese,REP,6,6,0
+Wayne,45,U.S. Senate,,John R. Raese,REP,3,3,0
+Wayne,48,U.S. Senate,,John R. Raese,REP,31,31,0
+Wayne,49,U.S. Senate,,John R. Raese,REP,31,31,0
+Wayne,51,U.S. Senate,,John R. Raese,REP,5,5,0
+Wayne,52,U.S. Senate,,John R. Raese,REP,6,6,0
+Wayne,53,U.S. Senate,,John R. Raese,REP,13,13,0
+Wayne,54,U.S. Senate,,John R. Raese,REP,11,11,0
+Wayne,56,U.S. Senate,,John R. Raese,REP,21,21,0
+Wayne,57,U.S. Senate,,John R. Raese,REP,16,16,0
+Wayne,59,U.S. Senate,,John R. Raese,REP,25,25,0
+Wayne,60,U.S. Senate,,John R. Raese,REP,35,35,0
+Wayne,61,U.S. Senate,,John R. Raese,REP,18,18,0
+Wayne,62,U.S. Senate,,John R. Raese,REP,30,30,0
+Wayne,63,U.S. Senate,,John R. Raese,REP,13,13,0
+Wayne,1,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,3,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,5,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,6,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,11,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,12,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,13,U.S. Senate,,Daniel Rebich,REP,1,1,0
+Wayne,14,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,16,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,17,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,18,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,19,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,20,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,21,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,22,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,30,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,31,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,34,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,36,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,37,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,41,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,42,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,45,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,48,U.S. Senate,,Daniel Rebich,REP,1,1,0
+Wayne,49,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,51,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,52,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,53,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,54,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,56,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,57,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,59,U.S. Senate,,Daniel Rebich,REP,1,1,0
+Wayne,60,U.S. Senate,,Daniel Rebich,REP,0,0,0
+Wayne,61,U.S. Senate,,Daniel Rebich,REP,1,1,0
+Wayne,62,U.S. Senate,,Daniel Rebich,REP,1,1,0
+Wayne,63,U.S. Senate,,Daniel Rebich,REP,1,1,0
+Wayne,1,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,3,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,5,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,6,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,11,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,12,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,13,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,14,U.S. Senate,,Kenneth A. Culp,REP,2,2,0
+Wayne,16,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,17,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,18,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,19,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,20,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,21,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,22,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,30,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,31,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,34,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,36,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,37,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,41,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,42,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,45,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,48,U.S. Senate,,Kenneth A. Culp,REP,2,2,0
+Wayne,49,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,51,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,52,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,53,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,54,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,56,U.S. Senate,,Kenneth A. Culp,REP,2,2,0
+Wayne,57,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,59,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,60,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,61,U.S. Senate,,Kenneth A. Culp,REP,0,0,0
+Wayne,62,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,63,U.S. Senate,,Kenneth A. Culp,REP,1,1,0
+Wayne,1,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,3,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,5,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,6,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,11,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,12,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,13,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,14,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,16,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,17,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,18,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,19,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,20,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,21,U.S. Senate,,Albert Howard,REP,1,1,0
+Wayne,22,U.S. Senate,,Albert Howard,REP,1,1,0
+Wayne,30,U.S. Senate,,Albert Howard,REP,1,1,0
+Wayne,31,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,34,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,36,U.S. Senate,,Albert Howard,REP,1,1,0
+Wayne,37,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,41,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,42,U.S. Senate,,Albert Howard,REP,1,1,0
+Wayne,45,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,48,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,49,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,51,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,52,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,53,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,54,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,56,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,57,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,59,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,60,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,61,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,62,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,63,U.S. Senate,,Albert Howard,REP,0,0,0
+Wayne,1,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,3,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,5,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,6,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,11,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,12,U.S. Senate,,Lynette Kennedy Mcquain,REP,1,1,0
+Wayne,13,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,14,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,16,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,17,U.S. Senate,,Lynette Kennedy Mcquain,REP,1,1,0
+Wayne,18,U.S. Senate,,Lynette Kennedy Mcquain,REP,1,1,0
+Wayne,19,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,20,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,21,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,22,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,30,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,31,U.S. Senate,,Lynette Kennedy Mcquain,REP,1,1,0
+Wayne,34,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,36,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,37,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,41,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,42,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,45,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,48,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,49,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,51,U.S. Senate,,Lynette Kennedy Mcquain,REP,1,1,0
+Wayne,52,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,53,U.S. Senate,,Lynette Kennedy Mcquain,REP,1,1,0
+Wayne,54,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,56,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,57,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,59,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,60,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,61,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,62,U.S. Senate,,Lynette Kennedy Mcquain,REP,2,2,0
+Wayne,63,U.S. Senate,,Lynette Kennedy Mcquain,REP,0,0,0
+Wayne,1,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,3,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,5,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,6,U.S. Senate,,Scott H. Williams,REP,1,1,0
+Wayne,11,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,12,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,13,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,14,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,16,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,17,U.S. Senate,,Scott H. Williams,REP,2,2,0
+Wayne,18,U.S. Senate,,Scott H. Williams,REP,1,1,0
+Wayne,19,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,20,U.S. Senate,,Scott H. Williams,REP,1,1,0
+Wayne,21,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,22,U.S. Senate,,Scott H. Williams,REP,1,1,0
+Wayne,30,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,31,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,34,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,36,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,37,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,41,U.S. Senate,,Scott H. Williams,REP,2,2,0
+Wayne,42,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,45,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,48,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,49,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,51,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,52,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,53,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,54,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,56,U.S. Senate,,Scott H. Williams,REP,1,1,0
+Wayne,57,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,59,U.S. Senate,,Scott H. Williams,REP,2,2,0
+Wayne,60,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,61,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,62,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,63,U.S. Senate,,Scott H. Williams,REP,0,0,0
+Wayne,1,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,3,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,5,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,6,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,11,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,12,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,13,U.S. Senate,,Mac Warner,REP,2,2,0
+Wayne,14,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,16,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,17,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,18,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,19,U.S. Senate,,Mac Warner,REP,7,7,0
+Wayne,20,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,21,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,22,U.S. Senate,,Mac Warner,REP,3,3,0
+Wayne,30,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,31,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,34,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,36,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,37,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,41,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,42,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,45,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,48,U.S. Senate,,Mac Warner,REP,2,2,0
+Wayne,49,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,51,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,52,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,53,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,54,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,56,U.S. Senate,,Mac Warner,REP,4,4,0
+Wayne,57,U.S. Senate,,Mac Warner,REP,1,1,0
+Wayne,59,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,60,U.S. Senate,,Mac Warner,REP,2,2,0
+Wayne,61,U.S. Senate,,Mac Warner,REP,0,0,0
+Wayne,62,U.S. Senate,,Mac Warner,REP,6,6,0
+Wayne,63,U.S. Senate,,Mac Warner,REP,2,2,0
+Wayne,1,U.S. Senate,,Ken Hechler,DEM,6,6,0
+Wayne,3,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,5,U.S. Senate,,Ken Hechler,DEM,21,21,0
+Wayne,6,U.S. Senate,,Ken Hechler,DEM,3,3,0
+Wayne,11,U.S. Senate,,Ken Hechler,DEM,4,4,0
+Wayne,12,U.S. Senate,,Ken Hechler,DEM,6,6,0
+Wayne,13,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,14,U.S. Senate,,Ken Hechler,DEM,11,11,0
+Wayne,16,U.S. Senate,,Ken Hechler,DEM,2,2,0
+Wayne,17,U.S. Senate,,Ken Hechler,DEM,10,10,0
+Wayne,18,U.S. Senate,,Ken Hechler,DEM,11,11,0
+Wayne,19,U.S. Senate,,Ken Hechler,DEM,4,4,0
+Wayne,20,U.S. Senate,,Ken Hechler,DEM,10,10,0
+Wayne,21,U.S. Senate,,Ken Hechler,DEM,3,3,0
+Wayne,22,U.S. Senate,,Ken Hechler,DEM,12,12,0
+Wayne,30,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,31,U.S. Senate,,Ken Hechler,DEM,4,4,0
+Wayne,34,U.S. Senate,,Ken Hechler,DEM,2,2,0
+Wayne,36,U.S. Senate,,Ken Hechler,DEM,7,7,0
+Wayne,37,U.S. Senate,,Ken Hechler,DEM,0,0,0
+Wayne,41,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,42,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,45,U.S. Senate,,Ken Hechler,DEM,6,6,0
+Wayne,48,U.S. Senate,,Ken Hechler,DEM,16,16,0
+Wayne,49,U.S. Senate,,Ken Hechler,DEM,15,15,0
+Wayne,50,U.S. Senate,,Ken Hechler,DEM,9,9,0
+Wayne,51,U.S. Senate,,Ken Hechler,DEM,14,14,0
+Wayne,52,U.S. Senate,,Ken Hechler,DEM,3,3,0
+Wayne,53,U.S. Senate,,Ken Hechler,DEM,9,9,0
+Wayne,54,U.S. Senate,,Ken Hechler,DEM,1,1,0
+Wayne,56,U.S. Senate,,Ken Hechler,DEM,7,7,0
+Wayne,57,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,59,U.S. Senate,,Ken Hechler,DEM,14,14,0
+Wayne,60,U.S. Senate,,Ken Hechler,DEM,10,10,0
+Wayne,61,U.S. Senate,,Ken Hechler,DEM,5,5,0
+Wayne,62,U.S. Senate,,Ken Hechler,DEM,8,8,0
+Wayne,63,U.S. Senate,,Ken Hechler,DEM,7,7,0
+Wayne,1,U.S. Senate,,Sheirl Fletcher,DEM,4,4,0
+Wayne,3,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,5,U.S. Senate,,Sheirl Fletcher,DEM,4,4,0
+Wayne,6,U.S. Senate,,Sheirl Fletcher,DEM,0,0,0
+Wayne,11,U.S. Senate,,Sheirl Fletcher,DEM,0,0,0
+Wayne,12,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,13,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,14,U.S. Senate,,Sheirl Fletcher,DEM,10,10,0
+Wayne,16,U.S. Senate,,Sheirl Fletcher,DEM,3,3,0
+Wayne,17,U.S. Senate,,Sheirl Fletcher,DEM,3,3,0
+Wayne,18,U.S. Senate,,Sheirl Fletcher,DEM,6,6,0
+Wayne,19,U.S. Senate,,Sheirl Fletcher,DEM,4,4,0
+Wayne,20,U.S. Senate,,Sheirl Fletcher,DEM,2,2,0
+Wayne,21,U.S. Senate,,Sheirl Fletcher,DEM,0,0,0
+Wayne,22,U.S. Senate,,Sheirl Fletcher,DEM,7,7,0
+Wayne,30,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,31,U.S. Senate,,Sheirl Fletcher,DEM,0,0,0
+Wayne,34,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,36,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,37,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,41,U.S. Senate,,Sheirl Fletcher,DEM,2,2,0
+Wayne,42,U.S. Senate,,Sheirl Fletcher,DEM,5,5,0
+Wayne,45,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,48,U.S. Senate,,Sheirl Fletcher,DEM,11,11,0
+Wayne,49,U.S. Senate,,Sheirl Fletcher,DEM,9,9,0
+Wayne,50,U.S. Senate,,Sheirl Fletcher,DEM,7,7,0
+Wayne,51,U.S. Senate,,Sheirl Fletcher,DEM,3,3,0
+Wayne,52,U.S. Senate,,Sheirl Fletcher,DEM,2,2,0
+Wayne,53,U.S. Senate,,Sheirl Fletcher,DEM,4,4,0
+Wayne,54,U.S. Senate,,Sheirl Fletcher,DEM,3,3,0
+Wayne,56,U.S. Senate,,Sheirl Fletcher,DEM,5,5,0
+Wayne,57,U.S. Senate,,Sheirl Fletcher,DEM,5,5,0
+Wayne,59,U.S. Senate,,Sheirl Fletcher,DEM,8,8,0
+Wayne,60,U.S. Senate,,Sheirl Fletcher,DEM,4,4,0
+Wayne,61,U.S. Senate,,Sheirl Fletcher,DEM,1,1,0
+Wayne,62,U.S. Senate,,Sheirl Fletcher,DEM,4,4,0
+Wayne,63,U.S. Senate,,Sheirl Fletcher,DEM,0,0,0
+Wayne,1,U.S. Senate,,Joe Manchin Iii,DEM,79,79,0
+Wayne,3,U.S. Senate,,Joe Manchin Iii,DEM,44,44,0
+Wayne,5,U.S. Senate,,Joe Manchin Iii,DEM,62,62,0
+Wayne,6,U.S. Senate,,Joe Manchin Iii,DEM,31,31,0
+Wayne,11,U.S. Senate,,Joe Manchin Iii,DEM,30,30,0
+Wayne,12,U.S. Senate,,Joe Manchin Iii,DEM,57,57,0
+Wayne,13,U.S. Senate,,Joe Manchin Iii,DEM,66,66,0
+Wayne,14,U.S. Senate,,Joe Manchin Iii,DEM,79,79,0
+Wayne,16,U.S. Senate,,Joe Manchin Iii,DEM,24,24,0
+Wayne,17,U.S. Senate,,Joe Manchin Iii,DEM,45,45,0
+Wayne,18,U.S. Senate,,Joe Manchin Iii,DEM,46,46,0
+Wayne,19,U.S. Senate,,Joe Manchin Iii,DEM,48,48,0
+Wayne,20,U.S. Senate,,Joe Manchin Iii,DEM,66,66,0
+Wayne,21,U.S. Senate,,Joe Manchin Iii,DEM,38,38,0
+Wayne,22,U.S. Senate,,Joe Manchin Iii,DEM,48,48,0
+Wayne,30,U.S. Senate,,Joe Manchin Iii,DEM,42,42,0
+Wayne,31,U.S. Senate,,Joe Manchin Iii,DEM,25,25,0
+Wayne,34,U.S. Senate,,Joe Manchin Iii,DEM,44,44,0
+Wayne,36,U.S. Senate,,Joe Manchin Iii,DEM,63,63,0
+Wayne,37,U.S. Senate,,Joe Manchin Iii,DEM,33,33,0
+Wayne,41,U.S. Senate,,Joe Manchin Iii,DEM,26,26,0
+Wayne,42,U.S. Senate,,Joe Manchin Iii,DEM,22,22,0
+Wayne,45,U.S. Senate,,Joe Manchin Iii,DEM,48,48,0
+Wayne,48,U.S. Senate,,Joe Manchin Iii,DEM,54,54,0
+Wayne,49,U.S. Senate,,Joe Manchin Iii,DEM,92,92,0
+Wayne,50,U.S. Senate,,Joe Manchin Iii,DEM,62,62,0
+Wayne,51,U.S. Senate,,Joe Manchin Iii,DEM,59,59,0
+Wayne,52,U.S. Senate,,Joe Manchin Iii,DEM,34,34,0
+Wayne,53,U.S. Senate,,Joe Manchin Iii,DEM,47,47,0
+Wayne,54,U.S. Senate,,Joe Manchin Iii,DEM,53,53,0
+Wayne,56,U.S. Senate,,Joe Manchin Iii,DEM,67,67,0
+Wayne,57,U.S. Senate,,Joe Manchin Iii,DEM,56,56,0
+Wayne,59,U.S. Senate,,Joe Manchin Iii,DEM,66,66,0
+Wayne,60,U.S. Senate,,Joe Manchin Iii,DEM,59,59,0
+Wayne,61,U.S. Senate,,Joe Manchin Iii,DEM,56,56,0
+Wayne,62,U.S. Senate,,Joe Manchin Iii,DEM,71,71,0
+Wayne,63,U.S. Senate,,Joe Manchin Iii,DEM,41,41,0
+Wayne,1,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,3,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,5,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,6,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,11,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,12,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,13,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,14,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,16,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,17,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,18,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,19,U.S. Senate,,Jesse Johnson,MTN,1,1,0
+Wayne,20,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,21,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,22,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,30,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,31,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,34,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,36,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,37,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,41,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,42,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,45,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,48,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,49,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,50,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,51,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,52,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,53,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,54,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,56,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,57,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,59,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,60,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,61,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,62,U.S. Senate,,Jesse Johnson,MTN,0,0,0
+Wayne,63,U.S. Senate,,Jesse Johnson,MTN,0,0,0
