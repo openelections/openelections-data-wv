@@ -1,0 +1,872 @@
+county,precinct,office,district,party,candidate,votes
+Wayne,Precinct 1,U.S. Senate,,REP,Don Blankenship,59
+Wayne,Precinct 5,U.S. Senate,,REP,Don Blankenship,1
+Wayne,Precinct 6,U.S. Senate,,REP,Don Blankenship,19
+Wayne,Precinct 12,U.S. Senate,,REP,Don Blankenship,12
+Wayne,Precinct 13,U.S. Senate,,REP,Don Blankenship,13
+Wayne,Precinct 14,U.S. Senate,,REP,Don Blankenship,28
+Wayne,Precinct 16,U.S. Senate,,REP,Don Blankenship,6
+Wayne,Precinct 17,U.S. Senate,,REP,Don Blankenship,10
+Wayne,Precinct 18,U.S. Senate,,REP,Don Blankenship,11
+Wayne,Precinct 19,U.S. Senate,,REP,Don Blankenship,28
+Wayne,Precinct 20,U.S. Senate,,REP,Don Blankenship,13
+Wayne,Precinct 21,U.S. Senate,,REP,Don Blankenship,9
+Wayne,Precinct 22,U.S. Senate,,REP,Don Blankenship,12
+Wayne,Precinct 30,U.S. Senate,,REP,Don Blankenship,16
+Wayne,Precinct 31,U.S. Senate,,REP,Don Blankenship,8
+Wayne,Precinct 34,U.S. Senate,,REP,Don Blankenship,12
+Wayne,Precinct 36,U.S. Senate,,REP,Don Blankenship,20
+Wayne,Precinct 37,U.S. Senate,,REP,Don Blankenship,18
+Wayne,Precinct 41,U.S. Senate,,REP,Don Blankenship,10
+Wayne,Precinct 42,U.S. Senate,,REP,Don Blankenship,4
+Wayne,Precinct 45,U.S. Senate,,REP,Don Blankenship,3
+Wayne,Precinct 48,U.S. Senate,,REP,Don Blankenship,11
+Wayne,Precinct 49,U.S. Senate,,REP,Don Blankenship,22
+Wayne,Precinct 50,U.S. Senate,,REP,Don Blankenship,9
+Wayne,Precinct 51,U.S. Senate,,REP,Don Blankenship,8
+Wayne,Precinct 52,U.S. Senate,,REP,Don Blankenship,8
+Wayne,Precinct 53,U.S. Senate,,REP,Don Blankenship,16
+Wayne,Precinct 54,U.S. Senate,,REP,Don Blankenship,12
+Wayne,Precinct 56,U.S. Senate,,REP,Don Blankenship,17
+Wayne,Precinct 57,U.S. Senate,,REP,Don Blankenship,7
+Wayne,Precinct 59,U.S. Senate,,REP,Don Blankenship,16
+Wayne,Precinct 60,U.S. Senate,,REP,Don Blankenship,14
+Wayne,Precinct 61,U.S. Senate,,REP,Don Blankenship,6
+Wayne,Precinct 62,U.S. Senate,,REP,Don Blankenship,22
+Wayne,Precinct 63,U.S. Senate,,REP,Don Blankenship,7
+Wayne,Precinct 1,U.S. Senate,,REP,Patrick Morrisey,20
+Wayne,Precinct 5,U.S. Senate,,REP,Patrick Morrisey,13
+Wayne,Precinct 6,U.S. Senate,,REP,Patrick Morrisey,4
+Wayne,Precinct 12,U.S. Senate,,REP,Patrick Morrisey,20
+Wayne,Precinct 13,U.S. Senate,,REP,Patrick Morrisey,17
+Wayne,Precinct 14,U.S. Senate,,REP,Patrick Morrisey,38
+Wayne,Precinct 16,U.S. Senate,,REP,Patrick Morrisey,10
+Wayne,Precinct 17,U.S. Senate,,REP,Patrick Morrisey,15
+Wayne,Precinct 18,U.S. Senate,,REP,Patrick Morrisey,10
+Wayne,Precinct 19,U.S. Senate,,REP,Patrick Morrisey,12
+Wayne,Precinct 20,U.S. Senate,,REP,Patrick Morrisey,11
+Wayne,Precinct 21,U.S. Senate,,REP,Patrick Morrisey,8
+Wayne,Precinct 22,U.S. Senate,,REP,Patrick Morrisey,18
+Wayne,Precinct 30,U.S. Senate,,REP,Patrick Morrisey,13
+Wayne,Precinct 31,U.S. Senate,,REP,Patrick Morrisey,7
+Wayne,Precinct 34,U.S. Senate,,REP,Patrick Morrisey,2
+Wayne,Precinct 36,U.S. Senate,,REP,Patrick Morrisey,3
+Wayne,Precinct 37,U.S. Senate,,REP,Patrick Morrisey,7
+Wayne,Precinct 41,U.S. Senate,,REP,Patrick Morrisey,8
+Wayne,Precinct 42,U.S. Senate,,REP,Patrick Morrisey,1
+Wayne,Precinct 45,U.S. Senate,,REP,Patrick Morrisey,12
+Wayne,Precinct 48,U.S. Senate,,REP,Patrick Morrisey,21
+Wayne,Precinct 49,U.S. Senate,,REP,Patrick Morrisey,17
+Wayne,Precinct 50,U.S. Senate,,REP,Patrick Morrisey,12
+Wayne,Precinct 51,U.S. Senate,,REP,Patrick Morrisey,14
+Wayne,Precinct 52,U.S. Senate,,REP,Patrick Morrisey,3
+Wayne,Precinct 53,U.S. Senate,,REP,Patrick Morrisey,24
+Wayne,Precinct 54,U.S. Senate,,REP,Patrick Morrisey,6
+Wayne,Precinct 56,U.S. Senate,,REP,Patrick Morrisey,20
+Wayne,Precinct 57,U.S. Senate,,REP,Patrick Morrisey,14
+Wayne,Precinct 59,U.S. Senate,,REP,Patrick Morrisey,18
+Wayne,Precinct 60,U.S. Senate,,REP,Patrick Morrisey,16
+Wayne,Precinct 61,U.S. Senate,,REP,Patrick Morrisey,11
+Wayne,Precinct 62,U.S. Senate,,REP,Patrick Morrisey,22
+Wayne,Precinct 63,U.S. Senate,,REP,Patrick Morrisey,9
+Wayne,Precinct 1,U.S. Senate,,REP,Bo Copley,10
+Wayne,Precinct 5,U.S. Senate,,REP,Bo Copley,11
+Wayne,Precinct 6,U.S. Senate,,REP,Bo Copley,4
+Wayne,Precinct 12,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 13,U.S. Senate,,REP,Bo Copley,1
+Wayne,Precinct 14,U.S. Senate,,REP,Bo Copley,6
+Wayne,Precinct 16,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 17,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 18,U.S. Senate,,REP,Bo Copley,8
+Wayne,Precinct 19,U.S. Senate,,REP,Bo Copley,7
+Wayne,Precinct 20,U.S. Senate,,REP,Bo Copley,0
+Wayne,Precinct 21,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 22,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 30,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 31,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 34,U.S. Senate,,REP,Bo Copley,9
+Wayne,Precinct 36,U.S. Senate,,REP,Bo Copley,13
+Wayne,Precinct 37,U.S. Senate,,REP,Bo Copley,12
+Wayne,Precinct 41,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 42,U.S. Senate,,REP,Bo Copley,1
+Wayne,Precinct 45,U.S. Senate,,REP,Bo Copley,1
+Wayne,Precinct 48,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 49,U.S. Senate,,REP,Bo Copley,1
+Wayne,Precinct 50,U.S. Senate,,REP,Bo Copley,1
+Wayne,Precinct 51,U.S. Senate,,REP,Bo Copley,1
+Wayne,Precinct 52,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 53,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 54,U.S. Senate,,REP,Bo Copley,4
+Wayne,Precinct 56,U.S. Senate,,REP,Bo Copley,5
+Wayne,Precinct 57,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 59,U.S. Senate,,REP,Bo Copley,3
+Wayne,Precinct 60,U.S. Senate,,REP,Bo Copley,2
+Wayne,Precinct 61,U.S. Senate,,REP,Bo Copley,4
+Wayne,Precinct 62,U.S. Senate,,REP,Bo Copley,0
+Wayne,Precinct 63,U.S. Senate,,REP,Bo Copley,0
+Wayne,Precinct 1,U.S. Senate,,REP,Evan Jenkins,60
+Wayne,Precinct 5,U.S. Senate,,REP,Evan Jenkins,52
+Wayne,Precinct 6,U.S. Senate,,REP,Evan Jenkins,13
+Wayne,Precinct 12,U.S. Senate,,REP,Evan Jenkins,57
+Wayne,Precinct 13,U.S. Senate,,REP,Evan Jenkins,28
+Wayne,Precinct 14,U.S. Senate,,REP,Evan Jenkins,86
+Wayne,Precinct 16,U.S. Senate,,REP,Evan Jenkins,24
+Wayne,Precinct 17,U.S. Senate,,REP,Evan Jenkins,45
+Wayne,Precinct 18,U.S. Senate,,REP,Evan Jenkins,34
+Wayne,Precinct 19,U.S. Senate,,REP,Evan Jenkins,69
+Wayne,Precinct 20,U.S. Senate,,REP,Evan Jenkins,28
+Wayne,Precinct 21,U.S. Senate,,REP,Evan Jenkins,27
+Wayne,Precinct 22,U.S. Senate,,REP,Evan Jenkins,48
+Wayne,Precinct 30,U.S. Senate,,REP,Evan Jenkins,37
+Wayne,Precinct 31,U.S. Senate,,REP,Evan Jenkins,19
+Wayne,Precinct 34,U.S. Senate,,REP,Evan Jenkins,17
+Wayne,Precinct 36,U.S. Senate,,REP,Evan Jenkins,23
+Wayne,Precinct 37,U.S. Senate,,REP,Evan Jenkins,34
+Wayne,Precinct 41,U.S. Senate,,REP,Evan Jenkins,10
+Wayne,Precinct 42,U.S. Senate,,REP,Evan Jenkins,9
+Wayne,Precinct 45,U.S. Senate,,REP,Evan Jenkins,7
+Wayne,Precinct 48,U.S. Senate,,REP,Evan Jenkins,51
+Wayne,Precinct 49,U.S. Senate,,REP,Evan Jenkins,58
+Wayne,Precinct 50,U.S. Senate,,REP,Evan Jenkins,34
+Wayne,Precinct 51,U.S. Senate,,REP,Evan Jenkins,22
+Wayne,Precinct 52,U.S. Senate,,REP,Evan Jenkins,12
+Wayne,Precinct 53,U.S. Senate,,REP,Evan Jenkins,34
+Wayne,Precinct 54,U.S. Senate,,REP,Evan Jenkins,21
+Wayne,Precinct 56,U.S. Senate,,REP,Evan Jenkins,64
+Wayne,Precinct 57,U.S. Senate,,REP,Evan Jenkins,50
+Wayne,Precinct 59,U.S. Senate,,REP,Evan Jenkins,41
+Wayne,Precinct 60,U.S. Senate,,REP,Evan Jenkins,38
+Wayne,Precinct 61,U.S. Senate,,REP,Evan Jenkins,32
+Wayne,Precinct 62,U.S. Senate,,REP,Evan Jenkins,72
+Wayne,Precinct 63,U.S. Senate,,REP,Evan Jenkins,13
+Wayne,Precinct 1,U.S. Senate,,REP,Tom Willis,2
+Wayne,Precinct 5,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 6,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 12,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 13,U.S. Senate,,REP,Tom Willis,2
+Wayne,Precinct 14,U.S. Senate,,REP,Tom Willis,8
+Wayne,Precinct 16,U.S. Senate,,REP,Tom Willis,2
+Wayne,Precinct 17,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 18,U.S. Senate,,REP,Tom Willis,4
+Wayne,Precinct 19,U.S. Senate,,REP,Tom Willis,2
+Wayne,Precinct 20,U.S. Senate,,REP,Tom Willis,3
+Wayne,Precinct 21,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 22,U.S. Senate,,REP,Tom Willis,3
+Wayne,Precinct 30,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 31,U.S. Senate,,REP,Tom Willis,5
+Wayne,Precinct 34,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 36,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 37,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 41,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 42,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 45,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 48,U.S. Senate,,REP,Tom Willis,5
+Wayne,Precinct 49,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 50,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 51,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 52,U.S. Senate,,REP,Tom Willis,0
+Wayne,Precinct 53,U.S. Senate,,REP,Tom Willis,3
+Wayne,Precinct 54,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 56,U.S. Senate,,REP,Tom Willis,9
+Wayne,Precinct 57,U.S. Senate,,REP,Tom Willis,4
+Wayne,Precinct 59,U.S. Senate,,REP,Tom Willis,4
+Wayne,Precinct 60,U.S. Senate,,REP,Tom Willis,2
+Wayne,Precinct 61,U.S. Senate,,REP,Tom Willis,2
+Wayne,Precinct 62,U.S. Senate,,REP,Tom Willis,3
+Wayne,Precinct 63,U.S. Senate,,REP,Tom Willis,1
+Wayne,Precinct 1,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 5,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 6,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 12,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 13,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 14,U.S. Senate,,REP,Jack Newbrough,2
+Wayne,Precinct 16,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 17,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 18,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 19,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 20,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 21,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 22,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 30,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 31,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 34,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 36,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 37,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 41,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 42,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 45,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 48,U.S. Senate,,REP,Jack Newbrough,2
+Wayne,Precinct 49,U.S. Senate,,REP,Jack Newbrough,2
+Wayne,Precinct 50,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 51,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 52,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 53,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 54,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 56,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 57,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 59,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 60,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 61,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 62,U.S. Senate,,REP,Jack Newbrough,0
+Wayne,Precinct 63,U.S. Senate,,REP,Jack Newbrough,1
+Wayne,Precinct 1,U.S. House,3,REP,Carol Miller,47
+Wayne,Precinct 5,U.S. House,3,REP,Carol Miller,35
+Wayne,Precinct 6,U.S. House,3,REP,Carol Miller,17
+Wayne,Precinct 12,U.S. House,3,REP,Carol Miller,40
+Wayne,Precinct 13,U.S. House,3,REP,Carol Miller,29
+Wayne,Precinct 14,U.S. House,3,REP,Carol Miller,69
+Wayne,Precinct 16,U.S. House,3,REP,Carol Miller,23
+Wayne,Precinct 17,U.S. House,3,REP,Carol Miller,30
+Wayne,Precinct 18,U.S. House,3,REP,Carol Miller,22
+Wayne,Precinct 19,U.S. House,3,REP,Carol Miller,53
+Wayne,Precinct 20,U.S. House,3,REP,Carol Miller,17
+Wayne,Precinct 21,U.S. House,3,REP,Carol Miller,20
+Wayne,Precinct 22,U.S. House,3,REP,Carol Miller,41
+Wayne,Precinct 30,U.S. House,3,REP,Carol Miller,31
+Wayne,Precinct 31,U.S. House,3,REP,Carol Miller,14
+Wayne,Precinct 34,U.S. House,3,REP,Carol Miller,10
+Wayne,Precinct 36,U.S. House,3,REP,Carol Miller,18
+Wayne,Precinct 37,U.S. House,3,REP,Carol Miller,22
+Wayne,Precinct 41,U.S. House,3,REP,Carol Miller,14
+Wayne,Precinct 42,U.S. House,3,REP,Carol Miller,6
+Wayne,Precinct 45,U.S. House,3,REP,Carol Miller,4
+Wayne,Precinct 48,U.S. House,3,REP,Carol Miller,40
+Wayne,Precinct 49,U.S. House,3,REP,Carol Miller,55
+Wayne,Precinct 50,U.S. House,3,REP,Carol Miller,21
+Wayne,Precinct 51,U.S. House,3,REP,Carol Miller,17
+Wayne,Precinct 52,U.S. House,3,REP,Carol Miller,7
+Wayne,Precinct 53,U.S. House,3,REP,Carol Miller,32
+Wayne,Precinct 54,U.S. House,3,REP,Carol Miller,13
+Wayne,Precinct 56,U.S. House,3,REP,Carol Miller,60
+Wayne,Precinct 57,U.S. House,3,REP,Carol Miller,36
+Wayne,Precinct 59,U.S. House,3,REP,Carol Miller,36
+Wayne,Precinct 60,U.S. House,3,REP,Carol Miller,38
+Wayne,Precinct 61,U.S. House,3,REP,Carol Miller,24
+Wayne,Precinct 62,U.S. House,3,REP,Carol Miller,49
+Wayne,Precinct 63,U.S. House,3,REP,Carol Miller,15
+Wayne,Precinct 1,U.S. House,3,REP,Rupie Phillips,22
+Wayne,Precinct 5,U.S. House,3,REP,Rupie Phillips,11
+Wayne,Precinct 6,U.S. House,3,REP,Rupie Phillips,4
+Wayne,Precinct 12,U.S. House,3,REP,Rupie Phillips,4
+Wayne,Precinct 13,U.S. House,3,REP,Rupie Phillips,4
+Wayne,Precinct 14,U.S. House,3,REP,Rupie Phillips,7
+Wayne,Precinct 16,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 17,U.S. House,3,REP,Rupie Phillips,9
+Wayne,Precinct 18,U.S. House,3,REP,Rupie Phillips,4
+Wayne,Precinct 19,U.S. House,3,REP,Rupie Phillips,7
+Wayne,Precinct 20,U.S. House,3,REP,Rupie Phillips,3
+Wayne,Precinct 21,U.S. House,3,REP,Rupie Phillips,3
+Wayne,Precinct 22,U.S. House,3,REP,Rupie Phillips,8
+Wayne,Precinct 30,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 31,U.S. House,3,REP,Rupie Phillips,6
+Wayne,Precinct 34,U.S. House,3,REP,Rupie Phillips,7
+Wayne,Precinct 36,U.S. House,3,REP,Rupie Phillips,4
+Wayne,Precinct 37,U.S. House,3,REP,Rupie Phillips,11
+Wayne,Precinct 41,U.S. House,3,REP,Rupie Phillips,4
+Wayne,Precinct 42,U.S. House,3,REP,Rupie Phillips,1
+Wayne,Precinct 45,U.S. House,3,REP,Rupie Phillips,6
+Wayne,Precinct 48,U.S. House,3,REP,Rupie Phillips,8
+Wayne,Precinct 49,U.S. House,3,REP,Rupie Phillips,11
+Wayne,Precinct 50,U.S. House,3,REP,Rupie Phillips,6
+Wayne,Precinct 51,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 52,U.S. House,3,REP,Rupie Phillips,1
+Wayne,Precinct 53,U.S. House,3,REP,Rupie Phillips,8
+Wayne,Precinct 54,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 56,U.S. House,3,REP,Rupie Phillips,7
+Wayne,Precinct 57,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 59,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 60,U.S. House,3,REP,Rupie Phillips,3
+Wayne,Precinct 61,U.S. House,3,REP,Rupie Phillips,5
+Wayne,Precinct 62,U.S. House,3,REP,Rupie Phillips,7
+Wayne,Precinct 63,U.S. House,3,REP,Rupie Phillips,3
+Wayne,Precinct 1,U.S. House,3,REP,Conrad Lucas,43
+Wayne,Precinct 5,U.S. House,3,REP,Conrad Lucas,24
+Wayne,Precinct 6,U.S. House,3,REP,Conrad Lucas,4
+Wayne,Precinct 12,U.S. House,3,REP,Conrad Lucas,28
+Wayne,Precinct 13,U.S. House,3,REP,Conrad Lucas,17
+Wayne,Precinct 14,U.S. House,3,REP,Conrad Lucas,52
+Wayne,Precinct 16,U.S. House,3,REP,Conrad Lucas,10
+Wayne,Precinct 17,U.S. House,3,REP,Conrad Lucas,24
+Wayne,Precinct 18,U.S. House,3,REP,Conrad Lucas,20
+Wayne,Precinct 19,U.S. House,3,REP,Conrad Lucas,26
+Wayne,Precinct 20,U.S. House,3,REP,Conrad Lucas,23
+Wayne,Precinct 21,U.S. House,3,REP,Conrad Lucas,18
+Wayne,Precinct 22,U.S. House,3,REP,Conrad Lucas,22
+Wayne,Precinct 30,U.S. House,3,REP,Conrad Lucas,14
+Wayne,Precinct 31,U.S. House,3,REP,Conrad Lucas,14
+Wayne,Precinct 34,U.S. House,3,REP,Conrad Lucas,7
+Wayne,Precinct 36,U.S. House,3,REP,Conrad Lucas,16
+Wayne,Precinct 37,U.S. House,3,REP,Conrad Lucas,21
+Wayne,Precinct 41,U.S. House,3,REP,Conrad Lucas,9
+Wayne,Precinct 42,U.S. House,3,REP,Conrad Lucas,4
+Wayne,Precinct 45,U.S. House,3,REP,Conrad Lucas,9
+Wayne,Precinct 48,U.S. House,3,REP,Conrad Lucas,26
+Wayne,Precinct 49,U.S. House,3,REP,Conrad Lucas,21
+Wayne,Precinct 50,U.S. House,3,REP,Conrad Lucas,14
+Wayne,Precinct 51,U.S. House,3,REP,Conrad Lucas,12
+Wayne,Precinct 52,U.S. House,3,REP,Conrad Lucas,10
+Wayne,Precinct 53,U.S. House,3,REP,Conrad Lucas,19
+Wayne,Precinct 54,U.S. House,3,REP,Conrad Lucas,16
+Wayne,Precinct 56,U.S. House,3,REP,Conrad Lucas,32
+Wayne,Precinct 57,U.S. House,3,REP,Conrad Lucas,20
+Wayne,Precinct 59,U.S. House,3,REP,Conrad Lucas,25
+Wayne,Precinct 60,U.S. House,3,REP,Conrad Lucas,22
+Wayne,Precinct 61,U.S. House,3,REP,Conrad Lucas,16
+Wayne,Precinct 62,U.S. House,3,REP,Conrad Lucas,40
+Wayne,Precinct 63,U.S. House,3,REP,Conrad Lucas,7
+Wayne,Precinct 1,U.S. House,3,REP,Philip Payton,7
+Wayne,Precinct 5,U.S. House,3,REP,Philip Payton,4
+Wayne,Precinct 6,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 12,U.S. House,3,REP,Philip Payton,5
+Wayne,Precinct 13,U.S. House,3,REP,Philip Payton,3
+Wayne,Precinct 14,U.S. House,3,REP,Philip Payton,6
+Wayne,Precinct 16,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 17,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 18,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 19,U.S. House,3,REP,Philip Payton,3
+Wayne,Precinct 20,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 21,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 22,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 30,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 31,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 34,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 36,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 37,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 41,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 42,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 45,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 48,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 49,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 50,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 51,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 52,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 53,U.S. House,3,REP,Philip Payton,4
+Wayne,Precinct 54,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 56,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 57,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 59,U.S. House,3,REP,Philip Payton,3
+Wayne,Precinct 60,U.S. House,3,REP,Philip Payton,0
+Wayne,Precinct 61,U.S. House,3,REP,Philip Payton,1
+Wayne,Precinct 62,U.S. House,3,REP,Philip Payton,3
+Wayne,Precinct 63,U.S. House,3,REP,Philip Payton,2
+Wayne,Precinct 1,U.S. House,3,REP,Marty Gearheart,10
+Wayne,Precinct 5,U.S. House,3,REP,Marty Gearheart,5
+Wayne,Precinct 6,U.S. House,3,REP,Marty Gearheart,6
+Wayne,Precinct 12,U.S. House,3,REP,Marty Gearheart,7
+Wayne,Precinct 13,U.S. House,3,REP,Marty Gearheart,4
+Wayne,Precinct 14,U.S. House,3,REP,Marty Gearheart,13
+Wayne,Precinct 16,U.S. House,3,REP,Marty Gearheart,1
+Wayne,Precinct 17,U.S. House,3,REP,Marty Gearheart,4
+Wayne,Precinct 18,U.S. House,3,REP,Marty Gearheart,10
+Wayne,Precinct 19,U.S. House,3,REP,Marty Gearheart,11
+Wayne,Precinct 20,U.S. House,3,REP,Marty Gearheart,5
+Wayne,Precinct 21,U.S. House,3,REP,Marty Gearheart,2
+Wayne,Precinct 22,U.S. House,3,REP,Marty Gearheart,3
+Wayne,Precinct 30,U.S. House,3,REP,Marty Gearheart,4
+Wayne,Precinct 31,U.S. House,3,REP,Marty Gearheart,3
+Wayne,Precinct 34,U.S. House,3,REP,Marty Gearheart,4
+Wayne,Precinct 36,U.S. House,3,REP,Marty Gearheart,3
+Wayne,Precinct 37,U.S. House,3,REP,Marty Gearheart,2
+Wayne,Precinct 41,U.S. House,3,REP,Marty Gearheart,1
+Wayne,Precinct 42,U.S. House,3,REP,Marty Gearheart,2
+Wayne,Precinct 45,U.S. House,3,REP,Marty Gearheart,0
+Wayne,Precinct 48,U.S. House,3,REP,Marty Gearheart,7
+Wayne,Precinct 49,U.S. House,3,REP,Marty Gearheart,3
+Wayne,Precinct 50,U.S. House,3,REP,Marty Gearheart,7
+Wayne,Precinct 51,U.S. House,3,REP,Marty Gearheart,2
+Wayne,Precinct 52,U.S. House,3,REP,Marty Gearheart,1
+Wayne,Precinct 53,U.S. House,3,REP,Marty Gearheart,7
+Wayne,Precinct 54,U.S. House,3,REP,Marty Gearheart,4
+Wayne,Precinct 56,U.S. House,3,REP,Marty Gearheart,4
+Wayne,Precinct 57,U.S. House,3,REP,Marty Gearheart,8
+Wayne,Precinct 59,U.S. House,3,REP,Marty Gearheart,5
+Wayne,Precinct 60,U.S. House,3,REP,Marty Gearheart,5
+Wayne,Precinct 61,U.S. House,3,REP,Marty Gearheart,0
+Wayne,Precinct 62,U.S. House,3,REP,Marty Gearheart,5
+Wayne,Precinct 63,U.S. House,3,REP,Marty Gearheart,2
+Wayne,Precinct 1,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 5,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 6,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 12,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 13,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 14,U.S. House,3,REP,Rick Snuffer,11
+Wayne,Precinct 16,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 17,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 18,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 19,U.S. House,3,REP,Rick Snuffer,4
+Wayne,Precinct 20,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 21,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 22,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 30,U.S. House,3,REP,Rick Snuffer,3
+Wayne,Precinct 31,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 34,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 36,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 37,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 41,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 42,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 45,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 48,U.S. House,3,REP,Rick Snuffer,5
+Wayne,Precinct 49,U.S. House,3,REP,Rick Snuffer,6
+Wayne,Precinct 50,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 51,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 52,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 53,U.S. House,3,REP,Rick Snuffer,4
+Wayne,Precinct 54,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 56,U.S. House,3,REP,Rick Snuffer,2
+Wayne,Precinct 57,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 59,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 60,U.S. House,3,REP,Rick Snuffer,0
+Wayne,Precinct 61,U.S. House,3,REP,Rick Snuffer,3
+Wayne,Precinct 62,U.S. House,3,REP,Rick Snuffer,3
+Wayne,Precinct 63,U.S. House,3,REP,Rick Snuffer,1
+Wayne,Precinct 1,U.S. House,3,REP,Ayne Amjad,4
+Wayne,Precinct 5,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 6,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 12,U.S. House,3,REP,Ayne Amjad,2
+Wayne,Precinct 13,U.S. House,3,REP,Ayne Amjad,2
+Wayne,Precinct 14,U.S. House,3,REP,Ayne Amjad,2
+Wayne,Precinct 16,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 17,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 18,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 19,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 20,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 21,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 22,U.S. House,3,REP,Ayne Amjad,2
+Wayne,Precinct 30,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 31,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 34,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 36,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 37,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 41,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 42,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 45,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 48,U.S. House,3,REP,Ayne Amjad,3
+Wayne,Precinct 49,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 50,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 51,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 52,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 53,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 54,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 56,U.S. House,3,REP,Ayne Amjad,3
+Wayne,Precinct 57,U.S. House,3,REP,Ayne Amjad,1
+Wayne,Precinct 59,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 60,U.S. House,3,REP,Ayne Amjad,2
+Wayne,Precinct 61,U.S. House,3,REP,Ayne Amjad,2
+Wayne,Precinct 62,U.S. House,3,REP,Ayne Amjad,3
+Wayne,Precinct 63,U.S. House,3,REP,Ayne Amjad,0
+Wayne,Precinct 12,State Senate,5,REP,Larry Brooke Lunsford,45
+Wayne,Precinct 13,State Senate,5,REP,Larry Brooke Lunsford,37
+Wayne,Precinct 14,State Senate,5,REP,Larry Brooke Lunsford,96
+Wayne,Precinct 16,State Senate,5,REP,Larry Brooke Lunsford,19
+Wayne,Precinct 17,State Senate,5,REP,Larry Brooke Lunsford,41
+Wayne,Precinct 20,State Senate,5,REP,Larry Brooke Lunsford,25
+Wayne,Precinct 21,State Senate,5,REP,Larry Brooke Lunsford,24
+Wayne,Precinct 56,State Senate,5,REP,Larry Brooke Lunsford,72
+Wayne,Precinct 57,State Senate,5,REP,Larry Brooke Lunsford,45
+Wayne,Precinct 59,State Senate,5,REP,Larry Brooke Lunsford,49
+Wayne,Precinct 60,State Senate,5,REP,Larry Brooke Lunsford,46
+Wayne,Precinct 61,State Senate,5,REP,Larry Brooke Lunsford,30
+Wayne,Precinct 62,State Senate,5,REP,Larry Brooke Lunsford,66
+Wayne,Precinct 63,State Senate,5,REP,Larry Brooke Lunsford,19
+Wayne,Precinct 1,State Senate,6,REP,Wesley Blankenship,47
+Wayne,Precinct 5,State Senate,6,REP,Wesley Blankenship,22
+Wayne,Precinct 6,State Senate,6,REP,Wesley Blankenship,9
+Wayne,Precinct 18,State Senate,6,REP,Wesley Blankenship,20
+Wayne,Precinct 30,State Senate,6,REP,Wesley Blankenship,19
+Wayne,Precinct 31,State Senate,6,REP,Wesley Blankenship,14
+Wayne,Precinct 34,State Senate,6,REP,Wesley Blankenship,17
+Wayne,Precinct 36,State Senate,6,REP,Wesley Blankenship,17
+Wayne,Precinct 37,State Senate,6,REP,Wesley Blankenship,22
+Wayne,Precinct 1,State Senate,6,REP,Mark R. Maynard,88
+Wayne,Precinct 5,State Senate,6,REP,Mark R. Maynard,61
+Wayne,Precinct 6,State Senate,6,REP,Mark R. Maynard,26
+Wayne,Precinct 18,State Senate,6,REP,Mark R. Maynard,38
+Wayne,Precinct 30,State Senate,6,REP,Mark R. Maynard,50
+Wayne,Precinct 31,State Senate,6,REP,Mark R. Maynard,27
+Wayne,Precinct 34,State Senate,6,REP,Mark R. Maynard,16
+Wayne,Precinct 36,State Senate,6,REP,Mark R. Maynard,36
+Wayne,Precinct 37,State Senate,6,REP,Mark R. Maynard,38
+Wayne,Precinct 19,State Senate,7,REP,Jason Stephens,96
+Wayne,Precinct 22,State Senate,7,REP,Jason Stephens,65
+Wayne,Precinct 41,State Senate,7,REP,Jason Stephens,21
+Wayne,Precinct 42,State Senate,7,REP,Jason Stephens,11
+Wayne,Precinct 45,State Senate,7,REP,Jason Stephens,11
+Wayne,Precinct 48,State Senate,7,REP,Jason Stephens,79
+Wayne,Precinct 49,State Senate,7,REP,Jason Stephens,78
+Wayne,Precinct 50,State Senate,7,REP,Jason Stephens,38
+Wayne,Precinct 51,State Senate,7,REP,Jason Stephens,38
+Wayne,Precinct 52,State Senate,7,REP,Jason Stephens,21
+Wayne,Precinct 53,State Senate,7,REP,Jason Stephens,58
+Wayne,Precinct 54,State Senate,7,REP,Jason Stephens,26
+Wayne,Precinct 19,State Senate,7,REP,Gary L. Johngrass,4
+Wayne,Precinct 22,State Senate,7,REP,Gary L. Johngrass,9
+Wayne,Precinct 41,State Senate,7,REP,Gary L. Johngrass,7
+Wayne,Precinct 42,State Senate,7,REP,Gary L. Johngrass,1
+Wayne,Precinct 45,State Senate,7,REP,Gary L. Johngrass,5
+Wayne,Precinct 48,State Senate,7,REP,Gary L. Johngrass,8
+Wayne,Precinct 49,State Senate,7,REP,Gary L. Johngrass,9
+Wayne,Precinct 50,State Senate,7,REP,Gary L. Johngrass,7
+Wayne,Precinct 51,State Senate,7,REP,Gary L. Johngrass,2
+Wayne,Precinct 52,State Senate,7,REP,Gary L. Johngrass,1
+Wayne,Precinct 53,State Senate,7,REP,Gary L. Johngrass,7
+Wayne,Precinct 54,State Senate,7,REP,Gary L. Johngrass,7
+Wayne,Precinct 56,State House,17,REP,Matthew Rohrbach,87
+Wayne,Precinct 59,State House,17,REP,Matthew Rohrbach,56
+Wayne,Precinct 60,State House,17,REP,Matthew Rohrbach,58
+Wayne,Precinct 61,State House,17,REP,Matthew Rohrbach,38
+Wayne,Precinct 63,State House,17,REP,Matthew Rohrbach,24
+Wayne,Precinct 56,State House,17,REP,Joyce W. Holland,46
+Wayne,Precinct 59,State House,17,REP,Joyce W. Holland,33
+Wayne,Precinct 60,State House,17,REP,Joyce W. Holland,38
+Wayne,Precinct 61,State House,17,REP,Joyce W. Holland,24
+Wayne,Precinct 63,State House,17,REP,Joyce W. Holland,14
+Wayne,Precinct 1,State House,19,REP,Mark Ross,123
+Wayne,Precinct 5,State House,19,REP,Mark Ross,84
+Wayne,Precinct 6,State House,19,REP,Mark Ross,37
+Wayne,Precinct 12,State House,19,REP,Mark Ross,81
+Wayne,Precinct 13,State House,19,REP,Mark Ross,50
+Wayne,Precinct 14,State House,19,REP,Mark Ross,132
+Wayne,Precinct 16,State House,19,REP,Mark Ross,38
+Wayne,Precinct 17,State House,19,REP,Mark Ross,64
+Wayne,Precinct 18,State House,19,REP,Mark Ross,58
+Wayne,Precinct 19,State House,19,REP,Mark Ross,96
+Wayne,Precinct 20,State House,19,REP,Mark Ross,39
+Wayne,Precinct 21,State House,19,REP,Mark Ross,35
+Wayne,Precinct 22,State House,19,REP,Mark Ross,63
+Wayne,Precinct 30,State House,19,REP,Mark Ross,57
+Wayne,Precinct 31,State House,19,REP,Mark Ross,30
+Wayne,Precinct 34,State House,19,REP,Mark Ross,27
+Wayne,Precinct 36,State House,19,REP,Mark Ross,36
+Wayne,Precinct 37,State House,19,REP,Mark Ross,39
+Wayne,Precinct 41,State House,19,REP,Mark Ross,29
+Wayne,Precinct 42,State House,19,REP,Mark Ross,10
+Wayne,Precinct 45,State House,19,REP,Mark Ross,16
+Wayne,Precinct 48,State House,19,REP,Mark Ross,81
+Wayne,Precinct 49,State House,19,REP,Mark Ross,84
+Wayne,Precinct 50,State House,19,REP,Mark Ross,43
+Wayne,Precinct 51,State House,19,REP,Mark Ross,37
+Wayne,Precinct 52,State House,19,REP,Mark Ross,21
+Wayne,Precinct 53,State House,19,REP,Mark Ross,67
+Wayne,Precinct 54,State House,19,REP,Mark Ross,36
+Wayne,Precinct 57,State House,19,REP,Mark Ross,64
+Wayne,Precinct 62,State House,19,REP,Mark Ross,87
+Wayne,Precinct 1,U.S. Senate,,DEM,Paula Jean Swearengin,74
+Wayne,Precinct 5,U.S. Senate,,DEM,Paula Jean Swearengin,48
+Wayne,Precinct 6,U.S. Senate,,DEM,Paula Jean Swearengin,13
+Wayne,Precinct 12,U.S. Senate,,DEM,Paula Jean Swearengin,41
+Wayne,Precinct 13,U.S. Senate,,DEM,Paula Jean Swearengin,31
+Wayne,Precinct 14,U.S. Senate,,DEM,Paula Jean Swearengin,62
+Wayne,Precinct 16,U.S. Senate,,DEM,Paula Jean Swearengin,18
+Wayne,Precinct 17,U.S. Senate,,DEM,Paula Jean Swearengin,26
+Wayne,Precinct 18,U.S. Senate,,DEM,Paula Jean Swearengin,44
+Wayne,Precinct 19,U.S. Senate,,DEM,Paula Jean Swearengin,53
+Wayne,Precinct 20,U.S. Senate,,DEM,Paula Jean Swearengin,17
+Wayne,Precinct 21,U.S. Senate,,DEM,Paula Jean Swearengin,21
+Wayne,Precinct 22,U.S. Senate,,DEM,Paula Jean Swearengin,29
+Wayne,Precinct 30,U.S. Senate,,DEM,Paula Jean Swearengin,57
+Wayne,Precinct 31,U.S. Senate,,DEM,Paula Jean Swearengin,19
+Wayne,Precinct 34,U.S. Senate,,DEM,Paula Jean Swearengin,25
+Wayne,Precinct 36,U.S. Senate,,DEM,Paula Jean Swearengin,32
+Wayne,Precinct 37,U.S. Senate,,DEM,Paula Jean Swearengin,22
+Wayne,Precinct 41,U.S. Senate,,DEM,Paula Jean Swearengin,24
+Wayne,Precinct 42,U.S. Senate,,DEM,Paula Jean Swearengin,21
+Wayne,Precinct 45,U.S. Senate,,DEM,Paula Jean Swearengin,23
+Wayne,Precinct 48,U.S. Senate,,DEM,Paula Jean Swearengin,41
+Wayne,Precinct 49,U.S. Senate,,DEM,Paula Jean Swearengin,75
+Wayne,Precinct 50,U.S. Senate,,DEM,Paula Jean Swearengin,71
+Wayne,Precinct 51,U.S. Senate,,DEM,Paula Jean Swearengin,58
+Wayne,Precinct 52,U.S. Senate,,DEM,Paula Jean Swearengin,34
+Wayne,Precinct 53,U.S. Senate,,DEM,Paula Jean Swearengin,47
+Wayne,Precinct 54,U.S. Senate,,DEM,Paula Jean Swearengin,36
+Wayne,Precinct 56,U.S. Senate,,DEM,Paula Jean Swearengin,44
+Wayne,Precinct 57,U.S. Senate,,DEM,Paula Jean Swearengin,27
+Wayne,Precinct 59,U.S. Senate,,DEM,Paula Jean Swearengin,24
+Wayne,Precinct 60,U.S. Senate,,DEM,Paula Jean Swearengin,21
+Wayne,Precinct 61,U.S. Senate,,DEM,Paula Jean Swearengin,38
+Wayne,Precinct 62,U.S. Senate,,DEM,Paula Jean Swearengin,37
+Wayne,Precinct 63,U.S. Senate,,DEM,Paula Jean Swearengin,22
+Wayne,Precinct 1,U.S. Senate,,DEM,Joseph Manchin III,112
+Wayne,Precinct 5,U.S. Senate,,DEM,Joseph Manchin III,106
+Wayne,Precinct 6,U.S. Senate,,DEM,Joseph Manchin III,52
+Wayne,Precinct 12,U.S. Senate,,DEM,Joseph Manchin III,123
+Wayne,Precinct 13,U.S. Senate,,DEM,Joseph Manchin III,92
+Wayne,Precinct 14,U.S. Senate,,DEM,Joseph Manchin III,163
+Wayne,Precinct 16,U.S. Senate,,DEM,Joseph Manchin III,48
+Wayne,Precinct 17,U.S. Senate,,DEM,Joseph Manchin III,99
+Wayne,Precinct 18,U.S. Senate,,DEM,Joseph Manchin III,74
+Wayne,Precinct 19,U.S. Senate,,DEM,Joseph Manchin III,90
+Wayne,Precinct 20,U.S. Senate,,DEM,Joseph Manchin III,85
+Wayne,Precinct 21,U.S. Senate,,DEM,Joseph Manchin III,67
+Wayne,Precinct 22,U.S. Senate,,DEM,Joseph Manchin III,90
+Wayne,Precinct 30,U.S. Senate,,DEM,Joseph Manchin III,124
+Wayne,Precinct 31,U.S. Senate,,DEM,Joseph Manchin III,59
+Wayne,Precinct 34,U.S. Senate,,DEM,Joseph Manchin III,94
+Wayne,Precinct 36,U.S. Senate,,DEM,Joseph Manchin III,113
+Wayne,Precinct 37,U.S. Senate,,DEM,Joseph Manchin III,67
+Wayne,Precinct 41,U.S. Senate,,DEM,Joseph Manchin III,54
+Wayne,Precinct 42,U.S. Senate,,DEM,Joseph Manchin III,48
+Wayne,Precinct 45,U.S. Senate,,DEM,Joseph Manchin III,86
+Wayne,Precinct 48,U.S. Senate,,DEM,Joseph Manchin III,117
+Wayne,Precinct 49,U.S. Senate,,DEM,Joseph Manchin III,154
+Wayne,Precinct 50,U.S. Senate,,DEM,Joseph Manchin III,116
+Wayne,Precinct 51,U.S. Senate,,DEM,Joseph Manchin III,156
+Wayne,Precinct 52,U.S. Senate,,DEM,Joseph Manchin III,46
+Wayne,Precinct 53,U.S. Senate,,DEM,Joseph Manchin III,113
+Wayne,Precinct 54,U.S. Senate,,DEM,Joseph Manchin III,99
+Wayne,Precinct 56,U.S. Senate,,DEM,Joseph Manchin III,112
+Wayne,Precinct 57,U.S. Senate,,DEM,Joseph Manchin III,78
+Wayne,Precinct 59,U.S. Senate,,DEM,Joseph Manchin III,86
+Wayne,Precinct 60,U.S. Senate,,DEM,Joseph Manchin III,89
+Wayne,Precinct 61,U.S. Senate,,DEM,Joseph Manchin III,76
+Wayne,Precinct 62,U.S. Senate,,DEM,Joseph Manchin III,134
+Wayne,Precinct 63,U.S. Senate,,DEM,Joseph Manchin III,51
+Wayne,Precinct 1,U.S. House,3,DEM,Richard Ojeda II,97
+Wayne,Precinct 5,U.S. House,3,DEM,Richard Ojeda II,73
+Wayne,Precinct 6,U.S. House,3,DEM,Richard Ojeda II,21
+Wayne,Precinct 12,U.S. House,3,DEM,Richard Ojeda II,50
+Wayne,Precinct 13,U.S. House,3,DEM,Richard Ojeda II,50
+Wayne,Precinct 14,U.S. House,3,DEM,Richard Ojeda II,123
+Wayne,Precinct 16,U.S. House,3,DEM,Richard Ojeda II,35
+Wayne,Precinct 17,U.S. House,3,DEM,Richard Ojeda II,49
+Wayne,Precinct 18,U.S. House,3,DEM,Richard Ojeda II,57
+Wayne,Precinct 19,U.S. House,3,DEM,Richard Ojeda II,75
+Wayne,Precinct 20,U.S. House,3,DEM,Richard Ojeda II,45
+Wayne,Precinct 21,U.S. House,3,DEM,Richard Ojeda II,31
+Wayne,Precinct 22,U.S. House,3,DEM,Richard Ojeda II,59
+Wayne,Precinct 30,U.S. House,3,DEM,Richard Ojeda II,116
+Wayne,Precinct 31,U.S. House,3,DEM,Richard Ojeda II,40
+Wayne,Precinct 34,U.S. House,3,DEM,Richard Ojeda II,85
+Wayne,Precinct 36,U.S. House,3,DEM,Richard Ojeda II,84
+Wayne,Precinct 37,U.S. House,3,DEM,Richard Ojeda II,62
+Wayne,Precinct 41,U.S. House,3,DEM,Richard Ojeda II,54
+Wayne,Precinct 42,U.S. House,3,DEM,Richard Ojeda II,50
+Wayne,Precinct 45,U.S. House,3,DEM,Richard Ojeda II,61
+Wayne,Precinct 48,U.S. House,3,DEM,Richard Ojeda II,84
+Wayne,Precinct 49,U.S. House,3,DEM,Richard Ojeda II,129
+Wayne,Precinct 50,U.S. House,3,DEM,Richard Ojeda II,118
+Wayne,Precinct 51,U.S. House,3,DEM,Richard Ojeda II,115
+Wayne,Precinct 52,U.S. House,3,DEM,Richard Ojeda II,42
+Wayne,Precinct 53,U.S. House,3,DEM,Richard Ojeda II,83
+Wayne,Precinct 54,U.S. House,3,DEM,Richard Ojeda II,69
+Wayne,Precinct 56,U.S. House,3,DEM,Richard Ojeda II,78
+Wayne,Precinct 57,U.S. House,3,DEM,Richard Ojeda II,39
+Wayne,Precinct 59,U.S. House,3,DEM,Richard Ojeda II,56
+Wayne,Precinct 60,U.S. House,3,DEM,Richard Ojeda II,57
+Wayne,Precinct 61,U.S. House,3,DEM,Richard Ojeda II,58
+Wayne,Precinct 62,U.S. House,3,DEM,Richard Ojeda II,81
+Wayne,Precinct 63,U.S. House,3,DEM,Richard Ojeda II,35
+Wayne,Precinct 1,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",8
+Wayne,Precinct 5,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 6,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 12,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",5
+Wayne,Precinct 13,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",0
+Wayne,Precinct 14,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",10
+Wayne,Precinct 16,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 17,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",2
+Wayne,Precinct 18,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",4
+Wayne,Precinct 19,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",1
+Wayne,Precinct 20,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 21,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",4
+Wayne,Precinct 22,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",7
+Wayne,Precinct 30,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",6
+Wayne,Precinct 31,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",5
+Wayne,Precinct 34,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",7
+Wayne,Precinct 36,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 37,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",2
+Wayne,Precinct 41,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",2
+Wayne,Precinct 42,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 45,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 48,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",0
+Wayne,Precinct 49,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 50,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",5
+Wayne,Precinct 51,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",5
+Wayne,Precinct 52,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 53,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 54,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 56,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",4
+Wayne,Precinct 57,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",2
+Wayne,Precinct 59,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",3
+Wayne,Precinct 60,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",1
+Wayne,Precinct 61,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",4
+Wayne,Precinct 62,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",4
+Wayne,Precinct 63,U.S. House,3,DEM,"Janice ""Byrd"" Hagerman",2
+Wayne,Precinct 1,U.S. House,3,DEM,Paul E. Davis,81
+Wayne,Precinct 5,U.S. House,3,DEM,Paul E. Davis,71
+Wayne,Precinct 6,U.S. House,3,DEM,Paul E. Davis,33
+Wayne,Precinct 12,U.S. House,3,DEM,Paul E. Davis,101
+Wayne,Precinct 13,U.S. House,3,DEM,Paul E. Davis,63
+Wayne,Precinct 14,U.S. House,3,DEM,Paul E. Davis,93
+Wayne,Precinct 16,U.S. House,3,DEM,Paul E. Davis,31
+Wayne,Precinct 17,U.S. House,3,DEM,Paul E. Davis,62
+Wayne,Precinct 18,U.S. House,3,DEM,Paul E. Davis,53
+Wayne,Precinct 19,U.S. House,3,DEM,Paul E. Davis,57
+Wayne,Precinct 20,U.S. House,3,DEM,Paul E. Davis,50
+Wayne,Precinct 21,U.S. House,3,DEM,Paul E. Davis,47
+Wayne,Precinct 22,U.S. House,3,DEM,Paul E. Davis,41
+Wayne,Precinct 30,U.S. House,3,DEM,Paul E. Davis,55
+Wayne,Precinct 31,U.S. House,3,DEM,Paul E. Davis,25
+Wayne,Precinct 34,U.S. House,3,DEM,Paul E. Davis,30
+Wayne,Precinct 36,U.S. House,3,DEM,Paul E. Davis,31
+Wayne,Precinct 37,U.S. House,3,DEM,Paul E. Davis,15
+Wayne,Precinct 41,U.S. House,3,DEM,Paul E. Davis,14
+Wayne,Precinct 42,U.S. House,3,DEM,Paul E. Davis,18
+Wayne,Precinct 45,U.S. House,3,DEM,Paul E. Davis,44
+Wayne,Precinct 48,U.S. House,3,DEM,Paul E. Davis,68
+Wayne,Precinct 49,U.S. House,3,DEM,Paul E. Davis,81
+Wayne,Precinct 50,U.S. House,3,DEM,Paul E. Davis,59
+Wayne,Precinct 51,U.S. House,3,DEM,Paul E. Davis,72
+Wayne,Precinct 52,U.S. House,3,DEM,Paul E. Davis,29
+Wayne,Precinct 53,U.S. House,3,DEM,Paul E. Davis,62
+Wayne,Precinct 54,U.S. House,3,DEM,Paul E. Davis,54
+Wayne,Precinct 56,U.S. House,3,DEM,Paul E. Davis,65
+Wayne,Precinct 57,U.S. House,3,DEM,Paul E. Davis,55
+Wayne,Precinct 59,U.S. House,3,DEM,Paul E. Davis,49
+Wayne,Precinct 60,U.S. House,3,DEM,Paul E. Davis,47
+Wayne,Precinct 61,U.S. House,3,DEM,Paul E. Davis,49
+Wayne,Precinct 62,U.S. House,3,DEM,Paul E. Davis,69
+Wayne,Precinct 63,U.S. House,3,DEM,Paul E. Davis,33
+Wayne,Precinct 1,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 5,U.S. House,3,DEM,Mr. Shirley Love,6
+Wayne,Precinct 6,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 12,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 13,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 14,U.S. House,3,DEM,Mr. Shirley Love,4
+Wayne,Precinct 16,U.S. House,3,DEM,Mr. Shirley Love,1
+Wayne,Precinct 17,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 18,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 19,U.S. House,3,DEM,Mr. Shirley Love,6
+Wayne,Precinct 20,U.S. House,3,DEM,Mr. Shirley Love,1
+Wayne,Precinct 21,U.S. House,3,DEM,Mr. Shirley Love,4
+Wayne,Precinct 22,U.S. House,3,DEM,Mr. Shirley Love,4
+Wayne,Precinct 30,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 31,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 34,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 36,U.S. House,3,DEM,Mr. Shirley Love,9
+Wayne,Precinct 37,U.S. House,3,DEM,Mr. Shirley Love,12
+Wayne,Precinct 41,U.S. House,3,DEM,Mr. Shirley Love,4
+Wayne,Precinct 42,U.S. House,3,DEM,Mr. Shirley Love,2
+Wayne,Precinct 45,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 48,U.S. House,3,DEM,Mr. Shirley Love,6
+Wayne,Precinct 49,U.S. House,3,DEM,Mr. Shirley Love,7
+Wayne,Precinct 50,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 51,U.S. House,3,DEM,Mr. Shirley Love,13
+Wayne,Precinct 52,U.S. House,3,DEM,Mr. Shirley Love,2
+Wayne,Precinct 53,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 54,U.S. House,3,DEM,Mr. Shirley Love,6
+Wayne,Precinct 56,U.S. House,3,DEM,Mr. Shirley Love,5
+Wayne,Precinct 57,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 59,U.S. House,3,DEM,Mr. Shirley Love,2
+Wayne,Precinct 60,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 61,U.S. House,3,DEM,Mr. Shirley Love,1
+Wayne,Precinct 62,U.S. House,3,DEM,Mr. Shirley Love,4
+Wayne,Precinct 63,U.S. House,3,DEM,Mr. Shirley Love,3
+Wayne,Precinct 12,State Senate,5,DEM,Mike Woelfel,131
+Wayne,Precinct 13,State Senate,5,DEM,Mike Woelfel,93
+Wayne,Precinct 14,State Senate,5,DEM,Mike Woelfel,189
+Wayne,Precinct 16,State Senate,5,DEM,Mike Woelfel,57
+Wayne,Precinct 17,State Senate,5,DEM,Mike Woelfel,89
+Wayne,Precinct 20,State Senate,5,DEM,Mike Woelfel,79
+Wayne,Precinct 21,State Senate,5,DEM,Mike Woelfel,70
+Wayne,Precinct 56,State Senate,5,DEM,Mike Woelfel,135
+Wayne,Precinct 57,State Senate,5,DEM,Mike Woelfel,86
+Wayne,Precinct 59,State Senate,5,DEM,Mike Woelfel,94
+Wayne,Precinct 60,State Senate,5,DEM,Mike Woelfel,100
+Wayne,Precinct 61,State Senate,5,DEM,Mike Woelfel,101
+Wayne,Precinct 62,State Senate,5,DEM,Mike Woelfel,141
+Wayne,Precinct 63,State Senate,5,DEM,Mike Woelfel,67
+Wayne,Precinct 1,State Senate,6,DEM,Charles E. Sammons,172
+Wayne,Precinct 5,State Senate,6,DEM,Charles E. Sammons,123
+Wayne,Precinct 6,State Senate,6,DEM,Charles E. Sammons,65
+Wayne,Precinct 18,State Senate,6,DEM,Charles E. Sammons,101
+Wayne,Precinct 30,State Senate,6,DEM,Charles E. Sammons,146
+Wayne,Precinct 31,State Senate,6,DEM,Charles E. Sammons,65
+Wayne,Precinct 34,State Senate,6,DEM,Charles E. Sammons,111
+Wayne,Precinct 36,State Senate,6,DEM,Charles E. Sammons,114
+Wayne,Precinct 37,State Senate,6,DEM,Charles E. Sammons,72
+Wayne,Precinct 19,State Senate,7,DEM,Ron Stollings,96
+Wayne,Precinct 22,State Senate,7,DEM,Ron Stollings,70
+Wayne,Precinct 41,State Senate,7,DEM,Ron Stollings,43
+Wayne,Precinct 42,State Senate,7,DEM,Ron Stollings,44
+Wayne,Precinct 45,State Senate,7,DEM,Ron Stollings,68
+Wayne,Precinct 48,State Senate,7,DEM,Ron Stollings,90
+Wayne,Precinct 49,State Senate,7,DEM,Ron Stollings,129
+Wayne,Precinct 50,State Senate,7,DEM,Ron Stollings,115
+Wayne,Precinct 51,State Senate,7,DEM,Ron Stollings,105
+Wayne,Precinct 52,State Senate,7,DEM,Ron Stollings,40
+Wayne,Precinct 53,State Senate,7,DEM,Ron Stollings,99
+Wayne,Precinct 54,State Senate,7,DEM,Ron Stollings,71
+Wayne,Precinct 56,State House,17,DEM,Chad Lovejoy,78
+Wayne,Precinct 59,State House,17,DEM,Chad Lovejoy,67
+Wayne,Precinct 60,State House,17,DEM,Chad Lovejoy,70
+Wayne,Precinct 61,State House,17,DEM,Chad Lovejoy,71
+Wayne,Precinct 63,State House,17,DEM,Chad Lovejoy,41
+Wayne,Precinct 56,State House,17,DEM,Jeanette M. Rowsey,48
+Wayne,Precinct 59,State House,17,DEM,Jeanette M. Rowsey,37
+Wayne,Precinct 60,State House,17,DEM,Jeanette M. Rowsey,38
+Wayne,Precinct 61,State House,17,DEM,Jeanette M. Rowsey,34
+Wayne,Precinct 63,State House,17,DEM,Jeanette M. Rowsey,39
+Wayne,Precinct 56,State House,17,DEM,Christopher Hughart,65
+Wayne,Precinct 59,State House,17,DEM,Christopher Hughart,41
+Wayne,Precinct 60,State House,17,DEM,Christopher Hughart,39
+Wayne,Precinct 61,State House,17,DEM,Christopher Hughart,37
+Wayne,Precinct 63,State House,17,DEM,Christopher Hughart,31
+Wayne,Precinct 1,State House,19,DEM,Robert Thompson,177
+Wayne,Precinct 5,State House,19,DEM,Robert Thompson,119
+Wayne,Precinct 6,State House,19,DEM,Robert Thompson,67
+Wayne,Precinct 12,State House,19,DEM,Robert Thompson,77
+Wayne,Precinct 13,State House,19,DEM,Robert Thompson,62
+Wayne,Precinct 14,State House,19,DEM,Robert Thompson,142
+Wayne,Precinct 16,State House,19,DEM,Robert Thompson,40
+Wayne,Precinct 17,State House,19,DEM,Robert Thompson,78
+Wayne,Precinct 18,State House,19,DEM,Robert Thompson,87
+Wayne,Precinct 19,State House,19,DEM,Robert Thompson,107
+Wayne,Precinct 20,State House,19,DEM,Robert Thompson,54
+Wayne,Precinct 21,State House,19,DEM,Robert Thompson,51
+Wayne,Precinct 22,State House,19,DEM,Robert Thompson,112
+Wayne,Precinct 30,State House,19,DEM,Robert Thompson,192
+Wayne,Precinct 31,State House,19,DEM,Robert Thompson,74
+Wayne,Precinct 34,State House,19,DEM,Robert Thompson,106
+Wayne,Precinct 36,State House,19,DEM,Robert Thompson,143
+Wayne,Precinct 37,State House,19,DEM,Robert Thompson,73
+Wayne,Precinct 41,State House,19,DEM,Robert Thompson,78
+Wayne,Precinct 42,State House,19,DEM,Robert Thompson,65
+Wayne,Precinct 45,State House,19,DEM,Robert Thompson,117
+Wayne,Precinct 48,State House,19,DEM,Robert Thompson,135
+Wayne,Precinct 49,State House,19,DEM,Robert Thompson,196
+Wayne,Precinct 50,State House,19,DEM,Robert Thompson,190
+Wayne,Precinct 51,State House,19,DEM,Robert Thompson,210
+Wayne,Precinct 52,State House,19,DEM,Robert Thompson,74
+Wayne,Precinct 53,State House,19,DEM,Robert Thompson,158
+Wayne,Precinct 54,State House,19,DEM,Robert Thompson,139
+Wayne,Precinct 57,State House,19,DEM,Robert Thompson,65
+Wayne,Precinct 62,State House,19,DEM,Robert Thompson,104
+Wayne,Precinct 1,State House,19,DEM,Ken Hicks,93
+Wayne,Precinct 5,State House,19,DEM,Ken Hicks,92
+Wayne,Precinct 6,State House,19,DEM,Ken Hicks,32
+Wayne,Precinct 12,State House,19,DEM,Ken Hicks,134
+Wayne,Precinct 13,State House,19,DEM,Ken Hicks,95
+Wayne,Precinct 14,State House,19,DEM,Ken Hicks,200
+Wayne,Precinct 16,State House,19,DEM,Ken Hicks,61
+Wayne,Precinct 17,State House,19,DEM,Ken Hicks,109
+Wayne,Precinct 18,State House,19,DEM,Ken Hicks,84
+Wayne,Precinct 19,State House,19,DEM,Ken Hicks,103
+Wayne,Precinct 20,State House,19,DEM,Ken Hicks,89
+Wayne,Precinct 21,State House,19,DEM,Ken Hicks,79
+Wayne,Precinct 22,State House,19,DEM,Ken Hicks,73
+Wayne,Precinct 30,State House,19,DEM,Ken Hicks,84
+Wayne,Precinct 31,State House,19,DEM,Ken Hicks,30
+Wayne,Precinct 34,State House,19,DEM,Ken Hicks,90
+Wayne,Precinct 36,State House,19,DEM,Ken Hicks,68
+Wayne,Precinct 37,State House,19,DEM,Ken Hicks,53
+Wayne,Precinct 41,State House,19,DEM,Ken Hicks,39
+Wayne,Precinct 42,State House,19,DEM,Ken Hicks,31
+Wayne,Precinct 45,State House,19,DEM,Ken Hicks,50
+Wayne,Precinct 48,State House,19,DEM,Ken Hicks,90
+Wayne,Precinct 49,State House,19,DEM,Ken Hicks,119
+Wayne,Precinct 50,State House,19,DEM,Ken Hicks,94
+Wayne,Precinct 51,State House,19,DEM,Ken Hicks,96
+Wayne,Precinct 52,State House,19,DEM,Ken Hicks,38
+Wayne,Precinct 53,State House,19,DEM,Ken Hicks,94
+Wayne,Precinct 54,State House,19,DEM,Ken Hicks,76
+Wayne,Precinct 57,State House,19,DEM,Ken Hicks,85
+Wayne,Precinct 62,State House,19,DEM,Ken Hicks,142
