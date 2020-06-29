@@ -1,4 +1,4 @@
-County,Prec,Dist,City,Reg,Cast,Obama
+﻿county,precinct,office,district,candidate,party,votes
 Monongalia,0001 Prec 40,Registered Voters,,Registered,,256
 Monongalia,0001 Prec 40,Ballots Cast,,Ballots,,102
 Monongalia,0001 Prec 40,U.S. Senate,,Jay Wolfe,REP,28
