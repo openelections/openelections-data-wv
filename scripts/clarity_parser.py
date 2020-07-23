@@ -10,7 +10,7 @@ except ImportError:
 
 def statewide_results(url):
     j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
+    r = requests.get("https://results.enr.clarityelections.com//WV//103231/257381/reports/detailxml.zip", stream=True)
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -19,20 +19,20 @@ def statewide_results(url):
     for result in p.results:
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = parse_party(result.contest.text)
-        if '(' in candidate and party is None:
-            if '(I)' in candidate:
-                if '(I)(I)' in candidate:
-                    candidate = candidate.split('(I)')[0]
-                    party = 'I'
-                else:
-                    candidate, party = candidate.split('(I)')
-                candidate = candidate.strip() + ' (I)'
-            else:
-                print(candidate)
-                candidate, party = candidate.split('(', 1)
-                candidate = candidate.strip()
-            party = party.replace(')','').strip()
+        party = result.choice.party
+#        if '(' in candidate and party is None:
+#            if '(I)' in candidate:
+#                if '(I)(I)' in candidate:
+#                    candidate = candidate.split('(I)')[0]
+#                    party = 'I'
+#                else:
+#                    candidate, party = candidate.split('(I)')
+#                candidate = candidate.strip() + ' (I)'
+#            else:
+#                print(candidate)
+#                candidate, party = candidate.split('(', 1)
+#                candidate = candidate.strip()
+#            party = party.replace(')','').strip()
         if result.jurisdiction:
             county = result.jurisdiction.name
         else:
@@ -43,7 +43,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20180508__wv__general.csv", "wt") as csvfile:
+    with open("20200609__wv__primary__county.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
