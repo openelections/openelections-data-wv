@@ -1,3 +1,6 @@
 venv/
 .idea/
 .DS_Store
+scripts/__pycache__/get_tickets.cpython-38.pyc
+.gitignore
+scripts/__pycache__/tickets.cpython-38.pyc
