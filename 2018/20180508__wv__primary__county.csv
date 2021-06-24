@@ -768,10 +768,10 @@ Summers,U.S. House,3,REP,RICK SNUFFER,194
 Wayne,U.S. House,3,REP,RICK SNUFFER,64
 Webster,U.S. House,3,REP,RICK SNUFFER,41
 Wyoming,U.S. House,3,REP,RICK SNUFFER,179
-Brooke,State Senate,1,DEM,WILLIAM  IHLENFELD,2012
-Hancock,State Senate,1,DEM,WILLIAM  IHLENFELD,2076
-Marshall,State Senate,1,DEM,WILLIAM  IHLENFELD,250
-Ohio,State Senate,1,DEM,WILLIAM  IHLENFELD,4162
+Brooke,State Senate,1,DEM,WILLIAM IHLENFELD,2012
+Hancock,State Senate,1,DEM,WILLIAM IHLENFELD,2076
+Marshall,State Senate,1,DEM,WILLIAM IHLENFELD,250
+Ohio,State Senate,1,DEM,WILLIAM IHLENFELD,4162
 Brooke,State Senate,1,REP,RYAN FERNS,926
 Hancock,State Senate,1,REP,RYAN FERNS,1276
 Marshall,State Senate,1,REP,RYAN FERNS,193
@@ -932,8 +932,8 @@ Clay,State Senate,12,REP,"WAYMOND CORK, II",294
 Gilmer,State Senate,12,REP,"WAYMOND CORK, II",79
 Harrison,State Senate,12,REP,"WAYMOND CORK, II",3810
 Lewis,State Senate,12,REP,"WAYMOND CORK, II",1179
-Marion,State Senate,13,DEM,BOB  BEACH,4301
-Monongalia,State Senate,13,DEM,BOB  BEACH,5082
+Marion,State Senate,13,DEM,BOB BEACH,4301
+Monongalia,State Senate,13,DEM,BOB BEACH,5082
 Marion,State Senate,13,REP,MIKE OLIVERIO,2210
 Monongalia,State Senate,13,REP,MIKE OLIVERIO,2553
 Barbour,State Senate,14,DEM,STEPHANIE ZUCKER,1046
@@ -1067,8 +1067,8 @@ Cabell,House of Delegates,16,REP,ANDREW DORNBOS,350
 Lincoln,House of Delegates,16,REP,ANDREW DORNBOS,17
 Cabell,House of Delegates,16,REP,DANIEL LINVILLE,1056
 Lincoln,House of Delegates,16,REP,DANIEL LINVILLE,86
-Cabell,House of Delegates,16,REP,JOHN F.  MANDT JR.,1320
-Lincoln,House of Delegates,16,REP,JOHN F.  MANDT JR.,25
+Cabell,House of Delegates,16,REP,JOHN F. MANDT JR.,1320
+Lincoln,House of Delegates,16,REP,JOHN F. MANDT JR.,25
 Cabell,House of Delegates,16,REP,VERA MILLER,799
 Lincoln,House of Delegates,16,REP,VERA MILLER,49
 Cabell,House of Delegates,17,DEM,CHRISTOPHER HUGHART,256
@@ -1089,8 +1089,8 @@ Wayne,House of Delegates,19,DEM,KEN HICKS,2523
 Wayne,House of Delegates,19,DEM,ROBERT THOMPSON,3292
 Wayne,House of Delegates,19,REP,MARK ROSS,1664
 Wayne,House of Delegates,19,REP,NO CANDIDATE FILED,0
-Logan,House of Delegates,20,DEM,NATHAN  BROWN,108
-Mingo,House of Delegates,20,DEM,NATHAN  BROWN,1478
+Logan,House of Delegates,20,DEM,NATHAN BROWN,108
+Mingo,House of Delegates,20,DEM,NATHAN BROWN,1478
 Logan,House of Delegates,20,DEM,BARRY MARCUM,197
 Mingo,House of Delegates,20,DEM,BARRY MARCUM,1104
 Logan,House of Delegates,20,REP,NO CANDIDATE FILED,0
@@ -1191,8 +1191,8 @@ Raleigh,House of Delegates,29,REP,ZACHARY MEADOR,414
 Raleigh,House of Delegates,29,REP,BRANDON STEELE,813
 Raleigh,House of Delegates,30,REP,NO CANDIDATE FILED,0
 Raleigh,House of Delegates,30,DEM,MICK BATES,1718
-Raleigh,House of Delegates,31,DEM,"RICHARD ""RICK""  SNUFFER II",838
-Wyoming,House of Delegates,31,DEM,"RICHARD ""RICK""  SNUFFER II",341
+Raleigh,House of Delegates,31,DEM,"RICHARD ""RICK"" SNUFFER II",838
+Wyoming,House of Delegates,31,DEM,"RICHARD ""RICK"" SNUFFER II",341
 Raleigh,House of Delegates,31,REP,CHRISTOPHER WAYNE TONEY,585
 Wyoming,House of Delegates,31,REP,CHRISTOPHER WAYNE TONEY,54
 Raleigh,House of Delegates,31,REP,CHANDA ADKINS,530
@@ -1207,10 +1207,10 @@ Fayette,House of Delegates,32,DEM,LUKE LIVELY,2709
 Kanawha,House of Delegates,32,DEM,LUKE LIVELY,17
 Nicholas,House of Delegates,32,DEM,LUKE LIVELY,46
 Raleigh,House of Delegates,32,DEM,LUKE LIVELY,227
-Clay,House of Delegates,32,DEM,MARGARET ANNE  STAGGERS,94
-Fayette,House of Delegates,32,DEM,MARGARET ANNE  STAGGERS,2859
-Nicholas,House of Delegates,32,DEM,MARGARET ANNE  STAGGERS,63
-Raleigh,House of Delegates,32,DEM,MARGARET ANNE  STAGGERS,270
+Clay,House of Delegates,32,DEM,MARGARET ANNE STAGGERS,94
+Fayette,House of Delegates,32,DEM,MARGARET ANNE STAGGERS,2859
+Nicholas,House of Delegates,32,DEM,MARGARET ANNE STAGGERS,63
+Raleigh,House of Delegates,32,DEM,MARGARET ANNE STAGGERS,270
 Clay,House of Delegates,32,DEM,SELINA VICKERS,43
 Fayette,House of Delegates,32,DEM,SELINA VICKERS,2215
 Kanawha,House of Delegates,32,DEM,SELINA VICKERS,17
@@ -1339,7 +1339,7 @@ Upshur,House of Delegates,44,REP,ELIJAH KARNES,187
 Webster,House of Delegates,44,REP,ELIJAH KARNES,109
 Upshur,House of Delegates,45,DEM,MATTHEW KERNER,909
 Upshur,House of Delegates,45,REP,ROBERT (BOB) KINCAID,1209
-Upshur,House of Delegates,45,REP,"CARL ""ROBBIE""  MARTIN",1339
+Upshur,House of Delegates,45,REP,"CARL ""ROBBIE"" MARTIN",1339
 Lewis,House of Delegates,46,DEM,"ROBERT L. ""BOB"" STULTZ",1375
 Upshur,House of Delegates,46,DEM,"ROBERT L. ""BOB"" STULTZ",95
 Lewis,House of Delegates,46,REP,PATRICK S MARTIN,1474
