@@ -2,7 +2,7 @@ candidate,office,district,party,county,precinct,votes
 ,Straight Party,,Republican,Marshall,Precinct 1,11
 ,Straight Party,,Democratic,Marshall,Precinct 1,16
 ,Straight Party,,Mountain,Marshall,Precinct 1,0
-,Registered Voters ,,,Marshall,Precinct 1,611
+,Registered Voters,,,Marshall,Precinct 1,611
 ,Ballots Cast,,,Marshall,Precinct 1,165
 Bill Maloney,Governor,,REP,Marshall,Precinct 1,70
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 1,84
@@ -13,7 +13,7 @@ Write-ins,Governor,,,Marshall,Precinct 1,0
 ,Straight Party,,Republican,Marshall,Precinct 4,14
 ,Straight Party,,Democratic,Marshall,Precinct 4,10
 ,Straight Party,,Mountain,Marshall,Precinct 4,0
-,Registered Voters ,,,Marshall,Precinct 4,627
+,Registered Voters,,,Marshall,Precinct 4,627
 ,Ballots Cast,,,Marshall,Precinct 4,214
 Bill Maloney,Governor,,REP,Marshall,Precinct 4,120
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 4,80
@@ -24,7 +24,7 @@ Write-ins,Governor,,,Marshall,Precinct 4,0
 ,Straight Party,,Republican,Marshall,Precinct 6,8
 ,Straight Party,,Democratic,Marshall,Precinct 6,5
 ,Straight Party,,Mountain,Marshall,Precinct 6,0
-,Registered Voters ,,,Marshall,Precinct 6,399
+,Registered Voters,,,Marshall,Precinct 6,399
 ,Ballots Cast,,,Marshall,Precinct 6,73
 Bill Maloney,Governor,,REP,Marshall,Precinct 6,34
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 6,35
@@ -35,7 +35,7 @@ Write-ins,Governor,,,Marshall,Precinct 6,0
 ,Straight Party,,Republican,Marshall,Precinct 7,11
 ,Straight Party,,Democratic,Marshall,Precinct 7,23
 ,Straight Party,,Mountain,Marshall,Precinct 7,2
-,Registered Voters ,,,Marshall,Precinct 7,666
+,Registered Voters,,,Marshall,Precinct 7,666
 ,Ballots Cast,,,Marshall,Precinct 7,187
 Bill Maloney,Governor,,REP,Marshall,Precinct 7,69
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 7,109
@@ -46,7 +46,7 @@ Write-ins,Governor,,,Marshall,Precinct 7,0
 ,Straight Party,,Republican,Marshall,Precinct 9,12
 ,Straight Party,,Democratic,Marshall,Precinct 9,27
 ,Straight Party,,Mountain,Marshall,Precinct 9,0
-,Registered Voters ,,,Marshall,Precinct 9,538
+,Registered Voters,,,Marshall,Precinct 9,538
 ,Ballots Cast,,,Marshall,Precinct 9,169
 Bill Maloney,Governor,,REP,Marshall,Precinct 9,64
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 9,93
@@ -57,7 +57,7 @@ Write-ins,Governor,,,Marshall,Precinct 9,0
 ,Straight Party,,Republican,Marshall,Precinct 9A,11
 ,Straight Party,,Democratic,Marshall,Precinct 9A,17
 ,Straight Party,,Mountain,Marshall,Precinct 9A,0
-,Registered Voters ,,,Marshall,Precinct 9A,602
+,Registered Voters,,,Marshall,Precinct 9A,602
 ,Ballots Cast,,,Marshall,Precinct 9A,238
 Bill Maloney,Governor,,REP,Marshall,Precinct 9A,117
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 9A,110
@@ -68,7 +68,7 @@ Write-ins,Governor,,,Marshall,Precinct 9A,0
 ,Straight Party,,Republican,Marshall,Precinct 10,15
 ,Straight Party,,Democratic,Marshall,Precinct 10,25
 ,Straight Party,,Mountain,Marshall,Precinct 10,0
-,Registered Voters ,,,Marshall,Precinct 10,471
+,Registered Voters,,,Marshall,Precinct 10,471
 ,Ballots Cast,,,Marshall,Precinct 10,142
 Bill Maloney,Governor,,REP,Marshall,Precinct 10,54
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 10,81
@@ -79,7 +79,7 @@ Write-ins,Governor,,,Marshall,Precinct 10,0
 ,Straight Party,,Republican,Marshall,Precinct 11,18
 ,Straight Party,,Democratic,Marshall,Precinct 11,27
 ,Straight Party,,Mountain,Marshall,Precinct 11,1
-,Registered Voters ,,,Marshall,Precinct 11,872
+,Registered Voters,,,Marshall,Precinct 11,872
 ,Ballots Cast,,,Marshall,Precinct 11,259
 Bill Maloney,Governor,,REP,Marshall,Precinct 11,105
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 11,141
@@ -90,7 +90,7 @@ Write-ins,Governor,,,Marshall,Precinct 11,0
 ,Straight Party,,Republican,Marshall,Precinct 12,12
 ,Straight Party,,Democratic,Marshall,Precinct 12,21
 ,Straight Party,,Mountain,Marshall,Precinct 12,2
-,Registered Voters ,,,Marshall,Precinct 12,662
+,Registered Voters,,,Marshall,Precinct 12,662
 ,Ballots Cast,,,Marshall,Precinct 12,207
 Bill Maloney,Governor,,REP,Marshall,Precinct 12,97
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 12,103
@@ -101,7 +101,7 @@ Write-ins,Governor,,,Marshall,Precinct 12,0
 ,Straight Party,,Republican,Marshall,Precinct 13,7
 ,Straight Party,,Democratic,Marshall,Precinct 13,17
 ,Straight Party,,Mountain,Marshall,Precinct 13,0
-,Registered Voters ,,,Marshall,Precinct 13,486
+,Registered Voters,,,Marshall,Precinct 13,486
 ,Ballots Cast,,,Marshall,Precinct 13,191
 Bill Maloney,Governor,,REP,Marshall,Precinct 13,94
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 13,93
@@ -112,7 +112,7 @@ Write-ins,Governor,,,Marshall,Precinct 13,0
 ,Straight Party,,Republican,Marshall,Precinct 14,21
 ,Straight Party,,Democratic,Marshall,Precinct 14,13
 ,Straight Party,,Mountain,Marshall,Precinct 14,0
-,Registered Voters ,,,Marshall,Precinct 14,698
+,Registered Voters,,,Marshall,Precinct 14,698
 ,Ballots Cast,,,Marshall,Precinct 14,277
 Bill Maloney,Governor,,REP,Marshall,Precinct 14,155
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 14,112
@@ -123,7 +123,7 @@ Write-ins,Governor,,,Marshall,Precinct 14,0
 ,Straight Party,,Republican,Marshall,Precinct 15A,2
 ,Straight Party,,Democratic,Marshall,Precinct 15A,11
 ,Straight Party,,Mountain,Marshall,Precinct 15A,2
-,Registered Voters ,,,Marshall,Precinct 15A,273
+,Registered Voters,,,Marshall,Precinct 15A,273
 ,Ballots Cast,,,Marshall,Precinct 15A,82
 Bill Maloney,Governor,,REP,Marshall,Precinct 15A,38
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 15A,40
@@ -134,7 +134,7 @@ Write-ins,Governor,,,Marshall,Precinct 15A,0
 ,Straight Party,,Republican,Marshall,Precinct 16,13
 ,Straight Party,,Democratic,Marshall,Precinct 16,16
 ,Straight Party,,Mountain,Marshall,Precinct 16,0
-,Registered Voters ,,,Marshall,Precinct 16,404
+,Registered Voters,,,Marshall,Precinct 16,404
 ,Ballots Cast,,,Marshall,Precinct 16,161
 Bill Maloney,Governor,,REP,Marshall,Precinct 16,70
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 16,82
@@ -145,7 +145,7 @@ Write-ins,Governor,,,Marshall,Precinct 16,1
 ,Straight Party,,Republican,Marshall,Precinct 17,8
 ,Straight Party,,Democratic,Marshall,Precinct 17,16
 ,Straight Party,,Mountain,Marshall,Precinct 17,0
-,Registered Voters ,,,Marshall,Precinct 17,328
+,Registered Voters,,,Marshall,Precinct 17,328
 ,Ballots Cast,,,Marshall,Precinct 17,106
 Bill Maloney,Governor,,REP,Marshall,Precinct 17,37
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 17,61
@@ -156,7 +156,7 @@ Write-ins,Governor,,,Marshall,Precinct 17,0
 ,Straight Party,,Republican,Marshall,Precinct 17A,9
 ,Straight Party,,Democratic,Marshall,Precinct 17A,9
 ,Straight Party,,Mountain,Marshall,Precinct 17A,0
-,Registered Voters ,,,Marshall,Precinct 17A,498
+,Registered Voters,,,Marshall,Precinct 17A,498
 ,Ballots Cast,,,Marshall,Precinct 17A,167
 Bill Maloney,Governor,,REP,Marshall,Precinct 17A,92
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 17A,73
@@ -167,7 +167,7 @@ Write-ins,Governor,,,Marshall,Precinct 17A,0
 ,Straight Party,,Republican,Marshall,Precinct 18,10
 ,Straight Party,,Democratic,Marshall,Precinct 18,29
 ,Straight Party,,Mountain,Marshall,Precinct 18,0
-,Registered Voters ,,,Marshall,Precinct 18,688
+,Registered Voters,,,Marshall,Precinct 18,688
 ,Ballots Cast,,,Marshall,Precinct 18,235
 Bill Maloney,Governor,,REP,Marshall,Precinct 18,103
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 18,127
@@ -178,7 +178,7 @@ Write-ins,Governor,,,Marshall,Precinct 18,0
 ,Straight Party,,Republican,Marshall,Precinct 19,2
 ,Straight Party,,Democratic,Marshall,Precinct 19,12
 ,Straight Party,,Mountain,Marshall,Precinct 19,1
-,Registered Voters ,,,Marshall,Precinct 19,223
+,Registered Voters,,,Marshall,Precinct 19,223
 ,Ballots Cast,,,Marshall,Precinct 19,67
 Bill Maloney,Governor,,REP,Marshall,Precinct 19,19
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 19,43
@@ -189,7 +189,7 @@ Write-ins,Governor,,,Marshall,Precinct 19,0
 ,Straight Party,,Republican,Marshall,Precinct 20,2
 ,Straight Party,,Democratic,Marshall,Precinct 20,20
 ,Straight Party,,Mountain,Marshall,Precinct 20,0
-,Registered Voters ,,,Marshall,Precinct 20,268
+,Registered Voters,,,Marshall,Precinct 20,268
 ,Ballots Cast,,,Marshall,Precinct 20,85
 Bill Maloney,Governor,,REP,Marshall,Precinct 20,14
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 20,69
@@ -200,7 +200,7 @@ Write-ins,Governor,,,Marshall,Precinct 20,0
 ,Straight Party,,Republican,Marshall,Precinct 21,8
 ,Straight Party,,Democratic,Marshall,Precinct 21,10
 ,Straight Party,,Mountain,Marshall,Precinct 21,0
-,Registered Voters ,,,Marshall,Precinct 21,392
+,Registered Voters,,,Marshall,Precinct 21,392
 ,Ballots Cast,,,Marshall,Precinct 21,100
 Bill Maloney,Governor,,REP,Marshall,Precinct 21,45
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 21,51
@@ -211,7 +211,7 @@ Write-ins,Governor,,,Marshall,Precinct 21,0
 ,Straight Party,,Republican,Marshall,Precinct 23,0
 ,Straight Party,,Democratic,Marshall,Precinct 23,5
 ,Straight Party,,Mountain,Marshall,Precinct 23,0
-,Registered Voters ,,,Marshall,Precinct 23,266
+,Registered Voters,,,Marshall,Precinct 23,266
 ,Ballots Cast,,,Marshall,Precinct 23,67
 Bill Maloney,Governor,,REP,Marshall,Precinct 23,22
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 23,37
@@ -222,7 +222,7 @@ Write-ins,Governor,,,Marshall,Precinct 23,0
 ,Straight Party,,Republican,Marshall,Precinct 24,9
 ,Straight Party,,Democratic,Marshall,Precinct 24,17
 ,Straight Party,,Mountain,Marshall,Precinct 24,2
-,Registered Voters ,,,Marshall,Precinct 24,453
+,Registered Voters,,,Marshall,Precinct 24,453
 ,Ballots Cast,,,Marshall,Precinct 24,172
 Bill Maloney,Governor,,REP,Marshall,Precinct 24,78
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 24,86
@@ -233,7 +233,7 @@ Write-ins,Governor,,,Marshall,Precinct 24,0
 ,Straight Party,,Republican,Marshall,Precinct 25,7
 ,Straight Party,,Democratic,Marshall,Precinct 25,19
 ,Straight Party,,Mountain,Marshall,Precinct 25,0
-,Registered Voters ,,,Marshall,Precinct 25,361
+,Registered Voters,,,Marshall,Precinct 25,361
 ,Ballots Cast,,,Marshall,Precinct 25,97
 Bill Maloney,Governor,,REP,Marshall,Precinct 25,41
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 25,51
@@ -244,7 +244,7 @@ Write-ins,Governor,,,Marshall,Precinct 25,0
 ,Straight Party,,Republican,Marshall,Precinct 26,10
 ,Straight Party,,Democratic,Marshall,Precinct 26,13
 ,Straight Party,,Mountain,Marshall,Precinct 26,0
-,Registered Voters ,,,Marshall,Precinct 26,351
+,Registered Voters,,,Marshall,Precinct 26,351
 ,Ballots Cast,,,Marshall,Precinct 26,114
 Bill Maloney,Governor,,REP,Marshall,Precinct 26,42
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 26,68
@@ -255,7 +255,7 @@ Write-ins,Governor,,,Marshall,Precinct 26,0
 ,Straight Party,,Republican,Marshall,Precinct 27,8
 ,Straight Party,,Democratic,Marshall,Precinct 27,7
 ,Straight Party,,Mountain,Marshall,Precinct 27,0
-,Registered Voters ,,,Marshall,Precinct 27,346
+,Registered Voters,,,Marshall,Precinct 27,346
 ,Ballots Cast,,,Marshall,Precinct 27,116
 Bill Maloney,Governor,,REP,Marshall,Precinct 27,56
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 27,56
@@ -266,7 +266,7 @@ Write-ins,Governor,,,Marshall,Precinct 27,0
 ,Straight Party,,Republican,Marshall,Precinct 28,17
 ,Straight Party,,Democratic,Marshall,Precinct 28,29
 ,Straight Party,,Mountain,Marshall,Precinct 28,2
-,Registered Voters ,,,Marshall,Precinct 28,600
+,Registered Voters,,,Marshall,Precinct 28,600
 ,Ballots Cast,,,Marshall,Precinct 28,235
 Bill Maloney,Governor,,REP,Marshall,Precinct 28,78
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 28,145
@@ -277,7 +277,7 @@ Write-ins,Governor,,,Marshall,Precinct 28,0
 ,Straight Party,,Republican,Marshall,Precinct 29,16
 ,Straight Party,,Democratic,Marshall,Precinct 29,23
 ,Straight Party,,Mountain,Marshall,Precinct 29,1
-,Registered Voters ,,,Marshall,Precinct 29,564
+,Registered Voters,,,Marshall,Precinct 29,564
 ,Ballots Cast,,,Marshall,Precinct 29,178
 Bill Maloney,Governor,,REP,Marshall,Precinct 29,89
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 29,79
@@ -288,7 +288,7 @@ Write-ins,Governor,,,Marshall,Precinct 29,0
 ,Straight Party,,Republican,Marshall,Precinct 30,3
 ,Straight Party,,Democratic,Marshall,Precinct 30,15
 ,Straight Party,,Mountain,Marshall,Precinct 30,0
-,Registered Voters ,,,Marshall,Precinct 30,330
+,Registered Voters,,,Marshall,Precinct 30,330
 ,Ballots Cast,,,Marshall,Precinct 30,84
 Bill Maloney,Governor,,REP,Marshall,Precinct 30,30
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 30,52
@@ -299,7 +299,7 @@ Write-ins,Governor,,,Marshall,Precinct 30,0
 ,Straight Party,,Republican,Marshall,Precinct 33,20
 ,Straight Party,,Democratic,Marshall,Precinct 33,18
 ,Straight Party,,Mountain,Marshall,Precinct 33,1
-,Registered Voters ,,,Marshall,Precinct 33,771
+,Registered Voters,,,Marshall,Precinct 33,771
 ,Ballots Cast,,,Marshall,Precinct 33,280
 Bill Maloney,Governor,,REP,Marshall,Precinct 33,152
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 33,118
@@ -310,7 +310,7 @@ Write-ins,Governor,,,Marshall,Precinct 33,0
 ,Straight Party,,Republican,Marshall,Precinct 34,10
 ,Straight Party,,Democratic,Marshall,Precinct 34,14
 ,Straight Party,,Mountain,Marshall,Precinct 34,0
-,Registered Voters ,,,Marshall,Precinct 34,582
+,Registered Voters,,,Marshall,Precinct 34,582
 ,Ballots Cast,,,Marshall,Precinct 34,181
 Bill Maloney,Governor,,REP,Marshall,Precinct 34,86
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 34,86
@@ -321,7 +321,7 @@ Write-ins,Governor,,,Marshall,Precinct 34,0
 ,Straight Party,,Republican,Marshall,Precinct 35,18
 ,Straight Party,,Democratic,Marshall,Precinct 35,11
 ,Straight Party,,Mountain,Marshall,Precinct 35,1
-,Registered Voters ,,,Marshall,Precinct 35,606
+,Registered Voters,,,Marshall,Precinct 35,606
 ,Ballots Cast,,,Marshall,Precinct 35,178
 Bill Maloney,Governor,,REP,Marshall,Precinct 35,91
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 35,77
@@ -332,7 +332,7 @@ Write-ins,Governor,,,Marshall,Precinct 35,0
 ,Straight Party,,Republican,Marshall,Precinct 36,12
 ,Straight Party,,Democratic,Marshall,Precinct 36,10
 ,Straight Party,,Mountain,Marshall,Precinct 36,3
-,Registered Voters ,,,Marshall,Precinct 36,172
+,Registered Voters,,,Marshall,Precinct 36,172
 ,Ballots Cast,,,Marshall,Precinct 36,65
 Bill Maloney,Governor,,REP,Marshall,Precinct 36,38
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 36,20
@@ -343,7 +343,7 @@ Write-ins,Governor,,,Marshall,Precinct 36,0
 ,Straight Party,,Republican,Marshall,Precinct 38,8
 ,Straight Party,,Democratic,Marshall,Precinct 38,12
 ,Straight Party,,Mountain,Marshall,Precinct 38,2
-,Registered Voters ,,,Marshall,Precinct 38,435
+,Registered Voters,,,Marshall,Precinct 38,435
 ,Ballots Cast,,,Marshall,Precinct 38,103
 Bill Maloney,Governor,,REP,Marshall,Precinct 38,57
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 38,39
@@ -354,7 +354,7 @@ Write-ins,Governor,,,Marshall,Precinct 38,0
 ,Straight Party,,Republican,Marshall,Precinct 39,14
 ,Straight Party,,Democratic,Marshall,Precinct 39,11
 ,Straight Party,,Mountain,Marshall,Precinct 39,2
-,Registered Voters ,,,Marshall,Precinct 39,482
+,Registered Voters,,,Marshall,Precinct 39,482
 ,Ballots Cast,,,Marshall,Precinct 39,176
 Bill Maloney,Governor,,REP,Marshall,Precinct 39,103
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 39,66
@@ -365,7 +365,7 @@ Write-ins,Governor,,,Marshall,Precinct 39,0
 ,Straight Party,,Republican,Marshall,Precinct 40,6
 ,Straight Party,,Democratic,Marshall,Precinct 40,5
 ,Straight Party,,Mountain,Marshall,Precinct 40,0
-,Registered Voters ,,,Marshall,Precinct 40,246
+,Registered Voters,,,Marshall,Precinct 40,246
 ,Ballots Cast,,,Marshall,Precinct 40,83
 Bill Maloney,Governor,,REP,Marshall,Precinct 40,54
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 40,27
@@ -376,7 +376,7 @@ Write-ins,Governor,,,Marshall,Precinct 40,0
 ,Straight Party,,Republican,Marshall,Precinct 41,6
 ,Straight Party,,Democratic,Marshall,Precinct 41,8
 ,Straight Party,,Mountain,Marshall,Precinct 41,2
-,Registered Voters ,,,Marshall,Precinct 41,284
+,Registered Voters,,,Marshall,Precinct 41,284
 ,Ballots Cast,,,Marshall,Precinct 41,100
 Bill Maloney,Governor,,REP,Marshall,Precinct 41,58
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 41,28
@@ -387,7 +387,7 @@ Write-ins,Governor,,,Marshall,Precinct 41,1
 ,Straight Party,,Republican,Marshall,Precinct 43,16
 ,Straight Party,,Democratic,Marshall,Precinct 43,15
 ,Straight Party,,Mountain,Marshall,Precinct 43,0
-,Registered Voters ,,,Marshall,Precinct 43,669
+,Registered Voters,,,Marshall,Precinct 43,669
 ,Ballots Cast,,,Marshall,Precinct 43,196
 Bill Maloney,Governor,,REP,Marshall,Precinct 43,90
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 43,92
@@ -398,7 +398,7 @@ Write-ins,Governor,,,Marshall,Precinct 43,0
 ,Straight Party,,Republican,Marshall,Precinct 44,9
 ,Straight Party,,Democratic,Marshall,Precinct 44,19
 ,Straight Party,,Mountain,Marshall,Precinct 44,1
-,Registered Voters ,,,Marshall,Precinct 44,671
+,Registered Voters,,,Marshall,Precinct 44,671
 ,Ballots Cast,,,Marshall,Precinct 44,178
 Bill Maloney,Governor,,REP,Marshall,Precinct 44,62
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 44,103
@@ -409,7 +409,7 @@ Write-ins,Governor,,,Marshall,Precinct 44,0
 ,Straight Party,,Republican,Marshall,Precinct 45,5
 ,Straight Party,,Democratic,Marshall,Precinct 45,9
 ,Straight Party,,Mountain,Marshall,Precinct 45,0
-,Registered Voters ,,,Marshall,Precinct 45,433
+,Registered Voters,,,Marshall,Precinct 45,433
 ,Ballots Cast,,,Marshall,Precinct 45,119
 Bill Maloney,Governor,,REP,Marshall,Precinct 45,66
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 45,44
@@ -420,7 +420,7 @@ Write-ins,Governor,,,Marshall,Precinct 45,0
 ,Straight Party,,Republican,Marshall,Precinct 46,23
 ,Straight Party,,Democratic,Marshall,Precinct 46,19
 ,Straight Party,,Mountain,Marshall,Precinct 46,1
-,Registered Voters ,,,Marshall,Precinct 46,884
+,Registered Voters,,,Marshall,Precinct 46,884
 ,Ballots Cast,,,Marshall,Precinct 46,245
 Bill Maloney,Governor,,REP,Marshall,Precinct 46,116
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 46,110
@@ -431,7 +431,7 @@ Write-ins,Governor,,,Marshall,Precinct 46,0
 ,Straight Party,,Republican,Marshall,Precinct 48,15
 ,Straight Party,,Democratic,Marshall,Precinct 48,5
 ,Straight Party,,Mountain,Marshall,Precinct 48,0
-,Registered Voters ,,,Marshall,Precinct 48,275
+,Registered Voters,,,Marshall,Precinct 48,275
 ,Ballots Cast,,,Marshall,Precinct 48,87
 Bill Maloney,Governor,,REP,Marshall,Precinct 48,50
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 48,35
@@ -442,7 +442,7 @@ Write-ins,Governor,,,Marshall,Precinct 48,0
 ,Straight Party,,Republican,Marshall,Precinct 52,6
 ,Straight Party,,Democratic,Marshall,Precinct 52,17
 ,Straight Party,,Mountain,Marshall,Precinct 52,0
-,Registered Voters ,,,Marshall,Precinct 52,626
+,Registered Voters,,,Marshall,Precinct 52,626
 ,Ballots Cast,,,Marshall,Precinct 52,151
 Bill Maloney,Governor,,REP,Marshall,Precinct 52,63
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 52,77
@@ -453,7 +453,7 @@ Write-ins,Governor,,,Marshall,Precinct 52,0
 ,Straight Party,,Republican,Marshall,Precinct 56,15
 ,Straight Party,,Democratic,Marshall,Precinct 56,29
 ,Straight Party,,Mountain,Marshall,Precinct 56,1
-,Registered Voters ,,,Marshall,Precinct 56,595
+,Registered Voters,,,Marshall,Precinct 56,595
 ,Ballots Cast,,,Marshall,Precinct 56,153
 Bill Maloney,Governor,,REP,Marshall,Precinct 56,66
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 56,78
@@ -464,7 +464,7 @@ Write-ins,Governor,,,Marshall,Precinct 56,0
 ,Straight Party,,Republican,Marshall,Precinct 58,7
 ,Straight Party,,Democratic,Marshall,Precinct 58,4
 ,Straight Party,,Mountain,Marshall,Precinct 58,0
-,Registered Voters ,,,Marshall,Precinct 58,201
+,Registered Voters,,,Marshall,Precinct 58,201
 ,Ballots Cast,,,Marshall,Precinct 58,62
 Bill Maloney,Governor,,REP,Marshall,Precinct 58,34
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 58,24
@@ -475,7 +475,7 @@ Write-ins,Governor,,,Marshall,Precinct 58,0
 ,Straight Party,,Republican,Marshall,Precinct 60,15
 ,Straight Party,,Democratic,Marshall,Precinct 60,10
 ,Straight Party,,Mountain,Marshall,Precinct 60,1
-,Registered Voters ,,,Marshall,Precinct 60,422
+,Registered Voters,,,Marshall,Precinct 60,422
 ,Ballots Cast,,,Marshall,Precinct 60,111
 Bill Maloney,Governor,,REP,Marshall,Precinct 60,64
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 60,40
@@ -486,7 +486,7 @@ Write-ins,Governor,,,Marshall,Precinct 60,0
 ,Straight Party,,Republican,Marshall,Precinct 61,8
 ,Straight Party,,Democratic,Marshall,Precinct 61,1
 ,Straight Party,,Mountain,Marshall,Precinct 61,0
-,Registered Voters ,,,Marshall,Precinct 61,222
+,Registered Voters,,,Marshall,Precinct 61,222
 ,Ballots Cast,,,Marshall,Precinct 61,62
 Bill Maloney,Governor,,REP,Marshall,Precinct 61,40
 Earl Ray Tomblin,Governor,,DEM,Marshall,Precinct 61,21
@@ -494,14 +494,14 @@ Bob Henry Baber,Governor,,MTN,Marshall,Precinct 61,1
 Marla Dee Ingels,Governor,,IND,Marshall,Precinct 61,0
 Harry V. Bertram,Governor,,ATP,Marshall,Precinct 61,0
 Write-ins,Governor,,,Marshall,Precinct 61,0
-,Straight Party,,Republican,Marshall,TOTAL ,477
-,Straight Party,,Democratic,Marshall,TOTAL ,669
-,Straight Party,,Mountain,Marshall,TOTAL ,28
-,Registered Voters ,,,Marshall,TOTAL ,21553
-,Ballots Cast,,,Marshall,TOTAL ,6718
-Bill Maloney,Governor,,REP,Marshall,TOTAL ,3123
-Earl Ray Tomblin,Governor,,DEM,Marshall,TOTAL ,3246
-Bob Henry Baber,Governor,,MTN,Marshall,TOTAL ,122
-Marla Dee Ingels,Governor,,IND,Marshall,TOTAL ,76
-Harry V. Bertram,Governor,,ATP,Marshall,TOTAL ,44
-Write-ins,Governor,,,Marshall,TOTAL ,2
+,Straight Party,,Republican,Marshall,TOTAL,477
+,Straight Party,,Democratic,Marshall,TOTAL,669
+,Straight Party,,Mountain,Marshall,TOTAL,28
+,Registered Voters,,,Marshall,TOTAL,21553
+,Ballots Cast,,,Marshall,TOTAL,6718
+Bill Maloney,Governor,,REP,Marshall,TOTAL,3123
+Earl Ray Tomblin,Governor,,DEM,Marshall,TOTAL,3246
+Bob Henry Baber,Governor,,MTN,Marshall,TOTAL,122
+Marla Dee Ingels,Governor,,IND,Marshall,TOTAL,76
+Harry V. Bertram,Governor,,ATP,Marshall,TOTAL,44
+Write-ins,Governor,,,Marshall,TOTAL,2

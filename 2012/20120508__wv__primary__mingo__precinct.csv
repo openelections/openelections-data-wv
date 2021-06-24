@@ -5,24 +5,24 @@ candidate,office,district,party,county,precinct,total votes
 ,Ballots Cast,,,Mingo,Precinct 1,190
 ,Ballots Cast,,REP,Mingo,Precinct 1,10
 ,Ballots Cast,,DEM,Mingo,Precinct 1,177
-Barack Obama,President ,,DEM,Mingo,Precinct 1,49
-Keith Judd,President ,,DEM,Mingo,Precinct 1,80
+Barack Obama,President,,DEM,Mingo,Precinct 1,49
+Keith Judd,President,,DEM,Mingo,Precinct 1,80
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 1,13
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 1,155
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 1,150
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 1,152
 Arne Moltis,Governor,,DEM,Mingo,Precinct 1,11
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 1,136
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 1,136
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 1,119
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 1,125
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 1,39
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 1,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 1,45
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 1,45
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 1,20
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 1,30
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 1,141
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 1,49
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 1,87
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 1,87
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 1,25
@@ -36,24 +36,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 1,
 ,Ballots Cast,,,Mingo,Precinct 3,141
 ,Ballots Cast,,REP,Mingo,Precinct 3,10
 ,Ballots Cast,,DEM,Mingo,Precinct 3,130
-Barack Obama,President ,,DEM,Mingo,Precinct 3,96
-Keith Judd,President ,,DEM,Mingo,Precinct 3,19
+Barack Obama,President,,DEM,Mingo,Precinct 3,96
+Keith Judd,President,,DEM,Mingo,Precinct 3,19
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 3,17
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 3,89
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 3,100
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 3,99
 Arne Moltis,Governor,,DEM,Mingo,Precinct 3,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 3,86
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 3,86
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 3,68
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 3,78
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 3,24
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 3,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 3,24
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 3,24
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 3,8
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 3,9
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 3,85
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 3,28
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 3,42
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 3,42
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 3,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 3,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 3,11
@@ -67,24 +67,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 3,
 ,Ballots Cast,,,Mingo,Precinct 5,52
 ,Ballots Cast,,REP,Mingo,Precinct 5,4
 ,Ballots Cast,,DEM,Mingo,Precinct 5,47
-Barack Obama,President ,,DEM,Mingo,Precinct 5,16
-Keith Judd,President ,,DEM,Mingo,Precinct 5,13
+Barack Obama,President,,DEM,Mingo,Precinct 5,16
+Keith Judd,President,,DEM,Mingo,Precinct 5,13
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 5,5
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 5,37
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 5,37
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 5,38
 Arne Moltis,Governor,,DEM,Mingo,Precinct 5,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 5,32
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 5,32
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 5,28
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 5,32
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 5,17
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 5,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 5,8
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 5,8
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 5,3
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 5,5
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 5,32
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 5,13
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 5,21
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 5,21
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 5,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 5,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 5,7
@@ -98,24 +98,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 5,
 ,Ballots Cast,,,Mingo,Precinct 7,217
 ,Ballots Cast,,REP,Mingo,Precinct 7,15
 ,Ballots Cast,,DEM,Mingo,Precinct 7,202
-Barack Obama,President ,,DEM,Mingo,Precinct 7,92
-Keith Judd,President ,,DEM,Mingo,Precinct 7,63
+Barack Obama,President,,DEM,Mingo,Precinct 7,92
+Keith Judd,President,,DEM,Mingo,Precinct 7,63
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 7,31
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 7,161
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 7,156
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 7,171
 Arne Moltis,Governor,,DEM,Mingo,Precinct 7,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 7,138
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 7,138
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 7,122
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 7,137
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 7,63
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 7,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 7,42
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 7,42
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 7,18
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 7,34
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 7,140
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 7,43
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 7,110
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 7,110
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 7,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 7,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 7,33
@@ -129,24 +129,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 7,
 ,Ballots Cast,,,Mingo,Precinct 9,267
 ,Ballots Cast,,REP,Mingo,Precinct 9,18
 ,Ballots Cast,,DEM,Mingo,Precinct 9,248
-Barack Obama,President ,,DEM,Mingo,Precinct 9,74
-Keith Judd,President ,,DEM,Mingo,Precinct 9,111
+Barack Obama,President,,DEM,Mingo,Precinct 9,74
+Keith Judd,President,,DEM,Mingo,Precinct 9,111
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 9,33
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 9,192
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 9,189
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 9,211
 Arne Moltis,Governor,,DEM,Mingo,Precinct 9,26
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 9,182
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 9,182
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 9,154
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 9,163
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 9,78
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 9,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 9,62
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 9,62
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 9,18
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 9,18
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 9,174
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 9,66
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 9,109
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 9,109
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 9,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 9,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 9,46
@@ -160,24 +160,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 9,
 ,Ballots Cast,,,Mingo,Precinct 22-1,154
 ,Ballots Cast,,REP,Mingo,Precinct 22-1,6
 ,Ballots Cast,,DEM,Mingo,Precinct 22-1,148
-Barack Obama,President ,,DEM,Mingo,Precinct 22-1,33
-Keith Judd,President ,,DEM,Mingo,Precinct 22-1,77
+Barack Obama,President,,DEM,Mingo,Precinct 22-1,33
+Keith Judd,President,,DEM,Mingo,Precinct 22-1,77
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 22-1,14
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 22-1,115
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 22-1,107
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 22-1,125
 Arne Moltis,Governor,,DEM,Mingo,Precinct 22-1,9
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 22-1,93
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 22-1,93
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 22-1,81
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 22-1,89
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-1,32
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-1,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-1,23
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-1,23
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-1,21
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-1,21
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 22-1,103
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 22-1,24
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 22-1,76
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 22-1,76
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 22-1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 22-1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 22-1,26
@@ -191,24 +191,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 22-1,
 ,Ballots Cast,,,Mingo,Precinct 22-2,169
 ,Ballots Cast,,REP,Mingo,Precinct 22-2,12
 ,Ballots Cast,,DEM,Mingo,Precinct 22-2,156
-Barack Obama,President ,,DEM,Mingo,Precinct 22-2,44
-Keith Judd,President ,,DEM,Mingo,Precinct 22-2,73
+Barack Obama,President,,DEM,Mingo,Precinct 22-2,44
+Keith Judd,President,,DEM,Mingo,Precinct 22-2,73
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 22-2,15
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 22-2,135
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 22-2,122
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 22-2,142
 Arne Moltis,Governor,,DEM,Mingo,Precinct 22-2,9
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 22-2,121
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 22-2,121
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 22-2,105
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 22-2,107
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-2,47
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-2,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-2,42
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-2,42
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-2,12
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 22-2,19
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 22-2,117
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 22-2,35
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 22-2,87
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 22-2,87
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 22-2,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 22-2,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 22-2,35
@@ -222,24 +222,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 22-2,
 ,Ballots Cast,,,Mingo,Precinct 23,215
 ,Ballots Cast,,REP,Mingo,Precinct 23,14
 ,Ballots Cast,,DEM,Mingo,Precinct 23,201
-Barack Obama,President ,,DEM,Mingo,Precinct 23,75
-Keith Judd,President ,,DEM,Mingo,Precinct 23,74
+Barack Obama,President,,DEM,Mingo,Precinct 23,75
+Keith Judd,President,,DEM,Mingo,Precinct 23,74
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 23,16
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 23,167
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 23,144
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 23,183
 Arne Moltis,Governor,,DEM,Mingo,Precinct 23,6
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 23,124
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 23,124
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 23,110
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 23,137
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 23,57
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 23,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 23,35
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 23,35
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 23,12
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 23,31
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 23,140
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 23,45
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 23,73
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 23,73
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 23,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 23,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 23,17
@@ -253,24 +253,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 23,
 ,Ballots Cast,,,Mingo,Precinct 26,128
 ,Ballots Cast,,REP,Mingo,Precinct 26,13
 ,Ballots Cast,,DEM,Mingo,Precinct 26,113
-Barack Obama,President ,,DEM,Mingo,Precinct 26,44
-Keith Judd,President ,,DEM,Mingo,Precinct 26,40
+Barack Obama,President,,DEM,Mingo,Precinct 26,44
+Keith Judd,President,,DEM,Mingo,Precinct 26,40
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 26,11
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 26,97
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 26,98
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 26,99
 Arne Moltis,Governor,,DEM,Mingo,Precinct 26,8
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 26,85
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 26,85
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 26,71
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 26,75
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 26,27
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 26,6
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 26,29
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 26,29
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 26,12
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 26,16
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 26,90
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 26,29
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 26,55
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 26,55
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 26,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 26,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 26,21
@@ -284,24 +284,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 26,
 ,Ballots Cast,,,Mingo,Precinct 27-1,215
 ,Ballots Cast,,REP,Mingo,Precinct 27-1,10
 ,Ballots Cast,,DEM,Mingo,Precinct 27-1,205
-Barack Obama,President ,,DEM,Mingo,Precinct 27-1,47
-Keith Judd,President ,,DEM,Mingo,Precinct 27-1,102
+Barack Obama,President,,DEM,Mingo,Precinct 27-1,47
+Keith Judd,President,,DEM,Mingo,Precinct 27-1,102
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 27-1,12
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 27-1,175
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 27-1,159
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 27-1,180
 Arne Moltis,Governor,,DEM,Mingo,Precinct 27-1,9
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 27-1,136
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 27-1,136
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 27-1,113
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 27-1,135
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-1,51
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-1,5
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-1,52
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-1,52
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-1,24
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-1,16
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 27-1,135
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 27-1,55
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 27-1,94
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 27-1,94
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 27-1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 27-1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 27-1,111
@@ -315,24 +315,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 27-1,
 ,Ballots Cast,,,Mingo,Precinct 27-2,194
 ,Ballots Cast,,REP,Mingo,Precinct 27-2,16
 ,Ballots Cast,,DEM,Mingo,Precinct 27-2,176
-Barack Obama,President ,,DEM,Mingo,Precinct 27-2,53
-Keith Judd,President ,,DEM,Mingo,Precinct 27-2,76
+Barack Obama,President,,DEM,Mingo,Precinct 27-2,53
+Keith Judd,President,,DEM,Mingo,Precinct 27-2,76
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 27-2,10
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 27-2,154
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 27-2,145
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 27-2,154
 Arne Moltis,Governor,,DEM,Mingo,Precinct 27-2,12
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 27-2,115
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 27-2,115
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 27-2,94
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 27-2,118
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-2,46
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-2,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-2,36
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-2,36
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-2,15
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 27-2,26
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 27-2,125
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 27-2,46
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 27-2,89
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 27-2,89
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 27-2,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 27-2,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 27-2,76
@@ -346,24 +346,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 27-2,
 ,Ballots Cast,,,Mingo,Precinct 28,291
 ,Ballots Cast,,REP,Mingo,Precinct 28,11
 ,Ballots Cast,,DEM,Mingo,Precinct 28,280
-Barack Obama,President ,,DEM,Mingo,Precinct 28,71
-Keith Judd,President ,,DEM,Mingo,Precinct 28,144
+Barack Obama,President,,DEM,Mingo,Precinct 28,71
+Keith Judd,President,,DEM,Mingo,Precinct 28,144
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 28,26
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 28,232
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 28,222
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 28,248
 Arne Moltis,Governor,,DEM,Mingo,Precinct 28,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 28,188
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 28,188
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 28,159
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 28,186
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 28,86
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 28,8
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 28,52
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 28,52
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 28,36
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 28,42
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 28,197
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 28,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 28,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 28,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 28,171
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 28,55
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 28,142
@@ -377,24 +377,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 28,
 ,Ballots Cast,,,Mingo,Precinct 30,261
 ,Ballots Cast,,REP,Mingo,Precinct 30,15
 ,Ballots Cast,,DEM,Mingo,Precinct 30,242
-Barack Obama,President ,,DEM,Mingo,Precinct 30,70
-Keith Judd,President ,,DEM,Mingo,Precinct 30,120
+Barack Obama,President,,DEM,Mingo,Precinct 30,70
+Keith Judd,President,,DEM,Mingo,Precinct 30,120
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 30,18
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 30,202
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 30,192
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 30,214
 Arne Moltis,Governor,,DEM,Mingo,Precinct 30,5
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 30,174
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 30,174
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 30,146
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 30,164
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 30,54
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 30,9
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 30,51
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 30,51
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 30,30
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 30,32
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 30,177
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 30,47
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 30,123
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 30,123
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 30,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 30,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 30,
@@ -408,24 +408,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 30,29
 ,Ballots Cast,,,Mingo,Precinct 41,190
 ,Ballots Cast,,REP,Mingo,Precinct 41,8
 ,Ballots Cast,,DEM,Mingo,Precinct 41,177
-Barack Obama,President ,,DEM,Mingo,Precinct 41,44
-Keith Judd,President ,,DEM,Mingo,Precinct 41,73
+Barack Obama,President,,DEM,Mingo,Precinct 41,44
+Keith Judd,President,,DEM,Mingo,Precinct 41,73
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 41,15
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 41,147
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 41,135
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 41,158
 Arne Moltis,Governor,,DEM,Mingo,Precinct 41,8
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 41,111
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 41,111
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 41,73
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 41,100
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 41,36
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 41,5
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 41,31
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 41,31
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 41,14
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 41,25
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 41,100
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 41,42
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 41,77
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 41,77
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 41,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 41,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 41,93
@@ -439,24 +439,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 41,
 ,Ballots Cast,,,Mingo,Precinct 43,282
 ,Ballots Cast,,REP,Mingo,Precinct 43,17
 ,Ballots Cast,,DEM,Mingo,Precinct 43,264
-Barack Obama,President ,,DEM,Mingo,Precinct 43,43
-Keith Judd,President ,,DEM,Mingo,Precinct 43,120
+Barack Obama,President,,DEM,Mingo,Precinct 43,43
+Keith Judd,President,,DEM,Mingo,Precinct 43,120
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 43,13
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 43,225
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 43,192
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 43,240
 Arne Moltis,Governor,,DEM,Mingo,Precinct 43,7
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 43,72
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 43,72
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 43,104
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 43,134
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 43,65
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 43,7
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 43,26
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 43,26
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 43,16
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 43,25
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 43,124
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 43,49
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 43,130
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 43,130
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 43,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 43,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 43,144
@@ -470,24 +470,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 43,
 ,Ballots Cast,,,Mingo,Precinct 44-1,197
 ,Ballots Cast,,REP,Mingo,Precinct 44-1,10
 ,Ballots Cast,,DEM,Mingo,Precinct 44-1,186
-Barack Obama,President ,,DEM,Mingo,Precinct 44-1,29
-Keith Judd,President ,,DEM,Mingo,Precinct 44-1,71
+Barack Obama,President,,DEM,Mingo,Precinct 44-1,29
+Keith Judd,President,,DEM,Mingo,Precinct 44-1,71
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 44-1,8
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 44-1,155
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 44-1,118
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 44-1,158
 Arne Moltis,Governor,,DEM,Mingo,Precinct 44-1,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 44-1,109
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 44-1,109
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 44-1,64
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 44-1,89
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-1,30
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-1,5
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-1,16
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-1,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-1,16
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-1,19
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 44-1,74
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 44-1,32
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 44-1,72
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 44-1,72
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 44-1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 44-1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 44-1,76
@@ -501,24 +501,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 44-1,
 ,Ballots Cast,,,Mingo,Precinct 44-2,329
 ,Ballots Cast,,REP,Mingo,Precinct 44-2,3
 ,Ballots Cast,,DEM,Mingo,Precinct 44-2,326
-Barack Obama,President ,,DEM,Mingo,Precinct 44-2,54
-Keith Judd,President ,,DEM,Mingo,Precinct 44-2,123
+Barack Obama,President,,DEM,Mingo,Precinct 44-2,54
+Keith Judd,President,,DEM,Mingo,Precinct 44-2,123
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 44-2,11
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 44-2,265
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 44-2,224
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 44-2,265
 Arne Moltis,Governor,,DEM,Mingo,Precinct 44-2,13
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 44-2,202
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 44-2,202
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 44-2,97
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 44-2,133
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-2,65
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-2,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-2,37
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-2,37
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-2,10
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 44-2,17
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 44-2,109
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 44-2,64
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 44-2,90
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 44-2,90
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 44-2,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 44-2,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 44-2,120
@@ -532,24 +532,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 44-2,
 ,Ballots Cast,,,Mingo,Precinct 45,203
 ,Ballots Cast,,REP,Mingo,Precinct 45,13
 ,Ballots Cast,,DEM,Mingo,Precinct 45,188
-Barack Obama,President ,,DEM,Mingo,Precinct 45,20
-Keith Judd,President ,,DEM,Mingo,Precinct 45,88
+Barack Obama,President,,DEM,Mingo,Precinct 45,20
+Keith Judd,President,,DEM,Mingo,Precinct 45,88
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 45,6
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 45,159
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 45,104
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 45,157
 Arne Moltis,Governor,,DEM,Mingo,Precinct 45,6
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 45,81
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 45,81
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 45,48
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 45,69
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 45,34
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 45,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 45,12
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 45,12
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 45,6
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 45,24
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 45,64
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 45,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 45,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 45,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 45,74
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 45,41
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 45,77
@@ -563,24 +563,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 45,
 ,Ballots Cast,,,Mingo,Precinct 46-1,222
 ,Ballots Cast,,REP,Mingo,Precinct 46-1,12
 ,Ballots Cast,,DEM,Mingo,Precinct 46-1,210
-Barack Obama,President ,,DEM,Mingo,Precinct 46-1,57
-Keith Judd,President ,,DEM,Mingo,Precinct 46-1,75
+Barack Obama,President,,DEM,Mingo,Precinct 46-1,57
+Keith Judd,President,,DEM,Mingo,Precinct 46-1,75
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 46-1,11
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 46-1,179
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 46-1,170
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 46-1,194
 Arne Moltis,Governor,,DEM,Mingo,Precinct 46-1,2
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 46-1,126
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 46-1,126
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 46-1,83
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 46-1,128
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-1,78
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-1,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-1,23
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-1,23
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-1,15
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-1,20
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 46-1,123
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 46-1,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 46-1,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 46-1,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 46-1,136
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 46-1,40
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 46-1,55
@@ -594,24 +594,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 46-1,
 ,Ballots Cast,,,Mingo,Precinct 46-2,291
 ,Ballots Cast,,REP,Mingo,Precinct 46-2,12
 ,Ballots Cast,,DEM,Mingo,Precinct 46-2,279
-Barack Obama,President ,,DEM,Mingo,Precinct 46-2,56
-Keith Judd,President ,,DEM,Mingo,Precinct 46-2,116
+Barack Obama,President,,DEM,Mingo,Precinct 46-2,56
+Keith Judd,President,,DEM,Mingo,Precinct 46-2,116
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 46-2,10
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 46-2,250
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 46-2,226
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 46-2,253
 Arne Moltis,Governor,,DEM,Mingo,Precinct 46-2,7
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 46-2,160
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 46-2,160
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 46-2,110
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 46-2,173
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-2,109
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-2,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-2,26
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-2,26
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-2,22
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 46-2,21
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 46-2,140
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 46-2,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 46-2,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 46-2,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 46-2,190
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 46-2,37
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 46-2,88
@@ -625,24 +625,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 46-2,
 ,Ballots Cast,,,Mingo,Precinct 47-1,279
 ,Ballots Cast,,REP,Mingo,Precinct 47-1,16
 ,Ballots Cast,,DEM,Mingo,Precinct 47-1,263
-Barack Obama,President ,,DEM,Mingo,Precinct 47-1,79
-Keith Judd,President ,,DEM,Mingo,Precinct 47-1,117
+Barack Obama,President,,DEM,Mingo,Precinct 47-1,79
+Keith Judd,President,,DEM,Mingo,Precinct 47-1,117
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 47-1,21
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 47-1,212
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 47-1,176
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 47-1,236
 Arne Moltis,Governor,,DEM,Mingo,Precinct 47-1,9
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 47-1,161
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 47-1,161
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 47-1,128
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 47-1,160
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-1,56
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-1,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-1,53
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-1,53
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-1,25
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-1,38
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 47-1,158
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 47-1,54
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 47-1,124
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 47-1,124
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 47-1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 47-1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 47-1,114
@@ -656,24 +656,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 47-1,
 ,Ballots Cast,,,Mingo,Precinct 47-2,243
 ,Ballots Cast,,REP,Mingo,Precinct 47-2,10
 ,Ballots Cast,,DEM,Mingo,Precinct 47-2,232
-Barack Obama,President ,,DEM,Mingo,Precinct 47-2,62
-Keith Judd,President ,,DEM,Mingo,Precinct 47-2,113
+Barack Obama,President,,DEM,Mingo,Precinct 47-2,62
+Keith Judd,President,,DEM,Mingo,Precinct 47-2,113
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 47-2,10
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 47-2,201
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 47-2,159
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 47-2,209
 Arne Moltis,Governor,,DEM,Mingo,Precinct 47-2,7
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 47-2,151
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 47-2,151
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 47-2,127
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 47-2,158
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-2,57
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-2,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-2,52
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-2,52
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-2,20
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 47-2,40
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 47-2,154
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 47-2,65
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 47-2,102
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 47-2,102
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 47-2,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 47-2,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 47-2,77
@@ -687,24 +687,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 47-2,
 ,Ballots Cast,,,Mingo,Precinct 48-1,142
 ,Ballots Cast,,REP,Mingo,Precinct 48-1,12
 ,Ballots Cast,,DEM,Mingo,Precinct 48-1,130
-Barack Obama,President ,,DEM,Mingo,Precinct 48-1,22
-Keith Judd,President ,,DEM,Mingo,Precinct 48-1,68
+Barack Obama,President,,DEM,Mingo,Precinct 48-1,22
+Keith Judd,President,,DEM,Mingo,Precinct 48-1,68
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 48-1,12
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 48-1,106
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 48-1,93
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 48-1,110
 Arne Moltis,Governor,,DEM,Mingo,Precinct 48-1,10
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 48-1,94
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 48-1,94
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 48-1,75
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 48-1,79
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-1,27
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-1,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-1,26
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-1,26
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-1,13
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-1,19
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 48-1,95
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 48-1,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 48-1,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 48-1,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 48-1,81
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 48-1,23
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 48-1,43
@@ -718,24 +718,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 48-1,
 ,Ballots Cast,,,Mingo,Precinct 48-2,196
 ,Ballots Cast,,REP,Mingo,Precinct 48-2,13
 ,Ballots Cast,,DEM,Mingo,Precinct 48-2,183
-Barack Obama,President ,,DEM,Mingo,Precinct 48-2,52
-Keith Judd,President ,,DEM,Mingo,Precinct 48-2,91
+Barack Obama,President,,DEM,Mingo,Precinct 48-2,52
+Keith Judd,President,,DEM,Mingo,Precinct 48-2,91
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 48-2,18
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 48-2,156
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 48-2,146
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 48-2,157
 Arne Moltis,Governor,,DEM,Mingo,Precinct 48-2,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 48-2,134
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 48-2,134
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 48-2,106
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 48-2,128
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-2,45
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-2,6
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-2,48
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-2,48
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-2,15
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 48-2,23
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 48-2,131
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 48-2,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 48-2,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 48-2,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 48-2,127
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 48-2,28
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 48-2,69
@@ -749,24 +749,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 48-2,
 ,Ballots Cast,,,Mingo,Precinct 50,117
 ,Ballots Cast,,REP,Mingo,Precinct 50,2
 ,Ballots Cast,,DEM,Mingo,Precinct 50,114
-Barack Obama,President ,,DEM,Mingo,Precinct 50,32
-Keith Judd,President ,,DEM,Mingo,Precinct 50,43
+Barack Obama,President,,DEM,Mingo,Precinct 50,32
+Keith Judd,President,,DEM,Mingo,Precinct 50,43
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 50,7
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 50,101
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 50,96
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 50,103
 Arne Moltis,Governor,,DEM,Mingo,Precinct 50,3
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 50,62
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 50,62
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 50,55
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 50,74
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 50,58
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 50,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 50,18
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 50,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 50,10
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 50,11
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 50,75
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 50,66
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 50,34
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 50,34
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 50,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 50,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 50,
@@ -780,24 +780,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 50,10
 ,Ballots Cast,,,Mingo,Precinct 51-1,93
 ,Ballots Cast,,REP,Mingo,Precinct 51-1,11
 ,Ballots Cast,,DEM,Mingo,Precinct 51-1,81
-Barack Obama,President ,,DEM,Mingo,Precinct 51-1,36
-Keith Judd,President ,,DEM,Mingo,Precinct 51-1,24
+Barack Obama,President,,DEM,Mingo,Precinct 51-1,36
+Keith Judd,President,,DEM,Mingo,Precinct 51-1,24
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 51-1,5
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 51-1,71
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 51-1,67
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 51-1,76
 Arne Moltis,Governor,,DEM,Mingo,Precinct 51-1,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 51-1,59
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 51-1,59
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 51-1,46
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 51-1,64
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-1,31
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-1,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-1,16
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-1,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-1,6
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-1,11
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 51-1,59
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 51-1,28
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 51-1,32
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 51-1,32
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 51-1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 51-1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 51-1,
@@ -811,24 +811,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 51-1,10
 ,Ballots Cast,,,Mingo,Precinct 51-2,112
 ,Ballots Cast,,REP,Mingo,Precinct 51-2,2
 ,Ballots Cast,,DEM,Mingo,Precinct 51-2,110
-Barack Obama,President ,,DEM,Mingo,Precinct 51-2,45
-Keith Judd,President ,,DEM,Mingo,Precinct 51-2,33
+Barack Obama,President,,DEM,Mingo,Precinct 51-2,45
+Keith Judd,President,,DEM,Mingo,Precinct 51-2,33
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 51-2,10
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 51-2,96
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 51-2,92
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 51-2,98
 Arne Moltis,Governor,,DEM,Mingo,Precinct 51-2,6
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 51-2,82
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 51-2,82
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 51-2,72
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 51-2,85
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-2,40
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-2,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-2,22
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-2,22
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-2,9
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 51-2,11
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 51-2,78
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 51-2,29
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 51-2,47
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 51-2,47
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 51-2,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 51-2,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 51-2,
@@ -842,24 +842,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 51-2,16
 ,Ballots Cast,,,Mingo,Precinct 55,248
 ,Ballots Cast,,REP,Mingo,Precinct 55,2
 ,Ballots Cast,,DEM,Mingo,Precinct 55,246
-Barack Obama,President ,,DEM,Mingo,Precinct 55,92
-Keith Judd,President ,,DEM,Mingo,Precinct 55,68
+Barack Obama,President,,DEM,Mingo,Precinct 55,92
+Keith Judd,President,,DEM,Mingo,Precinct 55,68
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 55,16
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 55,204
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 55,192
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 55,226
 Arne Moltis,Governor,,DEM,Mingo,Precinct 55,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 55,154
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 55,154
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 55,101
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 55,152
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 55,96
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 55,5
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 55,25
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 55,25
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 55,13
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 55,29
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 55,143
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 55,52
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 55,97
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 55,97
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 55,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 55,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 55,
@@ -873,24 +873,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 55,33
 ,Ballots Cast,,,Mingo,Precinct 56,100
 ,Ballots Cast,,REP,Mingo,Precinct 56,2
 ,Ballots Cast,,DEM,Mingo,Precinct 56,98
-Barack Obama,President ,,DEM,Mingo,Precinct 56,39
-Keith Judd,President ,,DEM,Mingo,Precinct 56,39
+Barack Obama,President,,DEM,Mingo,Precinct 56,39
+Keith Judd,President,,DEM,Mingo,Precinct 56,39
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 56,4
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 56,90
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 56,78
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 56,92
 Arne Moltis,Governor,,DEM,Mingo,Precinct 56,2
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 56,70
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 56,70
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 56,57
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 56,75
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 56,29
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 56,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 56,23
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 56,23
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 56,7
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 56,21
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 56,65
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 56,26
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 56,49
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 56,49
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 56,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 56,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 56,
@@ -904,24 +904,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 56,7
 ,Ballots Cast,,,Mingo,Precinct 57,245
 ,Ballots Cast,,REP,Mingo,Precinct 57,11
 ,Ballots Cast,,DEM,Mingo,Precinct 57,231
-Barack Obama,President ,,DEM,Mingo,Precinct 57,94
-Keith Judd,President ,,DEM,Mingo,Precinct 57,81
+Barack Obama,President,,DEM,Mingo,Precinct 57,94
+Keith Judd,President,,DEM,Mingo,Precinct 57,81
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 57,23
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 57,184
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 57,185
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 57,193
 Arne Moltis,Governor,,DEM,Mingo,Precinct 57,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 57,158
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 57,158
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 57,124
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 57,152
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 57,78
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 57,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 57,41
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 57,41
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 57,18
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 57,32
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 57,168
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 57,56
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 57,114
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 57,114
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 57,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 57,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 57,
@@ -935,24 +935,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 57,38
 ,Ballots Cast,,,Mingo,Precinct 59-1,262
 ,Ballots Cast,,REP,Mingo,Precinct 59-1,14
 ,Ballots Cast,,DEM,Mingo,Precinct 59-1,246
-Barack Obama,President ,,DEM,Mingo,Precinct 59-1,57
-Keith Judd,President ,,DEM,Mingo,Precinct 59-1,130
+Barack Obama,President,,DEM,Mingo,Precinct 59-1,57
+Keith Judd,President,,DEM,Mingo,Precinct 59-1,130
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 59-1,21
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 59-1,205
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 59-1,198
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 59-1,214
 Arne Moltis,Governor,,DEM,Mingo,Precinct 59-1,18
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 59-1,159
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 59-1,159
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 59-1,131
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 59-1,147
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-1,78
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-1,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-1,45
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-1,45
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-1,15
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-1,32
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 59-1,154
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 59-1,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 59-1,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 59-1,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 59-1,130
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 59-1,49
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 59-1,
@@ -966,24 +966,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 59-1,38
 ,Ballots Cast,,,Mingo,Precinct 59-2,240
 ,Ballots Cast,,REP,Mingo,Precinct 59-2,14
 ,Ballots Cast,,DEM,Mingo,Precinct 59-2,225
-Barack Obama,President ,,DEM,Mingo,Precinct 59-2,54
-Keith Judd,President ,,DEM,Mingo,Precinct 59-2,109
+Barack Obama,President,,DEM,Mingo,Precinct 59-2,54
+Keith Judd,President,,DEM,Mingo,Precinct 59-2,109
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 59-2,19
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 59-2,182
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 59-2,167
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 59-2,204
 Arne Moltis,Governor,,DEM,Mingo,Precinct 59-2,7
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 59-2,166
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 59-2,166
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 59-2,135
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 59-2,150
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-2,68
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-2,5
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-2,41
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-2,41
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-2,20
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 59-2,32
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 59-2,163
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 59-2,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 59-2,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 59-2,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 59-2,138
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 59-2,37
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 59-2,
@@ -997,24 +997,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 59-2,30
 ,Ballots Cast,,,Mingo,Precinct 72,139
 ,Ballots Cast,,REP,Mingo,Precinct 72,18
 ,Ballots Cast,,DEM,Mingo,Precinct 72,118
-Barack Obama,President ,,DEM,Mingo,Precinct 72,39
-Keith Judd,President ,,DEM,Mingo,Precinct 72,49
+Barack Obama,President,,DEM,Mingo,Precinct 72,39
+Keith Judd,President,,DEM,Mingo,Precinct 72,49
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 72,17
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 72,92
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 72,99
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 72,112
 Arne Moltis,Governor,,DEM,Mingo,Precinct 72,2
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 72,86
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 72,86
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 72,66
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 72,87
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 72,42
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 72,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 72,16
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 72,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 72,14
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 72,12
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 72,86
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 72,36
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 72,63
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 72,63
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 72,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 72,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 72,
@@ -1028,24 +1028,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 72,18
 ,Ballots Cast,,,Mingo,Precinct 73,197
 ,Ballots Cast,,REP,Mingo,Precinct 73,3
 ,Ballots Cast,,DEM,Mingo,Precinct 73,194
-Barack Obama,President ,,DEM,Mingo,Precinct 73,39
-Keith Judd,President ,,DEM,Mingo,Precinct 73,58
+Barack Obama,President,,DEM,Mingo,Precinct 73,39
+Keith Judd,President,,DEM,Mingo,Precinct 73,58
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 73,8
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 73,117
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 73,111
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 73,133
 Arne Moltis,Governor,,DEM,Mingo,Precinct 73,3
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 73,97
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 73,97
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 73,77
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 73,100
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 73,55
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 73,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 73,25
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 73,25
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 73,21
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 73,24
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 73,120
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 73,46
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 73,94
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 73,94
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 73,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 73,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 73,
@@ -1059,24 +1059,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 73,34
 ,Ballots Cast,,,Mingo,Precinct 74-1,167
 ,Ballots Cast,,REP,Mingo,Precinct 74-1,3
 ,Ballots Cast,,DEM,Mingo,Precinct 74-1,164
-Barack Obama,President ,,DEM,Mingo,Precinct 74-1,55
-Keith Judd,President ,,DEM,Mingo,Precinct 74-1,50
+Barack Obama,President,,DEM,Mingo,Precinct 74-1,55
+Keith Judd,President,,DEM,Mingo,Precinct 74-1,50
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 74-1,13
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 74-1,133
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 74-1,134
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 74-1,150
 Arne Moltis,Governor,,DEM,Mingo,Precinct 74-1,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 74-1,83
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 74-1,83
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 74-1,61
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 74-1,108
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-1,66
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-1,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-1,19
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-1,19
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-1,7
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-1,10
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 74-1,99
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 74-1,47
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 74-1,67
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 74-1,67
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 74-1,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 74-1,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 74-1,
@@ -1090,24 +1090,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 74-1,20
 ,Ballots Cast,,,Mingo,Precinct 74-2,156
 ,Ballots Cast,,REP,Mingo,Precinct 74-2,3
 ,Ballots Cast,,DEM,Mingo,Precinct 74-2,153
-Barack Obama,President ,,DEM,Mingo,Precinct 74-2,33
-Keith Judd,President ,,DEM,Mingo,Precinct 74-2,56
+Barack Obama,President,,DEM,Mingo,Precinct 74-2,33
+Keith Judd,President,,DEM,Mingo,Precinct 74-2,56
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 74-2,10
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 74-2,128
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 74-2,121
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 74-2,142
 Arne Moltis,Governor,,DEM,Mingo,Precinct 74-2,3
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 74-2,90
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 74-2,90
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 74-2,75
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 74-2,104
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-2,48
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-2,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-2,20
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-2,20
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-2,15
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 74-2,10
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 74-2,103
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 74-2,32
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 74-2,79
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 74-2,79
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 74-2,
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 74-2,
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 74-2,
@@ -1121,24 +1121,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 74-2,10
 ,Ballots Cast,,,Mingo,Precinct 75,197
 ,Ballots Cast,,REP,Mingo,Precinct 75,21
 ,Ballots Cast,,DEM,Mingo,Precinct 75,174
-Barack Obama,President ,,DEM,Mingo,Precinct 75,31
-Keith Judd,President ,,DEM,Mingo,Precinct 75,96
+Barack Obama,President,,DEM,Mingo,Precinct 75,31
+Keith Judd,President,,DEM,Mingo,Precinct 75,96
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 75,13
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 75,149
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 75,143
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 75,160
 Arne Moltis,Governor,,DEM,Mingo,Precinct 75,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 75,129
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 75,129
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 75,106
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 75,123
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 75,46
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 75,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 75,36
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 75,36
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 75,20
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 75,25
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 75,129
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 75,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 75,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 75,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 75,119
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 75,26
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 75,
@@ -1152,24 +1152,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 75,19
 ,Ballots Cast,,,Mingo,Precinct 76-1,134
 ,Ballots Cast,,REP,Mingo,Precinct 76-1,19
 ,Ballots Cast,,DEM,Mingo,Precinct 76-1,115
-Barack Obama,President ,,DEM,Mingo,Precinct 76-1,22
-Keith Judd,President ,,DEM,Mingo,Precinct 76-1,53
+Barack Obama,President,,DEM,Mingo,Precinct 76-1,22
+Keith Judd,President,,DEM,Mingo,Precinct 76-1,53
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 76-1,8
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 76-1,97
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 76-1,88
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 76-1,102
 Arne Moltis,Governor,,DEM,Mingo,Precinct 76-1,4
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 76-1,79
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 76-1,79
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 76-1,66
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 76-1,81
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-1,29
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-1,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-1,18
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-1,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-1,14
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-1,14
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 76-1,82
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 76-1,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 76-1,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 76-1,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 76-1,77
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 76-1,14
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 76-1,
@@ -1183,24 +1183,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 76-1,17
 ,Ballots Cast,,,Mingo,Precinct 76-2,123
 ,Ballots Cast,,REP,Mingo,Precinct 76-2,13
 ,Ballots Cast,,DEM,Mingo,Precinct 76-2,110
-Barack Obama,President ,,DEM,Mingo,Precinct 76-2,24
-Keith Judd,President ,,DEM,Mingo,Precinct 76-2,55
+Barack Obama,President,,DEM,Mingo,Precinct 76-2,24
+Keith Judd,President,,DEM,Mingo,Precinct 76-2,55
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,Precinct 76-2,9
 Joe Manchin III,U.S. Senate,,DEM,Mingo,Precinct 76-2,94
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,Precinct 76-2,91
 Earl Ray Tomblin,Governor,,DEM,Mingo,Precinct 76-2,105
 Arne Moltis,Governor,,DEM,Mingo,Precinct 76-2,2
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,Precinct 76-2,80
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,Precinct 76-2,80
 Glen B. Gainer III,Auditor,,DEM,Mingo,Precinct 76-2,61
 John D. Perdue,Treasurer,,DEM,Mingo,Precinct 76-2,79
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-2,43
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-2,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-2,23
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-2,23
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-2,10
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,Precinct 76-2,10
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,Precinct 76-2,84
 Mark Wills,State Senate,6,DEM,Mingo,Precinct 76-2,
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,Precinct 76-2,
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,Precinct 76-2,
 Art Kirkendoll,State Senate,7,DEM,Mingo,Precinct 76-2,75
 Sammy D. Dalton,State Senate,7,DEM,Mingo,Precinct 76-2,17
 Nathan Brown,House of Delegates,20,DEM,Mingo,Precinct 76-2,
@@ -1214,24 +1214,24 @@ James C. Lusk,House of Delegates,21,DEM,Mingo,Precinct 76-2,12
 ,Ballots Cast,,,Mingo,TOTALS,7598
 ,Ballots Cast,,REP,Mingo,TOTALS,418
 ,Ballots Cast,,DEM,Mingo,TOTALS,7142
-Barack Obama,President ,,DEM,Mingo,TOTALS,1974
-Keith Judd,President ,,DEM,Mingo,TOTALS,2991
+Barack Obama,President,,DEM,Mingo,TOTALS,1974
+Keith Judd,President,,DEM,Mingo,TOTALS,2991
 Sheirl Fletcher,U.S. Senate,,DEM,Mingo,TOTALS,539
 Joe Manchin III,U.S. Senate,,DEM,Mingo,TOTALS,5909
 "Nick J. Rahall, II",U.S. House,,DEM,Mingo,TOTALS,5426
 Earl Ray Tomblin,Governor,,DEM,Mingo,TOTALS,6263
 Arne Moltis,Governor,,DEM,Mingo,TOTALS,318
-Natalie E. Tennant,Secretary of State ,,DEM,Mingo,TOTALS,4665
+Natalie E. Tennant,Secretary of State,,DEM,Mingo,TOTALS,4665
 Glen B. Gainer III,Auditor,,DEM,Mingo,TOTALS,3618
 John D. Perdue,Treasurer,,DEM,Mingo,TOTALS,4478
 Walt Helmick,Commissioner of Agriculture,,DEM,Mingo,TOTALS,2030
 Bobb Tabb,Commissioner of Agriculture,,DEM,Mingo,TOTALS,122
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mingo,TOTALS,1239
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mingo,TOTALS,1239
 Joe Messineo,Commissioner of Agriculture,,DEM,Mingo,TOTALS,600
 Steve Miller,Commissioner of Agriculture,,DEM,Mingo,TOTALS,854
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Mingo,TOTALS,4536
 Mark Wills,State Senate,6,DEM,Mingo,TOTALS,1204
-"Michael ""Mike"" Mitchem ",State Senate,6,DEM,Mingo,TOTALS,2237
+"Michael ""Mike"" Mitchem",State Senate,6,DEM,Mingo,TOTALS,2237
 Art Kirkendoll,State Senate,7,DEM,Mingo,TOTALS,1318
 Sammy D. Dalton,State Senate,7,DEM,Mingo,TOTALS,367
 Nathan Brown,House of Delegates,20,DEM,Mingo,TOTALS,1506

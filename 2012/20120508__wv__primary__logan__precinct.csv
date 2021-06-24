@@ -5,18 +5,18 @@ candidate,office,district,party,county,precinct,total votes
 ,Ballots Cast,,,Logan,Precinct 1,361
 ,Ballots Cast,,REP,Logan,Precinct 1,12
 ,Ballots Cast,,DEM,Logan,Precinct 1,349
-Rick Santorum,President ,,REP,Logan,Precinct 1,3
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 1,1
-Newt Gingrich,President ,,REP,Logan,Precinct 1,0
-Ron Paul,President ,,REP,Logan,Precinct 1,0
-Mitt Romney,President ,,REP,Logan,Precinct 1,7
+Rick Santorum,President,,REP,Logan,Precinct 1,3
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 1,1
+Newt Gingrich,President,,REP,Logan,Precinct 1,0
+Ron Paul,President,,REP,Logan,Precinct 1,0
+Mitt Romney,President,,REP,Logan,Precinct 1,7
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 1,12
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 1,8
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 1,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 1,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 1,3
 Bill Maloney,Governor,,REP,Logan,Precinct 1,7
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 1,6
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 1,6
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 1,8
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 1,5
 Mike Hall,Treasurer,,REP,Logan,Precinct 1,4
@@ -26,21 +26,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 1,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 1,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 1,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 1,
-Barack Obama,President ,,DEM,Logan,Precinct 1,128
-Keith Judd,President ,,DEM,Logan,Precinct 1,122
+Barack Obama,President,,DEM,Logan,Precinct 1,128
+Keith Judd,President,,DEM,Logan,Precinct 1,122
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 1,282
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 1,37
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 1,252
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 1,308
 Arne Moltis,Governor,,DEM,Logan,Precinct 1,24
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 1,203
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 1,203
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 1,174
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 1,208
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 1,53
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 1,36
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 1,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 1,101
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 1,59
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 1,59
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 1,236
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 1,221
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 1,110
@@ -65,18 +65,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 1,8
 ,Ballots Cast,,,Logan,Precinct 2,426
 ,Ballots Cast,,REP,Logan,Precinct 2,35
 ,Ballots Cast,,DEM,Logan,Precinct 2,391
-Rick Santorum,President ,,REP,Logan,Precinct 2,9
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 2,0
-Newt Gingrich,President ,,REP,Logan,Precinct 2,0
-Ron Paul,President ,,REP,Logan,Precinct 2,3
-Mitt Romney,President ,,REP,Logan,Precinct 2,22
+Rick Santorum,President,,REP,Logan,Precinct 2,9
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 2,0
+Newt Gingrich,President,,REP,Logan,Precinct 2,0
+Ron Paul,President,,REP,Logan,Precinct 2,3
+Mitt Romney,President,,REP,Logan,Precinct 2,22
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 2,23
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 2,15
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 2,10
 Bill Lester,U.S. House,3,REP,Logan,Precinct 2,4
 Ralph William Clark,Governor,,REP,Logan,Precinct 2,6
 Bill Maloney,Governor,,REP,Logan,Precinct 2,24
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 2,26
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 2,26
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 2,25
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 2,10
 Mike Hall,Treasurer,,REP,Logan,Precinct 2,16
@@ -86,21 +86,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 2,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 2,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 2,20
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 2,16
-Barack Obama,President ,,DEM,Logan,Precinct 2,89
-Keith Judd,President ,,DEM,Logan,Precinct 2,154
+Barack Obama,President,,DEM,Logan,Precinct 2,89
+Keith Judd,President,,DEM,Logan,Precinct 2,154
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 2,317
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 2,23
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 2,263
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 2,360
 Arne Moltis,Governor,,DEM,Logan,Precinct 2,15
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 2,243
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 2,243
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 2,181
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 2,220
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 2,34
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 2,31
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 2,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 2,110
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 2,78
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 2,78
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 2,266
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 2,128
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 2,237
@@ -125,18 +125,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 2,
 ,Ballots Cast,,,Logan,Precinct 4,412
 ,Ballots Cast,,REP,Logan,Precinct 4,41
 ,Ballots Cast,,DEM,Logan,Precinct 4,370
-Rick Santorum,President ,,REP,Logan,Precinct 4,2
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 4,0
-Newt Gingrich,President ,,REP,Logan,Precinct 4,2
-Ron Paul,President ,,REP,Logan,Precinct 4,5
-Mitt Romney,President ,,REP,Logan,Precinct 4,31
+Rick Santorum,President,,REP,Logan,Precinct 4,2
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 4,0
+Newt Gingrich,President,,REP,Logan,Precinct 4,2
+Ron Paul,President,,REP,Logan,Precinct 4,5
+Mitt Romney,President,,REP,Logan,Precinct 4,31
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 4,29
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 4,10
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 4,7
 Bill Lester,U.S. House,3,REP,Logan,Precinct 4,11
 Ralph William Clark,Governor,,REP,Logan,Precinct 4,5
 Bill Maloney,Governor,,REP,Logan,Precinct 4,26
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 4,22
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 4,22
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 4,24
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 4,11
 Mike Hall,Treasurer,,REP,Logan,Precinct 4,17
@@ -146,21 +146,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 4,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 4,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 4,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 4,
-Barack Obama,President ,,DEM,Logan,Precinct 4,78
-Keith Judd,President ,,DEM,Logan,Precinct 4,154
+Barack Obama,President,,DEM,Logan,Precinct 4,78
+Keith Judd,President,,DEM,Logan,Precinct 4,154
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 4,291
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 4,43
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 4,239
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 4,333
 Arne Moltis,Governor,,DEM,Logan,Precinct 4,18
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 4,225
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 4,225
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 4,184
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 4,223
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 4,37
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 4,40
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 4,1
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 4,100
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 4,77
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 4,77
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 4,242
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 4,84
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 4,259
@@ -185,18 +185,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 4,5
 ,Ballots Cast,,,Logan,Precinct 5A,470
 ,Ballots Cast,,REP,Logan,Precinct 5A,31
 ,Ballots Cast,,DEM,Logan,Precinct 5A,439
-Rick Santorum,President ,,REP,Logan,Precinct 5A,6
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 5A,0
-Newt Gingrich,President ,,REP,Logan,Precinct 5A,3
-Ron Paul,President ,,REP,Logan,Precinct 5A,0
-Mitt Romney,President ,,REP,Logan,Precinct 5A,21
+Rick Santorum,President,,REP,Logan,Precinct 5A,6
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 5A,0
+Newt Gingrich,President,,REP,Logan,Precinct 5A,3
+Ron Paul,President,,REP,Logan,Precinct 5A,0
+Mitt Romney,President,,REP,Logan,Precinct 5A,21
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 5A,25
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 5A,9
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 5A,10
 Bill Lester,U.S. House,3,REP,Logan,Precinct 5A,6
 Ralph William Clark,Governor,,REP,Logan,Precinct 5A,7
 Bill Maloney,Governor,,REP,Logan,Precinct 5A,20
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 5A,19
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 5A,19
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 5A,22
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 5A,13
 Mike Hall,Treasurer,,REP,Logan,Precinct 5A,11
@@ -206,21 +206,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 5A,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 5A,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 5A,21
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 5A,18
-Barack Obama,President ,,DEM,Logan,Precinct 5A,130
-Keith Judd,President ,,DEM,Logan,Precinct 5A,174
+Barack Obama,President,,DEM,Logan,Precinct 5A,130
+Keith Judd,President,,DEM,Logan,Precinct 5A,174
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 5A,358
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 5A,40
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 5A,292
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 5A,404
 Arne Moltis,Governor,,DEM,Logan,Precinct 5A,14
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 5A,284
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 5A,284
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 5A,241
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 5A,266
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 5A,44
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 5A,29
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 5A,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 5A,163
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 5A,86
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 5A,86
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 5A,306
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 5A,141
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 5A,263
@@ -245,18 +245,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 5A,
 ,Ballots Cast,,,Logan,Precinct 5B,8
 ,Ballots Cast,,REP,Logan,Precinct 5B,0
 ,Ballots Cast,,DEM,Logan,Precinct 5B,8
-Rick Santorum,President ,,REP,Logan,Precinct 5B,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 5B,0
-Newt Gingrich,President ,,REP,Logan,Precinct 5B,0
-Ron Paul,President ,,REP,Logan,Precinct 5B,0
-Mitt Romney,President ,,REP,Logan,Precinct 5B,0
+Rick Santorum,President,,REP,Logan,Precinct 5B,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 5B,0
+Newt Gingrich,President,,REP,Logan,Precinct 5B,0
+Ron Paul,President,,REP,Logan,Precinct 5B,0
+Mitt Romney,President,,REP,Logan,Precinct 5B,0
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 5B,0
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 5B,0
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 5B,0
 Bill Lester,U.S. House,3,REP,Logan,Precinct 5B,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 5B,0
 Bill Maloney,Governor,,REP,Logan,Precinct 5B,0
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 5B,0
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 5B,0
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 5B,0
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 5B,0
 Mike Hall,Treasurer,,REP,Logan,Precinct 5B,0
@@ -266,21 +266,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 5B,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 5B,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 5B,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 5B,
-Barack Obama,President ,,DEM,Logan,Precinct 5B,5
-Keith Judd,President ,,DEM,Logan,Precinct 5B,2
+Barack Obama,President,,DEM,Logan,Precinct 5B,5
+Keith Judd,President,,DEM,Logan,Precinct 5B,2
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 5B,7
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 5B,0
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 5B,7
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 5B,8
 Arne Moltis,Governor,,DEM,Logan,Precinct 5B,0
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 5B,7
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 5B,7
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 5B,6
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 5B,6
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 5B,1
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 5B,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 5B,0
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 5B,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 5B,4
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 5B,4
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 5B,7
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 5B,2
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 5B,6
@@ -305,18 +305,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 5B,0
 ,Ballots Cast,,,Logan,Precinct 6,310
 ,Ballots Cast,,REP,Logan,Precinct 6,37
 ,Ballots Cast,,DEM,Logan,Precinct 6,267
-Rick Santorum,President ,,REP,Logan,Precinct 6,7
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 6,0
-Newt Gingrich,President ,,REP,Logan,Precinct 6,3
-Ron Paul,President ,,REP,Logan,Precinct 6,4
-Mitt Romney,President ,,REP,Logan,Precinct 6,20
+Rick Santorum,President,,REP,Logan,Precinct 6,7
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 6,0
+Newt Gingrich,President,,REP,Logan,Precinct 6,3
+Ron Paul,President,,REP,Logan,Precinct 6,4
+Mitt Romney,President,,REP,Logan,Precinct 6,20
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 6,28
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 6,12
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 6,7
 Bill Lester,U.S. House,3,REP,Logan,Precinct 6,7
 Ralph William Clark,Governor,,REP,Logan,Precinct 6,10
 Bill Maloney,Governor,,REP,Logan,Precinct 6,20
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 6,26
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 6,26
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 6,25
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 6,11
 Mike Hall,Treasurer,,REP,Logan,Precinct 6,16
@@ -326,21 +326,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 6,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 6,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 6,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 6,
-Barack Obama,President ,,DEM,Logan,Precinct 6,82
-Keith Judd,President ,,DEM,Logan,Precinct 6,96
+Barack Obama,President,,DEM,Logan,Precinct 6,82
+Keith Judd,President,,DEM,Logan,Precinct 6,96
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 6,222
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 6,27
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 6,195
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 6,250
 Arne Moltis,Governor,,DEM,Logan,Precinct 6,7
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 6,172
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 6,172
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 6,147
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 6,168
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 6,38
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 6,24
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 6,1
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 6,83
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 6,44
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 6,44
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 6,194
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 6,59
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 6,196
@@ -365,18 +365,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 6,3
 ,Ballots Cast,,,Logan,Precinct 7,293
 ,Ballots Cast,,REP,Logan,Precinct 7,30
 ,Ballots Cast,,DEM,Logan,Precinct 7,263
-Rick Santorum,President ,,REP,Logan,Precinct 7,5
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 7,0
-Newt Gingrich,President ,,REP,Logan,Precinct 7,1
-Ron Paul,President ,,REP,Logan,Precinct 7,4
-Mitt Romney,President ,,REP,Logan,Precinct 7,17
+Rick Santorum,President,,REP,Logan,Precinct 7,5
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 7,0
+Newt Gingrich,President,,REP,Logan,Precinct 7,1
+Ron Paul,President,,REP,Logan,Precinct 7,4
+Mitt Romney,President,,REP,Logan,Precinct 7,17
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 7,23
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 7,12
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 7,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 7,6
 Ralph William Clark,Governor,,REP,Logan,Precinct 7,10
 Bill Maloney,Governor,,REP,Logan,Precinct 7,14
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 7,19
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 7,19
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 7,18
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 7,14
 Mike Hall,Treasurer,,REP,Logan,Precinct 7,9
@@ -386,21 +386,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 7,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 7,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 7,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 7,
-Barack Obama,President ,,DEM,Logan,Precinct 7,76
-Keith Judd,President ,,DEM,Logan,Precinct 7,105
+Barack Obama,President,,DEM,Logan,Precinct 7,76
+Keith Judd,President,,DEM,Logan,Precinct 7,105
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 7,224
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 7,25
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 7,203
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 7,245
 Arne Moltis,Governor,,DEM,Logan,Precinct 7,15
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 7,197
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 7,197
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 7,154
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 7,174
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 7,33
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 7,18
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 7,4
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 7,73
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 7,63
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 7,63
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 7,192
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 7,70
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 7,186
@@ -425,18 +425,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 7,7
 ,Ballots Cast,,,Logan,Precinct 8,185
 ,Ballots Cast,,REP,Logan,Precinct 8,22
 ,Ballots Cast,,DEM,Logan,Precinct 8,160
-Rick Santorum,President ,,REP,Logan,Precinct 8,2
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 8,0
-Newt Gingrich,President ,,REP,Logan,Precinct 8,1
-Ron Paul,President ,,REP,Logan,Precinct 8,2
-Mitt Romney,President ,,REP,Logan,Precinct 8,15
+Rick Santorum,President,,REP,Logan,Precinct 8,2
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 8,0
+Newt Gingrich,President,,REP,Logan,Precinct 8,1
+Ron Paul,President,,REP,Logan,Precinct 8,2
+Mitt Romney,President,,REP,Logan,Precinct 8,15
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 8,16
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 8,11
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 8,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 8,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 8,3
 Bill Maloney,Governor,,REP,Logan,Precinct 8,14
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 8,14
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 8,14
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 8,14
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 8,5
 Mike Hall,Treasurer,,REP,Logan,Precinct 8,12
@@ -446,21 +446,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 8,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 8,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 8,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 8,
-Barack Obama,President ,,DEM,Logan,Precinct 8,34
-Keith Judd,President ,,DEM,Logan,Precinct 8,80
+Barack Obama,President,,DEM,Logan,Precinct 8,34
+Keith Judd,President,,DEM,Logan,Precinct 8,80
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 8,128
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 8,23
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 8,119
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 8,141
 Arne Moltis,Governor,,DEM,Logan,Precinct 8,13
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 8,103
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 8,103
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 8,79
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 8,100
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 8,17
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 8,9
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 8,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 8,52
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 8,29
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 8,29
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 8,116
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 8,38
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 8,115
@@ -485,18 +485,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 8,3
 ,Ballots Cast,,,Logan,Precinct 10,120
 ,Ballots Cast,,REP,Logan,Precinct 10,9
 ,Ballots Cast,,DEM,Logan,Precinct 10,111
-Rick Santorum,President ,,REP,Logan,Precinct 10,1
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 10,0
-Newt Gingrich,President ,,REP,Logan,Precinct 10,0
-Ron Paul,President ,,REP,Logan,Precinct 10,3
-Mitt Romney,President ,,REP,Logan,Precinct 10,5
+Rick Santorum,President,,REP,Logan,Precinct 10,1
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 10,0
+Newt Gingrich,President,,REP,Logan,Precinct 10,0
+Ron Paul,President,,REP,Logan,Precinct 10,3
+Mitt Romney,President,,REP,Logan,Precinct 10,5
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 10,6
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 10,5
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 10,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 10,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 10,2
 Bill Maloney,Governor,,REP,Logan,Precinct 10,6
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 10,7
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 10,7
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 10,5
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 10,1
 Mike Hall,Treasurer,,REP,Logan,Precinct 10,5
@@ -506,21 +506,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 10,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 10,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 10,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 10,
-Barack Obama,President ,,DEM,Logan,Precinct 10,26
-Keith Judd,President ,,DEM,Logan,Precinct 10,59
+Barack Obama,President,,DEM,Logan,Precinct 10,26
+Keith Judd,President,,DEM,Logan,Precinct 10,59
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 10,93
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 10,10
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 10,86
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 10,100
 Arne Moltis,Governor,,DEM,Logan,Precinct 10,7
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 10,83
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 10,83
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 10,59
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 10,71
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 10,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 10,15
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 10,0
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 10,25
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 10,23
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 10,23
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 10,81
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 10,29
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 10,76
@@ -545,18 +545,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 10,6
 ,Ballots Cast,,,Logan,Precinct 11,182
 ,Ballots Cast,,REP,Logan,Precinct 11,20
 ,Ballots Cast,,DEM,Logan,Precinct 11,162
-Rick Santorum,President ,,REP,Logan,Precinct 11,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 11,0
-Newt Gingrich,President ,,REP,Logan,Precinct 11,3
-Ron Paul,President ,,REP,Logan,Precinct 11,0
-Mitt Romney,President ,,REP,Logan,Precinct 11,15
+Rick Santorum,President,,REP,Logan,Precinct 11,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 11,0
+Newt Gingrich,President,,REP,Logan,Precinct 11,3
+Ron Paul,President,,REP,Logan,Precinct 11,0
+Mitt Romney,President,,REP,Logan,Precinct 11,15
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 11,15
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 11,6
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 11,3
 Bill Lester,U.S. House,3,REP,Logan,Precinct 11,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 11,1
 Bill Maloney,Governor,,REP,Logan,Precinct 11,14
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 11,14
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 11,14
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 11,12
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 11,8
 Mike Hall,Treasurer,,REP,Logan,Precinct 11,7
@@ -566,21 +566,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 11,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 11,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 11,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 11,
-Barack Obama,President ,,DEM,Logan,Precinct 11,47
-Keith Judd,President ,,DEM,Logan,Precinct 11,56
+Barack Obama,President,,DEM,Logan,Precinct 11,47
+Keith Judd,President,,DEM,Logan,Precinct 11,56
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 11,125
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 11,21
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 11,113
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 11,143
 Arne Moltis,Governor,,DEM,Logan,Precinct 11,9
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 11,108
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 11,108
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 11,90
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 11,99
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 11,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 11,15
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 11,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 11,48
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 11,38
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 11,38
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 11,109
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 11,51
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 11,106
@@ -605,18 +605,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 11,63
 ,Ballots Cast,,,Logan,Precinct 13,154
 ,Ballots Cast,,REP,Logan,Precinct 13,10
 ,Ballots Cast,,DEM,Logan,Precinct 13,142
-Rick Santorum,President ,,REP,Logan,Precinct 13,2
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 13,0
-Newt Gingrich,President ,,REP,Logan,Precinct 13,0
-Ron Paul,President ,,REP,Logan,Precinct 13,0
-Mitt Romney,President ,,REP,Logan,Precinct 13,5
+Rick Santorum,President,,REP,Logan,Precinct 13,2
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 13,0
+Newt Gingrich,President,,REP,Logan,Precinct 13,0
+Ron Paul,President,,REP,Logan,Precinct 13,0
+Mitt Romney,President,,REP,Logan,Precinct 13,5
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 13,7
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 13,1
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 13,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 13,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 13,0
 Bill Maloney,Governor,,REP,Logan,Precinct 13,6
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 13,4
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 13,4
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 13,6
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 13,3
 Mike Hall,Treasurer,,REP,Logan,Precinct 13,3
@@ -626,21 +626,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 13,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 13,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 13,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 13,
-Barack Obama,President ,,DEM,Logan,Precinct 13,54
-Keith Judd,President ,,DEM,Logan,Precinct 13,48
+Barack Obama,President,,DEM,Logan,Precinct 13,54
+Keith Judd,President,,DEM,Logan,Precinct 13,48
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 13,117
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 13,17
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 13,106
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 13,127
 Arne Moltis,Governor,,DEM,Logan,Precinct 13,11
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 13,110
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 13,110
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 13,92
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 13,98
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 13,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 13,11
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 13,5
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 13,32
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 13,32
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 13,32
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 13,105
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 13,39
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 13,94
@@ -665,18 +665,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 13,16
 ,Ballots Cast,,,Logan,Precinct 14,129
 ,Ballots Cast,,REP,Logan,Precinct 14,10
 ,Ballots Cast,,DEM,Logan,Precinct 14,119
-Rick Santorum,President ,,REP,Logan,Precinct 14,5
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 14,0
-Newt Gingrich,President ,,REP,Logan,Precinct 14,1
-Ron Paul,President ,,REP,Logan,Precinct 14,1
-Mitt Romney,President ,,REP,Logan,Precinct 14,3
+Rick Santorum,President,,REP,Logan,Precinct 14,5
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 14,0
+Newt Gingrich,President,,REP,Logan,Precinct 14,1
+Ron Paul,President,,REP,Logan,Precinct 14,1
+Mitt Romney,President,,REP,Logan,Precinct 14,3
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 14,9
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 14,3
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 14,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 14,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 14,4
 Bill Maloney,Governor,,REP,Logan,Precinct 14,6
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 14,9
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 14,9
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 14,7
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 14,3
 Mike Hall,Treasurer,,REP,Logan,Precinct 14,4
@@ -686,21 +686,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 14,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 14,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 14,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 14,
-Barack Obama,President ,,DEM,Logan,Precinct 14,26
-Keith Judd,President ,,DEM,Logan,Precinct 14,55
+Barack Obama,President,,DEM,Logan,Precinct 14,26
+Keith Judd,President,,DEM,Logan,Precinct 14,55
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 14,100
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 14,8
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 14,78
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 14,111
 Arne Moltis,Governor,,DEM,Logan,Precinct 14,4
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 14,84
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 14,84
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 14,73
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 14,75
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 14,10
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 14,12
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 14,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 14,32
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 14,26
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 14,26
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 14,80
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 14,28
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 14,83
@@ -725,18 +725,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 14,6
 ,Ballots Cast,,,Logan,Precinct 15,464
 ,Ballots Cast,,REP,Logan,Precinct 15,56
 ,Ballots Cast,,DEM,Logan,Precinct 15,406
-Rick Santorum,President ,,REP,Logan,Precinct 15,9
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 15,1
-Newt Gingrich,President ,,REP,Logan,Precinct 15,2
-Ron Paul,President ,,REP,Logan,Precinct 15,8
-Mitt Romney,President ,,REP,Logan,Precinct 15,32
+Rick Santorum,President,,REP,Logan,Precinct 15,9
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 15,1
+Newt Gingrich,President,,REP,Logan,Precinct 15,2
+Ron Paul,President,,REP,Logan,Precinct 15,8
+Mitt Romney,President,,REP,Logan,Precinct 15,32
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 15,40
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 15,13
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 15,21
 Bill Lester,U.S. House,3,REP,Logan,Precinct 15,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 15,5
 Bill Maloney,Governor,,REP,Logan,Precinct 15,38
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 15,33
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 15,33
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 15,36
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 15,16
 Mike Hall,Treasurer,,REP,Logan,Precinct 15,20
@@ -746,21 +746,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 15,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 15,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 15,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 15,
-Barack Obama,President ,,DEM,Logan,Precinct 15,121
-Keith Judd,President ,,DEM,Logan,Precinct 15,162
+Barack Obama,President,,DEM,Logan,Precinct 15,121
+Keith Judd,President,,DEM,Logan,Precinct 15,162
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 15,332
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 15,41
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 15,265
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 15,368
 Arne Moltis,Governor,,DEM,Logan,Precinct 15,17
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 15,271
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 15,271
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 15,217
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 15,254
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 15,67
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 15,31
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 15,6
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 15,120
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 15,54
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 15,54
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 15,278
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 15,112
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 15,264
@@ -785,18 +785,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 15,12
 ,Ballots Cast,,,Logan,Precinct 20,257
 ,Ballots Cast,,REP,Logan,Precinct 20,10
 ,Ballots Cast,,DEM,Logan,Precinct 20,245
-Rick Santorum,President ,,REP,Logan,Precinct 20,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 20,0
-Newt Gingrich,President ,,REP,Logan,Precinct 20,0
-Ron Paul,President ,,REP,Logan,Precinct 20,0
-Mitt Romney,President ,,REP,Logan,Precinct 20,8
+Rick Santorum,President,,REP,Logan,Precinct 20,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 20,0
+Newt Gingrich,President,,REP,Logan,Precinct 20,0
+Ron Paul,President,,REP,Logan,Precinct 20,0
+Mitt Romney,President,,REP,Logan,Precinct 20,8
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 20,6
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 20,1
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 20,5
 Bill Lester,U.S. House,3,REP,Logan,Precinct 20,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 20,1
 Bill Maloney,Governor,,REP,Logan,Precinct 20,6
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 20,4
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 20,4
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 20,5
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 20,4
 Mike Hall,Treasurer,,REP,Logan,Precinct 20,3
@@ -806,21 +806,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 20,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 20,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 20,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 20,
-Barack Obama,President ,,DEM,Logan,Precinct 20,77
-Keith Judd,President ,,DEM,Logan,Precinct 20,75
+Barack Obama,President,,DEM,Logan,Precinct 20,77
+Keith Judd,President,,DEM,Logan,Precinct 20,75
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 20,208
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 20,14
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 20,194
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 20,215
 Arne Moltis,Governor,,DEM,Logan,Precinct 20,8
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 20,156
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 20,156
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 20,124
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 20,122
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 20,27
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 20,11
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 20,6
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 20,48
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 20,61
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 20,61
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 20,158
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 20,45
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 20,164
@@ -845,18 +845,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 20,12
 ,Ballots Cast,,,Logan,Precinct 21,186
 ,Ballots Cast,,REP,Logan,Precinct 21,10
 ,Ballots Cast,,DEM,Logan,Precinct 21,175
-Rick Santorum,President ,,REP,Logan,Precinct 21,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 21,0
-Newt Gingrich,President ,,REP,Logan,Precinct 21,2
-Ron Paul,President ,,REP,Logan,Precinct 21,2
-Mitt Romney,President ,,REP,Logan,Precinct 21,6
+Rick Santorum,President,,REP,Logan,Precinct 21,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 21,0
+Newt Gingrich,President,,REP,Logan,Precinct 21,2
+Ron Paul,President,,REP,Logan,Precinct 21,2
+Mitt Romney,President,,REP,Logan,Precinct 21,6
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 21,9
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 21,4
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 21,3
 Bill Lester,U.S. House,3,REP,Logan,Precinct 21,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 21,4
 Bill Maloney,Governor,,REP,Logan,Precinct 21,4
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 21,9
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 21,9
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 21,7
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 21,3
 Mike Hall,Treasurer,,REP,Logan,Precinct 21,6
@@ -866,21 +866,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 21,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 21,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 21,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 21,
-Barack Obama,President ,,DEM,Logan,Precinct 21,45
-Keith Judd,President ,,DEM,Logan,Precinct 21,62
+Barack Obama,President,,DEM,Logan,Precinct 21,45
+Keith Judd,President,,DEM,Logan,Precinct 21,62
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 21,153
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 21,10
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 21,143
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 21,164
 Arne Moltis,Governor,,DEM,Logan,Precinct 21,2
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 21,111
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 21,111
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 21,87
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 21,91
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 21,19
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 21,15
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 21,0
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 21,37
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 21,41
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 21,41
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 21,129
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 21,26
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 21,126
@@ -905,18 +905,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 21,8
 ,Ballots Cast,,,Logan,Precinct 22,119
 ,Ballots Cast,,REP,Logan,Precinct 22,7
 ,Ballots Cast,,DEM,Logan,Precinct 22,109
-Rick Santorum,President ,,REP,Logan,Precinct 22,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 22,0
-Newt Gingrich,President ,,REP,Logan,Precinct 22,3
-Ron Paul,President ,,REP,Logan,Precinct 22,0
-Mitt Romney,President ,,REP,Logan,Precinct 22,3
+Rick Santorum,President,,REP,Logan,Precinct 22,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 22,0
+Newt Gingrich,President,,REP,Logan,Precinct 22,3
+Ron Paul,President,,REP,Logan,Precinct 22,0
+Mitt Romney,President,,REP,Logan,Precinct 22,3
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 22,4
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 22,3
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 22,1
 Bill Lester,U.S. House,3,REP,Logan,Precinct 22,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 22,0
 Bill Maloney,Governor,,REP,Logan,Precinct 22,5
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 22,3
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 22,3
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 22,3
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 22,2
 Mike Hall,Treasurer,,REP,Logan,Precinct 22,2
@@ -926,21 +926,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 22,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 22,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 22,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 22,
-Barack Obama,President ,,DEM,Logan,Precinct 22,39
-Keith Judd,President ,,DEM,Logan,Precinct 22,44
+Barack Obama,President,,DEM,Logan,Precinct 22,39
+Keith Judd,President,,DEM,Logan,Precinct 22,44
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 22,92
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 22,9
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 22,93
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 22,101
 Arne Moltis,Governor,,DEM,Logan,Precinct 22,2
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 22,78
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 22,78
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 22,67
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 22,71
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 22,17
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 22,18
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 22,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 22,19
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 22,30
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 22,30
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 22,88
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 22,22
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 22,75
@@ -965,18 +965,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 22,7
 ,Ballots Cast,,,Logan,Precinct 25,207
 ,Ballots Cast,,REP,Logan,Precinct 25,21
 ,Ballots Cast,,DEM,Logan,Precinct 25,186
-Rick Santorum,President ,,REP,Logan,Precinct 25,4
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 25,1
-Newt Gingrich,President ,,REP,Logan,Precinct 25,2
-Ron Paul,President ,,REP,Logan,Precinct 25,1
-Mitt Romney,President ,,REP,Logan,Precinct 25,10
+Rick Santorum,President,,REP,Logan,Precinct 25,4
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 25,1
+Newt Gingrich,President,,REP,Logan,Precinct 25,2
+Ron Paul,President,,REP,Logan,Precinct 25,1
+Mitt Romney,President,,REP,Logan,Precinct 25,10
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 25,16
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 25,6
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 25,5
 Bill Lester,U.S. House,3,REP,Logan,Precinct 25,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 25,3
 Bill Maloney,Governor,,REP,Logan,Precinct 25,15
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 25,12
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 25,12
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 25,13
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 25,5
 Mike Hall,Treasurer,,REP,Logan,Precinct 25,10
@@ -986,21 +986,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 25,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 25,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 25,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 25,
-Barack Obama,President ,,DEM,Logan,Precinct 25,59
-Keith Judd,President ,,DEM,Logan,Precinct 25,66
+Barack Obama,President,,DEM,Logan,Precinct 25,59
+Keith Judd,President,,DEM,Logan,Precinct 25,66
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 25,154
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 25,15
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 25,147
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 25,167
 Arne Moltis,Governor,,DEM,Logan,Precinct 25,9
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 25,117
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 25,117
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 25,99
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 25,111
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 25,21
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 25,16
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 25,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 25,44
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 25,46
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 25,46
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 25,132
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 25,31
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 25,135
@@ -1025,18 +1025,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 25,12
 ,Ballots Cast,,,Logan,Precinct 26,280
 ,Ballots Cast,,REP,Logan,Precinct 26,21
 ,Ballots Cast,,DEM,Logan,Precinct 26,258
-Rick Santorum,President ,,REP,Logan,Precinct 26,5
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 26,0
-Newt Gingrich,President ,,REP,Logan,Precinct 26,1
-Ron Paul,President ,,REP,Logan,Precinct 26,0
-Mitt Romney,President ,,REP,Logan,Precinct 26,15
+Rick Santorum,President,,REP,Logan,Precinct 26,5
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 26,0
+Newt Gingrich,President,,REP,Logan,Precinct 26,1
+Ron Paul,President,,REP,Logan,Precinct 26,0
+Mitt Romney,President,,REP,Logan,Precinct 26,15
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 26,14
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 26,6
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 26,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 26,3
 Ralph William Clark,Governor,,REP,Logan,Precinct 26,1
 Bill Maloney,Governor,,REP,Logan,Precinct 26,12
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 26,11
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 26,11
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 26,11
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 26,4
 Mike Hall,Treasurer,,REP,Logan,Precinct 26,7
@@ -1046,21 +1046,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 26,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 26,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 26,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 26,
-Barack Obama,President ,,DEM,Logan,Precinct 26,80
-Keith Judd,President ,,DEM,Logan,Precinct 26,99
+Barack Obama,President,,DEM,Logan,Precinct 26,80
+Keith Judd,President,,DEM,Logan,Precinct 26,99
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 26,232
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 26,15
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 26,205
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 26,246
 Arne Moltis,Governor,,DEM,Logan,Precinct 26,7
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 26,190
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 26,190
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 26,162
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 26,185
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 26,35
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 26,17
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 26,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 26,84
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 26,61
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 26,61
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 26,197
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 26,38
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 26,204
@@ -1085,18 +1085,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 26,13
 ,Ballots Cast,,,Logan,Precinct 27,331
 ,Ballots Cast,,REP,Logan,Precinct 27,36
 ,Ballots Cast,,DEM,Logan,Precinct 27,295
-Rick Santorum,President ,,REP,Logan,Precinct 27,3
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 27,0
-Newt Gingrich,President ,,REP,Logan,Precinct 27,2
-Ron Paul,President ,,REP,Logan,Precinct 27,4
-Mitt Romney,President ,,REP,Logan,Precinct 27,26
+Rick Santorum,President,,REP,Logan,Precinct 27,3
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 27,0
+Newt Gingrich,President,,REP,Logan,Precinct 27,2
+Ron Paul,President,,REP,Logan,Precinct 27,4
+Mitt Romney,President,,REP,Logan,Precinct 27,26
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 27,24
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 27,12
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 27,9
 Bill Lester,U.S. House,3,REP,Logan,Precinct 27,5
 Ralph William Clark,Governor,,REP,Logan,Precinct 27,7
 Bill Maloney,Governor,,REP,Logan,Precinct 27,23
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 27,22
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 27,22
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 27,17
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 27,7
 Mike Hall,Treasurer,,REP,Logan,Precinct 27,18
@@ -1106,21 +1106,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 27,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 27,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 27,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 27,
-Barack Obama,President ,,DEM,Logan,Precinct 27,93
-Keith Judd,President ,,DEM,Logan,Precinct 27,111
+Barack Obama,President,,DEM,Logan,Precinct 27,93
+Keith Judd,President,,DEM,Logan,Precinct 27,111
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 27,247
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 27,27
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 27,233
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 27,258
 Arne Moltis,Governor,,DEM,Logan,Precinct 27,21
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 27,205
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 27,205
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 27,155
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 27,174
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 27,37
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 27,22
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 27,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 27,45
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 27,80
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 27,80
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 27,208
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 27,53
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 27,214
@@ -1145,18 +1145,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 27,20
 ,Ballots Cast,,,Logan,Precinct 28,95
 ,Ballots Cast,,REP,Logan,Precinct 28,6
 ,Ballots Cast,,DEM,Logan,Precinct 28,89
-Rick Santorum,President ,,REP,Logan,Precinct 28,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 28,1
-Newt Gingrich,President ,,REP,Logan,Precinct 28,0
-Ron Paul,President ,,REP,Logan,Precinct 28,0
-Mitt Romney,President ,,REP,Logan,Precinct 28,4
+Rick Santorum,President,,REP,Logan,Precinct 28,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 28,1
+Newt Gingrich,President,,REP,Logan,Precinct 28,0
+Ron Paul,President,,REP,Logan,Precinct 28,0
+Mitt Romney,President,,REP,Logan,Precinct 28,4
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 28,4
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 28,0
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 28,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 28,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 28,1
 Bill Maloney,Governor,,REP,Logan,Precinct 28,3
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 28,4
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 28,4
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 28,3
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 28,1
 Mike Hall,Treasurer,,REP,Logan,Precinct 28,2
@@ -1166,21 +1166,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 28,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 28,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 28,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 28,
-Barack Obama,President ,,DEM,Logan,Precinct 28,36
-Keith Judd,President ,,DEM,Logan,Precinct 28,29
+Barack Obama,President,,DEM,Logan,Precinct 28,36
+Keith Judd,President,,DEM,Logan,Precinct 28,29
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 28,73
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 28,9
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 28,66
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 28,76
 Arne Moltis,Governor,,DEM,Logan,Precinct 28,2
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 28,53
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 28,53
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 28,48
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 28,53
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 28,12
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 28,15
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 28,0
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 28,19
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 28,15
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 28,15
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 28,63
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 28,11
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 28,67
@@ -1205,18 +1205,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 28,3
 ,Ballots Cast,,,Logan,Precinct 31,76
 ,Ballots Cast,,REP,Logan,Precinct 31,16
 ,Ballots Cast,,DEM,Logan,Precinct 31,57
-Rick Santorum,President ,,REP,Logan,Precinct 31,3
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 31,0
-Newt Gingrich,President ,,REP,Logan,Precinct 31,0
-Ron Paul,President ,,REP,Logan,Precinct 31,0
-Mitt Romney,President ,,REP,Logan,Precinct 31,12
+Rick Santorum,President,,REP,Logan,Precinct 31,3
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 31,0
+Newt Gingrich,President,,REP,Logan,Precinct 31,0
+Ron Paul,President,,REP,Logan,Precinct 31,0
+Mitt Romney,President,,REP,Logan,Precinct 31,12
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 31,12
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 31,5
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 31,7
 Bill Lester,U.S. House,3,REP,Logan,Precinct 31,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 31,1
 Bill Maloney,Governor,,REP,Logan,Precinct 31,13
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 31,13
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 31,13
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 31,11
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 31,4
 Mike Hall,Treasurer,,REP,Logan,Precinct 31,9
@@ -1226,21 +1226,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 31,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 31,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 31,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 31,
-Barack Obama,President ,,DEM,Logan,Precinct 31,24
-Keith Judd,President ,,DEM,Logan,Precinct 31,24
+Barack Obama,President,,DEM,Logan,Precinct 31,24
+Keith Judd,President,,DEM,Logan,Precinct 31,24
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 31,46
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 31,9
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 31,48
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 31,48
 Arne Moltis,Governor,,DEM,Logan,Precinct 31,7
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 31,47
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 31,47
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 31,28
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 31,37
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 31,10
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 31,13
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 31,1
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 31,12
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 31,9
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 31,9
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 31,44
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 31,13
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 31,40
@@ -1265,18 +1265,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 31,4
 ,Ballots Cast,,,Logan,Precinct 36,158
 ,Ballots Cast,,REP,Logan,Precinct 36,8
 ,Ballots Cast,,DEM,Logan,Precinct 36,150
-Rick Santorum,President ,,REP,Logan,Precinct 36,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 36,0
-Newt Gingrich,President ,,REP,Logan,Precinct 36,1
-Ron Paul,President ,,REP,Logan,Precinct 36,0
-Mitt Romney,President ,,REP,Logan,Precinct 36,5
+Rick Santorum,President,,REP,Logan,Precinct 36,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 36,0
+Newt Gingrich,President,,REP,Logan,Precinct 36,1
+Ron Paul,President,,REP,Logan,Precinct 36,0
+Mitt Romney,President,,REP,Logan,Precinct 36,5
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 36,4
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 36,3
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 36,1
 Bill Lester,U.S. House,3,REP,Logan,Precinct 36,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 36,0
 Bill Maloney,Governor,,REP,Logan,Precinct 36,4
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 36,3
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 36,3
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 36,3
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 36,0
 Mike Hall,Treasurer,,REP,Logan,Precinct 36,2
@@ -1286,21 +1286,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 36,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 36,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 36,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 36,
-Barack Obama,President ,,DEM,Logan,Precinct 36,53
-Keith Judd,President ,,DEM,Logan,Precinct 36,41
+Barack Obama,President,,DEM,Logan,Precinct 36,53
+Keith Judd,President,,DEM,Logan,Precinct 36,41
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 36,126
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 36,9
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 36,110
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 36,141
 Arne Moltis,Governor,,DEM,Logan,Precinct 36,3
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 36,100
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 36,100
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 36,80
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 36,93
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 36,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 36,8
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 36,1
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 36,47
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 36,21
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 36,21
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 36,97
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 36,31
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 36,112
@@ -1325,18 +1325,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 36,6
 ,Ballots Cast,,,Logan,Precinct 37,135
 ,Ballots Cast,,REP,Logan,Precinct 37,6
 ,Ballots Cast,,DEM,Logan,Precinct 37,129
-Rick Santorum,President ,,REP,Logan,Precinct 37,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 37,0
-Newt Gingrich,President ,,REP,Logan,Precinct 37,0
-Ron Paul,President ,,REP,Logan,Precinct 37,3
-Mitt Romney,President ,,REP,Logan,Precinct 37,3
+Rick Santorum,President,,REP,Logan,Precinct 37,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 37,0
+Newt Gingrich,President,,REP,Logan,Precinct 37,0
+Ron Paul,President,,REP,Logan,Precinct 37,3
+Mitt Romney,President,,REP,Logan,Precinct 37,3
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 37,3
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 37,1
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 37,1
 Bill Lester,U.S. House,3,REP,Logan,Precinct 37,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 37,0
 Bill Maloney,Governor,,REP,Logan,Precinct 37,3
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 37,1
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 37,1
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 37,1
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 37,0
 Mike Hall,Treasurer,,REP,Logan,Precinct 37,3
@@ -1346,21 +1346,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 37,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 37,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 37,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 37,
-Barack Obama,President ,,DEM,Logan,Precinct 37,25
-Keith Judd,President ,,DEM,Logan,Precinct 37,65
+Barack Obama,President,,DEM,Logan,Precinct 37,25
+Keith Judd,President,,DEM,Logan,Precinct 37,65
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 37,110
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 37,13
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 37,91
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 37,122
 Arne Moltis,Governor,,DEM,Logan,Precinct 37,5
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 37,92
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 37,92
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 37,84
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 37,92
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 37,24
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 37,10
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 37,0
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 37,35
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 37,27
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 37,27
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 37,90
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 37,32
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 37,95
@@ -1385,18 +1385,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 37,6
 ,Ballots Cast,,,Logan,Precinct 39,250
 ,Ballots Cast,,REP,Logan,Precinct 39,19
 ,Ballots Cast,,DEM,Logan,Precinct 39,231
-Rick Santorum,President ,,REP,Logan,Precinct 39,6
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 39,1
-Newt Gingrich,President ,,REP,Logan,Precinct 39,1
-Ron Paul,President ,,REP,Logan,Precinct 39,1
-Mitt Romney,President ,,REP,Logan,Precinct 39,10
+Rick Santorum,President,,REP,Logan,Precinct 39,6
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 39,1
+Newt Gingrich,President,,REP,Logan,Precinct 39,1
+Ron Paul,President,,REP,Logan,Precinct 39,1
+Mitt Romney,President,,REP,Logan,Precinct 39,10
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 39,16
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 39,8
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 39,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 39,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 39,3
 Bill Maloney,Governor,,REP,Logan,Precinct 39,15
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 39,12
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 39,12
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 39,13
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 39,7
 Mike Hall,Treasurer,,REP,Logan,Precinct 39,7
@@ -1406,21 +1406,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 39,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 39,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 39,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 39,
-Barack Obama,President ,,DEM,Logan,Precinct 39,91
-Keith Judd,President ,,DEM,Logan,Precinct 39,73
+Barack Obama,President,,DEM,Logan,Precinct 39,91
+Keith Judd,President,,DEM,Logan,Precinct 39,73
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 39,193
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 39,22
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 39,176
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 39,211
 Arne Moltis,Governor,,DEM,Logan,Precinct 39,15
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 39,158
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 39,158
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 39,136
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 39,149
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 39,39
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 39,13
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 39,6
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 39,49
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 39,48
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 39,48
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 39,166
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 39,49
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 39,163
@@ -1445,18 +1445,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 39,13
 ,Ballots Cast,,,Logan,Precinct 40,140
 ,Ballots Cast,,REP,Logan,Precinct 40,8
 ,Ballots Cast,,DEM,Logan,Precinct 40,132
-Rick Santorum,President ,,REP,Logan,Precinct 40,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 40,0
-Newt Gingrich,President ,,REP,Logan,Precinct 40,1
-Ron Paul,President ,,REP,Logan,Precinct 40,0
-Mitt Romney,President ,,REP,Logan,Precinct 40,6
+Rick Santorum,President,,REP,Logan,Precinct 40,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 40,0
+Newt Gingrich,President,,REP,Logan,Precinct 40,1
+Ron Paul,President,,REP,Logan,Precinct 40,0
+Mitt Romney,President,,REP,Logan,Precinct 40,6
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 40,3
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 40,0
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 40,3
 Bill Lester,U.S. House,3,REP,Logan,Precinct 40,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 40,3
 Bill Maloney,Governor,,REP,Logan,Precinct 40,2
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 40,3
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 40,3
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 40,6
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 40,1
 Mike Hall,Treasurer,,REP,Logan,Precinct 40,6
@@ -1466,21 +1466,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 40,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 40,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 40,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 40,
-Barack Obama,President ,,DEM,Logan,Precinct 40,54
-Keith Judd,President ,,DEM,Logan,Precinct 40,36
+Barack Obama,President,,DEM,Logan,Precinct 40,54
+Keith Judd,President,,DEM,Logan,Precinct 40,36
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 40,100
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 40,15
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 40,99
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 40,120
 Arne Moltis,Governor,,DEM,Logan,Precinct 40,4
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 40,85
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 40,85
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 40,58
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 40,78
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 40,15
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 40,9
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 40,1
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 40,26
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 40,29
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 40,29
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 40,89
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 40,25
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 40,96
@@ -1505,18 +1505,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 40,6
 ,Ballots Cast,,,Logan,Precinct 41,198
 ,Ballots Cast,,REP,Logan,Precinct 41,19
 ,Ballots Cast,,DEM,Logan,Precinct 41,177
-Rick Santorum,President ,,REP,Logan,Precinct 41,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 41,0
-Newt Gingrich,President ,,REP,Logan,Precinct 41,1
-Ron Paul,President ,,REP,Logan,Precinct 41,2
-Mitt Romney,President ,,REP,Logan,Precinct 41,15
+Rick Santorum,President,,REP,Logan,Precinct 41,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 41,0
+Newt Gingrich,President,,REP,Logan,Precinct 41,1
+Ron Paul,President,,REP,Logan,Precinct 41,2
+Mitt Romney,President,,REP,Logan,Precinct 41,15
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 41,11
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 41,2
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 41,5
 Bill Lester,U.S. House,3,REP,Logan,Precinct 41,4
 Ralph William Clark,Governor,,REP,Logan,Precinct 41,1
 Bill Maloney,Governor,,REP,Logan,Precinct 41,9
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 41,7
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 41,7
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 41,11
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 41,4
 Mike Hall,Treasurer,,REP,Logan,Precinct 41,5
@@ -1526,21 +1526,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 41,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 41,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 41,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 41,
-Barack Obama,President ,,DEM,Logan,Precinct 41,50
-Keith Judd,President ,,DEM,Logan,Precinct 41,71
+Barack Obama,President,,DEM,Logan,Precinct 41,50
+Keith Judd,President,,DEM,Logan,Precinct 41,71
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 41,135
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 41,26
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 41,120
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 41,154
 Arne Moltis,Governor,,DEM,Logan,Precinct 41,13
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 41,123
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 41,123
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 41,98
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 41,104
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 41,22
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 41,21
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 41,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 41,42
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 41,33
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 41,33
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 41,123
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 41,42
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 41,123
@@ -1565,18 +1565,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 41,21
 ,Ballots Cast,,,Logan,Precinct 43,264
 ,Ballots Cast,,REP,Logan,Precinct 43,8
 ,Ballots Cast,,DEM,Logan,Precinct 43,255
-Rick Santorum,President ,,REP,Logan,Precinct 43,1
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 43,0
-Newt Gingrich,President ,,REP,Logan,Precinct 43,1
-Ron Paul,President ,,REP,Logan,Precinct 43,1
-Mitt Romney,President ,,REP,Logan,Precinct 43,5
+Rick Santorum,President,,REP,Logan,Precinct 43,1
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 43,0
+Newt Gingrich,President,,REP,Logan,Precinct 43,1
+Ron Paul,President,,REP,Logan,Precinct 43,1
+Mitt Romney,President,,REP,Logan,Precinct 43,5
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 43,7
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 43,2
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 43,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 43,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 43,3
 Bill Maloney,Governor,,REP,Logan,Precinct 43,4
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 43,3
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 43,3
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 43,3
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 43,2
 Mike Hall,Treasurer,,REP,Logan,Precinct 43,3
@@ -1586,21 +1586,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 43,2
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 43,2
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 43,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 43,
-Barack Obama,President ,,DEM,Logan,Precinct 43,70
-Keith Judd,President ,,DEM,Logan,Precinct 43,96
+Barack Obama,President,,DEM,Logan,Precinct 43,70
+Keith Judd,President,,DEM,Logan,Precinct 43,96
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 43,217
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 43,19
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 43,184
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 43,233
 Arne Moltis,Governor,,DEM,Logan,Precinct 43,9
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 43,170
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 43,170
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 43,134
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 43,160
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 43,27
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 43,30
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 43,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 43,71
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 43,44
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 43,44
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 43,176
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 43,43
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 43,201
@@ -1625,18 +1625,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 43,
 ,Ballots Cast,,,Logan,Precinct 45A,248
 ,Ballots Cast,,REP,Logan,Precinct 45A,13
 ,Ballots Cast,,DEM,Logan,Precinct 45A,234
-Rick Santorum,President ,,REP,Logan,Precinct 45A,2
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 45A,0
-Newt Gingrich,President ,,REP,Logan,Precinct 45A,0
-Ron Paul,President ,,REP,Logan,Precinct 45A,2
-Mitt Romney,President ,,REP,Logan,Precinct 45A,9
+Rick Santorum,President,,REP,Logan,Precinct 45A,2
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 45A,0
+Newt Gingrich,President,,REP,Logan,Precinct 45A,0
+Ron Paul,President,,REP,Logan,Precinct 45A,2
+Mitt Romney,President,,REP,Logan,Precinct 45A,9
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 45A,9
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 45A,2
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 45A,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 45A,3
 Ralph William Clark,Governor,,REP,Logan,Precinct 45A,0
 Bill Maloney,Governor,,REP,Logan,Precinct 45A,10
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 45A,9
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 45A,9
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 45A,9
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 45A,3
 Mike Hall,Treasurer,,REP,Logan,Precinct 45A,6
@@ -1646,21 +1646,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 45A,2
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 45A,1
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 45A,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 45A,
-Barack Obama,President ,,DEM,Logan,Precinct 45A,79
-Keith Judd,President ,,DEM,Logan,Precinct 45A,101
+Barack Obama,President,,DEM,Logan,Precinct 45A,79
+Keith Judd,President,,DEM,Logan,Precinct 45A,101
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 45A,201
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 45A,20
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 45A,169
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 45A,217
 Arne Moltis,Governor,,DEM,Logan,Precinct 45A,14
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 45A,163
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 45A,163
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 45A,138
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 45A,148
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 45A,34
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 45A,27
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 45A,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 45A,51
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 45A,46
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 45A,46
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 45A,170
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 45A,54
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 45A,169
@@ -1685,18 +1685,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 45A,
 ,Ballots Cast,,,Logan,Precinct 45B,49
 ,Ballots Cast,,REP,Logan,Precinct 45B,1
 ,Ballots Cast,,DEM,Logan,Precinct 45B,48
-Rick Santorum,President ,,REP,Logan,Precinct 45B,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 45B,0
-Newt Gingrich,President ,,REP,Logan,Precinct 45B,0
-Ron Paul,President ,,REP,Logan,Precinct 45B,0
-Mitt Romney,President ,,REP,Logan,Precinct 45B,1
+Rick Santorum,President,,REP,Logan,Precinct 45B,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 45B,0
+Newt Gingrich,President,,REP,Logan,Precinct 45B,0
+Ron Paul,President,,REP,Logan,Precinct 45B,0
+Mitt Romney,President,,REP,Logan,Precinct 45B,1
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 45B,1
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 45B,0
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 45B,0
 Bill Lester,U.S. House,3,REP,Logan,Precinct 45B,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 45B,0
 Bill Maloney,Governor,,REP,Logan,Precinct 45B,1
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 45B,1
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 45B,1
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 45B,1
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 45B,1
 Mike Hall,Treasurer,,REP,Logan,Precinct 45B,0
@@ -1706,21 +1706,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 45B,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 45B,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 45B,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 45B,
-Barack Obama,President ,,DEM,Logan,Precinct 45B,15
-Keith Judd,President ,,DEM,Logan,Precinct 45B,25
+Barack Obama,President,,DEM,Logan,Precinct 45B,15
+Keith Judd,President,,DEM,Logan,Precinct 45B,25
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 45B,43
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 45B,2
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 45B,37
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 45B,46
 Arne Moltis,Governor,,DEM,Logan,Precinct 45B,1
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 45B,34
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 45B,34
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 45B,25
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 45B,30
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 45B,6
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 45B,4
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 45B,0
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 45B,12
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 45B,7
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 45B,7
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 45B,34
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 45B,8
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 45B,38
@@ -1745,18 +1745,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 45B,4
 ,Ballots Cast,,,Logan,Precinct 46,157
 ,Ballots Cast,,REP,Logan,Precinct 46,14
 ,Ballots Cast,,DEM,Logan,Precinct 46,143
-Rick Santorum,President ,,REP,Logan,Precinct 46,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 46,0
-Newt Gingrich,President ,,REP,Logan,Precinct 46,1
-Ron Paul,President ,,REP,Logan,Precinct 46,3
-Mitt Romney,President ,,REP,Logan,Precinct 46,10
+Rick Santorum,President,,REP,Logan,Precinct 46,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 46,0
+Newt Gingrich,President,,REP,Logan,Precinct 46,1
+Ron Paul,President,,REP,Logan,Precinct 46,3
+Mitt Romney,President,,REP,Logan,Precinct 46,10
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 46,9
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 46,3
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 46,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 46,3
 Ralph William Clark,Governor,,REP,Logan,Precinct 46,1
 Bill Maloney,Governor,,REP,Logan,Precinct 46,11
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 46,9
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 46,9
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 46,9
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 46,5
 Mike Hall,Treasurer,,REP,Logan,Precinct 46,5
@@ -1766,21 +1766,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 46,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 46,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 46,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 46,
-Barack Obama,President ,,DEM,Logan,Precinct 46,34
-Keith Judd,President ,,DEM,Logan,Precinct 46,69
+Barack Obama,President,,DEM,Logan,Precinct 46,34
+Keith Judd,President,,DEM,Logan,Precinct 46,69
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 46,112
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 46,19
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 46,93
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 46,123
 Arne Moltis,Governor,,DEM,Logan,Precinct 46,7
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 46,84
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 46,84
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 46,71
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 46,86
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 46,21
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 46,15
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 46,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 46,20
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 46,36
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 46,36
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 46,95
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 46,36
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 46,98
@@ -1805,18 +1805,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 46,12
 ,Ballots Cast,,,Logan,Precinct 47,167
 ,Ballots Cast,,REP,Logan,Precinct 47,12
 ,Ballots Cast,,DEM,Logan,Precinct 47,151
-Rick Santorum,President ,,REP,Logan,Precinct 47,2
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 47,1
-Newt Gingrich,President ,,REP,Logan,Precinct 47,0
-Ron Paul,President ,,REP,Logan,Precinct 47,0
-Mitt Romney,President ,,REP,Logan,Precinct 47,7
+Rick Santorum,President,,REP,Logan,Precinct 47,2
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 47,1
+Newt Gingrich,President,,REP,Logan,Precinct 47,0
+Ron Paul,President,,REP,Logan,Precinct 47,0
+Mitt Romney,President,,REP,Logan,Precinct 47,7
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 47,7
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 47,4
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 47,2
 Bill Lester,U.S. House,3,REP,Logan,Precinct 47,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 47,3
 Bill Maloney,Governor,,REP,Logan,Precinct 47,7
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 47,8
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 47,8
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 47,6
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 47,4
 Mike Hall,Treasurer,,REP,Logan,Precinct 47,3
@@ -1826,21 +1826,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 47,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 47,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 47,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 47,
-Barack Obama,President ,,DEM,Logan,Precinct 47,52
-Keith Judd,President ,,DEM,Logan,Precinct 47,58
+Barack Obama,President,,DEM,Logan,Precinct 47,52
+Keith Judd,President,,DEM,Logan,Precinct 47,58
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 47,123
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 47,20
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 47,107
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 47,134
 Arne Moltis,Governor,,DEM,Logan,Precinct 47,10
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 47,106
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 47,106
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 47,82
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 47,100
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 47,17
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 47,22
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 47,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 47,36
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 47,35
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 47,35
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 47,108
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 47,45
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 47,100
@@ -1865,18 +1865,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 47,11
 ,Ballots Cast,,,Logan,Precinct 49,397
 ,Ballots Cast,,REP,Logan,Precinct 49,22
 ,Ballots Cast,,DEM,Logan,Precinct 49,374
-Rick Santorum,President ,,REP,Logan,Precinct 49,4
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 49,0
-Newt Gingrich,President ,,REP,Logan,Precinct 49,2
-Ron Paul,President ,,REP,Logan,Precinct 49,3
-Mitt Romney,President ,,REP,Logan,Precinct 49,12
+Rick Santorum,President,,REP,Logan,Precinct 49,4
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 49,0
+Newt Gingrich,President,,REP,Logan,Precinct 49,2
+Ron Paul,President,,REP,Logan,Precinct 49,3
+Mitt Romney,President,,REP,Logan,Precinct 49,12
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 49,19
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 49,11
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 49,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 49,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 49,2
 Bill Maloney,Governor,,REP,Logan,Precinct 49,16
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 49,17
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 49,17
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 49,13
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 49,7
 Mike Hall,Treasurer,,REP,Logan,Precinct 49,9
@@ -1886,21 +1886,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 49,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 49,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 49,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 49,
-Barack Obama,President ,,DEM,Logan,Precinct 49,96
-Keith Judd,President ,,DEM,Logan,Precinct 49,149
+Barack Obama,President,,DEM,Logan,Precinct 49,96
+Keith Judd,President,,DEM,Logan,Precinct 49,149
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 49,294
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 49,33
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 49,242
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 49,333
 Arne Moltis,Governor,,DEM,Logan,Precinct 49,17
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 49,239
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 49,239
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 49,202
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 49,213
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 49,33
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 49,35
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 49,4
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 49,98
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 49,63
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 49,63
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 49,248
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 49,73
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 49,274
@@ -1925,18 +1925,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 49,15
 ,Ballots Cast,,,Logan,Precinct 50,261
 ,Ballots Cast,,REP,Logan,Precinct 50,17
 ,Ballots Cast,,DEM,Logan,Precinct 50,243
-Rick Santorum,President ,,REP,Logan,Precinct 50,1
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 50,0
-Newt Gingrich,President ,,REP,Logan,Precinct 50,1
-Ron Paul,President ,,REP,Logan,Precinct 50,2
-Mitt Romney,President ,,REP,Logan,Precinct 50,10
+Rick Santorum,President,,REP,Logan,Precinct 50,1
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 50,0
+Newt Gingrich,President,,REP,Logan,Precinct 50,1
+Ron Paul,President,,REP,Logan,Precinct 50,2
+Mitt Romney,President,,REP,Logan,Precinct 50,10
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 50,9
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 50,4
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 50,6
 Bill Lester,U.S. House,3,REP,Logan,Precinct 50,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 50,2
 Bill Maloney,Governor,,REP,Logan,Precinct 50,8
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 50,10
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 50,10
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 50,8
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 50,6
 Mike Hall,Treasurer,,REP,Logan,Precinct 50,3
@@ -1946,21 +1946,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 50,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 50,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 50,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 50,
-Barack Obama,President ,,DEM,Logan,Precinct 50,99
-Keith Judd,President ,,DEM,Logan,Precinct 50,86
+Barack Obama,President,,DEM,Logan,Precinct 50,99
+Keith Judd,President,,DEM,Logan,Precinct 50,86
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 50,205
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 50,27
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 50,196
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 50,220
 Arne Moltis,Governor,,DEM,Logan,Precinct 50,18
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 50,170
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 50,170
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 50,140
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 50,151
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 50,29
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 50,27
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 50,7
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 50,61
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 50,59
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 50,59
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 50,186
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 50,85
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 50,135
@@ -1985,18 +1985,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 50,11
 ,Ballots Cast,,,Logan,Precinct 53,287
 ,Ballots Cast,,REP,Logan,Precinct 53,11
 ,Ballots Cast,,DEM,Logan,Precinct 53,276
-Rick Santorum,President ,,REP,Logan,Precinct 53,1
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 53,0
-Newt Gingrich,President ,,REP,Logan,Precinct 53,1
-Ron Paul,President ,,REP,Logan,Precinct 53,0
-Mitt Romney,President ,,REP,Logan,Precinct 53,9
+Rick Santorum,President,,REP,Logan,Precinct 53,1
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 53,0
+Newt Gingrich,President,,REP,Logan,Precinct 53,1
+Ron Paul,President,,REP,Logan,Precinct 53,0
+Mitt Romney,President,,REP,Logan,Precinct 53,9
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 53,9
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 53,3
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 53,4
 Bill Lester,U.S. House,3,REP,Logan,Precinct 53,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 53,0
 Bill Maloney,Governor,,REP,Logan,Precinct 53,9
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 53,8
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 53,8
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 53,8
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 53,4
 Mike Hall,Treasurer,,REP,Logan,Precinct 53,6
@@ -2006,21 +2006,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 53,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 53,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 53,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 53,
-Barack Obama,President ,,DEM,Logan,Precinct 53,95
-Keith Judd,President ,,DEM,Logan,Precinct 53,84
+Barack Obama,President,,DEM,Logan,Precinct 53,95
+Keith Judd,President,,DEM,Logan,Precinct 53,84
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 53,234
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 53,21
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 53,208
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 53,250
 Arne Moltis,Governor,,DEM,Logan,Precinct 53,13
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 53,165
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 53,165
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 53,136
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 53,164
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 53,41
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 53,25
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 53,4
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 53,60
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 53,36
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 53,36
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 53,195
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 53,80
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 53,166
@@ -2045,18 +2045,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 53,21
 ,Ballots Cast,,,Logan,Precinct 54,181
 ,Ballots Cast,,REP,Logan,Precinct 54,5
 ,Ballots Cast,,DEM,Logan,Precinct 54,176
-Rick Santorum,President ,,REP,Logan,Precinct 54,2
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 54,0
-Newt Gingrich,President ,,REP,Logan,Precinct 54,0
-Ron Paul,President ,,REP,Logan,Precinct 54,0
-Mitt Romney,President ,,REP,Logan,Precinct 54,3
+Rick Santorum,President,,REP,Logan,Precinct 54,2
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 54,0
+Newt Gingrich,President,,REP,Logan,Precinct 54,0
+Ron Paul,President,,REP,Logan,Precinct 54,0
+Mitt Romney,President,,REP,Logan,Precinct 54,3
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 54,3
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 54,0
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 54,3
 Bill Lester,U.S. House,3,REP,Logan,Precinct 54,1
 Ralph William Clark,Governor,,REP,Logan,Precinct 54,1
 Bill Maloney,Governor,,REP,Logan,Precinct 54,4
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 54,4
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 54,4
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 54,3
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 54,2
 Mike Hall,Treasurer,,REP,Logan,Precinct 54,1
@@ -2066,21 +2066,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 54,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 54,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 54,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 54,
-Barack Obama,President ,,DEM,Logan,Precinct 54,69
-Keith Judd,President ,,DEM,Logan,Precinct 54,58
+Barack Obama,President,,DEM,Logan,Precinct 54,69
+Keith Judd,President,,DEM,Logan,Precinct 54,58
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 54,141
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 54,11
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 54,132
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 54,162
 Arne Moltis,Governor,,DEM,Logan,Precinct 54,2
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 54,123
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 54,123
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 54,90
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 54,108
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 54,26
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 54,13
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 54,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 54,40
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 54,30
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 54,30
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 54,115
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 54,27
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 54,137
@@ -2105,18 +2105,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 54,20
 ,Ballots Cast,,,Logan,Precinct 55,181
 ,Ballots Cast,,REP,Logan,Precinct 55,6
 ,Ballots Cast,,DEM,Logan,Precinct 55,174
-Rick Santorum,President ,,REP,Logan,Precinct 55,1
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 55,0
-Newt Gingrich,President ,,REP,Logan,Precinct 55,0
-Ron Paul,President ,,REP,Logan,Precinct 55,1
-Mitt Romney,President ,,REP,Logan,Precinct 55,3
+Rick Santorum,President,,REP,Logan,Precinct 55,1
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 55,0
+Newt Gingrich,President,,REP,Logan,Precinct 55,0
+Ron Paul,President,,REP,Logan,Precinct 55,1
+Mitt Romney,President,,REP,Logan,Precinct 55,3
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 55,5
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 55,2
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 55,1
 Bill Lester,U.S. House,3,REP,Logan,Precinct 55,2
 Ralph William Clark,Governor,,REP,Logan,Precinct 55,1
 Bill Maloney,Governor,,REP,Logan,Precinct 55,4
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 55,5
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 55,5
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 55,4
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 55,2
 Mike Hall,Treasurer,,REP,Logan,Precinct 55,4
@@ -2126,21 +2126,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 55,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 55,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 55,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 55,
-Barack Obama,President ,,DEM,Logan,Precinct 55,55
-Keith Judd,President ,,DEM,Logan,Precinct 55,60
+Barack Obama,President,,DEM,Logan,Precinct 55,55
+Keith Judd,President,,DEM,Logan,Precinct 55,60
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 55,150
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 55,8
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 55,146
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 55,162
 Arne Moltis,Governor,,DEM,Logan,Precinct 55,7
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 55,105
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 55,105
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 55,94
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 55,114
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 55,21
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 55,16
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 55,5
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 55,37
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 55,36
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 55,36
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 55,134
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 55,30
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 55,139
@@ -2165,18 +2165,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 55,6
 ,Ballots Cast,,,Logan,Precinct 56,103
 ,Ballots Cast,,REP,Logan,Precinct 56,5
 ,Ballots Cast,,DEM,Logan,Precinct 56,98
-Rick Santorum,President ,,REP,Logan,Precinct 56,0
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,Precinct 56,0
-Newt Gingrich,President ,,REP,Logan,Precinct 56,1
-Ron Paul,President ,,REP,Logan,Precinct 56,1
-Mitt Romney,President ,,REP,Logan,Precinct 56,3
+Rick Santorum,President,,REP,Logan,Precinct 56,0
+"Charles ""Buddy"" Roemer",President,,REP,Logan,Precinct 56,0
+Newt Gingrich,President,,REP,Logan,Precinct 56,1
+Ron Paul,President,,REP,Logan,Precinct 56,1
+Mitt Romney,President,,REP,Logan,Precinct 56,3
 John R. Raese,U.S. Senate,,REP,Logan,Precinct 56,2
 Lee A. Bias,U.S. House,3,REP,Logan,Precinct 56,3
 Rick Snuffer,U.S. House,3,REP,Logan,Precinct 56,0
 Bill Lester,U.S. House,3,REP,Logan,Precinct 56,0
 Ralph William Clark,Governor,,REP,Logan,Precinct 56,0
 Bill Maloney,Governor,,REP,Logan,Precinct 56,2
-Brian Savilla,Secretary of State ,,REP,Logan,Precinct 56,2
+Brian Savilla,Secretary of State,,REP,Logan,Precinct 56,2
 Larry V. Faircloth,Auditor,,REP,Logan,Precinct 56,1
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,Precinct 56,2
 Mike Hall,Treasurer,,REP,Logan,Precinct 56,1
@@ -2186,21 +2186,21 @@ Phil Amick,House of Delegates,20,REP,Logan,Precinct 56,
 Diane Shafer,House of Delegates,20,REP,Logan,Precinct 56,
 Gary L. Johngrass,House of Delegates,22,REP,Logan,Precinct 56,
 Michel G. Moffatt,House of Delegates,22,REP,Logan,Precinct 56,
-Barack Obama,President ,,DEM,Logan,Precinct 56,29
-Keith Judd,President ,,DEM,Logan,Precinct 56,34
+Barack Obama,President,,DEM,Logan,Precinct 56,29
+Keith Judd,President,,DEM,Logan,Precinct 56,34
 Joe Manchin III,U.S. Senate,,DEM,Logan,Precinct 56,83
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,Precinct 56,6
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,Precinct 56,73
 Earl Ray Tomblin,Governor,,DEM,Logan,Precinct 56,89
 Arne Moltis,Governor,,DEM,Logan,Precinct 56,3
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,Precinct 56,62
+Natalie E. Tennant,Secretary of State,,DEM,Logan,Precinct 56,62
 Glen B. Gainer III,Auditor,,DEM,Logan,Precinct 56,49
 John D. Perdue,Treasurer,,DEM,Logan,Precinct 56,53
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,Precinct 56,12
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,Precinct 56,14
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,Precinct 56,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,Precinct 56,16
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,Precinct 56,16
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,Precinct 56,16
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,Precinct 56,65
 Sammy D. Dalton,State Senate,7,DEM,Logan,Precinct 56,31
 Art Kirkendoll,State Senate,7,DEM,Logan,Precinct 56,59
@@ -2225,18 +2225,18 @@ Chris Stratton,House of Delegates,24,DEM,Logan,Precinct 56,11
 ,Ballots Cast,,,Logan,TOTALS,8241
 ,Ballots Cast,,REP,Logan,TOTALS,614
 ,Ballots Cast,,DEM,Logan,TOTALS,7592
-Rick Santorum,President ,,REP,Logan,TOTALS,86
-"Charles ""Buddy"" Roemer",President ,,REP,Logan,TOTALS,6
-Newt Gingrich,President ,,REP,Logan,TOTALS,37
-Ron Paul,President ,,REP,Logan,TOTALS,56
-Mitt Romney,President ,,REP,Logan,TOTALS,388
+Rick Santorum,President,,REP,Logan,TOTALS,86
+"Charles ""Buddy"" Roemer",President,,REP,Logan,TOTALS,6
+Newt Gingrich,President,,REP,Logan,TOTALS,37
+Ron Paul,President,,REP,Logan,TOTALS,56
+Mitt Romney,President,,REP,Logan,TOTALS,388
 John R. Raese,U.S. Senate,,REP,Logan,TOTALS,439
 Lee A. Bias,U.S. House,3,REP,Logan,TOTALS,190
 Rick Snuffer,U.S. House,3,REP,Logan,TOTALS,152
 Bill Lester,U.S. House,3,REP,Logan,TOTALS,94
 Ralph William Clark,Governor,,REP,Logan,TOTALS,94
 Bill Maloney,Governor,,REP,Logan,TOTALS,385
-Brian Savilla,Secretary of State ,,REP,Logan,TOTALS,379
+Brian Savilla,Secretary of State,,REP,Logan,TOTALS,379
 Larry V. Faircloth,Auditor,,REP,Logan,TOTALS,371
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Logan,TOTALS,180
 Mike Hall,Treasurer,,REP,Logan,TOTALS,245
@@ -2246,21 +2246,21 @@ Phil Amick,House of Delegates,20,REP,Logan,TOTALS,4
 Diane Shafer,House of Delegates,20,REP,Logan,TOTALS,3
 Gary L. Johngrass,House of Delegates,22,REP,Logan,TOTALS,41
 Michel G. Moffatt,House of Delegates,22,REP,Logan,TOTALS,34
-Barack Obama,President ,,DEM,Logan,TOTALS,2315
-Keith Judd,President ,,DEM,Logan,TOTALS,2883
+Barack Obama,President,,DEM,Logan,TOTALS,2315
+Keith Judd,President,,DEM,Logan,TOTALS,2883
 Joe Manchin III,U.S. Senate,,DEM,Logan,TOTALS,6268
 Sheirl Fletcher,U.S. Senate,,DEM,Logan,TOTALS,694
 "Nick J. Rahall, II",U.S. House,,DEM,Logan,TOTALS,5530
 Earl Ray Tomblin,Governor,,DEM,Logan,TOTALS,6890
 Arne Moltis,Governor,,DEM,Logan,TOTALS,353
-Natalie E. Tennant,Secretary of State ,,DEM,Logan,TOTALS,5026
+Natalie E. Tennant,Secretary of State,,DEM,Logan,TOTALS,5026
 Glen B. Gainer III,Auditor,,DEM,Logan,TOTALS,4084
 John D. Perdue,Treasurer,,DEM,Logan,TOTALS,4649
 Steve Miller,Commissioner of Agriculture,,DEM,Logan,TOTALS,951
 Joe Messineo,Commissioner of Agriculture,,DEM,Logan,TOTALS,687
 Bobb Tabb,Commissioner of Agriculture,,DEM,Logan,TOTALS,105
 Walt Helmick,Commissioner of Agriculture,,DEM,Logan,TOTALS,1950
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Logan,TOTALS,1522
+Sally Shepherd,Commissioner of Agriculture,,DEM,Logan,TOTALS,1522
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Logan,TOTALS,5322
 Sammy D. Dalton,State Senate,7,DEM,Logan,TOTALS,1932
 Art Kirkendoll,State Senate,7,DEM,Logan,TOTALS,5125

@@ -1,12 +1,12 @@
 candidate,office,district,party,county,precinct,votes
-,Straight Party,,Republican,Boone,Precinct 1 Turtle Creek ,6
-,Straight Party,,Democratic,Boone,Precinct 1 Turtle Creek ,47
-,Straight Party,,Mountain,Boone,Precinct 1 Turtle Creek ,1
-Bill Maloney,Governor,,REP,Boone,Precinct 1 Turtle Creek ,23
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 1 Turtle Creek ,94
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 1 Turtle Creek ,2
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 1 Turtle Creek ,2
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 1 Turtle Creek ,0
+,Straight Party,,Republican,Boone,Precinct 1 Turtle Creek,6
+,Straight Party,,Democratic,Boone,Precinct 1 Turtle Creek,47
+,Straight Party,,Mountain,Boone,Precinct 1 Turtle Creek,1
+Bill Maloney,Governor,,REP,Boone,Precinct 1 Turtle Creek,23
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 1 Turtle Creek,94
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 1 Turtle Creek,2
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 1 Turtle Creek,2
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 1 Turtle Creek,0
 ,Straight Party,,Republican,Boone,Precinct 2 Greenview,4
 ,Straight Party,,Democratic,Boone,Precinct 2 Greenview,50
 ,Straight Party,,Mountain,Boone,Precinct 2 Greenview,0
@@ -23,14 +23,14 @@ Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 3 Manila,119
 Bob Henry Baber,Governor,,MTN,Boone,Precinct 3 Manila,0
 Marla Dee Ingels,Governor,,IND,Boone,Precinct 3 Manila,1
 Harry V. Bertram,Governor,,ATP,Boone,Precinct 3 Manila,1
-,Straight Party,,Republican,Boone,Precinct 4 Jeffrey ,4
-,Straight Party,,Democratic,Boone,Precinct 4 Jeffrey ,29
-,Straight Party,,Mountain,Boone,Precinct 4 Jeffrey ,0
-Bill Maloney,Governor,,REP,Boone,Precinct 4 Jeffrey ,15
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 4 Jeffrey ,58
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 4 Jeffrey ,0
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 4 Jeffrey ,0
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 4 Jeffrey ,0
+,Straight Party,,Republican,Boone,Precinct 4 Jeffrey,4
+,Straight Party,,Democratic,Boone,Precinct 4 Jeffrey,29
+,Straight Party,,Mountain,Boone,Precinct 4 Jeffrey,0
+Bill Maloney,Governor,,REP,Boone,Precinct 4 Jeffrey,15
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 4 Jeffrey,58
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 4 Jeffrey,0
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 4 Jeffrey,0
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 4 Jeffrey,0
 ,Straight Party,,Republican,Boone,Precinct 5 Ottawa,2
 ,Straight Party,,Democratic,Boone,Precinct 5 Ottawa,12
 ,Straight Party,,Mountain,Boone,Precinct 5 Ottawa,0
@@ -167,22 +167,22 @@ Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 31 Comfort,74
 Bob Henry Baber,Governor,,MTN,Boone,Precinct 31 Comfort,5
 Marla Dee Ingels,Governor,,IND,Boone,Precinct 31 Comfort,2
 Harry V. Bertram,Governor,,ATP,Boone,Precinct 31 Comfort,0
-,Straight Party,,Republican,Boone,Precinct 32 Lower Seth ,3
-,Straight Party,,Democratic,Boone,Precinct 32 Lower Seth ,18
-,Straight Party,,Mountain,Boone,Precinct 32 Lower Seth ,0
-Bill Maloney,Governor,,REP,Boone,Precinct 32 Lower Seth ,18
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 32 Lower Seth ,63
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 32 Lower Seth ,3
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 32 Lower Seth ,0
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 32 Lower Seth ,0
-,Straight Party,,Republican,Boone,Precinct 33 Upper Seth ,6
-,Straight Party,,Democratic,Boone,Precinct 33 Upper Seth ,33
-,Straight Party,,Mountain,Boone,Precinct 33 Upper Seth ,0
-Bill Maloney,Governor,,REP,Boone,Precinct 33 Upper Seth ,27
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 33 Upper Seth ,105
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 33 Upper Seth ,2
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 33 Upper Seth ,0
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 33 Upper Seth ,1
+,Straight Party,,Republican,Boone,Precinct 32 Lower Seth,3
+,Straight Party,,Democratic,Boone,Precinct 32 Lower Seth,18
+,Straight Party,,Mountain,Boone,Precinct 32 Lower Seth,0
+Bill Maloney,Governor,,REP,Boone,Precinct 32 Lower Seth,18
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 32 Lower Seth,63
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 32 Lower Seth,3
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 32 Lower Seth,0
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 32 Lower Seth,0
+,Straight Party,,Republican,Boone,Precinct 33 Upper Seth,6
+,Straight Party,,Democratic,Boone,Precinct 33 Upper Seth,33
+,Straight Party,,Mountain,Boone,Precinct 33 Upper Seth,0
+Bill Maloney,Governor,,REP,Boone,Precinct 33 Upper Seth,27
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 33 Upper Seth,105
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 33 Upper Seth,2
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 33 Upper Seth,0
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 33 Upper Seth,1
 ,Straight Party,,Republican,Boone,Precinct 35 Prenter,2
 ,Straight Party,,Democratic,Boone,Precinct 35 Prenter,8
 ,Straight Party,,Mountain,Boone,Precinct 35 Prenter,0
@@ -215,14 +215,14 @@ Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 40 Whitesville,41
 Bob Henry Baber,Governor,,MTN,Boone,Precinct 40 Whitesville,0
 Marla Dee Ingels,Governor,,IND,Boone,Precinct 40 Whitesville,1
 Harry V. Bertram,Governor,,ATP,Boone,Precinct 40 Whitesville,1
-,Straight Party,,Republican,Boone,Precinct 41 Sylvester ,4
-,Straight Party,,Democratic,Boone,Precinct 41 Sylvester ,25
-,Straight Party,,Mountain,Boone,Precinct 41 Sylvester ,1
-Bill Maloney,Governor,,REP,Boone,Precinct 41 Sylvester ,22
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 41 Sylvester ,66
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 41 Sylvester ,4
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 41 Sylvester ,1
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 41 Sylvester ,0
+,Straight Party,,Republican,Boone,Precinct 41 Sylvester,4
+,Straight Party,,Democratic,Boone,Precinct 41 Sylvester,25
+,Straight Party,,Mountain,Boone,Precinct 41 Sylvester,1
+Bill Maloney,Governor,,REP,Boone,Precinct 41 Sylvester,22
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 41 Sylvester,66
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 41 Sylvester,4
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 41 Sylvester,1
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 41 Sylvester,0
 ,Straight Party,,Republican,Boone,Precinct 45 Uneeda,8
 ,Straight Party,,Democratic,Boone,Precinct 45 Uneeda,46
 ,Straight Party,,Mountain,Boone,Precinct 45 Uneeda,0
@@ -263,30 +263,30 @@ Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 49 Cazy,37
 Bob Henry Baber,Governor,,MTN,Boone,Precinct 49 Cazy,1
 Marla Dee Ingels,Governor,,IND,Boone,Precinct 49 Cazy,0
 Harry V. Bertram,Governor,,ATP,Boone,Precinct 49 Cazy,0
-,Straight Party,,Republican,Boone,Precinct 50 Wharton ,2
-,Straight Party,,Democratic,Boone,Precinct 50 Wharton ,15
-,Straight Party,,Mountain,Boone,Precinct 50 Wharton ,0
-Bill Maloney,Governor,,REP,Boone,Precinct 50 Wharton ,12
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 50 Wharton ,38
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 50 Wharton ,0
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 50 Wharton ,0
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 50 Wharton ,0
-,Straight Party,,Republican,Boone,Precinct 51 Clinton ,3
-,Straight Party,,Democratic,Boone,Precinct 51 Clinton ,24
-,Straight Party,,Mountain,Boone,Precinct 51 Clinton ,0
-Bill Maloney,Governor,,REP,Boone,Precinct 51 Clinton ,14
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 51 Clinton ,63
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 51 Clinton ,0
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 51 Clinton ,0
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 51 Clinton ,0
-,Straight Party,,Republican,Boone,Precinct 52 Barrett ,2
-,Straight Party,,Democratic,Boone,Precinct 52 Barrett ,18
-,Straight Party,,Mountain,Boone,Precinct 52 Barrett ,0
-Bill Maloney,Governor,,REP,Boone,Precinct 52 Barrett ,7
-Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 52 Barrett ,78
-Bob Henry Baber,Governor,,MTN,Boone,Precinct 52 Barrett ,1
-Marla Dee Ingels,Governor,,IND,Boone,Precinct 52 Barrett ,1
-Harry V. Bertram,Governor,,ATP,Boone,Precinct 52 Barrett ,0
+,Straight Party,,Republican,Boone,Precinct 50 Wharton,2
+,Straight Party,,Democratic,Boone,Precinct 50 Wharton,15
+,Straight Party,,Mountain,Boone,Precinct 50 Wharton,0
+Bill Maloney,Governor,,REP,Boone,Precinct 50 Wharton,12
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 50 Wharton,38
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 50 Wharton,0
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 50 Wharton,0
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 50 Wharton,0
+,Straight Party,,Republican,Boone,Precinct 51 Clinton,3
+,Straight Party,,Democratic,Boone,Precinct 51 Clinton,24
+,Straight Party,,Mountain,Boone,Precinct 51 Clinton,0
+Bill Maloney,Governor,,REP,Boone,Precinct 51 Clinton,14
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 51 Clinton,63
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 51 Clinton,0
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 51 Clinton,0
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 51 Clinton,0
+,Straight Party,,Republican,Boone,Precinct 52 Barrett,2
+,Straight Party,,Democratic,Boone,Precinct 52 Barrett,18
+,Straight Party,,Mountain,Boone,Precinct 52 Barrett,0
+Bill Maloney,Governor,,REP,Boone,Precinct 52 Barrett,7
+Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 52 Barrett,78
+Bob Henry Baber,Governor,,MTN,Boone,Precinct 52 Barrett,1
+Marla Dee Ingels,Governor,,IND,Boone,Precinct 52 Barrett,1
+Harry V. Bertram,Governor,,ATP,Boone,Precinct 52 Barrett,0
 ,Straight Party,,Republican,Boone,Precinct 53 Brown School,0
 ,Straight Party,,Democratic,Boone,Precinct 53 Brown School,27
 ,Straight Party,,Mountain,Boone,Precinct 53 Brown School,0
@@ -295,11 +295,11 @@ Earl Ray Tomblin,Governor,,DEM,Boone,Precinct 53 Brown School,65
 Bob Henry Baber,Governor,,MTN,Boone,Precinct 53 Brown School,1
 Marla Dee Ingels,Governor,,IND,Boone,Precinct 53 Brown School,0
 Harry V. Bertram,Governor,,ATP,Boone,Precinct 53 Brown School,0
-,Straight Party,,Republican,Boone,TOTAL ,214
-,Straight Party,,Democratic,Boone,TOTAL ,1063
-,Straight Party,,Mountain,Boone,TOTAL ,12
-Bill Maloney,Governor,,REP,Boone,TOTAL ,1075
-Earl Ray Tomblin,Governor,,DEM,Boone,TOTAL ,3377
-Bob Henry Baber,Governor,,MTN,Boone,TOTAL ,50
-Marla Dee Ingels,Governor,,IND,Boone,TOTAL ,33
-Harry V. Bertram,Governor,,ATP,Boone,TOTAL ,10
+,Straight Party,,Republican,Boone,TOTAL,214
+,Straight Party,,Democratic,Boone,TOTAL,1063
+,Straight Party,,Mountain,Boone,TOTAL,12
+Bill Maloney,Governor,,REP,Boone,TOTAL,1075
+Earl Ray Tomblin,Governor,,DEM,Boone,TOTAL,3377
+Bob Henry Baber,Governor,,MTN,Boone,TOTAL,50
+Marla Dee Ingels,Governor,,IND,Boone,TOTAL,33
+Harry V. Bertram,Governor,,ATP,Boone,TOTAL,10

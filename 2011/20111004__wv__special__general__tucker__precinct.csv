@@ -1,5 +1,5 @@
 candidate,office,district,party,county,precinct,votes
-,Registered Voters ,,,Tucker,Precinct 1,238
+,Registered Voters,,,Tucker,Precinct 1,238
 ,Ballots Cast,,,Tucker,Precinct 1,60
 ,Straight Party,,Republican,Tucker,Precinct 1,4
 ,Straight Party,,Democratic,Tucker,Precinct 1,3
@@ -10,7 +10,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 1,2
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 1,1
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 1,0
 Write-ins,Governor,,,Tucker,Precinct 1,0
-,Registered Voters ,,,Tucker,Precinct 2,720
+,Registered Voters,,,Tucker,Precinct 2,720
 ,Ballots Cast,,,Tucker,Precinct 2,219
 ,Straight Party,,Republican,Tucker,Precinct 2,16
 ,Straight Party,,Democratic,Tucker,Precinct 2,36
@@ -21,7 +21,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 2,2
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 2,2
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 2,1
 Write-ins,Governor,,,Tucker,Precinct 2,0
-,Registered Voters ,,,Tucker,Precinct 3,568
+,Registered Voters,,,Tucker,Precinct 3,568
 ,Ballots Cast,,,Tucker,Precinct 3,162
 ,Straight Party,,Republican,Tucker,Precinct 3,11
 ,Straight Party,,Democratic,Tucker,Precinct 3,17
@@ -32,7 +32,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 3,0
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 3,1
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 3,0
 Write-ins,Governor,,,Tucker,Precinct 3,0
-,Registered Voters ,,,Tucker,Precinct 4,426
+,Registered Voters,,,Tucker,Precinct 4,426
 ,Ballots Cast,,,Tucker,Precinct 4,128
 ,Straight Party,,Republican,Tucker,Precinct 4,16
 ,Straight Party,,Democratic,Tucker,Precinct 4,12
@@ -43,7 +43,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 4,1
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 4,0
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 4,1
 Write-ins,Governor,,,Tucker,Precinct 4,0
-,Registered Voters ,,,Tucker,Precinct 5,714
+,Registered Voters,,,Tucker,Precinct 5,714
 ,Ballots Cast,,,Tucker,Precinct 5,209
 ,Straight Party,,Republican,Tucker,Precinct 5,15
 ,Straight Party,,Democratic,Tucker,Precinct 5,20
@@ -54,7 +54,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 5,1
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 5,2
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 5,4
 Write-ins,Governor,,,Tucker,Precinct 5,0
-,Registered Voters ,,,Tucker,Precinct 10,258
+,Registered Voters,,,Tucker,Precinct 10,258
 ,Ballots Cast,,,Tucker,Precinct 10,72
 ,Straight Party,,Republican,Tucker,Precinct 10,3
 ,Straight Party,,Democratic,Tucker,Precinct 10,16
@@ -65,7 +65,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 10,1
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 10,5
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 10,1
 Write-ins,Governor,,,Tucker,Precinct 10,0
-,Registered Voters ,,,Tucker,Precinct 12,483
+,Registered Voters,,,Tucker,Precinct 12,483
 ,Ballots Cast,,,Tucker,Precinct 12,119
 ,Straight Party,,Republican,Tucker,Precinct 12,12
 ,Straight Party,,Democratic,Tucker,Precinct 12,17
@@ -76,7 +76,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 12,5
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 12,4
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 12,1
 Write-ins,Governor,,,Tucker,Precinct 12,0
-,Registered Voters ,,,Tucker,Precinct 14,204
+,Registered Voters,,,Tucker,Precinct 14,204
 ,Ballots Cast,,,Tucker,Precinct 14,75
 ,Straight Party,,Republican,Tucker,Precinct 14,10
 ,Straight Party,,Democratic,Tucker,Precinct 14,5
@@ -87,7 +87,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 14,0
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 14,4
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 14,1
 Write-ins,Governor,,,Tucker,Precinct 14,0
-,Registered Voters ,,,Tucker,Precinct 15,453
+,Registered Voters,,,Tucker,Precinct 15,453
 ,Ballots Cast,,,Tucker,Precinct 15,172
 ,Straight Party,,Republican,Tucker,Precinct 15,16
 ,Straight Party,,Democratic,Tucker,Precinct 15,17
@@ -98,7 +98,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 15,13
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 15,1
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 15,0
 Write-ins,Governor,,,Tucker,Precinct 15,0
-,Registered Voters ,,,Tucker,Precinct 16,588
+,Registered Voters,,,Tucker,Precinct 16,588
 ,Ballots Cast,,,Tucker,Precinct 16,148
 ,Straight Party,,Republican,Tucker,Precinct 16,14
 ,Straight Party,,Democratic,Tucker,Precinct 16,23
@@ -109,7 +109,7 @@ Bob Henry Baber,Governor,,MTN,Tucker,Precinct 16,6
 Marla Dee Ingels,Governor,,IND,Tucker,Precinct 16,0
 Harry V. Bertram,Governor,,ATP,Tucker,Precinct 16,0
 Write-ins,Governor,,,Tucker,Precinct 16,0
-,Registered Voters ,,,Tucker,Precinct 24,490
+,Registered Voters,,,Tucker,Precinct 24,490
 ,Ballots Cast,,,Tucker,Precinct 24,160
 ,Straight Party,,Republican,Tucker,Precinct 24,14
 ,Straight Party,,Democratic,Tucker,Precinct 24,23

@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes ,election day,early voting
+candidate,office,district,party,county,precinct,total votes,election day,early voting
 ,Registered Voters,,,Wayne,Precinct 1,1252,,
 ,Ballots Cast,,,Wayne,Precinct 1,430,430,0
 ,Straight Party,,REP,Wayne,Precinct 1,58,58,0
@@ -7,14 +7,14 @@ candidate,office,district,party,county,precinct,total votes ,election day,early 
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 1,156,156,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 1,256,256,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 1,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 1,7,7,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 1,7,7,0
 Write-in,U.S. Senate,,,Wayne,Precinct 1,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 1,179,179,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 1,225,225,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 1,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 1,1,1,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 1,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 1,265,265,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 1,265,265,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 1,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 1,4,4,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 1,0,0,0
@@ -30,14 +30,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 1,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 3,115,115,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 3,157,157,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 3,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 3,5,5,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 3,5,5,0
 Write-in,U.S. Senate,,,Wayne,Precinct 3,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 3,133,133,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 3,143,143,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 3,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 3,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 3,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 3,158,158,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 3,158,158,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 3,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 3,3,3,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 3,0,0,0
@@ -53,14 +53,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 3,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 5,136,136,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 5,208,208,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 5,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 5,10,10,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 5,10,10,0
 Write-in,U.S. Senate,,,Wayne,Precinct 5,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 5,146,146,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 5,198,198,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 5,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 5,1,1,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 5,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 5,215,215,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 5,215,215,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 5,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 5,3,3,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 5,0,0,0
@@ -76,14 +76,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 5,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 6,56,56,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 6,95,95,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 6,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 6,4,4,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 6,4,4,0
 Write-in,U.S. Senate,,,Wayne,Precinct 6,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 6,53,53,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 6,94,94,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 6,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 6,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 6,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 6,90,90,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 6,90,90,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 6,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 6,2,2,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 6,0,0,0
@@ -99,7 +99,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 6,1,1,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 11,84,84,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 11,127,127,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 11,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 11,4,4,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 11,4,4,0
 Write-in,U.S. Senate,,,Wayne,Precinct 11,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 11,94,94,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 11,116,116,0
@@ -122,7 +122,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 11,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 12,101,101,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 12,151,151,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 12,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 12,4,4,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 12,4,4,0
 Write-in,U.S. Senate,,,Wayne,Precinct 12,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 12,102,102,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 12,140,140,0
@@ -145,14 +145,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 12,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 13,131,131,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 13,213,213,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 13,4,4,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 13,12,12,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 13,12,12,0
 Write-in,U.S. Senate,,,Wayne,Precinct 13,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 13,134,134,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 13,210,210,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 13,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 13,1,1,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 13,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 13,237,237,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 13,237,237,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 13,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 13,3,3,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 13,0,0,0
@@ -168,14 +168,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 13,4,4,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 14,274,274,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 14,305,305,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 14,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 14,7,7,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 14,7,7,0
 Write-in,U.S. Senate,,,Wayne,Precinct 14,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 14,312,312,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 14,255,255,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 14,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 14,1,1,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 14,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 14,366,366,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 14,366,366,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 14,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 14,4,4,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 14,0,0,0
@@ -191,14 +191,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 14,4,4,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 16,79,79,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 16,124,124,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 16,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 16,1,1,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 16,1,1,0
 Write-in,U.S. Senate,,,Wayne,Precinct 16,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 16,100,100,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 16,96,96,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 16,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 16,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 16,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 16,125,125,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 16,125,125,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 16,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 16,1,1,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 16,0,0,0
@@ -214,14 +214,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 16,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 17,170,170,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 17,156,156,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 17,5,5,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 17,5,5,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 17,5,5,0
 Write-in,U.S. Senate,,,Wayne,Precinct 17,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 17,173,173,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 17,142,142,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 17,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 17,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 17,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 17,183,183,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 17,183,183,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 17,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 17,3,3,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 17,0,0,0
@@ -237,14 +237,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 17,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 18,118,118,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 18,165,165,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 18,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 18,7,7,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 18,7,7,0
 Write-in,U.S. Senate,,,Wayne,Precinct 18,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 18,127,127,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 18,151,151,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 18,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 18,2,2,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 18,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 18,175,175,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 18,175,175,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 18,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 18,1,1,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 18,0,0,0
@@ -260,7 +260,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 18,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 19,220,220,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 19,220,220,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 19,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 19,2,2,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 19,2,2,0
 Write-in,U.S. Senate,,,Wayne,Precinct 19,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 19,244,244,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 19,185,185,0
@@ -283,14 +283,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 19,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 20,115,115,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 20,208,208,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 20,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 20,5,5,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 20,5,5,0
 Write-in,U.S. Senate,,,Wayne,Precinct 20,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 20,124,124,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 20,197,197,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 20,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 20,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 20,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 20,213,213,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 20,213,213,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 20,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 20,1,1,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 20,0,0,0
@@ -306,14 +306,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 20,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 21,100,100,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 21,135,135,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 21,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 21,0,0,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 21,0,0,0
 Write-in,U.S. Senate,,,Wayne,Precinct 21,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 21,102,102,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 21,125,125,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 21,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 21,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 21,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 21,142,142,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 21,142,142,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 21,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 21,1,1,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 21,0,0,0
@@ -329,7 +329,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 21,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 22,118,118,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 22,176,176,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 22,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 22,5,5,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 22,5,5,0
 Write-in,U.S. Senate,,,Wayne,Precinct 22,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 22,129,129,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 22,163,163,0
@@ -352,7 +352,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 22,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 30,70,70,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 30,115,115,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 30,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 30,1,1,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 30,1,1,0
 Write-in,U.S. Senate,,,Wayne,Precinct 30,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 30,76,76,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 30,109,109,0
@@ -375,14 +375,14 @@ Write-in,House of Delegates,17,,Wayne,Precinct 30,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 31,77,77,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 31,143,143,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 31,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 31,5,5,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 31,5,5,0
 Write-in,U.S. Senate,,,Wayne,Precinct 31,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 31,94,94,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 31,123,123,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 31,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 31,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 31,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 31,154,154,154
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 31,154,154,154
 No Candidate Filed,State Senate,6,,Wayne,Precinct 31,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 31,0,0,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 31,0,0,0
@@ -398,18 +398,18 @@ Write-in,House of Delegates,17,,Wayne,Precinct 31,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 34,68,68,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 34,195,195,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 34,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 34,3,3,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 34,3,3,0
 Write-in,U.S. Senate,,,Wayne,Precinct 34,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 34,73,73,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 34,191,191,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 34,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 34,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 34,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 34,178,178,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 34,178,178,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 34,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 34,0,0,0
 No Candidate Filed,House of Delegates,20,,Wayne,Precinct 34,0,0,0
-K Steven Kominar ,House of Delegates,20,DEM,Wayne,Precinct 34,182,182,0
+K Steven Kominar,House of Delegates,20,DEM,Wayne,Precinct 34,182,182,0
 No Candidate Filed,House of Delegates,20,,Wayne,Precinct 34,0,0,0
 Write-in,House of Delegates,20,,Wayne,Precinct 34,0,0,0
 ,Registered Voters,,,Wayne,Precinct 36,862,,
@@ -420,14 +420,14 @@ Write-in,House of Delegates,20,,Wayne,Precinct 34,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 36,105,105,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 36,192,192,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 36,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 36,3,3,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 36,3,3,0
 Write-in,U.S. Senate,,,Wayne,Precinct 36,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 36,118,118,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 36,168,168,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 36,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 36,0,0,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 36,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 36,205,205,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 36,205,205,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 36,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 36,1,1,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 36,0,0,0
@@ -443,18 +443,18 @@ Write-in,House of Delegates,17,,Wayne,Precinct 36,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 37,113,113,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 37,148,148,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 37,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 37,2,2,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 37,2,2,0
 Write-in,U.S. Senate,,,Wayne,Precinct 37,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 37,118,118,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 37,138,138,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 37,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 37,2,2,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 37,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 37,146,146,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 37,146,146,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 37,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 37,1,1,0
 No Candidate Filed,House of Delegates,20,,Wayne,Precinct 37,0,0,0
-K Steven Kominar ,House of Delegates,20,DEM,Wayne,Precinct 37,149,149,0
+K Steven Kominar,House of Delegates,20,DEM,Wayne,Precinct 37,149,149,0
 No Candidate Filed,House of Delegates,20,,Wayne,Precinct 37,0,0,0
 Write-in,House of Delegates,20,,Wayne,Precinct 37,1,1,0
 ,Registered Voters,,,Wayne,Precinct 41,626,,
@@ -465,7 +465,7 @@ Write-in,House of Delegates,20,,Wayne,Precinct 37,1,1,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 41,60,60,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 41,113,113,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 41,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 41,4,4,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 41,4,4,0
 Write-in,U.S. Senate,,,Wayne,Precinct 41,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 41,54,54,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 41,120,120,0
@@ -488,7 +488,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 41,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 42,34,34,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 42,116,116,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 42,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 42,2,2,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 42,2,2,0
 Write-in,U.S. Senate,,,Wayne,Precinct 42,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 42,36,36,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 42,113,113,0
@@ -511,7 +511,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 42,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 45,51,51,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 45,172,172,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 45,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 45,3,3,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 45,3,3,0
 Write-in,U.S. Senate,,,Wayne,Precinct 45,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 45,52,52,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 45,160,160,0
@@ -534,7 +534,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 45,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 48,196,196,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 48,222,222,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 48,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 48,4,4,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 48,4,4,0
 Write-in,U.S. Senate,,,Wayne,Precinct 48,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 48,200,200,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 48,208,208,0
@@ -557,7 +557,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 48,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 49,202,202,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 49,313,313,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 49,3,3,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 49,14,14,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 49,14,14,0
 Write-in,U.S. Senate,,,Wayne,Precinct 49,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 49,227,227,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 49,287,287,0
@@ -580,7 +580,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 49,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 50,121,121,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 50,213,213,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 50,5,5,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 50,3,3,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 50,3,3,0
 Write-in,U.S. Senate,,,Wayne,Precinct 50,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 50,123,123,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 50,207,207,0
@@ -603,7 +603,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 50,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 51,116,116,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 51,219,219,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 51,4,4,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 51,6,6,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 51,6,6,0
 Write-in,U.S. Senate,,,Wayne,Precinct 51,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 51,136,136,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 51,196,196,0
@@ -626,7 +626,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 51,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 52,58,58,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 52,117,117,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 52,5,5,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 52,3,3,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 52,3,3,0
 Write-in,U.S. Senate,,,Wayne,Precinct 52,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 52,65,65,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 52,113,113,0
@@ -649,7 +649,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 52,5,5,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 53,162,162,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 53,187,187,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 53,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 53,3,3,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 53,3,3,0
 Write-in,U.S. Senate,,,Wayne,Precinct 53,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 53,163,163,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 53,174,174,0
@@ -672,7 +672,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 53,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 54,115,115,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 54,198,198,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 54,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 54,7,7,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 54,7,7,0
 Write-in,U.S. Senate,,,Wayne,Precinct 54,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 54,126,126,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 54,183,183,0
@@ -695,7 +695,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 54,0,0,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 56,247,247,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 56,284,284,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 56,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 56,5,5,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 56,5,5,0
 Write-in,U.S. Senate,,,Wayne,Precinct 56,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 56,260,260,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 56,259,259,0
@@ -705,11 +705,11 @@ No Candidate Filed,State Senate,5,,Wayne,Precinct 56,0,0,0
 Evan H. Jenkins,State Senate,5,DEM,Wayne,Precinct 56,372,372,0
 No Candidate Filed,State Senate,5,,Wayne,Precinct 56,0,0,0
 Write-in,State Senate,5,,Wayne,Precinct 56,2,2,0
-Kelli Sobonya ,House of Delegates,16,REP,Wayne,Precinct 56,313,313,0
+Kelli Sobonya,House of Delegates,16,REP,Wayne,Precinct 56,313,313,0
 T Anne See,House of Delegates,16,REP,Wayne,Precinct 56,206,206,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 56,0,0,0
-Doug Reynolds ,House of Delegates,16,DEM,Wayne,Precinct 56,308,308,0
-Dale Stephens ,House of Delegates,16,DEM,Wayne,Precinct 56,296,296,0
+Doug Reynolds,House of Delegates,16,DEM,Wayne,Precinct 56,308,308,0
+Dale Stephens,House of Delegates,16,DEM,Wayne,Precinct 56,296,296,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 56,0,0,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 56,0,0,0
 Write-in,House of Delegates,16,,Wayne,Precinct 56,4,4,0
@@ -721,7 +721,7 @@ Write-in,House of Delegates,16,,Wayne,Precinct 56,4,4,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 57,126,126,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 57,171,171,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 57,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 57,2,2,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 57,2,2,0
 Write-in,U.S. Senate,,,Wayne,Precinct 57,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 57,142,142,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 57,147,147,0
@@ -744,7 +744,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 57,2,2,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 59,124,124,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 59,196,196,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 59,4,4,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 59,9,9,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 59,9,9,0
 Write-in,U.S. Senate,,,Wayne,Precinct 59,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 59,133,133,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 59,182,182,0
@@ -754,11 +754,11 @@ No Candidate Filed,State Senate,5,,Wayne,Precinct 59,0,0,0
 Evan H. Jenkins,State Senate,5,DEM,Wayne,Precinct 59,257,257,0
 No Candidate Filed,State Senate,5,,Wayne,Precinct 59,0,0,0
 Write-in,State Senate,5,,Wayne,Precinct 59,0,0,0
-Kelli Sobonya ,House of Delegates,16,REP,Wayne,Precinct 59,197,197,0
+Kelli Sobonya,House of Delegates,16,REP,Wayne,Precinct 59,197,197,0
 T Anne See,House of Delegates,16,REP,Wayne,Precinct 59,120,120,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 59,0,0,0
-Doug Reynolds ,House of Delegates,16,DEM,Wayne,Precinct 59,221,221,0
-Dale Stephens ,House of Delegates,16,DEM,Wayne,Precinct 59,201,201,0
+Doug Reynolds,House of Delegates,16,DEM,Wayne,Precinct 59,221,221,0
+Dale Stephens,House of Delegates,16,DEM,Wayne,Precinct 59,201,201,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 59,0,0,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 59,0,0,0
 Write-in,House of Delegates,16,,Wayne,Precinct 59,4,4,0
@@ -770,7 +770,7 @@ Write-in,House of Delegates,16,,Wayne,Precinct 59,4,4,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 60,137,137,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 60,197,197,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 60,0,0,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 60,6,6,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 60,6,6,0
 Write-in,U.S. Senate,,,Wayne,Precinct 60,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 60,146,146,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 60,185,185,0
@@ -780,11 +780,11 @@ No Candidate Filed,State Senate,5,,Wayne,Precinct 60,0,0,0
 Evan H. Jenkins,State Senate,5,DEM,Wayne,Precinct 60,263,263,0
 No Candidate Filed,State Senate,5,,Wayne,Precinct 60,0,0,0
 Write-in,State Senate,5,,Wayne,Precinct 60,0,0,0
-Kelli Sobonya ,House of Delegates,16,REP,Wayne,Precinct 60,198,198,0
+Kelli Sobonya,House of Delegates,16,REP,Wayne,Precinct 60,198,198,0
 T Anne See,House of Delegates,16,REP,Wayne,Precinct 60,111,111,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 60,0,0,0
-Doug Reynolds ,House of Delegates,16,DEM,Wayne,Precinct 60,230,230,0
-Dale Stephens ,House of Delegates,16,DEM,Wayne,Precinct 60,209,209,0
+Doug Reynolds,House of Delegates,16,DEM,Wayne,Precinct 60,230,230,0
+Dale Stephens,House of Delegates,16,DEM,Wayne,Precinct 60,209,209,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 60,0,0,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 60,0,0,0
 Write-in,House of Delegates,16,,Wayne,Precinct 60,1,1,0
@@ -796,7 +796,7 @@ Write-in,House of Delegates,16,,Wayne,Precinct 60,1,1,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 61,103,103,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 61,163,163,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 61,2,2,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 61,6,6,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 61,6,6,0
 Write-in,U.S. Senate,,,Wayne,Precinct 61,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 61,120,120,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 61,144,144,0
@@ -806,11 +806,11 @@ No Candidate Filed,State Senate,5,,Wayne,Precinct 61,0,0,0
 Evan H. Jenkins,State Senate,5,DEM,Wayne,Precinct 61,205,205,0
 No Candidate Filed,State Senate,5,,Wayne,Precinct 61,0,0,0
 Write-in,State Senate,5,,Wayne,Precinct 61,1,1,0
-Kelli Sobonya ,House of Delegates,16,REP,Wayne,Precinct 61,151,151,0
+Kelli Sobonya,House of Delegates,16,REP,Wayne,Precinct 61,151,151,0
 T Anne See,House of Delegates,16,REP,Wayne,Precinct 61,91,91,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 61,0,0,0
-Doug Reynolds ,House of Delegates,16,DEM,Wayne,Precinct 61,183,183,0
-Dale Stephens ,House of Delegates,16,DEM,Wayne,Precinct 61,159,159,0
+Doug Reynolds,House of Delegates,16,DEM,Wayne,Precinct 61,183,183,0
+Dale Stephens,House of Delegates,16,DEM,Wayne,Precinct 61,159,159,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 61,0,0,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 61,0,0,0
 Write-in,House of Delegates,16,,Wayne,Precinct 61,4,4,0
@@ -822,14 +822,14 @@ Write-in,House of Delegates,16,,Wayne,Precinct 61,4,4,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 62,256,256,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 62,277,277,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 62,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 62,10,10,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 62,10,10,0
 Write-in,U.S. Senate,,,Wayne,Precinct 62,1,1,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 62,276,276,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 62,261,261,0
 No Candidate Filed,U.S. House,3,,Wayne,Precinct 62,0,0,0
 Write-in,U.S. House,3,,Wayne,Precinct 62,1,1,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 62,0,0,0
-H Truman Chafin ,State Senate,6,DEM,Wayne,Precinct 62,317,317,0
+H Truman Chafin,State Senate,6,DEM,Wayne,Precinct 62,317,317,0
 No Candidate Filed,State Senate,6,,Wayne,Precinct 62,0,0,0
 Write-in,State Senate,6,,Wayne,Precinct 62,3,3,0
 No Candidate Filed,House of Delegates,17,,Wayne,Precinct 62,0,0,0
@@ -845,7 +845,7 @@ Write-in,House of Delegates,17,,Wayne,Precinct 62,1,1,0
 John R. Raese,U.S. Senate,,REP,Wayne,Precinct 63,95,95,0
 Joe Manchin III,U.S. Senate,,DEM,Wayne,Precinct 63,129,129,0
 Jeff Becker,U.S. Senate,,CON,Wayne,Precinct 63,1,1,0
-Jesse Johnson ,U.S. Senate,,MTN,Wayne,Precinct 63,2,2,0
+Jesse Johnson,U.S. Senate,,MTN,Wayne,Precinct 63,2,2,0
 Write-in,U.S. Senate,,,Wayne,Precinct 63,0,0,0
 "Elliott E. ""Spike"" Maynard",U.S. House,3,REP,Wayne,Precinct 63,99,99,0
 "Nick Joe Rahall, II",U.S. House,3,DEM,Wayne,Precinct 63,124,124,0
@@ -855,11 +855,11 @@ No Candidate Filed,State Senate,5,,Wayne,Precinct 63,0,0,0
 Evan H. Jenkins,State Senate,5,DEM,Wayne,Precinct 63,183,183,0
 No Candidate Filed,State Senate,5,,Wayne,Precinct 63,0,0,0
 Write-in,State Senate,5,,Wayne,Precinct 63,2,2,0
-Kelli Sobonya ,House of Delegates,16,REP,Wayne,Precinct 63,133,133,0
+Kelli Sobonya,House of Delegates,16,REP,Wayne,Precinct 63,133,133,0
 T Anne See,House of Delegates,16,REP,Wayne,Precinct 63,74,74,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 63,0,0,0
-Doug Reynolds ,House of Delegates,16,DEM,Wayne,Precinct 63,147,147,0
-Dale Stephens ,House of Delegates,16,DEM,Wayne,Precinct 63,143,143,0
+Doug Reynolds,House of Delegates,16,DEM,Wayne,Precinct 63,147,147,0
+Dale Stephens,House of Delegates,16,DEM,Wayne,Precinct 63,143,143,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 63,0,0,0
 No Candidate Filed,House of Delegates,16,,Wayne,Precinct 63,0,0,0
 Write-in,House of Delegates,16,,Wayne,Precinct 63,4,4,0
