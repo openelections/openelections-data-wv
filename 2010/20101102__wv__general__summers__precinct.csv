@@ -1,8 +1,8 @@
-candidate,office,district,party,county,precinct,total votes 
+candidate,office,district,party,county,precinct,total votes
 John R. Raese,U.S. Senate,,,Summers,Precinct 1 - Forest Hill,123
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 1 - Forest Hill,162
 Jeff Becker,U.S. Senate,,,Summers,Precinct 1 - Forest Hill,7
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 1 - Forest Hill,8
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 1 - Forest Hill,8
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 1 - Forest Hill,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 1 - Forest Hill,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 1 - Forest Hill,142
@@ -26,7 +26,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 1 - Forest Hill,
 John R. Raese,U.S. Senate,,,Summers,Precinct 4 - West End,65
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 4 - West End,160
 Jeff Becker,U.S. Senate,,,Summers,Precinct 4 - West End,3
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 4 - West End,7
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 4 - West End,7
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 4 - West End,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 4 - West End,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 4 - West End,65
@@ -50,7 +50,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 4 - West End,96
 John R. Raese,U.S. Senate,,,Summers,Precinct 7 - City Hall,41
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 7 - City Hall,82
 Jeff Becker,U.S. Senate,,,Summers,Precinct 7 - City Hall,0
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 7 - City Hall,3
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 7 - City Hall,3
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 7 - City Hall,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 7 - City Hall,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 7 - City Hall,44
@@ -74,7 +74,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 7 - City Hall,45
 John R. Raese,U.S. Senate,,,Summers,Precinct 9 - Hinton Area,26
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 9 - Hinton Area,58
 Jeff Becker,U.S. Senate,,,Summers,Precinct 9 - Hinton Area,0
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 9 - Hinton Area,1
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 9 - Hinton Area,1
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 9 - Hinton Area,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 9 - Hinton Area,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 9 - Hinton Area,27
@@ -98,7 +98,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 9 - Hinton Area,43
 John R. Raese,U.S. Senate,,,Summers,Precinct 11 - Bellepoint,168
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 11 - Bellepoint,305
 Jeff Becker,U.S. Senate,,,Summers,Precinct 11 - Bellepoint,3
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 11 - Bellepoint,15
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 11 - Bellepoint,15
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 11 - Bellepoint,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 11 - Bellepoint,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 11 - Bellepoint,173
@@ -122,7 +122,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 11 - Bellepoint,165
 John R. Raese,U.S. Senate,,,Summers,Precinct 12 - Upland,53
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 12 - Upland,109
 Jeff Becker,U.S. Senate,,,Summers,Precinct 12 - Upland,6
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 12 - Upland,6
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 12 - Upland,6
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 12 - Upland,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 12 - Upland,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 12 - Upland,60
@@ -146,7 +146,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 12 - Upland,70
 John R. Raese,U.S. Senate,,,Summers,Precinct 13 - Wiggins,77
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 13 - Wiggins,117
 Jeff Becker,U.S. Senate,,,Summers,Precinct 13 - Wiggins,3
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 13 - Wiggins,3
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 13 - Wiggins,3
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 13 - Wiggins,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 13 - Wiggins,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 13 - Wiggins,79
@@ -170,7 +170,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 13 - Wiggins,71
 John R. Raese,U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,97
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,138
 Jeff Becker,U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,6
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,7
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,7
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 15 - Green Sulphur,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 15 - Green Sulphur,106
@@ -194,7 +194,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 15 - Green Sulphur,93
 John R. Raese,U.S. Senate,,,Summers,Precinct 17 - Sandstone,72
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 17 - Sandstone,91
 Jeff Becker,U.S. Senate,,,Summers,Precinct 17 - Sandstone,2
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 17 - Sandstone,3
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 17 - Sandstone,3
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 17 - Sandstone,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 17 - Sandstone,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 17 - Sandstone,75
@@ -218,7 +218,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 17 - Sandstone,66
 John R. Raese,U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,134
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,149
 Jeff Becker,U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,4
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,5
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,5
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 22 - Jumping Branch,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 22 - Jumping Branch,149
@@ -242,7 +242,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 22 - Jumping Branch,127
 John R. Raese,U.S. Senate,,,Summers,Precinct 23 - White Oak,140
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 23 - White Oak,182
 Jeff Becker,U.S. Senate,,,Summers,Precinct 23 - White Oak,2
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 23 - White Oak,7
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 23 - White Oak,7
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 23 - White Oak,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 23 - White Oak,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 23 - White Oak,153
@@ -266,7 +266,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 23 - White Oak,160
 John R. Raese,U.S. Senate,,,Summers,Precinct 26 - Madams Creek,47
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 26 - Madams Creek,66
 Jeff Becker,U.S. Senate,,,Summers,Precinct 26 - Madams Creek,3
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 26 - Madams Creek,1
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 26 - Madams Creek,1
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 26 - Madams Creek,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 26 - Madams Creek,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 26 - Madams Creek,47
@@ -290,7 +290,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 26 - Madams Creek,49
 John R. Raese,U.S. Senate,,,Summers,Precinct 27 - Pipestem,158
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 27 - Pipestem,194
 Jeff Becker,U.S. Senate,,,Summers,Precinct 27 - Pipestem,8
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 27 - Pipestem,6
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 27 - Pipestem,6
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 27 - Pipestem,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 27 - Pipestem,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 27 - Pipestem,178
@@ -314,7 +314,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 27 - Pipestem,145
 John R. Raese,U.S. Senate,,,Summers,Precinct 30 - Talcott,157
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 30 - Talcott,252
 Jeff Becker,U.S. Senate,,,Summers,Precinct 30 - Talcott,6
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 30 - Talcott,17
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 30 - Talcott,17
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 30 - Talcott,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 30 - Talcott,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 30 - Talcott,168
@@ -338,7 +338,7 @@ Rick Moye,House of Delegates,27,,Summers,Precinct 30 - Talcott,
 John R. Raese,U.S. Senate,,,Summers,Precinct 32 - Pence Springs,113
 Joe Manchin III,U.S. Senate,,,Summers,Precinct 32 - Pence Springs,123
 Jeff Becker,U.S. Senate,,,Summers,Precinct 32 - Pence Springs,11
-Jesse Johnson ,U.S. Senate,,,Summers,Precinct 32 - Pence Springs,10
+Jesse Johnson,U.S. Senate,,,Summers,Precinct 32 - Pence Springs,10
 "John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,Precinct 32 - Pence Springs,
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,Precinct 32 - Pence Springs,
 "Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,Precinct 32 - Pence Springs,117
@@ -359,27 +359,27 @@ Sally M Susman,House of Delegates,27,,Summers,Precinct 32 - Pence Springs,
 Virginia Mahan,House of Delegates,27,,Summers,Precinct 32 - Pence Springs,
 Mel Kessler,House of Delegates,27,,Summers,Precinct 32 - Pence Springs,
 Rick Moye,House of Delegates,27,,Summers,Precinct 32 - Pence Springs,
-John R. Raese,U.S. Senate,,,Summers,TOTAL ,1471
-Joe Manchin III,U.S. Senate,,,Summers,TOTAL ,2188
-Jeff Becker,U.S. Senate,,,Summers,TOTAL ,64
-Jesse Johnson ,U.S. Senate,,,Summers,TOTAL ,99
-"John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,TOTAL ,0
-"Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,TOTAL ,0
-"Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,TOTAL ,1587
-"Nick Joe Rahall, II",U.S. House,3,,Summers,TOTAL ,2106
-Butch Paugh,U.S. House,3,,Summers,TOTAL ,2
-John Barnes,State Senate,10,,Summers,TOTAL ,1591
-Ronald F. (Ron) Miller,State Senate,10,,Summers,TOTAL ,1870
-Philip L. Stevens,State Senate,10,,Summers,TOTAL ,1870
-Mark Wills,State Senate,10,,Summers,TOTAL ,1604
-Roy G. Cooper,House of Delegates,26,,Summers,TOTAL ,552
-Gerald L. Crosier,House of Delegates,26,,Summers,TOTAL ,390
-"Richard ""Ben"" Franklin",House of Delegates,27,,Summers,TOTAL ,787
-John David O'Neal IV,House of Delegates,27,,Summers,TOTAL ,1653
-Linda Sumner,House of Delegates,27,,Summers,TOTAL ,1348
-Rick Snuffer,House of Delegates,27,,Summers,TOTAL ,925
-"William R. ""Bill"" Wooton",House of Delegates,27,,Summers,TOTAL ,1195
-Sally M Susman,House of Delegates,27,,Summers,TOTAL ,1365
-Virginia Mahan,House of Delegates,27,,Summers,TOTAL ,1345
-Mel Kessler,House of Delegates,27,,Summers,TOTAL ,863
-Rick Moye,House of Delegates,27,,Summers,TOTAL ,1130
+John R. Raese,U.S. Senate,,,Summers,TOTAL,1471
+Joe Manchin III,U.S. Senate,,,Summers,TOTAL,2188
+Jeff Becker,U.S. Senate,,,Summers,TOTAL,64
+Jesse Johnson,U.S. Senate,,,Summers,TOTAL,99
+"John R. ""Rick"" Bartlett",U.S. Senate,,,Summers,TOTAL,0
+"Charles G. ""Bud"" Railey",U.S. Senate,,,Summers,TOTAL,0
+"Elliott E. ""Spike"" Maynard",U.S. House,3,,Summers,TOTAL,1587
+"Nick Joe Rahall, II",U.S. House,3,,Summers,TOTAL,2106
+Butch Paugh,U.S. House,3,,Summers,TOTAL,2
+John Barnes,State Senate,10,,Summers,TOTAL,1591
+Ronald F. (Ron) Miller,State Senate,10,,Summers,TOTAL,1870
+Philip L. Stevens,State Senate,10,,Summers,TOTAL,1870
+Mark Wills,State Senate,10,,Summers,TOTAL,1604
+Roy G. Cooper,House of Delegates,26,,Summers,TOTAL,552
+Gerald L. Crosier,House of Delegates,26,,Summers,TOTAL,390
+"Richard ""Ben"" Franklin",House of Delegates,27,,Summers,TOTAL,787
+John David O'Neal IV,House of Delegates,27,,Summers,TOTAL,1653
+Linda Sumner,House of Delegates,27,,Summers,TOTAL,1348
+Rick Snuffer,House of Delegates,27,,Summers,TOTAL,925
+"William R. ""Bill"" Wooton",House of Delegates,27,,Summers,TOTAL,1195
+Sally M Susman,House of Delegates,27,,Summers,TOTAL,1365
+Virginia Mahan,House of Delegates,27,,Summers,TOTAL,1345
+Mel Kessler,House of Delegates,27,,Summers,TOTAL,863
+Rick Moye,House of Delegates,27,,Summers,TOTAL,1130

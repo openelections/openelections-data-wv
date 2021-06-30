@@ -1,407 +1,407 @@
-candidate,office,district,party,county,precinct,total votes,election day ,early voting
-Bill Maloney ,Governor,,R,Randolph,Precinct ,200,199,0
-Ralph William Clark,Governor,,R,Randolph,Precinct ,3,3,0
-Larry V. Faircloth,Governor,,R,Randolph,Precinct ,5,5,0
-Mark A. Sorsaia,Governor,,R,Randolph,Precinct ,7,7,0
-Clark Barnes,Governor,,R,Randolph,Precinct ,383,381,0
-Cliff Ellis,Governor,,R,Randolph,Precinct ,0,0,0
-Betty Ireland,Governor,,R,Randolph,Precinct ,154,154,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct ,8,8,0
-Earl Ray Tomblin,Governor,,D,Randolph,Precinct ,1085,1084,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct ,96,96,0
-John D. Perdue,Governor,,D,Randolph,Precinct ,225,224,0
-Rick Thompson,Governor,,D,Randolph,Precinct ,438,438,0
-Arne Moltis,Governor,,D,Randolph,Precinct ,8,8,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct ,557,556,0
-Bill Maloney ,Governor,,R,Randolph,Precinct ,200,199,0
-Ralph William Clark,Governor,,R,Randolph,Precinct ,3,3,0
-Larry V. Faircloth,Governor,,R,Randolph,Precinct ,5,5,0
-Mark A. Sorsaia,Governor,,R,Randolph,Precinct ,7,7,0
-Clark Barnes,Governor,,R,Randolph,Precinct ,383,381,0
-Cliff Ellis,Governor,,R,Randolph,Precinct ,0,0,0
-Betty Ireland,Governor,,R,Randolph,Precinct ,154,154,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct ,8,8,0
-Earl Ray Tomblin,Governor,,D,Randolph,Precinct ,1085,1084,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct ,96,96,0
-John D. Perdue,Governor,,D,Randolph,Precinct ,225,224,0
-Rick Thompson,Governor,,D,Randolph,Precinct ,438,438,0
-Arne Moltis,Governor,,D,Randolph,Precinct ,8,8,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct ,557,556,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 23,9,9,0
+candidate,office,district,party,county,precinct,total votes,election day,early voting
+Bill Maloney,Governor,,R,Randolph,Precinct,200,199,0
+Ralph William Clark,Governor,,R,Randolph,Precinct,3,3,0
+Larry V. Faircloth,Governor,,R,Randolph,Precinct,5,5,0
+Mark A. Sorsaia,Governor,,R,Randolph,Precinct,7,7,0
+Clark Barnes,Governor,,R,Randolph,Precinct,383,381,0
+Cliff Ellis,Governor,,R,Randolph,Precinct,0,0,0
+Betty Ireland,Governor,,R,Randolph,Precinct,154,154,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct,8,8,0
+Earl Ray Tomblin,Governor,,D,Randolph,Precinct,1085,1084,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct,96,96,0
+John D. Perdue,Governor,,D,Randolph,Precinct,225,224,0
+Rick Thompson,Governor,,D,Randolph,Precinct,438,438,0
+Arne Moltis,Governor,,D,Randolph,Precinct,8,8,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct,557,556,0
+Bill Maloney,Governor,,R,Randolph,Precinct,200,199,0
+Ralph William Clark,Governor,,R,Randolph,Precinct,3,3,0
+Larry V. Faircloth,Governor,,R,Randolph,Precinct,5,5,0
+Mark A. Sorsaia,Governor,,R,Randolph,Precinct,7,7,0
+Clark Barnes,Governor,,R,Randolph,Precinct,383,381,0
+Cliff Ellis,Governor,,R,Randolph,Precinct,0,0,0
+Betty Ireland,Governor,,R,Randolph,Precinct,154,154,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct,8,8,0
+Earl Ray Tomblin,Governor,,D,Randolph,Precinct,1085,1084,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct,96,96,0
+John D. Perdue,Governor,,D,Randolph,Precinct,225,224,0
+Rick Thompson,Governor,,D,Randolph,Precinct,438,438,0
+Arne Moltis,Governor,,D,Randolph,Precinct,8,8,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct,557,556,0
+Bill Maloney,Governor,,R,Randolph,Precinct 23,9,9,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 23,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 23,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 23,2,2,0
 Clark Barnes,Governor,,R,Randolph,Precinct 23,18,18,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 23,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 23,12,12,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 23,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 23,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 23,79,79,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 23,8,8,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 23,8,8,0
 John D. Perdue,Governor,,D,Randolph,Precinct 23,12,12,0
 Rick Thompson,Governor,,D,Randolph,Precinct 23,25,25,0
 Arne Moltis,Governor,,D,Randolph,Precinct 23,1,1,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 23,48,48,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 24,7,7,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 23,48,48,0
+Bill Maloney,Governor,,R,Randolph,Precinct 24,7,7,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 24,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 24,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 24,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 24,5,5,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 24,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 24,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 24,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 24,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 24,38,38,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 24,3,3,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 24,3,3,0
 John D. Perdue,Governor,,D,Randolph,Precinct 24,4,4,0
 Rick Thompson,Governor,,D,Randolph,Precinct 24,13,13,0
 Arne Moltis,Governor,,D,Randolph,Precinct 24,1,1,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 24,15,15,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 25,8,8,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 24,15,15,0
+Bill Maloney,Governor,,R,Randolph,Precinct 25,8,8,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 25,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 25,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 25,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 25,17,17,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 25,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 25,9,9,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 25,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 25,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 25,37,37,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 25,12,12,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 25,12,12,0
 John D. Perdue,Governor,,D,Randolph,Precinct 25,6,6,0
 Rick Thompson,Governor,,D,Randolph,Precinct 25,20,20,0
 Arne Moltis,Governor,,D,Randolph,Precinct 25,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 25,48,48,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 27,3,3,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 25,48,48,0
+Bill Maloney,Governor,,R,Randolph,Precinct 27,3,3,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 27,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 27,1,1,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 27,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 27,18,18,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 27,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 27,9,9,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 27,2,2,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 27,2,2,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 27,39,39,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 27,1,1,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 27,1,1,0
 John D. Perdue,Governor,,D,Randolph,Precinct 27,8,8,0
 Rick Thompson,Governor,,D,Randolph,Precinct 27,19,19,0
 Arne Moltis,Governor,,D,Randolph,Precinct 27,1,1,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 27,18,18,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 28,3,3,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 27,18,18,0
+Bill Maloney,Governor,,R,Randolph,Precinct 28,3,3,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 28,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 28,1,1,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 28,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 28,17,17,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 28,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 28,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 28,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 28,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 28,36,36,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 28,5,5,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 28,5,5,0
 John D. Perdue,Governor,,D,Randolph,Precinct 28,6,6,0
 Rick Thompson,Governor,,D,Randolph,Precinct 28,14,14,0
 Arne Moltis,Governor,,D,Randolph,Precinct 28,1,1,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 28,11,11,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 28A,7,7,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 28,11,11,0
+Bill Maloney,Governor,,R,Randolph,Precinct 28A,7,7,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 28A,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 28A,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 28A,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 28A,11,10,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 28A,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 28A,5,5,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 28A,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 28A,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 28A,23,23,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 28A,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 28A,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 28A,3,3,0
 Rick Thompson,Governor,,D,Randolph,Precinct 28A,17,17,0
 Arne Moltis,Governor,,D,Randolph,Precinct 28A,1,1,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 28A,10,10,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 30,12,12,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 28A,10,10,0
+Bill Maloney,Governor,,R,Randolph,Precinct 30,12,12,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 30,1,1,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 30,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 30,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 30,7,7,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 30,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 30,4,4,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 30,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 30,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 30,31,31,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 30,5,5,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 30,5,5,0
 John D. Perdue,Governor,,D,Randolph,Precinct 30,4,4,0
 Rick Thompson,Governor,,D,Randolph,Precinct 30,12,12,0
 Arne Moltis,Governor,,D,Randolph,Precinct 30,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 30,21,21,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 31,2,2,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 30,21,21,0
+Bill Maloney,Governor,,R,Randolph,Precinct 31,2,2,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 31,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 31,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 31,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 31,3,3,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 31,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 31,1,1,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 31,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 31,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 31,20,20,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 31,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 31,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 31,7,7,0
 Rick Thompson,Governor,,D,Randolph,Precinct 31,9,9,0
 Arne Moltis,Governor,,D,Randolph,Precinct 31,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 31,12,12,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 75,1,1,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 31,12,12,0
+Bill Maloney,Governor,,R,Randolph,Precinct 75,1,1,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 75,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 75,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 75,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 75,4,4,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 75,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 75,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 75,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 75,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 75,10,10,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 75,1,1,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 75,1,1,0
 John D. Perdue,Governor,,D,Randolph,Precinct 75,1,1,0
 Rick Thompson,Governor,,D,Randolph,Precinct 75,0,0,0
 Arne Moltis,Governor,,D,Randolph,Precinct 75,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 75,4,4,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 80,5,5,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 75,4,4,0
+Bill Maloney,Governor,,R,Randolph,Precinct 80,5,5,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 80,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 80,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 80,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 80,8,8,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 80,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 80,7,7,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 80,1,1,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 80,1,1,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 80,39,39,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 80,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 80,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 80,2,2,0
 Rick Thompson,Governor,,D,Randolph,Precinct 80,7,7,0
 Arne Moltis,Governor,,D,Randolph,Precinct 80,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 80,21,21,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 85,16,16,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 80,21,21,0
+Bill Maloney,Governor,,R,Randolph,Precinct 85,16,16,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 85,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 85,1,1,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 85,1,1,0
 Clark Barnes,Governor,,R,Randolph,Precinct 85,33,33,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 85,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 85,10,10,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 85,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 85,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 85,72,72,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 85,9,9,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 85,9,9,0
 John D. Perdue,Governor,,D,Randolph,Precinct 85,22,22,0
 Rick Thompson,Governor,,D,Randolph,Precinct 85,21,21,0
 Arne Moltis,Governor,,D,Randolph,Precinct 85,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 85,42,42,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 150,18,18,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 85,42,42,0
+Bill Maloney,Governor,,R,Randolph,Precinct 150,18,18,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 150,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 150,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 150,1,1,0
 Clark Barnes,Governor,,R,Randolph,Precinct 150,20,20,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 150,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 150,7,7,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 150,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 150,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 150,96,96,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 150,1,1,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 150,1,1,0
 John D. Perdue,Governor,,D,Randolph,Precinct 150,31,31,0
 Rick Thompson,Governor,,D,Randolph,Precinct 150,45,45,0
 Arne Moltis,Governor,,D,Randolph,Precinct 150,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 150,30,30,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 155,24,24,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 150,30,30,0
+Bill Maloney,Governor,,R,Randolph,Precinct 155,24,24,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 155,1,1,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 155,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 155,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 155,29,29,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 155,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 155,16,16,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 155,2,2,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 155,2,2,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 155,73,73,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 155,6,6,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 155,6,6,0
 John D. Perdue,Governor,,D,Randolph,Precinct 155,28,28,0
 Rick Thompson,Governor,,D,Randolph,Precinct 155,21,21,0
 Arne Moltis,Governor,,D,Randolph,Precinct 155,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 155,45,45,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 160,3,3,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 155,45,45,0
+Bill Maloney,Governor,,R,Randolph,Precinct 160,3,3,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 160,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 160,1,1,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 160,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 160,11,11,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 160,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 160,4,4,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 160,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 160,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 160,31,31,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 160,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 160,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 160,2,2,0
 Rick Thompson,Governor,,D,Randolph,Precinct 160,7,7,0
 Arne Moltis,Governor,,D,Randolph,Precinct 160,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 160,17,17,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 165,18,18,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 160,17,17,0
+Bill Maloney,Governor,,R,Randolph,Precinct 165,18,18,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 165,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 165,1,1,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 165,2,2,0
 Clark Barnes,Governor,,R,Randolph,Precinct 165,35,35,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 165,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 165,5,5,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 165,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 165,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 165,50,50,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 165,5,5,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 165,5,5,0
 John D. Perdue,Governor,,D,Randolph,Precinct 165,15,14,0
 Rick Thompson,Governor,,D,Randolph,Precinct 165,21,21,0
 Arne Moltis,Governor,,D,Randolph,Precinct 165,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 165,24,24,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 170,6,5,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 165,24,24,0
+Bill Maloney,Governor,,R,Randolph,Precinct 170,6,5,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 170,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 170,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 170,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 170,21,21,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 170,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 170,11,11,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 170,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 170,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 170,41,41,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 170,6,6,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 170,6,6,0
 John D. Perdue,Governor,,D,Randolph,Precinct 170,12,12,0
 Rick Thompson,Governor,,D,Randolph,Precinct 170,11,11,0
 Arne Moltis,Governor,,D,Randolph,Precinct 170,1,1,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 170,25,25,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 180,9,8,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 170,25,25,0
+Bill Maloney,Governor,,R,Randolph,Precinct 180,9,8,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 180,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 180,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 180,1,1,0
 Clark Barnes,Governor,,R,Randolph,Precinct 180,9,9,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 180,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 180,8,8,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 180,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 180,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 180,29,29,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 180,3,3,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 180,3,3,0
 John D. Perdue,Governor,,D,Randolph,Precinct 180,7,7,0
 Rick Thompson,Governor,,D,Randolph,Precinct 180,17,17,0
 Arne Moltis,Governor,,D,Randolph,Precinct 180,2,2,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 180,12,12,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 185,5,5,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 180,12,12,0
+Bill Maloney,Governor,,R,Randolph,Precinct 185,5,5,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 185,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 185,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 185,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 185,24,24,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 185,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 185,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 185,1,1,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 185,1,1,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 185,14,14,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 185,3,3,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 185,3,3,0
 John D. Perdue,Governor,,D,Randolph,Precinct 185,2,2,0
 Rick Thompson,Governor,,D,Randolph,Precinct 185,16,16,0
 Arne Moltis,Governor,,D,Randolph,Precinct 185,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 185,4,4,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 190,2,2,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 185,4,4,0
+Bill Maloney,Governor,,R,Randolph,Precinct 190,2,2,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 190,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 190,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 190,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 190,2,2,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 190,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 190,0,0,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 190,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 190,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 190,15,15,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 190,1,1,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 190,1,1,0
 John D. Perdue,Governor,,D,Randolph,Precinct 190,0,0,0
 Rick Thompson,Governor,,D,Randolph,Precinct 190,7,7,0
 Arne Moltis,Governor,,D,Randolph,Precinct 190,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 190,2,2,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 200,9,9,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 190,2,2,0
+Bill Maloney,Governor,,R,Randolph,Precinct 200,9,9,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 200,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 200,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 200,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 200,22,21,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 200,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 200,3,3,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 200,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 200,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 200,34,34,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 200,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 200,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 200,3,3,0
 Rick Thompson,Governor,,D,Randolph,Precinct 200,17,17,0
 Arne Moltis,Governor,,D,Randolph,Precinct 200,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 200,16,16,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 202,6,6,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 200,16,16,0
+Bill Maloney,Governor,,R,Randolph,Precinct 202,6,6,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 202,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 202,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 202,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 202,7,7,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 202,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 202,1,1,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 202,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 202,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 202,13,13,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 202,1,1,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 202,1,1,0
 John D. Perdue,Governor,,D,Randolph,Precinct 202,3,3,0
 Rick Thompson,Governor,,D,Randolph,Precinct 202,13,13,0
 Arne Moltis,Governor,,D,Randolph,Precinct 202,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 202,12,12,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 205,16,16,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 202,12,12,0
+Bill Maloney,Governor,,R,Randolph,Precinct 205,16,16,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 205,1,1,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 205,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 205,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 205,34,34,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 205,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 205,20,20,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 205,1,1,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 205,1,1,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 205,110,110,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 205,6,6,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 205,6,6,0
 John D. Perdue,Governor,,D,Randolph,Precinct 205,24,24,0
 Rick Thompson,Governor,,D,Randolph,Precinct 205,58,58,0
 Arne Moltis,Governor,,D,Randolph,Precinct 205,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 205,61,61,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 210,2,2,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 205,61,61,0
+Bill Maloney,Governor,,R,Randolph,Precinct 210,2,2,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 210,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 210,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 210,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 210,6,6,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 210,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 210,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 210,1,1,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 210,1,1,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 210,42,41,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 210,5,5,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 210,5,5,0
 John D. Perdue,Governor,,D,Randolph,Precinct 210,10,10,0
 Rick Thompson,Governor,,D,Randolph,Precinct 210,10,10,0
 Arne Moltis,Governor,,D,Randolph,Precinct 210,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 210,14,14,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 215,3,3,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 210,14,14,0
+Bill Maloney,Governor,,R,Randolph,Precinct 215,3,3,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 215,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 215,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 215,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 215,5,5,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 215,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 215,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 215,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 215,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 215,48,48,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 215,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 215,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 215,3,3,0
 Rick Thompson,Governor,,D,Randolph,Precinct 215,12,12,0
 Arne Moltis,Governor,,D,Randolph,Precinct 215,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 215,16,15,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 220,6,6,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 215,16,15,0
+Bill Maloney,Governor,,R,Randolph,Precinct 220,6,6,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 220,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 220,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 220,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 220,7,7,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 220,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 220,5,5,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 220,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 220,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 220,8,8,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 220,2,2,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 220,2,2,0
 John D. Perdue,Governor,,D,Randolph,Precinct 220,3,3,0
 Rick Thompson,Governor,,D,Randolph,Precinct 220,4,4,0
 Arne Moltis,Governor,,D,Randolph,Precinct 220,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 220,10,10,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 225,1,1,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 220,10,10,0
+Bill Maloney,Governor,,R,Randolph,Precinct 225,1,1,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 225,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 225,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 225,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 225,5,5,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 225,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 225,3,3,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 225,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 225,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 225,36,36,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 225,1,1,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 225,1,1,0
 John D. Perdue,Governor,,D,Randolph,Precinct 225,5,5,0
 Rick Thompson,Governor,,D,Randolph,Precinct 225,14,14,0
 Arne Moltis,Governor,,D,Randolph,Precinct 225,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 225,9,9,0
-Bill Maloney ,Governor,,R,Randolph,Precinct 227,0,0,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 225,9,9,0
+Bill Maloney,Governor,,R,Randolph,Precinct 227,0,0,0
 Ralph William Clark,Governor,,R,Randolph,Precinct 227,0,0,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct 227,0,0,0
 Mark A. Sorsaia,Governor,,R,Randolph,Precinct 227,0,0,0
 Clark Barnes,Governor,,R,Randolph,Precinct 227,5,5,0
 Cliff Ellis,Governor,,R,Randolph,Precinct 227,0,0,0
 Betty Ireland,Governor,,R,Randolph,Precinct 227,2,2,0
-Mitch B. Carmichael ,Governor,,R,Randolph,Precinct 227,0,0,0
+Mitch B. Carmichael,Governor,,R,Randolph,Precinct 227,0,0,0
 Earl Ray Tomblin,Governor,,D,Randolph,Precinct 227,21,21,0
-Jeffrey V. Kessler ,Governor,,D,Randolph,Precinct 227,0,0,0
+Jeffrey V. Kessler,Governor,,D,Randolph,Precinct 227,0,0,0
 John D. Perdue,Governor,,D,Randolph,Precinct 227,2,2,0
 Rick Thompson,Governor,,D,Randolph,Precinct 227,8,8,0
 Arne Moltis,Governor,,D,Randolph,Precinct 227,0,0,0
-Natalie E. Tennant ,Governor,,D,Randolph,Precinct 227,10,10,0
+Natalie E. Tennant,Governor,,D,Randolph,Precinct 227,10,10,0

@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,total votes,election day,early voting
-,Registered Voters ,,R,Berkeley,Precinct 1,225,,
-,Registered Voters ,,D,Berkeley,Precinct 1,427,,
+,Registered Voters,,R,Berkeley,Precinct 1,225,,
+,Registered Voters,,D,Berkeley,Precinct 1,427,,
 ,Ballots Cast,,R,Berkeley,Precinct 1,38,26,12
 ,Ballots Cast,,D,Berkeley,Precinct 1,66,41,25
 Bill Maloney,Governor,,,Berkeley,Precinct 1,10,7,3
@@ -16,9 +16,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 1,5,4,1
 John D. Perdue,Governor,,,Berkeley,Precinct 1,8,4,4
 Rick Thompson,Governor,,,Berkeley,Precinct 1,9,3,6
 Arne Moltis,Governor,,,Berkeley,Precinct 1,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 1,8,6,2
-,Registered Voters ,,R,Berkeley,Precinct 2,305,,
-,Registered Voters ,,D,Berkeley,Precinct 2,477,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 1,8,6,2
+,Registered Voters,,R,Berkeley,Precinct 2,305,,
+,Registered Voters,,D,Berkeley,Precinct 2,477,,
 ,Ballots Cast,,R,Berkeley,Precinct 2,51,34,17
 ,Ballots Cast,,D,Berkeley,Precinct 2,87,57,30
 Bill Maloney,Governor,,,Berkeley,Precinct 2,6,6,0
@@ -34,9 +34,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 2,14,8,6
 John D. Perdue,Governor,,,Berkeley,Precinct 2,12,8,4
 Rick Thompson,Governor,,,Berkeley,Precinct 2,10,9,1
 Arne Moltis,Governor,,,Berkeley,Precinct 2,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 2,14,7,7
-,Registered Voters ,,R,Berkeley,Precinct 5,322,,
-,Registered Voters ,,D,Berkeley,Precinct 5,505,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 2,14,7,7
+,Registered Voters,,R,Berkeley,Precinct 5,322,,
+,Registered Voters,,D,Berkeley,Precinct 5,505,,
 ,Ballots Cast,,R,Berkeley,Precinct 5,29,18,11
 ,Ballots Cast,,D,Berkeley,Precinct 5,58,36,22
 Bill Maloney,Governor,,,Berkeley,Precinct 5,6,5,1
@@ -52,9 +52,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 5,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 5,7,5,2
 Rick Thompson,Governor,,,Berkeley,Precinct 5,7,4,3
 Arne Moltis,Governor,,,Berkeley,Precinct 5,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 5,12,6,6
-,Registered Voters ,,R,Berkeley,Precinct 6,164,,
-,Registered Voters ,,D,Berkeley,Precinct 6,320,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 5,12,6,6
+,Registered Voters,,R,Berkeley,Precinct 6,164,,
+,Registered Voters,,D,Berkeley,Precinct 6,320,,
 ,Ballots Cast,,R,Berkeley,Precinct 6,23,15,8
 ,Ballots Cast,,D,Berkeley,Precinct 6,36,19,17
 Bill Maloney,Governor,,,Berkeley,Precinct 6,7,5,2
@@ -70,9 +70,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 6,1,0,1
 John D. Perdue,Governor,,,Berkeley,Precinct 6,8,1,7
 Rick Thompson,Governor,,,Berkeley,Precinct 6,8,5,3
 Arne Moltis,Governor,,,Berkeley,Precinct 6,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 6,5,4,1
-,Registered Voters ,,R,Berkeley,Precinct 7,209,,
-,Registered Voters ,,D,Berkeley,Precinct 7,477,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 6,5,4,1
+,Registered Voters,,R,Berkeley,Precinct 7,209,,
+,Registered Voters,,D,Berkeley,Precinct 7,477,,
 ,Ballots Cast,,R,Berkeley,Precinct 7,30,16,14
 ,Ballots Cast,,D,Berkeley,Precinct 7,66,45,21
 Bill Maloney,Governor,,,Berkeley,Precinct 7,4,0,4
@@ -88,9 +88,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 7,9,8,1
 John D. Perdue,Governor,,,Berkeley,Precinct 7,4,3,1
 Rick Thompson,Governor,,,Berkeley,Precinct 7,4,2,2
 Arne Moltis,Governor,,,Berkeley,Precinct 7,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 7,19,13,6
-,Registered Voters ,,R,Berkeley,Precinct 8,119,,
-,Registered Voters ,,D,Berkeley,Precinct 8,260,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 7,19,13,6
+,Registered Voters,,R,Berkeley,Precinct 8,119,,
+,Registered Voters,,D,Berkeley,Precinct 8,260,,
 ,Ballots Cast,,R,Berkeley,Precinct 8,9,4,5
 ,Ballots Cast,,D,Berkeley,Precinct 8,18,10,8
 Bill Maloney,Governor,,,Berkeley,Precinct 8,0,0,0
@@ -106,9 +106,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 8,1,0,1
 John D. Perdue,Governor,,,Berkeley,Precinct 8,1,1,0
 Rick Thompson,Governor,,,Berkeley,Precinct 8,1,1,0
 Arne Moltis,Governor,,,Berkeley,Precinct 8,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 8,3,3,0
-,Registered Voters ,,R,Berkeley,Precinct 9,376,,
-,Registered Voters ,,D,Berkeley,Precinct 9,449,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 8,3,3,0
+,Registered Voters,,R,Berkeley,Precinct 9,376,,
+,Registered Voters,,D,Berkeley,Precinct 9,449,,
 ,Ballots Cast,,R,Berkeley,Precinct 9,72,41,31
 ,Ballots Cast,,D,Berkeley,Precinct 9,88,48,40
 Bill Maloney,Governor,,,Berkeley,Precinct 9,10,5,5
@@ -124,9 +124,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 9,8,5,3
 John D. Perdue,Governor,,,Berkeley,Precinct 9,7,3,4
 Rick Thompson,Governor,,,Berkeley,Precinct 9,7,6,1
 Arne Moltis,Governor,,,Berkeley,Precinct 9,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 9,23,14,9
-,Registered Voters ,,R,Berkeley,Precinct 9-22A,249,,
-,Registered Voters ,,D,Berkeley,Precinct 9-22A,273,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 9,23,14,9
+,Registered Voters,,R,Berkeley,Precinct 9-22A,249,,
+,Registered Voters,,D,Berkeley,Precinct 9-22A,273,,
 ,Ballots Cast,,R,Berkeley,Precinct 9-22A,22,16,6
 ,Ballots Cast,,D,Berkeley,Precinct 9-22A,15,9,6
 Bill Maloney,Governor,,,Berkeley,Precinct 9-22A,3,3,0
@@ -142,9 +142,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 9-22A,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 9-22A,1,0,1
 Rick Thompson,Governor,,,Berkeley,Precinct 9-22A,1,0,1
 Arne Moltis,Governor,,,Berkeley,Precinct 9-22A,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 9-22A,3,2,1
-,Registered Voters ,,R,Berkeley,Precinct 10,320,,
-,Registered Voters ,,D,Berkeley,Precinct 10,514,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 9-22A,3,2,1
+,Registered Voters,,R,Berkeley,Precinct 10,320,,
+,Registered Voters,,D,Berkeley,Precinct 10,514,,
 ,Ballots Cast,,R,Berkeley,Precinct 10,63,42,21
 ,Ballots Cast,,D,Berkeley,Precinct 10,87,49,38
 Bill Maloney,Governor,,,Berkeley,Precinct 10,13,9,4
@@ -160,9 +160,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 10,10,7,3
 John D. Perdue,Governor,,,Berkeley,Precinct 10,18,9,9
 Rick Thompson,Governor,,,Berkeley,Precinct 10,8,4,4
 Arne Moltis,Governor,,,Berkeley,Precinct 10,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 10,11,7,4
-,Registered Voters ,,R,Berkeley,Precinct 11,152,,
-,Registered Voters ,,D,Berkeley,Precinct 11,206,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 10,11,7,4
+,Registered Voters,,R,Berkeley,Precinct 11,152,,
+,Registered Voters,,D,Berkeley,Precinct 11,206,,
 ,Ballots Cast,,R,Berkeley,Precinct 11,40,32,8
 ,Ballots Cast,,D,Berkeley,Precinct 11,63,38,25
 Bill Maloney,Governor,,,Berkeley,Precinct 11,6,5,1
@@ -178,9 +178,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 11,12,6,6
 John D. Perdue,Governor,,,Berkeley,Precinct 11,7,5,2
 Rick Thompson,Governor,,,Berkeley,Precinct 11,9,7,2
 Arne Moltis,Governor,,,Berkeley,Precinct 11,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 11,7,3,4
-,Registered Voters ,,R,Berkeley,Precinct 12,578,,
-,Registered Voters ,,D,Berkeley,Precinct 12,497,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 11,7,3,4
+,Registered Voters,,R,Berkeley,Precinct 12,578,,
+,Registered Voters,,D,Berkeley,Precinct 12,497,,
 ,Ballots Cast,,R,Berkeley,Precinct 12,76,60,16
 ,Ballots Cast,,D,Berkeley,Precinct 12,80,42,38
 Bill Maloney,Governor,,,Berkeley,Precinct 12,10,7,3
@@ -196,9 +196,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 12,11,7,4
 John D. Perdue,Governor,,,Berkeley,Precinct 12,6,3,3
 Rick Thompson,Governor,,,Berkeley,Precinct 12,9,2,7
 Arne Moltis,Governor,,,Berkeley,Precinct 12,1,1,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 12,12,5,7
-,Registered Voters ,,R,Berkeley,Precinct 13,225,,
-,Registered Voters ,,D,Berkeley,Precinct 13,214,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 12,12,5,7
+,Registered Voters,,R,Berkeley,Precinct 13,225,,
+,Registered Voters,,D,Berkeley,Precinct 13,214,,
 ,Ballots Cast,,R,Berkeley,Precinct 13,33,24,9
 ,Ballots Cast,,D,Berkeley,Precinct 13,22,16,6
 Bill Maloney,Governor,,,Berkeley,Precinct 13,8,7,1
@@ -214,9 +214,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 13,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 13,5,2,3
 Rick Thompson,Governor,,,Berkeley,Precinct 13,5,5,0
 Arne Moltis,Governor,,,Berkeley,Precinct 13,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 13,2,2,0
-,Registered Voters ,,R,Berkeley,Precinct 14,116,,
-,Registered Voters ,,D,Berkeley,Precinct 14,293,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 13,2,2,0
+,Registered Voters,,R,Berkeley,Precinct 14,116,,
+,Registered Voters,,D,Berkeley,Precinct 14,293,,
 ,Ballots Cast,,R,Berkeley,Precinct 14,11,7,4
 ,Ballots Cast,,D,Berkeley,Precinct 14,22,15,7
 Bill Maloney,Governor,,,Berkeley,Precinct 14,0,0,0
@@ -232,9 +232,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 14,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 14,4,3,1
 Rick Thompson,Governor,,,Berkeley,Precinct 14,2,2,0
 Arne Moltis,Governor,,,Berkeley,Precinct 14,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 14,3,3,0
-,Registered Voters ,,R,Berkeley,Precinct 15,199,,
-,Registered Voters ,,D,Berkeley,Precinct 15,355,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 14,3,3,0
+,Registered Voters,,R,Berkeley,Precinct 15,199,,
+,Registered Voters,,D,Berkeley,Precinct 15,355,,
 ,Ballots Cast,,R,Berkeley,Precinct 15,15,12,3
 ,Ballots Cast,,D,Berkeley,Precinct 15,24,14,10
 Bill Maloney,Governor,,,Berkeley,Precinct 15,3,2,1
@@ -250,9 +250,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 15,1,0,1
 John D. Perdue,Governor,,,Berkeley,Precinct 15,0,0,0
 Rick Thompson,Governor,,,Berkeley,Precinct 15,5,2,3
 Arne Moltis,Governor,,,Berkeley,Precinct 15,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 15,7,5,2
-,Registered Voters ,,R,Berkeley,Precinct 16,481,,
-,Registered Voters ,,D,Berkeley,Precinct 16,590,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 15,7,5,2
+,Registered Voters,,R,Berkeley,Precinct 16,481,,
+,Registered Voters,,D,Berkeley,Precinct 16,590,,
 ,Ballots Cast,,R,Berkeley,Precinct 16,83,59,24
 ,Ballots Cast,,D,Berkeley,Precinct 16,76,48,28
 Bill Maloney,Governor,,,Berkeley,Precinct 16,14,13,1
@@ -268,9 +268,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 16,8,4,4
 John D. Perdue,Governor,,,Berkeley,Precinct 16,6,4,2
 Rick Thompson,Governor,,,Berkeley,Precinct 16,17,12,5
 Arne Moltis,Governor,,,Berkeley,Precinct 16,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 16,10,5,5
-,Registered Voters ,,R,Berkeley,Precinct 17,267,,
-,Registered Voters ,,D,Berkeley,Precinct 17,376,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 16,10,5,5
+,Registered Voters,,R,Berkeley,Precinct 17,267,,
+,Registered Voters,,D,Berkeley,Precinct 17,376,,
 ,Ballots Cast,,R,Berkeley,Precinct 17,48,35,13
 ,Ballots Cast,,D,Berkeley,Precinct 17,26,19,7
 Bill Maloney,Governor,,,Berkeley,Precinct 17,11,10,1
@@ -286,9 +286,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 17,3,0,3
 John D. Perdue,Governor,,,Berkeley,Precinct 17,3,1,2
 Rick Thompson,Governor,,,Berkeley,Precinct 17,2,2,0
 Arne Moltis,Governor,,,Berkeley,Precinct 17,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 17,3,3,0
-,Registered Voters ,,R,Berkeley,Precinct 18,363,,
-,Registered Voters ,,D,Berkeley,Precinct 18,452,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 17,3,3,0
+,Registered Voters,,R,Berkeley,Precinct 18,363,,
+,Registered Voters,,D,Berkeley,Precinct 18,452,,
 ,Ballots Cast,,R,Berkeley,Precinct 18,36,25,11
 ,Ballots Cast,,D,Berkeley,Precinct 18,37,24,13
 Bill Maloney,Governor,,,Berkeley,Precinct 18,10,9,1
@@ -304,9 +304,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 18,1,0,1
 John D. Perdue,Governor,,,Berkeley,Precinct 18,8,2,6
 Rick Thompson,Governor,,,Berkeley,Precinct 18,7,6,1
 Arne Moltis,Governor,,,Berkeley,Precinct 18,1,1,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 18,6,5,1
-,Registered Voters ,,R,Berkeley,Precinct 18A,106,,
-,Registered Voters ,,D,Berkeley,Precinct 18A,72,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 18,6,5,1
+,Registered Voters,,R,Berkeley,Precinct 18A,106,,
+,Registered Voters,,D,Berkeley,Precinct 18A,72,,
 ,Ballots Cast,,R,Berkeley,Precinct 18A,8,4,4
 ,Ballots Cast,,D,Berkeley,Precinct 18A,7,6,1
 Bill Maloney,Governor,,,Berkeley,Precinct 18A,2,2,0
@@ -322,9 +322,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 18A,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 18A,0,0,0
 Rick Thompson,Governor,,,Berkeley,Precinct 18A,1,1,0
 Arne Moltis,Governor,,,Berkeley,Precinct 18A,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 18A,2,2,0
-,Registered Voters ,,R,Berkeley,Precinct 19,351,,
-,Registered Voters ,,D,Berkeley,Precinct 19,289,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 18A,2,2,0
+,Registered Voters,,R,Berkeley,Precinct 19,351,,
+,Registered Voters,,D,Berkeley,Precinct 19,289,,
 ,Ballots Cast,,R,Berkeley,Precinct 19,31,23,8
 ,Ballots Cast,,D,Berkeley,Precinct 19,28,14,14
 Bill Maloney,Governor,,,Berkeley,Precinct 19,6,4,2
@@ -340,9 +340,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 19,5,3,2
 John D. Perdue,Governor,,,Berkeley,Precinct 19,1,0,1
 Rick Thompson,Governor,,,Berkeley,Precinct 19,4,2,2
 Arne Moltis,Governor,,,Berkeley,Precinct 19,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 19,1,0,1
-,Registered Voters ,,R,Berkeley,Precinct 20,422,,
-,Registered Voters ,,D,Berkeley,Precinct 20,300,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 19,1,0,1
+,Registered Voters,,R,Berkeley,Precinct 20,422,,
+,Registered Voters,,D,Berkeley,Precinct 20,300,,
 ,Ballots Cast,,R,Berkeley,Precinct 20,35,32,3
 ,Ballots Cast,,D,Berkeley,Precinct 20,13,9,4
 Bill Maloney,Governor,,,Berkeley,Precinct 20,5,4,1
@@ -358,9 +358,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 20,2,1,1
 John D. Perdue,Governor,,,Berkeley,Precinct 20,0,0,0
 Rick Thompson,Governor,,,Berkeley,Precinct 20,2,0,2
 Arne Moltis,Governor,,,Berkeley,Precinct 20,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 20,2,2,0
-,Registered Voters ,,R,Berkeley,Precinct 21,520,,
-,Registered Voters ,,D,Berkeley,Precinct 21,362,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 20,2,2,0
+,Registered Voters,,R,Berkeley,Precinct 21,520,,
+,Registered Voters,,D,Berkeley,Precinct 21,362,,
 ,Ballots Cast,,R,Berkeley,Precinct 21,46,41,5
 ,Ballots Cast,,D,Berkeley,Precinct 21,26,18,8
 Bill Maloney,Governor,,,Berkeley,Precinct 21,10,8,2
@@ -376,9 +376,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 21,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 21,5,3,2
 Rick Thompson,Governor,,,Berkeley,Precinct 21,6,5,1
 Arne Moltis,Governor,,,Berkeley,Precinct 21,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 21,4,2,2
-,Registered Voters ,,R,Berkeley,Precinct 22,282,,
-,Registered Voters ,,D,Berkeley,Precinct 22,238,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 21,4,2,2
+,Registered Voters,,R,Berkeley,Precinct 22,282,,
+,Registered Voters,,D,Berkeley,Precinct 22,238,,
 ,Ballots Cast,,R,Berkeley,Precinct 22,50,30,20
 ,Ballots Cast,,D,Berkeley,Precinct 22,29,16,13
 Bill Maloney,Governor,,,Berkeley,Precinct 22,6,5,1
@@ -394,9 +394,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 22,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 22,8,4,4
 Rick Thompson,Governor,,,Berkeley,Precinct 22,2,0,2
 Arne Moltis,Governor,,,Berkeley,Precinct 22,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 22,5,4,1
-,Registered Voters ,,R,Berkeley,Precinct 22A,234,,
-,Registered Voters ,,D,Berkeley,Precinct 22A,207,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 22,5,4,1
+,Registered Voters,,R,Berkeley,Precinct 22A,234,,
+,Registered Voters,,D,Berkeley,Precinct 22A,207,,
 ,Ballots Cast,,R,Berkeley,Precinct 22A,57,38,19
 ,Ballots Cast,,D,Berkeley,Precinct 22A,38,21,17
 Bill Maloney,Governor,,,Berkeley,Precinct 22A,25,21,4
@@ -412,9 +412,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 22A,6,2,4
 John D. Perdue,Governor,,,Berkeley,Precinct 22A,8,3,5
 Rick Thompson,Governor,,,Berkeley,Precinct 22A,5,2,3
 Arne Moltis,Governor,,,Berkeley,Precinct 22A,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 22A,5,2,3
-,Registered Voters ,,R,Berkeley,Precinct 23,789,,
-,Registered Voters ,,D,Berkeley,Precinct 23,651,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 22A,5,2,3
+,Registered Voters,,R,Berkeley,Precinct 23,789,,
+,Registered Voters,,D,Berkeley,Precinct 23,651,,
 ,Ballots Cast,,R,Berkeley,Precinct 23,75,51,24
 ,Ballots Cast,,D,Berkeley,Precinct 23,43,33,10
 Bill Maloney,Governor,,,Berkeley,Precinct 23,9,6,3
@@ -430,9 +430,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 23,6,5,1
 John D. Perdue,Governor,,,Berkeley,Precinct 23,4,4,0
 Rick Thompson,Governor,,,Berkeley,Precinct 23,4,4,0
 Arne Moltis,Governor,,,Berkeley,Precinct 23,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 23,5,2,3
-,Registered Voters ,,R,Berkeley,Precinct 24,363,,
-,Registered Voters ,,D,Berkeley,Precinct 24,498,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 23,5,2,3
+,Registered Voters,,R,Berkeley,Precinct 24,363,,
+,Registered Voters,,D,Berkeley,Precinct 24,498,,
 ,Ballots Cast,,R,Berkeley,Precinct 24,27,20,7
 ,Ballots Cast,,D,Berkeley,Precinct 24,52,36,16
 Bill Maloney,Governor,,,Berkeley,Precinct 24,2,2,0
@@ -448,9 +448,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 24,5,3,2
 John D. Perdue,Governor,,,Berkeley,Precinct 24,10,9,1
 Rick Thompson,Governor,,,Berkeley,Precinct 24,6,4,2
 Arne Moltis,Governor,,,Berkeley,Precinct 24,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 24,9,5,4
-,Registered Voters ,,R,Berkeley,Precinct 25,320,,
-,Registered Voters ,,D,Berkeley,Precinct 25,568,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 24,9,5,4
+,Registered Voters,,R,Berkeley,Precinct 25,320,,
+,Registered Voters,,D,Berkeley,Precinct 25,568,,
 ,Ballots Cast,,R,Berkeley,Precinct 25,24,18,6
 ,Ballots Cast,,D,Berkeley,Precinct 25,27,21,6
 Bill Maloney,Governor,,,Berkeley,Precinct 25,6,6,0
@@ -466,9 +466,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 25,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 25,1,1,0
 Rick Thompson,Governor,,,Berkeley,Precinct 25,3,3,0
 Arne Moltis,Governor,,,Berkeley,Precinct 25,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 25,5,4,1
-,Registered Voters ,,R,Berkeley,Precinct 26,361,,
-,Registered Voters ,,D,Berkeley,Precinct 26,388,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 25,5,4,1
+,Registered Voters,,R,Berkeley,Precinct 26,361,,
+,Registered Voters,,D,Berkeley,Precinct 26,388,,
 ,Ballots Cast,,R,Berkeley,Precinct 26,33,30,3
 ,Ballots Cast,,D,Berkeley,Precinct 26,38,29,9
 Bill Maloney,Governor,,,Berkeley,Precinct 26,3,3,0
@@ -484,9 +484,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 26,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 26,4,4,0
 Rick Thompson,Governor,,,Berkeley,Precinct 26,8,6,2
 Arne Moltis,Governor,,,Berkeley,Precinct 26,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 26,4,4,0
-,Registered Voters ,,R,Berkeley,Precinct 27,454,,
-,Registered Voters ,,D,Berkeley,Precinct 27,498,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 26,4,4,0
+,Registered Voters,,R,Berkeley,Precinct 27,454,,
+,Registered Voters,,D,Berkeley,Precinct 27,498,,
 ,Ballots Cast,,R,Berkeley,Precinct 27,74,52,22
 ,Ballots Cast,,D,Berkeley,Precinct 27,105,68,37
 Bill Maloney,Governor,,,Berkeley,Precinct 27,17,13,4
@@ -502,9 +502,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 27,14,8,6
 John D. Perdue,Governor,,,Berkeley,Precinct 27,14,7,7
 Rick Thompson,Governor,,,Berkeley,Precinct 27,20,16,4
 Arne Moltis,Governor,,,Berkeley,Precinct 27,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 27,14,9,5
-,Registered Voters ,,R,Berkeley,Precinct 28,384,,
-,Registered Voters ,,D,Berkeley,Precinct 28,374,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 27,14,9,5
+,Registered Voters,,R,Berkeley,Precinct 28,384,,
+,Registered Voters,,D,Berkeley,Precinct 28,374,,
 ,Ballots Cast,,R,Berkeley,Precinct 28,54,34,20
 ,Ballots Cast,,D,Berkeley,Precinct 28,40,25,15
 Bill Maloney,Governor,,,Berkeley,Precinct 28,16,8,8
@@ -520,9 +520,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 28,2,0,2
 John D. Perdue,Governor,,,Berkeley,Precinct 28,4,2,2
 Rick Thompson,Governor,,,Berkeley,Precinct 28,7,6,1
 Arne Moltis,Governor,,,Berkeley,Precinct 28,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 28,5,3,2
-,Registered Voters ,,R,Berkeley,Precinct 29,363,,
-,Registered Voters ,,D,Berkeley,Precinct 29,419,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 28,5,3,2
+,Registered Voters,,R,Berkeley,Precinct 29,363,,
+,Registered Voters,,D,Berkeley,Precinct 29,419,,
 ,Ballots Cast,,R,Berkeley,Precinct 29,63,47,16
 ,Ballots Cast,,D,Berkeley,Precinct 29,51,39,12
 Bill Maloney,Governor,,,Berkeley,Precinct 29,15,10,5
@@ -538,9 +538,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 29,7,5,2
 John D. Perdue,Governor,,,Berkeley,Precinct 29,4,4,0
 Rick Thompson,Governor,,,Berkeley,Precinct 29,3,2,1
 Arne Moltis,Governor,,,Berkeley,Precinct 29,1,0,1
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 29,8,6,2
-,Registered Voters ,,R,Berkeley,Precinct 30,373,,
-,Registered Voters ,,D,Berkeley,Precinct 30,287,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 29,8,6,2
+,Registered Voters,,R,Berkeley,Precinct 30,373,,
+,Registered Voters,,D,Berkeley,Precinct 30,287,,
 ,Ballots Cast,,R,Berkeley,Precinct 30,26,22,4
 ,Ballots Cast,,D,Berkeley,Precinct 30,37,19,18
 Bill Maloney,Governor,,,Berkeley,Precinct 30,6,6,0
@@ -556,9 +556,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 30,6,4,2
 John D. Perdue,Governor,,,Berkeley,Precinct 30,4,0,4
 Rick Thompson,Governor,,,Berkeley,Precinct 30,5,2,3
 Arne Moltis,Governor,,,Berkeley,Precinct 30,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 30,6,3,3
-,Registered Voters ,,R,Berkeley,Precinct 32,396,,
-,Registered Voters ,,D,Berkeley,Precinct 32,391,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 30,6,3,3
+,Registered Voters,,R,Berkeley,Precinct 32,396,,
+,Registered Voters,,D,Berkeley,Precinct 32,391,,
 ,Ballots Cast,,R,Berkeley,Precinct 32,46,41,5
 ,Ballots Cast,,D,Berkeley,Precinct 32,28,24,4
 Bill Maloney,Governor,,,Berkeley,Precinct 32,8,7,1
@@ -574,9 +574,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 32,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 32,3,3,0
 Rick Thompson,Governor,,,Berkeley,Precinct 32,9,8,1
 Arne Moltis,Governor,,,Berkeley,Precinct 32,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 32,3,3,0
-,Registered Voters ,,R,Berkeley,Precinct 34,485,,
-,Registered Voters ,,D,Berkeley,Precinct 34,368,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 32,3,3,0
+,Registered Voters,,R,Berkeley,Precinct 34,485,,
+,Registered Voters,,D,Berkeley,Precinct 34,368,,
 ,Ballots Cast,,R,Berkeley,Precinct 34,61,40,21
 ,Ballots Cast,,D,Berkeley,Precinct 34,50,37,13
 Bill Maloney,Governor,,,Berkeley,Precinct 34,11,8,3
@@ -592,9 +592,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 34,7,6,1
 John D. Perdue,Governor,,,Berkeley,Precinct 34,9,5,4
 Rick Thompson,Governor,,,Berkeley,Precinct 34,9,6,3
 Arne Moltis,Governor,,,Berkeley,Precinct 34,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 34,7,5,2
-,Registered Voters ,,R,Berkeley,Precinct 35,497,,
-,Registered Voters ,,D,Berkeley,Precinct 35,459,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 34,7,5,2
+,Registered Voters,,R,Berkeley,Precinct 35,497,,
+,Registered Voters,,D,Berkeley,Precinct 35,459,,
 ,Ballots Cast,,R,Berkeley,Precinct 35,61,43,18
 ,Ballots Cast,,D,Berkeley,Precinct 35,41,29,12
 Bill Maloney,Governor,,,Berkeley,Precinct 35,9,3,6
@@ -610,9 +610,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 35,6,6,0
 John D. Perdue,Governor,,,Berkeley,Precinct 35,7,5,2
 Rick Thompson,Governor,,,Berkeley,Precinct 35,5,2,3
 Arne Moltis,Governor,,,Berkeley,Precinct 35,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 35,5,3,2
-,Registered Voters ,,R,Berkeley,Precinct 36,668,,
-,Registered Voters ,,D,Berkeley,Precinct 36,557,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 35,5,3,2
+,Registered Voters,,R,Berkeley,Precinct 36,668,,
+,Registered Voters,,D,Berkeley,Precinct 36,557,,
 ,Ballots Cast,,R,Berkeley,Precinct 36,93,72,21
 ,Ballots Cast,,D,Berkeley,Precinct 36,56,45,11
 Bill Maloney,Governor,,,Berkeley,Precinct 36,17,15,2
@@ -628,9 +628,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 36,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 36,12,10,2
 Rick Thompson,Governor,,,Berkeley,Precinct 36,2,2,0
 Arne Moltis,Governor,,,Berkeley,Precinct 36,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 36,8,7,1
-,Registered Voters ,,R,Berkeley,Precinct 38,466,,1
-,Registered Voters ,,D,Berkeley,Precinct 38,395,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 36,8,7,1
+,Registered Voters,,R,Berkeley,Precinct 38,466,,1
+,Registered Voters,,D,Berkeley,Precinct 38,395,,
 ,Ballots Cast,,R,Berkeley,Precinct 38,73,34,39
 ,Ballots Cast,,D,Berkeley,Precinct 38,114,54,60
 Bill Maloney,Governor,,,Berkeley,Precinct 38,10,5,5
@@ -646,9 +646,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 38,8,,
 John D. Perdue,Governor,,,Berkeley,Precinct 38,22,,
 Rick Thompson,Governor,,,Berkeley,Precinct 38,22,,
 Arne Moltis,Governor,,,Berkeley,Precinct 38,0,,
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 38,24,,
-,Registered Voters ,,R,Berkeley,Precinct 39,1012,,
-,Registered Voters ,,D,Berkeley,Precinct 39,694,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 38,24,,
+,Registered Voters,,R,Berkeley,Precinct 39,1012,,
+,Registered Voters,,D,Berkeley,Precinct 39,694,,
 ,Ballots Cast,,R,Berkeley,Precinct 39,145,92,53
 ,Ballots Cast,,D,Berkeley,Precinct 39,101,57,44
 Bill Maloney,Governor,,,Berkeley,Precinct 39,33,24,9
@@ -664,9 +664,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 39,7,3,4
 John D. Perdue,Governor,,,Berkeley,Precinct 39,9,6,3
 Rick Thompson,Governor,,,Berkeley,Precinct 39,19,12,7
 Arne Moltis,Governor,,,Berkeley,Precinct 39,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 39,20,13,7
-,Registered Voters ,,R,Berkeley,Precinct 40,679,,
-,Registered Voters ,,D,Berkeley,Precinct 40,593,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 39,20,13,7
+,Registered Voters,,R,Berkeley,Precinct 40,679,,
+,Registered Voters,,D,Berkeley,Precinct 40,593,,
 ,Ballots Cast,,R,Berkeley,Precinct 40,71,59,12
 ,Ballots Cast,,D,Berkeley,Precinct 40,68,37,31
 Bill Maloney,Governor,,,Berkeley,Precinct 40,7,6,1
@@ -682,9 +682,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 40,6,2,4
 John D. Perdue,Governor,,,Berkeley,Precinct 40,9,8,1
 Rick Thompson,Governor,,,Berkeley,Precinct 40,14,6,8
 Arne Moltis,Governor,,,Berkeley,Precinct 40,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 40,17,10,7
-,Registered Voters ,,R,Berkeley,Precinct 41,692,,
-,Registered Voters ,,D,Berkeley,Precinct 41,441,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 40,17,10,7
+,Registered Voters,,R,Berkeley,Precinct 41,692,,
+,Registered Voters,,D,Berkeley,Precinct 41,441,,
 ,Ballots Cast,,R,Berkeley,Precinct 41,109,81,28
 ,Ballots Cast,,D,Berkeley,Precinct 41,57,38,19
 Bill Maloney,Governor,,,Berkeley,Precinct 41,15,12,3
@@ -700,9 +700,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 41,5,2,3
 John D. Perdue,Governor,,,Berkeley,Precinct 41,7,2,5
 Rick Thompson,Governor,,,Berkeley,Precinct 41,14,10,4
 Arne Moltis,Governor,,,Berkeley,Precinct 41,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 41,7,6,1
-,Registered Voters ,,R,Berkeley,Precinct 42,351,,
-,Registered Voters ,,D,Berkeley,Precinct 42,286,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 41,7,6,1
+,Registered Voters,,R,Berkeley,Precinct 42,351,,
+,Registered Voters,,D,Berkeley,Precinct 42,286,,
 ,Ballots Cast,,R,Berkeley,Precinct 42,54,41,13
 ,Ballots Cast,,D,Berkeley,Precinct 42,39,30,9
 Bill Maloney,Governor,,,Berkeley,Precinct 42,14,11,3
@@ -718,9 +718,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 42,3,3,0
 John D. Perdue,Governor,,,Berkeley,Precinct 42,3,3,0
 Rick Thompson,Governor,,,Berkeley,Precinct 42,8,6,2
 Arne Moltis,Governor,,,Berkeley,Precinct 42,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 42,4,1,3
-,Registered Voters ,,R,Berkeley,Precinct 43,105,,
-,Registered Voters ,,D,Berkeley,Precinct 43,110,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 42,4,1,3
+,Registered Voters,,R,Berkeley,Precinct 43,105,,
+,Registered Voters,,D,Berkeley,Precinct 43,110,,
 ,Ballots Cast,,R,Berkeley,Precinct 43,26,25,1
 ,Ballots Cast,,D,Berkeley,Precinct 43,18,15,3
 Bill Maloney,Governor,,,Berkeley,Precinct 43,2,2,0
@@ -736,9 +736,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 43,5,4,1
 John D. Perdue,Governor,,,Berkeley,Precinct 43,3,3,0
 Rick Thompson,Governor,,,Berkeley,Precinct 43,4,3,1
 Arne Moltis,Governor,,,Berkeley,Precinct 43,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 43,2,1,1
-,Registered Voters ,,R,Berkeley,Precinct 43A,317,,
-,Registered Voters ,,D,Berkeley,Precinct 43A,209,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 43,2,1,1
+,Registered Voters,,R,Berkeley,Precinct 43A,317,,
+,Registered Voters,,D,Berkeley,Precinct 43A,209,,
 ,Ballots Cast,,R,Berkeley,Precinct 43A,57,53,4
 ,Ballots Cast,,D,Berkeley,Precinct 43A,34,32,2
 Bill Maloney,Governor,,,Berkeley,Precinct 43A,4,3,1
@@ -754,9 +754,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 43A,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 43A,5,5,0
 Rick Thompson,Governor,,,Berkeley,Precinct 43A,8,7,1
 Arne Moltis,Governor,,,Berkeley,Precinct 43A,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 43A,3,2,1
-,Registered Voters ,,R,Berkeley,Precinct 44,221,,
-,Registered Voters ,,D,Berkeley,Precinct 44,204,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 43A,3,2,1
+,Registered Voters,,R,Berkeley,Precinct 44,221,,
+,Registered Voters,,D,Berkeley,Precinct 44,204,,
 ,Ballots Cast,,R,Berkeley,Precinct 44,34,23,11
 ,Ballots Cast,,D,Berkeley,Precinct 44,45,32,13
 Bill Maloney,Governor,,,Berkeley,Precinct 44,6,4,2
@@ -772,9 +772,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 44,3,2,1
 John D. Perdue,Governor,,,Berkeley,Precinct 44,4,2,2
 Rick Thompson,Governor,,,Berkeley,Precinct 44,5,4,1
 Arne Moltis,Governor,,,Berkeley,Precinct 44,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 44,14,12,2
-,Registered Voters ,,R,Berkeley,Precinct 45,501,,
-,Registered Voters ,,D,Berkeley,Precinct 45,383,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 44,14,12,2
+,Registered Voters,,R,Berkeley,Precinct 45,501,,
+,Registered Voters,,D,Berkeley,Precinct 45,383,,
 ,Ballots Cast,,R,Berkeley,Precinct 45,63,49,14
 ,Ballots Cast,,D,Berkeley,Precinct 45,38,27,11
 Bill Maloney,Governor,,,Berkeley,Precinct 45,2,1,1
@@ -790,9 +790,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 45,5,5,0
 John D. Perdue,Governor,,,Berkeley,Precinct 45,1,0,1
 Rick Thompson,Governor,,,Berkeley,Precinct 45,5,4,1
 Arne Moltis,Governor,,,Berkeley,Precinct 45,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 45,14,7,7
-,Registered Voters ,,R,Berkeley,Precinct 46,258,,
-,Registered Voters ,,D,Berkeley,Precinct 46,137,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 45,14,7,7
+,Registered Voters,,R,Berkeley,Precinct 46,258,,
+,Registered Voters,,D,Berkeley,Precinct 46,137,,
 ,Ballots Cast,,R,Berkeley,Precinct 46,37,31,6
 ,Ballots Cast,,D,Berkeley,Precinct 46,11,11,0
 Bill Maloney,Governor,,,Berkeley,Precinct 46,0,0,0
@@ -808,9 +808,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 46,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 46,1,1,0
 Rick Thompson,Governor,,,Berkeley,Precinct 46,1,1,0
 Arne Moltis,Governor,,,Berkeley,Precinct 46,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 46,2,2,0
-,Registered Voters ,,R,Berkeley,Precinct 46A,386,,
-,Registered Voters ,,D,Berkeley,Precinct 46A,275,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 46,2,2,0
+,Registered Voters,,R,Berkeley,Precinct 46A,386,,
+,Registered Voters,,D,Berkeley,Precinct 46A,275,,
 ,Ballots Cast,,R,Berkeley,Precinct 46A,59,41,18
 ,Ballots Cast,,D,Berkeley,Precinct 46A,36,24,12
 Bill Maloney,Governor,,,Berkeley,Precinct 46A,8,7,1
@@ -826,9 +826,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 46A,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 46A,4,1,3
 Rick Thompson,Governor,,,Berkeley,Precinct 46A,4,4,0
 Arne Moltis,Governor,,,Berkeley,Precinct 46A,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 46A,8,6,2
-,Registered Voters ,,R,Berkeley,Precinct 47,600,,
-,Registered Voters ,,D,Berkeley,Precinct 47,330,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 46A,8,6,2
+,Registered Voters,,R,Berkeley,Precinct 47,600,,
+,Registered Voters,,D,Berkeley,Precinct 47,330,,
 ,Ballots Cast,,R,Berkeley,Precinct 47,121,90,31
 ,Ballots Cast,,D,Berkeley,Precinct 47,36,32,4
 Bill Maloney,Governor,,,Berkeley,Precinct 47,19,15,4
@@ -844,9 +844,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 47,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 47,6,5,1
 Rick Thompson,Governor,,,Berkeley,Precinct 47,3,3,0
 Arne Moltis,Governor,,,Berkeley,Precinct 47,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 47,6,5,1
-,Registered Voters ,,R,Berkeley,Precinct 48,517,,
-,Registered Voters ,,D,Berkeley,Precinct 48,448,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 47,6,5,1
+,Registered Voters,,R,Berkeley,Precinct 48,517,,
+,Registered Voters,,D,Berkeley,Precinct 48,448,,
 ,Ballots Cast,,R,Berkeley,Precinct 48,100,87,13
 ,Ballots Cast,,D,Berkeley,Precinct 48,101,84,17
 Bill Maloney,Governor,,,Berkeley,Precinct 48,22,21,1
@@ -862,9 +862,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 48,17,9,8
 John D. Perdue,Governor,,,Berkeley,Precinct 48,2,1,1
 Rick Thompson,Governor,,,Berkeley,Precinct 48,11,5,6
 Arne Moltis,Governor,,,Berkeley,Precinct 48,1,1,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 48,28,28,0
-,Registered Voters ,,R,Berkeley,Precinct 49,458,,
-,Registered Voters ,,D,Berkeley,Precinct 49,393,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 48,28,28,0
+,Registered Voters,,R,Berkeley,Precinct 49,458,,
+,Registered Voters,,D,Berkeley,Precinct 49,393,,
 ,Ballots Cast,,R,Berkeley,Precinct 49,67,50,17
 ,Ballots Cast,,D,Berkeley,Precinct 49,63,36,27
 Bill Maloney,Governor,,,Berkeley,Precinct 49,10,7,3
@@ -880,9 +880,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 49,10,7,3
 John D. Perdue,Governor,,,Berkeley,Precinct 49,5,2,3
 Rick Thompson,Governor,,,Berkeley,Precinct 49,6,5,1
 Arne Moltis,Governor,,,Berkeley,Precinct 49,1,1,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 49,19,5,14
-,Registered Voters ,,R,Berkeley,Precinct 50,271,,
-,Registered Voters ,,D,Berkeley,Precinct 50,176,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 49,19,5,14
+,Registered Voters,,R,Berkeley,Precinct 50,271,,
+,Registered Voters,,D,Berkeley,Precinct 50,176,,
 ,Ballots Cast,,R,Berkeley,Precinct 50,27,22,5
 ,Ballots Cast,,D,Berkeley,Precinct 50,24,18,6
 Bill Maloney,Governor,,,Berkeley,Precinct 50,10,9,1
@@ -898,9 +898,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 50,6,4,2
 John D. Perdue,Governor,,,Berkeley,Precinct 50,2,2,0
 Rick Thompson,Governor,,,Berkeley,Precinct 50,0,0,0
 Arne Moltis,Governor,,,Berkeley,Precinct 50,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 50,0,0,0
-,Registered Voters ,,R,Berkeley,Precinct 51,310,,0
-,Registered Voters ,,D,Berkeley,Precinct 51,213,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 50,0,0,0
+,Registered Voters,,R,Berkeley,Precinct 51,310,,0
+,Registered Voters,,D,Berkeley,Precinct 51,213,,
 ,Ballots Cast,,R,Berkeley,Precinct 51,48,46,2
 ,Ballots Cast,,D,Berkeley,Precinct 51,28,27,1
 Bill Maloney,Governor,,,Berkeley,Precinct 51,12,10,2
@@ -916,9 +916,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 51,5,5,0
 John D. Perdue,Governor,,,Berkeley,Precinct 51,2,2,0
 Rick Thompson,Governor,,,Berkeley,Precinct 51,8,7,1
 Arne Moltis,Governor,,,Berkeley,Precinct 51,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 51,3,3,0
-,Registered Voters ,,R,Berkeley,Precinct 51A,141,,
-,Registered Voters ,,D,Berkeley,Precinct 51A,99,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 51,3,3,0
+,Registered Voters,,R,Berkeley,Precinct 51A,141,,
+,Registered Voters,,D,Berkeley,Precinct 51A,99,,
 ,Ballots Cast,,R,Berkeley,Precinct 51A,16,15,1
 ,Ballots Cast,,D,Berkeley,Precinct 51A,14,14,0
 Bill Maloney,Governor,,,Berkeley,Precinct 51A,1,1,0
@@ -934,9 +934,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 51A,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 51A,0,0,0
 Rick Thompson,Governor,,,Berkeley,Precinct 51A,2,2,0
 Arne Moltis,Governor,,,Berkeley,Precinct 51A,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 51A,2,2,0
-,Registered Voters ,,R,Berkeley,Precinct 52,460,,
-,Registered Voters ,,D,Berkeley,Precinct 52,447,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 51A,2,2,0
+,Registered Voters,,R,Berkeley,Precinct 52,460,,
+,Registered Voters,,D,Berkeley,Precinct 52,447,,
 ,Ballots Cast,,R,Berkeley,Precinct 52,52,27,25
 ,Ballots Cast,,D,Berkeley,Precinct 52,64,32,32
 Bill Maloney,Governor,,,Berkeley,Precinct 52,5,3,2
@@ -952,9 +952,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 52,5,5,0
 John D. Perdue,Governor,,,Berkeley,Precinct 52,2,0,2
 Rick Thompson,Governor,,,Berkeley,Precinct 52,5,3,2
 Arne Moltis,Governor,,,Berkeley,Precinct 52,1,1,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 52,20,11,9
-,Registered Voters ,,R,Berkeley,Precinct 53,405,,
-,Registered Voters ,,D,Berkeley,Precinct 53,452,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 52,20,11,9
+,Registered Voters,,R,Berkeley,Precinct 53,405,,
+,Registered Voters,,D,Berkeley,Precinct 53,452,,
 ,Ballots Cast,,R,Berkeley,Precinct 53,34,29,5
 ,Ballots Cast,,D,Berkeley,Precinct 53,48,34,14
 Bill Maloney,Governor,,,Berkeley,Precinct 53,9,8,1
@@ -970,9 +970,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 53,2,2,0
 John D. Perdue,Governor,,,Berkeley,Precinct 53,7,4,3
 Rick Thompson,Governor,,,Berkeley,Precinct 53,8,7,1
 Arne Moltis,Governor,,,Berkeley,Precinct 53,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 53,6,1,5
-,Registered Voters ,,R,Berkeley,Precinct 54,402,,
-,Registered Voters ,,D,Berkeley,Precinct 54,341,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 53,6,1,5
+,Registered Voters,,R,Berkeley,Precinct 54,402,,
+,Registered Voters,,D,Berkeley,Precinct 54,341,,
 ,Ballots Cast,,R,Berkeley,Precinct 54,40,29,11
 ,Ballots Cast,,D,Berkeley,Precinct 54,32,26,6
 Bill Maloney,Governor,,,Berkeley,Precinct 54,14,12,2
@@ -988,9 +988,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 54,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 54,7,5,2
 Rick Thompson,Governor,,,Berkeley,Precinct 54,12,12,0
 Arne Moltis,Governor,,,Berkeley,Precinct 54,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 54,2,1,1
-,Registered Voters ,,R,Berkeley,Precinct 55,149,,
-,Registered Voters ,,D,Berkeley,Precinct 55,99,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 54,2,1,1
+,Registered Voters,,R,Berkeley,Precinct 55,149,,
+,Registered Voters,,D,Berkeley,Precinct 55,99,,
 ,Ballots Cast,,R,Berkeley,Precinct 55,32,25,7
 ,Ballots Cast,,D,Berkeley,Precinct 55,18,11,7
 Bill Maloney,Governor,,,Berkeley,Precinct 55,7,5,2
@@ -1006,9 +1006,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 55,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 55,2,2,0
 Rick Thompson,Governor,,,Berkeley,Precinct 55,3,1,2
 Arne Moltis,Governor,,,Berkeley,Precinct 55,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 55,3,2,1
-,Registered Voters ,,R,Berkeley,Precinct 56,112,,
-,Registered Voters ,,D,Berkeley,Precinct 56,204,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 55,3,2,1
+,Registered Voters,,R,Berkeley,Precinct 56,112,,
+,Registered Voters,,D,Berkeley,Precinct 56,204,,
 ,Ballots Cast,,R,Berkeley,Precinct 56,23,19,4
 ,Ballots Cast,,D,Berkeley,Precinct 56,26,12,14
 Bill Maloney,Governor,,,Berkeley,Precinct 56,8,7,1
@@ -1024,9 +1024,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 56,3,3,0
 John D. Perdue,Governor,,,Berkeley,Precinct 56,6,2,4
 Rick Thompson,Governor,,,Berkeley,Precinct 56,3,2,1
 Arne Moltis,Governor,,,Berkeley,Precinct 56,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 56,3,0,3
-,Registered Voters ,,R,Berkeley,Precinct 105,269,,
-,Registered Voters ,,D,Berkeley,Precinct 105,286,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 56,3,0,3
+,Registered Voters,,R,Berkeley,Precinct 105,269,,
+,Registered Voters,,D,Berkeley,Precinct 105,286,,
 ,Ballots Cast,,R,Berkeley,Precinct 105,19,18,1
 ,Ballots Cast,,D,Berkeley,Precinct 105,31,18,13
 Bill Maloney,Governor,,,Berkeley,Precinct 105,6,6,0
@@ -1042,9 +1042,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 105,4,1,3
 John D. Perdue,Governor,,,Berkeley,Precinct 105,5,3,2
 Rick Thompson,Governor,,,Berkeley,Precinct 105,2,2,0
 Arne Moltis,Governor,,,Berkeley,Precinct 105,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 105,4,4,0
-,Registered Voters ,,R,Berkeley,Precinct 106,237,,
-,Registered Voters ,,D,Berkeley,Precinct 106,228,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 105,4,4,0
+,Registered Voters,,R,Berkeley,Precinct 106,237,,
+,Registered Voters,,D,Berkeley,Precinct 106,228,,
 ,Ballots Cast,,R,Berkeley,Precinct 106,29,19,10
 ,Ballots Cast,,D,Berkeley,Precinct 106,31,25,6
 Bill Maloney,Governor,,,Berkeley,Precinct 106,9,4,5
@@ -1060,9 +1060,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 106,4,3,1
 John D. Perdue,Governor,,,Berkeley,Precinct 106,2,1,1
 Rick Thompson,Governor,,,Berkeley,Precinct 106,4,4,0
 Arne Moltis,Governor,,,Berkeley,Precinct 106,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 106,4,3,1
-,Registered Voters ,,R,Berkeley,Precinct 107,300,,
-,Registered Voters ,,D,Berkeley,Precinct 107,276,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 106,4,3,1
+,Registered Voters,,R,Berkeley,Precinct 107,300,,
+,Registered Voters,,D,Berkeley,Precinct 107,276,,
 ,Ballots Cast,,R,Berkeley,Precinct 107,41,30,11
 ,Ballots Cast,,D,Berkeley,Precinct 107,28,22,6
 Bill Maloney,Governor,,,Berkeley,Precinct 107,3,2,1
@@ -1078,9 +1078,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 107,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 107,7,6,1
 Rick Thompson,Governor,,,Berkeley,Precinct 107,4,3,1
 Arne Moltis,Governor,,,Berkeley,Precinct 107,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 107,6,5,1
-,Registered Voters ,,R,Berkeley,Precinct 110,182,,
-,Registered Voters ,,D,Berkeley,Precinct 110,125,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 107,6,5,1
+,Registered Voters,,R,Berkeley,Precinct 110,182,,
+,Registered Voters,,D,Berkeley,Precinct 110,125,,
 ,Ballots Cast,,R,Berkeley,Precinct 110,25,22,3
 ,Ballots Cast,,D,Berkeley,Precinct 110,19,13,6
 Bill Maloney,Governor,,,Berkeley,Precinct 110,5,4,1
@@ -1096,9 +1096,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 110,3,3,0
 John D. Perdue,Governor,,,Berkeley,Precinct 110,0,0,0
 Rick Thompson,Governor,,,Berkeley,Precinct 110,5,2,3
 Arne Moltis,Governor,,,Berkeley,Precinct 110,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 110,4,2,2
-,Registered Voters ,,R,Berkeley,Precinct 111,254,,
-,Registered Voters ,,D,Berkeley,Precinct 111,182,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 110,4,2,2
+,Registered Voters,,R,Berkeley,Precinct 111,254,,
+,Registered Voters,,D,Berkeley,Precinct 111,182,,
 ,Ballots Cast,,R,Berkeley,Precinct 111,28,20,8
 ,Ballots Cast,,D,Berkeley,Precinct 111,22,16,6
 Bill Maloney,Governor,,,Berkeley,Precinct 111,9,6,3
@@ -1114,9 +1114,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 111,1,1,0
 John D. Perdue,Governor,,,Berkeley,Precinct 111,4,2,2
 Rick Thompson,Governor,,,Berkeley,Precinct 111,2,1,1
 Arne Moltis,Governor,,,Berkeley,Precinct 111,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 111,3,3,0
-,Registered Voters ,,R,Berkeley,Precinct 112,235,,
-,Registered Voters ,,D,Berkeley,Precinct 112,223,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 111,3,3,0
+,Registered Voters,,R,Berkeley,Precinct 112,235,,
+,Registered Voters,,D,Berkeley,Precinct 112,223,,
 ,Ballots Cast,,R,Berkeley,Precinct 112,25,16,9
 ,Ballots Cast,,D,Berkeley,Precinct 112,25,19,6
 Bill Maloney,Governor,,,Berkeley,Precinct 112,3,1,2
@@ -1132,9 +1132,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 112,2,1,1
 John D. Perdue,Governor,,,Berkeley,Precinct 112,3,0,3
 Rick Thompson,Governor,,,Berkeley,Precinct 112,5,4,1
 Arne Moltis,Governor,,,Berkeley,Precinct 112,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 112,4,4,0
-,Registered Voters ,,R,Berkeley,Precinct 113,140,4,
-,Registered Voters ,,D,Berkeley,Precinct 113,120,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 112,4,4,0
+,Registered Voters,,R,Berkeley,Precinct 113,140,4,
+,Registered Voters,,D,Berkeley,Precinct 113,120,,
 ,Ballots Cast,,R,Berkeley,Precinct 113,21,18,3
 ,Ballots Cast,,D,Berkeley,Precinct 113,18,15,3
 Bill Maloney,Governor,,,Berkeley,Precinct 113,3,3,0
@@ -1150,9 +1150,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 113,1,0,1
 John D. Perdue,Governor,,,Berkeley,Precinct 113,1,1,0
 Rick Thompson,Governor,,,Berkeley,Precinct 113,3,3,0
 Arne Moltis,Governor,,,Berkeley,Precinct 113,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 113,3,1,2
-,Registered Voters ,,R,Berkeley,Precinct 114,161,,
-,Registered Voters ,,D,Berkeley,Precinct 114,131,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 113,3,1,2
+,Registered Voters,,R,Berkeley,Precinct 114,161,,
+,Registered Voters,,D,Berkeley,Precinct 114,131,,
 ,Ballots Cast,,R,Berkeley,Precinct 114,8,8,0
 ,Ballots Cast,,D,Berkeley,Precinct 114,5,4,1
 Bill Maloney,Governor,,,Berkeley,Precinct 114,1,1,0
@@ -1168,9 +1168,9 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 114,0,0,0
 John D. Perdue,Governor,,,Berkeley,Precinct 114,1,0,1
 Rick Thompson,Governor,,,Berkeley,Precinct 114,2,2,0
 Arne Moltis,Governor,,,Berkeley,Precinct 114,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 114,1,1,0
-,Registered Voters ,,R,Berkeley,Precinct 115,198,,
-,Registered Voters ,,D,Berkeley,Precinct 115,153,,
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 114,1,1,0
+,Registered Voters,,R,Berkeley,Precinct 115,198,,
+,Registered Voters,,D,Berkeley,Precinct 115,153,,
 ,Ballots Cast,,R,Berkeley,Precinct 115,22,13,9
 ,Ballots Cast,,D,Berkeley,Precinct 115,22,18,4
 Bill Maloney,Governor,,,Berkeley,Precinct 115,7,4,3
@@ -1186,4 +1186,4 @@ Jeffrey V. Kessler,Governor,,,Berkeley,Precinct 115,1,0,1
 John D. Perdue,Governor,,,Berkeley,Precinct 115,4,2,2
 Rick Thompson,Governor,,,Berkeley,Precinct 115,4,4,0
 Arne Moltis,Governor,,,Berkeley,Precinct 115,0,0,0
-Natalie E. Tennant ,Governor,,,Berkeley,Precinct 115,7,6,1
+Natalie E. Tennant,Governor,,,Berkeley,Precinct 115,7,6,1

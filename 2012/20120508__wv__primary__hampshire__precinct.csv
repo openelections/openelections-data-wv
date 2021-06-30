@@ -5,8 +5,8 @@ candidate,office,district,party,county,precinct,total votes
 ,Ballots Cast,,,Hampshire,Precinct 2,130
 ,Ballots Cast,,DEM,Hampshire,Precinct 2,62
 ,Ballots Cast,,REP,Hampshire,Precinct 2,65
-Keith Judd,President ,,DEM,Hampshire,Precinct 2,20
-Barack Obama,President ,,DEM,Hampshire,Precinct 2,21
+Keith Judd,President,,DEM,Hampshire,Precinct 2,20
+Barack Obama,President,,DEM,Hampshire,Precinct 2,21
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 2,54
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 2,6
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 2,29
@@ -14,28 +14,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 2,2
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 2,22
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 2,54
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 2,6
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 2,47
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 2,47
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 2,46
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 2,48
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 2,17
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 2,41
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 2,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 2,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 2,2
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 2,2
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 2,45
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 2,
-Ron Paul,President ,,REP,Hampshire,Precinct 2,3
-Rick Santorum,President ,,REP,Hampshire,Precinct 2,7
-Newt Gingrich,President ,,REP,Hampshire,Precinct 2,2
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 2,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 2,51
+Ron Paul,President,,REP,Hampshire,Precinct 2,3
+Rick Santorum,President,,REP,Hampshire,Precinct 2,7
+Newt Gingrich,President,,REP,Hampshire,Precinct 2,2
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 2,0
+Mitt Romney,President,,REP,Hampshire,Precinct 2,51
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 2,55
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 2,9
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 2,9
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 2,46
 Bill Maloney,Governor,,REP,Hampshire,Precinct 2,49
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 2,8
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 2,48
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 2,48
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 2,47
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 2,29
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 2,18
@@ -43,15 +43,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 2,50
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 2,50
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 2,
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 2,
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 2,52
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 2,52
 ,Registered Voters,,,Hampshire,Precinct 4,1071
 ,Registered Voters,,DEM,Hampshire,Precinct 4,335
 ,Registered Voters,,REP,Hampshire,Precinct 4,397
 ,Ballots Cast,,,Hampshire,Precinct 4,229
 ,Ballots Cast,,DEM,Hampshire,Precinct 4,120
 ,Ballots Cast,,REP,Hampshire,Precinct 4,107
-Keith Judd,President ,,DEM,Hampshire,Precinct 4,40
-Barack Obama,President ,,DEM,Hampshire,Precinct 4,61
+Keith Judd,President,,DEM,Hampshire,Precinct 4,40
+Barack Obama,President,,DEM,Hampshire,Precinct 4,61
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 4,94
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 4,17
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 4,47
@@ -59,28 +59,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 4,6
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 4,37
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 4,90
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 4,19
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 4,90
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 4,90
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 4,85
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 4,89
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 4,38
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 4,55
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 4,2
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 4,7
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 4,5
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 4,5
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 4,85
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 4,
-Ron Paul,President ,,REP,Hampshire,Precinct 4,11
-Rick Santorum,President ,,REP,Hampshire,Precinct 4,9
-Newt Gingrich,President ,,REP,Hampshire,Precinct 4,7
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 4,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 4,73
+Ron Paul,President,,REP,Hampshire,Precinct 4,11
+Rick Santorum,President,,REP,Hampshire,Precinct 4,9
+Newt Gingrich,President,,REP,Hampshire,Precinct 4,7
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 4,1
+Mitt Romney,President,,REP,Hampshire,Precinct 4,73
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 4,86
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 4,4
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 4,23
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 4,76
 Bill Maloney,Governor,,REP,Hampshire,Precinct 4,67
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 4,27
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 4,78
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 4,78
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 4,79
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 4,47
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 4,38
@@ -88,15 +88,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 4,80
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 4,80
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 4,
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 4,
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 4,81
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 4,81
 ,Registered Voters,,,Hampshire,Precinct 5,176
 ,Registered Voters,,DEM,Hampshire,Precinct 5,45
 ,Registered Voters,,REP,Hampshire,Precinct 5,83
 ,Ballots Cast,,,Hampshire,Precinct 5,45
 ,Ballots Cast,,DEM,Hampshire,Precinct 5,14
 ,Ballots Cast,,REP,Hampshire,Precinct 5,30
-Keith Judd,President ,,DEM,Hampshire,Precinct 5,4
-Barack Obama,President ,,DEM,Hampshire,Precinct 5,8
+Keith Judd,President,,DEM,Hampshire,Precinct 5,4
+Barack Obama,President,,DEM,Hampshire,Precinct 5,8
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 5,6
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 5,6
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 5,8
@@ -104,28 +104,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 5,1
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 5,3
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 5,9
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 5,3
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 5,10
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 5,10
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 5,9
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 5,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 5,1
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 5,10
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 5,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 5,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 5,0
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 5,0
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 5,9
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 5,
-Ron Paul,President ,,REP,Hampshire,Precinct 5,4
-Rick Santorum,President ,,REP,Hampshire,Precinct 5,4
-Newt Gingrich,President ,,REP,Hampshire,Precinct 5,2
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 5,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 5,20
+Ron Paul,President,,REP,Hampshire,Precinct 5,4
+Rick Santorum,President,,REP,Hampshire,Precinct 5,4
+Newt Gingrich,President,,REP,Hampshire,Precinct 5,2
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 5,0
+Mitt Romney,President,,REP,Hampshire,Precinct 5,20
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 5,24
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 5,2
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 5,7
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 5,19
 Bill Maloney,Governor,,REP,Hampshire,Precinct 5,17
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 5,7
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 5,22
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 5,22
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 5,25
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 5,14
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 5,9
@@ -133,15 +133,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 5,23
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 5,23
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 5,
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 5,
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 5,24
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 5,24
 ,Registered Voters,,,Hampshire,Precinct 6,822
 ,Registered Voters,,DEM,Hampshire,Precinct 6,248
 ,Registered Voters,,REP,Hampshire,Precinct 6,320
 ,Ballots Cast,,,Hampshire,Precinct 6,172
 ,Ballots Cast,,DEM,Hampshire,Precinct 6,76
 ,Ballots Cast,,REP,Hampshire,Precinct 6,96
-Keith Judd,President ,,DEM,Hampshire,Precinct 6,30
-Barack Obama,President ,,DEM,Hampshire,Precinct 6,27
+Keith Judd,President,,DEM,Hampshire,Precinct 6,30
+Barack Obama,President,,DEM,Hampshire,Precinct 6,27
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 6,54
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 6,20
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 6,29
@@ -149,28 +149,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 6,7
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 6,27
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 6,60
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 6,15
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 6,50
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 6,50
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 6,52
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 6,54
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 6,19
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 6,36
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 6,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 6,6
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 6,4
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 6,4
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 6,53
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 6,
-Ron Paul,President ,,REP,Hampshire,Precinct 6,12
-Rick Santorum,President ,,REP,Hampshire,Precinct 6,12
-Newt Gingrich,President ,,REP,Hampshire,Precinct 6,4
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 6,2
-Mitt Romney,President ,,REP,Hampshire,Precinct 6,63
+Ron Paul,President,,REP,Hampshire,Precinct 6,12
+Rick Santorum,President,,REP,Hampshire,Precinct 6,12
+Newt Gingrich,President,,REP,Hampshire,Precinct 6,4
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 6,2
+Mitt Romney,President,,REP,Hampshire,Precinct 6,63
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 6,77
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 6,5
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 6,20
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 6,69
 Bill Maloney,Governor,,REP,Hampshire,Precinct 6,55
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 6,31
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 6,73
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 6,73
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 6,74
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 6,39
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 6,33
@@ -178,15 +178,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 6,74
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 6,72
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 6,
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 6,
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 6,76
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 6,76
 ,Registered Voters,,,Hampshire,Precinct 7,990
 ,Registered Voters,,DEM,Hampshire,Precinct 7,335
 ,Registered Voters,,REP,Hampshire,Precinct 7,354
 ,Ballots Cast,,,Hampshire,Precinct 7,196
 ,Ballots Cast,,DEM,Hampshire,Precinct 7,92
 ,Ballots Cast,,REP,Hampshire,Precinct 7,103
-Keith Judd,President ,,DEM,Hampshire,Precinct 7,28
-Barack Obama,President ,,DEM,Hampshire,Precinct 7,46
+Keith Judd,President,,DEM,Hampshire,Precinct 7,28
+Barack Obama,President,,DEM,Hampshire,Precinct 7,46
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 7,69
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 7,21
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 7,42
@@ -194,28 +194,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 7,7
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 7,28
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 7,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 7,11
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 7,77
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 7,77
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 7,75
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 7,73
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 7,32
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 7,44
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 7,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 7,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 7,5
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 7,5
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 7,74
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 7,
-Ron Paul,President ,,REP,Hampshire,Precinct 7,8
-Rick Santorum,President ,,REP,Hampshire,Precinct 7,7
-Newt Gingrich,President ,,REP,Hampshire,Precinct 7,10
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 7,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 7,70
+Ron Paul,President,,REP,Hampshire,Precinct 7,8
+Rick Santorum,President,,REP,Hampshire,Precinct 7,7
+Newt Gingrich,President,,REP,Hampshire,Precinct 7,10
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 7,1
+Mitt Romney,President,,REP,Hampshire,Precinct 7,70
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 7,78
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 7,1
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 7,26
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 7,75
 Bill Maloney,Governor,,REP,Hampshire,Precinct 7,65
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 7,28
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 7,75
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 7,75
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 7,76
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 7,42
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 7,33
@@ -223,15 +223,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 7,79
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 7,72
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 7,
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 7,
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 7,81
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 7,81
 ,Registered Voters,,,Hampshire,Precinct 8,386
 ,Registered Voters,,DEM,Hampshire,Precinct 8,139
 ,Registered Voters,,REP,Hampshire,Precinct 8,146
 ,Ballots Cast,,,Hampshire,Precinct 8,123
 ,Ballots Cast,,DEM,Hampshire,Precinct 8,47
 ,Ballots Cast,,REP,Hampshire,Precinct 8,71
-Keith Judd,President ,,DEM,Hampshire,Precinct 8,17
-Barack Obama,President ,,DEM,Hampshire,Precinct 8,22
+Keith Judd,President,,DEM,Hampshire,Precinct 8,17
+Barack Obama,President,,DEM,Hampshire,Precinct 8,22
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 8,35
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 8,11
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 8,24
@@ -239,28 +239,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 8,6
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 8,12
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 8,35
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 8,9
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 8,37
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 8,37
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 8,39
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 8,39
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 8,11
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 8,30
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 8,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 8,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 8,3
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 8,3
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 8,39
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 8,36
-Ron Paul,President ,,REP,Hampshire,Precinct 8,7
-Rick Santorum,President ,,REP,Hampshire,Precinct 8,9
-Newt Gingrich,President ,,REP,Hampshire,Precinct 8,6
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 8,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 8,47
+Ron Paul,President,,REP,Hampshire,Precinct 8,7
+Rick Santorum,President,,REP,Hampshire,Precinct 8,9
+Newt Gingrich,President,,REP,Hampshire,Precinct 8,6
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 8,1
+Mitt Romney,President,,REP,Hampshire,Precinct 8,47
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 8,57
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 8,2
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 8,15
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 8,51
 Bill Maloney,Governor,,REP,Hampshire,Precinct 8,49
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 8,13
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 8,51
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 8,51
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 8,49
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 8,32
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 8,20
@@ -268,15 +268,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 8,54
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 8,47
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 8,51
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 8,20
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 8,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 8,
 ,Registered Voters,,,Hampshire,Precinct 9,333
 ,Registered Voters,,DEM,Hampshire,Precinct 9,122
 ,Registered Voters,,REP,Hampshire,Precinct 9,100
 ,Ballots Cast,,,Hampshire,Precinct 9,82
 ,Ballots Cast,,DEM,Hampshire,Precinct 9,44
 ,Ballots Cast,,REP,Hampshire,Precinct 9,32
-Keith Judd,President ,,DEM,Hampshire,Precinct 9,15
-Barack Obama,President ,,DEM,Hampshire,Precinct 9,19
+Keith Judd,President,,DEM,Hampshire,Precinct 9,15
+Barack Obama,President,,DEM,Hampshire,Precinct 9,19
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 9,35
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 9,7
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 9,16
@@ -284,28 +284,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 9,4
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 9,10
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 9,32
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 9,8
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 9,31
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 9,31
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 9,34
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 9,33
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 9,6
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 9,32
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 9,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 9,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 9,1
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 9,1
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 9,32
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 9,27
-Ron Paul,President ,,REP,Hampshire,Precinct 9,0
-Rick Santorum,President ,,REP,Hampshire,Precinct 9,0
-Newt Gingrich,President ,,REP,Hampshire,Precinct 9,1
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 9,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 9,30
+Ron Paul,President,,REP,Hampshire,Precinct 9,0
+Rick Santorum,President,,REP,Hampshire,Precinct 9,0
+Newt Gingrich,President,,REP,Hampshire,Precinct 9,1
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 9,1
+Mitt Romney,President,,REP,Hampshire,Precinct 9,30
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 9,21
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 9,3
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 9,10
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 9,18
 Bill Maloney,Governor,,REP,Hampshire,Precinct 9,22
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 9,8
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 9,23
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 9,23
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 9,25
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 9,17
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 9,9
@@ -313,15 +313,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 9,24
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 9,24
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 9,23
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 9,9
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 9,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 9,
 ,Registered Voters,,,Hampshire,Precinct 10,559
 ,Registered Voters,,DEM,Hampshire,Precinct 10,234
 ,Registered Voters,,REP,Hampshire,Precinct 10,195
 ,Ballots Cast,,,Hampshire,Precinct 10,175
 ,Ballots Cast,,DEM,Hampshire,Precinct 10,90
 ,Ballots Cast,,REP,Hampshire,Precinct 10,81
-Keith Judd,President ,,DEM,Hampshire,Precinct 10,37
-Barack Obama,President ,,DEM,Hampshire,Precinct 10,34
+Keith Judd,President,,DEM,Hampshire,Precinct 10,37
+Barack Obama,President,,DEM,Hampshire,Precinct 10,34
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 10,71
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 10,14
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 10,33
@@ -329,28 +329,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 10,6
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 10,37
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 10,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 10,12
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 10,69
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 10,69
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 10,71
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 10,72
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 10,30
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 10,38
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 10,2
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 10,7
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 10,4
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 10,4
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 10,71
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 10,72
-Ron Paul,President ,,REP,Hampshire,Precinct 10,5
-Rick Santorum,President ,,REP,Hampshire,Precinct 10,14
-Newt Gingrich,President ,,REP,Hampshire,Precinct 10,5
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 10,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 10,54
+Ron Paul,President,,REP,Hampshire,Precinct 10,5
+Rick Santorum,President,,REP,Hampshire,Precinct 10,14
+Newt Gingrich,President,,REP,Hampshire,Precinct 10,5
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 10,0
+Mitt Romney,President,,REP,Hampshire,Precinct 10,54
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 10,66
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 10,5
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 10,13
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 10,58
 Bill Maloney,Governor,,REP,Hampshire,Precinct 10,62
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 10,9
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 10,57
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 10,57
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 10,62
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 10,39
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 10,22
@@ -358,15 +358,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 10,62
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 10,59
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 10,64
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 10,14
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 10,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 10,
 ,Registered Voters,,,Hampshire,Precinct 11,687
 ,Registered Voters,,DEM,Hampshire,Precinct 11,236
 ,Registered Voters,,REP,Hampshire,Precinct 11,259
 ,Ballots Cast,,,Hampshire,Precinct 11,208
 ,Ballots Cast,,DEM,Hampshire,Precinct 11,79
 ,Ballots Cast,,REP,Hampshire,Precinct 11,128
-Keith Judd,President ,,DEM,Hampshire,Precinct 11,32
-Barack Obama,President ,,DEM,Hampshire,Precinct 11,34
+Keith Judd,President,,DEM,Hampshire,Precinct 11,32
+Barack Obama,President,,DEM,Hampshire,Precinct 11,34
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 11,63
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 11,14
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 11,33
@@ -374,28 +374,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 11,4
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 11,26
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 11,54
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 11,21
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 11,63
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 11,63
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 11,59
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 11,60
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 11,17
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 11,40
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 11,2
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 11,7
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 11,5
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 11,5
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 11,62
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 11,55
-Ron Paul,President ,,REP,Hampshire,Precinct 11,14
-Rick Santorum,President ,,REP,Hampshire,Precinct 11,15
-Newt Gingrich,President ,,REP,Hampshire,Precinct 11,6
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 11,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 11,89
+Ron Paul,President,,REP,Hampshire,Precinct 11,14
+Rick Santorum,President,,REP,Hampshire,Precinct 11,15
+Newt Gingrich,President,,REP,Hampshire,Precinct 11,6
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 11,1
+Mitt Romney,President,,REP,Hampshire,Precinct 11,89
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 11,114
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 11,10
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 11,22
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 11,92
 Bill Maloney,Governor,,REP,Hampshire,Precinct 11,84
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 11,36
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 11,106
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 11,106
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 11,106
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 11,77
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 11,30
@@ -403,15 +403,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 11,107
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 11,102
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 11,91
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 11,35
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 11,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 11,
 ,Registered Voters,,,Hampshire,Precinct 12,625
 ,Registered Voters,,DEM,Hampshire,Precinct 12,271
 ,Registered Voters,,REP,Hampshire,Precinct 12,199
 ,Ballots Cast,,,Hampshire,Precinct 12,231
 ,Ballots Cast,,DEM,Hampshire,Precinct 12,130
 ,Ballots Cast,,REP,Hampshire,Precinct 12,99
-Keith Judd,President ,,DEM,Hampshire,Precinct 12,58
-Barack Obama,President ,,DEM,Hampshire,Precinct 12,49
+Keith Judd,President,,DEM,Hampshire,Precinct 12,58
+Barack Obama,President,,DEM,Hampshire,Precinct 12,49
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 12,98
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 12,25
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 12,52
@@ -419,28 +419,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 12,7
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 12,48
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 12,103
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 12,18
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 12,96
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 12,96
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 12,92
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 12,98
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 12,49
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 12,58
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 12,4
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 12,3
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 12,8
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 12,8
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 12,92
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 12,98
-Ron Paul,President ,,REP,Hampshire,Precinct 12,5
-Rick Santorum,President ,,REP,Hampshire,Precinct 12,11
-Newt Gingrich,President ,,REP,Hampshire,Precinct 12,5
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 12,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 12,73
+Ron Paul,President,,REP,Hampshire,Precinct 12,5
+Rick Santorum,President,,REP,Hampshire,Precinct 12,11
+Newt Gingrich,President,,REP,Hampshire,Precinct 12,5
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 12,0
+Mitt Romney,President,,REP,Hampshire,Precinct 12,73
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 12,80
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 12,9
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 12,12
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 12,71
 Bill Maloney,Governor,,REP,Hampshire,Precinct 12,69
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 12,12
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 12,67
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 12,67
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 12,70
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 12,46
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 12,20
@@ -448,15 +448,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 12,66
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 12,60
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 12,71
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 12,26
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 12,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 12,
 ,Registered Voters,,,Hampshire,Precinct 14,344
 ,Registered Voters,,DEM,Hampshire,Precinct 14,181
 ,Registered Voters,,REP,Hampshire,Precinct 14,83
 ,Ballots Cast,,,Hampshire,Precinct 14,123
 ,Ballots Cast,,DEM,Hampshire,Precinct 14,90
 ,Ballots Cast,,REP,Hampshire,Precinct 14,29
-Keith Judd,President ,,DEM,Hampshire,Precinct 14,29
-Barack Obama,President ,,DEM,Hampshire,Precinct 14,52
+Keith Judd,President,,DEM,Hampshire,Precinct 14,29
+Barack Obama,President,,DEM,Hampshire,Precinct 14,52
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 14,71
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 14,11
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 14,41
@@ -464,28 +464,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 14,2
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 14,32
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 14,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 14,7
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 14,65
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 14,65
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 14,68
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 14,69
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 14,29
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 14,44
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 14,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 14,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 14,9
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 14,9
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 14,69
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 14,68
-Ron Paul,President ,,REP,Hampshire,Precinct 14,2
-Rick Santorum,President ,,REP,Hampshire,Precinct 14,2
-Newt Gingrich,President ,,REP,Hampshire,Precinct 14,2
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 14,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 14,22
+Ron Paul,President,,REP,Hampshire,Precinct 14,2
+Rick Santorum,President,,REP,Hampshire,Precinct 14,2
+Newt Gingrich,President,,REP,Hampshire,Precinct 14,2
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 14,0
+Mitt Romney,President,,REP,Hampshire,Precinct 14,22
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 14,26
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 14,2
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 14,5
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 14,21
 Bill Maloney,Governor,,REP,Hampshire,Precinct 14,21
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 14,7
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 14,21
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 14,21
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 14,21
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 14,15
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 14,7
@@ -493,15 +493,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 14,22
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 14,23
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 14,19
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 14,10
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 14,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 14,
 ,Registered Voters,,,Hampshire,Precinct 15,618
 ,Registered Voters,,DEM,Hampshire,Precinct 15,216
 ,Registered Voters,,REP,Hampshire,Precinct 15,250
 ,Ballots Cast,,,Hampshire,Precinct 15,198
 ,Ballots Cast,,DEM,Hampshire,Precinct 15,81
 ,Ballots Cast,,REP,Hampshire,Precinct 15,113
-Keith Judd,President ,,DEM,Hampshire,Precinct 15,44
-Barack Obama,President ,,DEM,Hampshire,Precinct 15,23
+Keith Judd,President,,DEM,Hampshire,Precinct 15,44
+Barack Obama,President,,DEM,Hampshire,Precinct 15,23
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 15,68
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 15,12
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 15,30
@@ -509,28 +509,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 15,3
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 15,33
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 15,68
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 15,9
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 15,57
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 15,57
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 15,61
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 15,62
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 15,35
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 15,34
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 15,3
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 15,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 15,3
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 15,3
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 15,54
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 15,59
-Ron Paul,President ,,REP,Hampshire,Precinct 15,10
-Rick Santorum,President ,,REP,Hampshire,Precinct 15,17
-Newt Gingrich,President ,,REP,Hampshire,Precinct 15,7
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 15,3
-Mitt Romney,President ,,REP,Hampshire,Precinct 15,69
+Ron Paul,President,,REP,Hampshire,Precinct 15,10
+Rick Santorum,President,,REP,Hampshire,Precinct 15,17
+Newt Gingrich,President,,REP,Hampshire,Precinct 15,7
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 15,3
+Mitt Romney,President,,REP,Hampshire,Precinct 15,69
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 15,89
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 15,15
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 15,13
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 15,83
 Bill Maloney,Governor,,REP,Hampshire,Precinct 15,78
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 15,21
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 15,79
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 15,79
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 15,81
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 15,43
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 15,36
@@ -538,15 +538,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 15,80
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 15,77
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 15,83
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 15,27
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 15,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 15,
 ,Registered Voters,,,Hampshire,Precinct 16,444
 ,Registered Voters,,DEM,Hampshire,Precinct 16,231
 ,Registered Voters,,REP,Hampshire,Precinct 16,140
 ,Ballots Cast,,,Hampshire,Precinct 16,182
 ,Ballots Cast,,DEM,Hampshire,Precinct 16,110
 ,Ballots Cast,,REP,Hampshire,Precinct 16,71
-Keith Judd,President ,,DEM,Hampshire,Precinct 16,34
-Barack Obama,President ,,DEM,Hampshire,Precinct 16,49
+Keith Judd,President,,DEM,Hampshire,Precinct 16,34
+Barack Obama,President,,DEM,Hampshire,Precinct 16,49
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 16,91
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 16,14
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 16,47
@@ -554,28 +554,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 16,5
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 16,34
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 16,86
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 16,15
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 16,86
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 16,86
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 16,87
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 16,91
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 16,38
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 16,51
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 16,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 16,6
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 16,3
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 16,3
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 16,76
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 16,76
-Ron Paul,President ,,REP,Hampshire,Precinct 16,3
-Rick Santorum,President ,,REP,Hampshire,Precinct 16,6
-Newt Gingrich,President ,,REP,Hampshire,Precinct 16,6
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 16,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 16,50
+Ron Paul,President,,REP,Hampshire,Precinct 16,3
+Rick Santorum,President,,REP,Hampshire,Precinct 16,6
+Newt Gingrich,President,,REP,Hampshire,Precinct 16,6
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 16,0
+Mitt Romney,President,,REP,Hampshire,Precinct 16,50
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 16,47
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 16,6
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 16,14
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 16,47
 Bill Maloney,Governor,,REP,Hampshire,Precinct 16,47
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 16,13
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 16,48
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 16,48
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 16,52
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 16,28
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 16,21
@@ -583,15 +583,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 16,50
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 16,46
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 16,46
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 16,25
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 16,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 16,
 ,Registered Voters,,,Hampshire,Precinct 17,504
 ,Registered Voters,,DEM,Hampshire,Precinct 17,216
 ,Registered Voters,,REP,Hampshire,Precinct 17,175
 ,Ballots Cast,,,Hampshire,Precinct 17,194
 ,Ballots Cast,,DEM,Hampshire,Precinct 17,108
 ,Ballots Cast,,REP,Hampshire,Precinct 17,84
-Keith Judd,President ,,DEM,Hampshire,Precinct 17,37
-Barack Obama,President ,,DEM,Hampshire,Precinct 17,55
+Keith Judd,President,,DEM,Hampshire,Precinct 17,37
+Barack Obama,President,,DEM,Hampshire,Precinct 17,55
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 17,98
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 17,10
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 17,56
@@ -599,28 +599,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 17,4
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 17,32
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 17,88
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 17,15
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 17,96
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 17,96
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 17,94
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 17,94
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 17,60
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 17,41
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 17,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 17,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 17,2
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 17,2
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 17,93
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 17,81
-Ron Paul,President ,,REP,Hampshire,Precinct 17,7
-Rick Santorum,President ,,REP,Hampshire,Precinct 17,11
-Newt Gingrich,President ,,REP,Hampshire,Precinct 17,6
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 17,2
-Mitt Romney,President ,,REP,Hampshire,Precinct 17,54
+Ron Paul,President,,REP,Hampshire,Precinct 17,7
+Rick Santorum,President,,REP,Hampshire,Precinct 17,11
+Newt Gingrich,President,,REP,Hampshire,Precinct 17,6
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 17,2
+Mitt Romney,President,,REP,Hampshire,Precinct 17,54
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 17,68
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 17,10
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 17,14
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 17,54
 Bill Maloney,Governor,,REP,Hampshire,Precinct 17,63
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 17,13
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 17,60
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 17,60
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 17,63
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 17,30
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 17,27
@@ -628,15 +628,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 17,60
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 17,61
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 17,51
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 17,31
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 17,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 17,
 ,Registered Voters,,,Hampshire,Precinct 18,711
 ,Registered Voters,,DEM,Hampshire,Precinct 18,337
 ,Registered Voters,,REP,Hampshire,Precinct 18,237
 ,Ballots Cast,,,Hampshire,Precinct 18,248
 ,Ballots Cast,,DEM,Hampshire,Precinct 18,144
 ,Ballots Cast,,REP,Hampshire,Precinct 18,101
-Keith Judd,President ,,DEM,Hampshire,Precinct 18,52
-Barack Obama,President ,,DEM,Hampshire,Precinct 18,59
+Keith Judd,President,,DEM,Hampshire,Precinct 18,52
+Barack Obama,President,,DEM,Hampshire,Precinct 18,59
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 18,125
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 18,17
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 18,50
@@ -644,28 +644,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 18,7
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 18,56
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 18,111
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 18,20
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 18,116
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 18,116
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 18,114
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 18,118
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 18,49
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 18,71
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 18,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 18,7
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 18,3
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 18,3
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 18,108
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 18,97
-Ron Paul,President ,,REP,Hampshire,Precinct 18,7
-Rick Santorum,President ,,REP,Hampshire,Precinct 18,14
-Newt Gingrich,President ,,REP,Hampshire,Precinct 18,7
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 18,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 18,62
+Ron Paul,President,,REP,Hampshire,Precinct 18,7
+Rick Santorum,President,,REP,Hampshire,Precinct 18,14
+Newt Gingrich,President,,REP,Hampshire,Precinct 18,7
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 18,0
+Mitt Romney,President,,REP,Hampshire,Precinct 18,62
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 18,78
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 18,6
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 18,10
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 18,76
 Bill Maloney,Governor,,REP,Hampshire,Precinct 18,64
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 18,18
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 18,70
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 18,70
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 18,70
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 18,46
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 18,21
@@ -673,15 +673,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 18,69
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 18,66
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 18,68
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 18,30
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 18,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 18,
 ,Registered Voters,,,Hampshire,Precinct 19,464
 ,Registered Voters,,DEM,Hampshire,Precinct 19,232
 ,Registered Voters,,REP,Hampshire,Precinct 19,137
 ,Ballots Cast,,,Hampshire,Precinct 19,146
 ,Ballots Cast,,DEM,Hampshire,Precinct 19,87
 ,Ballots Cast,,REP,Hampshire,Precinct 19,58
-Keith Judd,President ,,DEM,Hampshire,Precinct 19,31
-Barack Obama,President ,,DEM,Hampshire,Precinct 19,37
+Keith Judd,President,,DEM,Hampshire,Precinct 19,31
+Barack Obama,President,,DEM,Hampshire,Precinct 19,37
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 19,74
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 19,7
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 19,36
@@ -689,28 +689,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 19,7
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 19,24
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 19,65
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 19,14
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 19,69
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 19,69
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 19,67
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 19,68
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 19,32
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 19,38
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 19,3
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 19,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 19,1
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 19,1
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 19,63
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 19,66
-Ron Paul,President ,,REP,Hampshire,Precinct 19,5
-Rick Santorum,President ,,REP,Hampshire,Precinct 19,9
-Newt Gingrich,President ,,REP,Hampshire,Precinct 19,2
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 19,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 19,42
+Ron Paul,President,,REP,Hampshire,Precinct 19,5
+Rick Santorum,President,,REP,Hampshire,Precinct 19,9
+Newt Gingrich,President,,REP,Hampshire,Precinct 19,2
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 19,0
+Mitt Romney,President,,REP,Hampshire,Precinct 19,42
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 19,44
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 19,2
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 19,12
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 19,43
 Bill Maloney,Governor,,REP,Hampshire,Precinct 19,46
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 19,7
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 19,41
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 19,41
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 19,39
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 19,23
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 19,24
@@ -718,15 +718,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 19,44
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 19,38
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 19,42
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 19,16
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 19,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 19,
 ,Registered Voters,,,Hampshire,Precinct 20,416
 ,Registered Voters,,DEM,Hampshire,Precinct 20,207
 ,Registered Voters,,REP,Hampshire,Precinct 20,112
 ,Ballots Cast,,,Hampshire,Precinct 20,113
 ,Ballots Cast,,DEM,Hampshire,Precinct 20,78
 ,Ballots Cast,,REP,Hampshire,Precinct 20,34
-Keith Judd,President ,,DEM,Hampshire,Precinct 20,28
-Barack Obama,President ,,DEM,Hampshire,Precinct 20,40
+Keith Judd,President,,DEM,Hampshire,Precinct 20,28
+Barack Obama,President,,DEM,Hampshire,Precinct 20,40
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 20,64
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 20,12
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 20,31
@@ -734,28 +734,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 20,8
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 20,25
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 20,59
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 20,14
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 20,60
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 20,60
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 20,60
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 20,60
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 20,26
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 20,39
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 20,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 20,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 20,3
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 20,3
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 20,58
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 20,52
-Ron Paul,President ,,REP,Hampshire,Precinct 20,2
-Rick Santorum,President ,,REP,Hampshire,Precinct 20,6
-Newt Gingrich,President ,,REP,Hampshire,Precinct 20,1
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 20,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 20,24
+Ron Paul,President,,REP,Hampshire,Precinct 20,2
+Rick Santorum,President,,REP,Hampshire,Precinct 20,6
+Newt Gingrich,President,,REP,Hampshire,Precinct 20,1
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 20,0
+Mitt Romney,President,,REP,Hampshire,Precinct 20,24
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 20,22
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 20,1
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 20,6
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 20,25
 Bill Maloney,Governor,,REP,Hampshire,Precinct 20,25
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 20,3
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 20,23
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 20,23
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 20,24
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 20,11
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 20,10
@@ -763,15 +763,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 20,26
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 20,22
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 20,19
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 20,15
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 20,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 20,
 ,Registered Voters,,,Hampshire,Precinct 21,805
 ,Registered Voters,,DEM,Hampshire,Precinct 21,259
 ,Registered Voters,,REP,Hampshire,Precinct 21,282
 ,Ballots Cast,,,Hampshire,Precinct 21,190
 ,Ballots Cast,,DEM,Hampshire,Precinct 21,83
 ,Ballots Cast,,REP,Hampshire,Precinct 21,101
-Keith Judd,President ,,DEM,Hampshire,Precinct 21,34
-Barack Obama,President ,,DEM,Hampshire,Precinct 21,34
+Keith Judd,President,,DEM,Hampshire,Precinct 21,34
+Barack Obama,President,,DEM,Hampshire,Precinct 21,34
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 21,60
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 21,19
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 21,28
@@ -779,28 +779,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 21,9
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 21,31
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 21,64
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 21,6
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 21,63
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 21,63
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 21,63
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 21,62
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 21,28
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 21,39
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 21,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 21,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 21,4
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 21,4
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 21,59
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 21,
-Ron Paul,President ,,REP,Hampshire,Precinct 21,3
-Rick Santorum,President ,,REP,Hampshire,Precinct 21,14
-Newt Gingrich,President ,,REP,Hampshire,Precinct 21,4
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 21,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 21,78
+Ron Paul,President,,REP,Hampshire,Precinct 21,3
+Rick Santorum,President,,REP,Hampshire,Precinct 21,14
+Newt Gingrich,President,,REP,Hampshire,Precinct 21,4
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 21,1
+Mitt Romney,President,,REP,Hampshire,Precinct 21,78
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 21,81
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 21,9
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 21,16
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 21,71
 Bill Maloney,Governor,,REP,Hampshire,Precinct 21,69
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 21,19
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 21,77
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 21,77
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 21,80
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 21,46
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 21,27
@@ -808,15 +808,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 21,77
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 21,72
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 21,
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 21,
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 21,77
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 21,77
 ,Registered Voters,,,Hampshire,Precinct 22,548
 ,Registered Voters,,DEM,Hampshire,Precinct 22,246
 ,Registered Voters,,REP,Hampshire,Precinct 22,163
 ,Ballots Cast,,,Hampshire,Precinct 22,153
 ,Ballots Cast,,DEM,Hampshire,Precinct 22,92
 ,Ballots Cast,,REP,Hampshire,Precinct 22,61
-Keith Judd,President ,,DEM,Hampshire,Precinct 22,32
-Barack Obama,President ,,DEM,Hampshire,Precinct 22,33
+Keith Judd,President,,DEM,Hampshire,Precinct 22,32
+Barack Obama,President,,DEM,Hampshire,Precinct 22,33
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 22,69
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 22,20
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 22,38
@@ -824,28 +824,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 22,5
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 22,26
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 22,73
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 22,14
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 22,75
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 22,75
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 22,67
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 22,70
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 22,33
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 22,39
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 22,4
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 22,8
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 22,2
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 22,2
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 22,63
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 22,69
-Ron Paul,President ,,REP,Hampshire,Precinct 22,7
-Rick Santorum,President ,,REP,Hampshire,Precinct 22,11
-Newt Gingrich,President ,,REP,Hampshire,Precinct 22,3
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 22,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 22,38
+Ron Paul,President,,REP,Hampshire,Precinct 22,7
+Rick Santorum,President,,REP,Hampshire,Precinct 22,11
+Newt Gingrich,President,,REP,Hampshire,Precinct 22,3
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 22,0
+Mitt Romney,President,,REP,Hampshire,Precinct 22,38
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 22,48
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 22,7
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 22,11
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 22,36
 Bill Maloney,Governor,,REP,Hampshire,Precinct 22,38
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 22,14
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 22,43
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 22,43
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 22,46
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 22,22
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 22,20
@@ -853,15 +853,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 22,43
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 22,43
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 22,43
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 22,18
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 22,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 22,
 ,Registered Voters,,,Hampshire,Precinct 23,423
 ,Registered Voters,,DEM,Hampshire,Precinct 23,199
 ,Registered Voters,,REP,Hampshire,Precinct 23,126
 ,Ballots Cast,,,Hampshire,Precinct 23,175
 ,Ballots Cast,,DEM,Hampshire,Precinct 23,115
 ,Ballots Cast,,REP,Hampshire,Precinct 23,60
-Keith Judd,President ,,DEM,Hampshire,Precinct 23,51
-Barack Obama,President ,,DEM,Hampshire,Precinct 23,38
+Keith Judd,President,,DEM,Hampshire,Precinct 23,51
+Barack Obama,President,,DEM,Hampshire,Precinct 23,38
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 23,88
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 23,18
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 23,48
@@ -869,28 +869,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 23,6
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 23,41
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 23,92
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 23,14
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 23,92
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 23,92
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 23,91
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 23,94
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 23,50
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 23,56
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 23,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 23,4
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 23,2
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 23,2
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 23,92
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 23,90
-Ron Paul,President ,,REP,Hampshire,Precinct 23,6
-Rick Santorum,President ,,REP,Hampshire,Precinct 23,2
-Newt Gingrich,President ,,REP,Hampshire,Precinct 23,1
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 23,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 23,48
+Ron Paul,President,,REP,Hampshire,Precinct 23,6
+Rick Santorum,President,,REP,Hampshire,Precinct 23,2
+Newt Gingrich,President,,REP,Hampshire,Precinct 23,1
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 23,0
+Mitt Romney,President,,REP,Hampshire,Precinct 23,48
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 23,48
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 23,8
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 23,7
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 23,44
 Bill Maloney,Governor,,REP,Hampshire,Precinct 23,43
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 23,9
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 23,45
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 23,45
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 23,43
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 23,26
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 23,18
@@ -898,15 +898,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 23,44
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 23,40
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 23,33
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 23,25
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 23,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 23,
 ,Registered Voters,,,Hampshire,Precinct 24,556
 ,Registered Voters,,DEM,Hampshire,Precinct 24,253
 ,Registered Voters,,REP,Hampshire,Precinct 24,188
 ,Ballots Cast,,,Hampshire,Precinct 24,223
 ,Ballots Cast,,DEM,Hampshire,Precinct 24,132
 ,Ballots Cast,,REP,Hampshire,Precinct 24,91
-Keith Judd,President ,,DEM,Hampshire,Precinct 24,38
-Barack Obama,President ,,DEM,Hampshire,Precinct 24,65
+Keith Judd,President,,DEM,Hampshire,Precinct 24,38
+Barack Obama,President,,DEM,Hampshire,Precinct 24,65
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 24,112
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 24,17
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 24,55
@@ -914,28 +914,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 24,3
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 24,43
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 24,112
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 24,11
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 24,101
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 24,101
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 24,107
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 24,104
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 24,59
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 24,57
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 24,0
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 24,5
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 24,3
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 24,3
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 24,102
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 24,91
-Ron Paul,President ,,REP,Hampshire,Precinct 24,10
-Rick Santorum,President ,,REP,Hampshire,Precinct 24,4
-Newt Gingrich,President ,,REP,Hampshire,Precinct 24,3
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 24,1
-Mitt Romney,President ,,REP,Hampshire,Precinct 24,68
+Ron Paul,President,,REP,Hampshire,Precinct 24,10
+Rick Santorum,President,,REP,Hampshire,Precinct 24,4
+Newt Gingrich,President,,REP,Hampshire,Precinct 24,3
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 24,1
+Mitt Romney,President,,REP,Hampshire,Precinct 24,68
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 24,72
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 24,9
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 24,10
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 24,65
 Bill Maloney,Governor,,REP,Hampshire,Precinct 24,58
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 24,22
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 24,64
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 24,64
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 24,70
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 24,43
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 24,24
@@ -943,15 +943,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 24,69
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 24,68
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 24,64
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 24,24
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 24,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 24,
 ,Registered Voters,,,Hampshire,Precinct 25,948
 ,Registered Voters,,DEM,Hampshire,Precinct 25,431
 ,Registered Voters,,REP,Hampshire,Precinct 25,284
 ,Ballots Cast,,,Hampshire,Precinct 25,264
 ,Ballots Cast,,DEM,Hampshire,Precinct 25,160
 ,Ballots Cast,,REP,Hampshire,Precinct 25,104
-Keith Judd,President ,,DEM,Hampshire,Precinct 25,63
-Barack Obama,President ,,DEM,Hampshire,Precinct 25,57
+Keith Judd,President,,DEM,Hampshire,Precinct 25,63
+Barack Obama,President,,DEM,Hampshire,Precinct 25,57
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 25,131
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 25,23
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 25,64
@@ -959,28 +959,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 25,7
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 25,46
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 25,121
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 25,30
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 25,113
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 25,113
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 25,115
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 25,113
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 25,39
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 25,99
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 25,7
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 25,2
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 25,1
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 25,1
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 25,112
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 25,96
-Ron Paul,President ,,REP,Hampshire,Precinct 25,9
-Rick Santorum,President ,,REP,Hampshire,Precinct 25,13
-Newt Gingrich,President ,,REP,Hampshire,Precinct 25,6
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 25,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 25,68
+Ron Paul,President,,REP,Hampshire,Precinct 25,9
+Rick Santorum,President,,REP,Hampshire,Precinct 25,13
+Newt Gingrich,President,,REP,Hampshire,Precinct 25,6
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 25,0
+Mitt Romney,President,,REP,Hampshire,Precinct 25,68
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 25,77
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 25,17
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 25,26
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 25,55
 Bill Maloney,Governor,,REP,Hampshire,Precinct 25,67
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 25,21
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 25,65
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 25,65
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 25,71
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 25,39
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 25,32
@@ -988,15 +988,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 25,72
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 25,73
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 25,61
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 25,41
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 25,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 25,
 ,Registered Voters,,,Hampshire,Precinct 26,332
 ,Registered Voters,,DEM,Hampshire,Precinct 26,144
 ,Registered Voters,,REP,Hampshire,Precinct 26,104
 ,Ballots Cast,,,Hampshire,Precinct 26,86
 ,Ballots Cast,,DEM,Hampshire,Precinct 26,44
 ,Ballots Cast,,REP,Hampshire,Precinct 26,39
-Keith Judd,President ,,DEM,Hampshire,Precinct 26,12
-Barack Obama,President ,,DEM,Hampshire,Precinct 26,24
+Keith Judd,President,,DEM,Hampshire,Precinct 26,12
+Barack Obama,President,,DEM,Hampshire,Precinct 26,24
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 26,39
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 26,3
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 26,18
@@ -1004,28 +1004,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 26,2
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 26,12
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 26,37
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 26,5
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 26,31
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 26,31
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 26,30
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 26,30
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 26,13
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 26,23
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 26,1
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 26,1
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 26,4
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 26,4
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 26,31
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 26,32
-Ron Paul,President ,,REP,Hampshire,Precinct 26,5
-Rick Santorum,President ,,REP,Hampshire,Precinct 26,5
-Newt Gingrich,President ,,REP,Hampshire,Precinct 26,1
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 26,0
-Mitt Romney,President ,,REP,Hampshire,Precinct 26,27
+Ron Paul,President,,REP,Hampshire,Precinct 26,5
+Rick Santorum,President,,REP,Hampshire,Precinct 26,5
+Newt Gingrich,President,,REP,Hampshire,Precinct 26,1
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 26,0
+Mitt Romney,President,,REP,Hampshire,Precinct 26,27
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 26,30
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 26,7
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 26,4
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 26,25
 Bill Maloney,Governor,,REP,Hampshire,Precinct 26,23
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 26,10
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 26,28
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 26,28
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 26,28
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 26,18
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 26,11
@@ -1033,15 +1033,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 26,27
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 26,26
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 26,23
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 26,12
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 26,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 26,
 ,Registered Voters,,,Hampshire,Precinct 28,608
 ,Registered Voters,,DEM,Hampshire,Precinct 28,238
 ,Registered Voters,,REP,Hampshire,Precinct 28,153
 ,Ballots Cast,,,Hampshire,Precinct 28,164
 ,Ballots Cast,,DEM,Hampshire,Precinct 28,90
 ,Ballots Cast,,REP,Hampshire,Precinct 28,72
-Keith Judd,President ,,DEM,Hampshire,Precinct 28,37
-Barack Obama,President ,,DEM,Hampshire,Precinct 28,37
+Keith Judd,President,,DEM,Hampshire,Precinct 28,37
+Barack Obama,President,,DEM,Hampshire,Precinct 28,37
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,Precinct 28,67
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,Precinct 28,18
 Dugald Brown,U.S. House,2,DEM,Hampshire,Precinct 28,41
@@ -1049,28 +1049,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,Precinct 28,5
 William McCann,U.S. House,2,DEM,Hampshire,Precinct 28,30
 Earl Ray Tomblin,Governor,,DEM,Hampshire,Precinct 28,68
 Arne Moltis,Governor,,DEM,Hampshire,Precinct 28,12
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,Precinct 28,65
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,Precinct 28,65
 Glen B. Gainer III,Auditor,,DEM,Hampshire,Precinct 28,74
 John D. Perdue,Treasurer,,DEM,Hampshire,Precinct 28,70
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,Precinct 28,24
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,Precinct 28,56
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,Precinct 28,2
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,Precinct 28,0
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,Precinct 28,1
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,Precinct 28,1
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,Precinct 28,71
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,Precinct 28,72
-Ron Paul,President ,,REP,Hampshire,Precinct 28,5
-Rick Santorum,President ,,REP,Hampshire,Precinct 28,9
-Newt Gingrich,President ,,REP,Hampshire,Precinct 28,3
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,Precinct 28,2
-Mitt Romney,President ,,REP,Hampshire,Precinct 28,50
+Ron Paul,President,,REP,Hampshire,Precinct 28,5
+Rick Santorum,President,,REP,Hampshire,Precinct 28,9
+Newt Gingrich,President,,REP,Hampshire,Precinct 28,3
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,Precinct 28,2
+Mitt Romney,President,,REP,Hampshire,Precinct 28,50
 John R. Raese,U.S. Senate,,REP,Hampshire,Precinct 28,63
 Michael Davis,U.S. House,2,REP,Hampshire,Precinct 28,10
 Jonathan Miller,U.S. House,2,REP,Hampshire,Precinct 28,13
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,Precinct 28,41
 Bill Maloney,Governor,,REP,Hampshire,Precinct 28,42
 Ralph William Clark,Governor,,REP,Hampshire,Precinct 28,20
-Brian Savilla,Secretary of State ,,REP,Hampshire,Precinct 28,51
+Brian Savilla,Secretary of State,,REP,Hampshire,Precinct 28,51
 Larry V. Faircloth,Auditor,,REP,Hampshire,Precinct 28,54
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,Precinct 28,32
 Mike Hall,Treasurer,,REP,Hampshire,Precinct 28,16
@@ -1078,15 +1078,15 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,Precinct 28,55
 Craig P. Blair,State Senate,15,REP,Hampshire,Precinct 28,51
 Ruth Rowan,House of Delegates,57,REP,Hampshire,Precinct 28,39
 Terry L. Craver,House of Delegates,57,REP,Hampshire,Precinct 28,32
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,Precinct 28,
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,Precinct 28,
 ,Registered Voters,,,Hampshire,TOTALS,14142
 ,Registered Voters,,DEM,Hampshire,TOTALS,5615
 ,Registered Voters,,REP,Hampshire,TOTALS,4737
 ,Ballots Cast,,,Hampshire,TOTALS,4050
 ,Ballots Cast,,DEM,Hampshire,TOTALS,2168
 ,Ballots Cast,,REP,Hampshire,TOTALS,1830
-Keith Judd,President ,,DEM,Hampshire,TOTALS,803
-Barack Obama,President ,,DEM,Hampshire,TOTALS,924
+Keith Judd,President,,DEM,Hampshire,TOTALS,803
+Barack Obama,President,,DEM,Hampshire,TOTALS,924
 Joe Manchin III,U.S. Senate,,DEM,Hampshire,TOTALS,1736
 Sheirl Fletcher,U.S. Senate,,DEM,Hampshire,TOTALS,342
 Dugald Brown,U.S. House,2,DEM,Hampshire,TOTALS,896
@@ -1094,28 +1094,28 @@ Howard Swint,U.S. House,2,DEM,Hampshire,TOTALS,123
 William McCann,U.S. House,2,DEM,Hampshire,TOTALS,715
 Earl Ray Tomblin,Governor,,DEM,Hampshire,TOTALS,1700
 Arne Moltis,Governor,,DEM,Hampshire,TOTALS,318
-Natalie E. Tennant,Secretary of State ,,DEM,Hampshire,TOTALS,1659
+Natalie E. Tennant,Secretary of State,,DEM,Hampshire,TOTALS,1659
 Glen B. Gainer III,Auditor,,DEM,Hampshire,TOTALS,1660
 John D. Perdue,Treasurer,,DEM,Hampshire,TOTALS,1681
 Walt Helmick,Commissioner of Agriculture,,DEM,Hampshire,TOTALS,735
 Steve Miller,Commissioner of Agriculture,,DEM,Hampshire,TOTALS,1071
 Joe Messineo,Commissioner of Agriculture,,DEM,Hampshire,TOTALS,38
 Bobb Tabb,Commissioner of Agriculture,,DEM,Hampshire,TOTALS,78
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Hampshire,TOTALS,78
+Sally Shepherd,Commissioner of Agriculture,,DEM,Hampshire,TOTALS,78
 "Darrell V. McGraw, Jr.",Attorney General,,DEM,Hampshire,TOTALS,1613
 Joe Moreland Jr.,House of Delegate,,DEM,Hampshire,TOTALS,1237
-Ron Paul,President ,,REP,Hampshire,TOTALS,150
-Rick Santorum,President ,,REP,Hampshire,TOTALS,211
-Newt Gingrich,President ,,REP,Hampshire,TOTALS,100
-"Charles ""Buddy"" Roemer",President ,,REP,Hampshire,TOTALS,16
-Mitt Romney,President ,,REP,Hampshire,TOTALS,1270
+Ron Paul,President,,REP,Hampshire,TOTALS,150
+Rick Santorum,President,,REP,Hampshire,TOTALS,211
+Newt Gingrich,President,,REP,Hampshire,TOTALS,100
+"Charles ""Buddy"" Roemer",President,,REP,Hampshire,TOTALS,16
+Mitt Romney,President,,REP,Hampshire,TOTALS,1270
 John R. Raese,U.S. Senate,,REP,Hampshire,TOTALS,1451
 Michael Davis,U.S. House,2,REP,Hampshire,TOTALS,159
 Jonathan Miller,U.S. House,2,REP,Hampshire,TOTALS,318
 Shelley Moore Capito,U.S. House,2,REP,Hampshire,TOTALS,1261
 Bill Maloney,Governor,,REP,Hampshire,TOTALS,1223
 Ralph William Clark,Governor,,REP,Hampshire,TOTALS,376
-Brian Savilla,Secretary of State ,,REP,Hampshire,TOTALS,1315
+Brian Savilla,Secretary of State,,REP,Hampshire,TOTALS,1315
 Larry V. Faircloth,Auditor,,REP,Hampshire,TOTALS,1355
 "Stephen R. ""Steve"" Connoll",Treasurer,,REP,Hampshire,TOTALS,804
 Mike Hall,Treasurer,,REP,Hampshire,TOTALS,526
@@ -1123,7 +1123,7 @@ Patrick Morrisey,Attorney General,,REP,Hampshire,TOTALS,1357
 Craig P. Blair,State Senate,15,REP,Hampshire,TOTALS,1295
 Ruth Rowan,House of Delegates,57,REP,Hampshire,TOTALS,891
 Terry L. Craver,House of Delegates,57,REP,Hampshire,TOTALS,410
-Daryl E. Cowles ,House of Delegates,,REP,Hampshire,TOTALS,391
+Daryl E. Cowles,House of Delegates,,REP,Hampshire,TOTALS,391
 ,,,,,,
 ,,,,,,
 ,,,,,,

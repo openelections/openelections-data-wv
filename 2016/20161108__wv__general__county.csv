@@ -1618,7 +1618,7 @@ Lincoln,State Senate,7,Republican,JORDAN RAY BRIDGES,2963
 Lincoln,State Senate,7,Democrat,RICHARD N. OJEDA II,3705
 Logan,State Senate,7,Republican,JORDAN RAY BRIDGES,4728
 Logan,State Senate,7,Democrat,RICHARD N. OJEDA II,7149
-Marion,State Senate,13,Republican,BARRY  BLEDSOE ,7466
+Marion,State Senate,13,Republican,BARRY  BLEDSOE,7466
 Marion,State Senate,2,Libertarian,H JOHN ROGERS,483
 Marion,State Senate,2,Democrat,LISA ZUKOFF,1475
 Marion,State Senate,2,Republican,MIKE MARONEY,2132
@@ -1645,7 +1645,7 @@ Mingo,State Senate,6,Republican,CHANDLER SWOPE,2595
 Mingo,State Senate,7,Republican,JORDAN RAY BRIDGES,1078
 Mingo,State Senate,7,Democrat,RICHARD N. OJEDA II,1696
 Mingo,State Senate,6,Democrat,"ROCKWELL ""ROCKY"" SEAY",2929
-Monongalia,State Senate,13,Republican,BARRY  BLEDSOE ,9078
+Monongalia,State Senate,13,Republican,BARRY  BLEDSOE,9078
 Monongalia,State Senate,14,Democrat,BOB WILLIAMS,2721
 Monongalia,State Senate,2,Libertarian,H JOHN ROGERS,445
 Monongalia,State Senate,2,Democrat,LISA ZUKOFF,2439
@@ -1800,7 +1800,7 @@ Greenbrier,State House,42,Republican,GEORGE BOOGIE AMBLER,6637
 Greenbrier,State House,41,Republican,JORDAN HILL,141
 Greenbrier,State House,42,Republican,RAY CANTERBURY,6321
 Greenbrier,State House,42,Democrat,STEPHEN BALDWIN JR.,6998
-Hampshire,State House,57,Democrat,BEVERLY COOKMAN  KEADLE ,1927
+Hampshire,State House,57,Democrat,BEVERLY COOKMAN  KEADLE,1927
 Hampshire,State House,58,Republican,DARYL E. COWLES,2592
 Hampshire,State House,57,Republican,RUTH ROWAN,3599
 Hancock,State House,1,Republican,MARK ZATEZALO,5794
@@ -1815,7 +1815,7 @@ Harrison,State House,48,Democrat,DEREK  MCINTYRE,9456
 Harrison,State House,48,Republican,"RICHARD A ""RICK"" WOLFE",8509
 Harrison,State House,48,Democrat,RICHARD J.  IAQUINTA,13421
 Harrison,State House,48,Republican,TERRY WAXMAN,10624
-Harrison,State House,48,Democrat,TIM  MILEY ,15181
+Harrison,State House,48,Democrat,TIM  MILEY,15181
 Harrison,State House,48,Democrat,WAYNE WORTH,9091
 Jackson,State House,11,Democrat,JAMES L. (JIM) CROWDER,404
 Jackson,State House,13,Republican,JOSHUA KURT HIGGINBOTHAM,1338
@@ -1831,7 +1831,7 @@ Jefferson,State House,66,Republican,PAUL A. ESPINOSA,5050
 Jefferson,State House,67,Republican,RILEY MOORE,4230
 Jefferson,State House,67,Democrat,ROD SNYDER,4134
 Jefferson,State House,65,Democrat,SAMMI BROWN,2945
-Kanawha,State House,35,Democrat, ANDREW D. BYRD,13546
+Kanawha,State House,35,Democrat,ANDREW D. BYRD,13546
 Kanawha,State House,36,Republican,ADAM MARCUM,5263
 Kanawha,State House,36,Democrat,ANDREW ROBINSON,8524
 Kanawha,State House,32,Republican,AUSTIN HAYNES,23
@@ -1886,7 +1886,7 @@ Logan,State House,24,Democrat,"RUPERT ""RUPIE"" PHILLIPS JR",4467
 Logan,State House,22,Republican,ZACK MAYNARD,790
 Marion,State House,49,Republican,AMY  SUMMERS,280
 Marion,State House,50,Republican,BOBBIE DAMON TRIPLETT II,7209
-Marion,State House,49,Democrat,DAVE  GOBEL ,248
+Marion,State House,49,Democrat,DAVE  GOBEL,248
 Marion,State House,50,Republican,GUY WARD,9964
 Marion,State House,50,No Affiliation,JON  DODDS,2136
 Marion,State House,50,Democrat,LINDA  LONGSTRETH,9656
@@ -1920,7 +1920,7 @@ Mercer,State House,27,Republican,MARTY GEARHEART,10008
 Mercer,State House,27,Democrat,SABRINA  SHRADER,5037
 Mercer,State House,25,Republican,TONY PAYNTER,670
 Mineral,State House,54,Republican,ALLEN V.  EVANS,2086
-Mineral,State House,57,Democrat,BEVERLY COOKMAN  KEADLE ,366
+Mineral,State House,57,Democrat,BEVERLY COOKMAN  KEADLE,366
 Mineral,State House,56,Republican,GARY G. HOWELL,6693
 Mineral,State House,57,Republican,RUTH ROWAN,1266
 Mingo,State House,20,Democrat,JUSTIN J. MARCUM,3639
@@ -1930,7 +1930,7 @@ Mingo,State House,21,Democrat,PHYLLIS RIFFE WHITE,1728
 Monongalia,State House,49,Republican,AMY  SUMMERS,443
 Monongalia,State House,51,Democrat,BARBARA EVANS FLEISCHAUER,16269
 Monongalia,State House,51,Republican,CINDY FRICH,16182
-Monongalia,State House,49,Democrat,DAVE  GOBEL ,374
+Monongalia,State House,49,Democrat,DAVE  GOBEL,374
 Monongalia,State House,5,Democrat,DAVE PETHTEL,273
 Monongalia,State House,51,Libertarian,EDDIE WAGONER,4824
 Monongalia,State House,51,Republican,ERIC FINCH,9832
@@ -2052,12 +2052,12 @@ Summers,State House,28,Democrat,WILLIAM A. (BILL) O'BRIEN,1835
 Taylor,State House,49,Republican,AMY  SUMMERS,3399
 Taylor,State House,48,Republican,BEN QUEEN,300
 Taylor,State House,48,Republican,DANNY HAMRICK,226
-Taylor,State House,49,Democrat,DAVE  GOBEL ,2675
+Taylor,State House,49,Democrat,DAVE  GOBEL,2675
 Taylor,State House,48,Democrat,DEREK  MCINTYRE,150
 Taylor,State House,48,Republican,"RICHARD A ""RICK"" WOLFE",253
 Taylor,State House,48,Democrat,RICHARD J.  IAQUINTA,165
 Taylor,State House,48,Republican,TERRY WAXMAN,223
-Taylor,State House,48,Democrat,TIM  MILEY ,220
+Taylor,State House,48,Democrat,TIM  MILEY,220
 Taylor,State House,48,Democrat,WAYNE WORTH,104
 Tucker,State House,53,Democrat,AL TOMSON,1272
 Tucker,State House,47,Republican,DANNY WAGNER,695
@@ -2093,7 +2093,7 @@ Wood,State House,8,Republican,BILL ANDERSON,4871
 Wood,State House,10,Democrat,BILL MERRIMAN,8571
 Wood,State House,8,Democrat,DAVID BLAND,3180
 Wood,State House,10,Republican,FRANK DEEM,10480
-Wood,State House,10,Democrat,J. MORGAN  LEACH ,7697
+Wood,State House,10,Democrat,J. MORGAN  LEACH,7697
 Wood,State House,9,Democrat,JIM MARION,2357
 Wood,State House,10,Republican,JOHN R. KELLY,11244
 Wood,State House,9,Republican,RAY HOLLEN,2847

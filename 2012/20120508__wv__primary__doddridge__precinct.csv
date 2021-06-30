@@ -1,9 +1,9 @@
 candidate,office,district,party,county,precinct,votes
-Ron Paul,President ,,REP,Doddridge,Precinct # 2,14
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 2,17
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 2,4
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 2,133
-Rick Santorum,President ,,REP,Doddridge,Precinct # 2,21
+Ron Paul,President,,REP,Doddridge,Precinct # 2,14
+Newt Gingrich,President,,REP,Doddridge,Precinct # 2,17
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 2,4
+Mitt Romney,President,,REP,Doddridge,Precinct # 2,133
+Rick Santorum,President,,REP,Doddridge,Precinct # 2,21
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 2,151
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 2,144
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 2,27
@@ -14,13 +14,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 2,137
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 2,85
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 2,143
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 2,166
-Keith Judd,President ,,DEM,Doddridge,Precinct # 2,28
-Barack Obama,President ,,DEM,Doddridge,Precinct # 2,19
+Keith Judd,President,,DEM,Doddridge,Precinct # 2,28
+Barack Obama,President,,DEM,Doddridge,Precinct # 2,19
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 2,47
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 2,7
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 2,40
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 2,41
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 2,12
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 2,12
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 2,46
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 2,44
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 2,44
@@ -33,11 +33,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 2,7
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 2,43
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 2,33
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 2,15
-Ron Paul,President ,,REP,Doddridge,Precinct # 4,8
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 4,3
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 4,0
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 4,35
-Rick Santorum,President ,,REP,Doddridge,Precinct # 4,1
+Ron Paul,President,,REP,Doddridge,Precinct # 4,8
+Newt Gingrich,President,,REP,Doddridge,Precinct # 4,3
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 4,0
+Mitt Romney,President,,REP,Doddridge,Precinct # 4,35
+Rick Santorum,President,,REP,Doddridge,Precinct # 4,1
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 4,40
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 4,36
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 4,11
@@ -48,13 +48,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 4,35
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 4,17
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 4,36
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 4,46
-Keith Judd,President ,,DEM,Doddridge,Precinct # 4,4
-Barack Obama,President ,,DEM,Doddridge,Precinct # 4,10
+Keith Judd,President,,DEM,Doddridge,Precinct # 4,4
+Barack Obama,President,,DEM,Doddridge,Precinct # 4,10
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 4,14
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 4,2
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 4,16
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 4,11
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 4,4
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 4,4
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 4,15
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 4,15
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 4,14
@@ -67,11 +67,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 4,3
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 4,13
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 4,9
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 4,2
-Ron Paul,President ,,REP,Doddridge,Precinct # 6,11
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 6,8
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 6,0
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 6,57
-Rick Santorum,President ,,REP,Doddridge,Precinct # 6,16
+Ron Paul,President,,REP,Doddridge,Precinct # 6,11
+Newt Gingrich,President,,REP,Doddridge,Precinct # 6,8
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 6,0
+Mitt Romney,President,,REP,Doddridge,Precinct # 6,57
+Rick Santorum,President,,REP,Doddridge,Precinct # 6,16
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 6,70
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 6,68
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 6,24
@@ -82,13 +82,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 6,70
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 6,43
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 6,76
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 6,89
-Keith Judd,President ,,DEM,Doddridge,Precinct # 6,8
-Barack Obama,President ,,DEM,Doddridge,Precinct # 6,14
+Keith Judd,President,,DEM,Doddridge,Precinct # 6,8
+Barack Obama,President,,DEM,Doddridge,Precinct # 6,14
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 6,25
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 6,5
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 6,18
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 6,25
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 6,6
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 6,6
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 6,26
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 6,26
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 6,23
@@ -101,11 +101,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 6,7
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 6,23
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 6,23
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 6,3
-Ron Paul,President ,,REP,Doddridge,Precinct # 9,17
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 9,11
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 9,0
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 9,62
-Rick Santorum,President ,,REP,Doddridge,Precinct # 9,23
+Ron Paul,President,,REP,Doddridge,Precinct # 9,17
+Newt Gingrich,President,,REP,Doddridge,Precinct # 9,11
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 9,0
+Mitt Romney,President,,REP,Doddridge,Precinct # 9,62
+Rick Santorum,President,,REP,Doddridge,Precinct # 9,23
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 9,95
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 9,89
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 9,18
@@ -116,13 +116,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 9,92
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 9,60
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 9,87
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 9,92
-Keith Judd,President ,,DEM,Doddridge,Precinct # 9,9
-Barack Obama,President ,,DEM,Doddridge,Precinct # 9,17
+Keith Judd,President,,DEM,Doddridge,Precinct # 9,9
+Barack Obama,President,,DEM,Doddridge,Precinct # 9,17
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 9,22
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 9,8
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 9,18
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 9,22
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 9,5
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 9,5
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 9,26
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 9,26
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 9,22
@@ -135,11 +135,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 9,6
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 9,19
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 9,17
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 9,3
-Ron Paul,President ,,REP,Doddridge,Precinct # 10,18
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 10,14
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 10,2
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 10,106
-Rick Santorum,President ,,REP,Doddridge,Precinct # 10,13
+Ron Paul,President,,REP,Doddridge,Precinct # 10,18
+Newt Gingrich,President,,REP,Doddridge,Precinct # 10,14
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 10,2
+Mitt Romney,President,,REP,Doddridge,Precinct # 10,106
+Rick Santorum,President,,REP,Doddridge,Precinct # 10,13
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 10,126
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 10,113
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 10,20
@@ -150,13 +150,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 10,114
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 10,81
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 10,112
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 10,129
-Keith Judd,President ,,DEM,Doddridge,Precinct # 10,14
-Barack Obama,President ,,DEM,Doddridge,Precinct # 10,23
+Keith Judd,President,,DEM,Doddridge,Precinct # 10,14
+Barack Obama,President,,DEM,Doddridge,Precinct # 10,23
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 10,35
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 10,8
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 10,33
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 10,36
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 10,8
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 10,8
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 10,39
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 10,38
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 10,39
@@ -169,11 +169,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 10,7
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 10,38
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 10,29
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 10,8
-Ron Paul,President ,,REP,Doddridge,Precinct # 13,17
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 13,6
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 13,3
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 13,84
-Rick Santorum,President ,,REP,Doddridge,Precinct # 13,21
+Ron Paul,President,,REP,Doddridge,Precinct # 13,17
+Newt Gingrich,President,,REP,Doddridge,Precinct # 13,6
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 13,3
+Mitt Romney,President,,REP,Doddridge,Precinct # 13,84
+Rick Santorum,President,,REP,Doddridge,Precinct # 13,21
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 13,93
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 13,103
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 13,31
@@ -184,13 +184,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 13,98
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 13,59
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 13,93
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 13,108
-Keith Judd,President ,,DEM,Doddridge,Precinct # 13,16
-Barack Obama,President ,,DEM,Doddridge,Precinct # 13,22
+Keith Judd,President,,DEM,Doddridge,Precinct # 13,16
+Barack Obama,President,,DEM,Doddridge,Precinct # 13,22
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 13,26
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 13,12
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 13,30
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 13,24
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 13,12
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 13,12
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 13,33
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 13,29
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 13,26
@@ -203,11 +203,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 13,7
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 13,32
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 13,24
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 13,7
-Ron Paul,President ,,REP,Doddridge,Precinct # 14,6
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 14,9
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 14,1
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 14,63
-Rick Santorum,President ,,REP,Doddridge,Precinct # 14,12
+Ron Paul,President,,REP,Doddridge,Precinct # 14,6
+Newt Gingrich,President,,REP,Doddridge,Precinct # 14,9
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 14,1
+Mitt Romney,President,,REP,Doddridge,Precinct # 14,63
+Rick Santorum,President,,REP,Doddridge,Precinct # 14,12
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 14,68
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 14,65
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 14,16
@@ -218,13 +218,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 14,65
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 14,31
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 14,63
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 14,76
-Keith Judd,President ,,DEM,Doddridge,Precinct # 14,9
-Barack Obama,President ,,DEM,Doddridge,Precinct # 14,11
+Keith Judd,President,,DEM,Doddridge,Precinct # 14,9
+Barack Obama,President,,DEM,Doddridge,Precinct # 14,11
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 14,22
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 14,1
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 14,17
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 14,20
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 14,2
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 14,2
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 14,19
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 14,20
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 14,17
@@ -237,11 +237,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 14,6
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 14,19
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 14,16
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 14,3
-Ron Paul,President ,,REP,Doddridge,Precinct # 17,13
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 17,17
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 17,3
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 17,107
-Rick Santorum,President ,,REP,Doddridge,Precinct # 17,17
+Ron Paul,President,,REP,Doddridge,Precinct # 17,13
+Newt Gingrich,President,,REP,Doddridge,Precinct # 17,17
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 17,3
+Mitt Romney,President,,REP,Doddridge,Precinct # 17,107
+Rick Santorum,President,,REP,Doddridge,Precinct # 17,17
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 17,126
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 17,118
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 17,18
@@ -252,13 +252,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 17,114
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 17,80
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 17,96
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 17,121
-Keith Judd,President ,,DEM,Doddridge,Precinct # 17,9
-Barack Obama,President ,,DEM,Doddridge,Precinct # 17,5
+Keith Judd,President,,DEM,Doddridge,Precinct # 17,9
+Barack Obama,President,,DEM,Doddridge,Precinct # 17,5
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 17,14
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 17,5
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 17,14
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 17,14
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 17,4
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 17,4
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 17,16
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 17,18
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 17,15
@@ -271,11 +271,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 17,4
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 17,18
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 17,9
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 17,5
-Ron Paul,President ,,REP,Doddridge,Precinct # 18,5
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 18,2
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 18,2
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 18,31
-Rick Santorum,President ,,REP,Doddridge,Precinct # 18,7
+Ron Paul,President,,REP,Doddridge,Precinct # 18,5
+Newt Gingrich,President,,REP,Doddridge,Precinct # 18,2
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 18,2
+Mitt Romney,President,,REP,Doddridge,Precinct # 18,31
+Rick Santorum,President,,REP,Doddridge,Precinct # 18,7
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 18,33
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 18,33
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 18,7
@@ -286,13 +286,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 18,32
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 18,20
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 18,30
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 18,36
-Keith Judd,President ,,DEM,Doddridge,Precinct # 18,4
-Barack Obama,President ,,DEM,Doddridge,Precinct # 18,7
+Keith Judd,President,,DEM,Doddridge,Precinct # 18,4
+Barack Obama,President,,DEM,Doddridge,Precinct # 18,7
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 18,11
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 18,1
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 18,8
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 18,9
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 18,3
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 18,3
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 18,11
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 18,9
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 18,10
@@ -305,11 +305,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 18,4
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 18,10
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 18,5
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 18,4
-Ron Paul,President ,,REP,Doddridge,Precinct # 20,13
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 20,15
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 20,2
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 20,100
-Rick Santorum,President ,,REP,Doddridge,Precinct # 20,16
+Ron Paul,President,,REP,Doddridge,Precinct # 20,13
+Newt Gingrich,President,,REP,Doddridge,Precinct # 20,15
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 20,2
+Mitt Romney,President,,REP,Doddridge,Precinct # 20,100
+Rick Santorum,President,,REP,Doddridge,Precinct # 20,16
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 20,109
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 20,102
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 20,15
@@ -320,13 +320,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 20,102
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 20,66
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 20,96
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 20,117
-Keith Judd,President ,,DEM,Doddridge,Precinct # 20,7
-Barack Obama,President ,,DEM,Doddridge,Precinct # 20,12
+Keith Judd,President,,DEM,Doddridge,Precinct # 20,7
+Barack Obama,President,,DEM,Doddridge,Precinct # 20,12
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 20,17
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 20,5
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 20,15
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 20,18
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 20,3
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 20,3
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 20,19
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 20,18
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 20,19
@@ -339,11 +339,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 20,5
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 20,18
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 20,14
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 20,2
-Ron Paul,President ,,REP,Doddridge,Precinct # 22,14
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 22,5
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 22,2
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 22,57
-Rick Santorum,President ,,REP,Doddridge,Precinct # 22,12
+Ron Paul,President,,REP,Doddridge,Precinct # 22,14
+Newt Gingrich,President,,REP,Doddridge,Precinct # 22,5
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 22,2
+Mitt Romney,President,,REP,Doddridge,Precinct # 22,57
+Rick Santorum,President,,REP,Doddridge,Precinct # 22,12
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 22,73
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 22,73
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 22,17
@@ -354,13 +354,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 22,65
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 22,46
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 22,70
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 22,81
-Keith Judd,President ,,DEM,Doddridge,Precinct # 22,9
-Barack Obama,President ,,DEM,Doddridge,Precinct # 22,9
+Keith Judd,President,,DEM,Doddridge,Precinct # 22,9
+Barack Obama,President,,DEM,Doddridge,Precinct # 22,9
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 22,17
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 22,2
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 22,12
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 22,16
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 22,2
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 22,2
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 22,15
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 22,15
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 22,13
@@ -373,11 +373,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 22,2
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 22,13
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 22,11
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 22,5
-Ron Paul,President ,,REP,Doddridge,Precinct # 24,21
-Newt Gingrich,President ,,REP,Doddridge,Precinct # 24,16
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,Precinct # 24,3
-Mitt Romney ,President ,,REP,Doddridge,Precinct # 24,162
-Rick Santorum,President ,,REP,Doddridge,Precinct # 24,22
+Ron Paul,President,,REP,Doddridge,Precinct # 24,21
+Newt Gingrich,President,,REP,Doddridge,Precinct # 24,16
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,Precinct # 24,3
+Mitt Romney,President,,REP,Doddridge,Precinct # 24,162
+Rick Santorum,President,,REP,Doddridge,Precinct # 24,22
 John R. Raese,U.S. Senate,,REP,Doddridge,Precinct # 24,168
 David B. McKinley,U.S. House,,REP,Doddridge,Precinct # 24,172
 Ralph William Clark,Governor,,REP,Doddridge,Precinct # 24,40
@@ -388,13 +388,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,Precinct # 24,157
 Mike Hall,Treasurer,,REP,Doddridge,Precinct # 24,98
 Patrick Morrisey,Attorney General,,REP,Doddridge,Precinct # 24,160
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,Precinct # 24,203
-Keith Judd,President ,,DEM,Doddridge,Precinct # 24,7
-Barack Obama,President ,,DEM,Doddridge,Precinct # 24,20
+Keith Judd,President,,DEM,Doddridge,Precinct # 24,7
+Barack Obama,President,,DEM,Doddridge,Precinct # 24,20
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,Precinct # 24,29
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,Precinct # 24,2
 Sue Thorn,U.S. House,,DEM,Doddridge,Precinct # 24,19
 Earl Ray Tomblin,Governor,,DEM,Doddridge,Precinct # 24,24
-Arne Moltis ,Governor,,DEM,Doddridge,Precinct # 24,4
+Arne Moltis,Governor,,DEM,Doddridge,Precinct # 24,4
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,Precinct # 24,27
 Glen B. Gainer III,Auditor,,DEM,Doddridge,Precinct # 24,24
 John D. Perdue,Treasurer,,DEM,Doddridge,Precinct # 24,23
@@ -407,11 +407,11 @@ Sally Shepherd,Commissioner of Agriculture,,DEM,Doddridge,Precinct # 24,4
 Jeffrey V. Kessler,State Senate,,DEM,Doddridge,Precinct # 24,25
 Charlie DeLauder,House of Delegates,,DEM,Doddridge,Precinct # 24,23
 Karl Paul,House of Delegates,,DEM,Doddridge,Precinct # 24,3
-Ron Paul,President ,,REP,Doddridge,TOTALS,157
-Newt Gingrich,President ,,REP,Doddridge,TOTALS,123
-"Charles ""Buddy"" Roemer",President ,,REP,Doddridge,TOTALS,22
-Mitt Romney ,President ,,REP,Doddridge,TOTALS,997
-Rick Santorum,President ,,REP,Doddridge,TOTALS,181
+Ron Paul,President,,REP,Doddridge,TOTALS,157
+Newt Gingrich,President,,REP,Doddridge,TOTALS,123
+"Charles ""Buddy"" Roemer",President,,REP,Doddridge,TOTALS,22
+Mitt Romney,President,,REP,Doddridge,TOTALS,997
+Rick Santorum,President,,REP,Doddridge,TOTALS,181
 John R. Raese,U.S. Senate,,REP,Doddridge,TOTALS,1152
 David B. McKinley,U.S. House,,REP,Doddridge,TOTALS,1116
 Ralph William Clark,Governor,,REP,Doddridge,TOTALS,244
@@ -422,13 +422,13 @@ Larry V. Faircloth,Auditor,,REP,Doddridge,TOTALS,1081
 Mike Hall,Treasurer,,REP,Doddridge,TOTALS,686
 Patrick Morrisey,Attorney General,,REP,Doddridge,TOTALS,1062
 Wm. Roger Romine,House of Delegates,,REP,Doddridge,TOTALS,1264
-Keith Judd,President ,,DEM,Doddridge,TOTALS,124
-Barack Obama,President ,,DEM,Doddridge,TOTALS,169
+Keith Judd,President,,DEM,Doddridge,TOTALS,124
+Barack Obama,President,,DEM,Doddridge,TOTALS,169
 Joe Manchin III,U.S. Senate,,DEM,Doddridge,TOTALS,279
 Sheirl Fletcher,U.S. Senate,,DEM,Doddridge,TOTALS,58
 Sue Thorn,U.S. House,,DEM,Doddridge,TOTALS,240
 Earl Ray Tomblin,Governor,,DEM,Doddridge,TOTALS,260
-Arne Moltis ,Governor,,DEM,Doddridge,TOTALS,65
+Arne Moltis,Governor,,DEM,Doddridge,TOTALS,65
 Natalie E. Tennant,Secretary of State,,DEM,Doddridge,TOTALS,292
 Glen B. Gainer III,Auditor,,DEM,Doddridge,TOTALS,282
 John D. Perdue,Treasurer,,DEM,Doddridge,TOTALS,265

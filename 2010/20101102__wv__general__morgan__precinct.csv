@@ -1,8 +1,8 @@
-candidate,office,district,party,county,precinct,total votes 
+candidate,office,district,party,county,precinct,total votes
 John R. Raese,U.S. Senate,,,Morgan,Precinct 1,352
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 1,247
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 1,19
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 1,8
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 1,8
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 1,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 1,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 1,435
@@ -17,7 +17,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 1,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 2,379
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 2,226
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 2,16
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 2,10
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 2,10
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 2,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 2,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 2,466
@@ -32,7 +32,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 2,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 4,143
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 4,88
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 4,8
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 4,4
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 4,4
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 4,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 4,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 4,192
@@ -47,7 +47,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 4,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 5,137
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 5,92
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 5,7
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 5,5
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 5,5
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 5,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 5,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 5,182
@@ -62,7 +62,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 5,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 6,185
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 6,123
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 6,8
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 6,7
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 6,7
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 6,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 6,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 6,217
@@ -77,7 +77,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 6,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 7,89
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 7,101
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 7,9
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 7,4
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 7,4
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 7,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 7,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 7,118
@@ -92,7 +92,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 7,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 8,242
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 8,191
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 8,12
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 8,4
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 8,4
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 8,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 8,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 8,329
@@ -107,7 +107,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 8,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 13,299
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 13,179
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 13,14
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 13,12
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 13,12
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 13,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 13,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 13,333
@@ -122,7 +122,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 13,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 18,130
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 18,115
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 18,6
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 18,2
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 18,2
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 18,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 18,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 18,162
@@ -137,7 +137,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 18,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 21,271
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 21,201
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 21,13
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 21,6
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 21,6
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 21,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 21,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 21,335
@@ -152,7 +152,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 21,219
 John R. Raese,U.S. Senate,,,Morgan,Precinct 23,329
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 23,203
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 23,15
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 23,7
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 23,7
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 23,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 23,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 23,392
@@ -167,7 +167,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 23,0
 John R. Raese,U.S. Senate,,,Morgan,Precinct 24,350
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 24,274
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 24,18
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 24,9
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 24,9
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 24,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 24,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 24,426
@@ -182,7 +182,7 @@ Mike Roberts,House of Delegates,52,,Morgan,Precinct 24,289
 John R. Raese,U.S. Senate,,,Morgan,Precinct 25,219
 Joe Manchin III,U.S. Senate,,,Morgan,Precinct 25,175
 Jeff Becker,U.S. Senate,,,Morgan,Precinct 25,15
-Jesse Johnson ,U.S. Senate,,,Morgan,Precinct 25,9
+Jesse Johnson,U.S. Senate,,,Morgan,Precinct 25,9
 John R. Bartlett,U.S. Senate,,,Morgan,Precinct 25,0
 "Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,Precinct 25,0
 Shelly Moore Capito,U.S. House,2,,Morgan,Precinct 25,265
@@ -194,18 +194,18 @@ Daryl E Cowles,House of Delegates,51,,Morgan,Precinct 25,0
 "Alton (Wolfe) E. Wolfe, Jr.",House of Delegates,51,,Morgan,Precinct 25,0
 Larry D. Kump,House of Delegates,52,,Morgan,Precinct 25,209
 Mike Roberts,House of Delegates,52,,Morgan,Precinct 25,181
-John R. Raese,U.S. Senate,,,Morgan,TOTAL ,3125
-Joe Manchin III,U.S. Senate,,,Morgan,TOTAL ,2215
-Jeff Becker,U.S. Senate,,,Morgan,TOTAL ,160
-Jesse Johnson ,U.S. Senate,,,Morgan,TOTAL ,87
-John R. Bartlett,U.S. Senate,,,Morgan,TOTAL ,0
-"Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,TOTAL ,0
-Shelly Moore Capito,U.S. House,2,,Morgan,TOTAL ,3852
-Virginia Lynch Graf,U.S. House,2,,Morgan,TOTAL ,1467
-Phil Hudok,U.S. House,2,,Morgan,TOTAL ,105
-Jeremy Donald Bauserman,State Senate,15,,Morgan,TOTAL ,2761
-Walt Helmick,State Senate,15,,Morgan,TOTAL ,2334
-Daryl E Cowles,House of Delegates,51,,Morgan,TOTAL ,2924
-"Alton (Wolfe) E. Wolfe, Jr.",House of Delegates,51,,Morgan,TOTAL ,973
-Larry D. Kump,House of Delegates,52,,Morgan,TOTAL ,770
-Mike Roberts,House of Delegates,52,,Morgan,TOTAL ,689
+John R. Raese,U.S. Senate,,,Morgan,TOTAL,3125
+Joe Manchin III,U.S. Senate,,,Morgan,TOTAL,2215
+Jeff Becker,U.S. Senate,,,Morgan,TOTAL,160
+Jesse Johnson,U.S. Senate,,,Morgan,TOTAL,87
+John R. Bartlett,U.S. Senate,,,Morgan,TOTAL,0
+"Charles G. ""Bud"" Railey",U.S. Senate,,,Morgan,TOTAL,0
+Shelly Moore Capito,U.S. House,2,,Morgan,TOTAL,3852
+Virginia Lynch Graf,U.S. House,2,,Morgan,TOTAL,1467
+Phil Hudok,U.S. House,2,,Morgan,TOTAL,105
+Jeremy Donald Bauserman,State Senate,15,,Morgan,TOTAL,2761
+Walt Helmick,State Senate,15,,Morgan,TOTAL,2334
+Daryl E Cowles,House of Delegates,51,,Morgan,TOTAL,2924
+"Alton (Wolfe) E. Wolfe, Jr.",House of Delegates,51,,Morgan,TOTAL,973
+Larry D. Kump,House of Delegates,52,,Morgan,TOTAL,770
+Mike Roberts,House of Delegates,52,,Morgan,TOTAL,689

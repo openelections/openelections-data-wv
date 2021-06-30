@@ -4,7 +4,7 @@ candidate,office,district,party,county,precinct,votes
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 1,199
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 1,91
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 1,9
-Write-In ,U.S. Senate,,,Ritchie,Precinct 1,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 1,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 1,252
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 1,44
 Write-In,U.S. House,1,,Ritchie,Precinct 1,0
@@ -19,7 +19,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 1,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 2,143
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 2,63
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 2,16
-Write-In ,U.S. Senate,,,Ritchie,Precinct 2,2
+Write-In,U.S. Senate,,,Ritchie,Precinct 2,2
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 2,192
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 2,26
 Write-In,U.S. House,1,,Ritchie,Precinct 2,0
@@ -34,7 +34,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 2,2
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 3,160
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 3,87
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 3,12
-Write-In ,U.S. Senate,,,Ritchie,Precinct 3,2
+Write-In,U.S. Senate,,,Ritchie,Precinct 3,2
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 3,210
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 3,52
 Write-In,U.S. House,1,,Ritchie,Precinct 3,0
@@ -49,7 +49,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 3,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 4,183
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 4,80
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 4,12
-Write-In ,U.S. Senate,,,Ritchie,Precinct 4,1
+Write-In,U.S. Senate,,,Ritchie,Precinct 4,1
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 4,221
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 4,47
 Write-In,U.S. House,1,,Ritchie,Precinct 4,0
@@ -64,7 +64,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 4,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 5,142
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 5,93
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 5,8
-Write-In ,U.S. Senate,,,Ritchie,Precinct 5,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 5,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 5,186
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 5,53
 Write-In,U.S. House,1,,Ritchie,Precinct 5,0
@@ -79,7 +79,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 5,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 6,142
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 6,61
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 6,15
-Write-In ,U.S. Senate,,,Ritchie,Precinct 6,1
+Write-In,U.S. Senate,,,Ritchie,Precinct 6,1
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 6,181
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 6,36
 Write-In,U.S. House,1,,Ritchie,Precinct 6,0
@@ -94,7 +94,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 6,2
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 7,72
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 7,39
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 7,7
-Write-In ,U.S. Senate,,,Ritchie,Precinct 7,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 7,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 7,98
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 7,18
 Write-In,U.S. House,1,,Ritchie,Precinct 7,0
@@ -109,7 +109,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 7,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 8,202
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 8,102
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 8,7
-Write-In ,U.S. Senate,,,Ritchie,Precinct 8,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 8,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 8,253
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 8,55
 Write-In,U.S. House,1,,Ritchie,Precinct 8,0
@@ -124,7 +124,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 8,1
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 9,73
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 9,38
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 9,8
-Write-In ,U.S. Senate,,,Ritchie,Precinct 9,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 9,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 9,100
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 9,18
 Write-In,U.S. House,1,,Ritchie,Precinct 9,0
@@ -139,7 +139,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 9,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 10,181
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 10,147
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 10,16
-Write-In ,U.S. Senate,,,Ritchie,Precinct 10,3
+Write-In,U.S. Senate,,,Ritchie,Precinct 10,3
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 10,273
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 10,68
 Write-In,U.S. House,1,,Ritchie,Precinct 10,0
@@ -154,7 +154,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 10,2
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 11,78
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 11,62
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 11,8
-Write-In ,U.S. Senate,,,Ritchie,Precinct 11,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 11,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 11,113
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 11,33
 Write-In,U.S. House,1,,Ritchie,Precinct 11,0
@@ -169,7 +169,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 11,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 12,157
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 12,108
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 12,16
-Write-In ,U.S. Senate,,,Ritchie,Precinct 12,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 12,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 12,222
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 12,52
 Write-In,U.S. House,1,,Ritchie,Precinct 12,1
@@ -184,7 +184,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 12,1
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 13,48
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 13,24
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 13,3
-Write-In ,U.S. Senate,,,Ritchie,Precinct 13,1
+Write-In,U.S. Senate,,,Ritchie,Precinct 13,1
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 13,55
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 13,19
 Write-In,U.S. House,1,,Ritchie,Precinct 13,0
@@ -199,7 +199,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 13,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 14,105
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 14,61
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 14,10
-Write-In ,U.S. Senate,,,Ritchie,Precinct 14,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 14,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 14,146
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 14,30
 Write-In,U.S. House,1,,Ritchie,Precinct 14,0
@@ -214,7 +214,7 @@ Write-In,House of Delegates,7,,Ritchie,Precinct 14,0
 Patrick Morrisey,U.S. Senate,,Republican,Ritchie,Precinct 15,76
 Joseph Manchin III,U.S. Senate,,Democrat,Ritchie,Precinct 15,26
 Rusty Hollen,U.S. Senate,,Libertarian,Ritchie,Precinct 15,6
-Write-In ,U.S. Senate,,,Ritchie,Precinct 15,0
+Write-In,U.S. Senate,,,Ritchie,Precinct 15,0
 David B McKinley,U.S. House,1,Republican,Ritchie,Precinct 15,94
 Kendra Fershee,U.S. House,1,Democrat,Ritchie,Precinct 15,13
 Write-In,U.S. House,1,,Ritchie,Precinct 15,0

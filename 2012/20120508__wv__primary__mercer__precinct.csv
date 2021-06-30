@@ -1,16 +1,16 @@
 candidate,office,district,party,county,precinct,total votes
-Mitt Romney,President ,,REP,Mercer,Precinct 1,7
-Ron Paul,President ,,REP,Mercer,Precinct 1,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 1,0
-Rick Santorum,President ,,REP,Mercer,Precinct 1,0
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 1,0
+Mitt Romney,President,,REP,Mercer,Precinct 1,7
+Ron Paul,President,,REP,Mercer,Precinct 1,3
+Newt Gingrich,President,,REP,Mercer,Precinct 1,0
+Rick Santorum,President,,REP,Mercer,Precinct 1,0
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 1,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 1,10
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 1,5
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 1,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 1,5
 Ralph William Clark,Governor,,REP,Mercer,Precinct 1,3
 Bill Maloney,Governor,,REP,Mercer,Precinct 1,8
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 1,10
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 1,10
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 1,8
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 1,6
 Mike Hall,Treasurer,,REP,Mercer,Precinct 1,4
@@ -18,18 +18,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 1,9
 Bill Cole,State Senate,6,REP,Mercer,Precinct 1,8
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 1,3
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 1,4
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 1,11
-Barack Obama,President ,,DEM,Mercer,Precinct 1,7
-Keith Judd,President ,,DEM,Mercer,Precinct 1,16
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 1,11
+Barack Obama,President,,DEM,Mercer,Precinct 1,7
+Keith Judd,President,,DEM,Mercer,Precinct 1,16
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 1,24
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 1,2
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 1,20
 Arne Moltis,Governor,,DEM,Mercer,Precinct 1,8
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 1,18
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 1,21
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 1,21
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 1,21
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 1,20
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 1,7
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 1,7
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 1,5
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 1,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 1,8
@@ -47,18 +47,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 1,10
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 1,12
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 1,8
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 1,12
-Mitt Romney,President ,,REP,Mercer,Precinct 2,32
-Ron Paul,President ,,REP,Mercer,Precinct 2,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 2,3
-Rick Santorum,President ,,REP,Mercer,Precinct 2,6
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 2,0
+Mitt Romney,President,,REP,Mercer,Precinct 2,32
+Ron Paul,President,,REP,Mercer,Precinct 2,3
+Newt Gingrich,President,,REP,Mercer,Precinct 2,3
+Rick Santorum,President,,REP,Mercer,Precinct 2,6
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 2,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 2,30
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 2,9
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 2,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 2,25
 Ralph William Clark,Governor,,REP,Mercer,Precinct 2,6
 Bill Maloney,Governor,,REP,Mercer,Precinct 2,31
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 2,31
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 2,31
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 2,32
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 2,18
 Mike Hall,Treasurer,,REP,Mercer,Precinct 2,15
@@ -66,18 +66,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 2,33
 Bill Cole,State Senate,6,REP,Mercer,Precinct 2,36
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 2,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 2,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 2,
-Barack Obama,President ,,DEM,Mercer,Precinct 2,36
-Keith Judd,President ,,DEM,Mercer,Precinct 2,33
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 2,
+Barack Obama,President,,DEM,Mercer,Precinct 2,36
+Keith Judd,President,,DEM,Mercer,Precinct 2,33
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 2,83
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 2,11
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 2,70
 Arne Moltis,Governor,,DEM,Mercer,Precinct 2,11
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 2,78
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 2,70
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 2,70
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 2,63
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 2,69
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 2,19
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 2,19
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 2,21
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 2,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 2,31
@@ -95,18 +95,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 2,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 2,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 2,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 2,
-Mitt Romney,President ,,REP,Mercer,Precinct 3,42
-Ron Paul,President ,,REP,Mercer,Precinct 3,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 3,0
-Rick Santorum,President ,,REP,Mercer,Precinct 3,4
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 3,0
+Mitt Romney,President,,REP,Mercer,Precinct 3,42
+Ron Paul,President,,REP,Mercer,Precinct 3,4
+Newt Gingrich,President,,REP,Mercer,Precinct 3,0
+Rick Santorum,President,,REP,Mercer,Precinct 3,4
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 3,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 3,43
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 3,14
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 3,3
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 3,23
 Ralph William Clark,Governor,,REP,Mercer,Precinct 3,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 3,38
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 3,38
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 3,38
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 3,36
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 3,15
 Mike Hall,Treasurer,,REP,Mercer,Precinct 3,21
@@ -114,18 +114,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 3,36
 Bill Cole,State Senate,6,REP,Mercer,Precinct 3,39
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 3,20
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 3,37
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 3,32
-Barack Obama,President ,,DEM,Mercer,Precinct 3,34
-Keith Judd,President ,,DEM,Mercer,Precinct 3,55
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 3,32
+Barack Obama,President,,DEM,Mercer,Precinct 3,34
+Keith Judd,President,,DEM,Mercer,Precinct 3,55
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 3,87
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 3,15
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 3,87
 Arne Moltis,Governor,,DEM,Mercer,Precinct 3,13
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 3,90
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 3,82
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 3,82
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 3,81
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 3,86
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 3,27
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 3,27
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 3,20
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 3,6
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 3,32
@@ -143,18 +143,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 3,59
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 3,56
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 3,38
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 3,39
-Mitt Romney,President ,,REP,Mercer,Precinct 4,30
-Ron Paul,President ,,REP,Mercer,Precinct 4,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 4,2
-Rick Santorum,President ,,REP,Mercer,Precinct 4,4
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 4,0
+Mitt Romney,President,,REP,Mercer,Precinct 4,30
+Ron Paul,President,,REP,Mercer,Precinct 4,3
+Newt Gingrich,President,,REP,Mercer,Precinct 4,2
+Rick Santorum,President,,REP,Mercer,Precinct 4,4
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 4,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 4,34
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 4,13
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 4,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 4,15
 Ralph William Clark,Governor,,REP,Mercer,Precinct 4,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 4,29
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 4,29
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 4,29
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 4,31
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 4,13
 Mike Hall,Treasurer,,REP,Mercer,Precinct 4,18
@@ -162,18 +162,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 4,32
 Bill Cole,State Senate,6,REP,Mercer,Precinct 4,38
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 4,22
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 4,29
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 4,34
-Barack Obama,President ,,DEM,Mercer,Precinct 4,38
-Keith Judd,President ,,DEM,Mercer,Precinct 4,50
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 4,34
+Barack Obama,President,,DEM,Mercer,Precinct 4,38
+Keith Judd,President,,DEM,Mercer,Precinct 4,50
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 4,88
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 4,12
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 4,86
 Arne Moltis,Governor,,DEM,Mercer,Precinct 4,18
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 4,82
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 4,82
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 4,82
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 4,88
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 4,93
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 4,22
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 4,22
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 4,17
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 4,15
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 4,35
@@ -191,18 +191,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 4,60
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 4,35
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 4,44
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 4,53
-Mitt Romney,President ,,REP,Mercer,Precinct 5,18
-Ron Paul,President ,,REP,Mercer,Precinct 5,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 5,3
-Rick Santorum,President ,,REP,Mercer,Precinct 5,4
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 5,0
+Mitt Romney,President,,REP,Mercer,Precinct 5,18
+Ron Paul,President,,REP,Mercer,Precinct 5,2
+Newt Gingrich,President,,REP,Mercer,Precinct 5,3
+Rick Santorum,President,,REP,Mercer,Precinct 5,4
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 5,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 5,20
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 5,6
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 5,3
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 5,15
 Ralph William Clark,Governor,,REP,Mercer,Precinct 5,4
 Bill Maloney,Governor,,REP,Mercer,Precinct 5,21
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 5,17
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 5,17
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 5,21
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 5,11
 Mike Hall,Treasurer,,REP,Mercer,Precinct 5,12
@@ -210,18 +210,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 5,22
 Bill Cole,State Senate,6,REP,Mercer,Precinct 5,26
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 5,14
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 5,21
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 5,20
-Barack Obama,President ,,DEM,Mercer,Precinct 5,29
-Keith Judd,President ,,DEM,Mercer,Precinct 5,30
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 5,20
+Barack Obama,President,,DEM,Mercer,Precinct 5,29
+Keith Judd,President,,DEM,Mercer,Precinct 5,30
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 5,54
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 5,20
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 5,54
 Arne Moltis,Governor,,DEM,Mercer,Precinct 5,10
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 5,62
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 5,60
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 5,60
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 5,58
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 5,62
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 5,25
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 5,25
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 5,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 5,7
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 5,16
@@ -239,18 +239,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 5,47
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 5,28
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 5,26
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 5,40
-Mitt Romney,President ,,REP,Mercer,Precinct 14,1
-Ron Paul,President ,,REP,Mercer,Precinct 14,0
-Newt Gingrich,President ,,REP,Mercer,Precinct 14,0
-Rick Santorum,President ,,REP,Mercer,Precinct 14,1
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 14,1
+Mitt Romney,President,,REP,Mercer,Precinct 14,1
+Ron Paul,President,,REP,Mercer,Precinct 14,0
+Newt Gingrich,President,,REP,Mercer,Precinct 14,0
+Rick Santorum,President,,REP,Mercer,Precinct 14,1
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 14,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 14,4
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 14,0
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 14,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 14,3
 Ralph William Clark,Governor,,REP,Mercer,Precinct 14,1
 Bill Maloney,Governor,,REP,Mercer,Precinct 14,3
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 14,3
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 14,3
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 14,4
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 14,2
 Mike Hall,Treasurer,,REP,Mercer,Precinct 14,2
@@ -258,18 +258,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 14,4
 Bill Cole,State Senate,6,REP,Mercer,Precinct 14,3
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 14,2
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 14,1
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 14,1
-Barack Obama,President ,,DEM,Mercer,Precinct 14,102
-Keith Judd,President ,,DEM,Mercer,Precinct 14,5
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 14,1
+Barack Obama,President,,DEM,Mercer,Precinct 14,102
+Keith Judd,President,,DEM,Mercer,Precinct 14,5
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 14,62
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 14,31
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 14,99
 Arne Moltis,Governor,,DEM,Mercer,Precinct 14,15
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 14,84
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 14,76
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 14,76
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 14,74
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 14,78
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 14,36
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 14,36
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 14,15
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 14,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 14,5
@@ -287,18 +287,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 14,60
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 14,20
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 14,44
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 14,55
-Mitt Romney,President ,,REP,Mercer,Precinct 15,14
-Ron Paul,President ,,REP,Mercer,Precinct 15,0
-Newt Gingrich,President ,,REP,Mercer,Precinct 15,2
-Rick Santorum,President ,,REP,Mercer,Precinct 15,1
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 15,0
+Mitt Romney,President,,REP,Mercer,Precinct 15,14
+Ron Paul,President,,REP,Mercer,Precinct 15,0
+Newt Gingrich,President,,REP,Mercer,Precinct 15,2
+Rick Santorum,President,,REP,Mercer,Precinct 15,1
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 15,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 15,16
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 15,5
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 15,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 15,8
 Ralph William Clark,Governor,,REP,Mercer,Precinct 15,2
 Bill Maloney,Governor,,REP,Mercer,Precinct 15,16
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 15,13
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 15,13
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 15,12
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 15,4
 Mike Hall,Treasurer,,REP,Mercer,Precinct 15,10
@@ -306,18 +306,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 15,14
 Bill Cole,State Senate,6,REP,Mercer,Precinct 15,13
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 15,11
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 15,12
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 15,12
-Barack Obama,President ,,DEM,Mercer,Precinct 15,35
-Keith Judd,President ,,DEM,Mercer,Precinct 15,16
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 15,12
+Barack Obama,President,,DEM,Mercer,Precinct 15,35
+Keith Judd,President,,DEM,Mercer,Precinct 15,16
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 15,44
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 15,9
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 15,51
 Arne Moltis,Governor,,DEM,Mercer,Precinct 15,5
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 15,48
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 15,46
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 15,46
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 15,46
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 15,46
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 15,21
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 15,21
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 15,10
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 15,5
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 15,9
@@ -335,18 +335,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 15,44
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 15,14
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 15,16
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 15,24
-Mitt Romney,President ,,REP,Mercer,Precinct 20,22
-Ron Paul,President ,,REP,Mercer,Precinct 20,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 20,1
-Rick Santorum,President ,,REP,Mercer,Precinct 20,2
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 20,0
+Mitt Romney,President,,REP,Mercer,Precinct 20,22
+Ron Paul,President,,REP,Mercer,Precinct 20,2
+Newt Gingrich,President,,REP,Mercer,Precinct 20,1
+Rick Santorum,President,,REP,Mercer,Precinct 20,2
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 20,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 20,16
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 20,7
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 20,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 20,13
 Ralph William Clark,Governor,,REP,Mercer,Precinct 20,5
 Bill Maloney,Governor,,REP,Mercer,Precinct 20,19
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 20,22
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 20,22
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 20,22
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 20,9
 Mike Hall,Treasurer,,REP,Mercer,Precinct 20,13
@@ -354,18 +354,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 20,23
 Bill Cole,State Senate,6,REP,Mercer,Precinct 20,26
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 20,14
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 20,23
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 20,21
-Barack Obama,President ,,DEM,Mercer,Precinct 20,73
-Keith Judd,President ,,DEM,Mercer,Precinct 20,20
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 20,21
+Barack Obama,President,,DEM,Mercer,Precinct 20,73
+Keith Judd,President,,DEM,Mercer,Precinct 20,20
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 20,80
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 20,13
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 20,90
 Arne Moltis,Governor,,DEM,Mercer,Precinct 20,21
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 20,70
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 20,79
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 20,79
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 20,79
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 20,79
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 20,42
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 20,42
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 20,13
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 20,12
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 20,16
@@ -383,18 +383,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 20,54
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 20,19
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 20,38
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 20,58
-Mitt Romney,President ,,REP,Mercer,Precinct 27,41
-Ron Paul,President ,,REP,Mercer,Precinct 27,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 27,2
-Rick Santorum,President ,,REP,Mercer,Precinct 27,5
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 27,0
+Mitt Romney,President,,REP,Mercer,Precinct 27,41
+Ron Paul,President,,REP,Mercer,Precinct 27,3
+Newt Gingrich,President,,REP,Mercer,Precinct 27,2
+Rick Santorum,President,,REP,Mercer,Precinct 27,5
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 27,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 27,43
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 27,9
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 27,7
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 27,31
 Ralph William Clark,Governor,,REP,Mercer,Precinct 27,4
 Bill Maloney,Governor,,REP,Mercer,Precinct 27,40
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 27,37
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 27,37
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 27,36
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 27,16
 Mike Hall,Treasurer,,REP,Mercer,Precinct 27,21
@@ -402,18 +402,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 27,33
 Bill Cole,State Senate,6,REP,Mercer,Precinct 27,43
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 27,28
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 27,38
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 27,41
-Barack Obama,President ,,DEM,Mercer,Precinct 27,33
-Keith Judd,President ,,DEM,Mercer,Precinct 27,30
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 27,41
+Barack Obama,President,,DEM,Mercer,Precinct 27,33
+Keith Judd,President,,DEM,Mercer,Precinct 27,30
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 27,58
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 27,16
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 27,55
 Arne Moltis,Governor,,DEM,Mercer,Precinct 27,18
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 27,55
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 27,61
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 27,61
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 27,64
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 27,57
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 27,22
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 27,22
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 27,7
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 27,6
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 27,26
@@ -431,18 +431,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 27,39
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 27,17
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 27,33
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 27,44
-Mitt Romney,President ,,REP,Mercer,Precinct 28,59
-Ron Paul,President ,,REP,Mercer,Precinct 28,6
-Newt Gingrich,President ,,REP,Mercer,Precinct 28,6
-Rick Santorum,President ,,REP,Mercer,Precinct 28,5
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 28,0
+Mitt Romney,President,,REP,Mercer,Precinct 28,59
+Ron Paul,President,,REP,Mercer,Precinct 28,6
+Newt Gingrich,President,,REP,Mercer,Precinct 28,6
+Rick Santorum,President,,REP,Mercer,Precinct 28,5
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 28,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 28,62
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 28,26
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 28,5
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 28,32
 Ralph William Clark,Governor,,REP,Mercer,Precinct 28,15
 Bill Maloney,Governor,,REP,Mercer,Precinct 28,55
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 28,52
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 28,52
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 28,56
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 28,30
 Mike Hall,Treasurer,,REP,Mercer,Precinct 28,30
@@ -450,18 +450,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 28,54
 Bill Cole,State Senate,6,REP,Mercer,Precinct 28,70
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 28,36
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 28,51
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 28,52
-Barack Obama,President ,,DEM,Mercer,Precinct 28,78
-Keith Judd,President ,,DEM,Mercer,Precinct 28,37
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 28,52
+Barack Obama,President,,DEM,Mercer,Precinct 28,78
+Keith Judd,President,,DEM,Mercer,Precinct 28,37
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 28,103
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 28,24
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 28,100
 Arne Moltis,Governor,,DEM,Mercer,Precinct 28,25
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 28,100
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 28,105
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 28,105
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 28,104
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 28,106
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 28,30
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 28,30
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 28,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 28,16
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 28,43
@@ -479,18 +479,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 28,77
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 28,41
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 28,49
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 28,78
-Mitt Romney,President ,,REP,Mercer,Precinct 31,38
-Ron Paul,President ,,REP,Mercer,Precinct 31,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 31,2
-Rick Santorum,President ,,REP,Mercer,Precinct 31,7
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 31,2
+Mitt Romney,President,,REP,Mercer,Precinct 31,38
+Ron Paul,President,,REP,Mercer,Precinct 31,2
+Newt Gingrich,President,,REP,Mercer,Precinct 31,2
+Rick Santorum,President,,REP,Mercer,Precinct 31,7
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 31,2
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 31,40
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 31,13
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 31,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 31,27
 Ralph William Clark,Governor,,REP,Mercer,Precinct 31,9
 Bill Maloney,Governor,,REP,Mercer,Precinct 31,38
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 31,38
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 31,38
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 31,40
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 31,23
 Mike Hall,Treasurer,,REP,Mercer,Precinct 31,14
@@ -498,18 +498,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 31,37
 Bill Cole,State Senate,6,REP,Mercer,Precinct 31,44
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 31,25
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 31,41
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 31,37
-Barack Obama,President ,,DEM,Mercer,Precinct 31,56
-Keith Judd,President ,,DEM,Mercer,Precinct 31,30
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 31,37
+Barack Obama,President,,DEM,Mercer,Precinct 31,56
+Keith Judd,President,,DEM,Mercer,Precinct 31,30
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 31,71
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 31,26
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 31,76
 Arne Moltis,Governor,,DEM,Mercer,Precinct 31,17
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 31,81
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 31,76
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 31,76
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 31,77
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 31,79
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 31,27
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 31,27
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 31,13
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 31,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 31,29
@@ -527,18 +527,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 31,53
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 31,31
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 31,36
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 31,67
-Mitt Romney,President ,,REP,Mercer,Precinct 32,53
-Ron Paul,President ,,REP,Mercer,Precinct 32,7
-Newt Gingrich,President ,,REP,Mercer,Precinct 32,3
-Rick Santorum,President ,,REP,Mercer,Precinct 32,5
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 32,2
+Mitt Romney,President,,REP,Mercer,Precinct 32,53
+Ron Paul,President,,REP,Mercer,Precinct 32,7
+Newt Gingrich,President,,REP,Mercer,Precinct 32,3
+Rick Santorum,President,,REP,Mercer,Precinct 32,5
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 32,2
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 32,50
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 32,16
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 32,9
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 32,38
 Ralph William Clark,Governor,,REP,Mercer,Precinct 32,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 32,54
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 32,51
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 32,51
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 32,51
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 32,28
 Mike Hall,Treasurer,,REP,Mercer,Precinct 32,26
@@ -546,18 +546,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 32,52
 Bill Cole,State Senate,6,REP,Mercer,Precinct 32,62
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 32,16
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 32,42
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 32,65
-Barack Obama,President ,,DEM,Mercer,Precinct 32,47
-Keith Judd,President ,,DEM,Mercer,Precinct 32,40
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 32,65
+Barack Obama,President,,DEM,Mercer,Precinct 32,47
+Keith Judd,President,,DEM,Mercer,Precinct 32,40
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 32,92
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 32,14
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 32,86
 Arne Moltis,Governor,,DEM,Mercer,Precinct 32,18
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 32,82
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 32,78
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 32,78
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 32,80
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 32,80
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 32,30
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 32,30
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 32,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 32,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 32,22
@@ -575,18 +575,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 32,58
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 32,32
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 32,48
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 32,63
-Mitt Romney,President ,,REP,Mercer,Precinct 36,90
-Ron Paul,President ,,REP,Mercer,Precinct 36,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 36,5
-Rick Santorum,President ,,REP,Mercer,Precinct 36,9
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 36,2
+Mitt Romney,President,,REP,Mercer,Precinct 36,90
+Ron Paul,President,,REP,Mercer,Precinct 36,3
+Newt Gingrich,President,,REP,Mercer,Precinct 36,5
+Rick Santorum,President,,REP,Mercer,Precinct 36,9
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 36,2
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 36,86
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 36,21
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 36,5
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 36,68
 Ralph William Clark,Governor,,REP,Mercer,Precinct 36,16
 Bill Maloney,Governor,,REP,Mercer,Precinct 36,88
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 36,78
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 36,78
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 36,82
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 36,40
 Mike Hall,Treasurer,,REP,Mercer,Precinct 36,42
@@ -594,18 +594,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 36,80
 Bill Cole,State Senate,6,REP,Mercer,Precinct 36,104
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 36,50
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 36,82
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 36,88
-Barack Obama,President ,,DEM,Mercer,Precinct 36,76
-Keith Judd,President ,,DEM,Mercer,Precinct 36,74
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 36,88
+Barack Obama,President,,DEM,Mercer,Precinct 36,76
+Keith Judd,President,,DEM,Mercer,Precinct 36,74
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 36,168
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 36,27
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 36,147
 Arne Moltis,Governor,,DEM,Mercer,Precinct 36,31
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 36,158
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 36,148
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 36,148
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 36,151
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 36,143
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 36,45
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 36,45
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 36,42
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 36,11
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 36,52
@@ -623,18 +623,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 36,105
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 36,76
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 36,46
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 36,107
-Mitt Romney,President ,,REP,Mercer,Precinct 44,49
-Ron Paul,President ,,REP,Mercer,Precinct 44,6
-Newt Gingrich,President ,,REP,Mercer,Precinct 44,4
-Rick Santorum,President ,,REP,Mercer,Precinct 44,8
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 44,0
+Mitt Romney,President,,REP,Mercer,Precinct 44,49
+Ron Paul,President,,REP,Mercer,Precinct 44,6
+Newt Gingrich,President,,REP,Mercer,Precinct 44,4
+Rick Santorum,President,,REP,Mercer,Precinct 44,8
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 44,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 44,56
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 44,21
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 44,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 44,38
 Ralph William Clark,Governor,,REP,Mercer,Precinct 44,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 44,60
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 44,51
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 44,51
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 44,49
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 44,15
 Mike Hall,Treasurer,,REP,Mercer,Precinct 44,44
@@ -642,18 +642,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 44,48
 Bill Cole,State Senate,6,REP,Mercer,Precinct 44,60
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 44,44
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 44,31
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 44,33
-Barack Obama,President ,,DEM,Mercer,Precinct 44,51
-Keith Judd,President ,,DEM,Mercer,Precinct 44,57
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 44,33
+Barack Obama,President,,DEM,Mercer,Precinct 44,51
+Keith Judd,President,,DEM,Mercer,Precinct 44,57
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 44,109
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 44,20
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 44,109
 Arne Moltis,Governor,,DEM,Mercer,Precinct 44,15
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 44,114
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 44,96
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 44,96
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 44,89
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 44,94
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 44,30
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 44,30
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 44,27
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 44,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 44,37
@@ -671,18 +671,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 44,74
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 44,58
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 44,49
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 44,20
-Mitt Romney,President ,,REP,Mercer,Precinct 46,6
-Ron Paul,President ,,REP,Mercer,Precinct 46,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 46,0
-Rick Santorum,President ,,REP,Mercer,Precinct 46,0
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 46,0
+Mitt Romney,President,,REP,Mercer,Precinct 46,6
+Ron Paul,President,,REP,Mercer,Precinct 46,2
+Newt Gingrich,President,,REP,Mercer,Precinct 46,0
+Rick Santorum,President,,REP,Mercer,Precinct 46,0
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 46,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 46,4
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 46,2
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 46,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 46,6
 Ralph William Clark,Governor,,REP,Mercer,Precinct 46,2
 Bill Maloney,Governor,,REP,Mercer,Precinct 46,5
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 46,3
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 46,3
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 46,6
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 46,2
 Mike Hall,Treasurer,,REP,Mercer,Precinct 46,4
@@ -690,18 +690,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 46,5
 Bill Cole,State Senate,6,REP,Mercer,Precinct 46,6
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 46,5
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 46,1
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 46,3
-Barack Obama,President ,,DEM,Mercer,Precinct 46,27
-Keith Judd,President ,,DEM,Mercer,Precinct 46,26
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 46,3
+Barack Obama,President,,DEM,Mercer,Precinct 46,27
+Keith Judd,President,,DEM,Mercer,Precinct 46,26
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 46,53
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 46,9
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 46,55
 Arne Moltis,Governor,,DEM,Mercer,Precinct 46,9
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 46,51
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 46,36
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 46,36
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 46,42
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 46,41
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 46,12
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 46,12
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 46,14
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 46,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 46,19
@@ -719,18 +719,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 46,35
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 46,37
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 46,39
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 46,7
-Mitt Romney,President ,,REP,Mercer,Precinct 47,43
-Ron Paul,President ,,REP,Mercer,Precinct 47,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 47,3
-Rick Santorum,President ,,REP,Mercer,Precinct 47,3
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 47,0
+Mitt Romney,President,,REP,Mercer,Precinct 47,43
+Ron Paul,President,,REP,Mercer,Precinct 47,4
+Newt Gingrich,President,,REP,Mercer,Precinct 47,3
+Rick Santorum,President,,REP,Mercer,Precinct 47,3
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 47,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 47,43
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 47,10
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 47,4
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 47,32
 Ralph William Clark,Governor,,REP,Mercer,Precinct 47,9
 Bill Maloney,Governor,,REP,Mercer,Precinct 47,40
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 47,43
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 47,43
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 47,42
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 47,16
 Mike Hall,Treasurer,,REP,Mercer,Precinct 47,27
@@ -738,18 +738,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 47,39
 Bill Cole,State Senate,6,REP,Mercer,Precinct 47,42
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 47,35
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 47,35
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 47,31
-Barack Obama,President ,,DEM,Mercer,Precinct 47,26
-Keith Judd,President ,,DEM,Mercer,Precinct 47,38
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 47,31
+Barack Obama,President,,DEM,Mercer,Precinct 47,26
+Keith Judd,President,,DEM,Mercer,Precinct 47,38
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 47,66
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 47,15
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 47,60
 Arne Moltis,Governor,,DEM,Mercer,Precinct 47,12
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 47,68
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 47,60
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 47,60
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 47,54
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 47,60
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 47,12
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 47,12
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 47,18
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 47,4
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 47,25
@@ -767,18 +767,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 47,58
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 47,27
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 47,39
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 47,11
-Mitt Romney,President ,,REP,Mercer,Precinct 48,14
-Ron Paul,President ,,REP,Mercer,Precinct 48,0
-Newt Gingrich,President ,,REP,Mercer,Precinct 48,0
-Rick Santorum,President ,,REP,Mercer,Precinct 48,1
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 48,0
+Mitt Romney,President,,REP,Mercer,Precinct 48,14
+Ron Paul,President,,REP,Mercer,Precinct 48,0
+Newt Gingrich,President,,REP,Mercer,Precinct 48,0
+Rick Santorum,President,,REP,Mercer,Precinct 48,1
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 48,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 48,11
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 48,2
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 48,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 48,12
 Ralph William Clark,Governor,,REP,Mercer,Precinct 48,4
 Bill Maloney,Governor,,REP,Mercer,Precinct 48,10
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 48,11
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 48,11
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 48,10
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 48,2
 Mike Hall,Treasurer,,REP,Mercer,Precinct 48,7
@@ -786,18 +786,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 48,9
 Bill Cole,State Senate,6,REP,Mercer,Precinct 48,14
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 48,7
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 48,7
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 48,5
-Barack Obama,President ,,DEM,Mercer,Precinct 48,10
-Keith Judd,President ,,DEM,Mercer,Precinct 48,8
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 48,5
+Barack Obama,President,,DEM,Mercer,Precinct 48,10
+Keith Judd,President,,DEM,Mercer,Precinct 48,8
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 48,19
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 48,7
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 48,16
 Arne Moltis,Governor,,DEM,Mercer,Precinct 48,2
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 48,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 48,11
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 48,11
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 48,11
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 48,11
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 48,6
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 48,6
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 48,5
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 48,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 48,3
@@ -815,18 +815,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 48,14
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 48,9
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 48,4
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 48,3
-Mitt Romney,President ,,REP,Mercer,Precinct 49,23
-Ron Paul,President ,,REP,Mercer,Precinct 49,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 49,1
-Rick Santorum,President ,,REP,Mercer,Precinct 49,2
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 49,1
+Mitt Romney,President,,REP,Mercer,Precinct 49,23
+Ron Paul,President,,REP,Mercer,Precinct 49,2
+Newt Gingrich,President,,REP,Mercer,Precinct 49,1
+Rick Santorum,President,,REP,Mercer,Precinct 49,2
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 49,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 49,20
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 49,5
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 49,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 49,16
 Ralph William Clark,Governor,,REP,Mercer,Precinct 49,4
 Bill Maloney,Governor,,REP,Mercer,Precinct 49,18
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 49,15
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 49,15
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 49,14
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 49,5
 Mike Hall,Treasurer,,REP,Mercer,Precinct 49,12
@@ -834,18 +834,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 49,17
 Bill Cole,State Senate,6,REP,Mercer,Precinct 49,21
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 49,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 49,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 49,
-Barack Obama,President ,,DEM,Mercer,Precinct 49,20
-Keith Judd,President ,,DEM,Mercer,Precinct 49,51
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 49,
+Barack Obama,President,,DEM,Mercer,Precinct 49,20
+Keith Judd,President,,DEM,Mercer,Precinct 49,51
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 49,70
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 49,14
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 49,58
 Arne Moltis,Governor,,DEM,Mercer,Precinct 49,11
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 49,69
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 49,54
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 49,54
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 49,61
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 49,60
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 49,22
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 49,22
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 49,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 49,5
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 49,23
@@ -863,18 +863,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 49,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 49,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 49,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 49,
-Mitt Romney,President ,,REP,Mercer,Precinct 52,14
-Ron Paul,President ,,REP,Mercer,Precinct 52,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 52,3
-Rick Santorum,President ,,REP,Mercer,Precinct 52,7
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 52,0
+Mitt Romney,President,,REP,Mercer,Precinct 52,14
+Ron Paul,President,,REP,Mercer,Precinct 52,3
+Newt Gingrich,President,,REP,Mercer,Precinct 52,3
+Rick Santorum,President,,REP,Mercer,Precinct 52,7
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 52,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 52,22
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 52,4
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 52,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 52,19
 Ralph William Clark,Governor,,REP,Mercer,Precinct 52,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 52,18
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 52,21
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 52,21
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 52,21
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 52,14
 Mike Hall,Treasurer,,REP,Mercer,Precinct 52,10
@@ -882,18 +882,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 52,22
 Bill Cole,State Senate,6,REP,Mercer,Precinct 52,22
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 52,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 52,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 52,
-Barack Obama,President ,,DEM,Mercer,Precinct 52,20
-Keith Judd,President ,,DEM,Mercer,Precinct 52,33
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 52,
+Barack Obama,President,,DEM,Mercer,Precinct 52,20
+Keith Judd,President,,DEM,Mercer,Precinct 52,33
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 52,49
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 52,12
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 52,50
 Arne Moltis,Governor,,DEM,Mercer,Precinct 52,15
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 52,46
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 52,48
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 52,48
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 52,46
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 52,48
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 52,19
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 52,19
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 52,8
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 52,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 52,19
@@ -911,18 +911,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 52,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 52,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 52,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 52,
-Mitt Romney,President ,,REP,Mercer,Precinct 53,34
-Ron Paul,President ,,REP,Mercer,Precinct 53,8
-Newt Gingrich,President ,,REP,Mercer,Precinct 53,1
-Rick Santorum,President ,,REP,Mercer,Precinct 53,4
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 53,1
+Mitt Romney,President,,REP,Mercer,Precinct 53,34
+Ron Paul,President,,REP,Mercer,Precinct 53,8
+Newt Gingrich,President,,REP,Mercer,Precinct 53,1
+Rick Santorum,President,,REP,Mercer,Precinct 53,4
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 53,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 53,31
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 53,17
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 53,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 53,24
 Ralph William Clark,Governor,,REP,Mercer,Precinct 53,12
 Bill Maloney,Governor,,REP,Mercer,Precinct 53,33
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 53,33
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 53,33
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 53,38
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 53,16
 Mike Hall,Treasurer,,REP,Mercer,Precinct 53,23
@@ -930,18 +930,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 53,33
 Bill Cole,State Senate,6,REP,Mercer,Precinct 53,40
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 53,36
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 53,27
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 53,25
-Barack Obama,President ,,DEM,Mercer,Precinct 53,20
-Keith Judd,President ,,DEM,Mercer,Precinct 53,55
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 53,25
+Barack Obama,President,,DEM,Mercer,Precinct 53,20
+Keith Judd,President,,DEM,Mercer,Precinct 53,55
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 53,68
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 53,19
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 53,57
 Arne Moltis,Governor,,DEM,Mercer,Precinct 53,18
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 53,69
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 53,61
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 53,61
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 53,60
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 53,64
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 53,25
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 53,25
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 53,19
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 53,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 53,24
@@ -959,18 +959,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 53,48
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 53,46
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 53,44
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 53,11
-Mitt Romney,President ,,REP,Mercer,Precinct 54,38
-Ron Paul,President ,,REP,Mercer,Precinct 54,9
-Newt Gingrich,President ,,REP,Mercer,Precinct 54,4
-Rick Santorum,President ,,REP,Mercer,Precinct 54,6
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 54,0
+Mitt Romney,President,,REP,Mercer,Precinct 54,38
+Ron Paul,President,,REP,Mercer,Precinct 54,9
+Newt Gingrich,President,,REP,Mercer,Precinct 54,4
+Rick Santorum,President,,REP,Mercer,Precinct 54,6
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 54,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 54,39
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 54,27
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 54,4
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 54,22
 Ralph William Clark,Governor,,REP,Mercer,Precinct 54,12
 Bill Maloney,Governor,,REP,Mercer,Precinct 54,41
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 54,51
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 54,51
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 54,47
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 54,23
 Mike Hall,Treasurer,,REP,Mercer,Precinct 54,28
@@ -978,18 +978,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 54,43
 Bill Cole,State Senate,6,REP,Mercer,Precinct 54,49
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 54,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 54,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 54,
-Barack Obama,President ,,DEM,Mercer,Precinct 54,16
-Keith Judd,President ,,DEM,Mercer,Precinct 54,51
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 54,
+Barack Obama,President,,DEM,Mercer,Precinct 54,16
+Keith Judd,President,,DEM,Mercer,Precinct 54,51
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 54,63
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 54,17
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 54,60
 Arne Moltis,Governor,,DEM,Mercer,Precinct 54,21
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 54,57
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 54,57
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 54,57
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 54,56
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 54,55
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 54,21
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 54,21
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 54,16
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 54,11
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 54,16
@@ -1007,18 +1007,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 54,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 54,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 54,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 54,
-Mitt Romney,President ,,REP,Mercer,Precinct 55,22
-Ron Paul,President ,,REP,Mercer,Precinct 55,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 55,1
-Rick Santorum,President ,,REP,Mercer,Precinct 55,7
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 55,0
+Mitt Romney,President,,REP,Mercer,Precinct 55,22
+Ron Paul,President,,REP,Mercer,Precinct 55,3
+Newt Gingrich,President,,REP,Mercer,Precinct 55,1
+Rick Santorum,President,,REP,Mercer,Precinct 55,7
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 55,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 55,25
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 55,10
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 55,3
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 55,18
 Ralph William Clark,Governor,,REP,Mercer,Precinct 55,9
 Bill Maloney,Governor,,REP,Mercer,Precinct 55,22
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 55,27
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 55,27
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 55,28
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 55,10
 Mike Hall,Treasurer,,REP,Mercer,Precinct 55,16
@@ -1026,18 +1026,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 55,26
 Bill Cole,State Senate,6,REP,Mercer,Precinct 55,27
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 55,25
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 55,18
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 55,21
-Barack Obama,President ,,DEM,Mercer,Precinct 55,14
-Keith Judd,President ,,DEM,Mercer,Precinct 55,45
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 55,21
+Barack Obama,President,,DEM,Mercer,Precinct 55,14
+Keith Judd,President,,DEM,Mercer,Precinct 55,45
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 55,55
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 55,15
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 55,54
 Arne Moltis,Governor,,DEM,Mercer,Precinct 55,14
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 55,54
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 55,53
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 55,53
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 55,45
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 55,53
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 55,14
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 55,14
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 55,19
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 55,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 55,15
@@ -1055,18 +1055,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 55,39
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 55,56
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 55,26
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 55,7
-Mitt Romney,President ,,REP,Mercer,Precinct 56,33
-Ron Paul,President ,,REP,Mercer,Precinct 56,7
-Newt Gingrich,President ,,REP,Mercer,Precinct 56,3
-Rick Santorum,President ,,REP,Mercer,Precinct 56,8
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 56,1
+Mitt Romney,President,,REP,Mercer,Precinct 56,33
+Ron Paul,President,,REP,Mercer,Precinct 56,7
+Newt Gingrich,President,,REP,Mercer,Precinct 56,3
+Rick Santorum,President,,REP,Mercer,Precinct 56,8
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 56,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 56,39
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 56,12
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 56,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 56,35
 Ralph William Clark,Governor,,REP,Mercer,Precinct 56,12
 Bill Maloney,Governor,,REP,Mercer,Precinct 56,36
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 56,44
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 56,44
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 56,42
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 56,15
 Mike Hall,Treasurer,,REP,Mercer,Precinct 56,27
@@ -1074,18 +1074,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 56,43
 Bill Cole,State Senate,6,REP,Mercer,Precinct 56,47
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 56,35
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 56,39
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 56,35
-Barack Obama,President ,,DEM,Mercer,Precinct 56,60
-Keith Judd,President ,,DEM,Mercer,Precinct 56,18
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 56,35
+Barack Obama,President,,DEM,Mercer,Precinct 56,60
+Keith Judd,President,,DEM,Mercer,Precinct 56,18
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 56,54
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 56,24
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 56,71
 Arne Moltis,Governor,,DEM,Mercer,Precinct 56,14
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 56,65
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 56,72
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 56,72
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 56,64
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 56,67
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 56,29
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 56,29
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 56,12
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 56,3
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 56,26
@@ -1103,18 +1103,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 56,35
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 56,12
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 56,30
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 56,18
-Mitt Romney,President ,,REP,Mercer,Precinct 57,37
-Ron Paul,President ,,REP,Mercer,Precinct 57,21
-Newt Gingrich,President ,,REP,Mercer,Precinct 57,9
-Rick Santorum,President ,,REP,Mercer,Precinct 57,5
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 57,2
+Mitt Romney,President,,REP,Mercer,Precinct 57,37
+Ron Paul,President,,REP,Mercer,Precinct 57,21
+Newt Gingrich,President,,REP,Mercer,Precinct 57,9
+Rick Santorum,President,,REP,Mercer,Precinct 57,5
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 57,2
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 57,59
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 57,30
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 57,4
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 57,32
 Ralph William Clark,Governor,,REP,Mercer,Precinct 57,18
 Bill Maloney,Governor,,REP,Mercer,Precinct 57,44
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 57,49
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 57,49
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 57,53
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 57,24
 Mike Hall,Treasurer,,REP,Mercer,Precinct 57,32
@@ -1122,18 +1122,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 57,49
 Bill Cole,State Senate,6,REP,Mercer,Precinct 57,62
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 57,53
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 57,41
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 57,40
-Barack Obama,President ,,DEM,Mercer,Precinct 57,114
-Keith Judd,President ,,DEM,Mercer,Precinct 57,41
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 57,40
+Barack Obama,President,,DEM,Mercer,Precinct 57,114
+Keith Judd,President,,DEM,Mercer,Precinct 57,41
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 57,126
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 57,54
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 57,145
 Arne Moltis,Governor,,DEM,Mercer,Precinct 57,42
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 57,127
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 57,143
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 57,143
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 57,141
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 57,140
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 57,46
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 57,46
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 57,20
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 57,22
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 57,53
@@ -1151,18 +1151,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 57,82
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 57,41
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 57,50
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 57,31
-Mitt Romney,President ,,REP,Mercer,Precinct 58,23
-Ron Paul,President ,,REP,Mercer,Precinct 58,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 58,2
-Rick Santorum,President ,,REP,Mercer,Precinct 58,3
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 58,0
+Mitt Romney,President,,REP,Mercer,Precinct 58,23
+Ron Paul,President,,REP,Mercer,Precinct 58,4
+Newt Gingrich,President,,REP,Mercer,Precinct 58,2
+Rick Santorum,President,,REP,Mercer,Precinct 58,3
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 58,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 58,25
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 58,10
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 58,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 58,18
 Ralph William Clark,Governor,,REP,Mercer,Precinct 58,9
 Bill Maloney,Governor,,REP,Mercer,Precinct 58,22
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 58,28
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 58,28
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 58,22
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 58,7
 Mike Hall,Treasurer,,REP,Mercer,Precinct 58,19
@@ -1170,18 +1170,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 58,22
 Bill Cole,State Senate,6,REP,Mercer,Precinct 58,31
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 58,23
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 58,16
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 58,18
-Barack Obama,President ,,DEM,Mercer,Precinct 58,37
-Keith Judd,President ,,DEM,Mercer,Precinct 58,50
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 58,18
+Barack Obama,President,,DEM,Mercer,Precinct 58,37
+Keith Judd,President,,DEM,Mercer,Precinct 58,50
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 58,73
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 58,26
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 58,76
 Arne Moltis,Governor,,DEM,Mercer,Precinct 58,11
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 58,86
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 58,80
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 58,80
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 58,84
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 58,80
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 58,20
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 58,20
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 58,25
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 58,7
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 58,33
@@ -1199,18 +1199,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 58,50
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 58,67
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 58,48
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 58,12
-Mitt Romney,President ,,REP,Mercer,Precinct 59,30
-Ron Paul,President ,,REP,Mercer,Precinct 59,6
-Newt Gingrich,President ,,REP,Mercer,Precinct 59,3
-Rick Santorum,President ,,REP,Mercer,Precinct 59,6
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 59,0
+Mitt Romney,President,,REP,Mercer,Precinct 59,30
+Ron Paul,President,,REP,Mercer,Precinct 59,6
+Newt Gingrich,President,,REP,Mercer,Precinct 59,3
+Rick Santorum,President,,REP,Mercer,Precinct 59,6
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 59,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 59,37
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 59,8
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 59,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 59,25
 Ralph William Clark,Governor,,REP,Mercer,Precinct 59,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 59,29
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 59,29
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 59,29
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 59,32
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 59,15
 Mike Hall,Treasurer,,REP,Mercer,Precinct 59,18
@@ -1218,18 +1218,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 59,33
 Bill Cole,State Senate,6,REP,Mercer,Precinct 59,33
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 59,26
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 59,23
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 59,22
-Barack Obama,President ,,DEM,Mercer,Precinct 59,31
-Keith Judd,President ,,DEM,Mercer,Precinct 59,25
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 59,22
+Barack Obama,President,,DEM,Mercer,Precinct 59,31
+Keith Judd,President,,DEM,Mercer,Precinct 59,25
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 59,46
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 59,16
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 59,48
 Arne Moltis,Governor,,DEM,Mercer,Precinct 59,12
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 59,50
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 59,43
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 59,43
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 59,47
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 59,49
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 59,18
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 59,18
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 59,13
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 59,4
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 59,23
@@ -1247,18 +1247,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 59,23
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 59,15
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 59,28
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 59,14
-Mitt Romney,President ,,REP,Mercer,Precinct 60,4
-Ron Paul,President ,,REP,Mercer,Precinct 60,0
-Newt Gingrich,President ,,REP,Mercer,Precinct 60,6
-Rick Santorum,President ,,REP,Mercer,Precinct 60,1
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 60,0
+Mitt Romney,President,,REP,Mercer,Precinct 60,4
+Ron Paul,President,,REP,Mercer,Precinct 60,0
+Newt Gingrich,President,,REP,Mercer,Precinct 60,6
+Rick Santorum,President,,REP,Mercer,Precinct 60,1
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 60,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 60,10
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 60,5
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 60,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 60,4
 Ralph William Clark,Governor,,REP,Mercer,Precinct 60,4
 Bill Maloney,Governor,,REP,Mercer,Precinct 60,7
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 60,9
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 60,9
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 60,10
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 60,1
 Mike Hall,Treasurer,,REP,Mercer,Precinct 60,8
@@ -1266,18 +1266,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 60,11
 Bill Cole,State Senate,6,REP,Mercer,Precinct 60,10
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 60,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 60,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 60,
-Barack Obama,President ,,DEM,Mercer,Precinct 60,2
-Keith Judd,President ,,DEM,Mercer,Precinct 60,13
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 60,
+Barack Obama,President,,DEM,Mercer,Precinct 60,2
+Keith Judd,President,,DEM,Mercer,Precinct 60,13
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 60,16
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 60,2
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 60,18
 Arne Moltis,Governor,,DEM,Mercer,Precinct 60,3
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 60,16
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 60,16
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 60,16
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 60,15
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 60,15
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 60,5
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 60,5
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 60,2
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 60,1
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 60,7
@@ -1295,18 +1295,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 60,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 60,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 60,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 60,
-Mitt Romney,President ,,REP,Mercer,Precinct 62,88
-Ron Paul,President ,,REP,Mercer,Precinct 62,9
-Newt Gingrich,President ,,REP,Mercer,Precinct 62,7
-Rick Santorum,President ,,REP,Mercer,Precinct 62,23
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 62,1
+Mitt Romney,President,,REP,Mercer,Precinct 62,88
+Ron Paul,President,,REP,Mercer,Precinct 62,9
+Newt Gingrich,President,,REP,Mercer,Precinct 62,7
+Rick Santorum,President,,REP,Mercer,Precinct 62,23
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 62,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 62,107
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 62,29
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 62,7
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 62,78
 Ralph William Clark,Governor,,REP,Mercer,Precinct 62,19
 Bill Maloney,Governor,,REP,Mercer,Precinct 62,97
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 62,87
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 62,87
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 62,93
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 62,34
 Mike Hall,Treasurer,,REP,Mercer,Precinct 62,64
@@ -1314,18 +1314,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 62,96
 Bill Cole,State Senate,6,REP,Mercer,Precinct 62,96
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 62,91
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 62,71
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 62,73
-Barack Obama,President ,,DEM,Mercer,Precinct 62,62
-Keith Judd,President ,,DEM,Mercer,Precinct 62,90
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 62,73
+Barack Obama,President,,DEM,Mercer,Precinct 62,62
+Keith Judd,President,,DEM,Mercer,Precinct 62,90
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 62,141
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 62,34
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 62,132
 Arne Moltis,Governor,,DEM,Mercer,Precinct 62,40
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 62,126
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 62,128
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 62,128
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 62,125
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 62,129
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 62,49
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 62,49
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 62,26
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 62,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 62,46
@@ -1343,18 +1343,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 62,89
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 62,39
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 62,64
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 62,38
-Mitt Romney,President ,,REP,Mercer,Precinct 64,37
-Ron Paul,President ,,REP,Mercer,Precinct 64,8
-Newt Gingrich,President ,,REP,Mercer,Precinct 64,3
-Rick Santorum,President ,,REP,Mercer,Precinct 64,7
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 64,0
+Mitt Romney,President,,REP,Mercer,Precinct 64,37
+Ron Paul,President,,REP,Mercer,Precinct 64,8
+Newt Gingrich,President,,REP,Mercer,Precinct 64,3
+Rick Santorum,President,,REP,Mercer,Precinct 64,7
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 64,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 64,43
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 64,17
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 64,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 64,29
 Ralph William Clark,Governor,,REP,Mercer,Precinct 64,14
 Bill Maloney,Governor,,REP,Mercer,Precinct 64,36
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 64,43
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 64,43
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 64,40
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 64,12
 Mike Hall,Treasurer,,REP,Mercer,Precinct 64,32
@@ -1362,18 +1362,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 64,43
 Bill Cole,State Senate,6,REP,Mercer,Precinct 64,45
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 64,38
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 64,27
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 64,28
-Barack Obama,President ,,DEM,Mercer,Precinct 64,23
-Keith Judd,President ,,DEM,Mercer,Precinct 64,30
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 64,28
+Barack Obama,President,,DEM,Mercer,Precinct 64,23
+Keith Judd,President,,DEM,Mercer,Precinct 64,30
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 64,46
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 64,16
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 64,45
 Arne Moltis,Governor,,DEM,Mercer,Precinct 64,20
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 64,41
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 64,46
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 64,46
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 64,47
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 64,49
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 64,8
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 64,8
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 64,10
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 64,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 64,21
@@ -1391,18 +1391,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 64,31
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 64,22
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 64,25
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 64,13
-Mitt Romney,President ,,REP,Mercer,Precinct 65,94
-Ron Paul,President ,,REP,Mercer,Precinct 65,19
-Newt Gingrich,President ,,REP,Mercer,Precinct 65,11
-Rick Santorum,President ,,REP,Mercer,Precinct 65,22
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 65,0
+Mitt Romney,President,,REP,Mercer,Precinct 65,94
+Ron Paul,President,,REP,Mercer,Precinct 65,19
+Newt Gingrich,President,,REP,Mercer,Precinct 65,11
+Rick Santorum,President,,REP,Mercer,Precinct 65,22
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 65,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 65,118
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 65,31
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 65,7
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 65,92
 Ralph William Clark,Governor,,REP,Mercer,Precinct 65,22
 Bill Maloney,Governor,,REP,Mercer,Precinct 65,113
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 65,107
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 65,107
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 65,110
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 65,53
 Mike Hall,Treasurer,,REP,Mercer,Precinct 65,61
@@ -1410,18 +1410,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 65,109
 Bill Cole,State Senate,6,REP,Mercer,Precinct 65,114
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 65,101
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 65,84
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 65,89
-Barack Obama,President ,,DEM,Mercer,Precinct 65,99
-Keith Judd,President ,,DEM,Mercer,Precinct 65,136
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 65,89
+Barack Obama,President,,DEM,Mercer,Precinct 65,99
+Keith Judd,President,,DEM,Mercer,Precinct 65,136
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 65,229
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 65,56
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 65,227
 Arne Moltis,Governor,,DEM,Mercer,Precinct 65,55
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 65,223
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 65,222
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 65,222
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 65,220
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 65,228
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 65,68
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 65,68
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 65,59
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 65,21
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 65,80
@@ -1439,18 +1439,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 65,173
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 65,77
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 65,127
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 65,70
-Mitt Romney,President ,,REP,Mercer,Precinct 66,11
-Ron Paul,President ,,REP,Mercer,Precinct 66,0
-Newt Gingrich,President ,,REP,Mercer,Precinct 66,2
-Rick Santorum,President ,,REP,Mercer,Precinct 66,0
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 66,1
+Mitt Romney,President,,REP,Mercer,Precinct 66,11
+Ron Paul,President,,REP,Mercer,Precinct 66,0
+Newt Gingrich,President,,REP,Mercer,Precinct 66,2
+Rick Santorum,President,,REP,Mercer,Precinct 66,0
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 66,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 66,10
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 66,2
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 66,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 66,7
 Ralph William Clark,Governor,,REP,Mercer,Precinct 66,1
 Bill Maloney,Governor,,REP,Mercer,Precinct 66,12
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 66,9
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 66,9
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 66,9
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 66,5
 Mike Hall,Treasurer,,REP,Mercer,Precinct 66,7
@@ -1458,18 +1458,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 66,11
 Bill Cole,State Senate,6,REP,Mercer,Precinct 66,14
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 66,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 66,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 66,
-Barack Obama,President ,,DEM,Mercer,Precinct 66,17
-Keith Judd,President ,,DEM,Mercer,Precinct 66,11
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 66,
+Barack Obama,President,,DEM,Mercer,Precinct 66,17
+Keith Judd,President,,DEM,Mercer,Precinct 66,11
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 66,30
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 66,5
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 66,28
 Arne Moltis,Governor,,DEM,Mercer,Precinct 66,3
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 66,29
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 66,22
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 66,22
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 66,24
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 66,23
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 66,8
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 66,8
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 66,5
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 66,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 66,10
@@ -1487,18 +1487,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 66,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 66,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 66,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 66,
-Mitt Romney,President ,,REP,Mercer,Precinct 67,13
-Ron Paul,President ,,REP,Mercer,Precinct 67,1
-Newt Gingrich,President ,,REP,Mercer,Precinct 67,2
-Rick Santorum,President ,,REP,Mercer,Precinct 67,7
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 67,0
+Mitt Romney,President,,REP,Mercer,Precinct 67,13
+Ron Paul,President,,REP,Mercer,Precinct 67,1
+Newt Gingrich,President,,REP,Mercer,Precinct 67,2
+Rick Santorum,President,,REP,Mercer,Precinct 67,7
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 67,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 67,18
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 67,5
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 67,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 67,15
 Ralph William Clark,Governor,,REP,Mercer,Precinct 67,2
 Bill Maloney,Governor,,REP,Mercer,Precinct 67,20
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 67,18
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 67,18
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 67,16
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 67,9
 Mike Hall,Treasurer,,REP,Mercer,Precinct 67,10
@@ -1506,18 +1506,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 67,17
 Bill Cole,State Senate,6,REP,Mercer,Precinct 67,17
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 67,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 67,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 67,
-Barack Obama,President ,,DEM,Mercer,Precinct 67,37
-Keith Judd,President ,,DEM,Mercer,Precinct 67,27
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 67,
+Barack Obama,President,,DEM,Mercer,Precinct 67,37
+Keith Judd,President,,DEM,Mercer,Precinct 67,27
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 67,67
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 67,10
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 67,63
 Arne Moltis,Governor,,DEM,Mercer,Precinct 67,9
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 67,63
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 67,51
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 67,51
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 67,50
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 67,46
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 67,21
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 67,21
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 67,10
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 67,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 67,20
@@ -1535,18 +1535,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 67,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 67,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 67,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 67,
-Mitt Romney,President ,,REP,Mercer,Precinct 68,4
-Ron Paul,President ,,REP,Mercer,Precinct 68,0
-Newt Gingrich,President ,,REP,Mercer,Precinct 68,2
-Rick Santorum,President ,,REP,Mercer,Precinct 68,1
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 68,0
+Mitt Romney,President,,REP,Mercer,Precinct 68,4
+Ron Paul,President,,REP,Mercer,Precinct 68,0
+Newt Gingrich,President,,REP,Mercer,Precinct 68,2
+Rick Santorum,President,,REP,Mercer,Precinct 68,1
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 68,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 68,6
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 68,1
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 68,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 68,5
 Ralph William Clark,Governor,,REP,Mercer,Precinct 68,1
 Bill Maloney,Governor,,REP,Mercer,Precinct 68,5
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 68,5
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 68,5
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 68,5
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 68,2
 Mike Hall,Treasurer,,REP,Mercer,Precinct 68,3
@@ -1554,18 +1554,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 68,5
 Bill Cole,State Senate,6,REP,Mercer,Precinct 68,7
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 68,
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 68,
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 68,
-Barack Obama,President ,,DEM,Mercer,Precinct 68,11
-Keith Judd,President ,,DEM,Mercer,Precinct 68,16
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 68,
+Barack Obama,President,,DEM,Mercer,Precinct 68,11
+Keith Judd,President,,DEM,Mercer,Precinct 68,16
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 68,28
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 68,6
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 68,28
 Arne Moltis,Governor,,DEM,Mercer,Precinct 68,6
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 68,26
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 68,26
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 68,26
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 68,27
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 68,25
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 68,13
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 68,13
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 68,7
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 68,5
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 68,8
@@ -1583,18 +1583,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 68,
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 68,
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 68,
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 68,
-Mitt Romney,President ,,REP,Mercer,Precinct 69,20
-Ron Paul,President ,,REP,Mercer,Precinct 69,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 69,5
-Rick Santorum,President ,,REP,Mercer,Precinct 69,5
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 69,0
+Mitt Romney,President,,REP,Mercer,Precinct 69,20
+Ron Paul,President,,REP,Mercer,Precinct 69,2
+Newt Gingrich,President,,REP,Mercer,Precinct 69,5
+Rick Santorum,President,,REP,Mercer,Precinct 69,5
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 69,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 69,21
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 69,10
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 69,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 69,17
 Ralph William Clark,Governor,,REP,Mercer,Precinct 69,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 69,21
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 69,23
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 69,23
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 69,21
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 69,12
 Mike Hall,Treasurer,,REP,Mercer,Precinct 69,13
@@ -1602,18 +1602,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 69,23
 Bill Cole,State Senate,6,REP,Mercer,Precinct 69,30
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 69,19
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 69,19
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 69,24
-Barack Obama,President ,,DEM,Mercer,Precinct 69,28
-Keith Judd,President ,,DEM,Mercer,Precinct 69,66
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 69,24
+Barack Obama,President,,DEM,Mercer,Precinct 69,28
+Keith Judd,President,,DEM,Mercer,Precinct 69,66
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 69,101
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 69,22
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 69,99
 Arne Moltis,Governor,,DEM,Mercer,Precinct 69,16
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 69,103
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 69,91
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 69,91
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 69,94
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 69,90
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 69,29
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 69,29
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 69,21
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 69,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 69,43
@@ -1631,18 +1631,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 69,54
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 69,89
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 69,40
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 69,35
-Mitt Romney,President ,,REP,Mercer,Precinct 71,58
-Ron Paul,President ,,REP,Mercer,Precinct 71,6
-Newt Gingrich,President ,,REP,Mercer,Precinct 71,10
-Rick Santorum,President ,,REP,Mercer,Precinct 71,14
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 71,1
+Mitt Romney,President,,REP,Mercer,Precinct 71,58
+Ron Paul,President,,REP,Mercer,Precinct 71,6
+Newt Gingrich,President,,REP,Mercer,Precinct 71,10
+Rick Santorum,President,,REP,Mercer,Precinct 71,14
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 71,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 71,73
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 71,26
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 71,6
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 71,46
 Ralph William Clark,Governor,,REP,Mercer,Precinct 71,14
 Bill Maloney,Governor,,REP,Mercer,Precinct 71,71
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 71,64
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 71,64
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 71,65
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 71,33
 Mike Hall,Treasurer,,REP,Mercer,Precinct 71,34
@@ -1650,18 +1650,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 71,65
 Bill Cole,State Senate,6,REP,Mercer,Precinct 71,78
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 71,62
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 71,46
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 71,57
-Barack Obama,President ,,DEM,Mercer,Precinct 71,94
-Keith Judd,President ,,DEM,Mercer,Precinct 71,115
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 71,57
+Barack Obama,President,,DEM,Mercer,Precinct 71,94
+Keith Judd,President,,DEM,Mercer,Precinct 71,115
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 71,184
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 71,52
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 71,175
 Arne Moltis,Governor,,DEM,Mercer,Precinct 71,38
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 71,192
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 71,184
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 71,184
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 71,178
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 71,188
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 71,65
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 71,65
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 71,30
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 71,19
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 71,90
@@ -1679,18 +1679,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 71,150
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 71,87
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 71,117
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 71,70
-Mitt Romney,President ,,REP,Mercer,Precinct 72,36
-Ron Paul,President ,,REP,Mercer,Precinct 72,2
-Newt Gingrich,President ,,REP,Mercer,Precinct 72,6
-Rick Santorum,President ,,REP,Mercer,Precinct 72,3
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 72,0
+Mitt Romney,President,,REP,Mercer,Precinct 72,36
+Ron Paul,President,,REP,Mercer,Precinct 72,2
+Newt Gingrich,President,,REP,Mercer,Precinct 72,6
+Rick Santorum,President,,REP,Mercer,Precinct 72,3
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 72,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 72,39
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 72,11
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 72,0
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 72,26
 Ralph William Clark,Governor,,REP,Mercer,Precinct 72,6
 Bill Maloney,Governor,,REP,Mercer,Precinct 72,35
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 72,36
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 72,36
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 72,33
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 72,15
 Mike Hall,Treasurer,,REP,Mercer,Precinct 72,20
@@ -1698,18 +1698,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 72,33
 Bill Cole,State Senate,6,REP,Mercer,Precinct 72,34
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 72,28
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 72,31
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 72,30
-Barack Obama,President ,,DEM,Mercer,Precinct 72,34
-Keith Judd,President ,,DEM,Mercer,Precinct 72,54
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 72,30
+Barack Obama,President,,DEM,Mercer,Precinct 72,34
+Keith Judd,President,,DEM,Mercer,Precinct 72,54
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 72,86
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 72,22
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 72,93
 Arne Moltis,Governor,,DEM,Mercer,Precinct 72,21
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 72,87
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 72,91
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 72,91
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 72,89
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 72,89
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 72,23
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 72,23
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 72,24
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 72,4
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 72,36
@@ -1727,18 +1727,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 72,65
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 72,45
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 72,55
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 72,37
-Mitt Romney,President ,,REP,Mercer,Precinct 73,42
-Ron Paul,President ,,REP,Mercer,Precinct 73,5
-Newt Gingrich,President ,,REP,Mercer,Precinct 73,3
-Rick Santorum,President ,,REP,Mercer,Precinct 73,8
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 73,1
+Mitt Romney,President,,REP,Mercer,Precinct 73,42
+Ron Paul,President,,REP,Mercer,Precinct 73,5
+Newt Gingrich,President,,REP,Mercer,Precinct 73,3
+Rick Santorum,President,,REP,Mercer,Precinct 73,8
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 73,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 73,40
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 73,11
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 73,5
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 73,29
 Ralph William Clark,Governor,,REP,Mercer,Precinct 73,13
 Bill Maloney,Governor,,REP,Mercer,Precinct 73,37
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 73,45
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 73,45
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 73,42
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 73,22
 Mike Hall,Treasurer,,REP,Mercer,Precinct 73,23
@@ -1746,18 +1746,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 73,42
 Bill Cole,State Senate,6,REP,Mercer,Precinct 73,52
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 73,40
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 73,33
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 73,42
-Barack Obama,President ,,DEM,Mercer,Precinct 73,52
-Keith Judd,President ,,DEM,Mercer,Precinct 73,73
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 73,42
+Barack Obama,President,,DEM,Mercer,Precinct 73,52
+Keith Judd,President,,DEM,Mercer,Precinct 73,73
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 73,118
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 73,37
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 73,118
 Arne Moltis,Governor,,DEM,Mercer,Precinct 73,21
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 73,130
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 73,123
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 73,123
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 73,118
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 73,128
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 73,47
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 73,47
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 73,29
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 73,6
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 73,40
@@ -1775,18 +1775,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 73,96
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 73,59
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 73,69
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 73,42
-Mitt Romney,President ,,REP,Mercer,Precinct 74,69
-Ron Paul,President ,,REP,Mercer,Precinct 74,8
-Newt Gingrich,President ,,REP,Mercer,Precinct 74,4
-Rick Santorum,President ,,REP,Mercer,Precinct 74,13
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 74,1
+Mitt Romney,President,,REP,Mercer,Precinct 74,69
+Ron Paul,President,,REP,Mercer,Precinct 74,8
+Newt Gingrich,President,,REP,Mercer,Precinct 74,4
+Rick Santorum,President,,REP,Mercer,Precinct 74,13
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 74,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 74,76
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 74,24
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 74,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 74,58
 Ralph William Clark,Governor,,REP,Mercer,Precinct 74,17
 Bill Maloney,Governor,,REP,Mercer,Precinct 74,69
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 74,73
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 74,73
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 74,73
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 74,25
 Mike Hall,Treasurer,,REP,Mercer,Precinct 74,46
@@ -1794,18 +1794,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 74,71
 Bill Cole,State Senate,6,REP,Mercer,Precinct 74,82
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 74,60
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 74,66
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 74,65
-Barack Obama,President ,,DEM,Mercer,Precinct 74,94
-Keith Judd,President ,,DEM,Mercer,Precinct 74,81
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 74,65
+Barack Obama,President,,DEM,Mercer,Precinct 74,94
+Keith Judd,President,,DEM,Mercer,Precinct 74,81
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 74,166
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 74,41
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 74,164
 Arne Moltis,Governor,,DEM,Mercer,Precinct 74,35
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 74,165
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 74,172
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 74,172
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 74,167
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 74,168
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 74,64
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 74,64
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 74,31
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 74,14
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 74,65
@@ -1823,18 +1823,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 74,132
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 74,74
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 74,93
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 74,46
-Mitt Romney,President ,,REP,Mercer,Precinct 75,81
-Ron Paul,President ,,REP,Mercer,Precinct 75,6
-Newt Gingrich,President ,,REP,Mercer,Precinct 75,7
-Rick Santorum,President ,,REP,Mercer,Precinct 75,18
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 75,0
+Mitt Romney,President,,REP,Mercer,Precinct 75,81
+Ron Paul,President,,REP,Mercer,Precinct 75,6
+Newt Gingrich,President,,REP,Mercer,Precinct 75,7
+Rick Santorum,President,,REP,Mercer,Precinct 75,18
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 75,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 75,91
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 75,19
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 75,5
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 75,77
 Ralph William Clark,Governor,,REP,Mercer,Precinct 75,14
 Bill Maloney,Governor,,REP,Mercer,Precinct 75,90
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 75,91
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 75,91
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 75,92
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 75,51
 Mike Hall,Treasurer,,REP,Mercer,Precinct 75,41
@@ -1842,18 +1842,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 75,85
 Bill Cole,State Senate,6,REP,Mercer,Precinct 75,98
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 75,88
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 75,68
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 75,72
-Barack Obama,President ,,DEM,Mercer,Precinct 75,148
-Keith Judd,President ,,DEM,Mercer,Precinct 75,134
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 75,72
+Barack Obama,President,,DEM,Mercer,Precinct 75,148
+Keith Judd,President,,DEM,Mercer,Precinct 75,134
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 75,261
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 75,64
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 75,250
 Arne Moltis,Governor,,DEM,Mercer,Precinct 75,54
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 75,264
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 75,257
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 75,257
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 75,248
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 75,241
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 75,77
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 75,77
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 75,46
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 75,19
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 75,108
@@ -1871,18 +1871,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 75,205
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 75,99
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 75,142
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 75,69
-Mitt Romney,President ,,REP,Mercer,Precinct 78,35
-Ron Paul,President ,,REP,Mercer,Precinct 78,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 78,4
-Rick Santorum,President ,,REP,Mercer,Precinct 78,3
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 78,1
+Mitt Romney,President,,REP,Mercer,Precinct 78,35
+Ron Paul,President,,REP,Mercer,Precinct 78,3
+Newt Gingrich,President,,REP,Mercer,Precinct 78,4
+Rick Santorum,President,,REP,Mercer,Precinct 78,3
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 78,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 78,37
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 78,14
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 78,4
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 78,24
 Ralph William Clark,Governor,,REP,Mercer,Precinct 78,9
 Bill Maloney,Governor,,REP,Mercer,Precinct 78,35
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 78,37
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 78,37
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 78,35
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 78,19
 Mike Hall,Treasurer,,REP,Mercer,Precinct 78,19
@@ -1890,18 +1890,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 78,38
 Bill Cole,State Senate,6,REP,Mercer,Precinct 78,43
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 78,38
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 78,33
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 78,33
-Barack Obama,President ,,DEM,Mercer,Precinct 78,70
-Keith Judd,President ,,DEM,Mercer,Precinct 78,38
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 78,33
+Barack Obama,President,,DEM,Mercer,Precinct 78,70
+Keith Judd,President,,DEM,Mercer,Precinct 78,38
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 78,106
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 78,21
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 78,109
 Arne Moltis,Governor,,DEM,Mercer,Precinct 78,15
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 78,107
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 78,102
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 78,102
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 78,100
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 78,108
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 78,35
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 78,35
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 78,25
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 78,12
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 78,24
@@ -1919,18 +1919,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 78,82
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 78,42
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 78,62
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 78,23
-Mitt Romney,President ,,REP,Mercer,Precinct 79,51
-Ron Paul,President ,,REP,Mercer,Precinct 79,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 79,3
-Rick Santorum,President ,,REP,Mercer,Precinct 79,13
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 79,1
+Mitt Romney,President,,REP,Mercer,Precinct 79,51
+Ron Paul,President,,REP,Mercer,Precinct 79,4
+Newt Gingrich,President,,REP,Mercer,Precinct 79,3
+Rick Santorum,President,,REP,Mercer,Precinct 79,13
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 79,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 79,57
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 79,19
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 79,4
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 79,38
 Ralph William Clark,Governor,,REP,Mercer,Precinct 79,11
 Bill Maloney,Governor,,REP,Mercer,Precinct 79,50
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 79,50
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 79,50
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 79,51
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 79,26
 Mike Hall,Treasurer,,REP,Mercer,Precinct 79,29
@@ -1938,18 +1938,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 79,48
 Bill Cole,State Senate,6,REP,Mercer,Precinct 79,62
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 79,38
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 79,42
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 79,46
-Barack Obama,President ,,DEM,Mercer,Precinct 79,49
-Keith Judd,President ,,DEM,Mercer,Precinct 79,54
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 79,46
+Barack Obama,President,,DEM,Mercer,Precinct 79,49
+Keith Judd,President,,DEM,Mercer,Precinct 79,54
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 79,103
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 79,18
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 79,101
 Arne Moltis,Governor,,DEM,Mercer,Precinct 79,24
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 79,97
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 79,92
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 79,92
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 79,91
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 79,95
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 79,28
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 79,28
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 79,24
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 79,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 79,34
@@ -1967,18 +1967,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 79,84
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 79,38
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 79,48
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 79,54
-Mitt Romney,President ,,REP,Mercer,Precinct 80,36
-Ron Paul,President ,,REP,Mercer,Precinct 80,6
-Newt Gingrich,President ,,REP,Mercer,Precinct 80,3
-Rick Santorum,President ,,REP,Mercer,Precinct 80,9
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 80,0
+Mitt Romney,President,,REP,Mercer,Precinct 80,36
+Ron Paul,President,,REP,Mercer,Precinct 80,6
+Newt Gingrich,President,,REP,Mercer,Precinct 80,3
+Rick Santorum,President,,REP,Mercer,Precinct 80,9
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 80,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 80,44
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 80,10
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 80,3
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 80,34
 Ralph William Clark,Governor,,REP,Mercer,Precinct 80,10
 Bill Maloney,Governor,,REP,Mercer,Precinct 80,38
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 80,38
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 80,38
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 80,42
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 80,17
 Mike Hall,Treasurer,,REP,Mercer,Precinct 80,24
@@ -1986,18 +1986,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 80,39
 Bill Cole,State Senate,6,REP,Mercer,Precinct 80,43
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 80,35
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 80,32
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 80,34
-Barack Obama,President ,,DEM,Mercer,Precinct 80,72
-Keith Judd,President ,,DEM,Mercer,Precinct 80,55
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 80,34
+Barack Obama,President,,DEM,Mercer,Precinct 80,72
+Keith Judd,President,,DEM,Mercer,Precinct 80,55
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 80,106
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 80,35
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 80,117
 Arne Moltis,Governor,,DEM,Mercer,Precinct 80,31
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 80,111
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 80,114
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 80,114
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 80,111
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 80,114
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 80,32
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 80,32
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 80,28
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 80,10
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 80,44
@@ -2015,18 +2015,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 80,86
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 80,55
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 80,73
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 80,29
-Mitt Romney,President ,,REP,Mercer,Precinct 81,50
-Ron Paul,President ,,REP,Mercer,Precinct 81,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 81,8
-Rick Santorum,President ,,REP,Mercer,Precinct 81,3
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 81,0
+Mitt Romney,President,,REP,Mercer,Precinct 81,50
+Ron Paul,President,,REP,Mercer,Precinct 81,3
+Newt Gingrich,President,,REP,Mercer,Precinct 81,8
+Rick Santorum,President,,REP,Mercer,Precinct 81,3
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 81,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 81,50
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 81,17
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 81,4
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 81,34
 Ralph William Clark,Governor,,REP,Mercer,Precinct 81,14
 Bill Maloney,Governor,,REP,Mercer,Precinct 81,47
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 81,51
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 81,51
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 81,48
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 81,17
 Mike Hall,Treasurer,,REP,Mercer,Precinct 81,31
@@ -2034,18 +2034,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 81,43
 Bill Cole,State Senate,6,REP,Mercer,Precinct 81,54
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 81,52
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 81,45
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 81,46
-Barack Obama,President ,,DEM,Mercer,Precinct 81,64
-Keith Judd,President ,,DEM,Mercer,Precinct 81,53
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 81,46
+Barack Obama,President,,DEM,Mercer,Precinct 81,64
+Keith Judd,President,,DEM,Mercer,Precinct 81,53
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 81,112
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 81,24
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 81,103
 Arne Moltis,Governor,,DEM,Mercer,Precinct 81,20
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 81,106
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 81,110
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 81,110
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 81,98
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 81,108
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 81,41
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 81,41
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 81,23
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 81,9
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 81,32
@@ -2063,18 +2063,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 81,94
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 81,37
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 81,47
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 81,28
-Mitt Romney,President ,,REP,Mercer,Precinct 82,68
-Ron Paul,President ,,REP,Mercer,Precinct 82,1
-Newt Gingrich,President ,,REP,Mercer,Precinct 82,6
-Rick Santorum,President ,,REP,Mercer,Precinct 82,9
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 82,0
+Mitt Romney,President,,REP,Mercer,Precinct 82,68
+Ron Paul,President,,REP,Mercer,Precinct 82,1
+Newt Gingrich,President,,REP,Mercer,Precinct 82,6
+Rick Santorum,President,,REP,Mercer,Precinct 82,9
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 82,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 82,71
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 82,20
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 82,6
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 82,53
 Ralph William Clark,Governor,,REP,Mercer,Precinct 82,18
 Bill Maloney,Governor,,REP,Mercer,Precinct 82,63
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 82,70
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 82,70
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 82,64
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 82,39
 Mike Hall,Treasurer,,REP,Mercer,Precinct 82,29
@@ -2082,18 +2082,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 82,68
 Bill Cole,State Senate,6,REP,Mercer,Precinct 82,78
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 82,68
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 82,55
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 82,64
-Barack Obama,President ,,DEM,Mercer,Precinct 82,108
-Keith Judd,President ,,DEM,Mercer,Precinct 82,89
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 82,64
+Barack Obama,President,,DEM,Mercer,Precinct 82,108
+Keith Judd,President,,DEM,Mercer,Precinct 82,89
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 82,169
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 82,55
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 82,192
 Arne Moltis,Governor,,DEM,Mercer,Precinct 82,41
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 82,177
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 82,195
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 82,195
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 82,171
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 82,171
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 82,66
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 82,66
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 82,41
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 82,13
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 82,63
@@ -2111,18 +2111,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 82,151
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 82,63
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 82,91
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 82,58
-Mitt Romney,President ,,REP,Mercer,Precinct 85,10
-Ron Paul,President ,,REP,Mercer,Precinct 85,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 85,0
-Rick Santorum,President ,,REP,Mercer,Precinct 85,2
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 85,1
+Mitt Romney,President,,REP,Mercer,Precinct 85,10
+Ron Paul,President,,REP,Mercer,Precinct 85,4
+Newt Gingrich,President,,REP,Mercer,Precinct 85,0
+Rick Santorum,President,,REP,Mercer,Precinct 85,2
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 85,1
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 85,11
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 85,6
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 85,3
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 85,6
 Ralph William Clark,Governor,,REP,Mercer,Precinct 85,3
 Bill Maloney,Governor,,REP,Mercer,Precinct 85,12
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 85,11
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 85,11
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 85,13
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 85,10
 Mike Hall,Treasurer,,REP,Mercer,Precinct 85,4
@@ -2130,18 +2130,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 85,13
 Bill Cole,State Senate,6,REP,Mercer,Precinct 85,13
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 85,12
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 85,10
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 85,8
-Barack Obama,President ,,DEM,Mercer,Precinct 85,11
-Keith Judd,President ,,DEM,Mercer,Precinct 85,18
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 85,8
+Barack Obama,President,,DEM,Mercer,Precinct 85,11
+Keith Judd,President,,DEM,Mercer,Precinct 85,18
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 85,31
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 85,4
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 85,31
 Arne Moltis,Governor,,DEM,Mercer,Precinct 85,3
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 85,30
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 85,28
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 85,28
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 85,25
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 85,29
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 85,9
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 85,9
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 85,7
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 85,2
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 85,11
@@ -2159,18 +2159,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 85,21
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 85,15
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 85,21
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 85,9
-Mitt Romney,President ,,REP,Mercer,Precinct 86,44
-Ron Paul,President ,,REP,Mercer,Precinct 86,3
-Newt Gingrich,President ,,REP,Mercer,Precinct 86,3
-Rick Santorum,President ,,REP,Mercer,Precinct 86,15
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 86,0
+Mitt Romney,President,,REP,Mercer,Precinct 86,44
+Ron Paul,President,,REP,Mercer,Precinct 86,3
+Newt Gingrich,President,,REP,Mercer,Precinct 86,3
+Rick Santorum,President,,REP,Mercer,Precinct 86,15
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 86,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 86,56
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 86,15
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 86,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 86,44
 Ralph William Clark,Governor,,REP,Mercer,Precinct 86,9
 Bill Maloney,Governor,,REP,Mercer,Precinct 86,54
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 86,52
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 86,52
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 86,50
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 86,31
 Mike Hall,Treasurer,,REP,Mercer,Precinct 86,22
@@ -2178,18 +2178,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 86,56
 Bill Cole,State Senate,6,REP,Mercer,Precinct 86,56
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 86,53
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 86,38
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 86,40
-Barack Obama,President ,,DEM,Mercer,Precinct 86,90
-Keith Judd,President ,,DEM,Mercer,Precinct 86,80
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 86,40
+Barack Obama,President,,DEM,Mercer,Precinct 86,90
+Keith Judd,President,,DEM,Mercer,Precinct 86,80
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 86,159
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 86,30
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 86,162
 Arne Moltis,Governor,,DEM,Mercer,Precinct 86,26
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 86,157
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 86,142
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 86,142
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 86,145
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 86,147
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 86,42
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 86,42
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 86,38
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 86,12
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 86,50
@@ -2207,18 +2207,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 86,128
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 86,59
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 86,91
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 86,27
-Mitt Romney,President ,,REP,Mercer,Precinct 88,86
-Ron Paul,President ,,REP,Mercer,Precinct 88,5
-Newt Gingrich,President ,,REP,Mercer,Precinct 88,5
-Rick Santorum,President ,,REP,Mercer,Precinct 88,12
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 88,0
+Mitt Romney,President,,REP,Mercer,Precinct 88,86
+Ron Paul,President,,REP,Mercer,Precinct 88,5
+Newt Gingrich,President,,REP,Mercer,Precinct 88,5
+Rick Santorum,President,,REP,Mercer,Precinct 88,12
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 88,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 88,87
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 88,27
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 88,12
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 88,51
 Ralph William Clark,Governor,,REP,Mercer,Precinct 88,13
 Bill Maloney,Governor,,REP,Mercer,Precinct 88,86
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 88,85
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 88,85
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 88,89
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 88,47
 Mike Hall,Treasurer,,REP,Mercer,Precinct 88,44
@@ -2226,18 +2226,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 88,83
 Bill Cole,State Senate,6,REP,Mercer,Precinct 88,97
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 88,81
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 88,60
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 88,65
-Barack Obama,President ,,DEM,Mercer,Precinct 88,109
-Keith Judd,President ,,DEM,Mercer,Precinct 88,137
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 88,65
+Barack Obama,President,,DEM,Mercer,Precinct 88,109
+Keith Judd,President,,DEM,Mercer,Precinct 88,137
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 88,237
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 88,55
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 88,225
 Arne Moltis,Governor,,DEM,Mercer,Precinct 88,51
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 88,232
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 88,244
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 88,244
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 88,226
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 88,227
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 88,58
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 88,58
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 88,60
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 88,35
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 88,72
@@ -2255,18 +2255,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 88,179
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 88,107
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 88,135
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 88,40
-Mitt Romney,President ,,REP,Mercer,Precinct 89,19
-Ron Paul,President ,,REP,Mercer,Precinct 89,1
-Newt Gingrich,President ,,REP,Mercer,Precinct 89,1
-Rick Santorum,President ,,REP,Mercer,Precinct 89,2
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 89,0
+Mitt Romney,President,,REP,Mercer,Precinct 89,19
+Ron Paul,President,,REP,Mercer,Precinct 89,1
+Newt Gingrich,President,,REP,Mercer,Precinct 89,1
+Rick Santorum,President,,REP,Mercer,Precinct 89,2
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 89,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 89,12
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 89,1
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 89,5
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 89,12
 Ralph William Clark,Governor,,REP,Mercer,Precinct 89,4
 Bill Maloney,Governor,,REP,Mercer,Precinct 89,16
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 89,14
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 89,14
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 89,16
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 89,8
 Mike Hall,Treasurer,,REP,Mercer,Precinct 89,11
@@ -2274,18 +2274,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 89,16
 Bill Cole,State Senate,6,REP,Mercer,Precinct 89,18
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 89,15
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 89,16
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 89,11
-Barack Obama,President ,,DEM,Mercer,Precinct 89,24
-Keith Judd,President ,,DEM,Mercer,Precinct 89,26
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 89,11
+Barack Obama,President,,DEM,Mercer,Precinct 89,24
+Keith Judd,President,,DEM,Mercer,Precinct 89,26
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 89,48
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 89,9
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 89,50
 Arne Moltis,Governor,,DEM,Mercer,Precinct 89,7
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 89,45
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 89,42
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 89,42
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 89,41
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 89,41
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 89,14
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 89,14
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 89,5
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 89,7
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 89,15
@@ -2303,18 +2303,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 89,39
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 89,14
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 89,26
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 89,11
-Mitt Romney,President ,,REP,Mercer,Precinct 95,40
-Ron Paul,President ,,REP,Mercer,Precinct 95,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 95,1
-Rick Santorum,President ,,REP,Mercer,Precinct 95,8
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 95,0
+Mitt Romney,President,,REP,Mercer,Precinct 95,40
+Ron Paul,President,,REP,Mercer,Precinct 95,4
+Newt Gingrich,President,,REP,Mercer,Precinct 95,1
+Rick Santorum,President,,REP,Mercer,Precinct 95,8
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 95,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 95,38
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 95,14
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 95,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 95,26
 Ralph William Clark,Governor,,REP,Mercer,Precinct 95,7
 Bill Maloney,Governor,,REP,Mercer,Precinct 95,40
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 95,38
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 95,38
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 95,35
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 95,17
 Mike Hall,Treasurer,,REP,Mercer,Precinct 95,24
@@ -2322,18 +2322,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 95,38
 Bill Cole,State Senate,6,REP,Mercer,Precinct 95,45
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 95,38
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 95,31
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 95,29
-Barack Obama,President ,,DEM,Mercer,Precinct 95,37
-Keith Judd,President ,,DEM,Mercer,Precinct 95,43
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 95,29
+Barack Obama,President,,DEM,Mercer,Precinct 95,37
+Keith Judd,President,,DEM,Mercer,Precinct 95,43
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 95,79
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 95,18
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 95,83
 Arne Moltis,Governor,,DEM,Mercer,Precinct 95,10
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 95,83
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 95,76
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 95,76
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 95,74
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 95,74
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 95,21
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 95,21
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 95,17
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 95,8
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 95,30
@@ -2351,18 +2351,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 95,69
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 95,38
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 95,49
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 95,13
-Mitt Romney,President ,,REP,Mercer,Precinct 96,23
-Ron Paul,President ,,REP,Mercer,Precinct 96,5
-Newt Gingrich,President ,,REP,Mercer,Precinct 96,1
-Rick Santorum,President ,,REP,Mercer,Precinct 96,2
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 96,0
+Mitt Romney,President,,REP,Mercer,Precinct 96,23
+Ron Paul,President,,REP,Mercer,Precinct 96,5
+Newt Gingrich,President,,REP,Mercer,Precinct 96,1
+Rick Santorum,President,,REP,Mercer,Precinct 96,2
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 96,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 96,24
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 96,8
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 96,2
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 96,12
 Ralph William Clark,Governor,,REP,Mercer,Precinct 96,5
 Bill Maloney,Governor,,REP,Mercer,Precinct 96,20
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 96,18
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 96,18
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 96,19
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 96,9
 Mike Hall,Treasurer,,REP,Mercer,Precinct 96,11
@@ -2370,18 +2370,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 96,17
 Bill Cole,State Senate,6,REP,Mercer,Precinct 96,24
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 96,13
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 96,17
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 96,14
-Barack Obama,President ,,DEM,Mercer,Precinct 96,13
-Keith Judd,President ,,DEM,Mercer,Precinct 96,22
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 96,14
+Barack Obama,President,,DEM,Mercer,Precinct 96,13
+Keith Judd,President,,DEM,Mercer,Precinct 96,22
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 96,39
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 96,6
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 96,35
 Arne Moltis,Governor,,DEM,Mercer,Precinct 96,6
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 96,37
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 96,34
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 96,34
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 96,34
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 96,37
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 96,8
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 96,8
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 96,7
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 96,7
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 96,14
@@ -2399,18 +2399,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 96,24
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 96,23
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 96,15
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 96,7
-Mitt Romney,President ,,REP,Mercer,Precinct 98,52
-Ron Paul,President ,,REP,Mercer,Precinct 98,4
-Newt Gingrich,President ,,REP,Mercer,Precinct 98,1
-Rick Santorum,President ,,REP,Mercer,Precinct 98,2
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,Precinct 98,0
+Mitt Romney,President,,REP,Mercer,Precinct 98,52
+Ron Paul,President,,REP,Mercer,Precinct 98,4
+Newt Gingrich,President,,REP,Mercer,Precinct 98,1
+Rick Santorum,President,,REP,Mercer,Precinct 98,2
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,Precinct 98,0
 John R. Raese,U.S. Senate,,REP,Mercer,Precinct 98,50
 Bill Lester,U.S. House,3,REP,Mercer,Precinct 98,17
 Lee A. Bias,U.S. House,3,REP,Mercer,Precinct 98,1
 Rick Snuffer,U.S. House,3,REP,Mercer,Precinct 98,27
 Ralph William Clark,Governor,,REP,Mercer,Precinct 98,8
 Bill Maloney,Governor,,REP,Mercer,Precinct 98,42
-Brian Savilla,Secretary of State ,,REP,Mercer,Precinct 98,37
+Brian Savilla,Secretary of State,,REP,Mercer,Precinct 98,37
 Larry V. Faircloth,Auditor,,REP,Mercer,Precinct 98,40
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,Precinct 98,15
 Mike Hall,Treasurer,,REP,Mercer,Precinct 98,30
@@ -2418,18 +2418,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,Precinct 98,37
 Bill Cole,State Senate,6,REP,Mercer,Precinct 98,50
 Joe Ellington,House of Delegates,27,REP,Mercer,Precinct 98,44
 Marty Gearheart,House of Delegates,27,REP,Mercer,Precinct 98,36
-John H. Shott ,House of Delegates,27,REP,Mercer,Precinct 98,32
-Barack Obama,President ,,DEM,Mercer,Precinct 98,56
-Keith Judd,President ,,DEM,Mercer,Precinct 98,73
+John H. Shott,House of Delegates,27,REP,Mercer,Precinct 98,32
+Barack Obama,President,,DEM,Mercer,Precinct 98,56
+Keith Judd,President,,DEM,Mercer,Precinct 98,73
 Joe Manchin III,U.S. Senate,,DEM,Mercer,Precinct 98,112
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,Precinct 98,27
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,Precinct 98,105
 Arne Moltis,Governor,,DEM,Mercer,Precinct 98,29
 Earl Ray Tomblin,Governor,,DEM,Mercer,Precinct 98,112
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,Precinct 98,116
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,Precinct 98,116
 Glen B. Gainer III,Auditor,,DEM,Mercer,Precinct 98,102
 John D. Perdue,Treasurer,,DEM,Mercer,Precinct 98,110
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,Precinct 98,34
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,Precinct 98,34
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,Precinct 98,28
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,Precinct 98,11
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,Precinct 98,46
@@ -2447,18 +2447,18 @@ Ryan J. Flanigan,House of Delegates,27,DEM,Mercer,Precinct 98,82
 Stephen Akers,House of Delegates,27,DEM,Mercer,Precinct 98,37
 Billy Morefield,House of Delegates,27,DEM,Mercer,Precinct 98,71
 Pete Sternloff,House of Delegates,27,DEM,Mercer,Precinct 98,29
-Mitt Romney,President ,,REP,Mercer,TOTALS,1884
-Ron Paul,President ,,REP,Mercer,TOTALS,222
-Newt Gingrich,President ,,REP,Mercer,TOTALS,167
-Rick Santorum,President ,,REP,Mercer,TOTALS,315
-"Charles ""Buddy"" Roemer",President ,,REP,Mercer,TOTALS,20
+Mitt Romney,President,,REP,Mercer,TOTALS,1884
+Ron Paul,President,,REP,Mercer,TOTALS,222
+Newt Gingrich,President,,REP,Mercer,TOTALS,167
+Rick Santorum,President,,REP,Mercer,TOTALS,315
+"Charles ""Buddy"" Roemer",President,,REP,Mercer,TOTALS,20
 John R. Raese,U.S. Senate,,REP,Mercer,TOTALS,2054
 Bill Lester,U.S. House,3,REP,Mercer,TOTALS,661
 Lee A. Bias,U.S. House,3,REP,Mercer,TOTALS,145
 Rick Snuffer,U.S. House,3,REP,Mercer,TOTALS,1444
 Ralph William Clark,Governor,,REP,Mercer,TOTALS,450
 Bill Maloney,Governor,,REP,Mercer,TOTALS,1934
-Brian Savilla,Secretary of State ,,REP,Mercer,TOTALS,1935
+Brian Savilla,Secretary of State,,REP,Mercer,TOTALS,1935
 Larry V. Faircloth,Auditor,,REP,Mercer,TOTALS,1946
 "Stephen R. ""Steve"" Connolly",Treasurer,,REP,Mercer,TOTALS,908
 Mike Hall,Treasurer,,REP,Mercer,TOTALS,1135
@@ -2466,18 +2466,18 @@ Patrick Morrisey,Attorney General,,REP,Mercer,TOTALS,1925
 Bill Cole,State Senate,6,REP,Mercer,TOTALS,2226
 Joe Ellington,House of Delegates,27,REP,Mercer,TOTALS,1544
 Marty Gearheart,House of Delegates,27,REP,Mercer,TOTALS,1479
-John H. Shott ,House of Delegates,27,REP,Mercer,TOTALS,1549
-Barack Obama,President ,,DEM,Mercer,TOTALS,2494
-Keith Judd,President ,,DEM,Mercer,TOTALS,2468
+John H. Shott,House of Delegates,27,REP,Mercer,TOTALS,1549
+Barack Obama,President,,DEM,Mercer,TOTALS,2494
+Keith Judd,President,,DEM,Mercer,TOTALS,2468
 Joe Manchin III,U.S. Senate,,DEM,Mercer,TOTALS,4639
 Sheirl Fletcher,U.S. Senate,,DEM,Mercer,TOTALS,1137
 Nick J. Rahall II,U.S. House,3,DEM,Mercer,TOTALS,4633
 Arne Moltis,Governor,,DEM,Mercer,TOTALS,990
 Earl Ray Tomblin,Governor,,DEM,Mercer,TOTALS,4639
-Natalie E. Tennant,Secretary of State ,,DEM,Mercer,TOTALS,4522
+Natalie E. Tennant,Secretary of State,,DEM,Mercer,TOTALS,4522
 Glen B. Gainer III,Auditor,,DEM,Mercer,TOTALS,4406
 John D. Perdue,Treasurer,,DEM,Mercer,TOTALS,4500
-Sally Shepherd ,Commissioner of Agriculture,,DEM,Mercer,TOTALS,1492
+Sally Shepherd,Commissioner of Agriculture,,DEM,Mercer,TOTALS,1492
 Steve Miller,Commissioner of Agriculture,,DEM,Mercer,TOTALS,1026
 Joe Messineo,Commissioner of Agriculture,,DEM,Mercer,TOTALS,460
 Walt Helmick,Commissioner of Agriculture,,DEM,Mercer,TOTALS,1649

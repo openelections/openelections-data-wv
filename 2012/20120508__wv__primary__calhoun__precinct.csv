@@ -1,9 +1,9 @@
 candidate,office,district,party,county,precinct,votes
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 1,0
-Mitt Romney ,President ,,REP,Calhoun,Precinct 1,25
-Ron Paul,President ,,REP,Calhoun,Precinct 1,2
-Newt Gingrich,President ,,REP,Calhoun,Precinct 1,1
-Rick Santorum,President ,,REP,Calhoun,Precinct 1,0
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 1,0
+Mitt Romney,President,,REP,Calhoun,Precinct 1,25
+Ron Paul,President,,REP,Calhoun,Precinct 1,2
+Newt Gingrich,President,,REP,Calhoun,Precinct 1,1
+Rick Santorum,President,,REP,Calhoun,Precinct 1,0
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 1,23
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 1,2
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 1,28
@@ -18,15 +18,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 1,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 1,25
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 1,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 1,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 1,32
-Keith Judd,President ,,DEM,Calhoun,Precinct 1,38
+Barack Obama,President,,DEM,Calhoun,Precinct 1,32
+Keith Judd,President,,DEM,Calhoun,Precinct 1,38
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 1,15
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 1,63
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 1,11
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 1,35
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 1,16
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 1,60
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 1,17
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 1,17
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 1,64
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 1,70
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 1,60
@@ -39,11 +39,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 1,8
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 1,60
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 1,21
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 1,60
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 4,1
-Mitt Romney ,President ,,REP,Calhoun,Precinct 4,23
-Ron Paul,President ,,REP,Calhoun,Precinct 4,4
-Newt Gingrich,President ,,REP,Calhoun,Precinct 4,4
-Rick Santorum,President ,,REP,Calhoun,Precinct 4,2
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 4,1
+Mitt Romney,President,,REP,Calhoun,Precinct 4,23
+Ron Paul,President,,REP,Calhoun,Precinct 4,4
+Newt Gingrich,President,,REP,Calhoun,Precinct 4,4
+Rick Santorum,President,,REP,Calhoun,Precinct 4,2
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 4,26
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 4,1
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 4,29
@@ -58,15 +58,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 4,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 4,24
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 4,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 4,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 4,61
-Keith Judd,President ,,DEM,Calhoun,Precinct 4,57
+Barack Obama,President,,DEM,Calhoun,Precinct 4,61
+Keith Judd,President,,DEM,Calhoun,Precinct 4,57
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 4,30
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 4,106
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 4,16
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 4,50
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 4,39
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 4,103
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 4,31
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 4,31
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 4,118
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 4,112
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 4,98
@@ -79,11 +79,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 4,26
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 4,92
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 4,48
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 4,84
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 5,0
-Mitt Romney ,President ,,REP,Calhoun,Precinct 5,35
-Ron Paul,President ,,REP,Calhoun,Precinct 5,4
-Newt Gingrich,President ,,REP,Calhoun,Precinct 5,1
-Rick Santorum,President ,,REP,Calhoun,Precinct 5,3
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 5,0
+Mitt Romney,President,,REP,Calhoun,Precinct 5,35
+Ron Paul,President,,REP,Calhoun,Precinct 5,4
+Newt Gingrich,President,,REP,Calhoun,Precinct 5,1
+Rick Santorum,President,,REP,Calhoun,Precinct 5,3
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 5,39
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 5,1
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 5,39
@@ -98,15 +98,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 5,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 5,35
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 5,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 5,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 5,40
-Keith Judd,President ,,DEM,Calhoun,Precinct 5,51
+Barack Obama,President,,DEM,Calhoun,Precinct 5,40
+Keith Judd,President,,DEM,Calhoun,Precinct 5,51
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 5,16
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 5,85
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 5,14
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 5,39
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 5,23
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 5,83
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 5,17
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 5,17
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 5,91
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 5,87
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 5,84
@@ -119,11 +119,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 5,19
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 5,77
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 5,29
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 5,69
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 6,3
-Mitt Romney ,President ,,REP,Calhoun,Precinct 6,18
-Ron Paul,President ,,REP,Calhoun,Precinct 6,4
-Newt Gingrich,President ,,REP,Calhoun,Precinct 6,3
-Rick Santorum,President ,,REP,Calhoun,Precinct 6,5
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 6,3
+Mitt Romney,President,,REP,Calhoun,Precinct 6,18
+Ron Paul,President,,REP,Calhoun,Precinct 6,4
+Newt Gingrich,President,,REP,Calhoun,Precinct 6,3
+Rick Santorum,President,,REP,Calhoun,Precinct 6,5
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 6,25
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 6,4
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 6,28
@@ -138,15 +138,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 6,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 6,29
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 6,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 6,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 6,41
-Keith Judd,President ,,DEM,Calhoun,Precinct 6,39
+Barack Obama,President,,DEM,Calhoun,Precinct 6,41
+Keith Judd,President,,DEM,Calhoun,Precinct 6,39
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 6,21
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 6,73
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 6,10
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 6,39
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 6,21
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 6,65
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 6,24
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 6,24
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 6,86
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 6,73
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 6,71
@@ -159,11 +159,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 6,17
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 6,61
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 6,36
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 6,56
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 7,3
-Mitt Romney ,President ,,REP,Calhoun,Precinct 7,21
-Ron Paul,President ,,REP,Calhoun,Precinct 7,2
-Newt Gingrich,President ,,REP,Calhoun,Precinct 7,1
-Rick Santorum,President ,,REP,Calhoun,Precinct 7,4
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 7,3
+Mitt Romney,President,,REP,Calhoun,Precinct 7,21
+Ron Paul,President,,REP,Calhoun,Precinct 7,2
+Newt Gingrich,President,,REP,Calhoun,Precinct 7,1
+Rick Santorum,President,,REP,Calhoun,Precinct 7,4
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 7,21
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 7,3
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 7,28
@@ -178,15 +178,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 7,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 7,18
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 7,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 7,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 7,73
-Keith Judd,President ,,DEM,Calhoun,Precinct 7,59
+Barack Obama,President,,DEM,Calhoun,Precinct 7,73
+Keith Judd,President,,DEM,Calhoun,Precinct 7,59
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 7,37
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 7,110
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 7,24
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 7,50
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 7,33
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 7,109
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 7,34
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 7,34
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 7,137
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 7,128
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 7,114
@@ -199,11 +199,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 7,40
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 7,106
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 7,42
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 7,103
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 8,2
-Mitt Romney ,President ,,REP,Calhoun,Precinct 8,11
-Ron Paul,President ,,REP,Calhoun,Precinct 8,6
-Newt Gingrich,President ,,REP,Calhoun,Precinct 8,0
-Rick Santorum,President ,,REP,Calhoun,Precinct 8,9
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 8,2
+Mitt Romney,President,,REP,Calhoun,Precinct 8,11
+Ron Paul,President,,REP,Calhoun,Precinct 8,6
+Newt Gingrich,President,,REP,Calhoun,Precinct 8,0
+Rick Santorum,President,,REP,Calhoun,Precinct 8,9
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 8,24
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 8,2
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 8,26
@@ -218,15 +218,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 8,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 8,26
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 8,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 8,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 8,41
-Keith Judd,President ,,DEM,Calhoun,Precinct 8,38
+Barack Obama,President,,DEM,Calhoun,Precinct 8,41
+Keith Judd,President,,DEM,Calhoun,Precinct 8,38
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 8,20
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 8,79
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 8,17
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 8,27
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 8,31
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 8,73
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 8,21
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 8,21
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 8,94
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 8,85
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 8,74
@@ -239,11 +239,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 8,17
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 8,66
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 8,41
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 8,54
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 10,0
-Mitt Romney ,President ,,REP,Calhoun,Precinct 10,25
-Ron Paul,President ,,REP,Calhoun,Precinct 10,2
-Newt Gingrich,President ,,REP,Calhoun,Precinct 10,3
-Rick Santorum,President ,,REP,Calhoun,Precinct 10,2
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 10,0
+Mitt Romney,President,,REP,Calhoun,Precinct 10,25
+Ron Paul,President,,REP,Calhoun,Precinct 10,2
+Newt Gingrich,President,,REP,Calhoun,Precinct 10,3
+Rick Santorum,President,,REP,Calhoun,Precinct 10,2
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 10,23
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 10,2
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 10,27
@@ -258,15 +258,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 10,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 10,27
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 10,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 10,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 10,72
-Keith Judd,President ,,DEM,Calhoun,Precinct 10,46
+Barack Obama,President,,DEM,Calhoun,Precinct 10,72
+Keith Judd,President,,DEM,Calhoun,Precinct 10,46
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 10,29
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 10,106
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 10,22
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 10,47
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 10,31
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 10,98
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 10,34
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 10,34
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 10,109
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 10,104
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 10,90
@@ -279,11 +279,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 10,41
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 10,87
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 10,52
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 10,74
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 11,0
-Mitt Romney ,President ,,REP,Calhoun,Precinct 11,13
-Ron Paul,President ,,REP,Calhoun,Precinct 11,1
-Newt Gingrich,President ,,REP,Calhoun,Precinct 11,0
-Rick Santorum,President ,,REP,Calhoun,Precinct 11,5
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 11,0
+Mitt Romney,President,,REP,Calhoun,Precinct 11,13
+Ron Paul,President,,REP,Calhoun,Precinct 11,1
+Newt Gingrich,President,,REP,Calhoun,Precinct 11,0
+Rick Santorum,President,,REP,Calhoun,Precinct 11,5
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 11,14
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 11,2
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 11,15
@@ -298,15 +298,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 11,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 11,12
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 11,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 11,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 11,42
-Keith Judd,President ,,DEM,Calhoun,Precinct 11,31
+Barack Obama,President,,DEM,Calhoun,Precinct 11,42
+Keith Judd,President,,DEM,Calhoun,Precinct 11,31
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 11,11
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 11,75
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 11,11
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 11,29
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 11,22
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 11,73
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 11,12
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 11,12
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 11,71
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 11,68
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 11,60
@@ -319,11 +319,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 11,14
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 11,58
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 11,27
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 11,59
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 15,0
-Mitt Romney ,President ,,REP,Calhoun,Precinct 15,11
-Ron Paul,President ,,REP,Calhoun,Precinct 15,5
-Newt Gingrich,President ,,REP,Calhoun,Precinct 15,1
-Rick Santorum,President ,,REP,Calhoun,Precinct 15,4
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 15,0
+Mitt Romney,President,,REP,Calhoun,Precinct 15,11
+Ron Paul,President,,REP,Calhoun,Precinct 15,5
+Newt Gingrich,President,,REP,Calhoun,Precinct 15,1
+Rick Santorum,President,,REP,Calhoun,Precinct 15,4
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 15,15
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 15,1
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 15,17
@@ -338,15 +338,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 15,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 15,15
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 15,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 15,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 15,70
-Keith Judd,President ,,DEM,Calhoun,Precinct 15,55
+Barack Obama,President,,DEM,Calhoun,Precinct 15,70
+Keith Judd,President,,DEM,Calhoun,Precinct 15,55
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 15,43
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 15,103
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 15,17
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 15,65
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 15,32
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 15,97
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 15,41
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 15,41
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 15,120
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 15,115
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 15,104
@@ -359,11 +359,11 @@ Walt Helmick,Commissioner of Agriculture,,DEM,Calhoun,Precinct 15,31
 Jeffrey V. Kessler,State Senate,2,DEM,Calhoun,Precinct 15,100
 Dan D. Sizemore,House of Delegates,33,DEM,Calhoun,Precinct 15,42
 David A. Walker,House of Delegates,33,DEM,Calhoun,Precinct 15,98
-"Charles ""Buddy"" Roemer",President ,,REP,Calhoun,Precinct 19,1
-Mitt Romney ,President ,,REP,Calhoun,Precinct 19,9
-Ron Paul,President ,,REP,Calhoun,Precinct 19,4
-Newt Gingrich,President ,,REP,Calhoun,Precinct 19,2
-Rick Santorum,President ,,REP,Calhoun,Precinct 19,1
+"Charles ""Buddy"" Roemer",President,,REP,Calhoun,Precinct 19,1
+Mitt Romney,President,,REP,Calhoun,Precinct 19,9
+Ron Paul,President,,REP,Calhoun,Precinct 19,4
+Newt Gingrich,President,,REP,Calhoun,Precinct 19,2
+Rick Santorum,President,,REP,Calhoun,Precinct 19,1
 John R. Raese,U.S. Senate,,REP,Calhoun,Precinct 19,13
 Michael Davis,U.S. House,2,REP,Calhoun,Precinct 19,2
 Shelley Moore Capito,U.S. House,2,REP,Calhoun,Precinct 19,11
@@ -378,15 +378,15 @@ No Candidate Filed,Commissioner of Agriculture,,REP,Calhoun,Precinct 19,0
 Patrick Morrisey,Attorney General,,REP,Calhoun,Precinct 19,9
 No Candidate Filed,State Senate,2,REP,Calhoun,Precinct 19,0
 No Candidate Filed,House of Delegates,33,REP,Calhoun,Precinct 19,0
-Barack Obama,President ,,DEM,Calhoun,Precinct 19,59
-Keith Judd,President ,,DEM,Calhoun,Precinct 19,47
+Barack Obama,President,,DEM,Calhoun,Precinct 19,59
+Keith Judd,President,,DEM,Calhoun,Precinct 19,47
 Sheirl Fletcher,U.S. Senate,,DEM,Calhoun,Precinct 19,9
 Joe Manchin III,U.S. Senate,,DEM,Calhoun,Precinct 19,116
 Dugald Brown,U.S. House,2,DEM,Calhoun,Precinct 19,19
 Howard Swint,U.S. House,2,DEM,Calhoun,Precinct 19,50
 William McCann,U.S. House,2,DEM,Calhoun,Precinct 19,23
 Earl Ray Tomblin,Governor,,DEM,Calhoun,Precinct 19,95
-Arne Moltis ,Governor,,DEM,Calhoun,Precinct 19,20
+Arne Moltis,Governor,,DEM,Calhoun,Precinct 19,20
 Natalie E. Tennant,Secretary of State,,DEM,Calhoun,Precinct 19,102
 Glen B. Gainer III,Auditor,,DEM,Calhoun,Precinct 19,87
 John D. Perdue,Treasurer,,DEM,Calhoun,Precinct 19,81
