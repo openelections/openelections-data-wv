@@ -1,4 +1,7 @@
-OpenElections Data West Virginia [![Build Status](https://github.com/openelections/openelections-data-wv/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-wv/actions)
+[![Build Status](https://github.com/openelections/openelections-data-wv/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-wv/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-wv/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-wv/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+OpenElections Data West Virginia
 =====================
 
 This repository contains CSV files with West Virginia election results converted from [the original PDFs produced by the state](https://sos.wv.gov/elections/Pages/HistElecResults.aspx). The filenames are [constructed according to the specifications described in the OpenElections documentation](http://docs.openelections.net/archive-standardization/).
