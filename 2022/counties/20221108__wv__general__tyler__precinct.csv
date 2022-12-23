@@ -1,0 +1,181 @@
+county,precinct,office,district,party,candidate,votes
+Tyler,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,217
+Tyler,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,78
+Tyler,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,240
+Tyler,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,260
+Tyler,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,279
+Tyler,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,107
+Tyler,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,187
+Tyler,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,86
+Tyler,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,166
+Tyler,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,218
+Tyler,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,43
+Tyler,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,15
+Tyler,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,66
+Tyler,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,83
+Tyler,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,98
+Tyler,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,45
+Tyler,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,70
+Tyler,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,22
+Tyler,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,28
+Tyler,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,77
+Tyler,PRECINCT 1,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,228
+Tyler,PRECINCT 2,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,78
+Tyler,PRECINCT 3,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,252
+Tyler,PRECINCT 4,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,283
+Tyler,PRECINCT 5,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,304
+Tyler,PRECINCT 6,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,118
+Tyler,PRECINCT 8,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,194
+Tyler,PRECINCT 9,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,92
+Tyler,PRECINCT 10,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,174
+Tyler,PRECINCT 11,STATE SENATOR, 2nd Senatorial District,REP,CHARLES CLEMENTS,217
+Tyler,PRECINCT 1,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,46
+Tyler,PRECINCT 2,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,17
+Tyler,PRECINCT 3,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,63
+Tyler,PRECINCT 4,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,67
+Tyler,PRECINCT 5,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,81
+Tyler,PRECINCT 6,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,38
+Tyler,PRECINCT 8,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,71
+Tyler,PRECINCT 9,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,19
+Tyler,PRECINCT 10,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,20
+Tyler,PRECINCT 11,STATE SENATOR, 2nd Senatorial District,DEM,ERIC M. HAYHURST,80
+Tyler,PRECINCT 3,HOUSE OF DELEGATES, 8th District,REP,DAVID L. KELLY,287
+Tyler,PRECINCT 4,HOUSE OF DELEGATES, 8th District,REP,DAVID L. KELLY,306
+Tyler,PRECINCT 5,HOUSE OF DELEGATES, 8th District,REP,DAVID L. KELLY,344
+Tyler,PRECINCT 6,HOUSE OF DELEGATES, 8th District,REP,DAVID L. KELLY,137
+Tyler,PRECINCT 8,HOUSE OF DELEGATES, 8th District,REP,DAVID L. KELLY,223
+Tyler,PRECINCT 10,HOUSE OF DELEGATES, 8th District,REP,DAVID L. KELLY,178
+Tyler,PRECINCT 1,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,243
+Tyler,PRECINCT 2,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,82
+Tyler,PRECINCT 9,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,101
+Tyler,PRECINCT 11,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,261
+Tyler,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,263
+Tyler,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,91
+Tyler,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,298
+Tyler,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,318
+Tyler,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,352
+Tyler,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,138
+Tyler,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,247
+Tyler,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,108
+Tyler,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,182
+Tyler,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP CANDY L WARNER,275
+Tyler,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,262
+Tyler,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,87
+Tyler,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,278
+Tyler,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,311
+Tyler,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,346
+Tyler,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,154
+Tyler,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,246
+Tyler,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,102
+Tyler,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,176
+Tyler,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP ERIC H VINCENT,273
+Tyler,PRECINCT 1,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,264
+Tyler,PRECINCT 2,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,91
+Tyler,PRECINCT 3,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,293
+Tyler,PRECINCT 4,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,320
+Tyler,PRECINCT 5,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,359
+Tyler,PRECINCT 6,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,141
+Tyler,PRECINCT 8,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,245
+Tyler,PRECINCT 9,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,110
+Tyler,PRECINCT 10,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,185
+Tyler,PRECINCT 11,FOR COUNTY CLERK,,REP,REP NEIL ARCHER II,278
+Tyler,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,89
+Tyler,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,25
+Tyler,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Tyler,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,127
+Tyler,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,150
+Tyler,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Tyler,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,112
+Tyler,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,42
+Tyler,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,74
+Tyler,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,121
+Tyler,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,175
+Tyler,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,69
+Tyler,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,213
+Tyler,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,217
+Tyler,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,221
+Tyler,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,86
+Tyler,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,149
+Tyler,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,64
+Tyler,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,123
+Tyler,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,165
+Tyler,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,67
+Tyler,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,22
+Tyler,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,80
+Tyler,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,101
+Tyler,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,118
+Tyler,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,43
+Tyler,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,74
+Tyler,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,28
+Tyler,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,57
+Tyler,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,99
+Tyler,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,209
+Tyler,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,72
+Tyler,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,240
+Tyler,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,249
+Tyler,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,269
+Tyler,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,110
+Tyler,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,191
+Tyler,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,85
+Tyler,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,145
+Tyler,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,199
+Tyler,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,85
+Tyler,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,28
+Tyler,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,93
+Tyler,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,113
+Tyler,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,177
+Tyler,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,68
+Tyler,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,93
+Tyler,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,43
+Tyler,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,60
+Tyler,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,110
+Tyler,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,176
+Tyler,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,63
+Tyler,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,210
+Tyler,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,231
+Tyler,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,195
+Tyler,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,75
+Tyler,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,165
+Tyler,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,66
+Tyler,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,140
+Tyler,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,176
+Tyler,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Tyler,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,31
+Tyler,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,107
+Tyler,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,126
+Tyler,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,153
+Tyler,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,55
+Tyler,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,107
+Tyler,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,37
+Tyler,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,65
+Tyler,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,114
+Tyler,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,187
+Tyler,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,64
+Tyler,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,215
+Tyler,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,222
+Tyler,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,226
+Tyler,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,96
+Tyler,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,157
+Tyler,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,76
+Tyler,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,134
+Tyler,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,181
+Tyler,PRECINCT 1,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,142
+Tyler,PRECINCT 2,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,64
+Tyler,PRECINCT 3,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,215
+Tyler,PRECINCT 4,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,186
+Tyler,PRECINCT 5,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,279
+Tyler,PRECINCT 6,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,113
+Tyler,PRECINCT 8,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,184
+Tyler,PRECINCT 9,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,59
+Tyler,PRECINCT 10,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,110
+Tyler,PRECINCT 11,BOARD OF EDUCATION LEVY,,,FOR THE LEVIES,208
+Tyler,PRECINCT 1,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,121
+Tyler,PRECINCT 2,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,29
+Tyler,PRECINCT 3,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,87
+Tyler,PRECINCT 4,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,152
+Tyler,PRECINCT 5,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,99
+Tyler,PRECINCT 6,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,37
+Tyler,PRECINCT 8,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,71
+Tyler,PRECINCT 9,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,48
+Tyler,PRECINCT 10,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,82
+Tyler,PRECINCT 11,BOARD OF EDUCATION LEVY,,,AGAINST THE LEVIES,81

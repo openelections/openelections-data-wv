@@ -1,0 +1,490 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,125
+Jackson,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,149
+Jackson,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,250
+Jackson,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,95
+Jackson,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,128
+Jackson,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,165
+Jackson,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,216
+Jackson,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,114
+Jackson,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,132
+Jackson,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,177
+Jackson,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,204
+Jackson,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,289
+Jackson,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,146
+Jackson,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,358
+Jackson,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,185
+Jackson,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,408
+Jackson,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,418
+Jackson,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,428
+Jackson,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,249
+Jackson,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,111
+Jackson,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,72
+Jackson,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,254
+Jackson,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,101
+Jackson,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,74
+Jackson,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,119
+Jackson,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,100
+Jackson,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,116
+Jackson,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,414
+Jackson,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,135
+Jackson,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,243
+Jackson,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,48
+Jackson,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Jackson,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,39
+Jackson,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Jackson,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,53
+Jackson,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,91
+Jackson,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,113
+Jackson,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,71
+Jackson,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,37
+Jackson,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,34
+Jackson,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Jackson,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,96
+Jackson,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,43
+Jackson,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,96
+Jackson,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,37
+Jackson,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,128
+Jackson,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,124
+Jackson,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,91
+Jackson,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,76
+Jackson,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Jackson,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Jackson,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,101
+Jackson,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,49
+Jackson,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,12
+Jackson,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,30
+Jackson,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,22
+Jackson,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,21
+Jackson,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,86
+Jackson,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,19
+Jackson,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,58
+Jackson,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Jackson,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Jackson,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,16
+Jackson,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Jackson,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Jackson,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Jackson,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Jackson,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,14
+Jackson,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Jackson,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Jackson,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Jackson,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,16
+Jackson,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Jackson,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Jackson,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Jackson,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,31
+Jackson,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,30
+Jackson,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,32
+Jackson,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Jackson,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Jackson,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Jackson,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,21
+Jackson,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Jackson,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Jackson,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Jackson,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Jackson,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Jackson,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,26
+Jackson,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Jackson,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Jackson,PRECINCT 1,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,138
+Jackson,PRECINCT 2,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,152
+Jackson,PRECINCT 3,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,260
+Jackson,PRECINCT 5,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,136
+Jackson,PRECINCT 6,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,192
+Jackson,PRECINCT 7,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,232
+Jackson,PRECINCT 8,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,129
+Jackson,PRECINCT 9,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,145
+Jackson,PRECINCT 10,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,184
+Jackson,PRECINCT 11,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,210
+Jackson,PRECINCT 12,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,312
+Jackson,PRECINCT 13,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,150
+Jackson,PRECINCT 14,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,364
+Jackson,PRECINCT 15,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,185
+Jackson,PRECINCT 16,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,428
+Jackson,PRECINCT 17,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,456
+Jackson,PRECINCT 20,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,113
+Jackson,PRECINCT 21,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,85
+Jackson,PRECINCT 22,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,257
+Jackson,PRECINCT 23,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,107
+Jackson,PRECINCT 24,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,72
+Jackson,PRECINCT 4,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,94
+Jackson,PRECINCT 18,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,409
+Jackson,PRECINCT 19,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,236
+Jackson,PRECINCT 25,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,119
+Jackson,PRECINCT 26,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,93
+Jackson,PRECINCT 27,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,111
+Jackson,PRECINCT 28,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,404
+Jackson,PRECINCT 29,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,128
+Jackson,PRECINCT 30,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,235
+Jackson,PRECINCT 4,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,23
+Jackson,PRECINCT 18,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,121
+Jackson,PRECINCT 19,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,94
+Jackson,PRECINCT 25,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,35
+Jackson,PRECINCT 26,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,34
+Jackson,PRECINCT 27,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,30
+Jackson,PRECINCT 28,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,120
+Jackson,PRECINCT 29,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,24
+Jackson,PRECINCT 30,STATE SENATOR, 8th Senatorial District,DEM,RICHARD LINDSAY,78
+Jackson,PRECINCT 3,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,264
+Jackson,PRECINCT 4,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,104
+Jackson,PRECINCT 10,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,184
+Jackson,PRECINCT 11,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,221
+Jackson,PRECINCT 15,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,203
+Jackson,PRECINCT 16,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,471
+Jackson,PRECINCT 17,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,495
+Jackson,PRECINCT 18,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,453
+Jackson,PRECINCT 19,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,292
+Jackson,PRECINCT 20,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,130
+Jackson,PRECINCT 21,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,95
+Jackson,PRECINCT 22,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,305
+Jackson,PRECINCT 23,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,136
+Jackson,PRECINCT 24,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,79
+Jackson,PRECINCT 25,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,131
+Jackson,PRECINCT 26,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,105
+Jackson,PRECINCT 27,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,119
+Jackson,PRECINCT 28,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,450
+Jackson,PRECINCT 29,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,142
+Jackson,PRECINCT 30,HOUSE OF DELEGATES, 16th District,REP,STEVE WESTFALL,269
+Jackson,PRECINCT 1,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,155
+Jackson,PRECINCT 2,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,164
+Jackson,PRECINCT 5,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,152
+Jackson,PRECINCT 6,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,208
+Jackson,PRECINCT 7,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,253
+Jackson,PRECINCT 8,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,148
+Jackson,PRECINCT 9,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,148
+Jackson,PRECINCT 12,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,336
+Jackson,PRECINCT 13,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,160
+Jackson,PRECINCT 14,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,391
+Jackson,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,155
+Jackson,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,168
+Jackson,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,274
+Jackson,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,101
+Jackson,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,153
+Jackson,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,208
+Jackson,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,265
+Jackson,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,153
+Jackson,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,155
+Jackson,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,205
+Jackson,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,246
+Jackson,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,349
+Jackson,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,169
+Jackson,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,417
+Jackson,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,209
+Jackson,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,506
+Jackson,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,526
+Jackson,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,498
+Jackson,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,312
+Jackson,PRECINCT 20,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,138
+Jackson,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,101
+Jackson,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,326
+Jackson,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,141
+Jackson,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,83
+Jackson,PRECINCT 25,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,145
+Jackson,PRECINCT 26,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,121
+Jackson,PRECINCT 27,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,141
+Jackson,PRECINCT 28,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,479
+Jackson,PRECINCT 29,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,144
+Jackson,PRECINCT 30,FOR CIRCUIT CLERK,,REP,REP BRUCE W. DEWEES,286
+Jackson,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,161
+Jackson,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,175
+Jackson,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,269
+Jackson,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,102
+Jackson,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,160
+Jackson,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,221
+Jackson,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,281
+Jackson,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,149
+Jackson,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,156
+Jackson,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,199
+Jackson,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,235
+Jackson,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,343
+Jackson,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,148
+Jackson,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,412
+Jackson,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,199
+Jackson,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,501
+Jackson,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,509
+Jackson,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,482
+Jackson,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,306
+Jackson,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,134
+Jackson,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,95
+Jackson,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,317
+Jackson,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,134
+Jackson,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,77
+Jackson,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,138
+Jackson,PRECINCT 26,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,111
+Jackson,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,134
+Jackson,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,480
+Jackson,PRECINCT 29,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,143
+Jackson,PRECINCT 30,FOR COUNTY COMMISSIONER,,REP,REP DICK WAYBRIGHT,285
+Jackson,PRECINCT 1,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,152
+Jackson,PRECINCT 2,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,167
+Jackson,PRECINCT 3,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,273
+Jackson,PRECINCT 4,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,101
+Jackson,PRECINCT 5,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,148
+Jackson,PRECINCT 6,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,205
+Jackson,PRECINCT 7,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,258
+Jackson,PRECINCT 8,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,145
+Jackson,PRECINCT 9,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,151
+Jackson,PRECINCT 10,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,194
+Jackson,PRECINCT 11,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,240
+Jackson,PRECINCT 12,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,340
+Jackson,PRECINCT 13,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,160
+Jackson,PRECINCT 14,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,399
+Jackson,PRECINCT 15,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,201
+Jackson,PRECINCT 16,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,498
+Jackson,PRECINCT 17,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,518
+Jackson,PRECINCT 18,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,482
+Jackson,PRECINCT 19,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,306
+Jackson,PRECINCT 20,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,140
+Jackson,PRECINCT 21,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,104
+Jackson,PRECINCT 22,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,329
+Jackson,PRECINCT 23,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,136
+Jackson,PRECINCT 24,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,82
+Jackson,PRECINCT 25,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,144
+Jackson,PRECINCT 26,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,111
+Jackson,PRECINCT 27,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,132
+Jackson,PRECINCT 28,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,478
+Jackson,PRECINCT 29,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,143
+Jackson,PRECINCT 30,FOR COUNTY CLERK,,REP,REP CHRISTINA GOSSETT,276
+Jackson,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,66
+Jackson,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,72
+Jackson,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,125
+Jackson,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,49
+Jackson,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,72
+Jackson,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,113
+Jackson,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,136
+Jackson,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,76
+Jackson,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,76
+Jackson,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,97
+Jackson,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,86
+Jackson,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,159
+Jackson,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,73
+Jackson,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,199
+Jackson,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,93
+Jackson,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,222
+Jackson,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,235
+Jackson,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,226
+Jackson,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,147
+Jackson,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Jackson,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,55
+Jackson,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,153
+Jackson,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,53
+Jackson,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,38
+Jackson,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,65
+Jackson,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,39
+Jackson,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,40
+Jackson,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,215
+Jackson,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,55
+Jackson,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Jackson,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,101
+Jackson,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,120
+Jackson,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,177
+Jackson,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,71
+Jackson,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,119
+Jackson,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,157
+Jackson,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,200
+Jackson,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,119
+Jackson,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,100
+Jackson,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Jackson,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,181
+Jackson,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,232
+Jackson,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,120
+Jackson,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,264
+Jackson,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,130
+Jackson,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,340
+Jackson,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,329
+Jackson,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,310
+Jackson,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,195
+Jackson,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Jackson,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,59
+Jackson,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,229
+Jackson,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,106
+Jackson,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,51
+Jackson,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,86
+Jackson,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,90
+Jackson,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,108
+Jackson,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,318
+Jackson,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Jackson,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,220
+Jackson,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,52
+Jackson,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Jackson,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,94
+Jackson,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,37
+Jackson,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,61
+Jackson,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,86
+Jackson,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Jackson,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Jackson,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,60
+Jackson,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,76
+Jackson,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,73
+Jackson,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,143
+Jackson,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Jackson,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,165
+Jackson,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,84
+Jackson,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,178
+Jackson,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,212
+Jackson,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,218
+Jackson,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,115
+Jackson,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,52
+Jackson,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,32
+Jackson,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,113
+Jackson,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Jackson,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,39
+Jackson,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,47
+Jackson,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,37
+Jackson,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,35
+Jackson,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,186
+Jackson,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,53
+Jackson,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,110
+Jackson,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,123
+Jackson,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,133
+Jackson,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,217
+Jackson,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,83
+Jackson,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,129
+Jackson,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,190
+Jackson,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,250
+Jackson,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,140
+Jackson,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,119
+Jackson,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,147
+Jackson,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,193
+Jackson,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,260
+Jackson,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,137
+Jackson,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,309
+Jackson,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,152
+Jackson,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,400
+Jackson,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,373
+Jackson,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,338
+Jackson,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,238
+Jackson,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,115
+Jackson,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,85
+Jackson,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,284
+Jackson,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Jackson,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,57
+Jackson,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,108
+Jackson,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,93
+Jackson,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,111
+Jackson,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,358
+Jackson,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,103
+Jackson,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,215
+Jackson,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,63
+Jackson,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,75
+Jackson,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,141
+Jackson,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,45
+Jackson,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Jackson,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,109
+Jackson,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,153
+Jackson,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,85
+Jackson,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,72
+Jackson,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,112
+Jackson,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,99
+Jackson,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,171
+Jackson,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,77
+Jackson,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,221
+Jackson,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,122
+Jackson,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,282
+Jackson,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,276
+Jackson,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,257
+Jackson,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,170
+Jackson,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,74
+Jackson,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,53
+Jackson,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,185
+Jackson,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,78
+Jackson,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Jackson,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,67
+Jackson,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Jackson,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Jackson,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,234
+Jackson,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,58
+Jackson,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,129
+Jackson,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,103
+Jackson,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,118
+Jackson,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,165
+Jackson,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,73
+Jackson,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,109
+Jackson,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,160
+Jackson,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,180
+Jackson,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,110
+Jackson,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,104
+Jackson,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,111
+Jackson,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,162
+Jackson,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,222
+Jackson,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,116
+Jackson,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,240
+Jackson,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,102
+Jackson,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,279
+Jackson,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,293
+Jackson,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,287
+Jackson,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,173
+Jackson,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,90
+Jackson,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,58
+Jackson,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,200
+Jackson,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,85
+Jackson,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,39
+Jackson,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,84
+Jackson,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,76
+Jackson,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,99
+Jackson,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,301
+Jackson,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,90
+Jackson,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Jackson,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,63
+Jackson,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,67
+Jackson,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,111
+Jackson,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Jackson,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,64
+Jackson,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,106
+Jackson,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,112
+Jackson,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Jackson,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Jackson,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,93
+Jackson,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,85
+Jackson,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,158
+Jackson,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Jackson,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,181
+Jackson,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,101
+Jackson,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,211
+Jackson,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,213
+Jackson,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,225
+Jackson,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,127
+Jackson,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,56
+Jackson,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,37
+Jackson,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,124
+Jackson,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,52
+Jackson,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,40
+Jackson,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,49
+Jackson,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,42
+Jackson,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Jackson,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,219
+Jackson,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Jackson,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,133
+Jackson,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,112
+Jackson,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,126
+Jackson,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,195
+Jackson,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,80
+Jackson,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,127
+Jackson,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,167
+Jackson,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,229
+Jackson,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,127
+Jackson,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,105
+Jackson,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,131
+Jackson,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,182
+Jackson,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,240
+Jackson,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,125
+Jackson,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,283
+Jackson,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,133
+Jackson,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,366
+Jackson,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,368
+Jackson,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,327
+Jackson,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,222
+Jackson,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,111
+Jackson,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,80
+Jackson,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,270
+Jackson,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,116
+Jackson,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,56
+Jackson,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,104
+Jackson,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,89
+Jackson,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,97
+Jackson,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,324
+Jackson,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,AGAINST,100
+Jackson,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,184

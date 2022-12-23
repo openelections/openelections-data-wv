@@ -1,0 +1,253 @@
+county,precinct,office,district,party,candidate,votes
+Grant,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,254
+Grant,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,237
+Grant,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,270
+Grant,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,94
+Grant,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,255
+Grant,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,310
+Grant,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,161
+Grant,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,89
+Grant,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,255
+Grant,PRECINCT 11A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,165
+Grant,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,401
+Grant,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,156
+Grant,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,127
+Grant,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,261
+Grant,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,65
+Grant,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,67
+Grant,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,18
+Grant,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,11
+Grant,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Grant,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,25
+Grant,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,16
+Grant,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,17
+Grant,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,18
+Grant,PRECINCT 11A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,14
+Grant,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,47
+Grant,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,31
+Grant,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,21
+Grant,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,42
+Grant,PRECINCT 1,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,255
+Grant,PRECINCT 2,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,244
+Grant,PRECINCT 4,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,270
+Grant,PRECINCT 5,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,97
+Grant,PRECINCT 6,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,258
+Grant,PRECINCT 7,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,308
+Grant,PRECINCT 8,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,164
+Grant,PRECINCT 10,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,92
+Grant,PRECINCT 11,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,254
+Grant,PRECINCT 11A,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,170
+Grant,PRECINCT 12,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,400
+Grant,PRECINCT 13,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,167
+Grant,PRECINCT 14,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,127
+Grant,PRECINCT 15,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,259
+Grant,PRECINCT 1,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,61
+Grant,PRECINCT 2,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,60
+Grant,PRECINCT 4,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,17
+Grant,PRECINCT 5,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,7
+Grant,PRECINCT 6,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,28
+Grant,PRECINCT 7,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,28
+Grant,PRECINCT 8,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,10
+Grant,PRECINCT 10,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,14
+Grant,PRECINCT 11,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,12
+Grant,PRECINCT 11A,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,15
+Grant,PRECINCT 12,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,38
+Grant,PRECINCT 13,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,23
+Grant,PRECINCT 14,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,20
+Grant,PRECINCT 15,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,42
+Grant,PRECINCT 1,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,282
+Grant,PRECINCT 2,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,241
+Grant,PRECINCT 4,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,261
+Grant,PRECINCT 5,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,93
+Grant,PRECINCT 6,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,260
+Grant,PRECINCT 7,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,300
+Grant,PRECINCT 8,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,168
+Grant,PRECINCT 10,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,99
+Grant,PRECINCT 11,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,252
+Grant,PRECINCT 11A,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,168
+Grant,PRECINCT 12,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,385
+Grant,PRECINCT 13,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,164
+Grant,PRECINCT 14,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,136
+Grant,PRECINCT 15,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,282
+Grant,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,308
+Grant,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,279
+Grant,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,286
+Grant,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,99
+Grant,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,284
+Grant,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,323
+Grant,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,172
+Grant,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,102
+Grant,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,269
+Grant,PRECINCT 11A,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,178
+Grant,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,421
+Grant,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,176
+Grant,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,134
+Grant,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP ANGELA BARNETTE VAN METER,279
+Grant,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,238
+Grant,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,220
+Grant,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,216
+Grant,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,63
+Grant,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,222
+Grant,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,258
+Grant,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,125
+Grant,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,96
+Grant,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,205
+Grant,PRECINCT 11A,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,125
+Grant,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,323
+Grant,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,144
+Grant,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,110
+Grant,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP KEVIN P. HAGERTY,264
+Grant,PRECINCT 1,FOR COUNTY CLERK,,REP,REP LORA BENNETT,301
+Grant,PRECINCT 2,FOR COUNTY CLERK,,REP,REP LORA BENNETT,270
+Grant,PRECINCT 4,FOR COUNTY CLERK,,REP,REP LORA BENNETT,287
+Grant,PRECINCT 5,FOR COUNTY CLERK,,REP,REP LORA BENNETT,96
+Grant,PRECINCT 6,FOR COUNTY CLERK,,REP,REP LORA BENNETT,273
+Grant,PRECINCT 7,FOR COUNTY CLERK,,REP,REP LORA BENNETT,312
+Grant,PRECINCT 8,FOR COUNTY CLERK,,REP,REP LORA BENNETT,157
+Grant,PRECINCT 10,FOR COUNTY CLERK,,REP,REP LORA BENNETT,102
+Grant,PRECINCT 11,FOR COUNTY CLERK,,REP,REP LORA BENNETT,266
+Grant,PRECINCT 11A,FOR COUNTY CLERK,,REP,REP LORA BENNETT,171
+Grant,PRECINCT 12,FOR COUNTY CLERK,,REP,REP LORA BENNETT,423
+Grant,PRECINCT 13,FOR COUNTY CLERK,,REP,REP LORA BENNETT,175
+Grant,PRECINCT 14,FOR COUNTY CLERK,,REP,REP LORA BENNETT,129
+Grant,PRECINCT 15,FOR COUNTY CLERK,,REP,REP LORA BENNETT,286
+Grant,PRECINCT 1,FOR ASSESSOR,,REP,REP JERRY L. OURS,110
+Grant,PRECINCT 2,FOR ASSESSOR,,REP,REP JERRY L. OURS,86
+Grant,PRECINCT 4,FOR ASSESSOR,,REP,REP JERRY L. OURS,99
+Grant,PRECINCT 5,FOR ASSESSOR,,REP,REP JERRY L. OURS,42
+Grant,PRECINCT 6,FOR ASSESSOR,,REP,REP JERRY L. OURS,74
+Grant,PRECINCT 7,FOR ASSESSOR,,REP,REP JERRY L. OURS,157
+Grant,PRECINCT 8,FOR ASSESSOR,,REP,REP JERRY L. OURS,78
+Grant,PRECINCT 10,FOR ASSESSOR,,REP,REP JERRY L. OURS,83
+Grant,PRECINCT 11,FOR ASSESSOR,,REP,REP JERRY L. OURS,136
+Grant,PRECINCT 11A,FOR ASSESSOR,,REP,REP JERRY L. OURS,76
+Grant,PRECINCT 12,FOR ASSESSOR,,REP,REP JERRY L. OURS,151
+Grant,PRECINCT 13,FOR ASSESSOR,,REP,REP JERRY L. OURS,74
+Grant,PRECINCT 14,FOR ASSESSOR,,REP,REP JERRY L. OURS,97
+Grant,PRECINCT 15,FOR ASSESSOR,,REP,REP JERRY L. OURS,210
+Grant,PRECINCT 1,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,144
+Grant,PRECINCT 2,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,173
+Grant,PRECINCT 4,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,98
+Grant,PRECINCT 5,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,29
+Grant,PRECINCT 6,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,139
+Grant,PRECINCT 7,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,122
+Grant,PRECINCT 8,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,58
+Grant,PRECINCT 10,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,18
+Grant,PRECINCT 11,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,93
+Grant,PRECINCT 11A,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,64
+Grant,PRECINCT 12,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,206
+Grant,PRECINCT 13,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,82
+Grant,PRECINCT 14,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,45
+Grant,PRECINCT 15,FOR ASSESSOR,,IND,IND BETH BARR MALLOW,81
+Grant,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,128
+Grant,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,124
+Grant,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,104
+Grant,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,23
+Grant,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,114
+Grant,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,133
+Grant,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,60
+Grant,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,50
+Grant,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,120
+Grant,PRECINCT 11A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,56
+Grant,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,198
+Grant,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,80
+Grant,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,53
+Grant,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,129
+Grant,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,191
+Grant,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,169
+Grant,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,177
+Grant,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,80
+Grant,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,170
+Grant,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,184
+Grant,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Grant,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,52
+Grant,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,148
+Grant,PRECINCT 11A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,127
+Grant,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,230
+Grant,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Grant,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,78
+Grant,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,157
+Grant,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,122
+Grant,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,102
+Grant,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,88
+Grant,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,23
+Grant,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,102
+Grant,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,122
+Grant,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Grant,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,48
+Grant,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,105
+Grant,PRECINCT 11A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,46
+Grant,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,185
+Grant,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,64
+Grant,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,56
+Grant,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,126
+Grant,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,214
+Grant,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,212
+Grant,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,211
+Grant,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,88
+Grant,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,193
+Grant,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,219
+Grant,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,120
+Grant,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,54
+Grant,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,181
+Grant,PRECINCT 11A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,143
+Grant,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,274
+Grant,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,122
+Grant,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,92
+Grant,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,169
+Grant,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,167
+Grant,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,132
+Grant,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,114
+Grant,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,45
+Grant,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,135
+Grant,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,161
+Grant,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,75
+Grant,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,40
+Grant,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,131
+Grant,PRECINCT 11A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,67
+Grant,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,203
+Grant,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,73
+Grant,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,66
+Grant,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,128
+Grant,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,148
+Grant,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,169
+Grant,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,169
+Grant,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,61
+Grant,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Grant,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,169
+Grant,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,89
+Grant,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,61
+Grant,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,138
+Grant,PRECINCT 11A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,118
+Grant,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,231
+Grant,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,108
+Grant,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,75
+Grant,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,163
+Grant,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,160
+Grant,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,135
+Grant,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,112
+Grant,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,31
+Grant,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,132
+Grant,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,168
+Grant,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,93
+Grant,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,63
+Grant,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,153
+Grant,PRECINCT 11A,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Grant,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,223
+Grant,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,86
+Grant,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,80
+Grant,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,156
+Grant,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,176
+Grant,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,174
+Grant,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,184
+Grant,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,77
+Grant,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,161
+Grant,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,173
+Grant,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,86
+Grant,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,36
+Grant,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,123
+Grant,PRECINCT 11A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,115
+Grant,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,230
+Grant,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,102
+Grant,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,64
+Grant,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,135

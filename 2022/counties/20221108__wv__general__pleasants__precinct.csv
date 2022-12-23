@@ -1,0 +1,171 @@
+county,precinct,office,district,party,candidate,votes
+Pleasants,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,207
+Pleasants,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,178
+Pleasants,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,90
+Pleasants,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,104
+Pleasants,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,135
+Pleasants,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,155
+Pleasants,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,94
+Pleasants,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,85
+Pleasants,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,492
+Pleasants,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,112
+Pleasants,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,69
+Pleasants,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,84
+Pleasants,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,23
+Pleasants,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,20
+Pleasants,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,41
+Pleasants,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,34
+Pleasants,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,22
+Pleasants,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,16
+Pleasants,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,198
+Pleasants,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,45
+Pleasants,PRECINCT 1,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,189
+Pleasants,PRECINCT 2,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,156
+Pleasants,PRECINCT 3,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,78
+Pleasants,PRECINCT 4,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,95
+Pleasants,PRECINCT 5,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,123
+Pleasants,PRECINCT 6,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,147
+Pleasants,PRECINCT 7,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,94
+Pleasants,PRECINCT 8,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,74
+Pleasants,PRECINCT 9,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,432
+Pleasants,PRECINCT 11,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,110
+Pleasants,PRECINCT 1,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,92
+Pleasants,PRECINCT 2,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,116
+Pleasants,PRECINCT 3,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,40
+Pleasants,PRECINCT 4,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,29
+Pleasants,PRECINCT 5,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,58
+Pleasants,PRECINCT 6,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,48
+Pleasants,PRECINCT 7,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,25
+Pleasants,PRECINCT 8,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,32
+Pleasants,PRECINCT 9,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,298
+Pleasants,PRECINCT 11,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,56
+Pleasants,PRECINCT 1,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,251
+Pleasants,PRECINCT 2,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,242
+Pleasants,PRECINCT 3,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,106
+Pleasants,PRECINCT 4,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,120
+Pleasants,PRECINCT 5,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,167
+Pleasants,PRECINCT 6,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,178
+Pleasants,PRECINCT 7,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,109
+Pleasants,PRECINCT 8,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,97
+Pleasants,PRECINCT 9,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,652
+Pleasants,PRECINCT 11,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,138
+Pleasants,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,262
+Pleasants,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,253
+Pleasants,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,106
+Pleasants,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,120
+Pleasants,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,169
+Pleasants,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,187
+Pleasants,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,116
+Pleasants,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,95
+Pleasants,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,662
+Pleasants,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP MILLIE FARNSWORTH,143
+Pleasants,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,251
+Pleasants,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,246
+Pleasants,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,108
+Pleasants,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,117
+Pleasants,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,169
+Pleasants,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,181
+Pleasants,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,106
+Pleasants,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,95
+Pleasants,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,639
+Pleasants,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP DOUG RENNER,141
+Pleasants,PRECINCT 1,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,185
+Pleasants,PRECINCT 2,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,126
+Pleasants,PRECINCT 3,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,66
+Pleasants,PRECINCT 4,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,84
+Pleasants,PRECINCT 5,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,136
+Pleasants,PRECINCT 6,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,129
+Pleasants,PRECINCT 7,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,75
+Pleasants,PRECINCT 8,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,79
+Pleasants,PRECINCT 9,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,373
+Pleasants,PRECINCT 11,FOR COUNTY CLERK,,REP,REP JODY LYNN DAVIS,93
+Pleasants,PRECINCT 1,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,99
+Pleasants,PRECINCT 2,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,150
+Pleasants,PRECINCT 3,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,50
+Pleasants,PRECINCT 4,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,44
+Pleasants,PRECINCT 5,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,48
+Pleasants,PRECINCT 6,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,65
+Pleasants,PRECINCT 7,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,46
+Pleasants,PRECINCT 8,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,25
+Pleasants,PRECINCT 9,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,370
+Pleasants,PRECINCT 11,FOR COUNTY CLERK,,DEM,DEM JACOB C. RICHARD,73
+Pleasants,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,110
+Pleasants,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,101
+Pleasants,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,41
+Pleasants,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,51
+Pleasants,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,53
+Pleasants,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,76
+Pleasants,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,43
+Pleasants,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,42
+Pleasants,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,276
+Pleasants,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,58
+Pleasants,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,157
+Pleasants,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,163
+Pleasants,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,77
+Pleasants,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,75
+Pleasants,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,128
+Pleasants,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,117
+Pleasants,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,73
+Pleasants,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,62
+Pleasants,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,424
+Pleasants,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Pleasants,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,83
+Pleasants,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Pleasants,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,24
+Pleasants,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,35
+Pleasants,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,47
+Pleasants,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Pleasants,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,32
+Pleasants,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,27
+Pleasants,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,189
+Pleasants,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,47
+Pleasants,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,201
+Pleasants,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,209
+Pleasants,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,94
+Pleasants,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,93
+Pleasants,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,135
+Pleasants,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,130
+Pleasants,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,87
+Pleasants,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,78
+Pleasants,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,544
+Pleasants,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,112
+Pleasants,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,123
+Pleasants,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,89
+Pleasants,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,42
+Pleasants,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,48
+Pleasants,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,56
+Pleasants,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,70
+Pleasants,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,34
+Pleasants,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Pleasants,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,273
+Pleasants,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,60
+Pleasants,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,147
+Pleasants,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,171
+Pleasants,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,72
+Pleasants,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,78
+Pleasants,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,123
+Pleasants,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,121
+Pleasants,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,80
+Pleasants,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,60
+Pleasants,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,429
+Pleasants,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,92
+Pleasants,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Pleasants,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,78
+Pleasants,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,33
+Pleasants,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,47
+Pleasants,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,58
+Pleasants,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Pleasants,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,34
+Pleasants,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Pleasants,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,248
+Pleasants,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,56
+Pleasants,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,181
+Pleasants,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,194
+Pleasants,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,84
+Pleasants,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,79
+Pleasants,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,125
+Pleasants,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,120
+Pleasants,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,84
+Pleasants,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,62
+Pleasants,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,477
+Pleasants,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,105

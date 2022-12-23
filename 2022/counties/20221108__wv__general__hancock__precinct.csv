@@ -1,0 +1,505 @@
+county,precinct,office,district,party,candidate,votes
+Hancock,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,220
+Hancock,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,163
+Hancock,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,258
+Hancock,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,163
+Hancock,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,379
+Hancock,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,151
+Hancock,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,411
+Hancock,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,289
+Hancock,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,163
+Hancock,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,259
+Hancock,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,367
+Hancock,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,234
+Hancock,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,171
+Hancock,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,103
+Hancock,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,296
+Hancock,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,179
+Hancock,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,265
+Hancock,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,229
+Hancock,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,179
+Hancock,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,143
+Hancock,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,262
+Hancock,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,364
+Hancock,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,262
+Hancock,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,275
+Hancock,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,91
+Hancock,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,90
+Hancock,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,84
+Hancock,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,65
+Hancock,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,124
+Hancock,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,41
+Hancock,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,111
+Hancock,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,80
+Hancock,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,76
+Hancock,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,80
+Hancock,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,122
+Hancock,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,86
+Hancock,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,89
+Hancock,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,75
+Hancock,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,161
+Hancock,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,97
+Hancock,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,163
+Hancock,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,115
+Hancock,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,117
+Hancock,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,81
+Hancock,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,114
+Hancock,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,192
+Hancock,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,139
+Hancock,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,128
+Hancock,PRECINCT 1,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,160
+Hancock,PRECINCT 2,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,131
+Hancock,PRECINCT 3,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,187
+Hancock,PRECINCT 5,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,126
+Hancock,PRECINCT 6,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,288
+Hancock,PRECINCT 7,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,119
+Hancock,PRECINCT 8,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,354
+Hancock,PRECINCT 9,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,231
+Hancock,PRECINCT 10,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,107
+Hancock,PRECINCT 11,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,220
+Hancock,PRECINCT 12,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,300
+Hancock,PRECINCT 13,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,199
+Hancock,PRECINCT 14,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,153
+Hancock,PRECINCT 16,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,87
+Hancock,PRECINCT 17,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,264
+Hancock,PRECINCT 19,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,157
+Hancock,PRECINCT 20,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,238
+Hancock,PRECINCT 21,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,208
+Hancock,PRECINCT 22,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,152
+Hancock,PRECINCT 23,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,124
+Hancock,PRECINCT 24,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,251
+Hancock,PRECINCT 25,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,312
+Hancock,PRECINCT 27,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,225
+Hancock,PRECINCT 28,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,251
+Hancock,PRECINCT 1,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,169
+Hancock,PRECINCT 2,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,146
+Hancock,PRECINCT 3,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,171
+Hancock,PRECINCT 5,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,117
+Hancock,PRECINCT 6,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,250
+Hancock,PRECINCT 7,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,75
+Hancock,PRECINCT 8,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,200
+Hancock,PRECINCT 9,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,161
+Hancock,PRECINCT 10,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,141
+Hancock,PRECINCT 11,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,134
+Hancock,PRECINCT 12,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,196
+Hancock,PRECINCT 13,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,130
+Hancock,PRECINCT 14,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,116
+Hancock,PRECINCT 16,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,94
+Hancock,PRECINCT 17,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,205
+Hancock,PRECINCT 19,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,134
+Hancock,PRECINCT 20,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,202
+Hancock,PRECINCT 21,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,150
+Hancock,PRECINCT 22,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,158
+Hancock,PRECINCT 23,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,113
+Hancock,PRECINCT 24,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,144
+Hancock,PRECINCT 25,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,263
+Hancock,PRECINCT 27,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,187
+Hancock,PRECINCT 28,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,163
+Hancock,PRECINCT 1,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,260
+Hancock,PRECINCT 2,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,209
+Hancock,PRECINCT 3,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,284
+Hancock,PRECINCT 5,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,190
+Hancock,PRECINCT 6,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,437
+Hancock,PRECINCT 7,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,160
+Hancock,PRECINCT 8,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,464
+Hancock,PRECINCT 9,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,337
+Hancock,PRECINCT 10,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,184
+Hancock,PRECINCT 11,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,287
+Hancock,PRECINCT 12,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,366
+Hancock,PRECINCT 13,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,243
+Hancock,PRECINCT 25,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,370
+Hancock,PRECINCT 27,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,257
+Hancock,PRECINCT 28,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,256
+Hancock,PRECINCT 1,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,67
+Hancock,PRECINCT 2,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,68
+Hancock,PRECINCT 3,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,71
+Hancock,PRECINCT 5,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,47
+Hancock,PRECINCT 6,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,91
+Hancock,PRECINCT 7,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,36
+Hancock,PRECINCT 8,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,81
+Hancock,PRECINCT 9,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,54
+Hancock,PRECINCT 10,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,60
+Hancock,PRECINCT 11,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,63
+Hancock,PRECINCT 12,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,127
+Hancock,PRECINCT 13,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,83
+Hancock,PRECINCT 25,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,204
+Hancock,PRECINCT 27,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,150
+Hancock,PRECINCT 28,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,153
+Hancock,PRECINCT 14,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,172
+Hancock,PRECINCT 16,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,106
+Hancock,PRECINCT 17,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,317
+Hancock,PRECINCT 19,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,188
+Hancock,PRECINCT 20,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,288
+Hancock,PRECINCT 21,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,248
+Hancock,PRECINCT 22,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,191
+Hancock,PRECINCT 23,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,149
+Hancock,PRECINCT 24,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,287
+Hancock,PRECINCT 14,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,93
+Hancock,PRECINCT 16,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,81
+Hancock,PRECINCT 17,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,148
+Hancock,PRECINCT 19,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,103
+Hancock,PRECINCT 20,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,153
+Hancock,PRECINCT 21,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,108
+Hancock,PRECINCT 22,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,113
+Hancock,PRECINCT 23,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,83
+Hancock,PRECINCT 24,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,103
+Hancock,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,286
+Hancock,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,238
+Hancock,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,315
+Hancock,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,216
+Hancock,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,486
+Hancock,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,182
+Hancock,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,501
+Hancock,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,350
+Hancock,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,220
+Hancock,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,329
+Hancock,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,438
+Hancock,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,305
+Hancock,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,225
+Hancock,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,139
+Hancock,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,391
+Hancock,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,253
+Hancock,PRECINCT 20,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,378
+Hancock,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,299
+Hancock,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,250
+Hancock,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,202
+Hancock,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,346
+Hancock,PRECINCT 25,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,472
+Hancock,PRECINCT 27,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,322
+Hancock,PRECINCT 28,FOR CIRCUIT CLERK,,REP,REP SANDY CASTO,345
+Hancock,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,294
+Hancock,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,247
+Hancock,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,314
+Hancock,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,215
+Hancock,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,485
+Hancock,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,180
+Hancock,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,483
+Hancock,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,338
+Hancock,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,208
+Hancock,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,314
+Hancock,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,431
+Hancock,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,299
+Hancock,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,218
+Hancock,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,140
+Hancock,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,380
+Hancock,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,244
+Hancock,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,364
+Hancock,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,298
+Hancock,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,245
+Hancock,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,198
+Hancock,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,347
+Hancock,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,479
+Hancock,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,321
+Hancock,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP PAUL REX COWEY III,339
+Hancock,PRECINCT 1,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,284
+Hancock,PRECINCT 2,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,235
+Hancock,PRECINCT 3,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,309
+Hancock,PRECINCT 5,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,207
+Hancock,PRECINCT 6,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,479
+Hancock,PRECINCT 7,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,180
+Hancock,PRECINCT 8,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,494
+Hancock,PRECINCT 9,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,340
+Hancock,PRECINCT 10,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,214
+Hancock,PRECINCT 11,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,321
+Hancock,PRECINCT 12,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,441
+Hancock,PRECINCT 13,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,300
+Hancock,PRECINCT 14,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,223
+Hancock,PRECINCT 16,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,139
+Hancock,PRECINCT 17,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,393
+Hancock,PRECINCT 19,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,246
+Hancock,PRECINCT 20,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,379
+Hancock,PRECINCT 21,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,297
+Hancock,PRECINCT 22,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,245
+Hancock,PRECINCT 23,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,201
+Hancock,PRECINCT 24,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,349
+Hancock,PRECINCT 25,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,478
+Hancock,PRECINCT 27,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,328
+Hancock,PRECINCT 28,FOR COUNTY CLERK,,REP,REP KARAN (BAIER) VALENTI,347
+Hancock,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,165
+Hancock,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,128
+Hancock,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,185
+Hancock,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,108
+Hancock,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,250
+Hancock,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,104
+Hancock,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,257
+Hancock,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,175
+Hancock,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,113
+Hancock,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,160
+Hancock,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,241
+Hancock,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,162
+Hancock,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,122
+Hancock,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,98
+Hancock,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,233
+Hancock,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,133
+Hancock,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,215
+Hancock,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,147
+Hancock,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,153
+Hancock,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,107
+Hancock,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,196
+Hancock,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,264
+Hancock,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,205
+Hancock,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,198
+Hancock,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,145
+Hancock,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,128
+Hancock,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,151
+Hancock,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,114
+Hancock,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,257
+Hancock,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,83
+Hancock,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,270
+Hancock,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,197
+Hancock,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,116
+Hancock,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,176
+Hancock,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,233
+Hancock,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,159
+Hancock,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,135
+Hancock,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,74
+Hancock,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,213
+Hancock,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,135
+Hancock,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,210
+Hancock,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,186
+Hancock,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,136
+Hancock,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,114
+Hancock,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,173
+Hancock,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,293
+Hancock,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,195
+Hancock,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,199
+Hancock,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,127
+Hancock,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,115
+Hancock,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,166
+Hancock,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,115
+Hancock,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,225
+Hancock,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,90
+Hancock,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,225
+Hancock,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,147
+Hancock,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,100
+Hancock,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,157
+Hancock,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,195
+Hancock,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,127
+Hancock,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,115
+Hancock,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,70
+Hancock,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,182
+Hancock,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,112
+Hancock,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,173
+Hancock,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,136
+Hancock,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,126
+Hancock,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,98
+Hancock,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,184
+Hancock,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,226
+Hancock,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,171
+Hancock,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,179
+Hancock,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,190
+Hancock,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,147
+Hancock,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,177
+Hancock,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,119
+Hancock,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,292
+Hancock,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,104
+Hancock,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,324
+Hancock,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,232
+Hancock,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,143
+Hancock,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,192
+Hancock,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,290
+Hancock,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,197
+Hancock,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,150
+Hancock,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,110
+Hancock,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,279
+Hancock,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,166
+Hancock,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,266
+Hancock,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,217
+Hancock,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,180
+Hancock,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,125
+Hancock,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,202
+Hancock,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,339
+Hancock,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,235
+Hancock,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,226
+Hancock,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,148
+Hancock,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,126
+Hancock,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,176
+Hancock,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,112
+Hancock,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,258
+Hancock,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,90
+Hancock,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,283
+Hancock,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,183
+Hancock,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,116
+Hancock,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,158
+Hancock,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,247
+Hancock,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,158
+Hancock,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,117
+Hancock,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,98
+Hancock,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,228
+Hancock,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,131
+Hancock,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,216
+Hancock,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,172
+Hancock,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,131
+Hancock,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,104
+Hancock,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,197
+Hancock,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,286
+Hancock,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,199
+Hancock,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,208
+Hancock,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Hancock,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,132
+Hancock,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,163
+Hancock,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,111
+Hancock,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,241
+Hancock,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,97
+Hancock,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,243
+Hancock,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,186
+Hancock,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,112
+Hancock,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,174
+Hancock,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,223
+Hancock,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,154
+Hancock,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,139
+Hancock,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,79
+Hancock,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,212
+Hancock,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,137
+Hancock,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,204
+Hancock,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,153
+Hancock,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Hancock,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,119
+Hancock,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,171
+Hancock,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,266
+Hancock,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,193
+Hancock,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,185
+Hancock,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,163
+Hancock,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,151
+Hancock,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,196
+Hancock,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,137
+Hancock,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,277
+Hancock,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,98
+Hancock,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,290
+Hancock,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,169
+Hancock,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,122
+Hancock,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,169
+Hancock,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,269
+Hancock,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,175
+Hancock,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,140
+Hancock,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Hancock,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,238
+Hancock,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,154
+Hancock,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,217
+Hancock,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,176
+Hancock,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,151
+Hancock,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,115
+Hancock,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,197
+Hancock,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,300
+Hancock,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,210
+Hancock,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,223
+Hancock,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,157
+Hancock,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,113
+Hancock,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,147
+Hancock,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,95
+Hancock,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,244
+Hancock,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,92
+Hancock,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,252
+Hancock,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,210
+Hancock,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,121
+Hancock,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,170
+Hancock,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,213
+Hancock,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,150
+Hancock,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,123
+Hancock,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,91
+Hancock,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,218
+Hancock,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,120
+Hancock,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,223
+Hancock,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,172
+Hancock,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,147
+Hancock,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,110
+Hancock,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,187
+Hancock,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,257
+Hancock,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,194
+Hancock,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,189
+Hancock,PRECINCT 1,LIBRARY LEVY,,,FOR THE LEVY,233
+Hancock,PRECINCT 2,LIBRARY LEVY,,,FOR THE LEVY,192
+Hancock,PRECINCT 3,LIBRARY LEVY,,,FOR THE LEVY,230
+Hancock,PRECINCT 5,LIBRARY LEVY,,,FOR THE LEVY,149
+Hancock,PRECINCT 6,LIBRARY LEVY,,,FOR THE LEVY,326
+Hancock,PRECINCT 7,LIBRARY LEVY,,,FOR THE LEVY,99
+Hancock,PRECINCT 8,LIBRARY LEVY,,,FOR THE LEVY,321
+Hancock,PRECINCT 9,LIBRARY LEVY,,,FOR THE LEVY,230
+Hancock,PRECINCT 10,LIBRARY LEVY,,,FOR THE LEVY,181
+Hancock,PRECINCT 11,LIBRARY LEVY,,,FOR THE LEVY,186
+Hancock,PRECINCT 12,LIBRARY LEVY,,,FOR THE LEVY,315
+Hancock,PRECINCT 13,LIBRARY LEVY,,,FOR THE LEVY,187
+Hancock,PRECINCT 14,LIBRARY LEVY,,,FOR THE LEVY,158
+Hancock,PRECINCT 16,LIBRARY LEVY,,,FOR THE LEVY,121
+Hancock,PRECINCT 17,LIBRARY LEVY,,,FOR THE LEVY,330
+Hancock,PRECINCT 19,LIBRARY LEVY,,,FOR THE LEVY,175
+Hancock,PRECINCT 20,LIBRARY LEVY,,,FOR THE LEVY,304
+Hancock,PRECINCT 21,LIBRARY LEVY,,,FOR THE LEVY,237
+Hancock,PRECINCT 22,LIBRARY LEVY,,,FOR THE LEVY,209
+Hancock,PRECINCT 23,LIBRARY LEVY,,,FOR THE LEVY,119
+Hancock,PRECINCT 24,LIBRARY LEVY,,,FOR THE LEVY,238
+Hancock,PRECINCT 25,LIBRARY LEVY,,,FOR THE LEVY,387
+Hancock,PRECINCT 27,LIBRARY LEVY,,,FOR THE LEVY,250
+Hancock,PRECINCT 28,LIBRARY LEVY,,,FOR THE LEVY,250
+Hancock,PRECINCT 1,LIBRARY LEVY,,,AGAINST THE LEVY,93
+Hancock,PRECINCT 2,LIBRARY LEVY,,,AGAINST THE LEVY,79
+Hancock,PRECINCT 3,LIBRARY LEVY,,,AGAINST THE LEVY,119
+Hancock,PRECINCT 5,LIBRARY LEVY,,,AGAINST THE LEVY,89
+Hancock,PRECINCT 6,LIBRARY LEVY,,,AGAINST THE LEVY,197
+Hancock,PRECINCT 7,LIBRARY LEVY,,,AGAINST THE LEVY,93
+Hancock,PRECINCT 8,LIBRARY LEVY,,,AGAINST THE LEVY,221
+Hancock,PRECINCT 9,LIBRARY LEVY,,,AGAINST THE LEVY,150
+Hancock,PRECINCT 10,LIBRARY LEVY,,,AGAINST THE LEVY,64
+Hancock,PRECINCT 11,LIBRARY LEVY,,,AGAINST THE LEVY,154
+Hancock,PRECINCT 12,LIBRARY LEVY,,,AGAINST THE LEVY,173
+Hancock,PRECINCT 13,LIBRARY LEVY,,,AGAINST THE LEVY,134
+Hancock,PRECINCT 14,LIBRARY LEVY,,,AGAINST THE LEVY,109
+Hancock,PRECINCT 16,LIBRARY LEVY,,,AGAINST THE LEVY,56
+Hancock,PRECINCT 17,LIBRARY LEVY,,,AGAINST THE LEVY,138
+Hancock,PRECINCT 19,LIBRARY LEVY,,,AGAINST THE LEVY,104
+Hancock,PRECINCT 20,LIBRARY LEVY,,,AGAINST THE LEVY,137
+Hancock,PRECINCT 21,LIBRARY LEVY,,,AGAINST THE LEVY,108
+Hancock,PRECINCT 22,LIBRARY LEVY,,,AGAINST THE LEVY,94
+Hancock,PRECINCT 23,LIBRARY LEVY,,,AGAINST THE LEVY,101
+Hancock,PRECINCT 24,LIBRARY LEVY,,,AGAINST THE LEVY,153
+Hancock,PRECINCT 25,LIBRARY LEVY,,,AGAINST THE LEVY,178
+Hancock,PRECINCT 27,LIBRARY LEVY,,,AGAINST THE LEVY,157
+Hancock,PRECINCT 28,LIBRARY LEVY,,,AGAINST THE LEVY,156
+Hancock,PRECINCT 1,BOE LEVY,,,For the Levy,227
+Hancock,PRECINCT 2,BOE LEVY,,,For the Levy,186
+Hancock,PRECINCT 3,BOE LEVY,,,For the Levy,229
+Hancock,PRECINCT 5,BOE LEVY,,,For the Levy,155
+Hancock,PRECINCT 6,BOE LEVY,,,For the Levy,324
+Hancock,PRECINCT 7,BOE LEVY,,,For the Levy,102
+Hancock,PRECINCT 8,BOE LEVY,,,For the Levy,354
+Hancock,PRECINCT 9,BOE LEVY,,,For the Levy,234
+Hancock,PRECINCT 10,BOE LEVY,,,For the Levy,169
+Hancock,PRECINCT 11,BOE LEVY,,,For the Levy,178
+Hancock,PRECINCT 12,BOE LEVY,,,For the Levy,314
+Hancock,PRECINCT 13,BOE LEVY,,,For the Levy,189
+Hancock,PRECINCT 14,BOE LEVY,,,For the Levy,149
+Hancock,PRECINCT 16,BOE LEVY,,,For the Levy,133
+Hancock,PRECINCT 17,BOE LEVY,,,For the Levy,315
+Hancock,PRECINCT 19,BOE LEVY,,,For the Levy,188
+Hancock,PRECINCT 20,BOE LEVY,,,For the Levy,308
+Hancock,PRECINCT 21,BOE LEVY,,,For the Levy,245
+Hancock,PRECINCT 22,BOE LEVY,,,For the Levy,204
+Hancock,PRECINCT 23,BOE LEVY,,,For the Levy,127
+Hancock,PRECINCT 24,BOE LEVY,,,For the Levy,224
+Hancock,PRECINCT 25,BOE LEVY,,,For the Levy,384
+Hancock,PRECINCT 27,BOE LEVY,,,For the Levy,250
+Hancock,PRECINCT 28,BOE LEVY,,,For the Levy,248
+Hancock,PRECINCT 1,BOE LEVY,,,Against the Levy,101
+Hancock,PRECINCT 2,BOE LEVY,,,Against the Levy,85
+Hancock,PRECINCT 3,BOE LEVY,,,Against the Levy,117
+Hancock,PRECINCT 5,BOE LEVY,,,Against the Levy,79
+Hancock,PRECINCT 6,BOE LEVY,,,Against the Levy,198
+Hancock,PRECINCT 7,BOE LEVY,,,Against the Levy,87
+Hancock,PRECINCT 8,BOE LEVY,,,Against the Levy,190
+Hancock,PRECINCT 9,BOE LEVY,,,Against the Levy,144
+Hancock,PRECINCT 10,BOE LEVY,,,Against the Levy,75
+Hancock,PRECINCT 11,BOE LEVY,,,Against the Levy,165
+Hancock,PRECINCT 12,BOE LEVY,,,Against the Levy,167
+Hancock,PRECINCT 13,BOE LEVY,,,Against the Levy,131
+Hancock,PRECINCT 14,BOE LEVY,,,Against the Levy,112
+Hancock,PRECINCT 16,BOE LEVY,,,Against the Levy,48
+Hancock,PRECINCT 17,BOE LEVY,,,Against the Levy,147
+Hancock,PRECINCT 19,BOE LEVY,,,Against the Levy,90
+Hancock,PRECINCT 20,BOE LEVY,,,Against the Levy,133
+Hancock,PRECINCT 21,BOE LEVY,,,Against the Levy,105
+Hancock,PRECINCT 22,BOE LEVY,,,Against the Levy,98
+Hancock,PRECINCT 23,BOE LEVY,,,Against the Levy,98
+Hancock,PRECINCT 24,BOE LEVY,,,Against the Levy,162
+Hancock,PRECINCT 25,BOE LEVY,,,Against the Levy,169
+Hancock,PRECINCT 27,BOE LEVY,,,Against the Levy,154
+Hancock,PRECINCT 28,BOE LEVY,,,Against the Levy,151

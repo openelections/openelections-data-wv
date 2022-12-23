@@ -1,0 +1,210 @@
+county,precinct,office,district,party,candidate,votes
+Tucker,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,75
+Tucker,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,232
+Tucker,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,170
+Tucker,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,138
+Tucker,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,253
+Tucker,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,56
+Tucker,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,130
+Tucker,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,128
+Tucker,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,83
+Tucker,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,181
+Tucker,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,234
+Tucker,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,25
+Tucker,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,93
+Tucker,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,56
+Tucker,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,56
+Tucker,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,90
+Tucker,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,15
+Tucker,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,147
+Tucker,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,61
+Tucker,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,147
+Tucker,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,111
+Tucker,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,88
+Tucker,PRECINCT 1,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,67
+Tucker,PRECINCT 2,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,241
+Tucker,PRECINCT 3,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,182
+Tucker,PRECINCT 4,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,139
+Tucker,PRECINCT 5,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,261
+Tucker,PRECINCT 10,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,60
+Tucker,PRECINCT 12,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,127
+Tucker,PRECINCT 14,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,128
+Tucker,PRECINCT 15,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,88
+Tucker,PRECINCT 16,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,177
+Tucker,PRECINCT 24,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,232
+Tucker,PRECINCT 1,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,31
+Tucker,PRECINCT 2,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,79
+Tucker,PRECINCT 3,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,43
+Tucker,PRECINCT 4,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,50
+Tucker,PRECINCT 5,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,79
+Tucker,PRECINCT 10,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,9
+Tucker,PRECINCT 12,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,147
+Tucker,PRECINCT 14,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,59
+Tucker,PRECINCT 15,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,144
+Tucker,PRECINCT 16,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,109
+Tucker,PRECINCT 24,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,90
+Tucker,PRECINCT 1,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,76
+Tucker,PRECINCT 2,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,271
+Tucker,PRECINCT 3,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,190
+Tucker,PRECINCT 4,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,163
+Tucker,PRECINCT 5,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,286
+Tucker,PRECINCT 10,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,60
+Tucker,PRECINCT 12,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,188
+Tucker,PRECINCT 14,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,153
+Tucker,PRECINCT 15,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,127
+Tucker,PRECINCT 16,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,201
+Tucker,PRECINCT 24,HOUSE OF DELEGATES, 85th District,REP,JOHN PAUL HOTT II,258
+Tucker,PRECINCT 1,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,90
+Tucker,PRECINCT 2,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,261
+Tucker,PRECINCT 3,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,197
+Tucker,PRECINCT 4,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,161
+Tucker,PRECINCT 5,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,293
+Tucker,PRECINCT 10,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,55
+Tucker,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,226
+Tucker,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,136
+Tucker,PRECINCT 15,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,169
+Tucker,PRECINCT 16,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,217
+Tucker,PRECINCT 24,FOR CIRCUIT CLERK,,DEM,DEM SHARON MOATS,269
+Tucker,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,92
+Tucker,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,264
+Tucker,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,187
+Tucker,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,150
+Tucker,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,274
+Tucker,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,58
+Tucker,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,150
+Tucker,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,137
+Tucker,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,93
+Tucker,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,191
+Tucker,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP TIM KNOTTS,272
+Tucker,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,15
+Tucker,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,67
+Tucker,PRECINCT 3,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,53
+Tucker,PRECINCT 4,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,52
+Tucker,PRECINCT 5,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,82
+Tucker,PRECINCT 10,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,16
+Tucker,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,130
+Tucker,PRECINCT 14,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,50
+Tucker,PRECINCT 15,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,141
+Tucker,PRECINCT 16,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,111
+Tucker,PRECINCT 24,FOR COUNTY COMMISSIONER,,DEM,DEM DEBORAH STILES,60
+Tucker,PRECINCT 1,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,103
+Tucker,PRECINCT 2,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,315
+Tucker,PRECINCT 3,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,220
+Tucker,PRECINCT 4,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,194
+Tucker,PRECINCT 5,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,341
+Tucker,PRECINCT 10,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,68
+Tucker,PRECINCT 12,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,234
+Tucker,PRECINCT 14,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,177
+Tucker,PRECINCT 15,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,187
+Tucker,PRECINCT 16,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,255
+Tucker,PRECINCT 24,FOR COUNTY CLERK,,REP,REP SHERRY SIMMONS,316
+Tucker,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,31
+Tucker,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,118
+Tucker,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,59
+Tucker,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,75
+Tucker,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,119
+Tucker,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,24
+Tucker,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,97
+Tucker,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Tucker,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,56
+Tucker,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,81
+Tucker,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,78
+Tucker,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,65
+Tucker,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,215
+Tucker,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,174
+Tucker,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,119
+Tucker,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,224
+Tucker,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,46
+Tucker,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,177
+Tucker,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,115
+Tucker,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,174
+Tucker,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,201
+Tucker,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,254
+Tucker,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,17
+Tucker,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,61
+Tucker,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Tucker,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Tucker,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,73
+Tucker,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,19
+Tucker,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,82
+Tucker,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Tucker,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,64
+Tucker,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,55
+Tucker,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Tucker,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,89
+Tucker,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,283
+Tucker,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,198
+Tucker,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,159
+Tucker,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,286
+Tucker,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,54
+Tucker,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,196
+Tucker,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,148
+Tucker,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,172
+Tucker,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,241
+Tucker,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,283
+Tucker,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,29
+Tucker,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,130
+Tucker,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,85
+Tucker,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,66
+Tucker,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,120
+Tucker,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,30
+Tucker,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,123
+Tucker,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,76
+Tucker,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,105
+Tucker,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,122
+Tucker,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,91
+Tucker,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,69
+Tucker,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,202
+Tucker,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,148
+Tucker,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,132
+Tucker,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,226
+Tucker,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,41
+Tucker,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,148
+Tucker,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,104
+Tucker,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,122
+Tucker,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,165
+Tucker,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,241
+Tucker,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,27
+Tucker,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,98
+Tucker,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,69
+Tucker,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,62
+Tucker,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,105
+Tucker,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,23
+Tucker,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,90
+Tucker,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,60
+Tucker,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Tucker,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Tucker,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,71
+Tucker,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,77
+Tucker,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,244
+Tucker,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,170
+Tucker,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,135
+Tucker,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,254
+Tucker,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,48
+Tucker,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,189
+Tucker,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,128
+Tucker,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,166
+Tucker,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,221
+Tucker,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,269
+Tucker,PRECINCT 1,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,46
+Tucker,PRECINCT 2,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,148
+Tucker,PRECINCT 3,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,98
+Tucker,PRECINCT 4,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,102
+Tucker,PRECINCT 5,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,146
+Tucker,PRECINCT 10,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,17
+Tucker,PRECINCT 12,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,174
+Tucker,PRECINCT 14,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,64
+Tucker,PRECINCT 15,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,188
+Tucker,PRECINCT 16,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,148
+Tucker,PRECINCT 24,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,For the Levy,127
+Tucker,PRECINCT 1,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,62
+Tucker,PRECINCT 2,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,188
+Tucker,PRECINCT 3,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,147
+Tucker,PRECINCT 4,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,103
+Tucker,PRECINCT 5,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,210
+Tucker,PRECINCT 10,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,58
+Tucker,PRECINCT 12,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,102
+Tucker,PRECINCT 14,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,126
+Tucker,PRECINCT 15,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,49
+Tucker,PRECINCT 16,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,142
+Tucker,PRECINCT 24,TUCKER COUNTY AMBULANCE EXCESS LEVY,,,Against the Levy,215

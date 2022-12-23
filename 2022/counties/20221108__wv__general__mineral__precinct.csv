@@ -1,0 +1,400 @@
+county,precinct,office,district,party,candidate,votes
+Mineral,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,215
+Mineral,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,360
+Mineral,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,306
+Mineral,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,189
+Mineral,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,344
+Mineral,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,156
+Mineral,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,479
+Mineral,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,258
+Mineral,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,238
+Mineral,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,343
+Mineral,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,436
+Mineral,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,240
+Mineral,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,134
+Mineral,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,236
+Mineral,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,394
+Mineral,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,152
+Mineral,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,421
+Mineral,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,262
+Mineral,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,200
+Mineral,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,197
+Mineral,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,213
+Mineral,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,209
+Mineral,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,168
+Mineral,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,84
+Mineral,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,47
+Mineral,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,89
+Mineral,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Mineral,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,40
+Mineral,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,80
+Mineral,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,22
+Mineral,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,110
+Mineral,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,29
+Mineral,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,51
+Mineral,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,76
+Mineral,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,128
+Mineral,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,44
+Mineral,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Mineral,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,66
+Mineral,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,91
+Mineral,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,38
+Mineral,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,139
+Mineral,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,44
+Mineral,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,79
+Mineral,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,139
+Mineral,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,128
+Mineral,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,65
+Mineral,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,43
+Mineral,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,65
+Mineral,PRECINCT 1,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,221
+Mineral,PRECINCT 2,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,366
+Mineral,PRECINCT 3,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,304
+Mineral,PRECINCT 4,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,193
+Mineral,PRECINCT 5,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,347
+Mineral,PRECINCT 6,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,156
+Mineral,PRECINCT 7,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,486
+Mineral,PRECINCT 8,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,261
+Mineral,PRECINCT 9,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,244
+Mineral,PRECINCT 10,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,345
+Mineral,PRECINCT 11,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,442
+Mineral,PRECINCT 12,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,246
+Mineral,PRECINCT 13,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,131
+Mineral,PRECINCT 14,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,251
+Mineral,PRECINCT 15,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,404
+Mineral,PRECINCT 16,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,159
+Mineral,PRECINCT 17,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,432
+Mineral,PRECINCT 18,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,270
+Mineral,PRECINCT 19,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,210
+Mineral,PRECINCT 20,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,209
+Mineral,PRECINCT 21,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,223
+Mineral,PRECINCT 22,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,215
+Mineral,PRECINCT 23,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,170
+Mineral,PRECINCT 24,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,98
+Mineral,PRECINCT 1,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,39
+Mineral,PRECINCT 2,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,83
+Mineral,PRECINCT 3,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,39
+Mineral,PRECINCT 4,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,38
+Mineral,PRECINCT 5,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,77
+Mineral,PRECINCT 6,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,21
+Mineral,PRECINCT 7,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,97
+Mineral,PRECINCT 8,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,29
+Mineral,PRECINCT 9,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,41
+Mineral,PRECINCT 10,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,74
+Mineral,PRECINCT 11,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,117
+Mineral,PRECINCT 12,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,37
+Mineral,PRECINCT 13,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,41
+Mineral,PRECINCT 14,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,50
+Mineral,PRECINCT 15,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,77
+Mineral,PRECINCT 16,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,34
+Mineral,PRECINCT 17,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,126
+Mineral,PRECINCT 18,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,37
+Mineral,PRECINCT 19,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,70
+Mineral,PRECINCT 20,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,130
+Mineral,PRECINCT 21,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,117
+Mineral,PRECINCT 22,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,57
+Mineral,PRECINCT 23,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,42
+Mineral,PRECINCT 24,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,52
+Mineral,PRECINCT 1,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,212
+Mineral,PRECINCT 2,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,323
+Mineral,PRECINCT 4,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,170
+Mineral,PRECINCT 5,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,313
+Mineral,PRECINCT 10,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,329
+Mineral,PRECINCT 11,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,438
+Mineral,PRECINCT 13,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,133
+Mineral,PRECINCT 14,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,229
+Mineral,PRECINCT 15,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,406
+Mineral,PRECINCT 16,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,121
+Mineral,PRECINCT 19,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,165
+Mineral,PRECINCT 20,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,158
+Mineral,PRECINCT 21,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,174
+Mineral,PRECINCT 22,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,157
+Mineral,PRECINCT 23,HOUSE OF DELEGATES, 87th District,REP,GARY HOWELL,125
+Mineral,PRECINCT 1,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,50
+Mineral,PRECINCT 2,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,130
+Mineral,PRECINCT 4,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,62
+Mineral,PRECINCT 5,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,109
+Mineral,PRECINCT 10,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,91
+Mineral,PRECINCT 11,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,126
+Mineral,PRECINCT 13,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,40
+Mineral,PRECINCT 14,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,73
+Mineral,PRECINCT 15,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,81
+Mineral,PRECINCT 16,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,70
+Mineral,PRECINCT 19,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,118
+Mineral,PRECINCT 20,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,185
+Mineral,PRECINCT 21,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,168
+Mineral,PRECINCT 22,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,118
+Mineral,PRECINCT 23,HOUSE OF DELEGATES, 87th District,DEM,DAVID BODEN,88
+Mineral,PRECINCT 3,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,322
+Mineral,PRECINCT 6,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,168
+Mineral,PRECINCT 7,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,537
+Mineral,PRECINCT 8,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,279
+Mineral,PRECINCT 9,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,261
+Mineral,PRECINCT 12,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,274
+Mineral,PRECINCT 17,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,493
+Mineral,PRECINCT 18,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,289
+Mineral,PRECINCT 24,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,126
+Mineral,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,246
+Mineral,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,419
+Mineral,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,326
+Mineral,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,218
+Mineral,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,385
+Mineral,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,165
+Mineral,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,545
+Mineral,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,282
+Mineral,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,264
+Mineral,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,387
+Mineral,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,511
+Mineral,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,271
+Mineral,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,163
+Mineral,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,276
+Mineral,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,450
+Mineral,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,179
+Mineral,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,516
+Mineral,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,293
+Mineral,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,247
+Mineral,PRECINCT 20,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,309
+Mineral,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,294
+Mineral,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,258
+Mineral,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,201
+Mineral,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP KRISTA JOHNSON DIXON,131
+Mineral,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",244
+Mineral,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",424
+Mineral,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",329
+Mineral,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",219
+Mineral,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",391
+Mineral,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",163
+Mineral,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",545
+Mineral,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",276
+Mineral,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",253
+Mineral,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",389
+Mineral,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",510
+Mineral,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",270
+Mineral,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",162
+Mineral,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",273
+Mineral,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",441
+Mineral,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",173
+Mineral,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",498
+Mineral,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",283
+Mineral,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",246
+Mineral,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",286
+Mineral,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",282
+Mineral,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",250
+Mineral,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",199
+Mineral,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,"REP CHARLES ""DUTCH"" STAGGS",126
+Mineral,PRECINCT 1,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,248
+Mineral,PRECINCT 2,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,421
+Mineral,PRECINCT 3,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,328
+Mineral,PRECINCT 4,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,220
+Mineral,PRECINCT 5,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,396
+Mineral,PRECINCT 6,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,164
+Mineral,PRECINCT 7,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,554
+Mineral,PRECINCT 8,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,284
+Mineral,PRECINCT 9,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,262
+Mineral,PRECINCT 10,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,391
+Mineral,PRECINCT 11,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,511
+Mineral,PRECINCT 12,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,272
+Mineral,PRECINCT 13,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,162
+Mineral,PRECINCT 14,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,280
+Mineral,PRECINCT 15,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,449
+Mineral,PRECINCT 16,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,182
+Mineral,PRECINCT 17,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,517
+Mineral,PRECINCT 18,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,288
+Mineral,PRECINCT 19,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,250
+Mineral,PRECINCT 20,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,317
+Mineral,PRECINCT 21,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,299
+Mineral,PRECINCT 22,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,256
+Mineral,PRECINCT 23,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,202
+Mineral,PRECINCT 24,FOR COUNTY CLERK,,REP,REP LAUREN ELLIFRITZ,133
+Mineral,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,111
+Mineral,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,201
+Mineral,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,144
+Mineral,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,103
+Mineral,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,202
+Mineral,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Mineral,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,261
+Mineral,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,114
+Mineral,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,138
+Mineral,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,204
+Mineral,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,281
+Mineral,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,138
+Mineral,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,85
+Mineral,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,146
+Mineral,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,224
+Mineral,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,78
+Mineral,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,262
+Mineral,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,121
+Mineral,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,110
+Mineral,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,148
+Mineral,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,146
+Mineral,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,126
+Mineral,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,95
+Mineral,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Mineral,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,146
+Mineral,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,242
+Mineral,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,192
+Mineral,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,120
+Mineral,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,208
+Mineral,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,106
+Mineral,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,301
+Mineral,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,156
+Mineral,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,140
+Mineral,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,195
+Mineral,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,261
+Mineral,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,130
+Mineral,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,85
+Mineral,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,137
+Mineral,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,241
+Mineral,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Mineral,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,284
+Mineral,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,180
+Mineral,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,164
+Mineral,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,189
+Mineral,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,188
+Mineral,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,142
+Mineral,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,115
+Mineral,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,76
+Mineral,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,98
+Mineral,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,175
+Mineral,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,143
+Mineral,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,80
+Mineral,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,178
+Mineral,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Mineral,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,249
+Mineral,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,130
+Mineral,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,119
+Mineral,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,167
+Mineral,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,258
+Mineral,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,125
+Mineral,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,84
+Mineral,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,158
+Mineral,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,226
+Mineral,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,61
+Mineral,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,208
+Mineral,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,102
+Mineral,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,96
+Mineral,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,131
+Mineral,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,109
+Mineral,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,121
+Mineral,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,70
+Mineral,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,66
+Mineral,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,164
+Mineral,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,276
+Mineral,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,202
+Mineral,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,149
+Mineral,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,247
+Mineral,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,121
+Mineral,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,329
+Mineral,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,155
+Mineral,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,168
+Mineral,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,241
+Mineral,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,297
+Mineral,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,153
+Mineral,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,94
+Mineral,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,132
+Mineral,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,255
+Mineral,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,130
+Mineral,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,352
+Mineral,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,201
+Mineral,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,187
+Mineral,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,214
+Mineral,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,231
+Mineral,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,154
+Mineral,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,142
+Mineral,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,80
+Mineral,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,123
+Mineral,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,200
+Mineral,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,146
+Mineral,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,109
+Mineral,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,218
+Mineral,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,82
+Mineral,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,282
+Mineral,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,114
+Mineral,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,154
+Mineral,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,199
+Mineral,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,285
+Mineral,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,128
+Mineral,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,78
+Mineral,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,146
+Mineral,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,254
+Mineral,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,75
+Mineral,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,236
+Mineral,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,109
+Mineral,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,117
+Mineral,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,155
+Mineral,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,140
+Mineral,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,140
+Mineral,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,115
+Mineral,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,68
+Mineral,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,136
+Mineral,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,238
+Mineral,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,189
+Mineral,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,115
+Mineral,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,194
+Mineral,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,94
+Mineral,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,285
+Mineral,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,156
+Mineral,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,128
+Mineral,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,199
+Mineral,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,252
+Mineral,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,135
+Mineral,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,91
+Mineral,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,131
+Mineral,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,207
+Mineral,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,106
+Mineral,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,312
+Mineral,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,184
+Mineral,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Mineral,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Mineral,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,196
+Mineral,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,130
+Mineral,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,94
+Mineral,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,75
+Mineral,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,122
+Mineral,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,207
+Mineral,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,159
+Mineral,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,91
+Mineral,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,205
+Mineral,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,78
+Mineral,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,286
+Mineral,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,140
+Mineral,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,158
+Mineral,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,195
+Mineral,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,268
+Mineral,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,141
+Mineral,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,105
+Mineral,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,148
+Mineral,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,256
+Mineral,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,77
+Mineral,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,245
+Mineral,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,126
+Mineral,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,121
+Mineral,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,142
+Mineral,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,139
+Mineral,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,136
+Mineral,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,93
+Mineral,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,80
+Mineral,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,138
+Mineral,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,240
+Mineral,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,182
+Mineral,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,139
+Mineral,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,219
+Mineral,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,101
+Mineral,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,291
+Mineral,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,138
+Mineral,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,128
+Mineral,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,211
+Mineral,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,287
+Mineral,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,135
+Mineral,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,71
+Mineral,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,142
+Mineral,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,215
+Mineral,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,114
+Mineral,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,316
+Mineral,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,176
+Mineral,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,158
+Mineral,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,203
+Mineral,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,200
+Mineral,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,137
+Mineral,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,120
+Mineral,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,70

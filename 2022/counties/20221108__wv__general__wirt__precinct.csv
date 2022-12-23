@@ -1,0 +1,201 @@
+county,precinct,office,district,party,candidate,votes
+Wirt,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,122
+Wirt,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,54
+Wirt,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,115
+Wirt,PRECINCT 7A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,155
+Wirt,PRECINCT 7B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,95
+Wirt,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,142
+Wirt,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,282
+Wirt,PRECINCT 11A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,114
+Wirt,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,89
+Wirt,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,136
+Wirt,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,17
+Wirt,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,12
+Wirt,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,48
+Wirt,PRECINCT 7A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,27
+Wirt,PRECINCT 7B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,30
+Wirt,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,25
+Wirt,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,38
+Wirt,PRECINCT 11A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,29
+Wirt,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,13
+Wirt,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,33
+Wirt,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Wirt,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Wirt,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Wirt,PRECINCT 7A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Wirt,PRECINCT 7B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,15
+Wirt,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Wirt,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,26
+Wirt,PRECINCT 11A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Wirt,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Wirt,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Wirt,PRECINCT 1,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,116
+Wirt,PRECINCT 2,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,52
+Wirt,PRECINCT 7,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,113
+Wirt,PRECINCT 7A,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,154
+Wirt,PRECINCT 7B,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,99
+Wirt,PRECINCT 8,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,132
+Wirt,PRECINCT 11,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,261
+Wirt,PRECINCT 11A,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,109
+Wirt,PRECINCT 12,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,87
+Wirt,PRECINCT 17,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,135
+Wirt,PRECINCT 1,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,32
+Wirt,PRECINCT 2,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,20
+Wirt,PRECINCT 7,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,72
+Wirt,PRECINCT 7A,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,38
+Wirt,PRECINCT 7B,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,45
+Wirt,PRECINCT 8,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,40
+Wirt,PRECINCT 11,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,87
+Wirt,PRECINCT 11A,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,40
+Wirt,PRECINCT 12,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,26
+Wirt,PRECINCT 17,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,50
+Wirt,PRECINCT 7B,HOUSE OF DELEGATES, 14th District,REP,DAVE FOGGIN,88
+Wirt,PRECINCT 11A,HOUSE OF DELEGATES, 14th District,REP,DAVE FOGGIN,102
+Wirt,PRECINCT 17,HOUSE OF DELEGATES, 14th District,REP,DAVE FOGGIN,129
+Wirt,PRECINCT 7B,HOUSE OF DELEGATES, 14th District,DEM,JIM MARION,51
+Wirt,PRECINCT 11A,HOUSE OF DELEGATES, 14th District,DEM,JIM MARION,47
+Wirt,PRECINCT 17,HOUSE OF DELEGATES, 14th District,DEM,JIM MARION,54
+Wirt,PRECINCT 1,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,120
+Wirt,PRECINCT 2,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,54
+Wirt,PRECINCT 7,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,120
+Wirt,PRECINCT 7A,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,152
+Wirt,PRECINCT 8,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,135
+Wirt,PRECINCT 11,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,286
+Wirt,PRECINCT 12,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,92
+Wirt,PRECINCT 1,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,28
+Wirt,PRECINCT 2,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,17
+Wirt,PRECINCT 7,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,62
+Wirt,PRECINCT 7A,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,39
+Wirt,PRECINCT 8,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,34
+Wirt,PRECINCT 11,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,59
+Wirt,PRECINCT 12,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,19
+Wirt,PRECINCT 1,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",143
+Wirt,PRECINCT 2,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",68
+Wirt,PRECINCT 7,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",181
+Wirt,PRECINCT 7A,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",198
+Wirt,PRECINCT 7B,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",136
+Wirt,PRECINCT 8,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",172
+Wirt,PRECINCT 11,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",332
+Wirt,PRECINCT 11A,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",142
+Wirt,PRECINCT 12,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",109
+Wirt,PRECINCT 17,FOR CIRCUIT CLERK,,REP,"REP CAROL ""QUICK"" FRAME",175
+Wirt,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,121
+Wirt,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,52
+Wirt,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,105
+Wirt,PRECINCT 7A,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,116
+Wirt,PRECINCT 7B,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,74
+Wirt,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,112
+Wirt,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,240
+Wirt,PRECINCT 11A,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,91
+Wirt,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,69
+Wirt,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP JOHN GRIFFIN,75
+Wirt,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,20
+Wirt,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,12
+Wirt,PRECINCT 7,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,64
+Wirt,PRECINCT 7A,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,70
+Wirt,PRECINCT 7B,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,49
+Wirt,PRECINCT 8,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,53
+Wirt,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,81
+Wirt,PRECINCT 11A,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,41
+Wirt,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,39
+Wirt,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM RON AMOS,88
+Wirt,PRECINCT 1,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",10
+Wirt,PRECINCT 2,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",8
+Wirt,PRECINCT 7,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",21
+Wirt,PRECINCT 7A,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",15
+Wirt,PRECINCT 7B,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",21
+Wirt,PRECINCT 8,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",14
+Wirt,PRECINCT 11,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",35
+Wirt,PRECINCT 11A,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",20
+Wirt,PRECINCT 12,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",9
+Wirt,PRECINCT 17,FOR COUNTY COMMISSIONER,,IND,"IND HARLAN ""DOBB"" LOTT",23
+Wirt,PRECINCT 1,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,145
+Wirt,PRECINCT 2,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,65
+Wirt,PRECINCT 7,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,165
+Wirt,PRECINCT 7A,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,195
+Wirt,PRECINCT 7B,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,135
+Wirt,PRECINCT 8,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,172
+Wirt,PRECINCT 11,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,325
+Wirt,PRECINCT 11A,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,148
+Wirt,PRECINCT 12,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,109
+Wirt,PRECINCT 17,FOR COUNTY CLERK,,REP,REP MAROLYN BALDRIGE,172
+Wirt,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,49
+Wirt,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,25
+Wirt,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,70
+Wirt,PRECINCT 7A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,83
+Wirt,PRECINCT 7B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,44
+Wirt,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Wirt,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,125
+Wirt,PRECINCT 11A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,64
+Wirt,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,40
+Wirt,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,64
+Wirt,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,94
+Wirt,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,46
+Wirt,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,114
+Wirt,PRECINCT 7A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,112
+Wirt,PRECINCT 7B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Wirt,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Wirt,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,231
+Wirt,PRECINCT 11A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,83
+Wirt,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,75
+Wirt,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,116
+Wirt,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,40
+Wirt,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,19
+Wirt,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Wirt,PRECINCT 7A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Wirt,PRECINCT 7B,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,55
+Wirt,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,52
+Wirt,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,91
+Wirt,PRECINCT 11A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Wirt,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,26
+Wirt,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,59
+Wirt,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,104
+Wirt,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,53
+Wirt,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,142
+Wirt,PRECINCT 7A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,149
+Wirt,PRECINCT 7B,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,87
+Wirt,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,121
+Wirt,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,263
+Wirt,PRECINCT 11A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,107
+Wirt,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,91
+Wirt,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,123
+Wirt,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,58
+Wirt,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,20
+Wirt,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,70
+Wirt,PRECINCT 7A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,70
+Wirt,PRECINCT 7B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,58
+Wirt,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,61
+Wirt,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,132
+Wirt,PRECINCT 11A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,59
+Wirt,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,39
+Wirt,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,64
+Wirt,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,84
+Wirt,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,53
+Wirt,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,117
+Wirt,PRECINCT 7A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,128
+Wirt,PRECINCT 7B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,83
+Wirt,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,113
+Wirt,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,223
+Wirt,PRECINCT 11A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,91
+Wirt,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,76
+Wirt,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,115
+Wirt,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,67
+Wirt,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,25
+Wirt,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,62
+Wirt,PRECINCT 7A,Amendment No. 4: Education Accountability Amendment,,,FOR,70
+Wirt,PRECINCT 7B,Amendment No. 4: Education Accountability Amendment,,,FOR,54
+Wirt,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,59
+Wirt,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,134
+Wirt,PRECINCT 11A,Amendment No. 4: Education Accountability Amendment,,,FOR,45
+Wirt,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,39
+Wirt,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,64
+Wirt,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,77
+Wirt,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,49
+Wirt,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,121
+Wirt,PRECINCT 7A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,127
+Wirt,PRECINCT 7B,Amendment No. 4: Education Accountability Amendment,,,AGAINST,89
+Wirt,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,116
+Wirt,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,221
+Wirt,PRECINCT 11A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,105
+Wirt,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,75
+Wirt,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,120

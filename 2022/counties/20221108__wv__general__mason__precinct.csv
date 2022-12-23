@@ -1,0 +1,590 @@
+county,precinct,office,district,party,candidate,votes
+Mason,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,45
+Mason,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,36
+Mason,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,63
+Mason,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,100
+Mason,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,75
+Mason,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,105
+Mason,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,100
+Mason,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,105
+Mason,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,155
+Mason,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,190
+Mason,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,29
+Mason,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,116
+Mason,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,243
+Mason,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,207
+Mason,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,159
+Mason,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,240
+Mason,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,189
+Mason,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,147
+Mason,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,226
+Mason,PRECINCT 19LE,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,23
+Mason,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,122
+Mason,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,172
+Mason,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,207
+Mason,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,159
+Mason,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,184
+Mason,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,297
+Mason,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,65
+Mason,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,161
+Mason,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,203
+Mason,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,153
+Mason,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,423
+Mason,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,14
+Mason,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,21
+Mason,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,34
+Mason,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,54
+Mason,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,42
+Mason,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,40
+Mason,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,52
+Mason,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,70
+Mason,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,45
+Mason,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,53
+Mason,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,5
+Mason,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,22
+Mason,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,49
+Mason,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,47
+Mason,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,62
+Mason,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,62
+Mason,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,60
+Mason,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,45
+Mason,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,46
+Mason,PRECINCT 19LE,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,6
+Mason,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,29
+Mason,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,37
+Mason,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,47
+Mason,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,38
+Mason,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,55
+Mason,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,82
+Mason,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Mason,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,43
+Mason,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,46
+Mason,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,43
+Mason,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,127
+Mason,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Mason,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Mason,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Mason,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Mason,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,2
+Mason,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Mason,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Mason,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Mason,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,14
+Mason,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Mason,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,0
+Mason,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Mason,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,14
+Mason,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,2
+Mason,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,14
+Mason,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,16
+Mason,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Mason,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Mason,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Mason,PRECINCT 19LE,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,2
+Mason,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Mason,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Mason,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Mason,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Mason,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Mason,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,16
+Mason,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Mason,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,16
+Mason,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Mason,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Mason,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,20
+Mason,PRECINCT 1,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,48
+Mason,PRECINCT 2,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,47
+Mason,PRECINCT 3,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,71
+Mason,PRECINCT 4,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,120
+Mason,PRECINCT 5,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,91
+Mason,PRECINCT 6,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,106
+Mason,PRECINCT 7,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,109
+Mason,PRECINCT 8,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,120
+Mason,PRECINCT 9,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,177
+Mason,PRECINCT 10,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,193
+Mason,PRECINCT 11,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,31
+Mason,PRECINCT 12,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,119
+Mason,PRECINCT 13,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,253
+Mason,PRECINCT 14,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,200
+Mason,PRECINCT 15,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,165
+Mason,PRECINCT 16,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,249
+Mason,PRECINCT 17,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,188
+Mason,PRECINCT 18,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,155
+Mason,PRECINCT 19,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,232
+Mason,PRECINCT 19LE,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,24
+Mason,PRECINCT 20,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,130
+Mason,PRECINCT 21,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,181
+Mason,PRECINCT 22,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,216
+Mason,PRECINCT 23,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,165
+Mason,PRECINCT 24,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,205
+Mason,PRECINCT 25,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,306
+Mason,PRECINCT 26,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,71
+Mason,PRECINCT 27,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,178
+Mason,PRECINCT 28,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,209
+Mason,PRECINCT 29,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,172
+Mason,PRECINCT 30,STATE SENATOR, 4th Senatorial District,REP,ERIC J. TARR,433
+Mason,PRECINCT 20,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,137
+Mason,PRECINCT 21,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,188
+Mason,PRECINCT 22,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,236
+Mason,PRECINCT 23,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,186
+Mason,PRECINCT 24,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,210
+Mason,PRECINCT 25,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,332
+Mason,PRECINCT 26,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,78
+Mason,PRECINCT 27,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,195
+Mason,PRECINCT 28,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,218
+Mason,PRECINCT 29,HOUSE OF DELEGATES, 17th District,REP,JONATHAN ADAM PINSON,188
+Mason,PRECINCT 1,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,53
+Mason,PRECINCT 2,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,45
+Mason,PRECINCT 3,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,71
+Mason,PRECINCT 4,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,117
+Mason,PRECINCT 5,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,92
+Mason,PRECINCT 6,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,111
+Mason,PRECINCT 7,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,109
+Mason,PRECINCT 8,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,124
+Mason,PRECINCT 9,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,175
+Mason,PRECINCT 10,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,182
+Mason,PRECINCT 11,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,29
+Mason,PRECINCT 12,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,120
+Mason,PRECINCT 13,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,252
+Mason,PRECINCT 14,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,209
+Mason,PRECINCT 15,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,176
+Mason,PRECINCT 16,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,256
+Mason,PRECINCT 17,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,191
+Mason,PRECINCT 18,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,159
+Mason,PRECINCT 19,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,249
+Mason,PRECINCT 19LE,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,27
+Mason,PRECINCT 30,HOUSE OF DELEGATES, 18th District,REP,JIM BUTLER,459
+Mason,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,58
+Mason,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,55
+Mason,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,86
+Mason,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,145
+Mason,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,96
+Mason,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,126
+Mason,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,134
+Mason,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,159
+Mason,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,191
+Mason,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,218
+Mason,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,34
+Mason,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,136
+Mason,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,272
+Mason,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,216
+Mason,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,197
+Mason,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,269
+Mason,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,219
+Mason,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,171
+Mason,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,254
+Mason,PRECINCT 19LE,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,29
+Mason,PRECINCT 20,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,135
+Mason,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,193
+Mason,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,240
+Mason,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,181
+Mason,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,210
+Mason,PRECINCT 25,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,339
+Mason,PRECINCT 26,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,77
+Mason,PRECINCT 27,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,189
+Mason,PRECINCT 28,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,214
+Mason,PRECINCT 29,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,194
+Mason,PRECINCT 30,FOR CIRCUIT CLERK,,REP,REP ELIZABETH A JONES,492
+Mason,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,44
+Mason,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,45
+Mason,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,63
+Mason,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,107
+Mason,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,70
+Mason,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,104
+Mason,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,102
+Mason,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,116
+Mason,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,154
+Mason,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,183
+Mason,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,25
+Mason,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,110
+Mason,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,233
+Mason,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,182
+Mason,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,172
+Mason,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,237
+Mason,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,198
+Mason,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,146
+Mason,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,228
+Mason,PRECINCT 19LE,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,24
+Mason,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,132
+Mason,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,156
+Mason,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,187
+Mason,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,163
+Mason,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,205
+Mason,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,291
+Mason,PRECINCT 26,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,68
+Mason,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,166
+Mason,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,204
+Mason,PRECINCT 29,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,141
+Mason,PRECINCT 30,FOR COUNTY COMMISSIONER,,REP,REP SAM NIBERT,371
+Mason,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,20
+Mason,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,18
+Mason,PRECINCT 3,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,40
+Mason,PRECINCT 4,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,54
+Mason,PRECINCT 5,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,50
+Mason,PRECINCT 6,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,51
+Mason,PRECINCT 7,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,59
+Mason,PRECINCT 8,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,76
+Mason,PRECINCT 9,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,69
+Mason,PRECINCT 10,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,66
+Mason,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,9
+Mason,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,32
+Mason,PRECINCT 13,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,81
+Mason,PRECINCT 14,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,71
+Mason,PRECINCT 15,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,68
+Mason,PRECINCT 16,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,77
+Mason,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,63
+Mason,PRECINCT 18,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,56
+Mason,PRECINCT 19,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,63
+Mason,PRECINCT 19LE,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,7
+Mason,PRECINCT 20,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,28
+Mason,PRECINCT 21,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,60
+Mason,PRECINCT 22,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,78
+Mason,PRECINCT 23,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,44
+Mason,PRECINCT 24,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,58
+Mason,PRECINCT 25,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,108
+Mason,PRECINCT 26,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,23
+Mason,PRECINCT 27,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,58
+Mason,PRECINCT 28,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,54
+Mason,PRECINCT 29,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,69
+Mason,PRECINCT 30,FOR COUNTY COMMISSIONER,,DEM,DEM MARKETTA CRUM,206
+Mason,PRECINCT 1,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,45
+Mason,PRECINCT 2,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,54
+Mason,PRECINCT 3,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,85
+Mason,PRECINCT 4,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,138
+Mason,PRECINCT 5,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,93
+Mason,PRECINCT 6,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,121
+Mason,PRECINCT 7,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,135
+Mason,PRECINCT 8,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,157
+Mason,PRECINCT 9,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,164
+Mason,PRECINCT 10,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,193
+Mason,PRECINCT 11,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,27
+Mason,PRECINCT 12,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,108
+Mason,PRECINCT 13,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,256
+Mason,PRECINCT 14,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,189
+Mason,PRECINCT 15,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,184
+Mason,PRECINCT 16,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,220
+Mason,PRECINCT 17,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,182
+Mason,PRECINCT 18,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,145
+Mason,PRECINCT 19,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,204
+Mason,PRECINCT 19LE,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,27
+Mason,PRECINCT 20,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,129
+Mason,PRECINCT 21,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,157
+Mason,PRECINCT 22,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,217
+Mason,PRECINCT 23,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,166
+Mason,PRECINCT 24,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,204
+Mason,PRECINCT 25,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,323
+Mason,PRECINCT 26,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,72
+Mason,PRECINCT 27,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,186
+Mason,PRECINCT 28,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,204
+Mason,PRECINCT 29,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,181
+Mason,PRECINCT 30,FOR COUNTY CLERK,,DEM,DEM DIANA CROMLEY,457
+Mason,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,27
+Mason,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,30
+Mason,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,60
+Mason,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Mason,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,74
+Mason,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,94
+Mason,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,101
+Mason,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,119
+Mason,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,110
+Mason,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,143
+Mason,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,17
+Mason,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,77
+Mason,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,157
+Mason,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,139
+Mason,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,118
+Mason,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,183
+Mason,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,133
+Mason,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Mason,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,149
+Mason,PRECINCT 19LE,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,20
+Mason,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,83
+Mason,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,133
+Mason,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,152
+Mason,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,120
+Mason,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,153
+Mason,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,212
+Mason,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,54
+Mason,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,124
+Mason,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,141
+Mason,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,110
+Mason,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,316
+Mason,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,28
+Mason,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,34
+Mason,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,36
+Mason,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,61
+Mason,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,43
+Mason,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,51
+Mason,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,57
+Mason,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,64
+Mason,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,109
+Mason,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,96
+Mason,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,16
+Mason,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Mason,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,134
+Mason,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,102
+Mason,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Mason,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,121
+Mason,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,112
+Mason,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,86
+Mason,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,123
+Mason,PRECINCT 19LE,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,11
+Mason,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,77
+Mason,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,77
+Mason,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,109
+Mason,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,78
+Mason,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,95
+Mason,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,174
+Mason,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,34
+Mason,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,91
+Mason,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,101
+Mason,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Mason,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,238
+Mason,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,25
+Mason,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,37
+Mason,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,73
+Mason,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,100
+Mason,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,82
+Mason,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,99
+Mason,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,113
+Mason,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,147
+Mason,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,134
+Mason,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,153
+Mason,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,19
+Mason,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,95
+Mason,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,172
+Mason,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,144
+Mason,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,127
+Mason,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,198
+Mason,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,155
+Mason,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,120
+Mason,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,155
+Mason,PRECINCT 19LE,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,21
+Mason,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,92
+Mason,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,132
+Mason,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,164
+Mason,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,149
+Mason,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,169
+Mason,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,248
+Mason,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,57
+Mason,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,137
+Mason,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,143
+Mason,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,138
+Mason,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,348
+Mason,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,33
+Mason,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,26
+Mason,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,30
+Mason,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Mason,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,38
+Mason,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,54
+Mason,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Mason,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Mason,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Mason,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Mason,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,14
+Mason,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,47
+Mason,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,132
+Mason,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,106
+Mason,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,98
+Mason,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,120
+Mason,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,101
+Mason,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,76
+Mason,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,119
+Mason,PRECINCT 19LE,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,11
+Mason,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Mason,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,83
+Mason,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,102
+Mason,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,60
+Mason,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,92
+Mason,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,154
+Mason,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,30
+Mason,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,88
+Mason,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,111
+Mason,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,72
+Mason,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,227
+Mason,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,33
+Mason,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,23
+Mason,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,55
+Mason,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,79
+Mason,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,57
+Mason,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,91
+Mason,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,80
+Mason,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,103
+Mason,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,94
+Mason,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,133
+Mason,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,18
+Mason,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,71
+Mason,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,135
+Mason,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,114
+Mason,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,125
+Mason,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,163
+Mason,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,120
+Mason,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,92
+Mason,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,144
+Mason,PRECINCT 19LE,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,22
+Mason,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,86
+Mason,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,119
+Mason,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,152
+Mason,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,109
+Mason,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,139
+Mason,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Mason,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,36
+Mason,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,104
+Mason,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,116
+Mason,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,113
+Mason,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,276
+Mason,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,23
+Mason,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,39
+Mason,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,45
+Mason,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,80
+Mason,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,58
+Mason,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Mason,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,78
+Mason,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Mason,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,124
+Mason,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,110
+Mason,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,16
+Mason,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,67
+Mason,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,155
+Mason,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,123
+Mason,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,95
+Mason,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,147
+Mason,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,125
+Mason,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,95
+Mason,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,126
+Mason,PRECINCT 19LE,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,9
+Mason,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,74
+Mason,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,91
+Mason,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,109
+Mason,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,86
+Mason,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,117
+Mason,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,207
+Mason,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,53
+Mason,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,116
+Mason,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,130
+Mason,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,91
+Mason,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,276
+Mason,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,22
+Mason,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,29
+Mason,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,69
+Mason,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,103
+Mason,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,80
+Mason,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,99
+Mason,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,104
+Mason,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,136
+Mason,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,111
+Mason,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,148
+Mason,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,18
+Mason,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,82
+Mason,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,153
+Mason,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,148
+Mason,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,122
+Mason,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,156
+Mason,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,153
+Mason,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,107
+Mason,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,137
+Mason,PRECINCT 19LE,Amendment No. 4: Education Accountability Amendment,,,AGAINST,19
+Mason,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,91
+Mason,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,128
+Mason,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,136
+Mason,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,124
+Mason,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,162
+Mason,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,224
+Mason,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,53
+Mason,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,129
+Mason,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,132
+Mason,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,AGAINST,122
+Mason,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,342
+Mason,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,37
+Mason,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,35
+Mason,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,33
+Mason,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,59
+Mason,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,40
+Mason,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Mason,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,57
+Mason,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Mason,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,111
+Mason,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Mason,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,16
+Mason,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,58
+Mason,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,146
+Mason,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,103
+Mason,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Mason,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,158
+Mason,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Mason,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,85
+Mason,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,136
+Mason,PRECINCT 19LE,Amendment No. 4: Education Accountability Amendment,,,FOR,13
+Mason,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,70
+Mason,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,83
+Mason,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,125
+Mason,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,79
+Mason,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,96
+Mason,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,171
+Mason,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,37
+Mason,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,94
+Mason,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,117
+Mason,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Mason,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,228
+Mason,PRECINCT 1,Board of Education Levies,,,FOR THE LEVIES,28
+Mason,PRECINCT 2,Board of Education Levies,,,FOR THE LEVIES,45
+Mason,PRECINCT 3,Board of Education Levies,,,FOR THE LEVIES,67
+Mason,PRECINCT 4,Board of Education Levies,,,FOR THE LEVIES,101
+Mason,PRECINCT 5,Board of Education Levies,,,FOR THE LEVIES,74
+Mason,PRECINCT 6,Board of Education Levies,,,FOR THE LEVIES,98
+Mason,PRECINCT 7,Board of Education Levies,,,FOR THE LEVIES,106
+Mason,PRECINCT 8,Board of Education Levies,,,FOR THE LEVIES,106
+Mason,PRECINCT 9,Board of Education Levies,,,FOR THE LEVIES,112
+Mason,PRECINCT 10,Board of Education Levies,,,FOR THE LEVIES,126
+Mason,PRECINCT 11,Board of Education Levies,,,FOR THE LEVIES,12
+Mason,PRECINCT 12,Board of Education Levies,,,FOR THE LEVIES,67
+Mason,PRECINCT 13,Board of Education Levies,,,FOR THE LEVIES,166
+Mason,PRECINCT 14,Board of Education Levies,,,FOR THE LEVIES,115
+Mason,PRECINCT 15,Board of Education Levies,,,FOR THE LEVIES,127
+Mason,PRECINCT 16,Board of Education Levies,,,FOR THE LEVIES,155
+Mason,PRECINCT 17,Board of Education Levies,,,FOR THE LEVIES,136
+Mason,PRECINCT 18,Board of Education Levies,,,FOR THE LEVIES,95
+Mason,PRECINCT 19,Board of Education Levies,,,FOR THE LEVIES,135
+Mason,PRECINCT 19LE,Board of Education Levies,,,FOR THE LEVIES,18
+Mason,PRECINCT 20,Board of Education Levies,,,FOR THE LEVIES,90
+Mason,PRECINCT 21,Board of Education Levies,,,FOR THE LEVIES,89
+Mason,PRECINCT 22,Board of Education Levies,,,FOR THE LEVIES,112
+Mason,PRECINCT 23,Board of Education Levies,,,FOR THE LEVIES,117
+Mason,PRECINCT 24,Board of Education Levies,,,FOR THE LEVIES,149
+Mason,PRECINCT 25,Board of Education Levies,,,FOR THE LEVIES,256
+Mason,PRECINCT 26,Board of Education Levies,,,FOR THE LEVIES,53
+Mason,PRECINCT 27,Board of Education Levies,,,FOR THE LEVIES,134
+Mason,PRECINCT 28,Board of Education Levies,,,FOR THE LEVIES,144
+Mason,PRECINCT 29,Board of Education Levies,,,FOR THE LEVIES,116
+Mason,PRECINCT 30,Board of Education Levies,,,FOR THE LEVIES,334
+Mason,PRECINCT 1,Board of Education Levies,,,AGAINST THE LEVIES,32
+Mason,PRECINCT 2,Board of Education Levies,,,AGAINST THE LEVIES,19
+Mason,PRECINCT 3,Board of Education Levies,,,AGAINST THE LEVIES,34
+Mason,PRECINCT 4,Board of Education Levies,,,AGAINST THE LEVIES,62
+Mason,PRECINCT 5,Board of Education Levies,,,AGAINST THE LEVIES,45
+Mason,PRECINCT 6,Board of Education Levies,,,AGAINST THE LEVIES,49
+Mason,PRECINCT 7,Board of Education Levies,,,AGAINST THE LEVIES,54
+Mason,PRECINCT 8,Board of Education Levies,,,AGAINST THE LEVIES,76
+Mason,PRECINCT 9,Board of Education Levies,,,AGAINST THE LEVIES,111
+Mason,PRECINCT 10,Board of Education Levies,,,AGAINST THE LEVIES,118
+Mason,PRECINCT 11,Board of Education Levies,,,AGAINST THE LEVIES,19
+Mason,PRECINCT 12,Board of Education Levies,,,AGAINST THE LEVIES,75
+Mason,PRECINCT 13,Board of Education Levies,,,AGAINST THE LEVIES,135
+Mason,PRECINCT 14,Board of Education Levies,,,AGAINST THE LEVIES,135
+Mason,PRECINCT 15,Board of Education Levies,,,AGAINST THE LEVIES,89
+Mason,PRECINCT 16,Board of Education Levies,,,AGAINST THE LEVIES,155
+Mason,PRECINCT 17,Board of Education Levies,,,AGAINST THE LEVIES,119
+Mason,PRECINCT 18,Board of Education Levies,,,AGAINST THE LEVIES,92
+Mason,PRECINCT 19,Board of Education Levies,,,AGAINST THE LEVIES,148
+Mason,PRECINCT 19LE,Board of Education Levies,,,AGAINST THE LEVIES,13
+Mason,PRECINCT 20,Board of Education Levies,,,AGAINST THE LEVIES,71
+Mason,PRECINCT 21,Board of Education Levies,,,AGAINST THE LEVIES,118
+Mason,PRECINCT 22,Board of Education Levies,,,AGAINST THE LEVIES,145
+Mason,PRECINCT 23,Board of Education Levies,,,AGAINST THE LEVIES,85
+Mason,PRECINCT 24,Board of Education Levies,,,AGAINST THE LEVIES,105
+Mason,PRECINCT 25,Board of Education Levies,,,AGAINST THE LEVIES,136
+Mason,PRECINCT 26,Board of Education Levies,,,AGAINST THE LEVIES,35
+Mason,PRECINCT 27,Board of Education Levies,,,AGAINST THE LEVIES,83
+Mason,PRECINCT 28,Board of Education Levies,,,AGAINST THE LEVIES,106
+Mason,PRECINCT 29,Board of Education Levies,,,AGAINST THE LEVIES,86
+Mason,PRECINCT 30,Board of Education Levies,,,AGAINST THE LEVIES,229

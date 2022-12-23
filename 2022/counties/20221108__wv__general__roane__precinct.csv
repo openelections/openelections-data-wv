@@ -1,0 +1,343 @@
+county,precinct,office,district,party,candidate,votes
+Roane,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,179
+Roane,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,120
+Roane,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,165
+Roane,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,125
+Roane,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,122
+Roane,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,247
+Roane,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,90
+Roane,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,85
+Roane,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,132
+Roane,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,24
+Roane,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,112
+Roane,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,106
+Roane,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,161
+Roane,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,225
+Roane,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,145
+Roane,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,152
+Roane,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,186
+Roane,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,103
+Roane,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,58
+Roane,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Roane,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,45
+Roane,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,39
+Roane,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,34
+Roane,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,50
+Roane,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,25
+Roane,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,31
+Roane,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,71
+Roane,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,20
+Roane,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,53
+Roane,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,52
+Roane,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,103
+Roane,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,77
+Roane,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,56
+Roane,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,44
+Roane,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,52
+Roane,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,28
+Roane,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,12
+Roane,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,11
+Roane,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,11
+Roane,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,9
+Roane,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,12
+Roane,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,15
+Roane,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,7
+Roane,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,11
+Roane,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,24
+Roane,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,6
+Roane,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,12
+Roane,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,15
+Roane,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,18
+Roane,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,24
+Roane,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,15
+Roane,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,10
+Roane,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,30
+Roane,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,13
+Roane,PRECINCT 1,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,168
+Roane,PRECINCT 4,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,121
+Roane,PRECINCT 5,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,156
+Roane,PRECINCT 6,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,120
+Roane,PRECINCT 10,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,124
+Roane,PRECINCT 11,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,233
+Roane,PRECINCT 15,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,92
+Roane,PRECINCT 16,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,81
+Roane,PRECINCT 18,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,132
+Roane,PRECINCT 19,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,28
+Roane,PRECINCT 20,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,106
+Roane,PRECINCT 22,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,102
+Roane,PRECINCT 23,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,154
+Roane,PRECINCT 25,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,224
+Roane,PRECINCT 28,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,145
+Roane,PRECINCT 29,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,136
+Roane,PRECINCT 30,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,192
+Roane,PRECINCT 32,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,108
+Roane,PRECINCT 1,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,78
+Roane,PRECINCT 4,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,48
+Roane,PRECINCT 5,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,70
+Roane,PRECINCT 6,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,49
+Roane,PRECINCT 10,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,45
+Roane,PRECINCT 11,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,81
+Roane,PRECINCT 15,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,33
+Roane,PRECINCT 16,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,48
+Roane,PRECINCT 18,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,96
+Roane,PRECINCT 19,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,23
+Roane,PRECINCT 20,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,71
+Roane,PRECINCT 22,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,71
+Roane,PRECINCT 23,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,130
+Roane,PRECINCT 25,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,105
+Roane,PRECINCT 28,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,72
+Roane,PRECINCT 29,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,69
+Roane,PRECINCT 30,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,75
+Roane,PRECINCT 32,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,37
+Roane,PRECINCT 1,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,180
+Roane,PRECINCT 4,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,127
+Roane,PRECINCT 5,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,169
+Roane,PRECINCT 6,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,125
+Roane,PRECINCT 10,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,130
+Roane,PRECINCT 11,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,243
+Roane,PRECINCT 15,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,91
+Roane,PRECINCT 16,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,85
+Roane,PRECINCT 18,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,132
+Roane,PRECINCT 19,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,28
+Roane,PRECINCT 20,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,98
+Roane,PRECINCT 22,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,108
+Roane,PRECINCT 23,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,150
+Roane,PRECINCT 25,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,229
+Roane,PRECINCT 28,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,148
+Roane,PRECINCT 29,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,146
+Roane,PRECINCT 30,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,197
+Roane,PRECINCT 32,HOUSE OF DELEGATES, 15th District,REP,RILEY KEATON,104
+Roane,PRECINCT 1,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,74
+Roane,PRECINCT 4,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,52
+Roane,PRECINCT 5,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,58
+Roane,PRECINCT 6,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,50
+Roane,PRECINCT 10,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,45
+Roane,PRECINCT 11,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,79
+Roane,PRECINCT 15,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,31
+Roane,PRECINCT 16,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,48
+Roane,PRECINCT 18,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,102
+Roane,PRECINCT 19,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,24
+Roane,PRECINCT 20,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,84
+Roane,PRECINCT 22,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,72
+Roane,PRECINCT 23,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,146
+Roane,PRECINCT 25,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,105
+Roane,PRECINCT 28,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,74
+Roane,PRECINCT 29,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,68
+Roane,PRECINCT 30,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,69
+Roane,PRECINCT 32,HOUSE OF DELEGATES, 15th District,DEM,CHUCK CONNER,44
+Roane,PRECINCT 1,CIRCUIT CLERK,,REP,ANDREA STOCKNER,227
+Roane,PRECINCT 4,CIRCUIT CLERK,,REP,ANDREA STOCKNER,151
+Roane,PRECINCT 5,CIRCUIT CLERK,,REP,ANDREA STOCKNER,204
+Roane,PRECINCT 6,CIRCUIT CLERK,,REP,ANDREA STOCKNER,144
+Roane,PRECINCT 10,CIRCUIT CLERK,,REP,ANDREA STOCKNER,156
+Roane,PRECINCT 11,CIRCUIT CLERK,,REP,ANDREA STOCKNER,287
+Roane,PRECINCT 15,CIRCUIT CLERK,,REP,ANDREA STOCKNER,115
+Roane,PRECINCT 16,CIRCUIT CLERK,,REP,ANDREA STOCKNER,117
+Roane,PRECINCT 18,CIRCUIT CLERK,,REP,ANDREA STOCKNER,196
+Roane,PRECINCT 19,CIRCUIT CLERK,,REP,ANDREA STOCKNER,45
+Roane,PRECINCT 20,CIRCUIT CLERK,,REP,ANDREA STOCKNER,158
+Roane,PRECINCT 22,CIRCUIT CLERK,,REP,ANDREA STOCKNER,155
+Roane,PRECINCT 23,CIRCUIT CLERK,,REP,ANDREA STOCKNER,244
+Roane,PRECINCT 25,CIRCUIT CLERK,,REP,ANDREA STOCKNER,296
+Roane,PRECINCT 28,CIRCUIT CLERK,,REP,ANDREA STOCKNER,200
+Roane,PRECINCT 29,CIRCUIT CLERK,,REP,ANDREA STOCKNER,194
+Roane,PRECINCT 30,CIRCUIT CLERK,,REP,ANDREA STOCKNER,242
+Roane,PRECINCT 32,CIRCUIT CLERK,,REP,ANDREA STOCKNER,126
+Roane,PRECINCT 1,COUNTY COMMISSIONER,,REP,RANDY WHITED,202
+Roane,PRECINCT 4,COUNTY COMMISSIONER,,REP,RANDY WHITED,142
+Roane,PRECINCT 5,COUNTY COMMISSIONER,,REP,RANDY WHITED,178
+Roane,PRECINCT 6,COUNTY COMMISSIONER,,REP,RANDY WHITED,148
+Roane,PRECINCT 10,COUNTY COMMISSIONER,,REP,RANDY WHITED,144
+Roane,PRECINCT 11,COUNTY COMMISSIONER,,REP,RANDY WHITED,254
+Roane,PRECINCT 15,COUNTY COMMISSIONER,,REP,RANDY WHITED,98
+Roane,PRECINCT 16,COUNTY COMMISSIONER,,REP,RANDY WHITED,93
+Roane,PRECINCT 18,COUNTY COMMISSIONER,,REP,RANDY WHITED,163
+Roane,PRECINCT 19,COUNTY COMMISSIONER,,REP,RANDY WHITED,38
+Roane,PRECINCT 20,COUNTY COMMISSIONER,,REP,RANDY WHITED,134
+Roane,PRECINCT 22,COUNTY COMMISSIONER,,REP,RANDY WHITED,133
+Roane,PRECINCT 23,COUNTY COMMISSIONER,,REP,RANDY WHITED,200
+Roane,PRECINCT 25,COUNTY COMMISSIONER,,REP,RANDY WHITED,232
+Roane,PRECINCT 28,COUNTY COMMISSIONER,,REP,RANDY WHITED,159
+Roane,PRECINCT 29,COUNTY COMMISSIONER,,REP,RANDY WHITED,161
+Roane,PRECINCT 30,COUNTY COMMISSIONER,,REP,RANDY WHITED,230
+Roane,PRECINCT 32,COUNTY COMMISSIONER,,REP,RANDY WHITED,118
+Roane,PRECINCT 1,COUNTY CLERK,,REP,SENA MCDONALD,129
+Roane,PRECINCT 4,COUNTY CLERK,,REP,SENA MCDONALD,92
+Roane,PRECINCT 5,COUNTY CLERK,,REP,SENA MCDONALD,122
+Roane,PRECINCT 6,COUNTY CLERK,,REP,SENA MCDONALD,118
+Roane,PRECINCT 10,COUNTY CLERK,,REP,SENA MCDONALD,105
+Roane,PRECINCT 11,COUNTY CLERK,,REP,SENA MCDONALD,181
+Roane,PRECINCT 15,COUNTY CLERK,,REP,SENA MCDONALD,69
+Roane,PRECINCT 16,COUNTY CLERK,,REP,SENA MCDONALD,73
+Roane,PRECINCT 18,COUNTY CLERK,,REP,SENA MCDONALD,100
+Roane,PRECINCT 19,COUNTY CLERK,,REP,SENA MCDONALD,27
+Roane,PRECINCT 20,COUNTY CLERK,,REP,SENA MCDONALD,77
+Roane,PRECINCT 22,COUNTY CLERK,,REP,SENA MCDONALD,84
+Roane,PRECINCT 23,COUNTY CLERK,,REP,SENA MCDONALD,115
+Roane,PRECINCT 25,COUNTY CLERK,,REP,SENA MCDONALD,174
+Roane,PRECINCT 28,COUNTY CLERK,,REP,SENA MCDONALD,122
+Roane,PRECINCT 29,COUNTY CLERK,,REP,SENA MCDONALD,121
+Roane,PRECINCT 30,COUNTY CLERK,,REP,SENA MCDONALD,169
+Roane,PRECINCT 32,COUNTY CLERK,,REP,SENA MCDONALD,89
+Roane,PRECINCT 1,COUNTY CLERK,,DEM,MATTHEW WHITE,123
+Roane,PRECINCT 4,COUNTY CLERK,,DEM,MATTHEW WHITE,78
+Roane,PRECINCT 5,COUNTY CLERK,,DEM,MATTHEW WHITE,100
+Roane,PRECINCT 6,COUNTY CLERK,,DEM,MATTHEW WHITE,53
+Roane,PRECINCT 10,COUNTY CLERK,,DEM,MATTHEW WHITE,63
+Roane,PRECINCT 11,COUNTY CLERK,,DEM,MATTHEW WHITE,140
+Roane,PRECINCT 15,COUNTY CLERK,,DEM,MATTHEW WHITE,54
+Roane,PRECINCT 16,COUNTY CLERK,,DEM,MATTHEW WHITE,61
+Roane,PRECINCT 18,COUNTY CLERK,,DEM,MATTHEW WHITE,138
+Roane,PRECINCT 19,COUNTY CLERK,,DEM,MATTHEW WHITE,26
+Roane,PRECINCT 20,COUNTY CLERK,,DEM,MATTHEW WHITE,105
+Roane,PRECINCT 22,COUNTY CLERK,,DEM,MATTHEW WHITE,95
+Roane,PRECINCT 23,COUNTY CLERK,,DEM,MATTHEW WHITE,177
+Roane,PRECINCT 25,COUNTY CLERK,,DEM,MATTHEW WHITE,167
+Roane,PRECINCT 28,COUNTY CLERK,,DEM,MATTHEW WHITE,100
+Roane,PRECINCT 29,COUNTY CLERK,,DEM,MATTHEW WHITE,91
+Roane,PRECINCT 30,COUNTY CLERK,,DEM,MATTHEW WHITE,100
+Roane,PRECINCT 32,COUNTY CLERK,,DEM,MATTHEW WHITE,58
+Roane,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,140
+Roane,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,107
+Roane,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,145
+Roane,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Roane,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Roane,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,196
+Roane,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,71
+Roane,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,77
+Roane,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,142
+Roane,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,29
+Roane,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,106
+Roane,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,105
+Roane,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,176
+Roane,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,192
+Roane,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,129
+Roane,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,127
+Roane,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,151
+Roane,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Roane,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,96
+Roane,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,66
+Roane,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,77
+Roane,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,76
+Roane,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,50
+Roane,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,119
+Roane,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,47
+Roane,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,52
+Roane,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,88
+Roane,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,20
+Roane,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,69
+Roane,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Roane,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,110
+Roane,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,128
+Roane,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,86
+Roane,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,84
+Roane,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,118
+Roane,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,49
+Roane,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,175
+Roane,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,122
+Roane,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,158
+Roane,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,122
+Roane,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,127
+Roane,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,232
+Roane,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,80
+Roane,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,83
+Roane,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,150
+Roane,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,42
+Roane,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,130
+Roane,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,121
+Roane,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,211
+Roane,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,219
+Roane,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,140
+Roane,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,129
+Roane,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,179
+Roane,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,107
+Roane,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,76
+Roane,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,55
+Roane,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,69
+Roane,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,53
+Roane,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Roane,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,88
+Roane,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,43
+Roane,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Roane,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,84
+Roane,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,8
+Roane,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Roane,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,59
+Roane,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,83
+Roane,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,118
+Roane,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,81
+Roane,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,83
+Roane,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Roane,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,42
+Roane,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,134
+Roane,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,116
+Roane,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,144
+Roane,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,106
+Roane,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,118
+Roane,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,195
+Roane,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,72
+Roane,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,84
+Roane,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,130
+Roane,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,38
+Roane,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,93
+Roane,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,101
+Roane,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,167
+Roane,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,179
+Roane,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,126
+Roane,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,122
+Roane,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,147
+Roane,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,98
+Roane,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,105
+Roane,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,56
+Roane,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,76
+Roane,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,68
+Roane,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,54
+Roane,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,121
+Roane,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,51
+Roane,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Roane,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,100
+Roane,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,12
+Roane,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,86
+Roane,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,71
+Roane,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,120
+Roane,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,144
+Roane,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,89
+Roane,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,91
+Roane,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,123
+Roane,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,50
+Roane,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,154
+Roane,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,110
+Roane,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,137
+Roane,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,106
+Roane,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,108
+Roane,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,190
+Roane,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,71
+Roane,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,83
+Roane,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,144
+Roane,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,35
+Roane,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,109
+Roane,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,118
+Roane,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,176
+Roane,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,193
+Roane,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,129
+Roane,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,AGAINST,124
+Roane,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,172
+Roane,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,AGAINST,92
+Roane,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,90
+Roane,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,64
+Roane,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Roane,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,69
+Roane,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,67
+Roane,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,130
+Roane,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Roane,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,52
+Roane,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,91
+Roane,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,15
+Roane,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,70
+Roane,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,58
+Roane,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,114
+Roane,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,137
+Roane,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,92
+Roane,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,FOR,92
+Roane,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,98
+Roane,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,FOR,57

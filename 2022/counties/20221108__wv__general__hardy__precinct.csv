@@ -1,0 +1,253 @@
+county,precinct,office,district,party,candidate,votes
+Hardy,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,246
+Hardy,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,181
+Hardy,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,156
+Hardy,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,239
+Hardy,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,249
+Hardy,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,235
+Hardy,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,193
+Hardy,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,211
+Hardy,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,174
+Hardy,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,144
+Hardy,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,405
+Hardy,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,270
+Hardy,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,284
+Hardy,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,84
+Hardy,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,92
+Hardy,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,51
+Hardy,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,33
+Hardy,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,115
+Hardy,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,41
+Hardy,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,44
+Hardy,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,82
+Hardy,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,54
+Hardy,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,73
+Hardy,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Hardy,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,118
+Hardy,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,59
+Hardy,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,50
+Hardy,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,26
+Hardy,PRECINCT 1,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,244
+Hardy,PRECINCT 2,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,178
+Hardy,PRECINCT 3,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,156
+Hardy,PRECINCT 5,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,234
+Hardy,PRECINCT 6,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,240
+Hardy,PRECINCT 7,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,228
+Hardy,PRECINCT 12,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,181
+Hardy,PRECINCT 13,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,201
+Hardy,PRECINCT 14,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,164
+Hardy,PRECINCT 15,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,141
+Hardy,PRECINCT 16,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,396
+Hardy,PRECINCT 18,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,260
+Hardy,PRECINCT 19,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,266
+Hardy,PRECINCT 20,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,85
+Hardy,PRECINCT 1,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,89
+Hardy,PRECINCT 2,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,52
+Hardy,PRECINCT 3,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,31
+Hardy,PRECINCT 5,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,116
+Hardy,PRECINCT 6,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,50
+Hardy,PRECINCT 7,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,45
+Hardy,PRECINCT 12,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,85
+Hardy,PRECINCT 13,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,58
+Hardy,PRECINCT 14,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,79
+Hardy,PRECINCT 15,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,39
+Hardy,PRECINCT 16,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,116
+Hardy,PRECINCT 18,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,61
+Hardy,PRECINCT 19,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,58
+Hardy,PRECINCT 20,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,24
+Hardy,PRECINCT 1,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,261
+Hardy,PRECINCT 2,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,186
+Hardy,PRECINCT 3,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,157
+Hardy,PRECINCT 5,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,232
+Hardy,PRECINCT 6,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,248
+Hardy,PRECINCT 7,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,232
+Hardy,PRECINCT 12,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,200
+Hardy,PRECINCT 13,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,199
+Hardy,PRECINCT 14,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,170
+Hardy,PRECINCT 15,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,147
+Hardy,PRECINCT 16,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,395
+Hardy,PRECINCT 18,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,279
+Hardy,PRECINCT 19,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,292
+Hardy,PRECINCT 20,HOUSE OF DELEGATES, 86th District,REP,BRYAN C. WARD,89
+Hardy,PRECINCT 1,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,83
+Hardy,PRECINCT 2,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,47
+Hardy,PRECINCT 3,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,34
+Hardy,PRECINCT 5,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,120
+Hardy,PRECINCT 6,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,48
+Hardy,PRECINCT 7,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,45
+Hardy,PRECINCT 12,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,70
+Hardy,PRECINCT 13,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,64
+Hardy,PRECINCT 14,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,87
+Hardy,PRECINCT 15,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,37
+Hardy,PRECINCT 16,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,127
+Hardy,PRECINCT 18,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,50
+Hardy,PRECINCT 19,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,47
+Hardy,PRECINCT 20,HOUSE OF DELEGATES, 86th District,DEM,JAMESON PAUL FREEMAN,22
+Hardy,PRECINCT 1,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,227
+Hardy,PRECINCT 2,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,143
+Hardy,PRECINCT 3,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,127
+Hardy,PRECINCT 5,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,262
+Hardy,PRECINCT 6,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,198
+Hardy,PRECINCT 7,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,181
+Hardy,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,228
+Hardy,PRECINCT 13,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,224
+Hardy,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,206
+Hardy,PRECINCT 15,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,134
+Hardy,PRECINCT 16,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,410
+Hardy,PRECINCT 18,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,248
+Hardy,PRECINCT 19,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,261
+Hardy,PRECINCT 20,FOR CIRCUIT CLERK,,DEM,DEM KELLY J. SHOCKEY,81
+Hardy,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",305
+Hardy,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",211
+Hardy,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",171
+Hardy,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",297
+Hardy,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",263
+Hardy,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",255
+Hardy,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",228
+Hardy,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",221
+Hardy,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",204
+Hardy,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",169
+Hardy,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",458
+Hardy,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",297
+Hardy,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",303
+Hardy,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,"REP DAVID ""JAY"" FANSLER",87
+Hardy,PRECINCT 1,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,184
+Hardy,PRECINCT 2,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,141
+Hardy,PRECINCT 3,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,110
+Hardy,PRECINCT 5,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,162
+Hardy,PRECINCT 6,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,168
+Hardy,PRECINCT 7,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,174
+Hardy,PRECINCT 12,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,109
+Hardy,PRECINCT 13,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,90
+Hardy,PRECINCT 14,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,94
+Hardy,PRECINCT 15,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,101
+Hardy,PRECINCT 16,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,210
+Hardy,PRECINCT 18,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,149
+Hardy,PRECINCT 19,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,148
+Hardy,PRECINCT 20,FOR COUNTY CLERK,,REP,REP TREVOR SOUTHERLY,46
+Hardy,PRECINCT 1,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,161
+Hardy,PRECINCT 2,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,95
+Hardy,PRECINCT 3,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,81
+Hardy,PRECINCT 5,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,192
+Hardy,PRECINCT 6,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,129
+Hardy,PRECINCT 7,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,105
+Hardy,PRECINCT 12,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,175
+Hardy,PRECINCT 13,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,180
+Hardy,PRECINCT 14,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,170
+Hardy,PRECINCT 15,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,86
+Hardy,PRECINCT 16,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,327
+Hardy,PRECINCT 18,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,185
+Hardy,PRECINCT 19,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,194
+Hardy,PRECINCT 20,FOR COUNTY CLERK,,DEM,DEM GREGORY L. ELY,64
+Hardy,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,156
+Hardy,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,101
+Hardy,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,75
+Hardy,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,126
+Hardy,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,116
+Hardy,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,96
+Hardy,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,104
+Hardy,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,90
+Hardy,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,86
+Hardy,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,80
+Hardy,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,169
+Hardy,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,101
+Hardy,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,119
+Hardy,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,54
+Hardy,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,173
+Hardy,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,118
+Hardy,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,111
+Hardy,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,215
+Hardy,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,170
+Hardy,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,170
+Hardy,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,164
+Hardy,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,173
+Hardy,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,161
+Hardy,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,102
+Hardy,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,346
+Hardy,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,222
+Hardy,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,217
+Hardy,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,57
+Hardy,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,122
+Hardy,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,88
+Hardy,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Hardy,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,96
+Hardy,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,72
+Hardy,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,83
+Hardy,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,70
+Hardy,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,67
+Hardy,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,64
+Hardy,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Hardy,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,150
+Hardy,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,79
+Hardy,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,82
+Hardy,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Hardy,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,215
+Hardy,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,137
+Hardy,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,135
+Hardy,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,254
+Hardy,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,219
+Hardy,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,190
+Hardy,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,207
+Hardy,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,202
+Hardy,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,186
+Hardy,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,123
+Hardy,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,376
+Hardy,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,250
+Hardy,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,259
+Hardy,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,69
+Hardy,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,128
+Hardy,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,91
+Hardy,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,68
+Hardy,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,121
+Hardy,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,80
+Hardy,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,103
+Hardy,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,114
+Hardy,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,106
+Hardy,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,102
+Hardy,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,66
+Hardy,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,185
+Hardy,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,123
+Hardy,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,140
+Hardy,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,43
+Hardy,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,201
+Hardy,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,125
+Hardy,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,114
+Hardy,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,230
+Hardy,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,206
+Hardy,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,168
+Hardy,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Hardy,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,158
+Hardy,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,148
+Hardy,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,114
+Hardy,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,324
+Hardy,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,195
+Hardy,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,196
+Hardy,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,66
+Hardy,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,144
+Hardy,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,106
+Hardy,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,70
+Hardy,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,103
+Hardy,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,96
+Hardy,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,89
+Hardy,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,96
+Hardy,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,96
+Hardy,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,97
+Hardy,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Hardy,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,181
+Hardy,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,118
+Hardy,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,113
+Hardy,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Hardy,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,191
+Hardy,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,118
+Hardy,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,117
+Hardy,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,244
+Hardy,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,193
+Hardy,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,182
+Hardy,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,181
+Hardy,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,173
+Hardy,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,156
+Hardy,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,114
+Hardy,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,344
+Hardy,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,211
+Hardy,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,222
+Hardy,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,71

@@ -1,0 +1,457 @@
+county,precinct,office,district,party,candidate,votes
+Brooke,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,456
+Brooke,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,211
+Brooke,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,123
+Brooke,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,110
+Brooke,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,153
+Brooke,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,262
+Brooke,PRECINCT 20A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,181
+Brooke,PRECINCT 20B,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,85
+Brooke,PRECINCT 21B,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,233
+Brooke,PRECINCT 23A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,307
+Brooke,PRECINCT 23C,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,117
+Brooke,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,283
+Brooke,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,116
+Brooke,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,195
+Brooke,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,334
+Brooke,PRECINCT 34,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,283
+Brooke,PRECINCT 35A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,213
+Brooke,PRECINCT 35B,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,212
+Brooke,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,235
+Brooke,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,297
+Brooke,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,113
+Brooke,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,59
+Brooke,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,98
+Brooke,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,55
+Brooke,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,103
+Brooke,PRECINCT 20A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,102
+Brooke,PRECINCT 20B,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,40
+Brooke,PRECINCT 21B,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,114
+Brooke,PRECINCT 23A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,166
+Brooke,PRECINCT 23C,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,50
+Brooke,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,104
+Brooke,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,89
+Brooke,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,160
+Brooke,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,136
+Brooke,PRECINCT 34,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,178
+Brooke,PRECINCT 35A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,98
+Brooke,PRECINCT 35B,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,85
+Brooke,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,107
+Brooke,PRECINCT 6,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,426
+Brooke,PRECINCT 11,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,226
+Brooke,PRECINCT 12,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,118
+Brooke,PRECINCT 14,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,107
+Brooke,PRECINCT 16,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,157
+Brooke,PRECINCT 17,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,237
+Brooke,PRECINCT 20A,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,173
+Brooke,PRECINCT 20B,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,79
+Brooke,PRECINCT 21B,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,223
+Brooke,PRECINCT 23A,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,265
+Brooke,PRECINCT 23C,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,104
+Brooke,PRECINCT 24,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,247
+Brooke,PRECINCT 26,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,96
+Brooke,PRECINCT 31,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,196
+Brooke,PRECINCT 33,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,280
+Brooke,PRECINCT 34,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,243
+Brooke,PRECINCT 35A,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,197
+Brooke,PRECINCT 35B,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,201
+Brooke,PRECINCT 36,STATE SENATOR, 1st Senatorial District,REP,LAURA WAKIM CHAPMAN,208
+Brooke,PRECINCT 6,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,382
+Brooke,PRECINCT 11,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,115
+Brooke,PRECINCT 12,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,72
+Brooke,PRECINCT 14,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,108
+Brooke,PRECINCT 16,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,58
+Brooke,PRECINCT 17,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,142
+Brooke,PRECINCT 20A,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,123
+Brooke,PRECINCT 20B,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,52
+Brooke,PRECINCT 21B,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,142
+Brooke,PRECINCT 23A,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,225
+Brooke,PRECINCT 23C,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,74
+Brooke,PRECINCT 24,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,148
+Brooke,PRECINCT 26,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,114
+Brooke,PRECINCT 31,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,180
+Brooke,PRECINCT 33,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,218
+Brooke,PRECINCT 34,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,238
+Brooke,PRECINCT 35A,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,121
+Brooke,PRECINCT 35B,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,108
+Brooke,PRECINCT 36,STATE SENATOR, 1st Senatorial District,DEM,RANDY SWARTZMILLER,150
+Brooke,PRECINCT 24,HOUSE OF DELEGATES, 1st District,REP,PAT MCGEEHAN,286
+Brooke,PRECINCT 24,HOUSE OF DELEGATES, 1st District,DEM,JACK WOOD,107
+Brooke,PRECINCT 20B,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,82
+Brooke,PRECINCT 21B,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,240
+Brooke,PRECINCT 26,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,122
+Brooke,PRECINCT 34,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,306
+Brooke,PRECINCT 35A,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,226
+Brooke,PRECINCT 35B,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,232
+Brooke,PRECINCT 36,HOUSE OF DELEGATES, 2nd District,REP,MARK ZATEZALO,252
+Brooke,PRECINCT 20B,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,45
+Brooke,PRECINCT 21B,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,110
+Brooke,PRECINCT 26,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,89
+Brooke,PRECINCT 34,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,171
+Brooke,PRECINCT 35A,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,84
+Brooke,PRECINCT 35B,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,74
+Brooke,PRECINCT 36,HOUSE OF DELEGATES, 2nd District,DEM,RONNIE D. JONES,105
+Brooke,PRECINCT 6,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,370
+Brooke,PRECINCT 11,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,204
+Brooke,PRECINCT 12,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,124
+Brooke,PRECINCT 14,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,115
+Brooke,PRECINCT 16,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,137
+Brooke,PRECINCT 17,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,234
+Brooke,PRECINCT 20A,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,160
+Brooke,PRECINCT 23A,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,243
+Brooke,PRECINCT 23C,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,85
+Brooke,PRECINCT 31,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,181
+Brooke,PRECINCT 33,HOUSE OF DELEGATES, 3rd District,REP,JIMMY WILLIS,225
+Brooke,PRECINCT 6,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,445
+Brooke,PRECINCT 11,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,142
+Brooke,PRECINCT 12,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,66
+Brooke,PRECINCT 14,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,101
+Brooke,PRECINCT 16,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,81
+Brooke,PRECINCT 17,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,144
+Brooke,PRECINCT 20A,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,136
+Brooke,PRECINCT 23A,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,250
+Brooke,PRECINCT 23C,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,96
+Brooke,PRECINCT 31,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,199
+Brooke,PRECINCT 33,HOUSE OF DELEGATES, 3rd District,DEM,PHILLIP W. DISERIO,279
+Brooke,PRECINCT 6,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,672
+Brooke,PRECINCT 11,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,264
+Brooke,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,132
+Brooke,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,162
+Brooke,PRECINCT 16,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,138
+Brooke,PRECINCT 17,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,265
+Brooke,PRECINCT 20A,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,238
+Brooke,PRECINCT 20B,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,98
+Brooke,PRECINCT 21B,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,268
+Brooke,PRECINCT 23A,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,359
+Brooke,PRECINCT 23C,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,125
+Brooke,PRECINCT 24,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,240
+Brooke,PRECINCT 26,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,153
+Brooke,PRECINCT 31,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,304
+Brooke,PRECINCT 33,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,352
+Brooke,PRECINCT 34,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,331
+Brooke,PRECINCT 35A,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,234
+Brooke,PRECINCT 35B,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,226
+Brooke,PRECINCT 36,FOR CIRCUIT CLERK,,DEM,DEM GLENDA BROOKS,242
+Brooke,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",406
+Brooke,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",176
+Brooke,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",97
+Brooke,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",99
+Brooke,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",138
+Brooke,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",226
+Brooke,PRECINCT 20A,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",156
+Brooke,PRECINCT 20B,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",69
+Brooke,PRECINCT 21B,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",185
+Brooke,PRECINCT 23A,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",289
+Brooke,PRECINCT 23C,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",97
+Brooke,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",275
+Brooke,PRECINCT 26,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",110
+Brooke,PRECINCT 31,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",214
+Brooke,PRECINCT 33,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",321
+Brooke,PRECINCT 34,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",298
+Brooke,PRECINCT 35A,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",193
+Brooke,PRECINCT 35B,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",199
+Brooke,PRECINCT 36,FOR COUNTY COMMISSIONER,,REP,"REP THOMAS R. ""TOMMY"" DISERIO",211
+Brooke,PRECINCT 6,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,412
+Brooke,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,167
+Brooke,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,95
+Brooke,PRECINCT 14,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,117
+Brooke,PRECINCT 16,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,79
+Brooke,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,153
+Brooke,PRECINCT 20A,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,142
+Brooke,PRECINCT 20B,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,61
+Brooke,PRECINCT 21B,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,178
+Brooke,PRECINCT 23A,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,203
+Brooke,PRECINCT 23C,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,83
+Brooke,PRECINCT 24,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,119
+Brooke,PRECINCT 26,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,98
+Brooke,PRECINCT 31,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,167
+Brooke,PRECINCT 33,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,186
+Brooke,PRECINCT 34,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,176
+Brooke,PRECINCT 35A,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,122
+Brooke,PRECINCT 35B,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,108
+Brooke,PRECINCT 36,FOR COUNTY COMMISSIONER,,DEM,DEM TIM ENNIS,143
+Brooke,PRECINCT 6,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",644
+Brooke,PRECINCT 11,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",244
+Brooke,PRECINCT 12,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",121
+Brooke,PRECINCT 14,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",161
+Brooke,PRECINCT 16,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",137
+Brooke,PRECINCT 17,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",254
+Brooke,PRECINCT 20A,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",223
+Brooke,PRECINCT 20B,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",93
+Brooke,PRECINCT 21B,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",262
+Brooke,PRECINCT 23A,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",366
+Brooke,PRECINCT 23C,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",130
+Brooke,PRECINCT 24,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",230
+Brooke,PRECINCT 26,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",154
+Brooke,PRECINCT 31,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",303
+Brooke,PRECINCT 33,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",370
+Brooke,PRECINCT 34,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",325
+Brooke,PRECINCT 35A,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",236
+Brooke,PRECINCT 35B,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",220
+Brooke,PRECINCT 36,FOR COUNTY CLERK,,DEM,"DEM KIMBERLY ""KIMMY"" BARBETTA",238
+Brooke,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,422
+Brooke,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,181
+Brooke,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,84
+Brooke,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,117
+Brooke,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,110
+Brooke,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,213
+Brooke,PRECINCT 20A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,144
+Brooke,PRECINCT 20B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,75
+Brooke,PRECINCT 21B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,183
+Brooke,PRECINCT 23A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,246
+Brooke,PRECINCT 23C,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,93
+Brooke,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,192
+Brooke,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Brooke,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,184
+Brooke,PRECINCT 33,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,249
+Brooke,PRECINCT 34,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,214
+Brooke,PRECINCT 35A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,159
+Brooke,PRECINCT 35B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,150
+Brooke,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,158
+Brooke,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,347
+Brooke,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,138
+Brooke,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,97
+Brooke,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,87
+Brooke,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Brooke,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,144
+Brooke,PRECINCT 20A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,134
+Brooke,PRECINCT 20B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,46
+Brooke,PRECINCT 21B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,167
+Brooke,PRECINCT 23A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,218
+Brooke,PRECINCT 23C,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,77
+Brooke,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,184
+Brooke,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,102
+Brooke,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,173
+Brooke,PRECINCT 33,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,229
+Brooke,PRECINCT 34,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,236
+Brooke,PRECINCT 35A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,138
+Brooke,PRECINCT 35B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,147
+Brooke,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,175
+Brooke,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,567
+Brooke,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,224
+Brooke,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,130
+Brooke,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,150
+Brooke,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,133
+Brooke,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,243
+Brooke,PRECINCT 20A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,189
+Brooke,PRECINCT 20B,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,90
+Brooke,PRECINCT 21B,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,238
+Brooke,PRECINCT 23A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,315
+Brooke,PRECINCT 23C,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,119
+Brooke,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,219
+Brooke,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,109
+Brooke,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,230
+Brooke,PRECINCT 33,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,333
+Brooke,PRECINCT 34,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,294
+Brooke,PRECINCT 35A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,196
+Brooke,PRECINCT 35B,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,197
+Brooke,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,198
+Brooke,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,238
+Brooke,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,113
+Brooke,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,61
+Brooke,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Brooke,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,83
+Brooke,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,134
+Brooke,PRECINCT 20A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,103
+Brooke,PRECINCT 20B,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,39
+Brooke,PRECINCT 21B,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,124
+Brooke,PRECINCT 23A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,170
+Brooke,PRECINCT 23C,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Brooke,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,169
+Brooke,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,97
+Brooke,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,141
+Brooke,PRECINCT 33,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,171
+Brooke,PRECINCT 34,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,175
+Brooke,PRECINCT 35A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,117
+Brooke,PRECINCT 35B,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,113
+Brooke,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,150
+Brooke,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,394
+Brooke,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,190
+Brooke,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,77
+Brooke,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,115
+Brooke,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,118
+Brooke,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,208
+Brooke,PRECINCT 20A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,156
+Brooke,PRECINCT 20B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,70
+Brooke,PRECINCT 21B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,198
+Brooke,PRECINCT 23A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,270
+Brooke,PRECINCT 23C,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,92
+Brooke,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,172
+Brooke,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,112
+Brooke,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,197
+Brooke,PRECINCT 33,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,243
+Brooke,PRECINCT 34,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,216
+Brooke,PRECINCT 35A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,158
+Brooke,PRECINCT 35B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,150
+Brooke,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,181
+Brooke,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,373
+Brooke,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,132
+Brooke,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,97
+Brooke,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,90
+Brooke,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,89
+Brooke,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,149
+Brooke,PRECINCT 20A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,124
+Brooke,PRECINCT 20B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,51
+Brooke,PRECINCT 21B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,141
+Brooke,PRECINCT 23A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,194
+Brooke,PRECINCT 23C,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,81
+Brooke,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,192
+Brooke,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,93
+Brooke,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,156
+Brooke,PRECINCT 33,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,222
+Brooke,PRECINCT 34,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,235
+Brooke,PRECINCT 35A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,134
+Brooke,PRECINCT 35B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,145
+Brooke,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,150
+Brooke,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,463
+Brooke,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,190
+Brooke,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,96
+Brooke,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,140
+Brooke,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,107
+Brooke,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,206
+Brooke,PRECINCT 20A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,163
+Brooke,PRECINCT 20B,Amendment No. 4: Education Accountability Amendment,,,AGAINST,70
+Brooke,PRECINCT 21B,Amendment No. 4: Education Accountability Amendment,,,AGAINST,186
+Brooke,PRECINCT 23A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,271
+Brooke,PRECINCT 23C,Amendment No. 4: Education Accountability Amendment,,,AGAINST,95
+Brooke,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,162
+Brooke,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,96
+Brooke,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,174
+Brooke,PRECINCT 33,Amendment No. 4: Education Accountability Amendment,,,AGAINST,276
+Brooke,PRECINCT 34,Amendment No. 4: Education Accountability Amendment,,,AGAINST,242
+Brooke,PRECINCT 35A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,162
+Brooke,PRECINCT 35B,Amendment No. 4: Education Accountability Amendment,,,AGAINST,154
+Brooke,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,AGAINST,174
+Brooke,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,337
+Brooke,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,145
+Brooke,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,91
+Brooke,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Brooke,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,104
+Brooke,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,165
+Brooke,PRECINCT 20A,Amendment No. 4: Education Accountability Amendment,,,FOR,127
+Brooke,PRECINCT 20B,Amendment No. 4: Education Accountability Amendment,,,FOR,55
+Brooke,PRECINCT 21B,Amendment No. 4: Education Accountability Amendment,,,FOR,171
+Brooke,PRECINCT 23A,Amendment No. 4: Education Accountability Amendment,,,FOR,209
+Brooke,PRECINCT 23C,Amendment No. 4: Education Accountability Amendment,,,FOR,82
+Brooke,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,219
+Brooke,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,106
+Brooke,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,191
+Brooke,PRECINCT 33,Amendment No. 4: Education Accountability Amendment,,,FOR,224
+Brooke,PRECINCT 34,Amendment No. 4: Education Accountability Amendment,,,FOR,228
+Brooke,PRECINCT 35A,Amendment No. 4: Education Accountability Amendment,,,FOR,147
+Brooke,PRECINCT 35B,Amendment No. 4: Education Accountability Amendment,,,FOR,152
+Brooke,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,FOR,177
+Brooke,PRECINCT 6,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,596
+Brooke,PRECINCT 11,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,231
+Brooke,PRECINCT 12,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,115
+Brooke,PRECINCT 14,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,163
+Brooke,PRECINCT 16,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,139
+Brooke,PRECINCT 17,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,251
+Brooke,PRECINCT 20A,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,187
+Brooke,PRECINCT 20B,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,84
+Brooke,PRECINCT 21B,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,252
+Brooke,PRECINCT 23A,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,342
+Brooke,PRECINCT 23C,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,130
+Brooke,PRECINCT 24,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,255
+Brooke,PRECINCT 26,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,162
+Brooke,PRECINCT 31,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,272
+Brooke,PRECINCT 33,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,353
+Brooke,PRECINCT 34,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,375
+Brooke,PRECINCT 35A,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,214
+Brooke,PRECINCT 35B,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,198
+Brooke,PRECINCT 36,ANIMAL SHELTER AND SR. CENTER LEVY,,,For the Levy,259
+Brooke,PRECINCT 6,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,216
+Brooke,PRECINCT 11,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,112
+Brooke,PRECINCT 12,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,70
+Brooke,PRECINCT 14,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,49
+Brooke,PRECINCT 16,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,74
+Brooke,PRECINCT 17,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,121
+Brooke,PRECINCT 20A,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,103
+Brooke,PRECINCT 20B,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,44
+Brooke,PRECINCT 21B,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,113
+Brooke,PRECINCT 23A,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,142
+Brooke,PRECINCT 23C,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,50
+Brooke,PRECINCT 24,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,131
+Brooke,PRECINCT 26,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,42
+Brooke,PRECINCT 31,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,93
+Brooke,PRECINCT 33,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,139
+Brooke,PRECINCT 34,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,97
+Brooke,PRECINCT 35A,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,94
+Brooke,PRECINCT 35B,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,111
+Brooke,PRECINCT 36,ANIMAL SHELTER AND SR. CENTER LEVY,,,Against the Levy,95
+Brooke,PRECINCT 6,FIRE LEVY,,,For the Levy,657
+Brooke,PRECINCT 11,FIRE LEVY,,,For the Levy,252
+Brooke,PRECINCT 12,FIRE LEVY,,,For the Levy,124
+Brooke,PRECINCT 14,FIRE LEVY,,,For the Levy,161
+Brooke,PRECINCT 16,FIRE LEVY,,,For the Levy,155
+Brooke,PRECINCT 17,FIRE LEVY,,,For the Levy,288
+Brooke,PRECINCT 20A,FIRE LEVY,,,For the Levy,205
+Brooke,PRECINCT 20B,FIRE LEVY,,,For the Levy,99
+Brooke,PRECINCT 21B,FIRE LEVY,,,For the Levy,288
+Brooke,PRECINCT 23A,FIRE LEVY,,,For the Levy,393
+Brooke,PRECINCT 23C,FIRE LEVY,,,For the Levy,140
+Brooke,PRECINCT 24,FIRE LEVY,,,For the Levy,275
+Brooke,PRECINCT 26,FIRE LEVY,,,For the Levy,154
+Brooke,PRECINCT 31,FIRE LEVY,,,For the Levy,294
+Brooke,PRECINCT 33,FIRE LEVY,,,For the Levy,378
+Brooke,PRECINCT 34,FIRE LEVY,,,For the Levy,373
+Brooke,PRECINCT 35A,FIRE LEVY,,,For the Levy,241
+Brooke,PRECINCT 35B,FIRE LEVY,,,For the Levy,220
+Brooke,PRECINCT 36,FIRE LEVY,,,For the Levy,270
+Brooke,PRECINCT 6,FIRE LEVY,,,Against the Levy,137
+Brooke,PRECINCT 11,FIRE LEVY,,,Against the Levy,81
+Brooke,PRECINCT 12,FIRE LEVY,,,Against the Levy,57
+Brooke,PRECINCT 14,FIRE LEVY,,,Against the Levy,48
+Brooke,PRECINCT 16,FIRE LEVY,,,Against the Levy,57
+Brooke,PRECINCT 17,FIRE LEVY,,,Against the Levy,81
+Brooke,PRECINCT 20A,FIRE LEVY,,,Against the Levy,78
+Brooke,PRECINCT 20B,FIRE LEVY,,,Against the Levy,29
+Brooke,PRECINCT 21B,FIRE LEVY,,,Against the Levy,67
+Brooke,PRECINCT 23A,FIRE LEVY,,,Against the Levy,86
+Brooke,PRECINCT 23C,FIRE LEVY,,,Against the Levy,38
+Brooke,PRECINCT 24,FIRE LEVY,,,Against the Levy,108
+Brooke,PRECINCT 26,FIRE LEVY,,,Against the Levy,51
+Brooke,PRECINCT 31,FIRE LEVY,,,Against the Levy,71
+Brooke,PRECINCT 33,FIRE LEVY,,,Against the Levy,106
+Brooke,PRECINCT 34,FIRE LEVY,,,Against the Levy,93
+Brooke,PRECINCT 35A,FIRE LEVY,,,Against the Levy,69
+Brooke,PRECINCT 35B,FIRE LEVY,,,Against the Levy,80
+Brooke,PRECINCT 36,FIRE LEVY,,,Against the Levy,83
+Brooke,PRECINCT 6,AMBULANCE LEVY,,,For the Levy,635
+Brooke,PRECINCT 11,AMBULANCE LEVY,,,For the Levy,247
+Brooke,PRECINCT 12,AMBULANCE LEVY,,,For the Levy,118
+Brooke,PRECINCT 14,AMBULANCE LEVY,,,For the Levy,161
+Brooke,PRECINCT 16,AMBULANCE LEVY,,,For the Levy,149
+Brooke,PRECINCT 17,AMBULANCE LEVY,,,For the Levy,276
+Brooke,PRECINCT 20A,AMBULANCE LEVY,,,For the Levy,201
+Brooke,PRECINCT 20B,AMBULANCE LEVY,,,For the Levy,95
+Brooke,PRECINCT 21B,AMBULANCE LEVY,,,For the Levy,282
+Brooke,PRECINCT 23A,AMBULANCE LEVY,,,For the Levy,391
+Brooke,PRECINCT 23C,AMBULANCE LEVY,,,For the Levy,134
+Brooke,PRECINCT 24,AMBULANCE LEVY,,,For the Levy,267
+Brooke,PRECINCT 26,AMBULANCE LEVY,,,For the Levy,150
+Brooke,PRECINCT 31,AMBULANCE LEVY,,,For the Levy,285
+Brooke,PRECINCT 33,AMBULANCE LEVY,,,For the Levy,379
+Brooke,PRECINCT 34,AMBULANCE LEVY,,,For the Levy,371
+Brooke,PRECINCT 35A,AMBULANCE LEVY,,,For the Levy,233
+Brooke,PRECINCT 35B,AMBULANCE LEVY,,,For the Levy,217
+Brooke,PRECINCT 36,AMBULANCE LEVY,,,For the Levy,260
+Brooke,PRECINCT 6,AMBULANCE LEVY,,,Against the Levy,155
+Brooke,PRECINCT 11,AMBULANCE LEVY,,,Against the Levy,95
+Brooke,PRECINCT 12,AMBULANCE LEVY,,,Against the Levy,66
+Brooke,PRECINCT 14,AMBULANCE LEVY,,,Against the Levy,52
+Brooke,PRECINCT 16,AMBULANCE LEVY,,,Against the Levy,61
+Brooke,PRECINCT 17,AMBULANCE LEVY,,,Against the Levy,97
+Brooke,PRECINCT 20A,AMBULANCE LEVY,,,Against the Levy,83
+Brooke,PRECINCT 20B,AMBULANCE LEVY,,,Against the Levy,34
+Brooke,PRECINCT 21B,AMBULANCE LEVY,,,Against the Levy,79
+Brooke,PRECINCT 23A,AMBULANCE LEVY,,,Against the Levy,97
+Brooke,PRECINCT 23C,AMBULANCE LEVY,,,Against the Levy,38
+Brooke,PRECINCT 24,AMBULANCE LEVY,,,Against the Levy,116
+Brooke,PRECINCT 26,AMBULANCE LEVY,,,Against the Levy,55
+Brooke,PRECINCT 31,AMBULANCE LEVY,,,Against the Levy,78
+Brooke,PRECINCT 33,AMBULANCE LEVY,,,Against the Levy,109
+Brooke,PRECINCT 34,AMBULANCE LEVY,,,Against the Levy,95
+Brooke,PRECINCT 35A,AMBULANCE LEVY,,,Against the Levy,83
+Brooke,PRECINCT 35B,AMBULANCE LEVY,,,Against the Levy,85
+Brooke,PRECINCT 36,AMBULANCE LEVY,,,Against the Levy,87

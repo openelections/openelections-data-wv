@@ -1,0 +1,352 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,423
+Lincoln,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,145
+Lincoln,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,221
+Lincoln,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,290
+Lincoln,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,167
+Lincoln,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,106
+Lincoln,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,55
+Lincoln,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,291
+Lincoln,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,251
+Lincoln,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,401
+Lincoln,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,123
+Lincoln,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,80
+Lincoln,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,357
+Lincoln,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,592
+Lincoln,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,155
+Lincoln,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Lincoln,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,61
+Lincoln,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,84
+Lincoln,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,37
+Lincoln,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,29
+Lincoln,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,19
+Lincoln,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,83
+Lincoln,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,82
+Lincoln,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,118
+Lincoln,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Lincoln,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,19
+Lincoln,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,94
+Lincoln,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,280
+Lincoln,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,23
+Lincoln,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Lincoln,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,14
+Lincoln,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,20
+Lincoln,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Lincoln,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Lincoln,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Lincoln,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Lincoln,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Lincoln,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,20
+Lincoln,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Lincoln,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Lincoln,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,22
+Lincoln,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,30
+Lincoln,PRECINCT 1,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,386
+Lincoln,PRECINCT 2,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,129
+Lincoln,PRECINCT 3,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,194
+Lincoln,PRECINCT 4,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,245
+Lincoln,PRECINCT 5,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,151
+Lincoln,PRECINCT 6,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,88
+Lincoln,PRECINCT 7,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,50
+Lincoln,PRECINCT 8,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,245
+Lincoln,PRECINCT 9,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,198
+Lincoln,PRECINCT 10,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,349
+Lincoln,PRECINCT 11,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,103
+Lincoln,PRECINCT 12,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,50
+Lincoln,PRECINCT 13,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,293
+Lincoln,PRECINCT 14,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,467
+Lincoln,PRECINCT 1,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,225
+Lincoln,PRECINCT 2,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,69
+Lincoln,PRECINCT 3,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,106
+Lincoln,PRECINCT 4,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,170
+Lincoln,PRECINCT 5,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,63
+Lincoln,PRECINCT 6,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,58
+Lincoln,PRECINCT 7,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,27
+Lincoln,PRECINCT 8,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,183
+Lincoln,PRECINCT 9,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,151
+Lincoln,PRECINCT 10,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,184
+Lincoln,PRECINCT 11,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,50
+Lincoln,PRECINCT 12,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,52
+Lincoln,PRECINCT 13,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,189
+Lincoln,PRECINCT 14,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,437
+Lincoln,PRECINCT 1,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",378
+Lincoln,PRECINCT 2,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",117
+Lincoln,PRECINCT 3,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",183
+Lincoln,PRECINCT 4,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",238
+Lincoln,PRECINCT 5,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",142
+Lincoln,PRECINCT 6,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",90
+Lincoln,PRECINCT 7,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",51
+Lincoln,PRECINCT 9,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",184
+Lincoln,PRECINCT 10,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",312
+Lincoln,PRECINCT 11,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",104
+Lincoln,PRECINCT 12,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",56
+Lincoln,PRECINCT 13,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",270
+Lincoln,PRECINCT 14,HOUSE OF DELEGATES, 30th District,REP,"DAVID ""FLIMSY"" ADKINS",417
+Lincoln,PRECINCT 1,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,228
+Lincoln,PRECINCT 2,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,81
+Lincoln,PRECINCT 3,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,111
+Lincoln,PRECINCT 4,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,171
+Lincoln,PRECINCT 5,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,63
+Lincoln,PRECINCT 6,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,54
+Lincoln,PRECINCT 7,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,26
+Lincoln,PRECINCT 9,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,174
+Lincoln,PRECINCT 10,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,243
+Lincoln,PRECINCT 11,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,53
+Lincoln,PRECINCT 12,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,47
+Lincoln,PRECINCT 13,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,221
+Lincoln,PRECINCT 14,HOUSE OF DELEGATES, 30th District,DEM,DEIDRA ROBERTS,502
+Lincoln,PRECINCT 8,HOUSE OF DELEGATES, 31st District,REP,MARGITTA MAZZOCCHI,257
+Lincoln,PRECINCT 8,HOUSE OF DELEGATES, 31st District,DEM,KENNETH RAY WILSON,124
+Lincoln,PRECINCT 8,HOUSE OF DELEGATES, 31st District,IND,BRANNON D. AKERS,24
+Lincoln,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,408
+Lincoln,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,152
+Lincoln,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,217
+Lincoln,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,282
+Lincoln,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,152
+Lincoln,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,97
+Lincoln,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,50
+Lincoln,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,230
+Lincoln,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,186
+Lincoln,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,319
+Lincoln,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,100
+Lincoln,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,51
+Lincoln,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,243
+Lincoln,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP BRIAN GRALEY,404
+Lincoln,PRECINCT 1,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,181
+Lincoln,PRECINCT 2,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,44
+Lincoln,PRECINCT 3,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,81
+Lincoln,PRECINCT 4,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,127
+Lincoln,PRECINCT 5,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,55
+Lincoln,PRECINCT 6,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,39
+Lincoln,PRECINCT 7,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,25
+Lincoln,PRECINCT 8,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,190
+Lincoln,PRECINCT 9,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,172
+Lincoln,PRECINCT 10,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,230
+Lincoln,PRECINCT 11,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,53
+Lincoln,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,54
+Lincoln,PRECINCT 13,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,240
+Lincoln,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM WYLIE AARON STOWERS,517
+Lincoln,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,414
+Lincoln,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,141
+Lincoln,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,208
+Lincoln,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,279
+Lincoln,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,159
+Lincoln,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,92
+Lincoln,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,56
+Lincoln,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,269
+Lincoln,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,195
+Lincoln,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,333
+Lincoln,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,117
+Lincoln,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,56
+Lincoln,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,285
+Lincoln,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP KIM BLAIR,520
+Lincoln,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,183
+Lincoln,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,52
+Lincoln,PRECINCT 3,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,83
+Lincoln,PRECINCT 4,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,129
+Lincoln,PRECINCT 5,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,46
+Lincoln,PRECINCT 6,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,44
+Lincoln,PRECINCT 7,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,21
+Lincoln,PRECINCT 8,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,161
+Lincoln,PRECINCT 9,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,177
+Lincoln,PRECINCT 10,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,219
+Lincoln,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,47
+Lincoln,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,46
+Lincoln,PRECINCT 13,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,198
+Lincoln,PRECINCT 14,FOR COUNTY COMMISSIONER,,DEM,DEM CHARLES NEAL VANCE,386
+Lincoln,PRECINCT 1,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,386
+Lincoln,PRECINCT 2,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,129
+Lincoln,PRECINCT 3,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,206
+Lincoln,PRECINCT 4,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,250
+Lincoln,PRECINCT 5,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,151
+Lincoln,PRECINCT 6,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,88
+Lincoln,PRECINCT 7,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,51
+Lincoln,PRECINCT 8,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,229
+Lincoln,PRECINCT 9,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,148
+Lincoln,PRECINCT 10,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,306
+Lincoln,PRECINCT 11,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,91
+Lincoln,PRECINCT 12,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,58
+Lincoln,PRECINCT 13,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,264
+Lincoln,PRECINCT 14,FOR COUNTY CLERK,,REP,REP KRISTY SCRAGGS,409
+Lincoln,PRECINCT 1,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,205
+Lincoln,PRECINCT 2,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,68
+Lincoln,PRECINCT 3,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,93
+Lincoln,PRECINCT 4,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,163
+Lincoln,PRECINCT 5,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,55
+Lincoln,PRECINCT 6,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,53
+Lincoln,PRECINCT 7,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,22
+Lincoln,PRECINCT 8,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,202
+Lincoln,PRECINCT 9,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,228
+Lincoln,PRECINCT 10,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,244
+Lincoln,PRECINCT 11,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,71
+Lincoln,PRECINCT 12,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,45
+Lincoln,PRECINCT 13,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,235
+Lincoln,PRECINCT 14,FOR COUNTY CLERK,,DEM,DEM DIREL BAKER,507
+Lincoln,PRECINCT 1,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,377
+Lincoln,PRECINCT 2,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,102
+Lincoln,PRECINCT 3,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,169
+Lincoln,PRECINCT 4,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,148
+Lincoln,PRECINCT 5,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,134
+Lincoln,PRECINCT 6,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,75
+Lincoln,PRECINCT 7,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,56
+Lincoln,PRECINCT 8,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,259
+Lincoln,PRECINCT 9,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,186
+Lincoln,PRECINCT 10,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,312
+Lincoln,PRECINCT 11,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,102
+Lincoln,PRECINCT 12,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,34
+Lincoln,PRECINCT 13,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,247
+Lincoln,PRECINCT 14,FOR ASSESSOR,,REP,REP JAMIE LINVILLE,315
+Lincoln,PRECINCT 1,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,229
+Lincoln,PRECINCT 2,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,98
+Lincoln,PRECINCT 3,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,133
+Lincoln,PRECINCT 4,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,268
+Lincoln,PRECINCT 5,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,84
+Lincoln,PRECINCT 6,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,66
+Lincoln,PRECINCT 7,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,18
+Lincoln,PRECINCT 8,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,164
+Lincoln,PRECINCT 9,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,174
+Lincoln,PRECINCT 10,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,237
+Lincoln,PRECINCT 11,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,53
+Lincoln,PRECINCT 12,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,69
+Lincoln,PRECINCT 13,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,242
+Lincoln,PRECINCT 14,FOR ASSESSOR,,DEM,DEM ANGEL BARCLAY,606
+Lincoln,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,331
+Lincoln,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,106
+Lincoln,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,169
+Lincoln,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,229
+Lincoln,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Lincoln,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,81
+Lincoln,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,41
+Lincoln,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,237
+Lincoln,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,227
+Lincoln,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,300
+Lincoln,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Lincoln,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,71
+Lincoln,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,275
+Lincoln,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,556
+Lincoln,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,255
+Lincoln,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,85
+Lincoln,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,119
+Lincoln,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,154
+Lincoln,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,78
+Lincoln,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,46
+Lincoln,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,29
+Lincoln,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,131
+Lincoln,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,114
+Lincoln,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,223
+Lincoln,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,45
+Lincoln,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,29
+Lincoln,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,184
+Lincoln,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,318
+Lincoln,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,359
+Lincoln,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Lincoln,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,165
+Lincoln,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,258
+Lincoln,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,145
+Lincoln,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,92
+Lincoln,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,39
+Lincoln,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,221
+Lincoln,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,230
+Lincoln,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,306
+Lincoln,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,96
+Lincoln,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,72
+Lincoln,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,276
+Lincoln,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,593
+Lincoln,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,241
+Lincoln,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,74
+Lincoln,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,129
+Lincoln,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,137
+Lincoln,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Lincoln,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Lincoln,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,36
+Lincoln,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,164
+Lincoln,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,128
+Lincoln,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,228
+Lincoln,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Lincoln,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,34
+Lincoln,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,189
+Lincoln,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,309
+Lincoln,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,326
+Lincoln,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,116
+Lincoln,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,166
+Lincoln,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,221
+Lincoln,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,130
+Lincoln,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,80
+Lincoln,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,57
+Lincoln,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,245
+Lincoln,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,228
+Lincoln,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,309
+Lincoln,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,92
+Lincoln,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,63
+Lincoln,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,273
+Lincoln,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,529
+Lincoln,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,255
+Lincoln,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,78
+Lincoln,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,121
+Lincoln,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,157
+Lincoln,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,72
+Lincoln,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,44
+Lincoln,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,15
+Lincoln,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,138
+Lincoln,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,112
+Lincoln,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,208
+Lincoln,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Lincoln,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Lincoln,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,195
+Lincoln,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,350
+Lincoln,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,312
+Lincoln,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,112
+Lincoln,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,138
+Lincoln,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,214
+Lincoln,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,117
+Lincoln,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,75
+Lincoln,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,44
+Lincoln,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,213
+Lincoln,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,205
+Lincoln,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,254
+Lincoln,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,89
+Lincoln,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,62
+Lincoln,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,246
+Lincoln,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,519
+Lincoln,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,288
+Lincoln,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,81
+Lincoln,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,150
+Lincoln,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,177
+Lincoln,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,89
+Lincoln,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,57
+Lincoln,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,30
+Lincoln,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,184
+Lincoln,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,147
+Lincoln,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,276
+Lincoln,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,61
+Lincoln,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,44
+Lincoln,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,225
+Lincoln,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,372
+Lincoln,PRECINCT 1,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,326
+Lincoln,PRECINCT 2,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,105
+Lincoln,PRECINCT 3,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,150
+Lincoln,PRECINCT 4,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,209
+Lincoln,PRECINCT 5,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,109
+Lincoln,PRECINCT 6,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,63
+Lincoln,PRECINCT 7,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,35
+Lincoln,PRECINCT 8,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,167
+Lincoln,PRECINCT 9,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,194
+Lincoln,PRECINCT 10,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,291
+Lincoln,PRECINCT 11,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,65
+Lincoln,PRECINCT 12,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,59
+Lincoln,PRECINCT 13,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,285
+Lincoln,PRECINCT 14,LINCOLN CO. BOE LEVY,,,FOR THE LEVIES,598
+Lincoln,PRECINCT 1,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,249
+Lincoln,PRECINCT 2,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,81
+Lincoln,PRECINCT 3,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,133
+Lincoln,PRECINCT 4,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,165
+Lincoln,PRECINCT 5,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,79
+Lincoln,PRECINCT 6,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,55
+Lincoln,PRECINCT 7,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,33
+Lincoln,PRECINCT 8,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,191
+Lincoln,PRECINCT 9,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,142
+Lincoln,PRECINCT 10,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,222
+Lincoln,PRECINCT 11,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,75
+Lincoln,PRECINCT 12,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,39
+Lincoln,PRECINCT 13,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,172
+Lincoln,PRECINCT 14,LINCOLN CO. BOE LEVY,,,AGAINST THE LEVIES,282

@@ -1,0 +1,460 @@
+county,precinct,office,district,party,candidate,votes
+Randolph,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,316
+Randolph,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,85
+Randolph,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,106
+Randolph,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,123
+Randolph,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,121
+Randolph,PRECINCT 28A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,74
+Randolph,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,109
+Randolph,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,78
+Randolph,PRECINCT 75,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,160
+Randolph,PRECINCT 80,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,62
+Randolph,PRECINCT 85,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,311
+Randolph,PRECINCT 150,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,267
+Randolph,PRECINCT 155,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,226
+Randolph,PRECINCT 160,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,244
+Randolph,PRECINCT 165,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,366
+Randolph,PRECINCT 170,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,210
+Randolph,PRECINCT 180,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,264
+Randolph,PRECINCT 185,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,209
+Randolph,PRECINCT 190,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,71
+Randolph,PRECINCT 200,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,280
+Randolph,PRECINCT 202,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,94
+Randolph,PRECINCT 205,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,564
+Randolph,PRECINCT 210,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,136
+Randolph,PRECINCT 215,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,135
+Randolph,PRECINCT 220,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,56
+Randolph,PRECINCT 225,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,143
+Randolph,PRECINCT 227,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,100
+Randolph,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,240
+Randolph,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,62
+Randolph,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,196
+Randolph,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,78
+Randolph,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,68
+Randolph,PRECINCT 28A,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,51
+Randolph,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,126
+Randolph,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,72
+Randolph,PRECINCT 75,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,87
+Randolph,PRECINCT 80,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,31
+Randolph,PRECINCT 85,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,133
+Randolph,PRECINCT 150,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,158
+Randolph,PRECINCT 155,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,128
+Randolph,PRECINCT 160,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,117
+Randolph,PRECINCT 165,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,116
+Randolph,PRECINCT 170,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,78
+Randolph,PRECINCT 180,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,136
+Randolph,PRECINCT 185,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,58
+Randolph,PRECINCT 190,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,27
+Randolph,PRECINCT 200,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,137
+Randolph,PRECINCT 202,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,58
+Randolph,PRECINCT 205,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,255
+Randolph,PRECINCT 210,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,54
+Randolph,PRECINCT 215,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,58
+Randolph,PRECINCT 220,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,21
+Randolph,PRECINCT 225,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,41
+Randolph,PRECINCT 227,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,26
+Randolph,PRECINCT 23,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,407
+Randolph,PRECINCT 24,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,112
+Randolph,PRECINCT 25,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,180
+Randolph,PRECINCT 27,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,147
+Randolph,PRECINCT 28,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,153
+Randolph,PRECINCT 28A,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,101
+Randolph,PRECINCT 30,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,159
+Randolph,PRECINCT 31,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,106
+Randolph,PRECINCT 75,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,199
+Randolph,PRECINCT 80,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,74
+Randolph,PRECINCT 85,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,360
+Randolph,PRECINCT 150,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,369
+Randolph,PRECINCT 155,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,270
+Randolph,PRECINCT 160,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,298
+Randolph,PRECINCT 165,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,400
+Randolph,PRECINCT 170,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,234
+Randolph,PRECINCT 180,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,298
+Randolph,PRECINCT 185,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,214
+Randolph,PRECINCT 190,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,79
+Randolph,PRECINCT 200,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,329
+Randolph,PRECINCT 202,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,125
+Randolph,PRECINCT 205,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,678
+Randolph,PRECINCT 210,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,164
+Randolph,PRECINCT 215,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,159
+Randolph,PRECINCT 220,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,74
+Randolph,PRECINCT 225,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,163
+Randolph,PRECINCT 227,STATE SENATOR, 11th Senatorial District,REP,BILL HAMILTON,113
+Randolph,PRECINCT 27,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",131
+Randolph,PRECINCT 28,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",129
+Randolph,PRECINCT 28A,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",90
+Randolph,PRECINCT 75,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",165
+Randolph,PRECINCT 150,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",287
+Randolph,PRECINCT 160,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",259
+Randolph,PRECINCT 205,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",590
+Randolph,PRECINCT 210,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",136
+Randolph,PRECINCT 215,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",133
+Randolph,PRECINCT 220,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",63
+Randolph,PRECINCT 225,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",146
+Randolph,PRECINCT 227,HOUSE OF DELEGATES, 66th District,REP,"WILLIAM ""TY"" NESTOR",98
+Randolph,PRECINCT 27,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",76
+Randolph,PRECINCT 28,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",61
+Randolph,PRECINCT 28A,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",42
+Randolph,PRECINCT 75,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",78
+Randolph,PRECINCT 150,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",146
+Randolph,PRECINCT 160,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",112
+Randolph,PRECINCT 205,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",242
+Randolph,PRECINCT 210,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",56
+Randolph,PRECINCT 215,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",56
+Randolph,PRECINCT 220,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",19
+Randolph,PRECINCT 225,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",36
+Randolph,PRECINCT 227,HOUSE OF DELEGATES, 66th District,DEM,"ROBERT ""BOB"" SHEETS",27
+Randolph,PRECINCT 23,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,291
+Randolph,PRECINCT 24,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,61
+Randolph,PRECINCT 25,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,89
+Randolph,PRECINCT 30,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,106
+Randolph,PRECINCT 31,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,67
+Randolph,PRECINCT 80,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,51
+Randolph,PRECINCT 85,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,278
+Randolph,PRECINCT 155,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,207
+Randolph,PRECINCT 165,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,346
+Randolph,PRECINCT 170,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,188
+Randolph,PRECINCT 180,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,251
+Randolph,PRECINCT 185,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,196
+Randolph,PRECINCT 190,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,71
+Randolph,PRECINCT 200,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,259
+Randolph,PRECINCT 202,HOUSE OF DELEGATES, 67th District,REP,ELIAS COOP-GONZALEZ,73
+Randolph,PRECINCT 23,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,279
+Randolph,PRECINCT 24,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,92
+Randolph,PRECINCT 25,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,220
+Randolph,PRECINCT 30,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,133
+Randolph,PRECINCT 31,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,84
+Randolph,PRECINCT 80,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,43
+Randolph,PRECINCT 85,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,172
+Randolph,PRECINCT 155,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,161
+Randolph,PRECINCT 165,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,138
+Randolph,PRECINCT 170,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,106
+Randolph,PRECINCT 180,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,165
+Randolph,PRECINCT 185,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,74
+Randolph,PRECINCT 190,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,30
+Randolph,PRECINCT 200,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,171
+Randolph,PRECINCT 202,HOUSE OF DELEGATES, 67th District,DEM,CODY H THOMPSON,82
+Randolph,PRECINCT 23,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,452
+Randolph,PRECINCT 24,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,126
+Randolph,PRECINCT 25,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,268
+Randolph,PRECINCT 27,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,158
+Randolph,PRECINCT 28,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,149
+Randolph,PRECINCT 28A,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,110
+Randolph,PRECINCT 30,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,185
+Randolph,PRECINCT 31,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,120
+Randolph,PRECINCT 75,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,185
+Randolph,PRECINCT 80,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,75
+Randolph,PRECINCT 85,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,356
+Randolph,PRECINCT 150,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,354
+Randolph,PRECINCT 155,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,288
+Randolph,PRECINCT 160,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,284
+Randolph,PRECINCT 165,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,338
+Randolph,PRECINCT 170,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,226
+Randolph,PRECINCT 180,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,279
+Randolph,PRECINCT 185,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,159
+Randolph,PRECINCT 190,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,69
+Randolph,PRECINCT 200,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,332
+Randolph,PRECINCT 202,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,132
+Randolph,PRECINCT 205,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,627
+Randolph,PRECINCT 210,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,143
+Randolph,PRECINCT 215,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,141
+Randolph,PRECINCT 220,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,47
+Randolph,PRECINCT 225,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,137
+Randolph,PRECINCT 227,FOR CIRCUIT CLERK,,DEM,DEM PHILIP D. RIGGLEMAN,95
+Randolph,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,285
+Randolph,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,78
+Randolph,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,97
+Randolph,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,128
+Randolph,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,122
+Randolph,PRECINCT 28A,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,72
+Randolph,PRECINCT 30,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,107
+Randolph,PRECINCT 31,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,70
+Randolph,PRECINCT 75,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,161
+Randolph,PRECINCT 80,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,63
+Randolph,PRECINCT 85,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,276
+Randolph,PRECINCT 150,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,282
+Randolph,PRECINCT 155,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,229
+Randolph,PRECINCT 160,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,235
+Randolph,PRECINCT 165,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,326
+Randolph,PRECINCT 170,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,198
+Randolph,PRECINCT 180,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,248
+Randolph,PRECINCT 185,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,206
+Randolph,PRECINCT 190,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,61
+Randolph,PRECINCT 200,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,304
+Randolph,PRECINCT 202,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,92
+Randolph,PRECINCT 205,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,572
+Randolph,PRECINCT 210,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,142
+Randolph,PRECINCT 215,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,136
+Randolph,PRECINCT 220,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,58
+Randolph,PRECINCT 225,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,137
+Randolph,PRECINCT 227,FOR COUNTY COMMISSIONER,,REP,REP CRIS SILER,92
+Randolph,PRECINCT 23,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,283
+Randolph,PRECINCT 24,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,74
+Randolph,PRECINCT 25,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,216
+Randolph,PRECINCT 27,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,77
+Randolph,PRECINCT 28,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,68
+Randolph,PRECINCT 28A,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,59
+Randolph,PRECINCT 30,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,129
+Randolph,PRECINCT 31,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,80
+Randolph,PRECINCT 75,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,89
+Randolph,PRECINCT 80,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,32
+Randolph,PRECINCT 85,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,182
+Randolph,PRECINCT 150,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,152
+Randolph,PRECINCT 155,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,139
+Randolph,PRECINCT 160,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,144
+Randolph,PRECINCT 165,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,157
+Randolph,PRECINCT 170,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,101
+Randolph,PRECINCT 180,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,164
+Randolph,PRECINCT 185,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,59
+Randolph,PRECINCT 190,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,40
+Randolph,PRECINCT 200,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,126
+Randolph,PRECINCT 202,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,63
+Randolph,PRECINCT 205,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,259
+Randolph,PRECINCT 210,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,53
+Randolph,PRECINCT 215,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,59
+Randolph,PRECINCT 220,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,23
+Randolph,PRECINCT 225,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,45
+Randolph,PRECINCT 227,FOR COUNTY COMMISSIONER,,DEM,DEM ROBERT (BOB) JONES,29
+Randolph,PRECINCT 23,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,455
+Randolph,PRECINCT 24,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,128
+Randolph,PRECINCT 25,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,266
+Randolph,PRECINCT 27,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,163
+Randolph,PRECINCT 28,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,147
+Randolph,PRECINCT 28A,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,109
+Randolph,PRECINCT 30,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,187
+Randolph,PRECINCT 31,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,124
+Randolph,PRECINCT 75,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,190
+Randolph,PRECINCT 80,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,74
+Randolph,PRECINCT 85,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,356
+Randolph,PRECINCT 150,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,345
+Randolph,PRECINCT 155,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,296
+Randolph,PRECINCT 160,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,296
+Randolph,PRECINCT 165,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,356
+Randolph,PRECINCT 170,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,234
+Randolph,PRECINCT 180,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,285
+Randolph,PRECINCT 185,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,164
+Randolph,PRECINCT 190,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,69
+Randolph,PRECINCT 200,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,331
+Randolph,PRECINCT 202,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,127
+Randolph,PRECINCT 205,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,626
+Randolph,PRECINCT 210,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,143
+Randolph,PRECINCT 215,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,135
+Randolph,PRECINCT 220,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,52
+Randolph,PRECINCT 225,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,145
+Randolph,PRECINCT 227,FOR COUNTY CLERK,,DEM,DEM BRENDA WISEMAN,96
+Randolph,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,205
+Randolph,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,60
+Randolph,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Randolph,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,76
+Randolph,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,80
+Randolph,PRECINCT 28A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,50
+Randolph,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,79
+Randolph,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,51
+Randolph,PRECINCT 75,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,105
+Randolph,PRECINCT 80,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,35
+Randolph,PRECINCT 85,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,167
+Randolph,PRECINCT 150,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,141
+Randolph,PRECINCT 155,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,122
+Randolph,PRECINCT 160,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,134
+Randolph,PRECINCT 165,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,155
+Randolph,PRECINCT 170,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,90
+Randolph,PRECINCT 180,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,161
+Randolph,PRECINCT 185,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,91
+Randolph,PRECINCT 190,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,31
+Randolph,PRECINCT 200,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,148
+Randolph,PRECINCT 202,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Randolph,PRECINCT 205,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,317
+Randolph,PRECINCT 210,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,61
+Randolph,PRECINCT 215,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Randolph,PRECINCT 220,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,31
+Randolph,PRECINCT 225,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,65
+Randolph,PRECINCT 227,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,38
+Randolph,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,339
+Randolph,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,86
+Randolph,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,216
+Randolph,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,118
+Randolph,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,108
+Randolph,PRECINCT 28A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,80
+Randolph,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,150
+Randolph,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Randolph,PRECINCT 75,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,141
+Randolph,PRECINCT 80,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,56
+Randolph,PRECINCT 85,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,266
+Randolph,PRECINCT 150,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,288
+Randolph,PRECINCT 155,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,235
+Randolph,PRECINCT 160,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,231
+Randolph,PRECINCT 165,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,306
+Randolph,PRECINCT 170,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,200
+Randolph,PRECINCT 180,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,233
+Randolph,PRECINCT 185,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,170
+Randolph,PRECINCT 190,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,65
+Randolph,PRECINCT 200,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,265
+Randolph,PRECINCT 202,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,91
+Randolph,PRECINCT 205,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,487
+Randolph,PRECINCT 210,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,132
+Randolph,PRECINCT 215,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Randolph,PRECINCT 220,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,48
+Randolph,PRECINCT 225,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,120
+Randolph,PRECINCT 227,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,78
+Randolph,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,90
+Randolph,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,30
+Randolph,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,54
+Randolph,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,49
+Randolph,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Randolph,PRECINCT 28A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,21
+Randolph,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,48
+Randolph,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,36
+Randolph,PRECINCT 75,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Randolph,PRECINCT 80,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,29
+Randolph,PRECINCT 85,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,92
+Randolph,PRECINCT 150,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,99
+Randolph,PRECINCT 155,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,78
+Randolph,PRECINCT 160,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,77
+Randolph,PRECINCT 165,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,99
+Randolph,PRECINCT 170,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,46
+Randolph,PRECINCT 180,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,101
+Randolph,PRECINCT 185,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,60
+Randolph,PRECINCT 190,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,16
+Randolph,PRECINCT 200,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,90
+Randolph,PRECINCT 202,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,27
+Randolph,PRECINCT 205,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,179
+Randolph,PRECINCT 210,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,33
+Randolph,PRECINCT 215,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,30
+Randolph,PRECINCT 220,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,17
+Randolph,PRECINCT 225,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,38
+Randolph,PRECINCT 227,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,26
+Randolph,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,482
+Randolph,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,123
+Randolph,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,255
+Randolph,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,154
+Randolph,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,141
+Randolph,PRECINCT 28A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,108
+Randolph,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,190
+Randolph,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Randolph,PRECINCT 75,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,208
+Randolph,PRECINCT 80,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,67
+Randolph,PRECINCT 85,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,362
+Randolph,PRECINCT 150,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,335
+Randolph,PRECINCT 155,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,291
+Randolph,PRECINCT 160,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,304
+Randolph,PRECINCT 165,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,386
+Randolph,PRECINCT 170,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,253
+Randolph,PRECINCT 180,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,310
+Randolph,PRECINCT 185,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,212
+Randolph,PRECINCT 190,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,84
+Randolph,PRECINCT 200,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,336
+Randolph,PRECINCT 202,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,127
+Randolph,PRECINCT 205,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,654
+Randolph,PRECINCT 210,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,165
+Randolph,PRECINCT 215,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,163
+Randolph,PRECINCT 220,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,66
+Randolph,PRECINCT 225,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,148
+Randolph,PRECINCT 227,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,99
+Randolph,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,229
+Randolph,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Randolph,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,113
+Randolph,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,86
+Randolph,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,86
+Randolph,PRECINCT 28A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,57
+Randolph,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,78
+Randolph,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,70
+Randolph,PRECINCT 75,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,89
+Randolph,PRECINCT 80,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,37
+Randolph,PRECINCT 85,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,175
+Randolph,PRECINCT 150,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,142
+Randolph,PRECINCT 155,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,136
+Randolph,PRECINCT 160,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,143
+Randolph,PRECINCT 165,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,156
+Randolph,PRECINCT 170,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,84
+Randolph,PRECINCT 180,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,149
+Randolph,PRECINCT 185,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,107
+Randolph,PRECINCT 190,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Randolph,PRECINCT 200,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,153
+Randolph,PRECINCT 202,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,48
+Randolph,PRECINCT 205,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,334
+Randolph,PRECINCT 210,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,63
+Randolph,PRECINCT 215,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,64
+Randolph,PRECINCT 220,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,34
+Randolph,PRECINCT 225,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,59
+Randolph,PRECINCT 227,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,42
+Randolph,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,319
+Randolph,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,93
+Randolph,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,189
+Randolph,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,107
+Randolph,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,101
+Randolph,PRECINCT 28A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,69
+Randolph,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,144
+Randolph,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,78
+Randolph,PRECINCT 75,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,150
+Randolph,PRECINCT 80,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,53
+Randolph,PRECINCT 85,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,252
+Randolph,PRECINCT 150,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,282
+Randolph,PRECINCT 155,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,219
+Randolph,PRECINCT 160,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,225
+Randolph,PRECINCT 165,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,304
+Randolph,PRECINCT 170,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,202
+Randolph,PRECINCT 180,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,240
+Randolph,PRECINCT 185,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,156
+Randolph,PRECINCT 190,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,50
+Randolph,PRECINCT 200,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,252
+Randolph,PRECINCT 202,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,103
+Randolph,PRECINCT 205,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,468
+Randolph,PRECINCT 210,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,130
+Randolph,PRECINCT 215,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,127
+Randolph,PRECINCT 220,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,44
+Randolph,PRECINCT 225,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,125
+Randolph,PRECINCT 227,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,72
+Randolph,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,204
+Randolph,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Randolph,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,79
+Randolph,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,91
+Randolph,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Randolph,PRECINCT 28A,Amendment No. 4: Education Accountability Amendment,,,FOR,35
+Randolph,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,77
+Randolph,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,62
+Randolph,PRECINCT 75,Amendment No. 4: Education Accountability Amendment,,,FOR,83
+Randolph,PRECINCT 80,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Randolph,PRECINCT 85,Amendment No. 4: Education Accountability Amendment,,,FOR,162
+Randolph,PRECINCT 150,Amendment No. 4: Education Accountability Amendment,,,FOR,143
+Randolph,PRECINCT 155,Amendment No. 4: Education Accountability Amendment,,,FOR,116
+Randolph,PRECINCT 160,Amendment No. 4: Education Accountability Amendment,,,FOR,124
+Randolph,PRECINCT 165,Amendment No. 4: Education Accountability Amendment,,,FOR,140
+Randolph,PRECINCT 170,Amendment No. 4: Education Accountability Amendment,,,FOR,93
+Randolph,PRECINCT 180,Amendment No. 4: Education Accountability Amendment,,,FOR,151
+Randolph,PRECINCT 185,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Randolph,PRECINCT 190,Amendment No. 4: Education Accountability Amendment,,,FOR,36
+Randolph,PRECINCT 200,Amendment No. 4: Education Accountability Amendment,,,FOR,140
+Randolph,PRECINCT 202,Amendment No. 4: Education Accountability Amendment,,,FOR,50
+Randolph,PRECINCT 205,Amendment No. 4: Education Accountability Amendment,,,FOR,310
+Randolph,PRECINCT 210,Amendment No. 4: Education Accountability Amendment,,,FOR,46
+Randolph,PRECINCT 215,Amendment No. 4: Education Accountability Amendment,,,FOR,71
+Randolph,PRECINCT 220,Amendment No. 4: Education Accountability Amendment,,,FOR,23
+Randolph,PRECINCT 225,Amendment No. 4: Education Accountability Amendment,,,FOR,67
+Randolph,PRECINCT 227,Amendment No. 4: Education Accountability Amendment,,,FOR,45
+Randolph,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,367
+Randolph,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,99
+Randolph,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,232
+Randolph,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,110
+Randolph,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,118
+Randolph,PRECINCT 28A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,95
+Randolph,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,157
+Randolph,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,88
+Randolph,PRECINCT 75,Amendment No. 4: Education Accountability Amendment,,,AGAINST,173
+Randolph,PRECINCT 80,Amendment No. 4: Education Accountability Amendment,,,AGAINST,49
+Randolph,PRECINCT 85,Amendment No. 4: Education Accountability Amendment,,,AGAINST,288
+Randolph,PRECINCT 150,Amendment No. 4: Education Accountability Amendment,,,AGAINST,285
+Randolph,PRECINCT 155,Amendment No. 4: Education Accountability Amendment,,,AGAINST,251
+Randolph,PRECINCT 160,Amendment No. 4: Education Accountability Amendment,,,AGAINST,256
+Randolph,PRECINCT 165,Amendment No. 4: Education Accountability Amendment,,,AGAINST,340
+Randolph,PRECINCT 170,Amendment No. 4: Education Accountability Amendment,,,AGAINST,200
+Randolph,PRECINCT 180,Amendment No. 4: Education Accountability Amendment,,,AGAINST,251
+Randolph,PRECINCT 185,Amendment No. 4: Education Accountability Amendment,,,AGAINST,180
+Randolph,PRECINCT 190,Amendment No. 4: Education Accountability Amendment,,,AGAINST,62
+Randolph,PRECINCT 200,Amendment No. 4: Education Accountability Amendment,,,AGAINST,281
+Randolph,PRECINCT 202,Amendment No. 4: Education Accountability Amendment,,,AGAINST,103
+Randolph,PRECINCT 205,Amendment No. 4: Education Accountability Amendment,,,AGAINST,519
+Randolph,PRECINCT 210,Amendment No. 4: Education Accountability Amendment,,,AGAINST,149
+Randolph,PRECINCT 215,Amendment No. 4: Education Accountability Amendment,,,AGAINST,121
+Randolph,PRECINCT 220,Amendment No. 4: Education Accountability Amendment,,,AGAINST,60
+Randolph,PRECINCT 225,Amendment No. 4: Education Accountability Amendment,,,AGAINST,122
+Randolph,PRECINCT 227,Amendment No. 4: Education Accountability Amendment,,,AGAINST,76

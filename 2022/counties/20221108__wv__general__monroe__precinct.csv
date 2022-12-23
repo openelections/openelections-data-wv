@@ -1,0 +1,242 @@
+county,precinct,office,district,party,candidate,votes
+Monroe,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,9
+Monroe,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,251
+Monroe,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,147
+Monroe,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,471
+Monroe,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,271
+Monroe,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,447
+Monroe,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,41
+Monroe,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,51
+Monroe,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,499
+Monroe,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,276
+Monroe,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,433
+Monroe,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,11
+Monroe,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,100
+Monroe,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,38
+Monroe,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,169
+Monroe,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,79
+Monroe,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,95
+Monroe,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,15
+Monroe,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,13
+Monroe,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,77
+Monroe,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,106
+Monroe,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,96
+Monroe,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Monroe,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,35
+Monroe,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,19
+Monroe,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,72
+Monroe,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,46
+Monroe,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,99
+Monroe,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Monroe,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Monroe,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,144
+Monroe,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,51
+Monroe,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,106
+Monroe,PRECINCT 1,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,8
+Monroe,PRECINCT 2,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,249
+Monroe,PRECINCT 11,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,148
+Monroe,PRECINCT 14,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,442
+Monroe,PRECINCT 15,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,253
+Monroe,PRECINCT 17,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,452
+Monroe,PRECINCT 18,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,36
+Monroe,PRECINCT 19,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,51
+Monroe,PRECINCT 21,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,552
+Monroe,PRECINCT 22,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,251
+Monroe,PRECINCT 24,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,449
+Monroe,PRECINCT 1,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,15
+Monroe,PRECINCT 2,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,140
+Monroe,PRECINCT 11,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,65
+Monroe,PRECINCT 14,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,285
+Monroe,PRECINCT 15,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,134
+Monroe,PRECINCT 17,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,184
+Monroe,PRECINCT 18,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,28
+Monroe,PRECINCT 19,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,22
+Monroe,PRECINCT 21,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,151
+Monroe,PRECINCT 22,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,174
+Monroe,PRECINCT 24,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,163
+Monroe,PRECINCT 1,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,0
+Monroe,PRECINCT 2,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,10
+Monroe,PRECINCT 11,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,6
+Monroe,PRECINCT 14,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,16
+Monroe,PRECINCT 15,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,18
+Monroe,PRECINCT 17,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,19
+Monroe,PRECINCT 18,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Monroe,PRECINCT 19,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,0
+Monroe,PRECINCT 21,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,20
+Monroe,PRECINCT 22,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,18
+Monroe,PRECINCT 24,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,27
+Monroe,PRECINCT 2,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,241
+Monroe,PRECINCT 11,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,147
+Monroe,PRECINCT 14,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,491
+Monroe,PRECINCT 15,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,278
+Monroe,PRECINCT 17,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,467
+Monroe,PRECINCT 18,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,42
+Monroe,PRECINCT 19,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,54
+Monroe,PRECINCT 21,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,562
+Monroe,PRECINCT 22,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,274
+Monroe,PRECINCT 24,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,452
+Monroe,PRECINCT 2,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,120
+Monroe,PRECINCT 11,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,53
+Monroe,PRECINCT 14,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,206
+Monroe,PRECINCT 15,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,101
+Monroe,PRECINCT 17,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,153
+Monroe,PRECINCT 18,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,19
+Monroe,PRECINCT 19,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,18
+Monroe,PRECINCT 21,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,140
+Monroe,PRECINCT 22,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,147
+Monroe,PRECINCT 24,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,171
+Monroe,PRECINCT 2,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,32
+Monroe,PRECINCT 11,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,11
+Monroe,PRECINCT 14,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,36
+Monroe,PRECINCT 15,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,24
+Monroe,PRECINCT 17,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,26
+Monroe,PRECINCT 18,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,4
+Monroe,PRECINCT 19,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,2
+Monroe,PRECINCT 21,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,28
+Monroe,PRECINCT 22,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,21
+Monroe,PRECINCT 24,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,21
+Monroe,PRECINCT 1,HOUSE OF DELEGATES, 47th District,REP,TODD LONGANACRE,11
+Monroe,PRECINCT 1,HOUSE OF DELEGATES, 47th District,DEM,HEATHER HILL,12
+Monroe,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,9
+Monroe,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,215
+Monroe,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,129
+Monroe,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,341
+Monroe,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,236
+Monroe,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,402
+Monroe,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,24
+Monroe,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,39
+Monroe,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,484
+Monroe,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,213
+Monroe,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP DANIEL TICKLE,421
+Monroe,PRECINCT 1,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,14
+Monroe,PRECINCT 2,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,181
+Monroe,PRECINCT 11,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,82
+Monroe,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,386
+Monroe,PRECINCT 15,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,168
+Monroe,PRECINCT 17,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,248
+Monroe,PRECINCT 18,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,43
+Monroe,PRECINCT 19,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,34
+Monroe,PRECINCT 21,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,239
+Monroe,PRECINCT 22,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,229
+Monroe,PRECINCT 24,FOR CIRCUIT CLERK,,DEM,DEM LETA GULLETTE-COMER,227
+Monroe,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,12
+Monroe,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,253
+Monroe,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,148
+Monroe,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,451
+Monroe,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,229
+Monroe,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,455
+Monroe,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,32
+Monroe,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,53
+Monroe,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,571
+Monroe,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,289
+Monroe,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP KEVIN GALFORD,478
+Monroe,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,10
+Monroe,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,140
+Monroe,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,67
+Monroe,PRECINCT 14,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,286
+Monroe,PRECINCT 15,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,166
+Monroe,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,194
+Monroe,PRECINCT 18,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,35
+Monroe,PRECINCT 19,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,20
+Monroe,PRECINCT 21,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,151
+Monroe,PRECINCT 22,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,148
+Monroe,PRECINCT 24,FOR COUNTY COMMISSIONER,,DEM,DEM KEVIN GLOVER,166
+Monroe,PRECINCT 1,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,15
+Monroe,PRECINCT 2,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,320
+Monroe,PRECINCT 11,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,179
+Monroe,PRECINCT 14,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,605
+Monroe,PRECINCT 15,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,355
+Monroe,PRECINCT 17,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,571
+Monroe,PRECINCT 18,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,55
+Monroe,PRECINCT 19,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,64
+Monroe,PRECINCT 21,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,667
+Monroe,PRECINCT 22,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,376
+Monroe,PRECINCT 24,FOR COUNTY CLERK,,REP,REP JEREMY MEADOWS,592
+Monroe,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,11
+Monroe,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,139
+Monroe,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,77
+Monroe,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,287
+Monroe,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,169
+Monroe,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,223
+Monroe,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,19
+Monroe,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,32
+Monroe,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,322
+Monroe,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,160
+Monroe,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,286
+Monroe,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,12
+Monroe,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,244
+Monroe,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,136
+Monroe,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,431
+Monroe,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,220
+Monroe,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,408
+Monroe,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,45
+Monroe,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,40
+Monroe,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,386
+Monroe,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,265
+Monroe,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,339
+Monroe,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,9
+Monroe,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,102
+Monroe,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,54
+Monroe,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,186
+Monroe,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,130
+Monroe,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,183
+Monroe,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,11
+Monroe,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,24
+Monroe,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,255
+Monroe,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,126
+Monroe,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,213
+Monroe,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,14
+Monroe,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,296
+Monroe,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,163
+Monroe,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,547
+Monroe,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,270
+Monroe,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,477
+Monroe,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,57
+Monroe,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,48
+Monroe,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,472
+Monroe,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,313
+Monroe,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,427
+Monroe,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,16
+Monroe,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,172
+Monroe,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Monroe,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,295
+Monroe,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,167
+Monroe,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,263
+Monroe,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,22
+Monroe,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,37
+Monroe,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,323
+Monroe,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,181
+Monroe,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,282
+Monroe,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,7
+Monroe,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,213
+Monroe,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,127
+Monroe,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,410
+Monroe,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,216
+Monroe,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,368
+Monroe,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,40
+Monroe,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,34
+Monroe,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,383
+Monroe,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,245
+Monroe,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,337
+Monroe,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,11
+Monroe,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,146
+Monroe,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Monroe,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,260
+Monroe,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,142
+Monroe,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,259
+Monroe,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,14
+Monroe,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,32
+Monroe,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,300
+Monroe,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,162
+Monroe,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,279
+Monroe,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,12
+Monroe,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,247
+Monroe,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,141
+Monroe,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,460
+Monroe,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,253
+Monroe,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,398
+Monroe,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,52
+Monroe,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,41
+Monroe,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,421
+Monroe,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,276
+Monroe,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,361

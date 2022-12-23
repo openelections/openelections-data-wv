@@ -1,0 +1,232 @@
+county,precinct,office,district,party,candidate,votes
+Clay,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,73
+Clay,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,54
+Clay,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,51
+Clay,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,207
+Clay,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,232
+Clay,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,116
+Clay,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,138
+Clay,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,247
+Clay,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,166
+Clay,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,167
+Clay,PRECINCT 37,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,110
+Clay,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,22
+Clay,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,8
+Clay,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,29
+Clay,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,51
+Clay,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,80
+Clay,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,42
+Clay,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,44
+Clay,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,54
+Clay,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,37
+Clay,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,43
+Clay,PRECINCT 37,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,21
+Clay,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,3
+Clay,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,1
+Clay,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,1
+Clay,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,8
+Clay,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,10
+Clay,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,11
+Clay,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,13
+Clay,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,26
+Clay,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,12
+Clay,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,9
+Clay,PRECINCT 37,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,4
+Clay,PRECINCT 1,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,73
+Clay,PRECINCT 4,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,52
+Clay,PRECINCT 12,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,43
+Clay,PRECINCT 15,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,191
+Clay,PRECINCT 17,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,208
+Clay,PRECINCT 24,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,113
+Clay,PRECINCT 25,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,124
+Clay,PRECINCT 29,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,244
+Clay,PRECINCT 33,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,156
+Clay,PRECINCT 36,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,149
+Clay,PRECINCT 37,STATE SENATOR, 8th Senatorial District,REP,MARK HUNT,102
+Clay,PRECINCT 1,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,24
+Clay,PRECINCT 4,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,10
+Clay,PRECINCT 12,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,44
+Clay,PRECINCT 15,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,77
+Clay,PRECINCT 17,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,108
+Clay,PRECINCT 24,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,57
+Clay,PRECINCT 25,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,70
+Clay,PRECINCT 29,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,75
+Clay,PRECINCT 33,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,60
+Clay,PRECINCT 36,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,62
+Clay,PRECINCT 37,STATE SENATOR, 8th Senatorial District,DEM,RICHARD  LINDSAY,32
+Clay,PRECINCT 1,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,80
+Clay,PRECINCT 4,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,50
+Clay,PRECINCT 12,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,66
+Clay,PRECINCT 15,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,211
+Clay,PRECINCT 17,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,253
+Clay,PRECINCT 24,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,131
+Clay,PRECINCT 25,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,136
+Clay,PRECINCT 29,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,264
+Clay,PRECINCT 33,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,188
+Clay,PRECINCT 36,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,178
+Clay,PRECINCT 37,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,107
+Clay,PRECINCT 1,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,14
+Clay,PRECINCT 4,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,13
+Clay,PRECINCT 12,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,13
+Clay,PRECINCT 15,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,57
+Clay,PRECINCT 17,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,56
+Clay,PRECINCT 24,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,36
+Clay,PRECINCT 25,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,52
+Clay,PRECINCT 29,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,57
+Clay,PRECINCT 33,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,30
+Clay,PRECINCT 36,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,45
+Clay,PRECINCT 37,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,27
+Clay,PRECINCT 1,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",40
+Clay,PRECINCT 4,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",42
+Clay,PRECINCT 12,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",21
+Clay,PRECINCT 15,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",77
+Clay,PRECINCT 17,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",82
+Clay,PRECINCT 24,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",85
+Clay,PRECINCT 25,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",74
+Clay,PRECINCT 29,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",153
+Clay,PRECINCT 33,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",89
+Clay,PRECINCT 36,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",103
+Clay,PRECINCT 37,CIRCUIT CLERK,,REP,"H. C. ""BUCKY"" LEWIS IV",69
+Clay,PRECINCT 1,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,59
+Clay,PRECINCT 4,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,20
+Clay,PRECINCT 12,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,63
+Clay,PRECINCT 15,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,196
+Clay,PRECINCT 17,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,245
+Clay,PRECINCT 24,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,88
+Clay,PRECINCT 25,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,121
+Clay,PRECINCT 29,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,171
+Clay,PRECINCT 33,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,131
+Clay,PRECINCT 36,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,108
+Clay,PRECINCT 37,CIRCUIT CLERK,,DEM,CLARISSA  HANSHAW,63
+Clay,PRECINCT 1,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,81
+Clay,PRECINCT 4,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,42
+Clay,PRECINCT 12,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,69
+Clay,PRECINCT 15,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,209
+Clay,PRECINCT 17,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,253
+Clay,PRECINCT 24,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,116
+Clay,PRECINCT 25,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,143
+Clay,PRECINCT 29,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,214
+Clay,PRECINCT 33,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,149
+Clay,PRECINCT 36,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,145
+Clay,PRECINCT 37,COUNTY COMMISSIONER,,DEM,JOYCE SHAMBLIN JOHNSON,81
+Clay,PRECINCT 1,COUNTY CLERK,,DEM,CONNIE WORKMAN,86
+Clay,PRECINCT 4,COUNTY CLERK,,DEM,CONNIE WORKMAN,44
+Clay,PRECINCT 12,COUNTY CLERK,,DEM,CONNIE WORKMAN,81
+Clay,PRECINCT 15,COUNTY CLERK,,DEM,CONNIE WORKMAN,237
+Clay,PRECINCT 17,COUNTY CLERK,,DEM,CONNIE WORKMAN,291
+Clay,PRECINCT 24,COUNTY CLERK,,DEM,CONNIE WORKMAN,126
+Clay,PRECINCT 25,COUNTY CLERK,,DEM,CONNIE WORKMAN,177
+Clay,PRECINCT 29,COUNTY CLERK,,DEM,CONNIE WORKMAN,256
+Clay,PRECINCT 33,COUNTY CLERK,,DEM,CONNIE WORKMAN,186
+Clay,PRECINCT 36,COUNTY CLERK,,DEM,CONNIE WORKMAN,168
+Clay,PRECINCT 37,COUNTY CLERK,,DEM,CONNIE WORKMAN,100
+Clay,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,32
+Clay,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,32
+Clay,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,23
+Clay,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Clay,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,85
+Clay,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,65
+Clay,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Clay,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,100
+Clay,PRECINCT 33,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Clay,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,82
+Clay,PRECINCT 37,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,53
+Clay,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,64
+Clay,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,26
+Clay,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,60
+Clay,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,173
+Clay,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,224
+Clay,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,104
+Clay,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,131
+Clay,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,216
+Clay,PRECINCT 33,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,144
+Clay,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,138
+Clay,PRECINCT 37,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,83
+Clay,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,21
+Clay,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,23
+Clay,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,19
+Clay,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,81
+Clay,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,54
+Clay,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,53
+Clay,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,47
+Clay,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,70
+Clay,PRECINCT 33,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,61
+Clay,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,79
+Clay,PRECINCT 37,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,46
+Clay,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,76
+Clay,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,39
+Clay,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,68
+Clay,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,195
+Clay,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,273
+Clay,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,124
+Clay,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,154
+Clay,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,261
+Clay,PRECINCT 33,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,164
+Clay,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,150
+Clay,PRECINCT 37,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,94
+Clay,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,23
+Clay,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,26
+Clay,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,26
+Clay,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,92
+Clay,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,74
+Clay,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,59
+Clay,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Clay,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,100
+Clay,PRECINCT 33,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,73
+Clay,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,77
+Clay,PRECINCT 37,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Clay,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,73
+Clay,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,36
+Clay,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,59
+Clay,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,174
+Clay,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,238
+Clay,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,111
+Clay,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,142
+Clay,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,220
+Clay,PRECINCT 33,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,145
+Clay,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,142
+Clay,PRECINCT 37,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,87
+Clay,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,26
+Clay,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,26
+Clay,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,25
+Clay,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,93
+Clay,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,83
+Clay,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,63
+Clay,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,61
+Clay,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,FOR,94
+Clay,PRECINCT 33,Amendment No. 4: Education Accountability Amendment,,,FOR,81
+Clay,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,FOR,90
+Clay,PRECINCT 37,Amendment No. 4: Education Accountability Amendment,,,FOR,48
+Clay,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,72
+Clay,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,36
+Clay,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,60
+Clay,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,182
+Clay,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,243
+Clay,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,113
+Clay,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,142
+Clay,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,AGAINST,232
+Clay,PRECINCT 33,Amendment No. 4: Education Accountability Amendment,,,AGAINST,144
+Clay,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,AGAINST,132
+Clay,PRECINCT 37,Amendment No. 4: Education Accountability Amendment,,,AGAINST,93
+Clay,PRECINCT 1,Additional School Levies,,,FOR THE LEVY,38
+Clay,PRECINCT 4,Additional School Levies,,,FOR THE LEVY,23
+Clay,PRECINCT 12,Additional School Levies,,,FOR THE LEVY,38
+Clay,PRECINCT 15,Additional School Levies,,,FOR THE LEVY,127
+Clay,PRECINCT 17,Additional School Levies,,,FOR THE LEVY,146
+Clay,PRECINCT 24,Additional School Levies,,,FOR THE LEVY,81
+Clay,PRECINCT 25,Additional School Levies,,,FOR THE LEVY,60
+Clay,PRECINCT 29,Additional School Levies,,,FOR THE LEVY,139
+Clay,PRECINCT 33,Additional School Levies,,,FOR THE LEVY,98
+Clay,PRECINCT 36,Additional School Levies,,,FOR THE LEVY,144
+Clay,PRECINCT 37,Additional School Levies,,,FOR THE LEVY,80
+Clay,PRECINCT 1,Additional School Levies,,,AGAINST THE LEVY,58
+Clay,PRECINCT 4,Additional School Levies,,,AGAINST THE LEVY,36
+Clay,PRECINCT 12,Additional School Levies,,,AGAINST THE LEVY,50
+Clay,PRECINCT 15,Additional School Levies,,,AGAINST THE LEVY,155
+Clay,PRECINCT 17,Additional School Levies,,,AGAINST THE LEVY,181
+Clay,PRECINCT 24,Additional School Levies,,,AGAINST THE LEVY,94
+Clay,PRECINCT 25,Additional School Levies,,,AGAINST THE LEVY,140
+Clay,PRECINCT 29,Additional School Levies,,,AGAINST THE LEVY,183
+Clay,PRECINCT 33,Additional School Levies,,,AGAINST THE LEVY,126
+Clay,PRECINCT 36,Additional School Levies,,,AGAINST THE LEVY,84
+Clay,PRECINCT 37,Additional School Levies,,,AGAINST THE LEVY,61

@@ -1,0 +1,385 @@
+county,precinct,office,district,party,candidate,votes
+Taylor,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,296
+Taylor,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,317
+Taylor,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,212
+Taylor,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,94
+Taylor,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,253
+Taylor,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,106
+Taylor,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,122
+Taylor,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,273
+Taylor,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,88
+Taylor,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,178
+Taylor,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,119
+Taylor,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,171
+Taylor,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,184
+Taylor,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,136
+Taylor,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,78
+Taylor,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,123
+Taylor,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,219
+Taylor,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,116
+Taylor,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,143
+Taylor,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,91
+Taylor,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,65
+Taylor,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,108
+Taylor,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,45
+Taylor,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,49
+Taylor,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,149
+Taylor,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,37
+Taylor,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,77
+Taylor,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,61
+Taylor,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,71
+Taylor,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,71
+Taylor,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,77
+Taylor,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,44
+Taylor,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,76
+Taylor,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,105
+Taylor,PRECINCT 1,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,300
+Taylor,PRECINCT 2,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,314
+Taylor,PRECINCT 3,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,231
+Taylor,PRECINCT 4,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,114
+Taylor,PRECINCT 5,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,259
+Taylor,PRECINCT 6,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,120
+Taylor,PRECINCT 17,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,172
+Taylor,PRECINCT 19,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,178
+Taylor,PRECINCT 1,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,97
+Taylor,PRECINCT 2,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,123
+Taylor,PRECINCT 3,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,48
+Taylor,PRECINCT 4,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,31
+Taylor,PRECINCT 5,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,92
+Taylor,PRECINCT 6,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,23
+Taylor,PRECINCT 17,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,53
+Taylor,PRECINCT 19,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,76
+Taylor,PRECINCT 9,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,134
+Taylor,PRECINCT 10,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,305
+Taylor,PRECINCT 11,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,104
+Taylor,PRECINCT 12,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,201
+Taylor,PRECINCT 14,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,142
+Taylor,PRECINCT 26,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,163
+Taylor,PRECINCT 29,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,89
+Taylor,PRECINCT 31,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,138
+Taylor,PRECINCT 36,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,244
+Taylor,PRECINCT 9,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,42
+Taylor,PRECINCT 10,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,123
+Taylor,PRECINCT 11,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,24
+Taylor,PRECINCT 12,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,58
+Taylor,PRECINCT 14,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,40
+Taylor,PRECINCT 26,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,55
+Taylor,PRECINCT 29,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,34
+Taylor,PRECINCT 31,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,67
+Taylor,PRECINCT 36,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,89
+Taylor,PRECINCT 1,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,299
+Taylor,PRECINCT 2,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,317
+Taylor,PRECINCT 3,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,233
+Taylor,PRECINCT 4,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,102
+Taylor,PRECINCT 5,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,270
+Taylor,PRECINCT 6,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,113
+Taylor,PRECINCT 9,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,124
+Taylor,PRECINCT 10,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,275
+Taylor,PRECINCT 11,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,93
+Taylor,PRECINCT 12,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,185
+Taylor,PRECINCT 14,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,127
+Taylor,PRECINCT 17,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,179
+Taylor,PRECINCT 19,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,195
+Taylor,PRECINCT 26,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,143
+Taylor,PRECINCT 29,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,92
+Taylor,PRECINCT 31,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,117
+Taylor,PRECINCT 36,HOUSE OF DELEGATES, 73rd District,REP,AMY SUMMERS,238
+Taylor,PRECINCT 1,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,119
+Taylor,PRECINCT 2,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,148
+Taylor,PRECINCT 3,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,77
+Taylor,PRECINCT 4,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,59
+Taylor,PRECINCT 5,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,90
+Taylor,PRECINCT 6,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,42
+Taylor,PRECINCT 9,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,54
+Taylor,PRECINCT 10,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,164
+Taylor,PRECINCT 11,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,36
+Taylor,PRECINCT 12,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,77
+Taylor,PRECINCT 14,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,58
+Taylor,PRECINCT 17,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,68
+Taylor,PRECINCT 19,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,71
+Taylor,PRECINCT 26,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,80
+Taylor,PRECINCT 29,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,34
+Taylor,PRECINCT 31,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,90
+Taylor,PRECINCT 36,HOUSE OF DELEGATES, 73rd District,DEM,MIKE MANYPENNY,99
+Taylor,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,360
+Taylor,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,420
+Taylor,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,268
+Taylor,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,145
+Taylor,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,326
+Taylor,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,137
+Taylor,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,147
+Taylor,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,373
+Taylor,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,115
+Taylor,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,241
+Taylor,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,162
+Taylor,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,230
+Taylor,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,228
+Taylor,PRECINCT 26,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,208
+Taylor,PRECINCT 29,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,115
+Taylor,PRECINCT 31,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,176
+Taylor,PRECINCT 36,FOR CIRCUIT CLERK,,REP,REP VONDA M RENEMAN,311
+Taylor,PRECINCT 1,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,279
+Taylor,PRECINCT 2,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,301
+Taylor,PRECINCT 3,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,217
+Taylor,PRECINCT 4,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,96
+Taylor,PRECINCT 5,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,246
+Taylor,PRECINCT 6,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,103
+Taylor,PRECINCT 9,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,123
+Taylor,PRECINCT 10,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,272
+Taylor,PRECINCT 11,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,94
+Taylor,PRECINCT 12,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,184
+Taylor,PRECINCT 14,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,120
+Taylor,PRECINCT 17,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,181
+Taylor,PRECINCT 19,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,170
+Taylor,PRECINCT 26,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,144
+Taylor,PRECINCT 29,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,92
+Taylor,PRECINCT 31,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,112
+Taylor,PRECINCT 36,FOR COUNTY COMMISSIONER TYGART DISTRICT,,REP,REP TONY J VELTRI,217
+Taylor,PRECINCT 1,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",135
+Taylor,PRECINCT 2,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",164
+Taylor,PRECINCT 3,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",90
+Taylor,PRECINCT 4,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",67
+Taylor,PRECINCT 5,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",108
+Taylor,PRECINCT 6,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",46
+Taylor,PRECINCT 9,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",53
+Taylor,PRECINCT 10,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",161
+Taylor,PRECINCT 11,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",33
+Taylor,PRECINCT 12,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",81
+Taylor,PRECINCT 14,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",60
+Taylor,PRECINCT 17,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",69
+Taylor,PRECINCT 19,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",95
+Taylor,PRECINCT 26,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",74
+Taylor,PRECINCT 29,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",32
+Taylor,PRECINCT 31,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",91
+Taylor,PRECINCT 36,FOR COUNTY COMMISSIONER TYGART DISTRICT,,DEM,"DEM J.M. ""MIKE"" WITHERS",119
+Taylor,PRECINCT 1,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,360
+Taylor,PRECINCT 2,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,404
+Taylor,PRECINCT 3,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,262
+Taylor,PRECINCT 4,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,132
+Taylor,PRECINCT 5,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,322
+Taylor,PRECINCT 6,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,129
+Taylor,PRECINCT 9,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,156
+Taylor,PRECINCT 10,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,351
+Taylor,PRECINCT 11,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,105
+Taylor,PRECINCT 12,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,224
+Taylor,PRECINCT 14,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,154
+Taylor,PRECINCT 17,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,223
+Taylor,PRECINCT 19,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,228
+Taylor,PRECINCT 26,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,193
+Taylor,PRECINCT 29,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,103
+Taylor,PRECINCT 31,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,171
+Taylor,PRECINCT 36,FOR COUNTY CLERK,,REP,REP JARON FREEMAN,300
+Taylor,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,231
+Taylor,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,256
+Taylor,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,164
+Taylor,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Taylor,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,208
+Taylor,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,92
+Taylor,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Taylor,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,235
+Taylor,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,68
+Taylor,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,134
+Taylor,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,102
+Taylor,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,138
+Taylor,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,163
+Taylor,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,129
+Taylor,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,67
+Taylor,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,110
+Taylor,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,196
+Taylor,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,181
+Taylor,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,208
+Taylor,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,135
+Taylor,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Taylor,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,152
+Taylor,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,52
+Taylor,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Taylor,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,185
+Taylor,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,51
+Taylor,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,119
+Taylor,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,80
+Taylor,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,102
+Taylor,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,97
+Taylor,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,89
+Taylor,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,57
+Taylor,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,88
+Taylor,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,129
+Taylor,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,286
+Taylor,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,315
+Taylor,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,205
+Taylor,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,116
+Taylor,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,237
+Taylor,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,109
+Taylor,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,112
+Taylor,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,290
+Taylor,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,73
+Taylor,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,181
+Taylor,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Taylor,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,172
+Taylor,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,190
+Taylor,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,144
+Taylor,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,77
+Taylor,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,133
+Taylor,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,225
+Taylor,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,132
+Taylor,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,153
+Taylor,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,105
+Taylor,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,49
+Taylor,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,129
+Taylor,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Taylor,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Taylor,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,141
+Taylor,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Taylor,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,84
+Taylor,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,66
+Taylor,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,74
+Taylor,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,75
+Taylor,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,76
+Taylor,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,48
+Taylor,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Taylor,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,118
+Taylor,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,192
+Taylor,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,232
+Taylor,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,170
+Taylor,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,96
+Taylor,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,188
+Taylor,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,84
+Taylor,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,86
+Taylor,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,224
+Taylor,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,62
+Taylor,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,134
+Taylor,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,99
+Taylor,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,131
+Taylor,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,161
+Taylor,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,128
+Taylor,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,77
+Taylor,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,106
+Taylor,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,175
+Taylor,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,217
+Taylor,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,221
+Taylor,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,131
+Taylor,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,63
+Taylor,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,172
+Taylor,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,64
+Taylor,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,82
+Taylor,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,194
+Taylor,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,56
+Taylor,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,126
+Taylor,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,84
+Taylor,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,106
+Taylor,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,99
+Taylor,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,88
+Taylor,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Taylor,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,92
+Taylor,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,144
+Taylor,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,231
+Taylor,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,275
+Taylor,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,183
+Taylor,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,109
+Taylor,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,219
+Taylor,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,88
+Taylor,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,104
+Taylor,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,248
+Taylor,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,71
+Taylor,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,157
+Taylor,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,105
+Taylor,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,148
+Taylor,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,162
+Taylor,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,133
+Taylor,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,AGAINST,59
+Taylor,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,106
+Taylor,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,AGAINST,197
+Taylor,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,186
+Taylor,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,193
+Taylor,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,125
+Taylor,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,56
+Taylor,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,146
+Taylor,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,63
+Taylor,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,69
+Taylor,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,182
+Taylor,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,51
+Taylor,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,108
+Taylor,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,80
+Taylor,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,97
+Taylor,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,104
+Taylor,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,87
+Taylor,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,FOR,66
+Taylor,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,97
+Taylor,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,FOR,143
+Taylor,PRECINCT 1,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,375
+Taylor,PRECINCT 2,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,371
+Taylor,PRECINCT 3,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,274
+Taylor,PRECINCT 4,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,125
+Taylor,PRECINCT 5,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,295
+Taylor,PRECINCT 6,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,120
+Taylor,PRECINCT 9,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,143
+Taylor,PRECINCT 10,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,346
+Taylor,PRECINCT 11,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,87
+Taylor,PRECINCT 12,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,221
+Taylor,PRECINCT 14,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,148
+Taylor,PRECINCT 17,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,198
+Taylor,PRECINCT 19,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,212
+Taylor,PRECINCT 26,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,160
+Taylor,PRECINCT 29,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,100
+Taylor,PRECINCT 31,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,176
+Taylor,PRECINCT 36,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,Yes,276
+Taylor,PRECINCT 1,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,53
+Taylor,PRECINCT 2,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,104
+Taylor,PRECINCT 3,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,32
+Taylor,PRECINCT 4,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,42
+Taylor,PRECINCT 5,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,67
+Taylor,PRECINCT 6,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,34
+Taylor,PRECINCT 9,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,38
+Taylor,PRECINCT 10,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,88
+Taylor,PRECINCT 11,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,39
+Taylor,PRECINCT 12,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,51
+Taylor,PRECINCT 14,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,38
+Taylor,PRECINCT 17,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,50
+Taylor,PRECINCT 19,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,51
+Taylor,PRECINCT 26,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,63
+Taylor,PRECINCT 29,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,27
+Taylor,PRECINCT 31,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,29
+Taylor,PRECINCT 36,TAYLOR CO. VOLUNTEER FIRE DEPT. LEVY,,,No,67
+Taylor,PRECINCT 1,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,263
+Taylor,PRECINCT 2,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,208
+Taylor,PRECINCT 3,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,188
+Taylor,PRECINCT 4,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,69
+Taylor,PRECINCT 5,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,216
+Taylor,PRECINCT 6,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,66
+Taylor,PRECINCT 9,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,98
+Taylor,PRECINCT 10,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,212
+Taylor,PRECINCT 11,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,59
+Taylor,PRECINCT 12,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,137
+Taylor,PRECINCT 14,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,94
+Taylor,PRECINCT 17,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,100
+Taylor,PRECINCT 19,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,147
+Taylor,PRECINCT 26,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,106
+Taylor,PRECINCT 29,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,63
+Taylor,PRECINCT 31,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,124
+Taylor,PRECINCT 36,SCHOOL BOND ELECTION,,,FOR THE PROPOSITION,171
+Taylor,PRECINCT 1,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,155
+Taylor,PRECINCT 2,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,260
+Taylor,PRECINCT 3,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,111
+Taylor,PRECINCT 4,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,97
+Taylor,PRECINCT 5,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,138
+Taylor,PRECINCT 6,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,83
+Taylor,PRECINCT 9,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,82
+Taylor,PRECINCT 10,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,221
+Taylor,PRECINCT 11,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,70
+Taylor,PRECINCT 12,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,131
+Taylor,PRECINCT 14,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,88
+Taylor,PRECINCT 17,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,144
+Taylor,PRECINCT 19,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,110
+Taylor,PRECINCT 26,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,118
+Taylor,PRECINCT 29,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,60
+Taylor,PRECINCT 31,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,81
+Taylor,PRECINCT 36,SCHOOL BOND ELECTION,,,AGAINST THE PROPOSITION,170
+Taylor,PRECINCT 12,RENEWAL LEVY GRAFTON,,,For the levy,200
+Taylor,PRECINCT 14,RENEWAL LEVY GRAFTON,,,For the levy,128
+Taylor,PRECINCT 26,RENEWAL LEVY GRAFTON,,,For the levy,142
+Taylor,PRECINCT 29,RENEWAL LEVY GRAFTON,,,For the levy,89
+Taylor,PRECINCT 31,RENEWAL LEVY GRAFTON,,,For the levy,151
+Taylor,PRECINCT 12,RENEWAL LEVY GRAFTON,,,Against the levy,72
+Taylor,PRECINCT 14,RENEWAL LEVY GRAFTON,,,Against the levy,61
+Taylor,PRECINCT 26,RENEWAL LEVY GRAFTON,,,Against the levy,80
+Taylor,PRECINCT 29,RENEWAL LEVY GRAFTON,,,Against the levy,36
+Taylor,PRECINCT 31,RENEWAL LEVY GRAFTON,,,Against the levy,55

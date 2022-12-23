@@ -1,0 +1,441 @@
+county,precinct,office,district,party,candidate,votes
+Hampshire,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,200
+Hampshire,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,193
+Hampshire,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,65
+Hampshire,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,326
+Hampshire,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,174
+Hampshire,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,297
+Hampshire,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,200
+Hampshire,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,207
+Hampshire,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,259
+Hampshire,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,126
+Hampshire,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,327
+Hampshire,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,238
+Hampshire,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,272
+Hampshire,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,188
+Hampshire,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,112
+Hampshire,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,136
+Hampshire,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,212
+Hampshire,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,177
+Hampshire,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,296
+Hampshire,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,129
+Hampshire,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,164
+Hampshire,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,182
+Hampshire,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,193
+Hampshire,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,138
+Hampshire,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,235
+Hampshire,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,50
+Hampshire,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,49
+Hampshire,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,23
+Hampshire,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,57
+Hampshire,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,40
+Hampshire,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,80
+Hampshire,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,64
+Hampshire,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,36
+Hampshire,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,41
+Hampshire,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,15
+Hampshire,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,70
+Hampshire,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,44
+Hampshire,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,108
+Hampshire,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,35
+Hampshire,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,27
+Hampshire,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,43
+Hampshire,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,53
+Hampshire,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,40
+Hampshire,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Hampshire,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,33
+Hampshire,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,33
+Hampshire,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,37
+Hampshire,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,56
+Hampshire,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,27
+Hampshire,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,70
+Hampshire,PRECINCT 1,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,186
+Hampshire,PRECINCT 2,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,183
+Hampshire,PRECINCT 3,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,60
+Hampshire,PRECINCT 4,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,314
+Hampshire,PRECINCT 5,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,163
+Hampshire,PRECINCT 6,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,278
+Hampshire,PRECINCT 7,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,190
+Hampshire,PRECINCT 8,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,189
+Hampshire,PRECINCT 9,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,236
+Hampshire,PRECINCT 10,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,119
+Hampshire,PRECINCT 11,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,311
+Hampshire,PRECINCT 12,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,220
+Hampshire,PRECINCT 14,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,253
+Hampshire,PRECINCT 15,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,178
+Hampshire,PRECINCT 16,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,106
+Hampshire,PRECINCT 17,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,124
+Hampshire,PRECINCT 18,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,204
+Hampshire,PRECINCT 19,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,160
+Hampshire,PRECINCT 21,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,264
+Hampshire,PRECINCT 22,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,130
+Hampshire,PRECINCT 23,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,160
+Hampshire,PRECINCT 24,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,179
+Hampshire,PRECINCT 25,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,184
+Hampshire,PRECINCT 26,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,130
+Hampshire,PRECINCT 28,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,216
+Hampshire,PRECINCT 1,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,52
+Hampshire,PRECINCT 2,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,45
+Hampshire,PRECINCT 3,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,27
+Hampshire,PRECINCT 4,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,63
+Hampshire,PRECINCT 5,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,39
+Hampshire,PRECINCT 6,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,83
+Hampshire,PRECINCT 7,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,63
+Hampshire,PRECINCT 8,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,36
+Hampshire,PRECINCT 9,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,48
+Hampshire,PRECINCT 10,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,21
+Hampshire,PRECINCT 11,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,80
+Hampshire,PRECINCT 12,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,58
+Hampshire,PRECINCT 14,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,113
+Hampshire,PRECINCT 15,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,37
+Hampshire,PRECINCT 16,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,26
+Hampshire,PRECINCT 17,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,40
+Hampshire,PRECINCT 18,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,49
+Hampshire,PRECINCT 19,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,44
+Hampshire,PRECINCT 21,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,57
+Hampshire,PRECINCT 22,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,28
+Hampshire,PRECINCT 23,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,36
+Hampshire,PRECINCT 24,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,38
+Hampshire,PRECINCT 25,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,57
+Hampshire,PRECINCT 26,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,32
+Hampshire,PRECINCT 28,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,77
+Hampshire,PRECINCT 10,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,127
+Hampshire,PRECINCT 15,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,205
+Hampshire,PRECINCT 16,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,116
+Hampshire,PRECINCT 17,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,149
+Hampshire,PRECINCT 21,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,293
+Hampshire,PRECINCT 22,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,143
+Hampshire,PRECINCT 23,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,182
+Hampshire,PRECINCT 24,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,195
+Hampshire,PRECINCT 25,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,223
+Hampshire,PRECINCT 26,HOUSE OF DELEGATES, 88th District,REP,RICK HILLENBRAND,152
+Hampshire,PRECINCT 1,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,185
+Hampshire,PRECINCT 2,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,183
+Hampshire,PRECINCT 3,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,63
+Hampshire,PRECINCT 4,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,300
+Hampshire,PRECINCT 5,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,148
+Hampshire,PRECINCT 6,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,280
+Hampshire,PRECINCT 7,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,181
+Hampshire,PRECINCT 8,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,190
+Hampshire,PRECINCT 9,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,229
+Hampshire,PRECINCT 11,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,284
+Hampshire,PRECINCT 12,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,227
+Hampshire,PRECINCT 14,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,266
+Hampshire,PRECINCT 18,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,212
+Hampshire,PRECINCT 19,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,158
+Hampshire,PRECINCT 28,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,197
+Hampshire,PRECINCT 1,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,54
+Hampshire,PRECINCT 2,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,54
+Hampshire,PRECINCT 3,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,25
+Hampshire,PRECINCT 4,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,74
+Hampshire,PRECINCT 5,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,62
+Hampshire,PRECINCT 6,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,85
+Hampshire,PRECINCT 7,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,74
+Hampshire,PRECINCT 8,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,50
+Hampshire,PRECINCT 9,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,65
+Hampshire,PRECINCT 11,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,112
+Hampshire,PRECINCT 12,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,57
+Hampshire,PRECINCT 14,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,107
+Hampshire,PRECINCT 18,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,55
+Hampshire,PRECINCT 19,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,54
+Hampshire,PRECINCT 28,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,104
+Hampshire,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,218
+Hampshire,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,213
+Hampshire,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,76
+Hampshire,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,353
+Hampshire,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,192
+Hampshire,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,334
+Hampshire,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,224
+Hampshire,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,213
+Hampshire,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,270
+Hampshire,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,135
+Hampshire,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,363
+Hampshire,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,270
+Hampshire,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,342
+Hampshire,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,205
+Hampshire,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,124
+Hampshire,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,162
+Hampshire,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,242
+Hampshire,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,200
+Hampshire,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,302
+Hampshire,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,144
+Hampshire,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,184
+Hampshire,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,206
+Hampshire,PRECINCT 25,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,229
+Hampshire,PRECINCT 26,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,151
+Hampshire,PRECINCT 28,FOR CIRCUIT CLERK,,REP,REP SONJA K EMBREY,255
+Hampshire,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,192
+Hampshire,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,157
+Hampshire,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,62
+Hampshire,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,274
+Hampshire,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,147
+Hampshire,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,285
+Hampshire,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,190
+Hampshire,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,178
+Hampshire,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,229
+Hampshire,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,106
+Hampshire,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,279
+Hampshire,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,214
+Hampshire,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,257
+Hampshire,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,157
+Hampshire,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,98
+Hampshire,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,128
+Hampshire,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,194
+Hampshire,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,145
+Hampshire,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,238
+Hampshire,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,108
+Hampshire,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,123
+Hampshire,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,163
+Hampshire,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,179
+Hampshire,PRECINCT 26,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,111
+Hampshire,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP BRIAN EGLINGER,221
+Hampshire,PRECINCT 1,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,53
+Hampshire,PRECINCT 2,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,78
+Hampshire,PRECINCT 3,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,23
+Hampshire,PRECINCT 4,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,104
+Hampshire,PRECINCT 5,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,57
+Hampshire,PRECINCT 6,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,86
+Hampshire,PRECINCT 7,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,67
+Hampshire,PRECINCT 8,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,61
+Hampshire,PRECINCT 9,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,63
+Hampshire,PRECINCT 10,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,36
+Hampshire,PRECINCT 11,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,123
+Hampshire,PRECINCT 12,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,66
+Hampshire,PRECINCT 14,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,111
+Hampshire,PRECINCT 15,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,62
+Hampshire,PRECINCT 16,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,37
+Hampshire,PRECINCT 17,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,47
+Hampshire,PRECINCT 18,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,70
+Hampshire,PRECINCT 19,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,65
+Hampshire,PRECINCT 21,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,91
+Hampshire,PRECINCT 22,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,48
+Hampshire,PRECINCT 23,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,77
+Hampshire,PRECINCT 24,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,59
+Hampshire,PRECINCT 25,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,68
+Hampshire,PRECINCT 26,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,52
+Hampshire,PRECINCT 28,FOR COUNTY COMMISSIONER,,IND,IND TERRY L. CRAVER,79
+Hampshire,PRECINCT 1,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,219
+Hampshire,PRECINCT 2,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,210
+Hampshire,PRECINCT 3,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,75
+Hampshire,PRECINCT 4,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,356
+Hampshire,PRECINCT 5,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,189
+Hampshire,PRECINCT 6,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,332
+Hampshire,PRECINCT 7,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,223
+Hampshire,PRECINCT 8,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,221
+Hampshire,PRECINCT 9,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,278
+Hampshire,PRECINCT 10,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,138
+Hampshire,PRECINCT 11,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,361
+Hampshire,PRECINCT 12,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,263
+Hampshire,PRECINCT 14,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,338
+Hampshire,PRECINCT 15,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,210
+Hampshire,PRECINCT 16,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,125
+Hampshire,PRECINCT 17,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,168
+Hampshire,PRECINCT 18,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,246
+Hampshire,PRECINCT 19,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,196
+Hampshire,PRECINCT 21,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,308
+Hampshire,PRECINCT 22,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,147
+Hampshire,PRECINCT 23,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,193
+Hampshire,PRECINCT 24,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,222
+Hampshire,PRECINCT 25,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,235
+Hampshire,PRECINCT 26,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,158
+Hampshire,PRECINCT 28,FOR COUNTY CLERK,,REP,REP ERIC W STRITE,278
+Hampshire,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,117
+Hampshire,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,132
+Hampshire,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,46
+Hampshire,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,216
+Hampshire,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,115
+Hampshire,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,191
+Hampshire,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,124
+Hampshire,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,109
+Hampshire,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,146
+Hampshire,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,70
+Hampshire,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,184
+Hampshire,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,121
+Hampshire,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,178
+Hampshire,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,73
+Hampshire,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Hampshire,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Hampshire,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,125
+Hampshire,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,97
+Hampshire,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,186
+Hampshire,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Hampshire,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,84
+Hampshire,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,98
+Hampshire,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,101
+Hampshire,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,86
+Hampshire,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,131
+Hampshire,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,121
+Hampshire,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,102
+Hampshire,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,39
+Hampshire,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,150
+Hampshire,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,92
+Hampshire,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,169
+Hampshire,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,135
+Hampshire,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,127
+Hampshire,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,145
+Hampshire,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,68
+Hampshire,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,208
+Hampshire,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,160
+Hampshire,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,199
+Hampshire,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,151
+Hampshire,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,70
+Hampshire,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,102
+Hampshire,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,139
+Hampshire,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,115
+Hampshire,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,137
+Hampshire,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Hampshire,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,115
+Hampshire,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,127
+Hampshire,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,142
+Hampshire,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,76
+Hampshire,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,158
+Hampshire,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,128
+Hampshire,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,133
+Hampshire,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Hampshire,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,205
+Hampshire,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,110
+Hampshire,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,177
+Hampshire,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,132
+Hampshire,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,98
+Hampshire,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,136
+Hampshire,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Hampshire,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,178
+Hampshire,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,97
+Hampshire,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,149
+Hampshire,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,80
+Hampshire,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,70
+Hampshire,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Hampshire,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,96
+Hampshire,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,89
+Hampshire,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,190
+Hampshire,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Hampshire,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Hampshire,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,76
+Hampshire,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,100
+Hampshire,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,90
+Hampshire,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,136
+Hampshire,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,116
+Hampshire,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,102
+Hampshire,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,44
+Hampshire,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,171
+Hampshire,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,100
+Hampshire,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,192
+Hampshire,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,130
+Hampshire,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,142
+Hampshire,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,161
+Hampshire,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,84
+Hampshire,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,217
+Hampshire,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,184
+Hampshire,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,235
+Hampshire,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,147
+Hampshire,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,70
+Hampshire,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,105
+Hampshire,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,170
+Hampshire,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,123
+Hampshire,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,139
+Hampshire,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,109
+Hampshire,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,139
+Hampshire,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,151
+Hampshire,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,151
+Hampshire,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,73
+Hampshire,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,161
+Hampshire,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,118
+Hampshire,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,141
+Hampshire,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Hampshire,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,208
+Hampshire,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,104
+Hampshire,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,181
+Hampshire,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,126
+Hampshire,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,111
+Hampshire,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,153
+Hampshire,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,63
+Hampshire,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,198
+Hampshire,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,129
+Hampshire,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,184
+Hampshire,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,79
+Hampshire,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,72
+Hampshire,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Hampshire,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,146
+Hampshire,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,95
+Hampshire,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,164
+Hampshire,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,59
+Hampshire,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,88
+Hampshire,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,101
+Hampshire,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,106
+Hampshire,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Hampshire,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,133
+Hampshire,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,118
+Hampshire,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,91
+Hampshire,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,39
+Hampshire,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,156
+Hampshire,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,100
+Hampshire,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,180
+Hampshire,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,132
+Hampshire,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,123
+Hampshire,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,135
+Hampshire,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,77
+Hampshire,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,193
+Hampshire,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,152
+Hampshire,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,194
+Hampshire,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,143
+Hampshire,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,65
+Hampshire,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,84
+Hampshire,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,115
+Hampshire,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,114
+Hampshire,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,157
+Hampshire,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,100
+Hampshire,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,110
+Hampshire,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,123
+Hampshire,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,145
+Hampshire,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,76
+Hampshire,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Hampshire,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,142
+Hampshire,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,146
+Hampshire,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,49
+Hampshire,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,248
+Hampshire,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,121
+Hampshire,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,222
+Hampshire,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,154
+Hampshire,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,120
+Hampshire,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,171
+Hampshire,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,71
+Hampshire,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,220
+Hampshire,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,148
+Hampshire,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,182
+Hampshire,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,83
+Hampshire,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,78
+Hampshire,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,86
+Hampshire,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,144
+Hampshire,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,109
+Hampshire,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,220
+Hampshire,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,71
+Hampshire,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,96
+Hampshire,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,118
+Hampshire,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,115
+Hampshire,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,107
+Hampshire,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,149
+Hampshire,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,103
+Hampshire,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,88
+Hampshire,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,36
+Hampshire,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,127
+Hampshire,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,88
+Hampshire,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,143
+Hampshire,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,105
+Hampshire,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,116
+Hampshire,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,125
+Hampshire,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,68
+Hampshire,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,172
+Hampshire,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,137
+Hampshire,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,198
+Hampshire,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,143
+Hampshire,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,61
+Hampshire,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,87
+Hampshire,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,119
+Hampshire,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,102
+Hampshire,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,110
+Hampshire,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,93
+Hampshire,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,103
+Hampshire,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,110
+Hampshire,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,134
+Hampshire,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,55
+Hampshire,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,145

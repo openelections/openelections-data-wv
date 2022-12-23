@@ -1,0 +1,547 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,PRECINCT 101,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,120
+Wyoming,PRECINCT 102,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,55
+Wyoming,PRECINCT 103,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,146
+Wyoming,PRECINCT 104,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,45
+Wyoming,PRECINCT 105,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,48
+Wyoming,PRECINCT 106,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,144
+Wyoming,PRECINCT 107,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,129
+Wyoming,PRECINCT 108,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,141
+Wyoming,PRECINCT 109,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,108
+Wyoming,PRECINCT 110,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,39
+Wyoming,PRECINCT 111,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,164
+Wyoming,PRECINCT 201,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,51
+Wyoming,PRECINCT 202,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,181
+Wyoming,PRECINCT 203,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,235
+Wyoming,PRECINCT 204,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,84
+Wyoming,PRECINCT 205,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,182
+Wyoming,PRECINCT 206,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,167
+Wyoming,PRECINCT 207,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,60
+Wyoming,PRECINCT 302,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,165
+Wyoming,PRECINCT 303,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,116
+Wyoming,PRECINCT 304,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,134
+Wyoming,PRECINCT 305,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,164
+Wyoming,PRECINCT 307,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,163
+Wyoming,PRECINCT 308,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,121
+Wyoming,PRECINCT 309,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,21
+Wyoming,PRECINCT 310,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,50
+Wyoming,PRECINCT 101,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,22
+Wyoming,PRECINCT 102,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,10
+Wyoming,PRECINCT 103,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,32
+Wyoming,PRECINCT 104,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,18
+Wyoming,PRECINCT 105,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,12
+Wyoming,PRECINCT 106,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,75
+Wyoming,PRECINCT 107,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,46
+Wyoming,PRECINCT 108,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,33
+Wyoming,PRECINCT 109,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,31
+Wyoming,PRECINCT 110,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,8
+Wyoming,PRECINCT 111,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,31
+Wyoming,PRECINCT 201,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,7
+Wyoming,PRECINCT 202,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,51
+Wyoming,PRECINCT 203,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Wyoming,PRECINCT 204,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Wyoming,PRECINCT 205,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,99
+Wyoming,PRECINCT 206,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,60
+Wyoming,PRECINCT 207,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,16
+Wyoming,PRECINCT 302,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,39
+Wyoming,PRECINCT 303,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,32
+Wyoming,PRECINCT 304,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,24
+Wyoming,PRECINCT 305,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,15
+Wyoming,PRECINCT 307,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,36
+Wyoming,PRECINCT 308,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,33
+Wyoming,PRECINCT 309,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,4
+Wyoming,PRECINCT 310,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,6
+Wyoming,PRECINCT 101,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,11
+Wyoming,PRECINCT 102,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,6
+Wyoming,PRECINCT 103,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,15
+Wyoming,PRECINCT 104,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,8
+Wyoming,PRECINCT 105,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,7
+Wyoming,PRECINCT 106,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,19
+Wyoming,PRECINCT 107,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,13
+Wyoming,PRECINCT 108,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,14
+Wyoming,PRECINCT 109,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,17
+Wyoming,PRECINCT 110,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,1
+Wyoming,PRECINCT 111,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,18
+Wyoming,PRECINCT 201,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,6
+Wyoming,PRECINCT 202,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,13
+Wyoming,PRECINCT 203,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,19
+Wyoming,PRECINCT 204,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,8
+Wyoming,PRECINCT 205,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,28
+Wyoming,PRECINCT 206,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,20
+Wyoming,PRECINCT 207,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,7
+Wyoming,PRECINCT 302,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,13
+Wyoming,PRECINCT 303,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,12
+Wyoming,PRECINCT 304,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,14
+Wyoming,PRECINCT 305,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,5
+Wyoming,PRECINCT 307,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,13
+Wyoming,PRECINCT 308,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,11
+Wyoming,PRECINCT 309,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,2
+Wyoming,PRECINCT 310,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA  FOX-SPENCER,3
+Wyoming,PRECINCT 101,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,120
+Wyoming,PRECINCT 102,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,56
+Wyoming,PRECINCT 103,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,153
+Wyoming,PRECINCT 104,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,46
+Wyoming,PRECINCT 105,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,52
+Wyoming,PRECINCT 106,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,145
+Wyoming,PRECINCT 107,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,142
+Wyoming,PRECINCT 108,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,149
+Wyoming,PRECINCT 109,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,116
+Wyoming,PRECINCT 110,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,40
+Wyoming,PRECINCT 111,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,164
+Wyoming,PRECINCT 201,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,53
+Wyoming,PRECINCT 202,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,177
+Wyoming,PRECINCT 203,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,234
+Wyoming,PRECINCT 204,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,77
+Wyoming,PRECINCT 205,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,188
+Wyoming,PRECINCT 206,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,181
+Wyoming,PRECINCT 207,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,68
+Wyoming,PRECINCT 302,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,163
+Wyoming,PRECINCT 303,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,120
+Wyoming,PRECINCT 304,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,142
+Wyoming,PRECINCT 305,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,152
+Wyoming,PRECINCT 307,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,153
+Wyoming,PRECINCT 308,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,122
+Wyoming,PRECINCT 309,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,22
+Wyoming,PRECINCT 310,STATE SENATOR, 9th Senatorial District,REP,ROLLAN ROBERTS,49
+Wyoming,PRECINCT 101,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,20
+Wyoming,PRECINCT 102,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,7
+Wyoming,PRECINCT 103,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,30
+Wyoming,PRECINCT 104,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,14
+Wyoming,PRECINCT 105,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,7
+Wyoming,PRECINCT 106,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,52
+Wyoming,PRECINCT 107,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,35
+Wyoming,PRECINCT 108,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,25
+Wyoming,PRECINCT 109,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,20
+Wyoming,PRECINCT 110,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,4
+Wyoming,PRECINCT 111,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,33
+Wyoming,PRECINCT 201,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,8
+Wyoming,PRECINCT 202,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,36
+Wyoming,PRECINCT 203,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,32
+Wyoming,PRECINCT 204,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,21
+Wyoming,PRECINCT 205,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,81
+Wyoming,PRECINCT 206,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,46
+Wyoming,PRECINCT 207,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,10
+Wyoming,PRECINCT 302,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,38
+Wyoming,PRECINCT 303,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,27
+Wyoming,PRECINCT 304,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,24
+Wyoming,PRECINCT 305,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,17
+Wyoming,PRECINCT 307,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,40
+Wyoming,PRECINCT 308,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,24
+Wyoming,PRECINCT 309,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,1
+Wyoming,PRECINCT 310,STATE SENATOR, 9th Senatorial District,LBN,KARI  WOODSON,5
+Wyoming,PRECINCT 101,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,122
+Wyoming,PRECINCT 103,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,142
+Wyoming,PRECINCT 104,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,40
+Wyoming,PRECINCT 105,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,43
+Wyoming,PRECINCT 106,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,105
+Wyoming,PRECINCT 107,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,106
+Wyoming,PRECINCT 108,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,117
+Wyoming,PRECINCT 109,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,113
+Wyoming,PRECINCT 110,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,37
+Wyoming,PRECINCT 111,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,154
+Wyoming,PRECINCT 201,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,65
+Wyoming,PRECINCT 202,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,204
+Wyoming,PRECINCT 203,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,273
+Wyoming,PRECINCT 204,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,87
+Wyoming,PRECINCT 205,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,188
+Wyoming,PRECINCT 206,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,173
+Wyoming,PRECINCT 207,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,68
+Wyoming,PRECINCT 305,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,170
+Wyoming,PRECINCT 307,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,166
+Wyoming,PRECINCT 308,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,143
+Wyoming,PRECINCT 309,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,27
+Wyoming,PRECINCT 310,HOUSE OF DELEGATES, 35th District,REP,ADAM VANCE,62
+Wyoming,PRECINCT 101,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,39
+Wyoming,PRECINCT 103,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,56
+Wyoming,PRECINCT 104,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,34
+Wyoming,PRECINCT 105,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,25
+Wyoming,PRECINCT 106,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,136
+Wyoming,PRECINCT 107,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,88
+Wyoming,PRECINCT 108,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,74
+Wyoming,PRECINCT 109,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,48
+Wyoming,PRECINCT 110,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,13
+Wyoming,PRECINCT 111,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,56
+Wyoming,PRECINCT 201,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,4
+Wyoming,PRECINCT 202,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,52
+Wyoming,PRECINCT 203,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,34
+Wyoming,PRECINCT 204,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,31
+Wyoming,PRECINCT 205,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,128
+Wyoming,PRECINCT 206,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,79
+Wyoming,PRECINCT 207,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,15
+Wyoming,PRECINCT 305,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,16
+Wyoming,PRECINCT 307,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,49
+Wyoming,PRECINCT 308,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,23
+Wyoming,PRECINCT 309,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,3
+Wyoming,PRECINCT 310,HOUSE OF DELEGATES, 35th District,DEM,DEWEY HOUCK,4
+Wyoming,PRECINCT 102,HOUSE OF DELEGATES, 43rd District,REP,CHRISTOPHER W. TONEY,57
+Wyoming,PRECINCT 302,HOUSE OF DELEGATES, 43rd District,REP,CHRISTOPHER W. TONEY,164
+Wyoming,PRECINCT 303,HOUSE OF DELEGATES, 43rd District,REP,CHRISTOPHER W. TONEY,130
+Wyoming,PRECINCT 304,HOUSE OF DELEGATES, 43rd District,REP,CHRISTOPHER W. TONEY,141
+Wyoming,PRECINCT 102,HOUSE OF DELEGATES, 43rd District,DEM,JOANNA VANCE,12
+Wyoming,PRECINCT 302,HOUSE OF DELEGATES, 43rd District,DEM,JOANNA VANCE,50
+Wyoming,PRECINCT 303,HOUSE OF DELEGATES, 43rd District,DEM,JOANNA VANCE,27
+Wyoming,PRECINCT 304,HOUSE OF DELEGATES, 43rd District,DEM,JOANNA VANCE,31
+Wyoming,PRECINCT 101,CIRCUIT CLERK,,REP,TONY PAYNTER,149
+Wyoming,PRECINCT 102,CIRCUIT CLERK,,REP,TONY PAYNTER,67
+Wyoming,PRECINCT 103,CIRCUIT CLERK,,REP,TONY PAYNTER,182
+Wyoming,PRECINCT 104,CIRCUIT CLERK,,REP,TONY PAYNTER,64
+Wyoming,PRECINCT 105,CIRCUIT CLERK,,REP,TONY PAYNTER,63
+Wyoming,PRECINCT 106,CIRCUIT CLERK,,REP,TONY PAYNTER,205
+Wyoming,PRECINCT 107,CIRCUIT CLERK,,REP,TONY PAYNTER,170
+Wyoming,PRECINCT 108,CIRCUIT CLERK,,REP,TONY PAYNTER,178
+Wyoming,PRECINCT 109,CIRCUIT CLERK,,REP,TONY PAYNTER,142
+Wyoming,PRECINCT 110,CIRCUIT CLERK,,REP,TONY PAYNTER,47
+Wyoming,PRECINCT 111,CIRCUIT CLERK,,REP,TONY PAYNTER,195
+Wyoming,PRECINCT 201,CIRCUIT CLERK,,REP,TONY PAYNTER,63
+Wyoming,PRECINCT 202,CIRCUIT CLERK,,REP,TONY PAYNTER,230
+Wyoming,PRECINCT 203,CIRCUIT CLERK,,REP,TONY PAYNTER,291
+Wyoming,PRECINCT 204,CIRCUIT CLERK,,REP,TONY PAYNTER,108
+Wyoming,PRECINCT 205,CIRCUIT CLERK,,REP,TONY PAYNTER,276
+Wyoming,PRECINCT 206,CIRCUIT CLERK,,REP,TONY PAYNTER,235
+Wyoming,PRECINCT 207,CIRCUIT CLERK,,REP,TONY PAYNTER,76
+Wyoming,PRECINCT 302,CIRCUIT CLERK,,REP,TONY PAYNTER,196
+Wyoming,PRECINCT 303,CIRCUIT CLERK,,REP,TONY PAYNTER,152
+Wyoming,PRECINCT 304,CIRCUIT CLERK,,REP,TONY PAYNTER,164
+Wyoming,PRECINCT 305,CIRCUIT CLERK,,REP,TONY PAYNTER,180
+Wyoming,PRECINCT 307,CIRCUIT CLERK,,REP,TONY PAYNTER,199
+Wyoming,PRECINCT 308,CIRCUIT CLERK,,REP,TONY PAYNTER,150
+Wyoming,PRECINCT 309,CIRCUIT CLERK,,REP,TONY PAYNTER,29
+Wyoming,PRECINCT 310,CIRCUIT CLERK,,REP,TONY PAYNTER,57
+Wyoming,PRECINCT 101,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",91
+Wyoming,PRECINCT 102,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",42
+Wyoming,PRECINCT 103,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",132
+Wyoming,PRECINCT 104,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",49
+Wyoming,PRECINCT 105,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",46
+Wyoming,PRECINCT 106,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",178
+Wyoming,PRECINCT 107,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",142
+Wyoming,PRECINCT 108,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",135
+Wyoming,PRECINCT 109,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",108
+Wyoming,PRECINCT 110,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",37
+Wyoming,PRECINCT 111,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",142
+Wyoming,PRECINCT 201,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",48
+Wyoming,PRECINCT 202,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",174
+Wyoming,PRECINCT 203,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",205
+Wyoming,PRECINCT 204,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",71
+Wyoming,PRECINCT 205,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",216
+Wyoming,PRECINCT 206,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",173
+Wyoming,PRECINCT 207,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",47
+Wyoming,PRECINCT 302,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",163
+Wyoming,PRECINCT 303,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",111
+Wyoming,PRECINCT 304,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",114
+Wyoming,PRECINCT 305,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",122
+Wyoming,PRECINCT 307,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",146
+Wyoming,PRECINCT 308,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",117
+Wyoming,PRECINCT 309,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",14
+Wyoming,PRECINCT 310,COUNTY COMMISSIONER,,DEM,"SAMUEL ""DOC""  MUSCARI SR",37
+Wyoming,PRECINCT 101,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,104
+Wyoming,PRECINCT 102,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,45
+Wyoming,PRECINCT 103,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,154
+Wyoming,PRECINCT 104,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,58
+Wyoming,PRECINCT 105,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,47
+Wyoming,PRECINCT 106,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,196
+Wyoming,PRECINCT 107,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,149
+Wyoming,PRECINCT 108,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,141
+Wyoming,PRECINCT 109,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,108
+Wyoming,PRECINCT 110,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,38
+Wyoming,PRECINCT 111,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,161
+Wyoming,PRECINCT 201,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,52
+Wyoming,PRECINCT 202,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,172
+Wyoming,PRECINCT 203,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,216
+Wyoming,PRECINCT 204,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,76
+Wyoming,PRECINCT 205,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,241
+Wyoming,PRECINCT 206,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,195
+Wyoming,PRECINCT 207,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,64
+Wyoming,PRECINCT 302,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,192
+Wyoming,PRECINCT 303,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,129
+Wyoming,PRECINCT 304,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,138
+Wyoming,PRECINCT 305,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,118
+Wyoming,PRECINCT 307,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,163
+Wyoming,PRECINCT 308,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,132
+Wyoming,PRECINCT 309,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,16
+Wyoming,PRECINCT 310,COUNTY CLERK,,DEM,JEWELL (SPEARS) AGUILAR,40
+Wyoming,PRECINCT 101,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,136
+Wyoming,PRECINCT 102,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,63
+Wyoming,PRECINCT 103,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,168
+Wyoming,PRECINCT 104,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,58
+Wyoming,PRECINCT 105,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,60
+Wyoming,PRECINCT 106,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,201
+Wyoming,PRECINCT 107,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,167
+Wyoming,PRECINCT 108,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,168
+Wyoming,PRECINCT 109,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,144
+Wyoming,PRECINCT 110,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,49
+Wyoming,PRECINCT 111,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,197
+Wyoming,PRECINCT 201,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,61
+Wyoming,PRECINCT 202,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,218
+Wyoming,PRECINCT 203,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,265
+Wyoming,PRECINCT 204,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,103
+Wyoming,PRECINCT 205,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,263
+Wyoming,PRECINCT 206,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,226
+Wyoming,PRECINCT 207,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,74
+Wyoming,PRECINCT 302,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,189
+Wyoming,PRECINCT 303,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,141
+Wyoming,PRECINCT 304,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,153
+Wyoming,PRECINCT 305,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,175
+Wyoming,PRECINCT 307,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,186
+Wyoming,PRECINCT 308,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,147
+Wyoming,PRECINCT 309,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,26
+Wyoming,PRECINCT 310,PROSECUTING ATTORNEY  UNEXPIRED TRM,,REP,GREG BISHOP,62
+Wyoming,PRECINCT 101,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,44
+Wyoming,PRECINCT 102,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,18
+Wyoming,PRECINCT 103,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,49
+Wyoming,PRECINCT 104,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,27
+Wyoming,PRECINCT 105,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,25
+Wyoming,PRECINCT 106,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,74
+Wyoming,PRECINCT 107,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,59
+Wyoming,PRECINCT 108,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,63
+Wyoming,PRECINCT 109,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,29
+Wyoming,PRECINCT 110,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,18
+Wyoming,PRECINCT 111,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,52
+Wyoming,PRECINCT 201,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,20
+Wyoming,PRECINCT 202,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,79
+Wyoming,PRECINCT 203,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,88
+Wyoming,PRECINCT 204,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,34
+Wyoming,PRECINCT 205,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,85
+Wyoming,PRECINCT 206,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,82
+Wyoming,PRECINCT 207,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,29
+Wyoming,PRECINCT 302,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,56
+Wyoming,PRECINCT 303,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,43
+Wyoming,PRECINCT 304,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Wyoming,PRECINCT 305,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,59
+Wyoming,PRECINCT 307,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,52
+Wyoming,PRECINCT 308,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,44
+Wyoming,PRECINCT 309,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,5
+Wyoming,PRECINCT 310,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,13
+Wyoming,PRECINCT 101,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,101
+Wyoming,PRECINCT 102,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,52
+Wyoming,PRECINCT 103,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,143
+Wyoming,PRECINCT 104,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,41
+Wyoming,PRECINCT 105,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,42
+Wyoming,PRECINCT 106,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,157
+Wyoming,PRECINCT 107,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,125
+Wyoming,PRECINCT 108,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Wyoming,PRECINCT 109,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Wyoming,PRECINCT 110,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,33
+Wyoming,PRECINCT 111,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,148
+Wyoming,PRECINCT 201,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,45
+Wyoming,PRECINCT 202,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,158
+Wyoming,PRECINCT 203,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,200
+Wyoming,PRECINCT 204,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,73
+Wyoming,PRECINCT 205,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,222
+Wyoming,PRECINCT 206,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,167
+Wyoming,PRECINCT 207,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,54
+Wyoming,PRECINCT 302,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,150
+Wyoming,PRECINCT 303,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,118
+Wyoming,PRECINCT 304,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,95
+Wyoming,PRECINCT 305,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,119
+Wyoming,PRECINCT 307,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,158
+Wyoming,PRECINCT 308,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,113
+Wyoming,PRECINCT 309,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,22
+Wyoming,PRECINCT 310,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,45
+Wyoming,PRECINCT 101,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,32
+Wyoming,PRECINCT 102,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,10
+Wyoming,PRECINCT 103,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,41
+Wyoming,PRECINCT 104,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,19
+Wyoming,PRECINCT 105,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,10
+Wyoming,PRECINCT 106,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,38
+Wyoming,PRECINCT 107,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Wyoming,PRECINCT 108,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Wyoming,PRECINCT 109,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,27
+Wyoming,PRECINCT 110,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,12
+Wyoming,PRECINCT 111,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,39
+Wyoming,PRECINCT 201,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,24
+Wyoming,PRECINCT 202,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Wyoming,PRECINCT 203,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,67
+Wyoming,PRECINCT 204,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,33
+Wyoming,PRECINCT 205,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Wyoming,PRECINCT 206,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,64
+Wyoming,PRECINCT 207,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,24
+Wyoming,PRECINCT 302,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,49
+Wyoming,PRECINCT 303,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,35
+Wyoming,PRECINCT 304,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,49
+Wyoming,PRECINCT 305,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,41
+Wyoming,PRECINCT 307,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,53
+Wyoming,PRECINCT 308,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,38
+Wyoming,PRECINCT 309,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,8
+Wyoming,PRECINCT 310,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,16
+Wyoming,PRECINCT 101,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,123
+Wyoming,PRECINCT 102,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,63
+Wyoming,PRECINCT 103,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,161
+Wyoming,PRECINCT 104,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,55
+Wyoming,PRECINCT 105,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,58
+Wyoming,PRECINCT 106,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,205
+Wyoming,PRECINCT 107,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,146
+Wyoming,PRECINCT 108,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,142
+Wyoming,PRECINCT 109,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,136
+Wyoming,PRECINCT 110,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,41
+Wyoming,PRECINCT 111,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,177
+Wyoming,PRECINCT 201,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,46
+Wyoming,PRECINCT 202,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,183
+Wyoming,PRECINCT 203,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,239
+Wyoming,PRECINCT 204,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,83
+Wyoming,PRECINCT 205,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,257
+Wyoming,PRECINCT 206,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,193
+Wyoming,PRECINCT 207,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,60
+Wyoming,PRECINCT 302,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,170
+Wyoming,PRECINCT 303,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,132
+Wyoming,PRECINCT 304,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,128
+Wyoming,PRECINCT 305,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,146
+Wyoming,PRECINCT 307,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,166
+Wyoming,PRECINCT 308,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,127
+Wyoming,PRECINCT 309,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,23
+Wyoming,PRECINCT 310,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,48
+Wyoming,PRECINCT 101,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,40
+Wyoming,PRECINCT 102,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,25
+Wyoming,PRECINCT 103,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,57
+Wyoming,PRECINCT 104,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,25
+Wyoming,PRECINCT 105,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,17
+Wyoming,PRECINCT 106,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,77
+Wyoming,PRECINCT 107,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,72
+Wyoming,PRECINCT 108,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,73
+Wyoming,PRECINCT 109,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,36
+Wyoming,PRECINCT 110,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,15
+Wyoming,PRECINCT 111,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,58
+Wyoming,PRECINCT 201,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,23
+Wyoming,PRECINCT 202,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,64
+Wyoming,PRECINCT 203,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,103
+Wyoming,PRECINCT 204,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,36
+Wyoming,PRECINCT 205,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,96
+Wyoming,PRECINCT 206,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,75
+Wyoming,PRECINCT 207,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,22
+Wyoming,PRECINCT 302,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Wyoming,PRECINCT 303,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Wyoming,PRECINCT 304,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,66
+Wyoming,PRECINCT 305,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Wyoming,PRECINCT 307,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,53
+Wyoming,PRECINCT 308,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,42
+Wyoming,PRECINCT 309,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,3
+Wyoming,PRECINCT 310,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,9
+Wyoming,PRECINCT 101,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,112
+Wyoming,PRECINCT 102,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,46
+Wyoming,PRECINCT 103,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,138
+Wyoming,PRECINCT 104,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,45
+Wyoming,PRECINCT 105,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,47
+Wyoming,PRECINCT 106,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,157
+Wyoming,PRECINCT 107,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,120
+Wyoming,PRECINCT 108,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,114
+Wyoming,PRECINCT 109,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,121
+Wyoming,PRECINCT 110,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,38
+Wyoming,PRECINCT 111,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,145
+Wyoming,PRECINCT 201,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,45
+Wyoming,PRECINCT 202,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,181
+Wyoming,PRECINCT 203,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,189
+Wyoming,PRECINCT 204,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,74
+Wyoming,PRECINCT 205,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,217
+Wyoming,PRECINCT 206,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,174
+Wyoming,PRECINCT 207,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,60
+Wyoming,PRECINCT 302,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,169
+Wyoming,PRECINCT 303,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,107
+Wyoming,PRECINCT 304,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,105
+Wyoming,PRECINCT 305,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,125
+Wyoming,PRECINCT 307,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,161
+Wyoming,PRECINCT 308,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,122
+Wyoming,PRECINCT 309,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,27
+Wyoming,PRECINCT 310,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,54
+Wyoming,PRECINCT 101,Amendment No. 4: Education Accountability Amendment,,,FOR,46
+Wyoming,PRECINCT 102,Amendment No. 4: Education Accountability Amendment,,,FOR,23
+Wyoming,PRECINCT 103,Amendment No. 4: Education Accountability Amendment,,,FOR,67
+Wyoming,PRECINCT 104,Amendment No. 4: Education Accountability Amendment,,,FOR,23
+Wyoming,PRECINCT 105,Amendment No. 4: Education Accountability Amendment,,,FOR,16
+Wyoming,PRECINCT 106,Amendment No. 4: Education Accountability Amendment,,,FOR,54
+Wyoming,PRECINCT 107,Amendment No. 4: Education Accountability Amendment,,,FOR,75
+Wyoming,PRECINCT 108,Amendment No. 4: Education Accountability Amendment,,,FOR,60
+Wyoming,PRECINCT 109,Amendment No. 4: Education Accountability Amendment,,,FOR,43
+Wyoming,PRECINCT 110,Amendment No. 4: Education Accountability Amendment,,,FOR,13
+Wyoming,PRECINCT 111,Amendment No. 4: Education Accountability Amendment,,,FOR,66
+Wyoming,PRECINCT 201,Amendment No. 4: Education Accountability Amendment,,,FOR,33
+Wyoming,PRECINCT 202,Amendment No. 4: Education Accountability Amendment,,,FOR,95
+Wyoming,PRECINCT 203,Amendment No. 4: Education Accountability Amendment,,,FOR,89
+Wyoming,PRECINCT 204,Amendment No. 4: Education Accountability Amendment,,,FOR,42
+Wyoming,PRECINCT 205,Amendment No. 4: Education Accountability Amendment,,,FOR,82
+Wyoming,PRECINCT 206,Amendment No. 4: Education Accountability Amendment,,,FOR,89
+Wyoming,PRECINCT 207,Amendment No. 4: Education Accountability Amendment,,,FOR,29
+Wyoming,PRECINCT 302,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Wyoming,PRECINCT 303,Amendment No. 4: Education Accountability Amendment,,,FOR,51
+Wyoming,PRECINCT 304,Amendment No. 4: Education Accountability Amendment,,,FOR,83
+Wyoming,PRECINCT 305,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Wyoming,PRECINCT 307,Amendment No. 4: Education Accountability Amendment,,,FOR,66
+Wyoming,PRECINCT 308,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Wyoming,PRECINCT 309,Amendment No. 4: Education Accountability Amendment,,,FOR,4
+Wyoming,PRECINCT 310,Amendment No. 4: Education Accountability Amendment,,,FOR,23
+Wyoming,PRECINCT 101,Amendment No. 4: Education Accountability Amendment,,,AGAINST,110
+Wyoming,PRECINCT 102,Amendment No. 4: Education Accountability Amendment,,,AGAINST,50
+Wyoming,PRECINCT 103,Amendment No. 4: Education Accountability Amendment,,,AGAINST,133
+Wyoming,PRECINCT 104,Amendment No. 4: Education Accountability Amendment,,,AGAINST,50
+Wyoming,PRECINCT 105,Amendment No. 4: Education Accountability Amendment,,,AGAINST,51
+Wyoming,PRECINCT 106,Amendment No. 4: Education Accountability Amendment,,,AGAINST,186
+Wyoming,PRECINCT 107,Amendment No. 4: Education Accountability Amendment,,,AGAINST,116
+Wyoming,PRECINCT 108,Amendment No. 4: Education Accountability Amendment,,,AGAINST,130
+Wyoming,PRECINCT 109,Amendment No. 4: Education Accountability Amendment,,,AGAINST,123
+Wyoming,PRECINCT 110,Amendment No. 4: Education Accountability Amendment,,,AGAINST,40
+Wyoming,PRECINCT 111,Amendment No. 4: Education Accountability Amendment,,,AGAINST,149
+Wyoming,PRECINCT 201,Amendment No. 4: Education Accountability Amendment,,,AGAINST,36
+Wyoming,PRECINCT 202,Amendment No. 4: Education Accountability Amendment,,,AGAINST,156
+Wyoming,PRECINCT 203,Amendment No. 4: Education Accountability Amendment,,,AGAINST,213
+Wyoming,PRECINCT 204,Amendment No. 4: Education Accountability Amendment,,,AGAINST,70
+Wyoming,PRECINCT 205,Amendment No. 4: Education Accountability Amendment,,,AGAINST,236
+Wyoming,PRECINCT 206,Amendment No. 4: Education Accountability Amendment,,,AGAINST,164
+Wyoming,PRECINCT 207,Amendment No. 4: Education Accountability Amendment,,,AGAINST,55
+Wyoming,PRECINCT 302,Amendment No. 4: Education Accountability Amendment,,,AGAINST,142
+Wyoming,PRECINCT 303,Amendment No. 4: Education Accountability Amendment,,,AGAINST,114
+Wyoming,PRECINCT 304,Amendment No. 4: Education Accountability Amendment,,,AGAINST,93
+Wyoming,PRECINCT 305,Amendment No. 4: Education Accountability Amendment,,,AGAINST,116
+Wyoming,PRECINCT 307,Amendment No. 4: Education Accountability Amendment,,,AGAINST,154
+Wyoming,PRECINCT 308,Amendment No. 4: Education Accountability Amendment,,,AGAINST,112
+Wyoming,PRECINCT 309,Amendment No. 4: Education Accountability Amendment,,,AGAINST,26
+Wyoming,PRECINCT 310,Amendment No. 4: Education Accountability Amendment,,,AGAINST,41
+Wyoming,PRECINCT 101,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),80
+Wyoming,PRECINCT 102,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),31
+Wyoming,PRECINCT 103,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),103
+Wyoming,PRECINCT 104,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),44
+Wyoming,PRECINCT 105,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),36
+Wyoming,PRECINCT 106,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),143
+Wyoming,PRECINCT 107,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),104
+Wyoming,PRECINCT 108,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),107
+Wyoming,PRECINCT 109,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),71
+Wyoming,PRECINCT 110,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),26
+Wyoming,PRECINCT 111,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),115
+Wyoming,PRECINCT 201,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),46
+Wyoming,PRECINCT 202,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),147
+Wyoming,PRECINCT 203,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),163
+Wyoming,PRECINCT 204,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),54
+Wyoming,PRECINCT 205,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),188
+Wyoming,PRECINCT 206,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),153
+Wyoming,PRECINCT 207,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),40
+Wyoming,PRECINCT 302,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),129
+Wyoming,PRECINCT 303,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),89
+Wyoming,PRECINCT 304,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),106
+Wyoming,PRECINCT 305,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),114
+Wyoming,PRECINCT 307,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),102
+Wyoming,PRECINCT 308,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),74
+Wyoming,PRECINCT 309,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),15
+Wyoming,PRECINCT 310,WYOMING CO. BOARD OF EDUCATION BOND,,,Yes (For the Bond Issue),40
+Wyoming,PRECINCT 101,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),76
+Wyoming,PRECINCT 102,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),40
+Wyoming,PRECINCT 103,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),98
+Wyoming,PRECINCT 104,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),26
+Wyoming,PRECINCT 105,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),29
+Wyoming,PRECINCT 106,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),97
+Wyoming,PRECINCT 107,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),84
+Wyoming,PRECINCT 108,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),80
+Wyoming,PRECINCT 109,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),89
+Wyoming,PRECINCT 110,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),24
+Wyoming,PRECINCT 111,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),99
+Wyoming,PRECINCT 201,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),23
+Wyoming,PRECINCT 202,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),98
+Wyoming,PRECINCT 203,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),134
+Wyoming,PRECINCT 204,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),55
+Wyoming,PRECINCT 205,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),127
+Wyoming,PRECINCT 206,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),95
+Wyoming,PRECINCT 207,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),41
+Wyoming,PRECINCT 302,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),86
+Wyoming,PRECINCT 303,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),71
+Wyoming,PRECINCT 304,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),66
+Wyoming,PRECINCT 305,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),67
+Wyoming,PRECINCT 307,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),107
+Wyoming,PRECINCT 308,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),89
+Wyoming,PRECINCT 309,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),14
+Wyoming,PRECINCT 310,WYOMING CO. BOARD OF EDUCATION BOND,,,No (Against the Bond Issue),22

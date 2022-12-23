@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes
+Preston,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,290
+Preston,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,367
+Preston,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,305
+Preston,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,247
+Preston,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,360
+Preston,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,160
+Preston,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,70
+Preston,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,227
+Preston,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,78
+Preston,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,200
+Preston,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,256
+Preston,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,225
+Preston,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,327
+Preston,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,54
+Preston,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,232
+Preston,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,309
+Preston,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,133
+Preston,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,294
+Preston,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,173
+Preston,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,402
+Preston,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,209
+Preston,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,242
+Preston,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,255
+Preston,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,237
+Preston,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,143
+Preston,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,175
+Preston,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,212
+Preston,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,64
+Preston,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,118
+Preston,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,167
+Preston,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,118
+Preston,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,115
+Preston,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,141
+Preston,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Preston,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,31
+Preston,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,82
+Preston,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,45
+Preston,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,102
+Preston,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,137
+Preston,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,128
+Preston,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,163
+Preston,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,20
+Preston,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,145
+Preston,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,138
+Preston,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,51
+Preston,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,94
+Preston,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,77
+Preston,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,141
+Preston,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,86
+Preston,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,79
+Preston,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,67
+Preston,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,91
+Preston,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,52
+Preston,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,43
+Preston,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,97
+Preston,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,18
+Preston,PRECINCT 1,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,300
+Preston,PRECINCT 2,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,370
+Preston,PRECINCT 3,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,312
+Preston,PRECINCT 4,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,242
+Preston,PRECINCT 5,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,365
+Preston,PRECINCT 6,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,166
+Preston,PRECINCT 7,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,68
+Preston,PRECINCT 8,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,226
+Preston,PRECINCT 9,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,82
+Preston,PRECINCT 10,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,209
+Preston,PRECINCT 11,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,252
+Preston,PRECINCT 12,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,232
+Preston,PRECINCT 13,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,323
+Preston,PRECINCT 14,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,60
+Preston,PRECINCT 15,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,231
+Preston,PRECINCT 16,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,309
+Preston,PRECINCT 17,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,126
+Preston,PRECINCT 18,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,286
+Preston,PRECINCT 19,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,168
+Preston,PRECINCT 20,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,418
+Preston,PRECINCT 21,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,212
+Preston,PRECINCT 22,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,229
+Preston,PRECINCT 23,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,254
+Preston,PRECINCT 24,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,246
+Preston,PRECINCT 25,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,140
+Preston,PRECINCT 26,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,171
+Preston,PRECINCT 27,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,203
+Preston,PRECINCT 28,STATE SENATOR, 14th Senatorial District,REP,JAY TAYLOR,66
+Preston,PRECINCT 1,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,110
+Preston,PRECINCT 2,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,166
+Preston,PRECINCT 3,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,121
+Preston,PRECINCT 4,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,117
+Preston,PRECINCT 5,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,137
+Preston,PRECINCT 6,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,38
+Preston,PRECINCT 7,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,36
+Preston,PRECINCT 8,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,91
+Preston,PRECINCT 9,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,43
+Preston,PRECINCT 10,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,97
+Preston,PRECINCT 11,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,147
+Preston,PRECINCT 12,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,126
+Preston,PRECINCT 13,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,181
+Preston,PRECINCT 14,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,13
+Preston,PRECINCT 15,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,152
+Preston,PRECINCT 16,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,143
+Preston,PRECINCT 17,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,58
+Preston,PRECINCT 18,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,103
+Preston,PRECINCT 19,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,85
+Preston,PRECINCT 20,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,126
+Preston,PRECINCT 21,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,88
+Preston,PRECINCT 22,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,93
+Preston,PRECINCT 23,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,74
+Preston,PRECINCT 24,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,91
+Preston,PRECINCT 25,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,62
+Preston,PRECINCT 26,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,48
+Preston,PRECINCT 27,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,117
+Preston,PRECINCT 28,STATE SENATOR, 14th Senatorial District,DEM,AMANDA JO PITZER,17
+Preston,PRECINCT 1,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,271
+Preston,PRECINCT 2,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,351
+Preston,PRECINCT 3,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,286
+Preston,PRECINCT 4,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,270
+Preston,PRECINCT 5,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,346
+Preston,PRECINCT 6,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,155
+Preston,PRECINCT 7,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,76
+Preston,PRECINCT 9,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,98
+Preston,PRECINCT 10,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,231
+Preston,PRECINCT 11,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,291
+Preston,PRECINCT 12,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,263
+Preston,PRECINCT 21,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,238
+Preston,PRECINCT 28,HOUSE OF DELEGATES, 83rd District,REP,GEORGE STREET,67
+Preston,PRECINCT 1,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,144
+Preston,PRECINCT 2,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,196
+Preston,PRECINCT 3,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,147
+Preston,PRECINCT 4,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,97
+Preston,PRECINCT 5,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,164
+Preston,PRECINCT 6,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,53
+Preston,PRECINCT 7,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,27
+Preston,PRECINCT 9,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,28
+Preston,PRECINCT 10,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,82
+Preston,PRECINCT 11,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,106
+Preston,PRECINCT 12,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,93
+Preston,PRECINCT 21,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,64
+Preston,PRECINCT 28,HOUSE OF DELEGATES, 83rd District,DEM,JR WOLFE,16
+Preston,PRECINCT 8,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,232
+Preston,PRECINCT 13,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,338
+Preston,PRECINCT 14,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,62
+Preston,PRECINCT 15,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,244
+Preston,PRECINCT 16,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,333
+Preston,PRECINCT 17,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,133
+Preston,PRECINCT 18,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,296
+Preston,PRECINCT 19,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,158
+Preston,PRECINCT 20,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,413
+Preston,PRECINCT 22,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,247
+Preston,PRECINCT 23,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,257
+Preston,PRECINCT 24,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,267
+Preston,PRECINCT 25,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,144
+Preston,PRECINCT 26,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,183
+Preston,PRECINCT 27,HOUSE OF DELEGATES, 84th District,REP,D. R. (BUCK) JENNINGS,224
+Preston,PRECINCT 8,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,85
+Preston,PRECINCT 13,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,168
+Preston,PRECINCT 14,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,15
+Preston,PRECINCT 15,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,141
+Preston,PRECINCT 16,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,131
+Preston,PRECINCT 17,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,51
+Preston,PRECINCT 18,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,100
+Preston,PRECINCT 19,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,103
+Preston,PRECINCT 20,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,133
+Preston,PRECINCT 22,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,82
+Preston,PRECINCT 23,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,75
+Preston,PRECINCT 24,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,83
+Preston,PRECINCT 25,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,61
+Preston,PRECINCT 26,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,47
+Preston,PRECINCT 27,HOUSE OF DELEGATES, 84th District,DEM,LISA HYRE,97
+Preston,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,361
+Preston,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,480
+Preston,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,393
+Preston,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,317
+Preston,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,452
+Preston,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,192
+Preston,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,93
+Preston,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,291
+Preston,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,111
+Preston,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,284
+Preston,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,340
+Preston,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,305
+Preston,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,471
+Preston,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,70
+Preston,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,357
+Preston,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,423
+Preston,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,157
+Preston,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,360
+Preston,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,212
+Preston,PRECINCT 20,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,503
+Preston,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,276
+Preston,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,278
+Preston,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,293
+Preston,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,295
+Preston,PRECINCT 25,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,190
+Preston,PRECINCT 26,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,216
+Preston,PRECINCT 27,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,284
+Preston,PRECINCT 28,FOR CIRCUIT CLERK,,REP,REP LISA LEISHMAN,78
+Preston,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,369
+Preston,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,484
+Preston,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,397
+Preston,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,313
+Preston,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,446
+Preston,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,187
+Preston,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,88
+Preston,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,286
+Preston,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,102
+Preston,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,273
+Preston,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,329
+Preston,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,303
+Preston,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,441
+Preston,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,68
+Preston,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,345
+Preston,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,407
+Preston,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,152
+Preston,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,356
+Preston,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,221
+Preston,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,485
+Preston,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,274
+Preston,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,284
+Preston,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,284
+Preston,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,305
+Preston,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,189
+Preston,PRECINCT 26,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,215
+Preston,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,284
+Preston,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP HUNTER THOMAS,78
+Preston,PRECINCT 1,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,373
+Preston,PRECINCT 2,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,488
+Preston,PRECINCT 3,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,401
+Preston,PRECINCT 4,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,326
+Preston,PRECINCT 5,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,448
+Preston,PRECINCT 6,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,192
+Preston,PRECINCT 7,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,96
+Preston,PRECINCT 8,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,288
+Preston,PRECINCT 9,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,107
+Preston,PRECINCT 10,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,285
+Preston,PRECINCT 11,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,348
+Preston,PRECINCT 12,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,311
+Preston,PRECINCT 13,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,462
+Preston,PRECINCT 14,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,69
+Preston,PRECINCT 15,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,352
+Preston,PRECINCT 16,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,425
+Preston,PRECINCT 17,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,161
+Preston,PRECINCT 18,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,365
+Preston,PRECINCT 19,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,228
+Preston,PRECINCT 20,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,507
+Preston,PRECINCT 21,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,275
+Preston,PRECINCT 22,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,290
+Preston,PRECINCT 23,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,300
+Preston,PRECINCT 24,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,308
+Preston,PRECINCT 25,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,187
+Preston,PRECINCT 26,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,211
+Preston,PRECINCT 27,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,285
+Preston,PRECINCT 28,FOR COUNTY CLERK,,REP,REP LINDA HUGGINS,74
+Preston,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,170
+Preston,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,212
+Preston,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,172
+Preston,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,150
+Preston,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,200
+Preston,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,91
+Preston,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,33
+Preston,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,117
+Preston,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,51
+Preston,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,151
+Preston,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,172
+Preston,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,151
+Preston,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,211
+Preston,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,37
+Preston,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,158
+Preston,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,183
+Preston,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,72
+Preston,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,191
+Preston,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,104
+Preston,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,299
+Preston,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,113
+Preston,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,118
+Preston,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,148
+Preston,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,116
+Preston,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,79
+Preston,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,93
+Preston,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,110
+Preston,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,42
+Preston,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,240
+Preston,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,318
+Preston,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,236
+Preston,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,206
+Preston,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,290
+Preston,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,112
+Preston,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,69
+Preston,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,198
+Preston,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,69
+Preston,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,158
+Preston,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,220
+Preston,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,193
+Preston,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,287
+Preston,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,35
+Preston,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,221
+Preston,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,263
+Preston,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,108
+Preston,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,201
+Preston,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,148
+Preston,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,235
+Preston,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,181
+Preston,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,197
+Preston,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,174
+Preston,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,215
+Preston,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,122
+Preston,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,128
+Preston,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,202
+Preston,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,36
+Preston,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,156
+Preston,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,188
+Preston,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,154
+Preston,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,133
+Preston,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,179
+Preston,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,81
+Preston,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,25
+Preston,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,123
+Preston,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,36
+Preston,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,123
+Preston,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,137
+Preston,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,108
+Preston,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,162
+Preston,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,37
+Preston,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,101
+Preston,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,139
+Preston,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,70
+Preston,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,168
+Preston,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,90
+Preston,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,256
+Preston,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Preston,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,97
+Preston,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,118
+Preston,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,107
+Preston,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Preston,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,72
+Preston,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,100
+Preston,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,36
+Preston,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,257
+Preston,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,358
+Preston,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,273
+Preston,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,235
+Preston,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,322
+Preston,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,124
+Preston,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,79
+Preston,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,194
+Preston,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,86
+Preston,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,189
+Preston,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,259
+Preston,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,249
+Preston,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,352
+Preston,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,39
+Preston,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,283
+Preston,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,325
+Preston,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Preston,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,220
+Preston,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,172
+Preston,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,296
+Preston,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,205
+Preston,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,228
+Preston,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,214
+Preston,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,236
+Preston,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,163
+Preston,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,154
+Preston,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,220
+Preston,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,44
+Preston,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,191
+Preston,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,254
+Preston,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,200
+Preston,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,144
+Preston,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,218
+Preston,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,93
+Preston,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,46
+Preston,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,133
+Preston,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Preston,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,164
+Preston,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,192
+Preston,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,154
+Preston,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,215
+Preston,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,46
+Preston,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,166
+Preston,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,173
+Preston,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,72
+Preston,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,188
+Preston,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,104
+Preston,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,305
+Preston,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,127
+Preston,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,112
+Preston,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,133
+Preston,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,125
+Preston,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,62
+Preston,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,84
+Preston,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,115
+Preston,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,39
+Preston,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,215
+Preston,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,275
+Preston,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,206
+Preston,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,213
+Preston,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,264
+Preston,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,106
+Preston,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,55
+Preston,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Preston,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,61
+Preston,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,138
+Preston,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,197
+Preston,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,188
+Preston,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,282
+Preston,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,27
+Preston,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,211
+Preston,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,277
+Preston,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,110
+Preston,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,198
+Preston,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,148
+Preston,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,237
+Preston,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,168
+Preston,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,202
+Preston,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,189
+Preston,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,206
+Preston,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,138
+Preston,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,133
+Preston,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,198
+Preston,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,40
+Preston,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,171
+Preston,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,222
+Preston,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,171
+Preston,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,149
+Preston,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,212
+Preston,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,87
+Preston,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Preston,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,129
+Preston,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,43
+Preston,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,135
+Preston,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,170
+Preston,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,128
+Preston,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,186
+Preston,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,43
+Preston,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,111
+Preston,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,170
+Preston,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,73
+Preston,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,187
+Preston,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,95
+Preston,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,282
+Preston,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,131
+Preston,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,118
+Preston,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,130
+Preston,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,114
+Preston,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,68
+Preston,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,86
+Preston,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,118
+Preston,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,45
+Preston,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,242
+Preston,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,321
+Preston,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,249
+Preston,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,213
+Preston,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,287
+Preston,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,120
+Preston,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,61
+Preston,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,188
+Preston,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,79
+Preston,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,176
+Preston,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,222
+Preston,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,227
+Preston,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,326
+Preston,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,33
+Preston,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,274
+Preston,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,291
+Preston,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,115
+Preston,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,206
+Preston,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,164
+Preston,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,266
+Preston,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,170
+Preston,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,209
+Preston,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,197
+Preston,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,226
+Preston,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,139
+Preston,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,136
+Preston,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,203
+Preston,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,34

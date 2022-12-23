@@ -1,0 +1,145 @@
+county,precinct,office,district,party,candidate,votes
+Ritchie,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,225
+Ritchie,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,327
+Ritchie,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,184
+Ritchie,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,371
+Ritchie,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,252
+Ritchie,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,330
+Ritchie,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,127
+Ritchie,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,159
+Ritchie,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,86
+Ritchie,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,35
+Ritchie,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,73
+Ritchie,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,46
+Ritchie,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,77
+Ritchie,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,61
+Ritchie,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,71
+Ritchie,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,31
+Ritchie,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,45
+Ritchie,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,12
+Ritchie,PRECINCT 1,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,231
+Ritchie,PRECINCT 2,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,325
+Ritchie,PRECINCT 3,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,181
+Ritchie,PRECINCT 4,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,370
+Ritchie,PRECINCT 5,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,254
+Ritchie,PRECINCT 6,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,329
+Ritchie,PRECINCT 7,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,124
+Ritchie,PRECINCT 8,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,160
+Ritchie,PRECINCT 9,STATE SENATOR, 3rd Senatorial District,REP,MICHAEL AZINGER,80
+Ritchie,PRECINCT 1,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,33
+Ritchie,PRECINCT 2,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,79
+Ritchie,PRECINCT 3,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,49
+Ritchie,PRECINCT 4,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,88
+Ritchie,PRECINCT 5,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,63
+Ritchie,PRECINCT 6,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,77
+Ritchie,PRECINCT 7,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,33
+Ritchie,PRECINCT 8,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,51
+Ritchie,PRECINCT 9,STATE SENATOR, 3rd Senatorial District,DEM,JODY MURPHY,17
+Ritchie,PRECINCT 1,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,242
+Ritchie,PRECINCT 2,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,371
+Ritchie,PRECINCT 3,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,215
+Ritchie,PRECINCT 4,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,414
+Ritchie,PRECINCT 5,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,282
+Ritchie,PRECINCT 6,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,367
+Ritchie,PRECINCT 7,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,139
+Ritchie,PRECINCT 8,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,192
+Ritchie,PRECINCT 9,HOUSE OF DELEGATES, 9th District,REP,TRENTON CARL BARNHART,90
+Ritchie,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,242
+Ritchie,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,381
+Ritchie,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,213
+Ritchie,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,427
+Ritchie,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,281
+Ritchie,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,395
+Ritchie,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,142
+Ritchie,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,201
+Ritchie,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP MELANIE D WILSON,93
+Ritchie,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,162
+Ritchie,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,276
+Ritchie,PRECINCT 3,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,162
+Ritchie,PRECINCT 4,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,292
+Ritchie,PRECINCT 5,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,196
+Ritchie,PRECINCT 6,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,296
+Ritchie,PRECINCT 7,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,107
+Ritchie,PRECINCT 8,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,139
+Ritchie,PRECINCT 9,FOR COUNTY COMMISSIONER,,DEM,DEM SAMUEL C. ROGERS,74
+Ritchie,PRECINCT 1,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,249
+Ritchie,PRECINCT 2,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,376
+Ritchie,PRECINCT 3,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,212
+Ritchie,PRECINCT 4,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,424
+Ritchie,PRECINCT 5,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,286
+Ritchie,PRECINCT 6,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,390
+Ritchie,PRECINCT 7,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,144
+Ritchie,PRECINCT 8,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,189
+Ritchie,PRECINCT 9,FOR COUNTY CLERK,,REP,REP TRACIE D. MCDONALD,97
+Ritchie,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,107
+Ritchie,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,162
+Ritchie,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,91
+Ritchie,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,154
+Ritchie,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Ritchie,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,147
+Ritchie,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,57
+Ritchie,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,69
+Ritchie,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,38
+Ritchie,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,145
+Ritchie,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,229
+Ritchie,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,135
+Ritchie,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,290
+Ritchie,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,218
+Ritchie,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,259
+Ritchie,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,102
+Ritchie,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,143
+Ritchie,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,61
+Ritchie,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,82
+Ritchie,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,110
+Ritchie,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,66
+Ritchie,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,133
+Ritchie,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,65
+Ritchie,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,109
+Ritchie,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,56
+Ritchie,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,59
+Ritchie,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,28
+Ritchie,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,183
+Ritchie,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,296
+Ritchie,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,174
+Ritchie,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,327
+Ritchie,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,257
+Ritchie,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,320
+Ritchie,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,107
+Ritchie,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,158
+Ritchie,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,77
+Ritchie,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,95
+Ritchie,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,139
+Ritchie,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,70
+Ritchie,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,140
+Ritchie,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,89
+Ritchie,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,155
+Ritchie,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,57
+Ritchie,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,71
+Ritchie,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,32
+Ritchie,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,152
+Ritchie,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,248
+Ritchie,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,158
+Ritchie,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,298
+Ritchie,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,218
+Ritchie,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,250
+Ritchie,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,104
+Ritchie,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,141
+Ritchie,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,64
+Ritchie,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,98
+Ritchie,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,159
+Ritchie,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,86
+Ritchie,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,171
+Ritchie,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,83
+Ritchie,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,135
+Ritchie,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,54
+Ritchie,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,72
+Ritchie,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,29
+Ritchie,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,164
+Ritchie,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,248
+Ritchie,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,155
+Ritchie,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,289
+Ritchie,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,236
+Ritchie,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,290
+Ritchie,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,108
+Ritchie,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,146
+Ritchie,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,76

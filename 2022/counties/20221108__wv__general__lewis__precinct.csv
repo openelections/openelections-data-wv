@@ -1,0 +1,409 @@
+county,precinct,office,district,party,candidate,votes
+Lewis,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,77
+Lewis,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,132
+Lewis,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,91
+Lewis,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,66
+Lewis,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,84
+Lewis,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,76
+Lewis,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,217
+Lewis,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,208
+Lewis,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,49
+Lewis,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,98
+Lewis,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,98
+Lewis,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,76
+Lewis,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,407
+Lewis,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,208
+Lewis,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,251
+Lewis,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,45
+Lewis,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,77
+Lewis,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,55
+Lewis,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,59
+Lewis,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,238
+Lewis,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,132
+Lewis,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,72
+Lewis,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,268
+Lewis,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,181
+Lewis,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,34
+Lewis,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,37
+Lewis,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,33
+Lewis,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,20
+Lewis,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,39
+Lewis,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,35
+Lewis,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,79
+Lewis,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,69
+Lewis,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,21
+Lewis,PRECINCT 10,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,56
+Lewis,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,31
+Lewis,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,30
+Lewis,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,118
+Lewis,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,32
+Lewis,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,69
+Lewis,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,30
+Lewis,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,44
+Lewis,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,22
+Lewis,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,41
+Lewis,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,93
+Lewis,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,30
+Lewis,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,22
+Lewis,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,98
+Lewis,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,56
+Lewis,PRECINCT 1,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,71
+Lewis,PRECINCT 2,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,127
+Lewis,PRECINCT 3,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,86
+Lewis,PRECINCT 4,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,57
+Lewis,PRECINCT 5,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,77
+Lewis,PRECINCT 6,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,71
+Lewis,PRECINCT 7,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,218
+Lewis,PRECINCT 8,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,203
+Lewis,PRECINCT 9,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,45
+Lewis,PRECINCT 10,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,93
+Lewis,PRECINCT 11,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,104
+Lewis,PRECINCT 12,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,71
+Lewis,PRECINCT 13,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,408
+Lewis,PRECINCT 14,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,177
+Lewis,PRECINCT 15,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,247
+Lewis,PRECINCT 16,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,42
+Lewis,PRECINCT 17,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,75
+Lewis,PRECINCT 18,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,56
+Lewis,PRECINCT 19,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,65
+Lewis,PRECINCT 20,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,256
+Lewis,PRECINCT 21,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,118
+Lewis,PRECINCT 22,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,69
+Lewis,PRECINCT 23,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,266
+Lewis,PRECINCT 24,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,172
+Lewis,PRECINCT 1,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,25
+Lewis,PRECINCT 2,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,33
+Lewis,PRECINCT 3,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,29
+Lewis,PRECINCT 4,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,21
+Lewis,PRECINCT 5,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,30
+Lewis,PRECINCT 6,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,33
+Lewis,PRECINCT 7,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,63
+Lewis,PRECINCT 8,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,59
+Lewis,PRECINCT 9,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,15
+Lewis,PRECINCT 10,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,43
+Lewis,PRECINCT 11,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,23
+Lewis,PRECINCT 12,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,27
+Lewis,PRECINCT 13,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,101
+Lewis,PRECINCT 14,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,60
+Lewis,PRECINCT 15,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,60
+Lewis,PRECINCT 16,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,24
+Lewis,PRECINCT 17,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,34
+Lewis,PRECINCT 18,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,19
+Lewis,PRECINCT 19,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,30
+Lewis,PRECINCT 20,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,53
+Lewis,PRECINCT 21,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,37
+Lewis,PRECINCT 22,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,20
+Lewis,PRECINCT 23,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,82
+Lewis,PRECINCT 24,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,45
+Lewis,PRECINCT 1,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,73
+Lewis,PRECINCT 2,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,139
+Lewis,PRECINCT 3,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,93
+Lewis,PRECINCT 4,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,61
+Lewis,PRECINCT 5,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,85
+Lewis,PRECINCT 6,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,72
+Lewis,PRECINCT 7,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,222
+Lewis,PRECINCT 8,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,236
+Lewis,PRECINCT 9,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,47
+Lewis,PRECINCT 10,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,105
+Lewis,PRECINCT 11,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,103
+Lewis,PRECINCT 12,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,77
+Lewis,PRECINCT 13,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,420
+Lewis,PRECINCT 14,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,211
+Lewis,PRECINCT 15,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,258
+Lewis,PRECINCT 16,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,42
+Lewis,PRECINCT 17,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,79
+Lewis,PRECINCT 18,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,61
+Lewis,PRECINCT 19,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,63
+Lewis,PRECINCT 20,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,249
+Lewis,PRECINCT 21,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,122
+Lewis,PRECINCT 24,HOUSE OF DELEGATES, 64th District,REP,ADAM BURKHAMMER,185
+Lewis,PRECINCT 1,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,37
+Lewis,PRECINCT 2,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,32
+Lewis,PRECINCT 3,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,29
+Lewis,PRECINCT 4,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,23
+Lewis,PRECINCT 5,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,40
+Lewis,PRECINCT 6,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,39
+Lewis,PRECINCT 7,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,76
+Lewis,PRECINCT 8,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,51
+Lewis,PRECINCT 9,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,24
+Lewis,PRECINCT 10,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,52
+Lewis,PRECINCT 11,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,27
+Lewis,PRECINCT 12,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,29
+Lewis,PRECINCT 13,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,112
+Lewis,PRECINCT 14,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,30
+Lewis,PRECINCT 15,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,64
+Lewis,PRECINCT 16,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,33
+Lewis,PRECINCT 17,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,44
+Lewis,PRECINCT 18,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,17
+Lewis,PRECINCT 19,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,34
+Lewis,PRECINCT 20,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,85
+Lewis,PRECINCT 21,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,38
+Lewis,PRECINCT 24,HOUSE OF DELEGATES, 64th District,DEM,JOHN CLISE,49
+Lewis,PRECINCT 22,HOUSE OF DELEGATES, 69th District,REP,KEITH MARPLE,70
+Lewis,PRECINCT 23,HOUSE OF DELEGATES, 69th District,REP,KEITH MARPLE,270
+Lewis,PRECINCT 22,HOUSE OF DELEGATES, 69th District,DEM,RON WATSON,25
+Lewis,PRECINCT 23,HOUSE OF DELEGATES, 69th District,DEM,RON WATSON,99
+Lewis,PRECINCT 1,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,103
+Lewis,PRECINCT 2,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,161
+Lewis,PRECINCT 3,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,110
+Lewis,PRECINCT 4,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,80
+Lewis,PRECINCT 5,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,110
+Lewis,PRECINCT 6,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,104
+Lewis,PRECINCT 7,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,277
+Lewis,PRECINCT 8,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,263
+Lewis,PRECINCT 9,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,65
+Lewis,PRECINCT 10,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,128
+Lewis,PRECINCT 11,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,126
+Lewis,PRECINCT 12,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,99
+Lewis,PRECINCT 13,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,496
+Lewis,PRECINCT 14,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,221
+Lewis,PRECINCT 15,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,305
+Lewis,PRECINCT 16,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,67
+Lewis,PRECINCT 17,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,108
+Lewis,PRECINCT 18,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,74
+Lewis,PRECINCT 19,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,94
+Lewis,PRECINCT 20,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,315
+Lewis,PRECINCT 21,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,145
+Lewis,PRECINCT 22,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,86
+Lewis,PRECINCT 23,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,335
+Lewis,PRECINCT 24,FOR CIRCUIT CLERK,,REP,REP BETH ANN BURKHART,216
+Lewis,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,93
+Lewis,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,163
+Lewis,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,109
+Lewis,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,76
+Lewis,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,113
+Lewis,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,95
+Lewis,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,274
+Lewis,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,254
+Lewis,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,67
+Lewis,PRECINCT 10,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,127
+Lewis,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,120
+Lewis,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,98
+Lewis,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,485
+Lewis,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,213
+Lewis,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,298
+Lewis,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,64
+Lewis,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,103
+Lewis,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,70
+Lewis,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,94
+Lewis,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,312
+Lewis,PRECINCT 21,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,145
+Lewis,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,82
+Lewis,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,336
+Lewis,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP ROD WYMAN,211
+Lewis,PRECINCT 1,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,96
+Lewis,PRECINCT 2,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,161
+Lewis,PRECINCT 3,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,112
+Lewis,PRECINCT 4,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,73
+Lewis,PRECINCT 5,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,108
+Lewis,PRECINCT 6,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,98
+Lewis,PRECINCT 7,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,272
+Lewis,PRECINCT 8,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,251
+Lewis,PRECINCT 9,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,63
+Lewis,PRECINCT 10,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,127
+Lewis,PRECINCT 11,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,127
+Lewis,PRECINCT 12,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,95
+Lewis,PRECINCT 13,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,477
+Lewis,PRECINCT 14,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,215
+Lewis,PRECINCT 15,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,298
+Lewis,PRECINCT 16,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,62
+Lewis,PRECINCT 17,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,105
+Lewis,PRECINCT 18,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,72
+Lewis,PRECINCT 19,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,94
+Lewis,PRECINCT 20,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,305
+Lewis,PRECINCT 21,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,142
+Lewis,PRECINCT 22,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,77
+Lewis,PRECINCT 23,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,331
+Lewis,PRECINCT 24,FOR COUNTY CLERK,,REP,REP CINDY STOUT ROWAN,210
+Lewis,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,36
+Lewis,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Lewis,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,44
+Lewis,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,23
+Lewis,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,41
+Lewis,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,38
+Lewis,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,84
+Lewis,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,113
+Lewis,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,28
+Lewis,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,40
+Lewis,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,38
+Lewis,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,45
+Lewis,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,204
+Lewis,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,95
+Lewis,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,121
+Lewis,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,18
+Lewis,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,30
+Lewis,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,25
+Lewis,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,33
+Lewis,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,121
+Lewis,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,58
+Lewis,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,25
+Lewis,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,128
+Lewis,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,93
+Lewis,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,70
+Lewis,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,106
+Lewis,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,72
+Lewis,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,59
+Lewis,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,84
+Lewis,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,74
+Lewis,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,203
+Lewis,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,159
+Lewis,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,42
+Lewis,PRECINCT 10,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,105
+Lewis,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,92
+Lewis,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,62
+Lewis,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,321
+Lewis,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,139
+Lewis,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,199
+Lewis,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,56
+Lewis,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,86
+Lewis,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,48
+Lewis,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,65
+Lewis,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,206
+Lewis,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,99
+Lewis,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,63
+Lewis,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,233
+Lewis,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,137
+Lewis,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,21
+Lewis,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Lewis,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,37
+Lewis,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,25
+Lewis,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,33
+Lewis,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,24
+Lewis,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,75
+Lewis,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,81
+Lewis,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,23
+Lewis,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,29
+Lewis,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,30
+Lewis,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,26
+Lewis,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,138
+Lewis,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,59
+Lewis,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,60
+Lewis,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,18
+Lewis,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,22
+Lewis,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,18
+Lewis,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,27
+Lewis,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,69
+Lewis,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,46
+Lewis,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,20
+Lewis,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,121
+Lewis,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,58
+Lewis,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,88
+Lewis,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,132
+Lewis,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,85
+Lewis,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,63
+Lewis,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,93
+Lewis,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,89
+Lewis,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,220
+Lewis,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,207
+Lewis,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,49
+Lewis,PRECINCT 10,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,126
+Lewis,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,101
+Lewis,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,86
+Lewis,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,397
+Lewis,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,184
+Lewis,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,269
+Lewis,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,58
+Lewis,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,98
+Lewis,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,59
+Lewis,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,71
+Lewis,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,272
+Lewis,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,116
+Lewis,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,74
+Lewis,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,252
+Lewis,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,179
+Lewis,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,42
+Lewis,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,65
+Lewis,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,46
+Lewis,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,23
+Lewis,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,44
+Lewis,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,36
+Lewis,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,89
+Lewis,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,116
+Lewis,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,32
+Lewis,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,58
+Lewis,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Lewis,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,48
+Lewis,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,182
+Lewis,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,90
+Lewis,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,128
+Lewis,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,26
+Lewis,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,29
+Lewis,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,29
+Lewis,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,35
+Lewis,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,107
+Lewis,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,46
+Lewis,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,30
+Lewis,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,124
+Lewis,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,96
+Lewis,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,69
+Lewis,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,107
+Lewis,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,73
+Lewis,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,60
+Lewis,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,81
+Lewis,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,71
+Lewis,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,199
+Lewis,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,167
+Lewis,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,38
+Lewis,PRECINCT 10,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,92
+Lewis,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,78
+Lewis,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,60
+Lewis,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,341
+Lewis,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,148
+Lewis,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,196
+Lewis,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,48
+Lewis,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,91
+Lewis,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,47
+Lewis,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,62
+Lewis,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,216
+Lewis,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,113
+Lewis,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,58
+Lewis,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,239
+Lewis,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,128
+Lewis,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,39
+Lewis,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,63
+Lewis,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,47
+Lewis,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,32
+Lewis,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,33
+Lewis,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,40
+Lewis,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,103
+Lewis,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,108
+Lewis,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,32
+Lewis,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,FOR,39
+Lewis,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,49
+Lewis,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,39
+Lewis,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,164
+Lewis,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Lewis,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,94
+Lewis,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,23
+Lewis,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,36
+Lewis,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,29
+Lewis,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,36
+Lewis,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Lewis,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,51
+Lewis,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,22
+Lewis,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,136
+Lewis,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,92
+Lewis,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,72
+Lewis,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,112
+Lewis,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,76
+Lewis,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,56
+Lewis,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,94
+Lewis,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,73
+Lewis,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,193
+Lewis,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,179
+Lewis,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,40
+Lewis,PRECINCT 10,Amendment No. 4: Education Accountability Amendment,,,AGAINST,117
+Lewis,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,81
+Lewis,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,73
+Lewis,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,372
+Lewis,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,152
+Lewis,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,234
+Lewis,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,52
+Lewis,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,86
+Lewis,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,49
+Lewis,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,63
+Lewis,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,236
+Lewis,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,111
+Lewis,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,72
+Lewis,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,233
+Lewis,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,145

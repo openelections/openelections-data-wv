@@ -1,0 +1,212 @@
+county,precinct,office,district,party,candidate,votes
+Morgan,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,436
+Morgan,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,512
+Morgan,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,154
+Morgan,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,155
+Morgan,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,173
+Morgan,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,118
+Morgan,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,280
+Morgan,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,403
+Morgan,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,169
+Morgan,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,463
+Morgan,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,463
+Morgan,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,452
+Morgan,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,REP,ALEXANDER X. MOONEY,171
+Morgan,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,133
+Morgan,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,125
+Morgan,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,32
+Morgan,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,37
+Morgan,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,66
+Morgan,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,78
+Morgan,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,83
+Morgan,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,115
+Morgan,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,50
+Morgan,PRECINCT 21,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,155
+Morgan,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,101
+Morgan,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,128
+Morgan,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 2nd Congressional District,DEM,BARRY LEE WENDELL,77
+Morgan,PRECINCT 1,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,459
+Morgan,PRECINCT 2,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,530
+Morgan,PRECINCT 4,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,158
+Morgan,PRECINCT 5,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,156
+Morgan,PRECINCT 6,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,196
+Morgan,PRECINCT 7,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,130
+Morgan,PRECINCT 8,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,289
+Morgan,PRECINCT 13,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,425
+Morgan,PRECINCT 18,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,170
+Morgan,PRECINCT 21,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,497
+Morgan,PRECINCT 23,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,467
+Morgan,PRECINCT 24,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,463
+Morgan,PRECINCT 25,STATE SENATOR, 15th Senatorial District,REP,CHARLES S. TRUMP IV,185
+Morgan,PRECINCT 1,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,92
+Morgan,PRECINCT 2,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,69
+Morgan,PRECINCT 4,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,32
+Morgan,PRECINCT 5,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,26
+Morgan,PRECINCT 6,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,40
+Morgan,PRECINCT 7,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,42
+Morgan,PRECINCT 8,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,61
+Morgan,PRECINCT 13,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,68
+Morgan,PRECINCT 18,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,37
+Morgan,PRECINCT 21,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,89
+Morgan,PRECINCT 23,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,73
+Morgan,PRECINCT 24,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,88
+Morgan,PRECINCT 25,STATE SENATOR, 15th Senatorial District,UPW,ROBIN MILLS,44
+Morgan,PRECINCT 13,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,381
+Morgan,PRECINCT 18,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,144
+Morgan,PRECINCT 25,HOUSE OF DELEGATES, 89th District,REP,DARREN J. THORNE,161
+Morgan,PRECINCT 13,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,98
+Morgan,PRECINCT 18,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,69
+Morgan,PRECINCT 25,HOUSE OF DELEGATES, 89th District,IND,ROBERT B. WOLFORD,54
+Morgan,PRECINCT 1,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,515
+Morgan,PRECINCT 2,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,564
+Morgan,PRECINCT 4,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,184
+Morgan,PRECINCT 5,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,172
+Morgan,PRECINCT 6,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,208
+Morgan,PRECINCT 7,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,152
+Morgan,PRECINCT 8,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,333
+Morgan,PRECINCT 21,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,547
+Morgan,PRECINCT 23,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,513
+Morgan,PRECINCT 24,HOUSE OF DELEGATES, 90th District,REP,GEORGE MILLER,505
+Morgan,PRECINCT 1,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,522
+Morgan,PRECINCT 2,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,571
+Morgan,PRECINCT 4,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,184
+Morgan,PRECINCT 5,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,184
+Morgan,PRECINCT 6,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,218
+Morgan,PRECINCT 7,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,165
+Morgan,PRECINCT 8,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,336
+Morgan,PRECINCT 13,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,471
+Morgan,PRECINCT 18,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,199
+Morgan,PRECINCT 21,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,560
+Morgan,PRECINCT 23,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,516
+Morgan,PRECINCT 24,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,513
+Morgan,PRECINCT 25,CIRCUIT CLERK,,REP,MELANIE SHAMBAUGH,207
+Morgan,PRECINCT 1,COUNTY COMMISSIONER,,REP,BILL CLARK,507
+Morgan,PRECINCT 2,COUNTY COMMISSIONER,,REP,BILL CLARK,557
+Morgan,PRECINCT 4,COUNTY COMMISSIONER,,REP,BILL CLARK,174
+Morgan,PRECINCT 5,COUNTY COMMISSIONER,,REP,BILL CLARK,170
+Morgan,PRECINCT 6,COUNTY COMMISSIONER,,REP,BILL CLARK,215
+Morgan,PRECINCT 7,COUNTY COMMISSIONER,,REP,BILL CLARK,157
+Morgan,PRECINCT 8,COUNTY COMMISSIONER,,REP,BILL CLARK,322
+Morgan,PRECINCT 13,COUNTY COMMISSIONER,,REP,BILL CLARK,433
+Morgan,PRECINCT 18,COUNTY COMMISSIONER,,REP,BILL CLARK,201
+Morgan,PRECINCT 21,COUNTY COMMISSIONER,,REP,BILL CLARK,539
+Morgan,PRECINCT 23,COUNTY COMMISSIONER,,REP,BILL CLARK,509
+Morgan,PRECINCT 24,COUNTY COMMISSIONER,,REP,BILL CLARK,506
+Morgan,PRECINCT 25,COUNTY COMMISSIONER,,REP,BILL CLARK,209
+Morgan,PRECINCT 1,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,527
+Morgan,PRECINCT 2,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,573
+Morgan,PRECINCT 4,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,187
+Morgan,PRECINCT 5,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,180
+Morgan,PRECINCT 6,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,214
+Morgan,PRECINCT 7,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,162
+Morgan,PRECINCT 8,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,338
+Morgan,PRECINCT 13,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,457
+Morgan,PRECINCT 18,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,196
+Morgan,PRECINCT 21,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,567
+Morgan,PRECINCT 23,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,516
+Morgan,PRECINCT 24,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,512
+Morgan,PRECINCT 25,COUNTY CLERK,,REP,KIMBERLY JOHNSON-NICKLES,204
+Morgan,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,273
+Morgan,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,342
+Morgan,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,85
+Morgan,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Morgan,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,119
+Morgan,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,84
+Morgan,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,170
+Morgan,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,243
+Morgan,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,111
+Morgan,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,301
+Morgan,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,305
+Morgan,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,299
+Morgan,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,124
+Morgan,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,309
+Morgan,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,283
+Morgan,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,104
+Morgan,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,93
+Morgan,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,121
+Morgan,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,108
+Morgan,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,195
+Morgan,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,264
+Morgan,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,104
+Morgan,PRECINCT 21,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,304
+Morgan,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,260
+Morgan,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,266
+Morgan,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,124
+Morgan,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,260
+Morgan,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,309
+Morgan,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Morgan,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,93
+Morgan,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,112
+Morgan,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,81
+Morgan,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,154
+Morgan,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,265
+Morgan,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,106
+Morgan,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,293
+Morgan,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,303
+Morgan,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,286
+Morgan,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,114
+Morgan,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,327
+Morgan,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,327
+Morgan,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,100
+Morgan,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,100
+Morgan,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,133
+Morgan,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,115
+Morgan,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,221
+Morgan,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,256
+Morgan,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,114
+Morgan,PRECINCT 21,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,323
+Morgan,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,264
+Morgan,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,294
+Morgan,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,139
+Morgan,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,287
+Morgan,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,336
+Morgan,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,97
+Morgan,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,88
+Morgan,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,118
+Morgan,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,87
+Morgan,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,178
+Morgan,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,248
+Morgan,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,96
+Morgan,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,298
+Morgan,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,317
+Morgan,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,280
+Morgan,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,125
+Morgan,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,288
+Morgan,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,289
+Morgan,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,92
+Morgan,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,99
+Morgan,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,120
+Morgan,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,105
+Morgan,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,185
+Morgan,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,249
+Morgan,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,118
+Morgan,PRECINCT 21,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,303
+Morgan,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,245
+Morgan,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,281
+Morgan,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,122
+Morgan,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,290
+Morgan,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,353
+Morgan,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,98
+Morgan,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,103
+Morgan,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,129
+Morgan,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,92
+Morgan,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,191
+Morgan,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,291
+Morgan,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,126
+Morgan,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,FOR,306
+Morgan,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,330
+Morgan,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,299
+Morgan,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,135
+Morgan,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,296
+Morgan,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,284
+Morgan,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,93
+Morgan,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,89
+Morgan,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,115
+Morgan,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,108
+Morgan,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,183
+Morgan,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,231
+Morgan,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,94
+Morgan,PRECINCT 21,Amendment No. 4: Education Accountability Amendment,,,AGAINST,302
+Morgan,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,239
+Morgan,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,278
+Morgan,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,113

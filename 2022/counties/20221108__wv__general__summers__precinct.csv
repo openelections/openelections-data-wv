@@ -1,0 +1,295 @@
+county,precinct,office,district,party,candidate,votes
+Summers,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,314
+Summers,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,78
+Summers,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,54
+Summers,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,197
+Summers,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,84
+Summers,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,161
+Summers,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,134
+Summers,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,255
+Summers,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,279
+Summers,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,240
+Summers,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,19
+Summers,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,230
+Summers,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,106
+Summers,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,95
+Summers,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,122
+Summers,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,59
+Summers,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,67
+Summers,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,107
+Summers,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,30
+Summers,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,60
+Summers,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,39
+Summers,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,64
+Summers,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,86
+Summers,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,77
+Summers,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,0
+Summers,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,100
+Summers,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,31
+Summers,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,35
+Summers,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,55
+Summers,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,15
+Summers,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,18
+Summers,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,34
+Summers,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Summers,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Summers,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Summers,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,33
+Summers,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,27
+Summers,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,29
+Summers,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,0
+Summers,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,27
+Summers,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Summers,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Summers,PRECINCT 1,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,307
+Summers,PRECINCT 4,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,62
+Summers,PRECINCT 9,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,52
+Summers,PRECINCT 11,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,185
+Summers,PRECINCT 12,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,68
+Summers,PRECINCT 15,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,145
+Summers,PRECINCT 17,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,116
+Summers,PRECINCT 22,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,244
+Summers,PRECINCT 23,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,272
+Summers,PRECINCT 27,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,244
+Summers,PRECINCT 28,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,18
+Summers,PRECINCT 30,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,195
+Summers,PRECINCT 31,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,97
+Summers,PRECINCT 32,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,92
+Summers,PRECINCT 1,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,192
+Summers,PRECINCT 4,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,96
+Summers,PRECINCT 9,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,92
+Summers,PRECINCT 11,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,167
+Summers,PRECINCT 12,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,63
+Summers,PRECINCT 15,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,91
+Summers,PRECINCT 17,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,71
+Summers,PRECINCT 22,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,112
+Summers,PRECINCT 23,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,129
+Summers,PRECINCT 27,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,91
+Summers,PRECINCT 28,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,1
+Summers,PRECINCT 30,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,159
+Summers,PRECINCT 31,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,54
+Summers,PRECINCT 32,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,45
+Summers,PRECINCT 1,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,15
+Summers,PRECINCT 4,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,3
+Summers,PRECINCT 9,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Summers,PRECINCT 11,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,3
+Summers,PRECINCT 12,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Summers,PRECINCT 15,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Summers,PRECINCT 17,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,11
+Summers,PRECINCT 22,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,10
+Summers,PRECINCT 23,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Summers,PRECINCT 27,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,5
+Summers,PRECINCT 28,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,1
+Summers,PRECINCT 30,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,14
+Summers,PRECINCT 31,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Summers,PRECINCT 32,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Summers,PRECINCT 1,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,342
+Summers,PRECINCT 4,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,79
+Summers,PRECINCT 9,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,72
+Summers,PRECINCT 11,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,206
+Summers,PRECINCT 28,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,17
+Summers,PRECINCT 30,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,238
+Summers,PRECINCT 31,HOUSE OF DELEGATES, 40th District,REP,ROY G. COOPER,95
+Summers,PRECINCT 1,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,148
+Summers,PRECINCT 4,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,74
+Summers,PRECINCT 9,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,72
+Summers,PRECINCT 11,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,134
+Summers,PRECINCT 28,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,2
+Summers,PRECINCT 30,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,125
+Summers,PRECINCT 31,HOUSE OF DELEGATES, 40th District,DEM,BECKY CRABTREE,48
+Summers,PRECINCT 1,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,16
+Summers,PRECINCT 4,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,4
+Summers,PRECINCT 9,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,1
+Summers,PRECINCT 11,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,12
+Summers,PRECINCT 28,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,1
+Summers,PRECINCT 30,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,7
+Summers,PRECINCT 31,HOUSE OF DELEGATES, 40th District,LBN,JONATHON FAIN,7
+Summers,PRECINCT 12,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,98
+Summers,PRECINCT 15,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,187
+Summers,PRECINCT 17,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,152
+Summers,PRECINCT 22,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,269
+Summers,PRECINCT 23,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,322
+Summers,PRECINCT 27,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,271
+Summers,PRECINCT 32,HOUSE OF DELEGATES, 41st District,REP,JORDAN MAYNOR,117
+Summers,PRECINCT 1,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,368
+Summers,PRECINCT 4,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,135
+Summers,PRECINCT 9,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,113
+Summers,PRECINCT 11,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,302
+Summers,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,88
+Summers,PRECINCT 15,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,157
+Summers,PRECINCT 17,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,139
+Summers,PRECINCT 22,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,268
+Summers,PRECINCT 23,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,298
+Summers,PRECINCT 27,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,230
+Summers,PRECINCT 28,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,11
+Summers,PRECINCT 30,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,278
+Summers,PRECINCT 31,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,103
+Summers,PRECINCT 32,FOR CIRCUIT CLERK,,DEM,DEM STACY FORD,105
+Summers,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,344
+Summers,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,78
+Summers,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,70
+Summers,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,182
+Summers,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,94
+Summers,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,142
+Summers,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,127
+Summers,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,226
+Summers,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,274
+Summers,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,240
+Summers,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,16
+Summers,PRECINCT 30,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,230
+Summers,PRECINCT 31,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,105
+Summers,PRECINCT 32,FOR COUNTY COMMISSIONER,,REP,REP TED KULA,96
+Summers,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,167
+Summers,PRECINCT 4,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,87
+Summers,PRECINCT 9,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,80
+Summers,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,176
+Summers,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,40
+Summers,PRECINCT 15,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,91
+Summers,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,67
+Summers,PRECINCT 22,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,134
+Summers,PRECINCT 23,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,137
+Summers,PRECINCT 27,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,108
+Summers,PRECINCT 28,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,4
+Summers,PRECINCT 30,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,138
+Summers,PRECINCT 31,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,43
+Summers,PRECINCT 32,FOR COUNTY COMMISSIONER,,DEM,DEM JOSEPH M. BLANKENSHIP,46
+Summers,PRECINCT 1,FOR COUNTY CLERK,,REP,REP LYNN REED,358
+Summers,PRECINCT 4,FOR COUNTY CLERK,,REP,REP LYNN REED,81
+Summers,PRECINCT 9,FOR COUNTY CLERK,,REP,REP LYNN REED,69
+Summers,PRECINCT 11,FOR COUNTY CLERK,,REP,REP LYNN REED,203
+Summers,PRECINCT 12,FOR COUNTY CLERK,,REP,REP LYNN REED,83
+Summers,PRECINCT 15,FOR COUNTY CLERK,,REP,REP LYNN REED,159
+Summers,PRECINCT 17,FOR COUNTY CLERK,,REP,REP LYNN REED,127
+Summers,PRECINCT 22,FOR COUNTY CLERK,,REP,REP LYNN REED,255
+Summers,PRECINCT 23,FOR COUNTY CLERK,,REP,REP LYNN REED,283
+Summers,PRECINCT 27,FOR COUNTY CLERK,,REP,REP LYNN REED,251
+Summers,PRECINCT 28,FOR COUNTY CLERK,,REP,REP LYNN REED,19
+Summers,PRECINCT 30,FOR COUNTY CLERK,,REP,REP LYNN REED,256
+Summers,PRECINCT 31,FOR COUNTY CLERK,,REP,REP LYNN REED,100
+Summers,PRECINCT 32,FOR COUNTY CLERK,,REP,REP LYNN REED,101
+Summers,PRECINCT 1,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,154
+Summers,PRECINCT 4,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,79
+Summers,PRECINCT 9,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,75
+Summers,PRECINCT 11,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,153
+Summers,PRECINCT 12,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,46
+Summers,PRECINCT 15,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,72
+Summers,PRECINCT 17,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,67
+Summers,PRECINCT 22,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,99
+Summers,PRECINCT 23,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,125
+Summers,PRECINCT 27,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,100
+Summers,PRECINCT 28,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,1
+Summers,PRECINCT 30,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,114
+Summers,PRECINCT 31,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,50
+Summers,PRECINCT 32,FOR COUNTY CLERK,,DEM,DEM JACKIE JEFFRIES FARLEY,39
+Summers,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,186
+Summers,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,56
+Summers,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,56
+Summers,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,111
+Summers,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,46
+Summers,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Summers,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,65
+Summers,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,124
+Summers,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,163
+Summers,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,138
+Summers,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,9
+Summers,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,133
+Summers,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,47
+Summers,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,44
+Summers,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,301
+Summers,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Summers,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,78
+Summers,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,221
+Summers,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,82
+Summers,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,143
+Summers,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,118
+Summers,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,209
+Summers,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,226
+Summers,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,196
+Summers,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,9
+Summers,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,220
+Summers,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Summers,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,94
+Summers,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,179
+Summers,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Summers,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Summers,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,90
+Summers,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,40
+Summers,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,73
+Summers,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,63
+Summers,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,108
+Summers,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,118
+Summers,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,129
+Summers,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,7
+Summers,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,124
+Summers,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,48
+Summers,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,46
+Summers,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,330
+Summers,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,112
+Summers,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,87
+Summers,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,255
+Summers,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,96
+Summers,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,169
+Summers,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,132
+Summers,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,245
+Summers,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,281
+Summers,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,219
+Summers,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,12
+Summers,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,246
+Summers,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,106
+Summers,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,94
+Summers,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,189
+Summers,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,50
+Summers,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,56
+Summers,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,116
+Summers,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,45
+Summers,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,80
+Summers,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,68
+Summers,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,152
+Summers,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,154
+Summers,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,161
+Summers,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,8
+Summers,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,120
+Summers,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,51
+Summers,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,51
+Summers,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,311
+Summers,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,107
+Summers,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,77
+Summers,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,223
+Summers,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,83
+Summers,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Summers,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,119
+Summers,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,190
+Summers,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,235
+Summers,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,182
+Summers,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,11
+Summers,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,231
+Summers,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,98
+Summers,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,88
+Summers,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,205
+Summers,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,57
+Summers,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,56
+Summers,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,105
+Summers,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,49
+Summers,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,79
+Summers,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,81
+Summers,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,138
+Summers,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,145
+Summers,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,148
+Summers,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,13
+Summers,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,132
+Summers,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,55
+Summers,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,FOR,60
+Summers,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,305
+Summers,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,102
+Summers,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,81
+Summers,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,238
+Summers,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,87
+Summers,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,160
+Summers,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,111
+Summers,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,216
+Summers,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,253
+Summers,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,196
+Summers,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,6
+Summers,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,229
+Summers,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,99
+Summers,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,AGAINST,80

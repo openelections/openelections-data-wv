@@ -1,0 +1,507 @@
+county,precinct,office,district,party,candidate,votes
+Boone,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,111
+Boone,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,125
+Boone,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,114
+Boone,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,181
+Boone,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,106
+Boone,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,106
+Boone,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,217
+Boone,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,120
+Boone,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,160
+Boone,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,274
+Boone,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,151
+Boone,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,67
+Boone,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,119
+Boone,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,175
+Boone,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,140
+Boone,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,210
+Boone,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,168
+Boone,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,108
+Boone,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,210
+Boone,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,85
+Boone,PRECINCT 40,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,110
+Boone,PRECINCT 41,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,67
+Boone,PRECINCT 45,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,167
+Boone,PRECINCT 46,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,207
+Boone,PRECINCT 52,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,190
+Boone,PRECINCT 53,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,53
+Boone,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,43
+Boone,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,26
+Boone,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,40
+Boone,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,56
+Boone,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,26
+Boone,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Boone,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,94
+Boone,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,61
+Boone,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,63
+Boone,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,96
+Boone,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,48
+Boone,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,8
+Boone,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,83
+Boone,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,74
+Boone,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,24
+Boone,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,87
+Boone,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,74
+Boone,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,27
+Boone,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,70
+Boone,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,21
+Boone,PRECINCT 40,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Boone,PRECINCT 41,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,24
+Boone,PRECINCT 45,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,84
+Boone,PRECINCT 46,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,67
+Boone,PRECINCT 52,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,53
+Boone,PRECINCT 53,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,30
+Boone,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Boone,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,1
+Boone,PRECINCT 4,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Boone,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Boone,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Boone,PRECINCT 11,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Boone,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Boone,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Boone,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Boone,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Boone,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Boone,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,1
+Boone,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Boone,PRECINCT 22,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Boone,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Boone,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Boone,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Boone,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Boone,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,14
+Boone,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Boone,PRECINCT 40,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Boone,PRECINCT 41,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Boone,PRECINCT 45,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Boone,PRECINCT 46,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Boone,PRECINCT 52,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Boone,PRECINCT 53,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,0
+Boone,PRECINCT 2,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,86
+Boone,PRECINCT 3,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,105
+Boone,PRECINCT 4,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,98
+Boone,PRECINCT 7,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,124
+Boone,PRECINCT 9,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,90
+Boone,PRECINCT 11,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,77
+Boone,PRECINCT 12,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,117
+Boone,PRECINCT 13,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,64
+Boone,PRECINCT 14,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,112
+Boone,PRECINCT 15,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,205
+Boone,PRECINCT 17,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,113
+Boone,PRECINCT 18,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,48
+Boone,PRECINCT 19,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,85
+Boone,PRECINCT 22,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,153
+Boone,PRECINCT 23,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,118
+Boone,PRECINCT 25,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,187
+Boone,PRECINCT 30,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,130
+Boone,PRECINCT 31,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,94
+Boone,PRECINCT 32,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,168
+Boone,PRECINCT 36,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,70
+Boone,PRECINCT 40,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,82
+Boone,PRECINCT 41,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,50
+Boone,PRECINCT 45,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,114
+Boone,PRECINCT 46,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,159
+Boone,PRECINCT 52,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,127
+Boone,PRECINCT 53,STATE SENATOR, 7th Senatorial District,REP,MIKE STUART,30
+Boone,PRECINCT 2,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,85
+Boone,PRECINCT 3,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,58
+Boone,PRECINCT 4,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,75
+Boone,PRECINCT 7,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,147
+Boone,PRECINCT 9,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,59
+Boone,PRECINCT 11,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,60
+Boone,PRECINCT 12,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,222
+Boone,PRECINCT 13,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,128
+Boone,PRECINCT 14,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,140
+Boone,PRECINCT 15,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,197
+Boone,PRECINCT 17,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,90
+Boone,PRECINCT 18,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,29
+Boone,PRECINCT 19,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,151
+Boone,PRECINCT 22,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,114
+Boone,PRECINCT 23,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,53
+Boone,PRECINCT 25,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,134
+Boone,PRECINCT 30,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,125
+Boone,PRECINCT 31,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,60
+Boone,PRECINCT 32,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,135
+Boone,PRECINCT 36,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,44
+Boone,PRECINCT 40,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,72
+Boone,PRECINCT 41,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,47
+Boone,PRECINCT 45,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,162
+Boone,PRECINCT 46,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,139
+Boone,PRECINCT 52,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,129
+Boone,PRECINCT 53,STATE SENATOR, 7th Senatorial District,DEM,RON STOLLINGS,53
+Boone,PRECINCT 2,HOUSE OF DELEGATES, 31st District,REP,MARGITTA MAZZOCCHI,88
+Boone,PRECINCT 3,HOUSE OF DELEGATES, 31st District,REP,MARGITTA MAZZOCCHI,104
+Boone,PRECINCT 7,HOUSE OF DELEGATES, 31st District,REP,MARGITTA MAZZOCCHI,131
+Boone,PRECINCT 9,HOUSE OF DELEGATES, 31st District,REP,MARGITTA MAZZOCCHI,72
+Boone,PRECINCT 2,HOUSE OF DELEGATES, 31st District,DEM,KENNETH RAY WILSON,47
+Boone,PRECINCT 3,HOUSE OF DELEGATES, 31st District,DEM,KENNETH RAY WILSON,35
+Boone,PRECINCT 7,HOUSE OF DELEGATES, 31st District,DEM,KENNETH RAY WILSON,65
+Boone,PRECINCT 9,HOUSE OF DELEGATES, 31st District,DEM,KENNETH RAY WILSON,17
+Boone,PRECINCT 2,HOUSE OF DELEGATES, 31st District,IND,BRANNON D. AKERS,31
+Boone,PRECINCT 3,HOUSE OF DELEGATES, 31st District,IND,BRANNON D. AKERS,18
+Boone,PRECINCT 7,HOUSE OF DELEGATES, 31st District,IND,BRANNON D. AKERS,51
+Boone,PRECINCT 9,HOUSE OF DELEGATES, 31st District,IND,BRANNON D. AKERS,58
+Boone,PRECINCT 4,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,92
+Boone,PRECINCT 11,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,79
+Boone,PRECINCT 12,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,127
+Boone,PRECINCT 13,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,66
+Boone,PRECINCT 14,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,132
+Boone,PRECINCT 15,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,226
+Boone,PRECINCT 17,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,128
+Boone,PRECINCT 18,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,46
+Boone,PRECINCT 19,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,84
+Boone,PRECINCT 22,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,172
+Boone,PRECINCT 23,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,135
+Boone,PRECINCT 25,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,220
+Boone,PRECINCT 30,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,141
+Boone,PRECINCT 31,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,116
+Boone,PRECINCT 32,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,189
+Boone,PRECINCT 36,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,82
+Boone,PRECINCT 40,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,83
+Boone,PRECINCT 41,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,64
+Boone,PRECINCT 45,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,118
+Boone,PRECINCT 46,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,152
+Boone,PRECINCT 52,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,137
+Boone,PRECINCT 53,HOUSE OF DELEGATES, 32nd District,REP,JOSH HOLSTEIN,30
+Boone,PRECINCT 4,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,80
+Boone,PRECINCT 11,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,56
+Boone,PRECINCT 12,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,210
+Boone,PRECINCT 13,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,130
+Boone,PRECINCT 14,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,120
+Boone,PRECINCT 15,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,179
+Boone,PRECINCT 17,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,81
+Boone,PRECINCT 18,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,30
+Boone,PRECINCT 19,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,153
+Boone,PRECINCT 22,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,100
+Boone,PRECINCT 23,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,40
+Boone,PRECINCT 25,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,101
+Boone,PRECINCT 30,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,113
+Boone,PRECINCT 31,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,37
+Boone,PRECINCT 32,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,123
+Boone,PRECINCT 36,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,35
+Boone,PRECINCT 40,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,74
+Boone,PRECINCT 41,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,32
+Boone,PRECINCT 45,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,157
+Boone,PRECINCT 46,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,156
+Boone,PRECINCT 52,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,124
+Boone,PRECINCT 53,HOUSE OF DELEGATES, 32nd District,DEM,RODNEY A. MILLER,52
+Boone,PRECINCT 2,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,130
+Boone,PRECINCT 3,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,110
+Boone,PRECINCT 4,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,129
+Boone,PRECINCT 7,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,208
+Boone,PRECINCT 9,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,97
+Boone,PRECINCT 11,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,107
+Boone,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,266
+Boone,PRECINCT 13,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,167
+Boone,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,197
+Boone,PRECINCT 15,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,316
+Boone,PRECINCT 17,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,136
+Boone,PRECINCT 18,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,45
+Boone,PRECINCT 19,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,187
+Boone,PRECINCT 22,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,213
+Boone,PRECINCT 23,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,106
+Boone,PRECINCT 25,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,218
+Boone,PRECINCT 30,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,186
+Boone,PRECINCT 31,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,105
+Boone,PRECINCT 32,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,203
+Boone,PRECINCT 36,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,72
+Boone,PRECINCT 40,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,101
+Boone,PRECINCT 41,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,62
+Boone,PRECINCT 45,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,225
+Boone,PRECINCT 46,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,221
+Boone,PRECINCT 52,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,185
+Boone,PRECINCT 53,FOR CIRCUIT CLERK,,DEM,DEM SAM R. BURNS,73
+Boone,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,88
+Boone,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,100
+Boone,PRECINCT 4,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,105
+Boone,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,157
+Boone,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,89
+Boone,PRECINCT 11,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,78
+Boone,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,144
+Boone,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,90
+Boone,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,126
+Boone,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,218
+Boone,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,115
+Boone,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,52
+Boone,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,100
+Boone,PRECINCT 22,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,135
+Boone,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,129
+Boone,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,245
+Boone,PRECINCT 30,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,116
+Boone,PRECINCT 31,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,95
+Boone,PRECINCT 32,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,150
+Boone,PRECINCT 36,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,54
+Boone,PRECINCT 40,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,85
+Boone,PRECINCT 41,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,66
+Boone,PRECINCT 45,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,140
+Boone,PRECINCT 46,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,160
+Boone,PRECINCT 52,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,145
+Boone,PRECINCT 53,FOR COUNTY COMMISSIONER,,REP,REP JEFF PETRY,45
+Boone,PRECINCT 2,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,80
+Boone,PRECINCT 3,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,56
+Boone,PRECINCT 4,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,58
+Boone,PRECINCT 7,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,105
+Boone,PRECINCT 9,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,52
+Boone,PRECINCT 11,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,54
+Boone,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,180
+Boone,PRECINCT 13,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,97
+Boone,PRECINCT 14,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,118
+Boone,PRECINCT 15,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,170
+Boone,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,84
+Boone,PRECINCT 18,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,16
+Boone,PRECINCT 19,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,124
+Boone,PRECINCT 22,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,135
+Boone,PRECINCT 23,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,42
+Boone,PRECINCT 25,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,81
+Boone,PRECINCT 30,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,139
+Boone,PRECINCT 31,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,59
+Boone,PRECINCT 32,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,156
+Boone,PRECINCT 36,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,63
+Boone,PRECINCT 40,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,67
+Boone,PRECINCT 41,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,34
+Boone,PRECINCT 45,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,129
+Boone,PRECINCT 46,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,139
+Boone,PRECINCT 52,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,106
+Boone,PRECINCT 53,FOR COUNTY COMMISSIONER,,DEM,DEM CRAIG BRATCHER,36
+Boone,PRECINCT 2,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,120
+Boone,PRECINCT 3,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,104
+Boone,PRECINCT 4,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,119
+Boone,PRECINCT 7,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,210
+Boone,PRECINCT 9,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,91
+Boone,PRECINCT 11,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,111
+Boone,PRECINCT 12,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,248
+Boone,PRECINCT 13,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,158
+Boone,PRECINCT 14,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,182
+Boone,PRECINCT 15,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,300
+Boone,PRECINCT 17,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,141
+Boone,PRECINCT 18,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,41
+Boone,PRECINCT 19,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,177
+Boone,PRECINCT 22,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,225
+Boone,PRECINCT 23,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,133
+Boone,PRECINCT 25,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,279
+Boone,PRECINCT 30,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,213
+Boone,PRECINCT 31,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,127
+Boone,PRECINCT 32,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,255
+Boone,PRECINCT 36,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,87
+Boone,PRECINCT 40,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,114
+Boone,PRECINCT 41,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,74
+Boone,PRECINCT 45,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,208
+Boone,PRECINCT 46,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,222
+Boone,PRECINCT 52,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,193
+Boone,PRECINCT 53,FOR COUNTY CLERK,,DEM,DEM ROGER TONEY,72
+Boone,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,57
+Boone,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,60
+Boone,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,76
+Boone,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,102
+Boone,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,52
+Boone,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,44
+Boone,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,102
+Boone,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,62
+Boone,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Boone,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,135
+Boone,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,77
+Boone,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,25
+Boone,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,68
+Boone,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,96
+Boone,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Boone,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,115
+Boone,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Boone,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,61
+Boone,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,99
+Boone,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,43
+Boone,PRECINCT 40,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,49
+Boone,PRECINCT 41,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,36
+Boone,PRECINCT 45,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,92
+Boone,PRECINCT 46,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,94
+Boone,PRECINCT 52,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,102
+Boone,PRECINCT 53,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,28
+Boone,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Boone,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,96
+Boone,PRECINCT 4,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,81
+Boone,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,157
+Boone,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,85
+Boone,PRECINCT 11,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,91
+Boone,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,217
+Boone,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,121
+Boone,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,144
+Boone,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,244
+Boone,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,126
+Boone,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,45
+Boone,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,161
+Boone,PRECINCT 22,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,165
+Boone,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,97
+Boone,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,186
+Boone,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,152
+Boone,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,85
+Boone,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,190
+Boone,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,68
+Boone,PRECINCT 40,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,104
+Boone,PRECINCT 41,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,57
+Boone,PRECINCT 45,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,175
+Boone,PRECINCT 46,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,182
+Boone,PRECINCT 52,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,139
+Boone,PRECINCT 53,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,54
+Boone,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Boone,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,49
+Boone,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Boone,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,85
+Boone,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,51
+Boone,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,46
+Boone,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,79
+Boone,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,49
+Boone,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,77
+Boone,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,118
+Boone,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,64
+Boone,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,21
+Boone,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,77
+Boone,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Boone,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Boone,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,120
+Boone,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Boone,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,52
+Boone,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,72
+Boone,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,35
+Boone,PRECINCT 40,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,33
+Boone,PRECINCT 41,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,31
+Boone,PRECINCT 45,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Boone,PRECINCT 46,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,85
+Boone,PRECINCT 52,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,71
+Boone,PRECINCT 53,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,29
+Boone,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Boone,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,108
+Boone,PRECINCT 4,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,99
+Boone,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,186
+Boone,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,92
+Boone,PRECINCT 11,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,94
+Boone,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,252
+Boone,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,143
+Boone,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,167
+Boone,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,268
+Boone,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,141
+Boone,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,52
+Boone,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,159
+Boone,PRECINCT 22,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,195
+Boone,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,101
+Boone,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,190
+Boone,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,186
+Boone,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,96
+Boone,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,227
+Boone,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,78
+Boone,PRECINCT 40,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,124
+Boone,PRECINCT 41,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,66
+Boone,PRECINCT 45,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,202
+Boone,PRECINCT 46,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,207
+Boone,PRECINCT 52,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,183
+Boone,PRECINCT 53,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,54
+Boone,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,48
+Boone,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Boone,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,65
+Boone,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,97
+Boone,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Boone,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,49
+Boone,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,109
+Boone,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,64
+Boone,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,90
+Boone,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,155
+Boone,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,75
+Boone,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,36
+Boone,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,72
+Boone,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Boone,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,65
+Boone,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,118
+Boone,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,92
+Boone,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,54
+Boone,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,102
+Boone,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Boone,PRECINCT 40,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Boone,PRECINCT 41,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,37
+Boone,PRECINCT 45,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,91
+Boone,PRECINCT 46,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,108
+Boone,PRECINCT 52,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,116
+Boone,PRECINCT 53,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,30
+Boone,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,110
+Boone,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,109
+Boone,PRECINCT 4,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,94
+Boone,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,159
+Boone,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,81
+Boone,PRECINCT 11,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,85
+Boone,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,211
+Boone,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,121
+Boone,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,149
+Boone,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,216
+Boone,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,122
+Boone,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,37
+Boone,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,152
+Boone,PRECINCT 22,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Boone,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,98
+Boone,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Boone,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,155
+Boone,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,91
+Boone,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,190
+Boone,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,67
+Boone,PRECINCT 40,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,107
+Boone,PRECINCT 41,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,56
+Boone,PRECINCT 45,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,175
+Boone,PRECINCT 46,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,179
+Boone,PRECINCT 52,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,123
+Boone,PRECINCT 53,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,52
+Boone,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,64
+Boone,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,60
+Boone,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,FOR,70
+Boone,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,111
+Boone,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,70
+Boone,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Boone,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,99
+Boone,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,62
+Boone,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Boone,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,151
+Boone,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,81
+Boone,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,35
+Boone,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,85
+Boone,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,FOR,89
+Boone,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,75
+Boone,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,142
+Boone,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Boone,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,64
+Boone,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,FOR,94
+Boone,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,FOR,47
+Boone,PRECINCT 40,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Boone,PRECINCT 41,Amendment No. 4: Education Accountability Amendment,,,FOR,38
+Boone,PRECINCT 45,Amendment No. 4: Education Accountability Amendment,,,FOR,86
+Boone,PRECINCT 46,Amendment No. 4: Education Accountability Amendment,,,FOR,123
+Boone,PRECINCT 52,Amendment No. 4: Education Accountability Amendment,,,FOR,97
+Boone,PRECINCT 53,Amendment No. 4: Education Accountability Amendment,,,FOR,32
+Boone,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,100
+Boone,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,98
+Boone,PRECINCT 4,Amendment No. 4: Education Accountability Amendment,,,AGAINST,92
+Boone,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,155
+Boone,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,75
+Boone,PRECINCT 11,Amendment No. 4: Education Accountability Amendment,,,AGAINST,84
+Boone,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,229
+Boone,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,128
+Boone,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,142
+Boone,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,231
+Boone,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,124
+Boone,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,41
+Boone,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,145
+Boone,PRECINCT 22,Amendment No. 4: Education Accountability Amendment,,,AGAINST,177
+Boone,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,93
+Boone,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,164
+Boone,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,162
+Boone,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,82
+Boone,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,AGAINST,200
+Boone,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,AGAINST,65
+Boone,PRECINCT 40,Amendment No. 4: Education Accountability Amendment,,,AGAINST,115
+Boone,PRECINCT 41,Amendment No. 4: Education Accountability Amendment,,,AGAINST,56
+Boone,PRECINCT 45,Amendment No. 4: Education Accountability Amendment,,,AGAINST,186
+Boone,PRECINCT 46,Amendment No. 4: Education Accountability Amendment,,,AGAINST,165
+Boone,PRECINCT 52,Amendment No. 4: Education Accountability Amendment,,,AGAINST,152
+Boone,PRECINCT 53,Amendment No. 4: Education Accountability Amendment,,,AGAINST,51
+Boone,PRECINCT 12,EXCESS LEVY MADISON,,,FOR,209
+Boone,PRECINCT 13,EXCESS LEVY MADISON,,,FOR,117
+Boone,PRECINCT 19,EXCESS LEVY MADISON,,,FOR,129
+Boone,PRECINCT 53,EXCESS LEVY MADISON,,,FOR,44
+Boone,PRECINCT 12,EXCESS LEVY MADISON,,,AGAINST,112
+Boone,PRECINCT 13,EXCESS LEVY MADISON,,,AGAINST,69
+Boone,PRECINCT 19,EXCESS LEVY MADISON,,,AGAINST,104
+Boone,PRECINCT 53,EXCESS LEVY MADISON,,,AGAINST,39

@@ -1,0 +1,191 @@
+county,precinct,office,district,party,candidate,votes
+Gilmer,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,166
+Gilmer,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,104
+Gilmer,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,84
+Gilmer,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,91
+Gilmer,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,88
+Gilmer,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,223
+Gilmer,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,166
+Gilmer,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,62
+Gilmer,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,76
+Gilmer,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,65
+Gilmer,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,38
+Gilmer,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,37
+Gilmer,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,24
+Gilmer,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,39
+Gilmer,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,21
+Gilmer,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,120
+Gilmer,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,68
+Gilmer,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,34
+Gilmer,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,10
+Gilmer,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,26
+Gilmer,PRECINCT 1,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Gilmer,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Gilmer,PRECINCT 6,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,3
+Gilmer,PRECINCT 12,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Gilmer,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Gilmer,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,19
+Gilmer,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Gilmer,PRECINCT 24,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Gilmer,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,1
+Gilmer,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,1
+Gilmer,PRECINCT 1,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,154
+Gilmer,PRECINCT 5,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,99
+Gilmer,PRECINCT 6,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,70
+Gilmer,PRECINCT 12,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,80
+Gilmer,PRECINCT 13,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,79
+Gilmer,PRECINCT 16,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,206
+Gilmer,PRECINCT 17,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,164
+Gilmer,PRECINCT 24,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,62
+Gilmer,PRECINCT 27,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,76
+Gilmer,PRECINCT 31,STATE SENATOR, 12th Senatorial District,REP,BEN QUEEN,60
+Gilmer,PRECINCT 1,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,48
+Gilmer,PRECINCT 5,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,30
+Gilmer,PRECINCT 6,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,30
+Gilmer,PRECINCT 12,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,40
+Gilmer,PRECINCT 13,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,31
+Gilmer,PRECINCT 16,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,127
+Gilmer,PRECINCT 17,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,76
+Gilmer,PRECINCT 24,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,37
+Gilmer,PRECINCT 27,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,8
+Gilmer,PRECINCT 31,STATE SENATOR, 12th Senatorial District,LBN,AUSTIN LYNCH,23
+Gilmer,PRECINCT 1,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,183
+Gilmer,PRECINCT 6,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,88
+Gilmer,PRECINCT 12,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,107
+Gilmer,PRECINCT 13,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,93
+Gilmer,PRECINCT 24,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,78
+Gilmer,PRECINCT 27,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,79
+Gilmer,PRECINCT 31,HOUSE OF DELEGATES, 62nd District,REP,ROGER HANSHAW,76
+Gilmer,PRECINCT 1,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,16
+Gilmer,PRECINCT 6,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,16
+Gilmer,PRECINCT 12,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,23
+Gilmer,PRECINCT 13,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,23
+Gilmer,PRECINCT 24,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,19
+Gilmer,PRECINCT 27,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,8
+Gilmer,PRECINCT 31,HOUSE OF DELEGATES, 62nd District,ACT,LAURA MCGINNIS,13
+Gilmer,PRECINCT 5,HOUSE OF DELEGATES, 63rd District,REP,LORI COWGER DITTMAN,118
+Gilmer,PRECINCT 16,HOUSE OF DELEGATES, 63rd District,REP,LORI COWGER DITTMAN,228
+Gilmer,PRECINCT 17,HOUSE OF DELEGATES, 63rd District,REP,LORI COWGER DITTMAN,166
+Gilmer,PRECINCT 5,HOUSE OF DELEGATES, 63rd District,DEM,KEVIN CARPENTER,43
+Gilmer,PRECINCT 16,HOUSE OF DELEGATES, 63rd District,DEM,KEVIN CARPENTER,144
+Gilmer,PRECINCT 17,HOUSE OF DELEGATES, 63rd District,DEM,KEVIN CARPENTER,97
+Gilmer,PRECINCT 1,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,154
+Gilmer,PRECINCT 5,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,111
+Gilmer,PRECINCT 6,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,72
+Gilmer,PRECINCT 12,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,116
+Gilmer,PRECINCT 13,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,89
+Gilmer,PRECINCT 16,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,307
+Gilmer,PRECINCT 17,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,208
+Gilmer,PRECINCT 24,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,98
+Gilmer,PRECINCT 27,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,66
+Gilmer,PRECINCT 31,FOR CIRCUIT CLERK,,DEM,DEM PAMELA STARSICK,91
+Gilmer,PRECINCT 1,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,117
+Gilmer,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,55
+Gilmer,PRECINCT 6,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,54
+Gilmer,PRECINCT 12,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,63
+Gilmer,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,61
+Gilmer,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,159
+Gilmer,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,120
+Gilmer,PRECINCT 24,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,53
+Gilmer,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,66
+Gilmer,PRECINCT 31,FOR COUNTY COMMISSIONER,,REP,REP DOUGLAS COTTRILL,43
+Gilmer,PRECINCT 1,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,106
+Gilmer,PRECINCT 5,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,108
+Gilmer,PRECINCT 6,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,56
+Gilmer,PRECINCT 12,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,85
+Gilmer,PRECINCT 13,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,58
+Gilmer,PRECINCT 16,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,219
+Gilmer,PRECINCT 17,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,154
+Gilmer,PRECINCT 24,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,60
+Gilmer,PRECINCT 27,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,31
+Gilmer,PRECINCT 31,FOR COUNTY COMMISSIONER,,DEM,DEM JACQUELINE HASHMAN,55
+Gilmer,PRECINCT 1,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,204
+Gilmer,PRECINCT 5,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,131
+Gilmer,PRECINCT 6,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,103
+Gilmer,PRECINCT 12,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,133
+Gilmer,PRECINCT 13,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,111
+Gilmer,PRECINCT 16,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,332
+Gilmer,PRECINCT 17,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,234
+Gilmer,PRECINCT 24,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,108
+Gilmer,PRECINCT 27,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,86
+Gilmer,PRECINCT 31,FOR COUNTY CLERK,,REP,REP JEAN BUTCHER,91
+Gilmer,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,67
+Gilmer,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,34
+Gilmer,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,45
+Gilmer,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,47
+Gilmer,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,34
+Gilmer,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,131
+Gilmer,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,64
+Gilmer,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,38
+Gilmer,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,35
+Gilmer,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,28
+Gilmer,PRECINCT 1,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,137
+Gilmer,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,125
+Gilmer,PRECINCT 6,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,67
+Gilmer,PRECINCT 12,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,99
+Gilmer,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,77
+Gilmer,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,230
+Gilmer,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,195
+Gilmer,PRECINCT 24,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,70
+Gilmer,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,57
+Gilmer,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,68
+Gilmer,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,64
+Gilmer,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,34
+Gilmer,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,21
+Gilmer,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,36
+Gilmer,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,29
+Gilmer,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,80
+Gilmer,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,47
+Gilmer,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,26
+Gilmer,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,37
+Gilmer,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,17
+Gilmer,PRECINCT 1,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,157
+Gilmer,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,131
+Gilmer,PRECINCT 6,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,93
+Gilmer,PRECINCT 12,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,114
+Gilmer,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,91
+Gilmer,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,294
+Gilmer,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,217
+Gilmer,PRECINCT 24,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,88
+Gilmer,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,58
+Gilmer,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,80
+Gilmer,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,60
+Gilmer,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Gilmer,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Gilmer,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,44
+Gilmer,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,29
+Gilmer,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,158
+Gilmer,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,77
+Gilmer,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,32
+Gilmer,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,36
+Gilmer,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,30
+Gilmer,PRECINCT 1,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,146
+Gilmer,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,119
+Gilmer,PRECINCT 6,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,67
+Gilmer,PRECINCT 12,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,102
+Gilmer,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,82
+Gilmer,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,203
+Gilmer,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,184
+Gilmer,PRECINCT 24,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,77
+Gilmer,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,55
+Gilmer,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,63
+Gilmer,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,FOR,82
+Gilmer,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,41
+Gilmer,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,FOR,35
+Gilmer,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,FOR,52
+Gilmer,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,34
+Gilmer,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,122
+Gilmer,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,82
+Gilmer,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,FOR,35
+Gilmer,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,42
+Gilmer,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,31
+Gilmer,PRECINCT 1,Amendment No. 4: Education Accountability Amendment,,,AGAINST,134
+Gilmer,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,122
+Gilmer,PRECINCT 6,Amendment No. 4: Education Accountability Amendment,,,AGAINST,75
+Gilmer,PRECINCT 12,Amendment No. 4: Education Accountability Amendment,,,AGAINST,99
+Gilmer,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,82
+Gilmer,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,252
+Gilmer,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,185
+Gilmer,PRECINCT 24,Amendment No. 4: Education Accountability Amendment,,,AGAINST,77
+Gilmer,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,52
+Gilmer,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,66

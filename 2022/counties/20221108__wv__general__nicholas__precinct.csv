@@ -1,0 +1,552 @@
+county,precinct,office,district,party,candidate,votes
+Nicholas,PRECINCT 1A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,104
+Nicholas,PRECINCT 1B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,89
+Nicholas,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,154
+Nicholas,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,136
+Nicholas,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,134
+Nicholas,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,109
+Nicholas,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,80
+Nicholas,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,54
+Nicholas,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,119
+Nicholas,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,208
+Nicholas,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,202
+Nicholas,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,210
+Nicholas,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,216
+Nicholas,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,362
+Nicholas,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,129
+Nicholas,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,240
+Nicholas,PRECINCT 21A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,222
+Nicholas,PRECINCT 21B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,150
+Nicholas,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,35
+Nicholas,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,73
+Nicholas,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,117
+Nicholas,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,100
+Nicholas,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,158
+Nicholas,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,304
+Nicholas,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,91
+Nicholas,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,78
+Nicholas,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,123
+Nicholas,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,349
+Nicholas,PRECINCT 35,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,319
+Nicholas,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,REP,CAROL MILLER,78
+Nicholas,PRECINCT 1A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,47
+Nicholas,PRECINCT 1B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,19
+Nicholas,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,45
+Nicholas,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,28
+Nicholas,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,67
+Nicholas,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,51
+Nicholas,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,41
+Nicholas,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,25
+Nicholas,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,16
+Nicholas,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,63
+Nicholas,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,52
+Nicholas,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,42
+Nicholas,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,64
+Nicholas,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,137
+Nicholas,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,29
+Nicholas,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,101
+Nicholas,PRECINCT 21A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,67
+Nicholas,PRECINCT 21B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,55
+Nicholas,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,8
+Nicholas,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,27
+Nicholas,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,33
+Nicholas,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,12
+Nicholas,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,42
+Nicholas,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,78
+Nicholas,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,32
+Nicholas,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,17
+Nicholas,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,23
+Nicholas,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,76
+Nicholas,PRECINCT 35,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,78
+Nicholas,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,DEM,MR. LACY WATSON,10
+Nicholas,PRECINCT 1A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Nicholas,PRECINCT 1B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,1
+Nicholas,PRECINCT 2,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Nicholas,PRECINCT 3,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Nicholas,PRECINCT 5,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Nicholas,PRECINCT 7,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,7
+Nicholas,PRECINCT 8,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Nicholas,PRECINCT 9,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Nicholas,PRECINCT 13,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Nicholas,PRECINCT 14,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Nicholas,PRECINCT 15,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,11
+Nicholas,PRECINCT 16,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Nicholas,PRECINCT 17,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,10
+Nicholas,PRECINCT 18,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Nicholas,PRECINCT 19,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,8
+Nicholas,PRECINCT 20,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Nicholas,PRECINCT 21A,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,13
+Nicholas,PRECINCT 21B,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Nicholas,PRECINCT 23,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,1
+Nicholas,PRECINCT 25,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Nicholas,PRECINCT 26,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,12
+Nicholas,PRECINCT 27,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,5
+Nicholas,PRECINCT 28,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Nicholas,PRECINCT 29,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,17
+Nicholas,PRECINCT 30,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,6
+Nicholas,PRECINCT 31,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,4
+Nicholas,PRECINCT 32,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,9
+Nicholas,PRECINCT 33,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,16
+Nicholas,PRECINCT 35,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,15
+Nicholas,PRECINCT 36,U.S. HOUSE OF REPRESENTATIVES, 1st Congressional District,IND,BELINDA FOX-SPENCER,2
+Nicholas,PRECINCT 1A,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,110
+Nicholas,PRECINCT 1B,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,76
+Nicholas,PRECINCT 2,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,147
+Nicholas,PRECINCT 3,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,121
+Nicholas,PRECINCT 5,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,105
+Nicholas,PRECINCT 7,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,102
+Nicholas,PRECINCT 8,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,58
+Nicholas,PRECINCT 9,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,40
+Nicholas,PRECINCT 13,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,105
+Nicholas,PRECINCT 14,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,206
+Nicholas,PRECINCT 15,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,186
+Nicholas,PRECINCT 16,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,187
+Nicholas,PRECINCT 17,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,201
+Nicholas,PRECINCT 18,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,325
+Nicholas,PRECINCT 19,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,118
+Nicholas,PRECINCT 20,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,237
+Nicholas,PRECINCT 21A,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,208
+Nicholas,PRECINCT 21B,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,143
+Nicholas,PRECINCT 23,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,37
+Nicholas,PRECINCT 25,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,72
+Nicholas,PRECINCT 26,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,116
+Nicholas,PRECINCT 27,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,87
+Nicholas,PRECINCT 28,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,146
+Nicholas,PRECINCT 29,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,292
+Nicholas,PRECINCT 30,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,84
+Nicholas,PRECINCT 31,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,76
+Nicholas,PRECINCT 32,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,117
+Nicholas,PRECINCT 33,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,329
+Nicholas,PRECINCT 35,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,289
+Nicholas,PRECINCT 36,STATE SENATOR, 10th Senatorial District,REP,VINCE DEEDS,74
+Nicholas,PRECINCT 1A,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,50
+Nicholas,PRECINCT 1B,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,34
+Nicholas,PRECINCT 2,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,59
+Nicholas,PRECINCT 3,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,46
+Nicholas,PRECINCT 5,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,105
+Nicholas,PRECINCT 7,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,71
+Nicholas,PRECINCT 8,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,69
+Nicholas,PRECINCT 9,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,45
+Nicholas,PRECINCT 13,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,30
+Nicholas,PRECINCT 14,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,66
+Nicholas,PRECINCT 15,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,77
+Nicholas,PRECINCT 16,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,71
+Nicholas,PRECINCT 17,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,86
+Nicholas,PRECINCT 18,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,195
+Nicholas,PRECINCT 19,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,40
+Nicholas,PRECINCT 20,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,124
+Nicholas,PRECINCT 21A,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,91
+Nicholas,PRECINCT 21B,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,72
+Nicholas,PRECINCT 23,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,9
+Nicholas,PRECINCT 25,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,27
+Nicholas,PRECINCT 26,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,47
+Nicholas,PRECINCT 27,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,24
+Nicholas,PRECINCT 28,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,64
+Nicholas,PRECINCT 29,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,103
+Nicholas,PRECINCT 30,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,40
+Nicholas,PRECINCT 31,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,19
+Nicholas,PRECINCT 32,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,32
+Nicholas,PRECINCT 33,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,99
+Nicholas,PRECINCT 35,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,117
+Nicholas,PRECINCT 36,STATE SENATOR, 10th Senatorial District,DEM,STEPHEN BALDWIN,19
+Nicholas,PRECINCT 1A,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,9
+Nicholas,PRECINCT 1B,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Nicholas,PRECINCT 2,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Nicholas,PRECINCT 3,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Nicholas,PRECINCT 5,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,5
+Nicholas,PRECINCT 7,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Nicholas,PRECINCT 8,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Nicholas,PRECINCT 9,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,3
+Nicholas,PRECINCT 13,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,11
+Nicholas,PRECINCT 14,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,6
+Nicholas,PRECINCT 15,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,5
+Nicholas,PRECINCT 16,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Nicholas,PRECINCT 17,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 18,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,13
+Nicholas,PRECINCT 19,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,6
+Nicholas,PRECINCT 20,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 21A,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 21B,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Nicholas,PRECINCT 23,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,0
+Nicholas,PRECINCT 25,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 26,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Nicholas,PRECINCT 27,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Nicholas,PRECINCT 28,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,4
+Nicholas,PRECINCT 29,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 30,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 31,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,2
+Nicholas,PRECINCT 32,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 33,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,14
+Nicholas,PRECINCT 35,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,7
+Nicholas,PRECINCT 36,STATE SENATOR, 10th Senatorial District,IND,AARON RANSOM,1
+Nicholas,PRECINCT 1A,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,126
+Nicholas,PRECINCT 1B,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,89
+Nicholas,PRECINCT 2,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,146
+Nicholas,PRECINCT 3,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,130
+Nicholas,PRECINCT 5,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,127
+Nicholas,PRECINCT 7,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,130
+Nicholas,PRECINCT 8,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,79
+Nicholas,PRECINCT 9,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,58
+Nicholas,PRECINCT 17,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,200
+Nicholas,PRECINCT 26,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,121
+Nicholas,PRECINCT 30,HOUSE OF DELEGATES, 48th District,REP,CALEB L. HANNA,82
+Nicholas,PRECINCT 1A,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,45
+Nicholas,PRECINCT 1B,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,25
+Nicholas,PRECINCT 2,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,60
+Nicholas,PRECINCT 3,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,43
+Nicholas,PRECINCT 5,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,85
+Nicholas,PRECINCT 7,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,49
+Nicholas,PRECINCT 8,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,51
+Nicholas,PRECINCT 9,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,30
+Nicholas,PRECINCT 17,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,84
+Nicholas,PRECINCT 26,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,43
+Nicholas,PRECINCT 30,HOUSE OF DELEGATES, 48th District,DEM,ERIC HENSON SEBERT,47
+Nicholas,PRECINCT 13,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,126
+Nicholas,PRECINCT 14,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,244
+Nicholas,PRECINCT 15,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,217
+Nicholas,PRECINCT 16,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,206
+Nicholas,PRECINCT 18,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,430
+Nicholas,PRECINCT 19,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,132
+Nicholas,PRECINCT 20,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,286
+Nicholas,PRECINCT 21A,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,250
+Nicholas,PRECINCT 21B,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,164
+Nicholas,PRECINCT 23,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,40
+Nicholas,PRECINCT 25,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,90
+Nicholas,PRECINCT 27,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,103
+Nicholas,PRECINCT 28,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,172
+Nicholas,PRECINCT 29,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,321
+Nicholas,PRECINCT 31,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,83
+Nicholas,PRECINCT 32,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,143
+Nicholas,PRECINCT 33,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,371
+Nicholas,PRECINCT 35,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,350
+Nicholas,PRECINCT 36,HOUSE OF DELEGATES, 49th District,REP,HEATHER TULLY,86
+Nicholas,PRECINCT 1A,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,119
+Nicholas,PRECINCT 1B,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,76
+Nicholas,PRECINCT 2,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,142
+Nicholas,PRECINCT 3,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,107
+Nicholas,PRECINCT 5,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,131
+Nicholas,PRECINCT 7,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,120
+Nicholas,PRECINCT 8,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,82
+Nicholas,PRECINCT 9,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,63
+Nicholas,PRECINCT 13,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,105
+Nicholas,PRECINCT 14,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,202
+Nicholas,PRECINCT 15,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,195
+Nicholas,PRECINCT 16,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,183
+Nicholas,PRECINCT 17,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,190
+Nicholas,PRECINCT 18,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,393
+Nicholas,PRECINCT 19,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,116
+Nicholas,PRECINCT 20,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,275
+Nicholas,PRECINCT 21A,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,232
+Nicholas,PRECINCT 21B,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,161
+Nicholas,PRECINCT 23,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,30
+Nicholas,PRECINCT 25,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,79
+Nicholas,PRECINCT 26,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,115
+Nicholas,PRECINCT 27,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,81
+Nicholas,PRECINCT 28,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,137
+Nicholas,PRECINCT 29,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,287
+Nicholas,PRECINCT 30,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,77
+Nicholas,PRECINCT 31,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,65
+Nicholas,PRECINCT 32,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,119
+Nicholas,PRECINCT 33,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,304
+Nicholas,PRECINCT 35,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,274
+Nicholas,PRECINCT 36,FOR CIRCUIT CLERK,,DEM,DEM DEBORAH  SWEENEY FACEMIRE,60
+Nicholas,PRECINCT 1A,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,137
+Nicholas,PRECINCT 1B,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,86
+Nicholas,PRECINCT 2,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,172
+Nicholas,PRECINCT 3,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,141
+Nicholas,PRECINCT 5,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,143
+Nicholas,PRECINCT 7,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,146
+Nicholas,PRECINCT 8,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,95
+Nicholas,PRECINCT 9,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,76
+Nicholas,PRECINCT 13,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,130
+Nicholas,PRECINCT 14,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,236
+Nicholas,PRECINCT 15,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,225
+Nicholas,PRECINCT 16,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,204
+Nicholas,PRECINCT 17,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,239
+Nicholas,PRECINCT 18,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,442
+Nicholas,PRECINCT 19,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,137
+Nicholas,PRECINCT 20,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,290
+Nicholas,PRECINCT 21A,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,263
+Nicholas,PRECINCT 21B,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,166
+Nicholas,PRECINCT 23,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,40
+Nicholas,PRECINCT 25,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,92
+Nicholas,PRECINCT 26,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,137
+Nicholas,PRECINCT 27,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,105
+Nicholas,PRECINCT 28,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,182
+Nicholas,PRECINCT 29,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,332
+Nicholas,PRECINCT 30,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,106
+Nicholas,PRECINCT 31,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,86
+Nicholas,PRECINCT 32,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,140
+Nicholas,PRECINCT 33,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,371
+Nicholas,PRECINCT 35,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,354
+Nicholas,PRECINCT 36,FOR COUNTY COMMISSIONER,,REP,REP GARY E ROBERTS,84
+Nicholas,PRECINCT 1A,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,139
+Nicholas,PRECINCT 1B,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,94
+Nicholas,PRECINCT 2,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,176
+Nicholas,PRECINCT 3,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,138
+Nicholas,PRECINCT 5,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,162
+Nicholas,PRECINCT 7,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,141
+Nicholas,PRECINCT 8,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,108
+Nicholas,PRECINCT 9,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,76
+Nicholas,PRECINCT 13,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,141
+Nicholas,PRECINCT 14,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,241
+Nicholas,PRECINCT 15,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,227
+Nicholas,PRECINCT 16,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,225
+Nicholas,PRECINCT 17,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,254
+Nicholas,PRECINCT 18,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,447
+Nicholas,PRECINCT 19,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,145
+Nicholas,PRECINCT 20,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,309
+Nicholas,PRECINCT 21A,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,271
+Nicholas,PRECINCT 21B,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,179
+Nicholas,PRECINCT 23,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,41
+Nicholas,PRECINCT 25,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,96
+Nicholas,PRECINCT 26,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,140
+Nicholas,PRECINCT 27,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,107
+Nicholas,PRECINCT 28,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,183
+Nicholas,PRECINCT 29,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,345
+Nicholas,PRECINCT 30,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,107
+Nicholas,PRECINCT 31,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,87
+Nicholas,PRECINCT 32,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,147
+Nicholas,PRECINCT 33,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,386
+Nicholas,PRECINCT 35,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,372
+Nicholas,PRECINCT 36,FOR COUNTY CLERK,,REP,REP ROBERT PAINTER II,91
+Nicholas,PRECINCT 1A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,65
+Nicholas,PRECINCT 1B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,42
+Nicholas,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,66
+Nicholas,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,59
+Nicholas,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,79
+Nicholas,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,49
+Nicholas,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,41
+Nicholas,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,24
+Nicholas,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,51
+Nicholas,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,89
+Nicholas,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,96
+Nicholas,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,95
+Nicholas,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,101
+Nicholas,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,195
+Nicholas,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,54
+Nicholas,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,144
+Nicholas,PRECINCT 21A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,99
+Nicholas,PRECINCT 21B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,73
+Nicholas,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,13
+Nicholas,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,45
+Nicholas,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,52
+Nicholas,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,28
+Nicholas,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,74
+Nicholas,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,174
+Nicholas,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,37
+Nicholas,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,33
+Nicholas,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,59
+Nicholas,PRECINCT 33,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,182
+Nicholas,PRECINCT 35,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,140
+Nicholas,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,33
+Nicholas,PRECINCT 1A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,102
+Nicholas,PRECINCT 1B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,66
+Nicholas,PRECINCT 2,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,135
+Nicholas,PRECINCT 3,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,111
+Nicholas,PRECINCT 5,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,128
+Nicholas,PRECINCT 7,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,118
+Nicholas,PRECINCT 8,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,90
+Nicholas,PRECINCT 9,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,61
+Nicholas,PRECINCT 13,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,92
+Nicholas,PRECINCT 14,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,182
+Nicholas,PRECINCT 15,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,170
+Nicholas,PRECINCT 16,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,151
+Nicholas,PRECINCT 17,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,189
+Nicholas,PRECINCT 18,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,329
+Nicholas,PRECINCT 19,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,103
+Nicholas,PRECINCT 20,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,207
+Nicholas,PRECINCT 21A,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,194
+Nicholas,PRECINCT 21B,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,133
+Nicholas,PRECINCT 23,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,32
+Nicholas,PRECINCT 25,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,65
+Nicholas,PRECINCT 26,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,110
+Nicholas,PRECINCT 27,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,84
+Nicholas,PRECINCT 28,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,136
+Nicholas,PRECINCT 29,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,211
+Nicholas,PRECINCT 30,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,89
+Nicholas,PRECINCT 31,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,59
+Nicholas,PRECINCT 32,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,91
+Nicholas,PRECINCT 33,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,239
+Nicholas,PRECINCT 35,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,260
+Nicholas,PRECINCT 36,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,60
+Nicholas,PRECINCT 1A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,50
+Nicholas,PRECINCT 1B,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,36
+Nicholas,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,60
+Nicholas,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,39
+Nicholas,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,77
+Nicholas,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Nicholas,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,44
+Nicholas,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,18
+Nicholas,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,41
+Nicholas,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,96
+Nicholas,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,68
+Nicholas,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,74
+Nicholas,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,81
+Nicholas,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,122
+Nicholas,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,45
+Nicholas,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,115
+Nicholas,PRECINCT 21A,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,85
+Nicholas,PRECINCT 21B,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,60
+Nicholas,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,15
+Nicholas,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,28
+Nicholas,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,40
+Nicholas,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,34
+Nicholas,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,62
+Nicholas,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,123
+Nicholas,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,30
+Nicholas,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,37
+Nicholas,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,42
+Nicholas,PRECINCT 33,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,157
+Nicholas,PRECINCT 35,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,126
+Nicholas,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,24
+Nicholas,PRECINCT 1A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Nicholas,PRECINCT 1B,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,74
+Nicholas,PRECINCT 2,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,148
+Nicholas,PRECINCT 3,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,133
+Nicholas,PRECINCT 5,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,139
+Nicholas,PRECINCT 7,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,130
+Nicholas,PRECINCT 8,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,87
+Nicholas,PRECINCT 9,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,71
+Nicholas,PRECINCT 13,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,111
+Nicholas,PRECINCT 14,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,186
+Nicholas,PRECINCT 15,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,201
+Nicholas,PRECINCT 16,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,180
+Nicholas,PRECINCT 17,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,215
+Nicholas,PRECINCT 18,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,410
+Nicholas,PRECINCT 19,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,118
+Nicholas,PRECINCT 20,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,245
+Nicholas,PRECINCT 21A,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,221
+Nicholas,PRECINCT 21B,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,155
+Nicholas,PRECINCT 23,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,31
+Nicholas,PRECINCT 25,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,85
+Nicholas,PRECINCT 26,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,120
+Nicholas,PRECINCT 27,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,83
+Nicholas,PRECINCT 28,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,153
+Nicholas,PRECINCT 29,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,274
+Nicholas,PRECINCT 30,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,102
+Nicholas,PRECINCT 31,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,58
+Nicholas,PRECINCT 32,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,115
+Nicholas,PRECINCT 33,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,285
+Nicholas,PRECINCT 35,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,290
+Nicholas,PRECINCT 36,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,71
+Nicholas,PRECINCT 1A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,57
+Nicholas,PRECINCT 1B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,41
+Nicholas,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,83
+Nicholas,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,65
+Nicholas,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,71
+Nicholas,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,55
+Nicholas,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,54
+Nicholas,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,30
+Nicholas,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,47
+Nicholas,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,95
+Nicholas,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,98
+Nicholas,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,93
+Nicholas,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,108
+Nicholas,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,210
+Nicholas,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,53
+Nicholas,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,165
+Nicholas,PRECINCT 21A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,126
+Nicholas,PRECINCT 21B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,84
+Nicholas,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,14
+Nicholas,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,37
+Nicholas,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,50
+Nicholas,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,31
+Nicholas,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,63
+Nicholas,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,170
+Nicholas,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,33
+Nicholas,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,29
+Nicholas,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,52
+Nicholas,PRECINCT 33,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,175
+Nicholas,PRECINCT 35,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,175
+Nicholas,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,26
+Nicholas,PRECINCT 1A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,107
+Nicholas,PRECINCT 1B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,66
+Nicholas,PRECINCT 2,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,115
+Nicholas,PRECINCT 3,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,104
+Nicholas,PRECINCT 5,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,135
+Nicholas,PRECINCT 7,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,116
+Nicholas,PRECINCT 8,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,74
+Nicholas,PRECINCT 9,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,58
+Nicholas,PRECINCT 13,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,95
+Nicholas,PRECINCT 14,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,178
+Nicholas,PRECINCT 15,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,168
+Nicholas,PRECINCT 16,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,150
+Nicholas,PRECINCT 17,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,181
+Nicholas,PRECINCT 18,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,303
+Nicholas,PRECINCT 19,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,103
+Nicholas,PRECINCT 20,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,180
+Nicholas,PRECINCT 21A,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,172
+Nicholas,PRECINCT 21B,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,123
+Nicholas,PRECINCT 23,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,32
+Nicholas,PRECINCT 25,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,72
+Nicholas,PRECINCT 26,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,109
+Nicholas,PRECINCT 27,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,83
+Nicholas,PRECINCT 28,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,147
+Nicholas,PRECINCT 29,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,216
+Nicholas,PRECINCT 30,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,97
+Nicholas,PRECINCT 31,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,63
+Nicholas,PRECINCT 32,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,96
+Nicholas,PRECINCT 33,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,245
+Nicholas,PRECINCT 35,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,223
+Nicholas,PRECINCT 36,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,67
+Nicholas,PRECINCT 1A,Amendment No. 4: Education Accountability Amendment,,,FOR,66
+Nicholas,PRECINCT 1B,Amendment No. 4: Education Accountability Amendment,,,FOR,46
+Nicholas,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,FOR,74
+Nicholas,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,FOR,60
+Nicholas,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,FOR,99
+Nicholas,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,FOR,63
+Nicholas,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,FOR,52
+Nicholas,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,FOR,24
+Nicholas,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,FOR,53
+Nicholas,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,FOR,107
+Nicholas,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,FOR,88
+Nicholas,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,FOR,100
+Nicholas,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,FOR,118
+Nicholas,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,FOR,190
+Nicholas,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,FOR,59
+Nicholas,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,FOR,136
+Nicholas,PRECINCT 21A,Amendment No. 4: Education Accountability Amendment,,,FOR,117
+Nicholas,PRECINCT 21B,Amendment No. 4: Education Accountability Amendment,,,FOR,78
+Nicholas,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,FOR,18
+Nicholas,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,FOR,33
+Nicholas,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,FOR,56
+Nicholas,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,FOR,38
+Nicholas,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,FOR,84
+Nicholas,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,FOR,160
+Nicholas,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,FOR,36
+Nicholas,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,FOR,38
+Nicholas,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,FOR,47
+Nicholas,PRECINCT 33,Amendment No. 4: Education Accountability Amendment,,,FOR,194
+Nicholas,PRECINCT 35,Amendment No. 4: Education Accountability Amendment,,,FOR,167
+Nicholas,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,FOR,35
+Nicholas,PRECINCT 1A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,101
+Nicholas,PRECINCT 1B,Amendment No. 4: Education Accountability Amendment,,,AGAINST,64
+Nicholas,PRECINCT 2,Amendment No. 4: Education Accountability Amendment,,,AGAINST,131
+Nicholas,PRECINCT 3,Amendment No. 4: Education Accountability Amendment,,,AGAINST,109
+Nicholas,PRECINCT 5,Amendment No. 4: Education Accountability Amendment,,,AGAINST,118
+Nicholas,PRECINCT 7,Amendment No. 4: Education Accountability Amendment,,,AGAINST,109
+Nicholas,PRECINCT 8,Amendment No. 4: Education Accountability Amendment,,,AGAINST,81
+Nicholas,PRECINCT 9,Amendment No. 4: Education Accountability Amendment,,,AGAINST,65
+Nicholas,PRECINCT 13,Amendment No. 4: Education Accountability Amendment,,,AGAINST,95
+Nicholas,PRECINCT 14,Amendment No. 4: Education Accountability Amendment,,,AGAINST,170
+Nicholas,PRECINCT 15,Amendment No. 4: Education Accountability Amendment,,,AGAINST,182
+Nicholas,PRECINCT 16,Amendment No. 4: Education Accountability Amendment,,,AGAINST,151
+Nicholas,PRECINCT 17,Amendment No. 4: Education Accountability Amendment,,,AGAINST,179
+Nicholas,PRECINCT 18,Amendment No. 4: Education Accountability Amendment,,,AGAINST,340
+Nicholas,PRECINCT 19,Amendment No. 4: Education Accountability Amendment,,,AGAINST,103
+Nicholas,PRECINCT 20,Amendment No. 4: Education Accountability Amendment,,,AGAINST,224
+Nicholas,PRECINCT 21A,Amendment No. 4: Education Accountability Amendment,,,AGAINST,189
+Nicholas,PRECINCT 21B,Amendment No. 4: Education Accountability Amendment,,,AGAINST,133
+Nicholas,PRECINCT 23,Amendment No. 4: Education Accountability Amendment,,,AGAINST,29
+Nicholas,PRECINCT 25,Amendment No. 4: Education Accountability Amendment,,,AGAINST,78
+Nicholas,PRECINCT 26,Amendment No. 4: Education Accountability Amendment,,,AGAINST,106
+Nicholas,PRECINCT 27,Amendment No. 4: Education Accountability Amendment,,,AGAINST,78
+Nicholas,PRECINCT 28,Amendment No. 4: Education Accountability Amendment,,,AGAINST,130
+Nicholas,PRECINCT 29,Amendment No. 4: Education Accountability Amendment,,,AGAINST,235
+Nicholas,PRECINCT 30,Amendment No. 4: Education Accountability Amendment,,,AGAINST,95
+Nicholas,PRECINCT 31,Amendment No. 4: Education Accountability Amendment,,,AGAINST,56
+Nicholas,PRECINCT 32,Amendment No. 4: Education Accountability Amendment,,,AGAINST,107
+Nicholas,PRECINCT 33,Amendment No. 4: Education Accountability Amendment,,,AGAINST,240
+Nicholas,PRECINCT 35,Amendment No. 4: Education Accountability Amendment,,,AGAINST,246
+Nicholas,PRECINCT 36,Amendment No. 4: Education Accountability Amendment,,,AGAINST,59
