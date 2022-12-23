@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 openpyxl = "==2.4.8"
 click = "==6.7"
-Clarify = {git = "git://github.com/openelections/clarify.git"}
+clarify = "==0.5.0.dev0"
 
 [requires]
-python_version = "3.8"
+python_version = "3.10"

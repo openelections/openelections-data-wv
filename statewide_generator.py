@@ -2,8 +2,8 @@ import os
 import glob
 import csv
 
-year = '2020'
-election = '20201103'
+year = '2022'
+election = '20221108'
 path = election+'*precinct.csv'
 output_file = election+'__wv__general__precinct.csv'
 
