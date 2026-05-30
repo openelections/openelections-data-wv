@@ -73,7 +73,7 @@ uv run python statewide_generator.py offices <year> <election>   # list unique o
 
 | year  | general  | primary  |
 |---|---|---|
-| 2024  | [done](https://github.com/openelections/openelections-data-wv/blob/master/2024/20241105__wv__general__precinct.csv) | [in progress](https://github.com/openelections/openelections-data-wv/blob/master/2024/20240514__wv__general__precinct.csv) |
+| 2024  | [done](https://github.com/openelections/openelections-data-wv/blob/master/2024/20241105__wv__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-wv/blob/master/2024/20240514__wv__general__precinct.csv) |
 | 2022  | [done](https://github.com/openelections/openelections-data-wv/blob/master/2022/20221108__wv__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-wv/blob/master/2022/20220510__wv__general__precinct.csv) |
 | 2020  | [done](https://github.com/openelections/openelections-data-wv/blob/master/2020/20201103__wv__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-wv/blob/master/2020/20200609__wv__primary__precinct.csv) |
 | 2018  | [done](https://github.com/openelections/openelections-data-wv/blob/master/2018/20181106__wv__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-wv/blob/master/2018/20180508__wv__primary__precinct.csv) |
