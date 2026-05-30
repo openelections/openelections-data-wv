@@ -1,0 +1,1132 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,Precinct 1,President,,REP,DONALD J. TRUMP,176
+Jackson,Precinct 2,President,,REP,DONALD J. TRUMP,220
+Jackson,Precinct 3,President,,REP,DONALD J. TRUMP,412
+Jackson,Precinct 4,President,,REP,DONALD J. TRUMP,150
+Jackson,Precinct 5,President,,REP,DONALD J. TRUMP,244
+Jackson,Precinct 6,President,,REP,DONALD J. TRUMP,267
+Jackson,Precinct 7,President,,REP,DONALD J. TRUMP,333
+Jackson,Precinct 8,President,,REP,DONALD J. TRUMP,189
+Jackson,Precinct 9,President,,REP,DONALD J. TRUMP,215
+Jackson,Precinct 10,President,,REP,DONALD J. TRUMP,239
+Jackson,Precinct 11,President,,REP,DONALD J. TRUMP,309
+Jackson,Precinct 12,President,,REP,DONALD J. TRUMP,454
+Jackson,Precinct 13,President,,REP,DONALD J. TRUMP,265
+Jackson,Precinct 14,President,,REP,DONALD J. TRUMP,566
+Jackson,Precinct 15,President,,REP,DONALD J. TRUMP,303
+Jackson,Precinct 16,President,,REP,DONALD J. TRUMP,680
+Jackson,Precinct 17,President,,REP,DONALD J. TRUMP,753
+Jackson,Precinct 18,President,,REP,DONALD J. TRUMP,709
+Jackson,Precinct 19,President,,REP,DONALD J. TRUMP,445
+Jackson,Precinct 20,President,,REP,DONALD J. TRUMP,209
+Jackson,Precinct 21,President,,REP,DONALD J. TRUMP,116
+Jackson,Precinct 22,President,,REP,DONALD J. TRUMP,412
+Jackson,Precinct 23,President,,REP,DONALD J. TRUMP,183
+Jackson,Precinct 24,President,,REP,DONALD J. TRUMP,125
+Jackson,Precinct 25,President,,REP,DONALD J. TRUMP,211
+Jackson,Precinct 26,President,,REP,DONALD J. TRUMP,162
+Jackson,Precinct 27,President,,REP,DONALD J. TRUMP,192
+Jackson,Precinct 28,President,,REP,DONALD J. TRUMP,659
+Jackson,Precinct 29,President,,REP,DONALD J. TRUMP,257
+Jackson,Precinct 30,President,,REP,DONALD J. TRUMP,452
+Jackson,Precinct 1,President,,DEM,KAMALA D. HARRIS,72
+Jackson,Precinct 2,President,,DEM,KAMALA D. HARRIS,55
+Jackson,Precinct 3,President,,DEM,KAMALA D. HARRIS,58
+Jackson,Precinct 4,President,,DEM,KAMALA D. HARRIS,28
+Jackson,Precinct 5,President,,DEM,KAMALA D. HARRIS,94
+Jackson,Precinct 6,President,,DEM,KAMALA D. HARRIS,166
+Jackson,Precinct 7,President,,DEM,KAMALA D. HARRIS,159
+Jackson,Precinct 8,President,,DEM,KAMALA D. HARRIS,116
+Jackson,Precinct 9,President,,DEM,KAMALA D. HARRIS,72
+Jackson,Precinct 10,President,,DEM,KAMALA D. HARRIS,54
+Jackson,Precinct 11,President,,DEM,KAMALA D. HARRIS,72
+Jackson,Precinct 12,President,,DEM,KAMALA D. HARRIS,127
+Jackson,Precinct 13,President,,DEM,KAMALA D. HARRIS,63
+Jackson,Precinct 14,President,,DEM,KAMALA D. HARRIS,138
+Jackson,Precinct 15,President,,DEM,KAMALA D. HARRIS,52
+Jackson,Precinct 16,President,,DEM,KAMALA D. HARRIS,187
+Jackson,Precinct 17,President,,DEM,KAMALA D. HARRIS,194
+Jackson,Precinct 18,President,,DEM,KAMALA D. HARRIS,147
+Jackson,Precinct 19,President,,DEM,KAMALA D. HARRIS,102
+Jackson,Precinct 20,President,,DEM,KAMALA D. HARRIS,66
+Jackson,Precinct 21,President,,DEM,KAMALA D. HARRIS,38
+Jackson,Precinct 22,President,,DEM,KAMALA D. HARRIS,188
+Jackson,Precinct 23,President,,DEM,KAMALA D. HARRIS,68
+Jackson,Precinct 24,President,,DEM,KAMALA D. HARRIS,19
+Jackson,Precinct 25,President,,DEM,KAMALA D. HARRIS,38
+Jackson,Precinct 26,President,,DEM,KAMALA D. HARRIS,26
+Jackson,Precinct 27,President,,DEM,KAMALA D. HARRIS,36
+Jackson,Precinct 28,President,,DEM,KAMALA D. HARRIS,131
+Jackson,Precinct 29,President,,DEM,KAMALA D. HARRIS,29
+Jackson,Precinct 30,President,,DEM,KAMALA D. HARRIS,104
+Jackson,Precinct 1,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 2,President,,LBN,CHASE OLIVER,3
+Jackson,Precinct 3,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 4,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 5,President,,LBN,CHASE OLIVER,3
+Jackson,Precinct 6,President,,LBN,CHASE OLIVER,2
+Jackson,Precinct 7,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 8,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 9,President,,LBN,CHASE OLIVER,2
+Jackson,Precinct 10,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 11,President,,LBN,CHASE OLIVER,3
+Jackson,Precinct 12,President,,LBN,CHASE OLIVER,4
+Jackson,Precinct 13,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 14,President,,LBN,CHASE OLIVER,3
+Jackson,Precinct 15,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 16,President,,LBN,CHASE OLIVER,4
+Jackson,Precinct 17,President,,LBN,CHASE OLIVER,3
+Jackson,Precinct 18,President,,LBN,CHASE OLIVER,2
+Jackson,Precinct 19,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 20,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 21,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 22,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 23,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 24,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 25,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 26,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 27,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 28,President,,LBN,CHASE OLIVER,2
+Jackson,Precinct 29,President,,LBN,CHASE OLIVER,0
+Jackson,Precinct 30,President,,LBN,CHASE OLIVER,1
+Jackson,Precinct 1,President,,MTN,JILL STEIN,1
+Jackson,Precinct 2,President,,MTN,JILL STEIN,0
+Jackson,Precinct 3,President,,MTN,JILL STEIN,0
+Jackson,Precinct 4,President,,MTN,JILL STEIN,0
+Jackson,Precinct 5,President,,MTN,JILL STEIN,0
+Jackson,Precinct 6,President,,MTN,JILL STEIN,0
+Jackson,Precinct 7,President,,MTN,JILL STEIN,1
+Jackson,Precinct 8,President,,MTN,JILL STEIN,0
+Jackson,Precinct 9,President,,MTN,JILL STEIN,1
+Jackson,Precinct 10,President,,MTN,JILL STEIN,0
+Jackson,Precinct 11,President,,MTN,JILL STEIN,1
+Jackson,Precinct 12,President,,MTN,JILL STEIN,0
+Jackson,Precinct 13,President,,MTN,JILL STEIN,0
+Jackson,Precinct 14,President,,MTN,JILL STEIN,1
+Jackson,Precinct 15,President,,MTN,JILL STEIN,3
+Jackson,Precinct 16,President,,MTN,JILL STEIN,4
+Jackson,Precinct 17,President,,MTN,JILL STEIN,4
+Jackson,Precinct 18,President,,MTN,JILL STEIN,0
+Jackson,Precinct 19,President,,MTN,JILL STEIN,1
+Jackson,Precinct 20,President,,MTN,JILL STEIN,1
+Jackson,Precinct 21,President,,MTN,JILL STEIN,1
+Jackson,Precinct 22,President,,MTN,JILL STEIN,0
+Jackson,Precinct 23,President,,MTN,JILL STEIN,0
+Jackson,Precinct 24,President,,MTN,JILL STEIN,0
+Jackson,Precinct 25,President,,MTN,JILL STEIN,0
+Jackson,Precinct 26,President,,MTN,JILL STEIN,0
+Jackson,Precinct 27,President,,MTN,JILL STEIN,1
+Jackson,Precinct 28,President,,MTN,JILL STEIN,1
+Jackson,Precinct 29,President,,MTN,JILL STEIN,0
+Jackson,Precinct 30,President,,MTN,JILL STEIN,1
+Jackson,Precinct 1,President,,IND,ROBERT F. KENNEDY JR.,3
+Jackson,Precinct 2,President,,IND,ROBERT F. KENNEDY JR.,4
+Jackson,Precinct 3,President,,IND,ROBERT F. KENNEDY JR.,3
+Jackson,Precinct 4,President,,IND,ROBERT F. KENNEDY JR.,2
+Jackson,Precinct 5,President,,IND,ROBERT F. KENNEDY JR.,4
+Jackson,Precinct 6,President,,IND,ROBERT F. KENNEDY JR.,8
+Jackson,Precinct 7,President,,IND,ROBERT F. KENNEDY JR.,8
+Jackson,Precinct 8,President,,IND,ROBERT F. KENNEDY JR.,2
+Jackson,Precinct 9,President,,IND,ROBERT F. KENNEDY JR.,4
+Jackson,Precinct 10,President,,IND,ROBERT F. KENNEDY JR.,5
+Jackson,Precinct 11,President,,IND,ROBERT F. KENNEDY JR.,3
+Jackson,Precinct 12,President,,IND,ROBERT F. KENNEDY JR.,10
+Jackson,Precinct 13,President,,IND,ROBERT F. KENNEDY JR.,5
+Jackson,Precinct 14,President,,IND,ROBERT F. KENNEDY JR.,7
+Jackson,Precinct 15,President,,IND,ROBERT F. KENNEDY JR.,4
+Jackson,Precinct 16,President,,IND,ROBERT F. KENNEDY JR.,11
+Jackson,Precinct 17,President,,IND,ROBERT F. KENNEDY JR.,12
+Jackson,Precinct 18,President,,IND,ROBERT F. KENNEDY JR.,6
+Jackson,Precinct 19,President,,IND,ROBERT F. KENNEDY JR.,6
+Jackson,Precinct 20,President,,IND,ROBERT F. KENNEDY JR.,7
+Jackson,Precinct 21,President,,IND,ROBERT F. KENNEDY JR.,2
+Jackson,Precinct 22,President,,IND,ROBERT F. KENNEDY JR.,10
+Jackson,Precinct 23,President,,IND,ROBERT F. KENNEDY JR.,4
+Jackson,Precinct 24,President,,IND,ROBERT F. KENNEDY JR.,3
+Jackson,Precinct 25,President,,IND,ROBERT F. KENNEDY JR.,3
+Jackson,Precinct 26,President,,IND,ROBERT F. KENNEDY JR.,2
+Jackson,Precinct 27,President,,IND,ROBERT F. KENNEDY JR.,4
+Jackson,Precinct 28,President,,IND,ROBERT F. KENNEDY JR.,6
+Jackson,Precinct 29,President,,IND,ROBERT F. KENNEDY JR.,1
+Jackson,Precinct 30,President,,IND,ROBERT F. KENNEDY JR.,5
+Jackson,Precinct 1,U.S. Senate,,REP,JIM JUSTICE,182
+Jackson,Precinct 2,U.S. Senate,,REP,JIM JUSTICE,206
+Jackson,Precinct 3,U.S. Senate,,REP,JIM JUSTICE,389
+Jackson,Precinct 4,U.S. Senate,,REP,JIM JUSTICE,142
+Jackson,Precinct 5,U.S. Senate,,REP,JIM JUSTICE,241
+Jackson,Precinct 6,U.S. Senate,,REP,JIM JUSTICE,262
+Jackson,Precinct 7,U.S. Senate,,REP,JIM JUSTICE,329
+Jackson,Precinct 8,U.S. Senate,,REP,JIM JUSTICE,188
+Jackson,Precinct 9,U.S. Senate,,REP,JIM JUSTICE,218
+Jackson,Precinct 10,U.S. Senate,,REP,JIM JUSTICE,228
+Jackson,Precinct 11,U.S. Senate,,REP,JIM JUSTICE,294
+Jackson,Precinct 12,U.S. Senate,,REP,JIM JUSTICE,448
+Jackson,Precinct 13,U.S. Senate,,REP,JIM JUSTICE,241
+Jackson,Precinct 14,U.S. Senate,,REP,JIM JUSTICE,538
+Jackson,Precinct 15,U.S. Senate,,REP,JIM JUSTICE,282
+Jackson,Precinct 16,U.S. Senate,,REP,JIM JUSTICE,650
+Jackson,Precinct 17,U.S. Senate,,REP,JIM JUSTICE,736
+Jackson,Precinct 18,U.S. Senate,,REP,JIM JUSTICE,671
+Jackson,Precinct 19,U.S. Senate,,REP,JIM JUSTICE,422
+Jackson,Precinct 20,U.S. Senate,,REP,JIM JUSTICE,196
+Jackson,Precinct 21,U.S. Senate,,REP,JIM JUSTICE,112
+Jackson,Precinct 22,U.S. Senate,,REP,JIM JUSTICE,398
+Jackson,Precinct 23,U.S. Senate,,REP,JIM JUSTICE,180
+Jackson,Precinct 24,U.S. Senate,,REP,JIM JUSTICE,95
+Jackson,Precinct 25,U.S. Senate,,REP,JIM JUSTICE,191
+Jackson,Precinct 26,U.S. Senate,,REP,JIM JUSTICE,157
+Jackson,Precinct 27,U.S. Senate,,REP,JIM JUSTICE,191
+Jackson,Precinct 28,U.S. Senate,,REP,JIM JUSTICE,630
+Jackson,Precinct 29,U.S. Senate,,REP,JIM JUSTICE,246
+Jackson,Precinct 30,U.S. Senate,,REP,JIM JUSTICE,429
+Jackson,Precinct 1,U.S. Senate,,DEM,GLENN ELLIOTT,68
+Jackson,Precinct 2,U.S. Senate,,DEM,GLENN ELLIOTT,56
+Jackson,Precinct 3,U.S. Senate,,DEM,GLENN ELLIOTT,58
+Jackson,Precinct 4,U.S. Senate,,DEM,GLENN ELLIOTT,31
+Jackson,Precinct 5,U.S. Senate,,DEM,GLENN ELLIOTT,84
+Jackson,Precinct 6,U.S. Senate,,DEM,GLENN ELLIOTT,153
+Jackson,Precinct 7,U.S. Senate,,DEM,GLENN ELLIOTT,151
+Jackson,Precinct 8,U.S. Senate,,DEM,GLENN ELLIOTT,103
+Jackson,Precinct 9,U.S. Senate,,DEM,GLENN ELLIOTT,63
+Jackson,Precinct 10,U.S. Senate,,DEM,GLENN ELLIOTT,51
+Jackson,Precinct 11,U.S. Senate,,DEM,GLENN ELLIOTT,68
+Jackson,Precinct 12,U.S. Senate,,DEM,GLENN ELLIOTT,118
+Jackson,Precinct 13,U.S. Senate,,DEM,GLENN ELLIOTT,64
+Jackson,Precinct 14,U.S. Senate,,DEM,GLENN ELLIOTT,139
+Jackson,Precinct 15,U.S. Senate,,DEM,GLENN ELLIOTT,65
+Jackson,Precinct 16,U.S. Senate,,DEM,GLENN ELLIOTT,194
+Jackson,Precinct 17,U.S. Senate,,DEM,GLENN ELLIOTT,185
+Jackson,Precinct 18,U.S. Senate,,DEM,GLENN ELLIOTT,166
+Jackson,Precinct 19,U.S. Senate,,DEM,GLENN ELLIOTT,101
+Jackson,Precinct 20,U.S. Senate,,DEM,GLENN ELLIOTT,67
+Jackson,Precinct 21,U.S. Senate,,DEM,GLENN ELLIOTT,31
+Jackson,Precinct 22,U.S. Senate,,DEM,GLENN ELLIOTT,181
+Jackson,Precinct 23,U.S. Senate,,DEM,GLENN ELLIOTT,62
+Jackson,Precinct 24,U.S. Senate,,DEM,GLENN ELLIOTT,29
+Jackson,Precinct 25,U.S. Senate,,DEM,GLENN ELLIOTT,46
+Jackson,Precinct 26,U.S. Senate,,DEM,GLENN ELLIOTT,25
+Jackson,Precinct 27,U.S. Senate,,DEM,GLENN ELLIOTT,36
+Jackson,Precinct 28,U.S. Senate,,DEM,GLENN ELLIOTT,132
+Jackson,Precinct 29,U.S. Senate,,DEM,GLENN ELLIOTT,29
+Jackson,Precinct 30,U.S. Senate,,DEM,GLENN ELLIOTT,113
+Jackson,Precinct 1,U.S. Senate,,LBN,DAVID MORAN,5
+Jackson,Precinct 2,U.S. Senate,,LBN,DAVID MORAN,13
+Jackson,Precinct 3,U.S. Senate,,LBN,DAVID MORAN,16
+Jackson,Precinct 4,U.S. Senate,,LBN,DAVID MORAN,6
+Jackson,Precinct 5,U.S. Senate,,LBN,DAVID MORAN,13
+Jackson,Precinct 6,U.S. Senate,,LBN,DAVID MORAN,17
+Jackson,Precinct 7,U.S. Senate,,LBN,DAVID MORAN,13
+Jackson,Precinct 8,U.S. Senate,,LBN,DAVID MORAN,12
+Jackson,Precinct 9,U.S. Senate,,LBN,DAVID MORAN,10
+Jackson,Precinct 10,U.S. Senate,,LBN,DAVID MORAN,17
+Jackson,Precinct 11,U.S. Senate,,LBN,DAVID MORAN,15
+Jackson,Precinct 12,U.S. Senate,,LBN,DAVID MORAN,27
+Jackson,Precinct 13,U.S. Senate,,LBN,DAVID MORAN,17
+Jackson,Precinct 14,U.S. Senate,,LBN,DAVID MORAN,33
+Jackson,Precinct 15,U.S. Senate,,LBN,DAVID MORAN,12
+Jackson,Precinct 16,U.S. Senate,,LBN,DAVID MORAN,31
+Jackson,Precinct 17,U.S. Senate,,LBN,DAVID MORAN,34
+Jackson,Precinct 18,U.S. Senate,,LBN,DAVID MORAN,23
+Jackson,Precinct 19,U.S. Senate,,LBN,DAVID MORAN,19
+Jackson,Precinct 20,U.S. Senate,,LBN,DAVID MORAN,12
+Jackson,Precinct 21,U.S. Senate,,LBN,DAVID MORAN,7
+Jackson,Precinct 22,U.S. Senate,,LBN,DAVID MORAN,19
+Jackson,Precinct 23,U.S. Senate,,LBN,DAVID MORAN,8
+Jackson,Precinct 24,U.S. Senate,,LBN,DAVID MORAN,13
+Jackson,Precinct 25,U.S. Senate,,LBN,DAVID MORAN,12
+Jackson,Precinct 26,U.S. Senate,,LBN,DAVID MORAN,3
+Jackson,Precinct 27,U.S. Senate,,LBN,DAVID MORAN,6
+Jackson,Precinct 28,U.S. Senate,,LBN,DAVID MORAN,29
+Jackson,Precinct 29,U.S. Senate,,LBN,DAVID MORAN,7
+Jackson,Precinct 30,U.S. Senate,,LBN,DAVID MORAN,17
+Jackson,Precinct 1,U.S. House,1,REP,CAROL MILLER,153
+Jackson,Precinct 2,U.S. House,1,REP,CAROL MILLER,186
+Jackson,Precinct 3,U.S. House,1,REP,CAROL MILLER,360
+Jackson,Precinct 4,U.S. House,1,REP,CAROL MILLER,134
+Jackson,Precinct 5,U.S. House,1,REP,CAROL MILLER,216
+Jackson,Precinct 6,U.S. House,1,REP,CAROL MILLER,229
+Jackson,Precinct 7,U.S. House,1,REP,CAROL MILLER,292
+Jackson,Precinct 8,U.S. House,1,REP,CAROL MILLER,165
+Jackson,Precinct 9,U.S. House,1,REP,CAROL MILLER,193
+Jackson,Precinct 10,U.S. House,1,REP,CAROL MILLER,206
+Jackson,Precinct 11,U.S. House,1,REP,CAROL MILLER,275
+Jackson,Precinct 12,U.S. House,1,REP,CAROL MILLER,401
+Jackson,Precinct 13,U.S. House,1,REP,CAROL MILLER,225
+Jackson,Precinct 14,U.S. House,1,REP,CAROL MILLER,477
+Jackson,Precinct 15,U.S. House,1,REP,CAROL MILLER,262
+Jackson,Precinct 16,U.S. House,1,REP,CAROL MILLER,596
+Jackson,Precinct 17,U.S. House,1,REP,CAROL MILLER,674
+Jackson,Precinct 18,U.S. House,1,REP,CAROL MILLER,564
+Jackson,Precinct 19,U.S. House,1,REP,CAROL MILLER,385
+Jackson,Precinct 20,U.S. House,1,REP,CAROL MILLER,166
+Jackson,Precinct 21,U.S. House,1,REP,CAROL MILLER,93
+Jackson,Precinct 22,U.S. House,1,REP,CAROL MILLER,350
+Jackson,Precinct 23,U.S. House,1,REP,CAROL MILLER,150
+Jackson,Precinct 24,U.S. House,1,REP,CAROL MILLER,98
+Jackson,Precinct 25,U.S. House,1,REP,CAROL MILLER,181
+Jackson,Precinct 26,U.S. House,1,REP,CAROL MILLER,128
+Jackson,Precinct 27,U.S. House,1,REP,CAROL MILLER,163
+Jackson,Precinct 28,U.S. House,1,REP,CAROL MILLER,538
+Jackson,Precinct 29,U.S. House,1,REP,CAROL MILLER,223
+Jackson,Precinct 30,U.S. House,1,REP,CAROL MILLER,347
+Jackson,Precinct 1,U.S. House,1,DEM,CHRIS BOB REED,71
+Jackson,Precinct 2,U.S. House,1,DEM,CHRIS BOB REED,57
+Jackson,Precinct 3,U.S. House,1,DEM,CHRIS BOB REED,62
+Jackson,Precinct 4,U.S. House,1,DEM,CHRIS BOB REED,30
+Jackson,Precinct 5,U.S. House,1,DEM,CHRIS BOB REED,81
+Jackson,Precinct 6,U.S. House,1,DEM,CHRIS BOB REED,148
+Jackson,Precinct 7,U.S. House,1,DEM,CHRIS BOB REED,133
+Jackson,Precinct 8,U.S. House,1,DEM,CHRIS BOB REED,102
+Jackson,Precinct 9,U.S. House,1,DEM,CHRIS BOB REED,54
+Jackson,Precinct 10,U.S. House,1,DEM,CHRIS BOB REED,57
+Jackson,Precinct 11,U.S. House,1,DEM,CHRIS BOB REED,54
+Jackson,Precinct 12,U.S. House,1,DEM,CHRIS BOB REED,122
+Jackson,Precinct 13,U.S. House,1,DEM,CHRIS BOB REED,55
+Jackson,Precinct 14,U.S. House,1,DEM,CHRIS BOB REED,132
+Jackson,Precinct 15,U.S. House,1,DEM,CHRIS BOB REED,56
+Jackson,Precinct 16,U.S. House,1,DEM,CHRIS BOB REED,169
+Jackson,Precinct 17,U.S. House,1,DEM,CHRIS BOB REED,177
+Jackson,Precinct 18,U.S. House,1,DEM,CHRIS BOB REED,143
+Jackson,Precinct 19,U.S. House,1,DEM,CHRIS BOB REED,94
+Jackson,Precinct 20,U.S. House,1,DEM,CHRIS BOB REED,68
+Jackson,Precinct 21,U.S. House,1,DEM,CHRIS BOB REED,34
+Jackson,Precinct 22,U.S. House,1,DEM,CHRIS BOB REED,165
+Jackson,Precinct 23,U.S. House,1,DEM,CHRIS BOB REED,62
+Jackson,Precinct 24,U.S. House,1,DEM,CHRIS BOB REED,19
+Jackson,Precinct 25,U.S. House,1,DEM,CHRIS BOB REED,39
+Jackson,Precinct 26,U.S. House,1,DEM,CHRIS BOB REED,40
+Jackson,Precinct 27,U.S. House,1,DEM,CHRIS BOB REED,39
+Jackson,Precinct 28,U.S. House,1,DEM,CHRIS BOB REED,109
+Jackson,Precinct 29,U.S. House,1,DEM,CHRIS BOB REED,23
+Jackson,Precinct 30,U.S. House,1,DEM,CHRIS BOB REED,92
+Jackson,Precinct 1,U.S. House,1,IND,WES HOLDEN,22
+Jackson,Precinct 2,U.S. House,1,IND,WES HOLDEN,19
+Jackson,Precinct 3,U.S. House,1,IND,WES HOLDEN,29
+Jackson,Precinct 4,U.S. House,1,IND,WES HOLDEN,14
+Jackson,Precinct 5,U.S. House,1,IND,WES HOLDEN,31
+Jackson,Precinct 6,U.S. House,1,IND,WES HOLDEN,44
+Jackson,Precinct 7,U.S. House,1,IND,WES HOLDEN,53
+Jackson,Precinct 8,U.S. House,1,IND,WES HOLDEN,32
+Jackson,Precinct 9,U.S. House,1,IND,WES HOLDEN,29
+Jackson,Precinct 10,U.S. House,1,IND,WES HOLDEN,30
+Jackson,Precinct 11,U.S. House,1,IND,WES HOLDEN,39
+Jackson,Precinct 12,U.S. House,1,IND,WES HOLDEN,53
+Jackson,Precinct 13,U.S. House,1,IND,WES HOLDEN,40
+Jackson,Precinct 14,U.S. House,1,IND,WES HOLDEN,73
+Jackson,Precinct 15,U.S. House,1,IND,WES HOLDEN,26
+Jackson,Precinct 16,U.S. House,1,IND,WES HOLDEN,87
+Jackson,Precinct 17,U.S. House,1,IND,WES HOLDEN,88
+Jackson,Precinct 18,U.S. House,1,IND,WES HOLDEN,126
+Jackson,Precinct 19,U.S. House,1,IND,WES HOLDEN,51
+Jackson,Precinct 20,U.S. House,1,IND,WES HOLDEN,35
+Jackson,Precinct 21,U.S. House,1,IND,WES HOLDEN,19
+Jackson,Precinct 22,U.S. House,1,IND,WES HOLDEN,75
+Jackson,Precinct 23,U.S. House,1,IND,WES HOLDEN,25
+Jackson,Precinct 24,U.S. House,1,IND,WES HOLDEN,17
+Jackson,Precinct 25,U.S. House,1,IND,WES HOLDEN,22
+Jackson,Precinct 26,U.S. House,1,IND,WES HOLDEN,14
+Jackson,Precinct 27,U.S. House,1,IND,WES HOLDEN,22
+Jackson,Precinct 28,U.S. House,1,IND,WES HOLDEN,123
+Jackson,Precinct 29,U.S. House,1,IND,WES HOLDEN,27
+Jackson,Precinct 30,U.S. House,1,IND,WES HOLDEN,110
+Jackson,Precinct 1,Governor,,REP,PATRICK MORRISEY,139
+Jackson,Precinct 2,Governor,,REP,PATRICK MORRISEY,163
+Jackson,Precinct 3,Governor,,REP,PATRICK MORRISEY,326
+Jackson,Precinct 4,Governor,,REP,PATRICK MORRISEY,120
+Jackson,Precinct 5,Governor,,REP,PATRICK MORRISEY,205
+Jackson,Precinct 6,Governor,,REP,PATRICK MORRISEY,224
+Jackson,Precinct 7,Governor,,REP,PATRICK MORRISEY,280
+Jackson,Precinct 8,Governor,,REP,PATRICK MORRISEY,164
+Jackson,Precinct 9,Governor,,REP,PATRICK MORRISEY,175
+Jackson,Precinct 10,Governor,,REP,PATRICK MORRISEY,196
+Jackson,Precinct 11,Governor,,REP,PATRICK MORRISEY,242
+Jackson,Precinct 12,Governor,,REP,PATRICK MORRISEY,383
+Jackson,Precinct 13,Governor,,REP,PATRICK MORRISEY,202
+Jackson,Precinct 14,Governor,,REP,PATRICK MORRISEY,419
+Jackson,Precinct 15,Governor,,REP,PATRICK MORRISEY,236
+Jackson,Precinct 16,Governor,,REP,PATRICK MORRISEY,543
+Jackson,Precinct 17,Governor,,REP,PATRICK MORRISEY,615
+Jackson,Precinct 18,Governor,,REP,PATRICK MORRISEY,554
+Jackson,Precinct 19,Governor,,REP,PATRICK MORRISEY,345
+Jackson,Precinct 20,Governor,,REP,PATRICK MORRISEY,158
+Jackson,Precinct 21,Governor,,REP,PATRICK MORRISEY,93
+Jackson,Precinct 22,Governor,,REP,PATRICK MORRISEY,346
+Jackson,Precinct 23,Governor,,REP,PATRICK MORRISEY,140
+Jackson,Precinct 24,Governor,,REP,PATRICK MORRISEY,91
+Jackson,Precinct 25,Governor,,REP,PATRICK MORRISEY,159
+Jackson,Precinct 26,Governor,,REP,PATRICK MORRISEY,123
+Jackson,Precinct 27,Governor,,REP,PATRICK MORRISEY,164
+Jackson,Precinct 28,Governor,,REP,PATRICK MORRISEY,513
+Jackson,Precinct 29,Governor,,REP,PATRICK MORRISEY,197
+Jackson,Precinct 30,Governor,,REP,PATRICK MORRISEY,371
+Jackson,Precinct 1,Governor,,DEM,STEVE WILLIAMS,98
+Jackson,Precinct 2,Governor,,DEM,STEVE WILLIAMS,78
+Jackson,Precinct 3,Governor,,DEM,STEVE WILLIAMS,86
+Jackson,Precinct 4,Governor,,DEM,STEVE WILLIAMS,41
+Jackson,Precinct 5,Governor,,DEM,STEVE WILLIAMS,105
+Jackson,Precinct 6,Governor,,DEM,STEVE WILLIAMS,181
+Jackson,Precinct 7,Governor,,DEM,STEVE WILLIAMS,189
+Jackson,Precinct 8,Governor,,DEM,STEVE WILLIAMS,118
+Jackson,Precinct 9,Governor,,DEM,STEVE WILLIAMS,90
+Jackson,Precinct 10,Governor,,DEM,STEVE WILLIAMS,77
+Jackson,Precinct 11,Governor,,DEM,STEVE WILLIAMS,82
+Jackson,Precinct 12,Governor,,DEM,STEVE WILLIAMS,157
+Jackson,Precinct 13,Governor,,DEM,STEVE WILLIAMS,85
+Jackson,Precinct 14,Governor,,DEM,STEVE WILLIAMS,205
+Jackson,Precinct 15,Governor,,DEM,STEVE WILLIAMS,83
+Jackson,Precinct 16,Governor,,DEM,STEVE WILLIAMS,226
+Jackson,Precinct 17,Governor,,DEM,STEVE WILLIAMS,236
+Jackson,Precinct 18,Governor,,DEM,STEVE WILLIAMS,228
+Jackson,Precinct 19,Governor,,DEM,STEVE WILLIAMS,139
+Jackson,Precinct 20,Governor,,DEM,STEVE WILLIAMS,85
+Jackson,Precinct 21,Governor,,DEM,STEVE WILLIAMS,42
+Jackson,Precinct 22,Governor,,DEM,STEVE WILLIAMS,212
+Jackson,Precinct 23,Governor,,DEM,STEVE WILLIAMS,88
+Jackson,Precinct 24,Governor,,DEM,STEVE WILLIAMS,28
+Jackson,Precinct 25,Governor,,DEM,STEVE WILLIAMS,63
+Jackson,Precinct 26,Governor,,DEM,STEVE WILLIAMS,45
+Jackson,Precinct 27,Governor,,DEM,STEVE WILLIAMS,42
+Jackson,Precinct 28,Governor,,DEM,STEVE WILLIAMS,186
+Jackson,Precinct 29,Governor,,DEM,STEVE WILLIAMS,51
+Jackson,Precinct 30,Governor,,DEM,STEVE WILLIAMS,153
+Jackson,Precinct 1,Governor,,LBN,ERIKA KLIE KOLENICH,4
+Jackson,Precinct 2,Governor,,LBN,ERIKA KLIE KOLENICH,5
+Jackson,Precinct 3,Governor,,LBN,ERIKA KLIE KOLENICH,11
+Jackson,Precinct 4,Governor,,LBN,ERIKA KLIE KOLENICH,3
+Jackson,Precinct 5,Governor,,LBN,ERIKA KLIE KOLENICH,12
+Jackson,Precinct 6,Governor,,LBN,ERIKA KLIE KOLENICH,12
+Jackson,Precinct 7,Governor,,LBN,ERIKA KLIE KOLENICH,7
+Jackson,Precinct 8,Governor,,LBN,ERIKA KLIE KOLENICH,8
+Jackson,Precinct 9,Governor,,LBN,ERIKA KLIE KOLENICH,5
+Jackson,Precinct 10,Governor,,LBN,ERIKA KLIE KOLENICH,6
+Jackson,Precinct 11,Governor,,LBN,ERIKA KLIE KOLENICH,9
+Jackson,Precinct 12,Governor,,LBN,ERIKA KLIE KOLENICH,12
+Jackson,Precinct 13,Governor,,LBN,ERIKA KLIE KOLENICH,5
+Jackson,Precinct 14,Governor,,LBN,ERIKA KLIE KOLENICH,19
+Jackson,Precinct 15,Governor,,LBN,ERIKA KLIE KOLENICH,9
+Jackson,Precinct 16,Governor,,LBN,ERIKA KLIE KOLENICH,22
+Jackson,Precinct 17,Governor,,LBN,ERIKA KLIE KOLENICH,20
+Jackson,Precinct 18,Governor,,LBN,ERIKA KLIE KOLENICH,9
+Jackson,Precinct 19,Governor,,LBN,ERIKA KLIE KOLENICH,12
+Jackson,Precinct 20,Governor,,LBN,ERIKA KLIE KOLENICH,9
+Jackson,Precinct 21,Governor,,LBN,ERIKA KLIE KOLENICH,5
+Jackson,Precinct 22,Governor,,LBN,ERIKA KLIE KOLENICH,16
+Jackson,Precinct 23,Governor,,LBN,ERIKA KLIE KOLENICH,8
+Jackson,Precinct 24,Governor,,LBN,ERIKA KLIE KOLENICH,5
+Jackson,Precinct 25,Governor,,LBN,ERIKA KLIE KOLENICH,7
+Jackson,Precinct 26,Governor,,LBN,ERIKA KLIE KOLENICH,7
+Jackson,Precinct 27,Governor,,LBN,ERIKA KLIE KOLENICH,4
+Jackson,Precinct 28,Governor,,LBN,ERIKA KLIE KOLENICH,17
+Jackson,Precinct 29,Governor,,LBN,ERIKA KLIE KOLENICH,3
+Jackson,Precinct 30,Governor,,LBN,ERIKA KLIE KOLENICH,10
+Jackson,Precinct 1,Governor,,MTN,CHASE LINKO-LOOPER,1
+Jackson,Precinct 2,Governor,,MTN,CHASE LINKO-LOOPER,3
+Jackson,Precinct 3,Governor,,MTN,CHASE LINKO-LOOPER,6
+Jackson,Precinct 4,Governor,,MTN,CHASE LINKO-LOOPER,3
+Jackson,Precinct 5,Governor,,MTN,CHASE LINKO-LOOPER,6
+Jackson,Precinct 6,Governor,,MTN,CHASE LINKO-LOOPER,10
+Jackson,Precinct 7,Governor,,MTN,CHASE LINKO-LOOPER,8
+Jackson,Precinct 8,Governor,,MTN,CHASE LINKO-LOOPER,8
+Jackson,Precinct 9,Governor,,MTN,CHASE LINKO-LOOPER,4
+Jackson,Precinct 10,Governor,,MTN,CHASE LINKO-LOOPER,4
+Jackson,Precinct 11,Governor,,MTN,CHASE LINKO-LOOPER,8
+Jackson,Precinct 12,Governor,,MTN,CHASE LINKO-LOOPER,8
+Jackson,Precinct 13,Governor,,MTN,CHASE LINKO-LOOPER,4
+Jackson,Precinct 14,Governor,,MTN,CHASE LINKO-LOOPER,10
+Jackson,Precinct 15,Governor,,MTN,CHASE LINKO-LOOPER,8
+Jackson,Precinct 16,Governor,,MTN,CHASE LINKO-LOOPER,19
+Jackson,Precinct 17,Governor,,MTN,CHASE LINKO-LOOPER,11
+Jackson,Precinct 18,Governor,,MTN,CHASE LINKO-LOOPER,20
+Jackson,Precinct 19,Governor,,MTN,CHASE LINKO-LOOPER,8
+Jackson,Precinct 20,Governor,,MTN,CHASE LINKO-LOOPER,6
+Jackson,Precinct 21,Governor,,MTN,CHASE LINKO-LOOPER,1
+Jackson,Precinct 22,Governor,,MTN,CHASE LINKO-LOOPER,2
+Jackson,Precinct 23,Governor,,MTN,CHASE LINKO-LOOPER,0
+Jackson,Precinct 24,Governor,,MTN,CHASE LINKO-LOOPER,4
+Jackson,Precinct 25,Governor,,MTN,CHASE LINKO-LOOPER,4
+Jackson,Precinct 26,Governor,,MTN,CHASE LINKO-LOOPER,1
+Jackson,Precinct 27,Governor,,MTN,CHASE LINKO-LOOPER,4
+Jackson,Precinct 28,Governor,,MTN,CHASE LINKO-LOOPER,17
+Jackson,Precinct 29,Governor,,MTN,CHASE LINKO-LOOPER,1
+Jackson,Precinct 30,Governor,,MTN,CHASE LINKO-LOOPER,12
+Jackson,Precinct 1,Governor,,CST,S. MARSHALL WILSON,9
+Jackson,Precinct 2,Governor,,CST,S. MARSHALL WILSON,19
+Jackson,Precinct 3,Governor,,CST,S. MARSHALL WILSON,32
+Jackson,Precinct 4,Governor,,CST,S. MARSHALL WILSON,5
+Jackson,Precinct 5,Governor,,CST,S. MARSHALL WILSON,9
+Jackson,Precinct 6,Governor,,CST,S. MARSHALL WILSON,6
+Jackson,Precinct 7,Governor,,CST,S. MARSHALL WILSON,5
+Jackson,Precinct 8,Governor,,CST,S. MARSHALL WILSON,4
+Jackson,Precinct 9,Governor,,CST,S. MARSHALL WILSON,4
+Jackson,Precinct 10,Governor,,CST,S. MARSHALL WILSON,11
+Jackson,Precinct 11,Governor,,CST,S. MARSHALL WILSON,32
+Jackson,Precinct 12,Governor,,CST,S. MARSHALL WILSON,26
+Jackson,Precinct 13,Governor,,CST,S. MARSHALL WILSON,29
+Jackson,Precinct 14,Governor,,CST,S. MARSHALL WILSON,47
+Jackson,Precinct 15,Governor,,CST,S. MARSHALL WILSON,14
+Jackson,Precinct 16,Governor,,CST,S. MARSHALL WILSON,56
+Jackson,Precinct 17,Governor,,CST,S. MARSHALL WILSON,68
+Jackson,Precinct 18,Governor,,CST,S. MARSHALL WILSON,40
+Jackson,Precinct 19,Governor,,CST,S. MARSHALL WILSON,37
+Jackson,Precinct 20,Governor,,CST,S. MARSHALL WILSON,16
+Jackson,Precinct 21,Governor,,CST,S. MARSHALL WILSON,7
+Jackson,Precinct 22,Governor,,CST,S. MARSHALL WILSON,27
+Jackson,Precinct 23,Governor,,CST,S. MARSHALL WILSON,13
+Jackson,Precinct 24,Governor,,CST,S. MARSHALL WILSON,14
+Jackson,Precinct 25,Governor,,CST,S. MARSHALL WILSON,14
+Jackson,Precinct 26,Governor,,CST,S. MARSHALL WILSON,8
+Jackson,Precinct 27,Governor,,CST,S. MARSHALL WILSON,12
+Jackson,Precinct 28,Governor,,CST,S. MARSHALL WILSON,49
+Jackson,Precinct 29,Governor,,CST,S. MARSHALL WILSON,26
+Jackson,Precinct 30,Governor,,CST,S. MARSHALL WILSON,12
+Jackson,Precinct 1,Secretary of State,,REP,KRIS WARNER,177
+Jackson,Precinct 2,Secretary of State,,REP,KRIS WARNER,200
+Jackson,Precinct 3,Secretary of State,,REP,KRIS WARNER,391
+Jackson,Precinct 4,Secretary of State,,REP,KRIS WARNER,133
+Jackson,Precinct 5,Secretary of State,,REP,KRIS WARNER,244
+Jackson,Precinct 6,Secretary of State,,REP,KRIS WARNER,265
+Jackson,Precinct 7,Secretary of State,,REP,KRIS WARNER,324
+Jackson,Precinct 8,Secretary of State,,REP,KRIS WARNER,179
+Jackson,Precinct 9,Secretary of State,,REP,KRIS WARNER,202
+Jackson,Precinct 10,Secretary of State,,REP,KRIS WARNER,223
+Jackson,Precinct 11,Secretary of State,,REP,KRIS WARNER,302
+Jackson,Precinct 12,Secretary of State,,REP,KRIS WARNER,440
+Jackson,Precinct 13,Secretary of State,,REP,KRIS WARNER,246
+Jackson,Precinct 14,Secretary of State,,REP,KRIS WARNER,532
+Jackson,Precinct 15,Secretary of State,,REP,KRIS WARNER,284
+Jackson,Precinct 16,Secretary of State,,REP,KRIS WARNER,651
+Jackson,Precinct 17,Secretary of State,,REP,KRIS WARNER,744
+Jackson,Precinct 18,Secretary of State,,REP,KRIS WARNER,669
+Jackson,Precinct 19,Secretary of State,,REP,KRIS WARNER,435
+Jackson,Precinct 20,Secretary of State,,REP,KRIS WARNER,187
+Jackson,Precinct 21,Secretary of State,,REP,KRIS WARNER,113
+Jackson,Precinct 22,Secretary of State,,REP,KRIS WARNER,408
+Jackson,Precinct 23,Secretary of State,,REP,KRIS WARNER,176
+Jackson,Precinct 24,Secretary of State,,REP,KRIS WARNER,117
+Jackson,Precinct 25,Secretary of State,,REP,KRIS WARNER,195
+Jackson,Precinct 26,Secretary of State,,REP,KRIS WARNER,142
+Jackson,Precinct 27,Secretary of State,,REP,KRIS WARNER,179
+Jackson,Precinct 28,Secretary of State,,REP,KRIS WARNER,649
+Jackson,Precinct 29,Secretary of State,,REP,KRIS WARNER,248
+Jackson,Precinct 30,Secretary of State,,REP,KRIS WARNER,429
+Jackson,Precinct 1,Secretary of State,,DEM,THORNTON COOPER,69
+Jackson,Precinct 2,Secretary of State,,DEM,THORNTON COOPER,57
+Jackson,Precinct 3,Secretary of State,,DEM,THORNTON COOPER,61
+Jackson,Precinct 4,Secretary of State,,DEM,THORNTON COOPER,41
+Jackson,Precinct 5,Secretary of State,,DEM,THORNTON COOPER,84
+Jackson,Precinct 6,Secretary of State,,DEM,THORNTON COOPER,154
+Jackson,Precinct 7,Secretary of State,,DEM,THORNTON COOPER,156
+Jackson,Precinct 8,Secretary of State,,DEM,THORNTON COOPER,115
+Jackson,Precinct 9,Secretary of State,,DEM,THORNTON COOPER,72
+Jackson,Precinct 10,Secretary of State,,DEM,THORNTON COOPER,62
+Jackson,Precinct 11,Secretary of State,,DEM,THORNTON COOPER,68
+Jackson,Precinct 12,Secretary of State,,DEM,THORNTON COOPER,137
+Jackson,Precinct 13,Secretary of State,,DEM,THORNTON COOPER,66
+Jackson,Precinct 14,Secretary of State,,DEM,THORNTON COOPER,140
+Jackson,Precinct 15,Secretary of State,,DEM,THORNTON COOPER,59
+Jackson,Precinct 16,Secretary of State,,DEM,THORNTON COOPER,195
+Jackson,Precinct 17,Secretary of State,,DEM,THORNTON COOPER,180
+Jackson,Precinct 18,Secretary of State,,DEM,THORNTON COOPER,160
+Jackson,Precinct 19,Secretary of State,,DEM,THORNTON COOPER,93
+Jackson,Precinct 20,Secretary of State,,DEM,THORNTON COOPER,73
+Jackson,Precinct 21,Secretary of State,,DEM,THORNTON COOPER,36
+Jackson,Precinct 22,Secretary of State,,DEM,THORNTON COOPER,180
+Jackson,Precinct 23,Secretary of State,,DEM,THORNTON COOPER,57
+Jackson,Precinct 24,Secretary of State,,DEM,THORNTON COOPER,19
+Jackson,Precinct 25,Secretary of State,,DEM,THORNTON COOPER,47
+Jackson,Precinct 26,Secretary of State,,DEM,THORNTON COOPER,37
+Jackson,Precinct 27,Secretary of State,,DEM,THORNTON COOPER,42
+Jackson,Precinct 28,Secretary of State,,DEM,THORNTON COOPER,121
+Jackson,Precinct 29,Secretary of State,,DEM,THORNTON COOPER,27
+Jackson,Precinct 30,Secretary of State,,DEM,THORNTON COOPER,110
+Jackson,Precinct 1,Auditor,,REP,MARK HUNT,175
+Jackson,Precinct 2,Auditor,,REP,MARK HUNT,206
+Jackson,Precinct 3,Auditor,,REP,MARK HUNT,386
+Jackson,Precinct 4,Auditor,,REP,MARK HUNT,140
+Jackson,Precinct 5,Auditor,,REP,MARK HUNT,229
+Jackson,Precinct 6,Auditor,,REP,MARK HUNT,263
+Jackson,Precinct 7,Auditor,,REP,MARK HUNT,324
+Jackson,Precinct 8,Auditor,,REP,MARK HUNT,182
+Jackson,Precinct 9,Auditor,,REP,MARK HUNT,196
+Jackson,Precinct 10,Auditor,,REP,MARK HUNT,233
+Jackson,Precinct 11,Auditor,,REP,MARK HUNT,297
+Jackson,Precinct 12,Auditor,,REP,MARK HUNT,450
+Jackson,Precinct 13,Auditor,,REP,MARK HUNT,254
+Jackson,Precinct 14,Auditor,,REP,MARK HUNT,517
+Jackson,Precinct 15,Auditor,,REP,MARK HUNT,282
+Jackson,Precinct 16,Auditor,,REP,MARK HUNT,646
+Jackson,Precinct 17,Auditor,,REP,MARK HUNT,730
+Jackson,Precinct 18,Auditor,,REP,MARK HUNT,648
+Jackson,Precinct 19,Auditor,,REP,MARK HUNT,413
+Jackson,Precinct 20,Auditor,,REP,MARK HUNT,193
+Jackson,Precinct 21,Auditor,,REP,MARK HUNT,115
+Jackson,Precinct 22,Auditor,,REP,MARK HUNT,402
+Jackson,Precinct 23,Auditor,,REP,MARK HUNT,174
+Jackson,Precinct 24,Auditor,,REP,MARK HUNT,106
+Jackson,Precinct 25,Auditor,,REP,MARK HUNT,193
+Jackson,Precinct 26,Auditor,,REP,MARK HUNT,146
+Jackson,Precinct 27,Auditor,,REP,MARK HUNT,187
+Jackson,Precinct 28,Auditor,,REP,MARK HUNT,615
+Jackson,Precinct 29,Auditor,,REP,MARK HUNT,245
+Jackson,Precinct 30,Auditor,,REP,MARK HUNT,418
+Jackson,Precinct 1,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,72
+Jackson,Precinct 2,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,54
+Jackson,Precinct 3,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,63
+Jackson,Precinct 4,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,32
+Jackson,Precinct 5,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,99
+Jackson,Precinct 6,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,160
+Jackson,Precinct 7,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,151
+Jackson,Precinct 8,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,111
+Jackson,Precinct 9,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,73
+Jackson,Precinct 10,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,51
+Jackson,Precinct 11,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,71
+Jackson,Precinct 12,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,133
+Jackson,Precinct 13,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,59
+Jackson,Precinct 14,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,162
+Jackson,Precinct 15,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,61
+Jackson,Precinct 16,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,194
+Jackson,Precinct 17,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,195
+Jackson,Precinct 18,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,173
+Jackson,Precinct 19,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,109
+Jackson,Precinct 20,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,67
+Jackson,Precinct 21,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,33
+Jackson,Precinct 22,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,178
+Jackson,Precinct 23,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,61
+Jackson,Precinct 24,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,29
+Jackson,Precinct 25,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,47
+Jackson,Precinct 26,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,35
+Jackson,Precinct 27,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,35
+Jackson,Precinct 28,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,155
+Jackson,Precinct 29,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,30
+Jackson,Precinct 30,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,122
+Jackson,Precinct 1,TREASURER,,REP,LARRY PACK,215
+Jackson,Precinct 2,TREASURER,,REP,LARRY PACK,221
+Jackson,Precinct 3,TREASURER,,REP,LARRY PACK,408
+Jackson,Precinct 4,TREASURER,,REP,LARRY PACK,144
+Jackson,Precinct 5,TREASURER,,REP,LARRY PACK,278
+Jackson,Precinct 6,TREASURER,,REP,LARRY PACK,335
+Jackson,Precinct 7,TREASURER,,REP,LARRY PACK,392
+Jackson,Precinct 8,TREASURER,,REP,LARRY PACK,239
+Jackson,Precinct 9,TREASURER,,REP,LARRY PACK,235
+Jackson,Precinct 10,TREASURER,,REP,LARRY PACK,259
+Jackson,Precinct 11,TREASURER,,REP,LARRY PACK,328
+Jackson,Precinct 12,TREASURER,,REP,LARRY PACK,511
+Jackson,Precinct 13,TREASURER,,REP,LARRY PACK,287
+Jackson,Precinct 14,TREASURER,,REP,LARRY PACK,613
+Jackson,Precinct 15,TREASURER,,REP,LARRY PACK,312
+Jackson,Precinct 16,TREASURER,,REP,LARRY PACK,739
+Jackson,Precinct 17,TREASURER,,REP,LARRY PACK,818
+Jackson,Precinct 18,TREASURER,,REP,LARRY PACK,751
+Jackson,Precinct 19,TREASURER,,REP,LARRY PACK,468
+Jackson,Precinct 20,TREASURER,,REP,LARRY PACK,230
+Jackson,Precinct 21,TREASURER,,REP,LARRY PACK,129
+Jackson,Precinct 22,TREASURER,,REP,LARRY PACK,478
+Jackson,Precinct 23,TREASURER,,REP,LARRY PACK,194
+Jackson,Precinct 24,TREASURER,,REP,LARRY PACK,118
+Jackson,Precinct 25,TREASURER,,REP,LARRY PACK,219
+Jackson,Precinct 26,TREASURER,,REP,LARRY PACK,159
+Jackson,Precinct 27,TREASURER,,REP,LARRY PACK,211
+Jackson,Precinct 28,TREASURER,,REP,LARRY PACK,704
+Jackson,Precinct 29,TREASURER,,REP,LARRY PACK,260
+Jackson,Precinct 30,TREASURER,,REP,LARRY PACK,477
+Jackson,Precinct 1,Commissioner of Agriculture,,REP,KENT LEONHARDT,169
+Jackson,Precinct 2,Commissioner of Agriculture,,REP,KENT LEONHARDT,198
+Jackson,Precinct 3,Commissioner of Agriculture,,REP,KENT LEONHARDT,388
+Jackson,Precinct 4,Commissioner of Agriculture,,REP,KENT LEONHARDT,131
+Jackson,Precinct 5,Commissioner of Agriculture,,REP,KENT LEONHARDT,234
+Jackson,Precinct 6,Commissioner of Agriculture,,REP,KENT LEONHARDT,256
+Jackson,Precinct 7,Commissioner of Agriculture,,REP,KENT LEONHARDT,313
+Jackson,Precinct 8,Commissioner of Agriculture,,REP,KENT LEONHARDT,176
+Jackson,Precinct 9,Commissioner of Agriculture,,REP,KENT LEONHARDT,192
+Jackson,Precinct 10,Commissioner of Agriculture,,REP,KENT LEONHARDT,220
+Jackson,Precinct 11,Commissioner of Agriculture,,REP,KENT LEONHARDT,292
+Jackson,Precinct 12,Commissioner of Agriculture,,REP,KENT LEONHARDT,428
+Jackson,Precinct 13,Commissioner of Agriculture,,REP,KENT LEONHARDT,251
+Jackson,Precinct 14,Commissioner of Agriculture,,REP,KENT LEONHARDT,539
+Jackson,Precinct 15,Commissioner of Agriculture,,REP,KENT LEONHARDT,283
+Jackson,Precinct 16,Commissioner of Agriculture,,REP,KENT LEONHARDT,677
+Jackson,Precinct 17,Commissioner of Agriculture,,REP,KENT LEONHARDT,740
+Jackson,Precinct 18,Commissioner of Agriculture,,REP,KENT LEONHARDT,662
+Jackson,Precinct 19,Commissioner of Agriculture,,REP,KENT LEONHARDT,422
+Jackson,Precinct 20,Commissioner of Agriculture,,REP,KENT LEONHARDT,181
+Jackson,Precinct 21,Commissioner of Agriculture,,REP,KENT LEONHARDT,107
+Jackson,Precinct 22,Commissioner of Agriculture,,REP,KENT LEONHARDT,406
+Jackson,Precinct 23,Commissioner of Agriculture,,REP,KENT LEONHARDT,174
+Jackson,Precinct 24,Commissioner of Agriculture,,REP,KENT LEONHARDT,113
+Jackson,Precinct 25,Commissioner of Agriculture,,REP,KENT LEONHARDT,196
+Jackson,Precinct 26,Commissioner of Agriculture,,REP,KENT LEONHARDT,138
+Jackson,Precinct 27,Commissioner of Agriculture,,REP,KENT LEONHARDT,178
+Jackson,Precinct 28,Commissioner of Agriculture,,REP,KENT LEONHARDT,632
+Jackson,Precinct 29,Commissioner of Agriculture,,REP,KENT LEONHARDT,241
+Jackson,Precinct 30,Commissioner of Agriculture,,REP,KENT LEONHARDT,418
+Jackson,Precinct 1,Commissioner of Agriculture,,DEM,DEBORAH STILES,76
+Jackson,Precinct 2,Commissioner of Agriculture,,DEM,DEBORAH STILES,66
+Jackson,Precinct 3,Commissioner of Agriculture,,DEM,DEBORAH STILES,59
+Jackson,Precinct 4,Commissioner of Agriculture,,DEM,DEBORAH STILES,34
+Jackson,Precinct 5,Commissioner of Agriculture,,DEM,DEBORAH STILES,93
+Jackson,Precinct 6,Commissioner of Agriculture,,DEM,DEBORAH STILES,168
+Jackson,Precinct 7,Commissioner of Agriculture,,DEM,DEBORAH STILES,163
+Jackson,Precinct 8,Commissioner of Agriculture,,DEM,DEBORAH STILES,120
+Jackson,Precinct 9,Commissioner of Agriculture,,DEM,DEBORAH STILES,80
+Jackson,Precinct 10,Commissioner of Agriculture,,DEM,DEBORAH STILES,68
+Jackson,Precinct 11,Commissioner of Agriculture,,DEM,DEBORAH STILES,70
+Jackson,Precinct 12,Commissioner of Agriculture,,DEM,DEBORAH STILES,144
+Jackson,Precinct 13,Commissioner of Agriculture,,DEM,DEBORAH STILES,61
+Jackson,Precinct 14,Commissioner of Agriculture,,DEM,DEBORAH STILES,147
+Jackson,Precinct 15,Commissioner of Agriculture,,DEM,DEBORAH STILES,66
+Jackson,Precinct 16,Commissioner of Agriculture,,DEM,DEBORAH STILES,176
+Jackson,Precinct 17,Commissioner of Agriculture,,DEM,DEBORAH STILES,182
+Jackson,Precinct 18,Commissioner of Agriculture,,DEM,DEBORAH STILES,164
+Jackson,Precinct 19,Commissioner of Agriculture,,DEM,DEBORAH STILES,107
+Jackson,Precinct 20,Commissioner of Agriculture,,DEM,DEBORAH STILES,79
+Jackson,Precinct 21,Commissioner of Agriculture,,DEM,DEBORAH STILES,33
+Jackson,Precinct 22,Commissioner of Agriculture,,DEM,DEBORAH STILES,169
+Jackson,Precinct 23,Commissioner of Agriculture,,DEM,DEBORAH STILES,57
+Jackson,Precinct 24,Commissioner of Agriculture,,DEM,DEBORAH STILES,20
+Jackson,Precinct 25,Commissioner of Agriculture,,DEM,DEBORAH STILES,48
+Jackson,Precinct 26,Commissioner of Agriculture,,DEM,DEBORAH STILES,39
+Jackson,Precinct 27,Commissioner of Agriculture,,DEM,DEBORAH STILES,44
+Jackson,Precinct 28,Commissioner of Agriculture,,DEM,DEBORAH STILES,138
+Jackson,Precinct 29,Commissioner of Agriculture,,DEM,DEBORAH STILES,29
+Jackson,Precinct 30,Commissioner of Agriculture,,DEM,DEBORAH STILES,116
+Jackson,Precinct 1,Attorney General,,REP,JOHN “JB” McCUSKEY,174
+Jackson,Precinct 2,Attorney General,,REP,JOHN “JB” McCUSKEY,204
+Jackson,Precinct 3,Attorney General,,REP,JOHN “JB” McCUSKEY,389
+Jackson,Precinct 4,Attorney General,,REP,JOHN “JB” McCUSKEY,134
+Jackson,Precinct 5,Attorney General,,REP,JOHN “JB” McCUSKEY,229
+Jackson,Precinct 6,Attorney General,,REP,JOHN “JB” McCUSKEY,254
+Jackson,Precinct 7,Attorney General,,REP,JOHN “JB” McCUSKEY,314
+Jackson,Precinct 8,Attorney General,,REP,JOHN “JB” McCUSKEY,179
+Jackson,Precinct 9,Attorney General,,REP,JOHN “JB” McCUSKEY,198
+Jackson,Precinct 10,Attorney General,,REP,JOHN “JB” McCUSKEY,227
+Jackson,Precinct 11,Attorney General,,REP,JOHN “JB” McCUSKEY,292
+Jackson,Precinct 12,Attorney General,,REP,JOHN “JB” McCUSKEY,452
+Jackson,Precinct 13,Attorney General,,REP,JOHN “JB” McCUSKEY,263
+Jackson,Precinct 14,Attorney General,,REP,JOHN “JB” McCUSKEY,535
+Jackson,Precinct 15,Attorney General,,REP,JOHN “JB” McCUSKEY,281
+Jackson,Precinct 16,Attorney General,,REP,JOHN “JB” McCUSKEY,666
+Jackson,Precinct 17,Attorney General,,REP,JOHN “JB” McCUSKEY,733
+Jackson,Precinct 18,Attorney General,,REP,JOHN “JB” McCUSKEY,683
+Jackson,Precinct 19,Attorney General,,REP,JOHN “JB” McCUSKEY,438
+Jackson,Precinct 20,Attorney General,,REP,JOHN “JB” McCUSKEY,195
+Jackson,Precinct 21,Attorney General,,REP,JOHN “JB” McCUSKEY,115
+Jackson,Precinct 22,Attorney General,,REP,JOHN “JB” McCUSKEY,423
+Jackson,Precinct 23,Attorney General,,REP,JOHN “JB” McCUSKEY,177
+Jackson,Precinct 24,Attorney General,,REP,JOHN “JB” McCUSKEY,119
+Jackson,Precinct 25,Attorney General,,REP,JOHN “JB” McCUSKEY,196
+Jackson,Precinct 26,Attorney General,,REP,JOHN “JB” McCUSKEY,147
+Jackson,Precinct 27,Attorney General,,REP,JOHN “JB” McCUSKEY,188
+Jackson,Precinct 28,Attorney General,,REP,JOHN “JB” McCUSKEY,644
+Jackson,Precinct 29,Attorney General,,REP,JOHN “JB” McCUSKEY,244
+Jackson,Precinct 30,Attorney General,,REP,JOHN “JB” McCUSKEY,437
+Jackson,Precinct 1,Attorney General,,DEM,TERESA TORISEVA,76
+Jackson,Precinct 2,Attorney General,,DEM,TERESA TORISEVA,54
+Jackson,Precinct 3,Attorney General,,DEM,TERESA TORISEVA,59
+Jackson,Precinct 4,Attorney General,,DEM,TERESA TORISEVA,35
+Jackson,Precinct 5,Attorney General,,DEM,TERESA TORISEVA,96
+Jackson,Precinct 6,Attorney General,,DEM,TERESA TORISEVA,173
+Jackson,Precinct 7,Attorney General,,DEM,TERESA TORISEVA,162
+Jackson,Precinct 8,Attorney General,,DEM,TERESA TORISEVA,119
+Jackson,Precinct 9,Attorney General,,DEM,TERESA TORISEVA,78
+Jackson,Precinct 10,Attorney General,,DEM,TERESA TORISEVA,57
+Jackson,Precinct 11,Attorney General,,DEM,TERESA TORISEVA,74
+Jackson,Precinct 12,Attorney General,,DEM,TERESA TORISEVA,129
+Jackson,Precinct 13,Attorney General,,DEM,TERESA TORISEVA,57
+Jackson,Precinct 14,Attorney General,,DEM,TERESA TORISEVA,151
+Jackson,Precinct 15,Attorney General,,DEM,TERESA TORISEVA,63
+Jackson,Precinct 16,Attorney General,,DEM,TERESA TORISEVA,182
+Jackson,Precinct 17,Attorney General,,DEM,TERESA TORISEVA,192
+Jackson,Precinct 18,Attorney General,,DEM,TERESA TORISEVA,146
+Jackson,Precinct 19,Attorney General,,DEM,TERESA TORISEVA,96
+Jackson,Precinct 20,Attorney General,,DEM,TERESA TORISEVA,68
+Jackson,Precinct 21,Attorney General,,DEM,TERESA TORISEVA,29
+Jackson,Precinct 22,Attorney General,,DEM,TERESA TORISEVA,164
+Jackson,Precinct 23,Attorney General,,DEM,TERESA TORISEVA,58
+Jackson,Precinct 24,Attorney General,,DEM,TERESA TORISEVA,19
+Jackson,Precinct 25,Attorney General,,DEM,TERESA TORISEVA,46
+Jackson,Precinct 26,Attorney General,,DEM,TERESA TORISEVA,31
+Jackson,Precinct 27,Attorney General,,DEM,TERESA TORISEVA,36
+Jackson,Precinct 28,Attorney General,,DEM,TERESA TORISEVA,125
+Jackson,Precinct 29,Attorney General,,DEM,TERESA TORISEVA,29
+Jackson,Precinct 30,Attorney General,,DEM,TERESA TORISEVA,106
+Jackson,Precinct 1,State Senate,4,REP,AMY NICHOLE GRADY,175
+Jackson,Precinct 2,State Senate,4,REP,AMY NICHOLE GRADY,201
+Jackson,Precinct 3,State Senate,4,REP,AMY NICHOLE GRADY,391
+Jackson,Precinct 5,State Senate,4,REP,AMY NICHOLE GRADY,234
+Jackson,Precinct 6,State Senate,4,REP,AMY NICHOLE GRADY,261
+Jackson,Precinct 7,State Senate,4,REP,AMY NICHOLE GRADY,327
+Jackson,Precinct 8,State Senate,4,REP,AMY NICHOLE GRADY,185
+Jackson,Precinct 9,State Senate,4,REP,AMY NICHOLE GRADY,202
+Jackson,Precinct 10,State Senate,4,REP,AMY NICHOLE GRADY,235
+Jackson,Precinct 11,State Senate,4,REP,AMY NICHOLE GRADY,308
+Jackson,Precinct 12,State Senate,4,REP,AMY NICHOLE GRADY,457
+Jackson,Precinct 13,State Senate,4,REP,AMY NICHOLE GRADY,245
+Jackson,Precinct 14,State Senate,4,REP,AMY NICHOLE GRADY,540
+Jackson,Precinct 15,State Senate,4,REP,AMY NICHOLE GRADY,286
+Jackson,Precinct 16,State Senate,4,REP,AMY NICHOLE GRADY,674
+Jackson,Precinct 17,State Senate,4,REP,AMY NICHOLE GRADY,740
+Jackson,Precinct 20,State Senate,4,REP,AMY NICHOLE GRADY,197
+Jackson,Precinct 21,State Senate,4,REP,AMY NICHOLE GRADY,117
+Jackson,Precinct 22,State Senate,4,REP,AMY NICHOLE GRADY,410
+Jackson,Precinct 23,State Senate,4,REP,AMY NICHOLE GRADY,176
+Jackson,Precinct 24,State Senate,4,REP,AMY NICHOLE GRADY,111
+Jackson,Precinct 1,State Senate,4,DEM,DWAYNE RUSSELL,70
+Jackson,Precinct 2,State Senate,4,DEM,DWAYNE RUSSELL,64
+Jackson,Precinct 3,State Senate,4,DEM,DWAYNE RUSSELL,59
+Jackson,Precinct 5,State Senate,4,DEM,DWAYNE RUSSELL,95
+Jackson,Precinct 6,State Senate,4,DEM,DWAYNE RUSSELL,162
+Jackson,Precinct 7,State Senate,4,DEM,DWAYNE RUSSELL,150
+Jackson,Precinct 8,State Senate,4,DEM,DWAYNE RUSSELL,111
+Jackson,Precinct 9,State Senate,4,DEM,DWAYNE RUSSELL,74
+Jackson,Precinct 10,State Senate,4,DEM,DWAYNE RUSSELL,56
+Jackson,Precinct 11,State Senate,4,DEM,DWAYNE RUSSELL,56
+Jackson,Precinct 12,State Senate,4,DEM,DWAYNE RUSSELL,127
+Jackson,Precinct 13,State Senate,4,DEM,DWAYNE RUSSELL,67
+Jackson,Precinct 14,State Senate,4,DEM,DWAYNE RUSSELL,140
+Jackson,Precinct 15,State Senate,4,DEM,DWAYNE RUSSELL,60
+Jackson,Precinct 16,State Senate,4,DEM,DWAYNE RUSSELL,183
+Jackson,Precinct 17,State Senate,4,DEM,DWAYNE RUSSELL,192
+Jackson,Precinct 20,State Senate,4,DEM,DWAYNE RUSSELL,70
+Jackson,Precinct 21,State Senate,4,DEM,DWAYNE RUSSELL,29
+Jackson,Precinct 22,State Senate,4,DEM,DWAYNE RUSSELL,181
+Jackson,Precinct 23,State Senate,4,DEM,DWAYNE RUSSELL,57
+Jackson,Precinct 24,State Senate,4,DEM,DWAYNE RUSSELL,20
+Jackson,Precinct 4,State Senate,8,REP,GLENN D. JEFFRIES,143
+Jackson,Precinct 18,State Senate,8,REP,GLENN D. JEFFRIES,752
+Jackson,Precinct 19,State Senate,8,REP,GLENN D. JEFFRIES,473
+Jackson,Precinct 25,State Senate,8,REP,GLENN D. JEFFRIES,222
+Jackson,Precinct 26,State Senate,8,REP,GLENN D. JEFFRIES,161
+Jackson,Precinct 27,State Senate,8,REP,GLENN D. JEFFRIES,207
+Jackson,Precinct 28,State Senate,8,REP,GLENN D. JEFFRIES,703
+Jackson,Precinct 29,State Senate,8,REP,GLENN D. JEFFRIES,258
+Jackson,Precinct 30,State Senate,8,REP,GLENN D. JEFFRIES,476
+Jackson,Precinct 3,State House,16,REP,FREDERICK HAPPY JOE PARSONS,421
+Jackson,Precinct 4,State House,16,REP,FREDERICK HAPPY JOE PARSONS,144
+Jackson,Precinct 10,State House,16,REP,FREDERICK HAPPY JOE PARSONS,251
+Jackson,Precinct 11,State House,16,REP,FREDERICK HAPPY JOE PARSONS,341
+Jackson,Precinct 15,State House,16,REP,FREDERICK HAPPY JOE PARSONS,321
+Jackson,Precinct 16,State House,16,REP,FREDERICK HAPPY JOE PARSONS,748
+Jackson,Precinct 17,State House,16,REP,FREDERICK HAPPY JOE PARSONS,831
+Jackson,Precinct 18,State House,16,REP,FREDERICK HAPPY JOE PARSONS,744
+Jackson,Precinct 19,State House,16,REP,FREDERICK HAPPY JOE PARSONS,468
+Jackson,Precinct 20,State House,16,REP,FREDERICK HAPPY JOE PARSONS,227
+Jackson,Precinct 21,State House,16,REP,FREDERICK HAPPY JOE PARSONS,131
+Jackson,Precinct 22,State House,16,REP,FREDERICK HAPPY JOE PARSONS,485
+Jackson,Precinct 23,State House,16,REP,FREDERICK HAPPY JOE PARSONS,210
+Jackson,Precinct 24,State House,16,REP,FREDERICK HAPPY JOE PARSONS,119
+Jackson,Precinct 25,State House,16,REP,FREDERICK HAPPY JOE PARSONS,228
+Jackson,Precinct 26,State House,16,REP,FREDERICK HAPPY JOE PARSONS,161
+Jackson,Precinct 27,State House,16,REP,FREDERICK HAPPY JOE PARSONS,210
+Jackson,Precinct 28,State House,16,REP,FREDERICK HAPPY JOE PARSONS,706
+Jackson,Precinct 29,State House,16,REP,FREDERICK HAPPY JOE PARSONS,249
+Jackson,Precinct 30,State House,16,REP,FREDERICK HAPPY JOE PARSONS,487
+Jackson,Precinct 1,State House,17,REP,JONATHAN ADAM PINSON,215
+Jackson,Precinct 2,State House,17,REP,JONATHAN ADAM PINSON,228
+Jackson,Precinct 5,State House,17,REP,JONATHAN ADAM PINSON,287
+Jackson,Precinct 6,State House,17,REP,JONATHAN ADAM PINSON,345
+Jackson,Precinct 7,State House,17,REP,JONATHAN ADAM PINSON,397
+Jackson,Precinct 8,State House,17,REP,JONATHAN ADAM PINSON,243
+Jackson,Precinct 9,State House,17,REP,JONATHAN ADAM PINSON,233
+Jackson,Precinct 12,State House,17,REP,JONATHAN ADAM PINSON,517
+Jackson,Precinct 13,State House,17,REP,JONATHAN ADAM PINSON,288
+Jackson,Precinct 14,State House,17,REP,JONATHAN ADAM PINSON,612
+Jackson,Precinct 1,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,215
+Jackson,Precinct 2,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,224
+Jackson,Precinct 3,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,413
+Jackson,Precinct 4,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,145
+Jackson,Precinct 5,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,285
+Jackson,Precinct 6,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,343
+Jackson,Precinct 7,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,402
+Jackson,Precinct 8,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,247
+Jackson,Precinct 9,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,243
+Jackson,Precinct 10,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,253
+Jackson,Precinct 11,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,322
+Jackson,Precinct 12,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,514
+Jackson,Precinct 13,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,288
+Jackson,Precinct 14,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,617
+Jackson,Precinct 15,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,317
+Jackson,Precinct 16,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,764
+Jackson,Precinct 17,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,836
+Jackson,Precinct 18,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,742
+Jackson,Precinct 19,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,472
+Jackson,Precinct 20,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,227
+Jackson,Precinct 21,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,125
+Jackson,Precinct 22,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,492
+Jackson,Precinct 23,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,211
+Jackson,Precinct 24,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,114
+Jackson,Precinct 25,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,223
+Jackson,Precinct 26,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,169
+Jackson,Precinct 27,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,205
+Jackson,Precinct 28,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,709
+Jackson,Precinct 29,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,256
+Jackson,Precinct 30,FOR COUNTY COMMISSIONER,,REP,STEVE WESTFALL,491
+Jackson,Precinct 1,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,222
+Jackson,Precinct 2,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,232
+Jackson,Precinct 3,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,429
+Jackson,Precinct 4,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,145
+Jackson,Precinct 5,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,283
+Jackson,Precinct 6,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,347
+Jackson,Precinct 7,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,404
+Jackson,Precinct 8,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,244
+Jackson,Precinct 9,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,242
+Jackson,Precinct 10,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,263
+Jackson,Precinct 11,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,339
+Jackson,Precinct 12,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,527
+Jackson,Precinct 13,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,294
+Jackson,Precinct 14,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,637
+Jackson,Precinct 15,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,315
+Jackson,Precinct 16,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,775
+Jackson,Precinct 17,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,837
+Jackson,Precinct 18,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,765
+Jackson,Precinct 19,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,471
+Jackson,Precinct 20,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,237
+Jackson,Precinct 21,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,133
+Jackson,Precinct 22,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,505
+Jackson,Precinct 23,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,212
+Jackson,Precinct 24,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,121
+Jackson,Precinct 25,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,227
+Jackson,Precinct 26,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,164
+Jackson,Precinct 27,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,212
+Jackson,Precinct 28,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,708
+Jackson,Precinct 29,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,260
+Jackson,Precinct 30,FOR PROSECUTING ATTORNEY,,REP,DAVID KYLE MOORE,478
+Jackson,Precinct 1,FOR SHERIFF,,REP,ROSS MELLINGER,210
+Jackson,Precinct 2,FOR SHERIFF,,REP,ROSS MELLINGER,222
+Jackson,Precinct 3,FOR SHERIFF,,REP,ROSS MELLINGER,418
+Jackson,Precinct 4,FOR SHERIFF,,REP,ROSS MELLINGER,143
+Jackson,Precinct 5,FOR SHERIFF,,REP,ROSS MELLINGER,285
+Jackson,Precinct 6,FOR SHERIFF,,REP,ROSS MELLINGER,347
+Jackson,Precinct 7,FOR SHERIFF,,REP,ROSS MELLINGER,403
+Jackson,Precinct 8,FOR SHERIFF,,REP,ROSS MELLINGER,241
+Jackson,Precinct 9,FOR SHERIFF,,REP,ROSS MELLINGER,230
+Jackson,Precinct 10,FOR SHERIFF,,REP,ROSS MELLINGER,253
+Jackson,Precinct 11,FOR SHERIFF,,REP,ROSS MELLINGER,326
+Jackson,Precinct 12,FOR SHERIFF,,REP,ROSS MELLINGER,508
+Jackson,Precinct 13,FOR SHERIFF,,REP,ROSS MELLINGER,274
+Jackson,Precinct 14,FOR SHERIFF,,REP,ROSS MELLINGER,611
+Jackson,Precinct 15,FOR SHERIFF,,REP,ROSS MELLINGER,304
+Jackson,Precinct 16,FOR SHERIFF,,REP,ROSS MELLINGER,756
+Jackson,Precinct 17,FOR SHERIFF,,REP,ROSS MELLINGER,791
+Jackson,Precinct 18,FOR SHERIFF,,REP,ROSS MELLINGER,733
+Jackson,Precinct 19,FOR SHERIFF,,REP,ROSS MELLINGER,459
+Jackson,Precinct 20,FOR SHERIFF,,REP,ROSS MELLINGER,225
+Jackson,Precinct 21,FOR SHERIFF,,REP,ROSS MELLINGER,127
+Jackson,Precinct 22,FOR SHERIFF,,REP,ROSS MELLINGER,462
+Jackson,Precinct 23,FOR SHERIFF,,REP,ROSS MELLINGER,196
+Jackson,Precinct 24,FOR SHERIFF,,REP,ROSS MELLINGER,112
+Jackson,Precinct 25,FOR SHERIFF,,REP,ROSS MELLINGER,214
+Jackson,Precinct 26,FOR SHERIFF,,REP,ROSS MELLINGER,150
+Jackson,Precinct 27,FOR SHERIFF,,REP,ROSS MELLINGER,194
+Jackson,Precinct 28,FOR SHERIFF,,REP,ROSS MELLINGER,703
+Jackson,Precinct 29,FOR SHERIFF,,REP,ROSS MELLINGER,255
+Jackson,Precinct 30,FOR SHERIFF,,REP,ROSS MELLINGER,472
+Jackson,Precinct 1,FOR ASSESSOR,,REP,TIM QUESENBERRY,222
+Jackson,Precinct 2,FOR ASSESSOR,,REP,TIM QUESENBERRY,235
+Jackson,Precinct 3,FOR ASSESSOR,,REP,TIM QUESENBERRY,417
+Jackson,Precinct 4,FOR ASSESSOR,,REP,TIM QUESENBERRY,149
+Jackson,Precinct 5,FOR ASSESSOR,,REP,TIM QUESENBERRY,289
+Jackson,Precinct 6,FOR ASSESSOR,,REP,TIM QUESENBERRY,344
+Jackson,Precinct 7,FOR ASSESSOR,,REP,TIM QUESENBERRY,409
+Jackson,Precinct 8,FOR ASSESSOR,,REP,TIM QUESENBERRY,239
+Jackson,Precinct 9,FOR ASSESSOR,,REP,TIM QUESENBERRY,246
+Jackson,Precinct 10,FOR ASSESSOR,,REP,TIM QUESENBERRY,271
+Jackson,Precinct 11,FOR ASSESSOR,,REP,TIM QUESENBERRY,344
+Jackson,Precinct 12,FOR ASSESSOR,,REP,TIM QUESENBERRY,515
+Jackson,Precinct 13,FOR ASSESSOR,,REP,TIM QUESENBERRY,289
+Jackson,Precinct 14,FOR ASSESSOR,,REP,TIM QUESENBERRY,624
+Jackson,Precinct 15,FOR ASSESSOR,,REP,TIM QUESENBERRY,320
+Jackson,Precinct 16,FOR ASSESSOR,,REP,TIM QUESENBERRY,777
+Jackson,Precinct 17,FOR ASSESSOR,,REP,TIM QUESENBERRY,855
+Jackson,Precinct 18,FOR ASSESSOR,,REP,TIM QUESENBERRY,774
+Jackson,Precinct 19,FOR ASSESSOR,,REP,TIM QUESENBERRY,475
+Jackson,Precinct 20,FOR ASSESSOR,,REP,TIM QUESENBERRY,239
+Jackson,Precinct 21,FOR ASSESSOR,,REP,TIM QUESENBERRY,133
+Jackson,Precinct 22,FOR ASSESSOR,,REP,TIM QUESENBERRY,509
+Jackson,Precinct 23,FOR ASSESSOR,,REP,TIM QUESENBERRY,213
+Jackson,Precinct 24,FOR ASSESSOR,,REP,TIM QUESENBERRY,121
+Jackson,Precinct 25,FOR ASSESSOR,,REP,TIM QUESENBERRY,230
+Jackson,Precinct 26,FOR ASSESSOR,,REP,TIM QUESENBERRY,164
+Jackson,Precinct 27,FOR ASSESSOR,,REP,TIM QUESENBERRY,217
+Jackson,Precinct 28,FOR ASSESSOR,,REP,TIM QUESENBERRY,727
+Jackson,Precinct 29,FOR ASSESSOR,,REP,TIM QUESENBERRY,264
+Jackson,Precinct 30,FOR ASSESSOR,,REP,TIM QUESENBERRY,491
+Jackson,Precinct 1,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 2,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 3,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 4,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 5,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 6,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 7,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 8,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 9,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 10,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 11,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 12,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 13,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 14,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 15,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 16,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 17,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 18,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 19,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 20,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 21,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 22,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 23,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 24,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 25,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 26,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 27,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 28,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 29,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 30,FOR SURVEYOR,,REP,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 1,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 2,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 3,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 4,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 5,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 6,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 7,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 8,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 9,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 10,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 11,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 12,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 13,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 14,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 15,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 16,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 17,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 18,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 19,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 20,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 21,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 22,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 23,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 24,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 25,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 26,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 27,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 28,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 29,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 30,FOR SURVEYOR,,DEM,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 1,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 2,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 3,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 4,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 5,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 6,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 7,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 8,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 9,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 10,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 11,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 12,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 13,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 14,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 15,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 16,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 17,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 18,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 19,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 20,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 21,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 22,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 23,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 24,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 25,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 26,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 27,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 28,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 29,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 30,FOR SURVEYOR,,LBN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 1,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 2,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 3,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 4,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 5,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 6,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 7,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 8,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 9,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 10,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 11,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 12,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 13,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 14,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 15,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 16,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 17,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 18,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 19,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 20,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 21,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 22,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 23,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 24,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 25,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 26,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 27,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 28,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 29,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 30,FOR SURVEYOR,,MTN,NO CANDIDATE(S)  NOMINATED,0
+Jackson,Precinct 1,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,113
+Jackson,Precinct 2,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,118
+Jackson,Precinct 3,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,240
+Jackson,Precinct 4,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,74
+Jackson,Precinct 5,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,155
+Jackson,Precinct 6,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,186
+Jackson,Precinct 7,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,224
+Jackson,Precinct 8,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,136
+Jackson,Precinct 9,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,126
+Jackson,Precinct 10,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,131
+Jackson,Precinct 11,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,156
+Jackson,Precinct 12,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,264
+Jackson,Precinct 13,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,145
+Jackson,Precinct 14,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,338
+Jackson,Precinct 15,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,166
+Jackson,Precinct 16,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,394
+Jackson,Precinct 17,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,444
+Jackson,Precinct 18,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,385
+Jackson,Precinct 19,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,247
+Jackson,Precinct 20,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,126
+Jackson,Precinct 21,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,74
+Jackson,Precinct 22,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,264
+Jackson,Precinct 23,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,112
+Jackson,Precinct 24,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,68
+Jackson,Precinct 25,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,122
+Jackson,Precinct 26,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,84
+Jackson,Precinct 27,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,102
+Jackson,Precinct 28,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,342
+Jackson,Precinct 29,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,150
+Jackson,Precinct 30,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,252
+Jackson,Precinct 1,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,122
+Jackson,Precinct 2,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,123
+Jackson,Precinct 3,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,183
+Jackson,Precinct 4,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,86
+Jackson,Precinct 5,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,154
+Jackson,Precinct 6,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,220
+Jackson,Precinct 7,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,238
+Jackson,Precinct 8,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,149
+Jackson,Precinct 9,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,133
+Jackson,Precinct 10,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,140
+Jackson,Precinct 11,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,200
+Jackson,Precinct 12,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,279
+Jackson,Precinct 13,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,154
+Jackson,Precinct 14,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,323
+Jackson,Precinct 15,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,156
+Jackson,Precinct 16,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,423
+Jackson,Precinct 17,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,434
+Jackson,Precinct 18,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,424
+Jackson,Precinct 19,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,250
+Jackson,Precinct 20,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,135
+Jackson,Precinct 21,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,65
+Jackson,Precinct 22,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,302
+Jackson,Precinct 23,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,123
+Jackson,Precinct 24,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,63
+Jackson,Precinct 25,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,104
+Jackson,Precinct 26,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,87
+Jackson,Precinct 27,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,99
+Jackson,Precinct 28,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,389
+Jackson,Precinct 29,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,103
+Jackson,Precinct 30,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,252

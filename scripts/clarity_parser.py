@@ -1,16 +1,59 @@
 import clarify
+import click
+import re
 import requests
 import zipfile
 import csv
+from pathlib import Path
 
 try:
     from StringIO import StringIO
 except ImportError:
     from io import StringIO, BytesIO
 
-def statewide_results(url):
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+    'Referer': 'https://results.enr.clarityelections.com/',
+}
+
+OFFICE_MAP = {
+    'PRESIDENT': 'President',
+    'U.S. PRESIDENT': 'President',
+    'U.S. SENATOR': 'U.S. Senate',
+    'U.S. HOUSE OF REPRESENTATIVES': 'U.S. House',
+    'STATE SENATOR': 'State Senate',
+    'HOUSE OF DELEGATES': 'State House',
+    'GOVERNOR': 'Governor',
+    'ATTORNEY GENERAL': 'Attorney General',
+    'SECRETARY OF STATE': 'Secretary of State',
+    'STATE TREASURER': 'State Treasurer',
+    'TREASURER': 'State Treasurer',
+    'AUDITOR': 'Auditor',
+    'COMMISSIONER OF AGRICULTURE': 'Commissioner of Agriculture',
+    'SUPERINTENDENT OF SCHOOLS': 'Superintendent of Schools',
+    'NON-PARTISAN ELECTION OF JUDGE OF THE INTERMEDIATE COURT OF APPEALS': 'Intermediate Court of Appeals',
+    'NON': 'Supreme Court of Appeals',
+}
+
+def normalize_office(office, district):
+    """Map raw office/district strings to normalized names and a bare district number."""
+    normalized = office
+    for key, value in OFFICE_MAP.items():
+        if office.upper().startswith(key):
+            normalized = value
+            break
+
+    if district:
+        m = re.search(r'\d+', str(district))
+        district_num = m.group() if m else None
+    else:
+        district_num = None
+
+    return normalized, district_num
+
+def statewide_results(url, output_file):
     j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get("https://results.enr.clarityelections.com//WV//106210/272340/reports/detailxml.zip", stream=True)
+    r = requests.get(j.report_url('xml'), headers=HEADERS, stream=True)
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -43,27 +86,37 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20201103__wv__general__county.csv", "wt") as csvfile:
+    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
+    with open(output_file, "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
+            if row['county'] is None:
+                continue
+            office, district = normalize_office(row['office'], row['district'])
             total_votes = row['Election Day']# + row['Absentee by Mail'] + row['Advance in Person'] + row['Provisional']
-            w.writerow([row['county'], row['office'], row['district'], row['party'], row['candidate'], total_votes])
+            w.writerow([row['county'], office, district, row['party'], row['candidate'], total_votes])
 
 def download_county_files(url, filename):
     no_xml = []
     j = clarify.Jurisdiction(url=url, level="state")
     subs = j.get_subjurisdictions()
     for sub in subs:
+        report_url = sub.report_url('xml')
+        if report_url is None:
+            print(f"{sub.name}: no XML report available, skipping")
+            no_xml.append(sub.name)
+            continue
         try:
-            r = requests.get(sub.report_url('xml'), stream=True)
+            r = requests.get(report_url, headers=HEADERS, stream=True)
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
-            precinct_results(sub.name.replace(' ','_').lower(),filename)
-        except:
+            precinct_results(sub.name.replace(' ','_').lower(), filename)
+        except Exception as e:
+            print(f"{sub.name}: failed ({e})")
             no_xml.append(sub.name)
 
-    print(no_xml)
+    print("Counties without results:", no_xml)
 
 def precinct_results(county_name, filename):
     f = filename + '__' + county_name + '__precinct.csv'
@@ -115,8 +168,9 @@ def precinct_results(county_name, filename):
                 row['party'] = 'REP'
             elif 'Democrat' in row['office']:
                 row['party'] = 'DEM'
+            office, district = normalize_office(row['office'], row['district'])
             total_votes = sum([row[k] for k in vote_types if row[k]])
-            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes])# + [row[k] for k in vote_types])
+            w.writerow([row['county'], row['precinct'], office, district, row['party'], row['candidate'], total_votes])# + [row[k] for k in vote_types])
 
 
 def parse_office(office_text):
@@ -143,3 +197,28 @@ def parse_party(office_text):
     else:
         party = None
     return party
+
+
+@click.group()
+def cli():
+    pass
+
+
+@cli.command('statewide')
+@click.argument('url')
+@click.argument('output_file')
+def statewide_cmd(url, output_file):
+    """Download statewide county-level results from a Clarity URL and write to OUTPUT_FILE."""
+    statewide_results(url, output_file)
+
+
+@cli.command('precincts')
+@click.argument('url')
+@click.argument('filename')
+def precincts_cmd(url, filename):
+    """Download precinct-level results for all counties from a Clarity URL."""
+    download_county_files(url, filename)
+
+
+if __name__ == '__main__':
+    cli()

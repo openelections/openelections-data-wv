@@ -1,0 +1,588 @@
+county,precinct,office,district,party,candidate,votes
+Taylor,Precinct 1,President,,REP,DONALD J. TRUMP,534
+Taylor,Precinct 2,President,,REP,DONALD J. TRUMP,507
+Taylor,Precinct 3,President,,REP,DONALD J. TRUMP,361
+Taylor,Precinct 4,President,,REP,DONALD J. TRUMP,182
+Taylor,Precinct 5,President,,REP,DONALD J. TRUMP,448
+Taylor,Precinct 6,President,,REP,DONALD J. TRUMP,201
+Taylor,Precinct 9,President,,REP,DONALD J. TRUMP,218
+Taylor,Precinct 10,President,,REP,DONALD J. TRUMP,513
+Taylor,Precinct 11,President,,REP,DONALD J. TRUMP,153
+Taylor,Precinct 12,President,,REP,DONALD J. TRUMP,329
+Taylor,Precinct 14,President,,REP,DONALD J. TRUMP,220
+Taylor,Precinct 17,President,,REP,DONALD J. TRUMP,292
+Taylor,Precinct 19,President,,REP,DONALD J. TRUMP,349
+Taylor,Precinct 26,President,,REP,DONALD J. TRUMP,280
+Taylor,Precinct 29,President,,REP,DONALD J. TRUMP,149
+Taylor,Precinct 31,President,,REP,DONALD J. TRUMP,260
+Taylor,Precinct 36,President,,REP,DONALD J. TRUMP,426
+Taylor,Precinct 1,President,,DEM,KAMALA D. HARRIS,144
+Taylor,Precinct 2,President,,DEM,KAMALA D. HARRIS,155
+Taylor,Precinct 3,President,,DEM,KAMALA D. HARRIS,143
+Taylor,Precinct 4,President,,DEM,KAMALA D. HARRIS,69
+Taylor,Precinct 5,President,,DEM,KAMALA D. HARRIS,142
+Taylor,Precinct 6,President,,DEM,KAMALA D. HARRIS,39
+Taylor,Precinct 9,President,,DEM,KAMALA D. HARRIS,68
+Taylor,Precinct 10,President,,DEM,KAMALA D. HARRIS,154
+Taylor,Precinct 11,President,,DEM,KAMALA D. HARRIS,29
+Taylor,Precinct 12,President,,DEM,KAMALA D. HARRIS,121
+Taylor,Precinct 14,President,,DEM,KAMALA D. HARRIS,68
+Taylor,Precinct 17,President,,DEM,KAMALA D. HARRIS,79
+Taylor,Precinct 19,President,,DEM,KAMALA D. HARRIS,91
+Taylor,Precinct 26,President,,DEM,KAMALA D. HARRIS,102
+Taylor,Precinct 29,President,,DEM,KAMALA D. HARRIS,60
+Taylor,Precinct 31,President,,DEM,KAMALA D. HARRIS,108
+Taylor,Precinct 36,President,,DEM,KAMALA D. HARRIS,122
+Taylor,Precinct 1,President,,LBN,CHASE OLIVER,4
+Taylor,Precinct 2,President,,LBN,CHASE OLIVER,4
+Taylor,Precinct 3,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 4,President,,LBN,CHASE OLIVER,2
+Taylor,Precinct 5,President,,LBN,CHASE OLIVER,3
+Taylor,Precinct 6,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 9,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 10,President,,LBN,CHASE OLIVER,3
+Taylor,Precinct 11,President,,LBN,CHASE OLIVER,0
+Taylor,Precinct 12,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 14,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 17,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 19,President,,LBN,CHASE OLIVER,4
+Taylor,Precinct 26,President,,LBN,CHASE OLIVER,0
+Taylor,Precinct 29,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 31,President,,LBN,CHASE OLIVER,0
+Taylor,Precinct 36,President,,LBN,CHASE OLIVER,1
+Taylor,Precinct 1,President,,MTN,JILL STEIN,4
+Taylor,Precinct 2,President,,MTN,JILL STEIN,0
+Taylor,Precinct 3,President,,MTN,JILL STEIN,1
+Taylor,Precinct 4,President,,MTN,JILL STEIN,1
+Taylor,Precinct 5,President,,MTN,JILL STEIN,4
+Taylor,Precinct 6,President,,MTN,JILL STEIN,1
+Taylor,Precinct 9,President,,MTN,JILL STEIN,0
+Taylor,Precinct 10,President,,MTN,JILL STEIN,2
+Taylor,Precinct 11,President,,MTN,JILL STEIN,0
+Taylor,Precinct 12,President,,MTN,JILL STEIN,2
+Taylor,Precinct 14,President,,MTN,JILL STEIN,0
+Taylor,Precinct 17,President,,MTN,JILL STEIN,0
+Taylor,Precinct 19,President,,MTN,JILL STEIN,2
+Taylor,Precinct 26,President,,MTN,JILL STEIN,1
+Taylor,Precinct 29,President,,MTN,JILL STEIN,2
+Taylor,Precinct 31,President,,MTN,JILL STEIN,0
+Taylor,Precinct 36,President,,MTN,JILL STEIN,1
+Taylor,Precinct 1,President,,IND,ROBERT F. KENNEDY JR.,9
+Taylor,Precinct 2,President,,IND,ROBERT F. KENNEDY JR.,12
+Taylor,Precinct 3,President,,IND,ROBERT F. KENNEDY JR.,5
+Taylor,Precinct 4,President,,IND,ROBERT F. KENNEDY JR.,3
+Taylor,Precinct 5,President,,IND,ROBERT F. KENNEDY JR.,6
+Taylor,Precinct 6,President,,IND,ROBERT F. KENNEDY JR.,1
+Taylor,Precinct 9,President,,IND,ROBERT F. KENNEDY JR.,1
+Taylor,Precinct 10,President,,IND,ROBERT F. KENNEDY JR.,13
+Taylor,Precinct 11,President,,IND,ROBERT F. KENNEDY JR.,3
+Taylor,Precinct 12,President,,IND,ROBERT F. KENNEDY JR.,5
+Taylor,Precinct 14,President,,IND,ROBERT F. KENNEDY JR.,6
+Taylor,Precinct 17,President,,IND,ROBERT F. KENNEDY JR.,7
+Taylor,Precinct 19,President,,IND,ROBERT F. KENNEDY JR.,6
+Taylor,Precinct 26,President,,IND,ROBERT F. KENNEDY JR.,7
+Taylor,Precinct 29,President,,IND,ROBERT F. KENNEDY JR.,3
+Taylor,Precinct 31,President,,IND,ROBERT F. KENNEDY JR.,5
+Taylor,Precinct 36,President,,IND,ROBERT F. KENNEDY JR.,8
+Taylor,Precinct 1,U.S. Senate,,REP,JIM JUSTICE,531
+Taylor,Precinct 2,U.S. Senate,,REP,JIM JUSTICE,496
+Taylor,Precinct 3,U.S. Senate,,REP,JIM JUSTICE,359
+Taylor,Precinct 4,U.S. Senate,,REP,JIM JUSTICE,181
+Taylor,Precinct 5,U.S. Senate,,REP,JIM JUSTICE,448
+Taylor,Precinct 6,U.S. Senate,,REP,JIM JUSTICE,183
+Taylor,Precinct 9,U.S. Senate,,REP,JIM JUSTICE,207
+Taylor,Precinct 10,U.S. Senate,,REP,JIM JUSTICE,501
+Taylor,Precinct 11,U.S. Senate,,REP,JIM JUSTICE,150
+Taylor,Precinct 12,U.S. Senate,,REP,JIM JUSTICE,326
+Taylor,Precinct 14,U.S. Senate,,REP,JIM JUSTICE,222
+Taylor,Precinct 17,U.S. Senate,,REP,JIM JUSTICE,299
+Taylor,Precinct 19,U.S. Senate,,REP,JIM JUSTICE,333
+Taylor,Precinct 26,U.S. Senate,,REP,JIM JUSTICE,286
+Taylor,Precinct 29,U.S. Senate,,REP,JIM JUSTICE,151
+Taylor,Precinct 31,U.S. Senate,,REP,JIM JUSTICE,254
+Taylor,Precinct 36,U.S. Senate,,REP,JIM JUSTICE,417
+Taylor,Precinct 1,U.S. Senate,,DEM,GLENN ELLIOTT,126
+Taylor,Precinct 2,U.S. Senate,,DEM,GLENN ELLIOTT,146
+Taylor,Precinct 3,U.S. Senate,,DEM,GLENN ELLIOTT,124
+Taylor,Precinct 4,U.S. Senate,,DEM,GLENN ELLIOTT,62
+Taylor,Precinct 5,U.S. Senate,,DEM,GLENN ELLIOTT,133
+Taylor,Precinct 6,U.S. Senate,,DEM,GLENN ELLIOTT,43
+Taylor,Precinct 9,U.S. Senate,,DEM,GLENN ELLIOTT,60
+Taylor,Precinct 10,U.S. Senate,,DEM,GLENN ELLIOTT,144
+Taylor,Precinct 11,U.S. Senate,,DEM,GLENN ELLIOTT,27
+Taylor,Precinct 12,U.S. Senate,,DEM,GLENN ELLIOTT,102
+Taylor,Precinct 14,U.S. Senate,,DEM,GLENN ELLIOTT,61
+Taylor,Precinct 17,U.S. Senate,,DEM,GLENN ELLIOTT,66
+Taylor,Precinct 19,U.S. Senate,,DEM,GLENN ELLIOTT,87
+Taylor,Precinct 26,U.S. Senate,,DEM,GLENN ELLIOTT,80
+Taylor,Precinct 29,U.S. Senate,,DEM,GLENN ELLIOTT,54
+Taylor,Precinct 31,U.S. Senate,,DEM,GLENN ELLIOTT,100
+Taylor,Precinct 36,U.S. Senate,,DEM,GLENN ELLIOTT,103
+Taylor,Precinct 1,U.S. Senate,,LBN,DAVID MORAN,31
+Taylor,Precinct 2,U.S. Senate,,LBN,DAVID MORAN,37
+Taylor,Precinct 3,U.S. Senate,,LBN,DAVID MORAN,20
+Taylor,Precinct 4,U.S. Senate,,LBN,DAVID MORAN,12
+Taylor,Precinct 5,U.S. Senate,,LBN,DAVID MORAN,23
+Taylor,Precinct 6,U.S. Senate,,LBN,DAVID MORAN,11
+Taylor,Precinct 9,U.S. Senate,,LBN,DAVID MORAN,16
+Taylor,Precinct 10,U.S. Senate,,LBN,DAVID MORAN,32
+Taylor,Precinct 11,U.S. Senate,,LBN,DAVID MORAN,5
+Taylor,Precinct 12,U.S. Senate,,LBN,DAVID MORAN,22
+Taylor,Precinct 14,U.S. Senate,,LBN,DAVID MORAN,13
+Taylor,Precinct 17,U.S. Senate,,LBN,DAVID MORAN,14
+Taylor,Precinct 19,U.S. Senate,,LBN,DAVID MORAN,25
+Taylor,Precinct 26,U.S. Senate,,LBN,DAVID MORAN,18
+Taylor,Precinct 29,U.S. Senate,,LBN,DAVID MORAN,11
+Taylor,Precinct 31,U.S. Senate,,LBN,DAVID MORAN,18
+Taylor,Precinct 36,U.S. Senate,,LBN,DAVID MORAN,29
+Taylor,Precinct 1,U.S. House,2,REP,RILEY MOORE,544
+Taylor,Precinct 2,U.S. House,2,REP,RILEY MOORE,514
+Taylor,Precinct 3,U.S. House,2,REP,RILEY MOORE,359
+Taylor,Precinct 4,U.S. House,2,REP,RILEY MOORE,175
+Taylor,Precinct 5,U.S. House,2,REP,RILEY MOORE,454
+Taylor,Precinct 6,U.S. House,2,REP,RILEY MOORE,187
+Taylor,Precinct 9,U.S. House,2,REP,RILEY MOORE,211
+Taylor,Precinct 10,U.S. House,2,REP,RILEY MOORE,504
+Taylor,Precinct 11,U.S. House,2,REP,RILEY MOORE,145
+Taylor,Precinct 12,U.S. House,2,REP,RILEY MOORE,329
+Taylor,Precinct 14,U.S. House,2,REP,RILEY MOORE,219
+Taylor,Precinct 17,U.S. House,2,REP,RILEY MOORE,297
+Taylor,Precinct 19,U.S. House,2,REP,RILEY MOORE,345
+Taylor,Precinct 26,U.S. House,2,REP,RILEY MOORE,283
+Taylor,Precinct 29,U.S. House,2,REP,RILEY MOORE,151
+Taylor,Precinct 31,U.S. House,2,REP,RILEY MOORE,268
+Taylor,Precinct 36,U.S. House,2,REP,RILEY MOORE,415
+Taylor,Precinct 1,U.S. House,2,DEM,STEVEN WENDELIN,128
+Taylor,Precinct 2,U.S. House,2,DEM,STEVEN WENDELIN,154
+Taylor,Precinct 3,U.S. House,2,DEM,STEVEN WENDELIN,129
+Taylor,Precinct 4,U.S. House,2,DEM,STEVEN WENDELIN,70
+Taylor,Precinct 5,U.S. House,2,DEM,STEVEN WENDELIN,140
+Taylor,Precinct 6,U.S. House,2,DEM,STEVEN WENDELIN,44
+Taylor,Precinct 9,U.S. House,2,DEM,STEVEN WENDELIN,62
+Taylor,Precinct 10,U.S. House,2,DEM,STEVEN WENDELIN,150
+Taylor,Precinct 11,U.S. House,2,DEM,STEVEN WENDELIN,27
+Taylor,Precinct 12,U.S. House,2,DEM,STEVEN WENDELIN,105
+Taylor,Precinct 14,U.S. House,2,DEM,STEVEN WENDELIN,65
+Taylor,Precinct 17,U.S. House,2,DEM,STEVEN WENDELIN,69
+Taylor,Precinct 19,U.S. House,2,DEM,STEVEN WENDELIN,91
+Taylor,Precinct 26,U.S. House,2,DEM,STEVEN WENDELIN,91
+Taylor,Precinct 29,U.S. House,2,DEM,STEVEN WENDELIN,56
+Taylor,Precinct 31,U.S. House,2,DEM,STEVEN WENDELIN,97
+Taylor,Precinct 36,U.S. House,2,DEM,STEVEN WENDELIN,115
+Taylor,Precinct 1,Governor,,REP,PATRICK MORRISEY,495
+Taylor,Precinct 2,Governor,,REP,PATRICK MORRISEY,424
+Taylor,Precinct 3,Governor,,REP,PATRICK MORRISEY,318
+Taylor,Precinct 4,Governor,,REP,PATRICK MORRISEY,148
+Taylor,Precinct 5,Governor,,REP,PATRICK MORRISEY,403
+Taylor,Precinct 6,Governor,,REP,PATRICK MORRISEY,176
+Taylor,Precinct 9,Governor,,REP,PATRICK MORRISEY,193
+Taylor,Precinct 10,Governor,,REP,PATRICK MORRISEY,463
+Taylor,Precinct 11,Governor,,REP,PATRICK MORRISEY,139
+Taylor,Precinct 12,Governor,,REP,PATRICK MORRISEY,295
+Taylor,Precinct 14,Governor,,REP,PATRICK MORRISEY,205
+Taylor,Precinct 17,Governor,,REP,PATRICK MORRISEY,263
+Taylor,Precinct 19,Governor,,REP,PATRICK MORRISEY,305
+Taylor,Precinct 26,Governor,,REP,PATRICK MORRISEY,256
+Taylor,Precinct 29,Governor,,REP,PATRICK MORRISEY,131
+Taylor,Precinct 31,Governor,,REP,PATRICK MORRISEY,233
+Taylor,Precinct 36,Governor,,REP,PATRICK MORRISEY,382
+Taylor,Precinct 1,Governor,,DEM,STEVE WILLIAMS,158
+Taylor,Precinct 2,Governor,,DEM,STEVE WILLIAMS,182
+Taylor,Precinct 3,Governor,,DEM,STEVE WILLIAMS,156
+Taylor,Precinct 4,Governor,,DEM,STEVE WILLIAMS,77
+Taylor,Precinct 5,Governor,,DEM,STEVE WILLIAMS,147
+Taylor,Precinct 6,Governor,,DEM,STEVE WILLIAMS,40
+Taylor,Precinct 9,Governor,,DEM,STEVE WILLIAMS,67
+Taylor,Precinct 10,Governor,,DEM,STEVE WILLIAMS,173
+Taylor,Precinct 11,Governor,,DEM,STEVE WILLIAMS,34
+Taylor,Precinct 12,Governor,,DEM,STEVE WILLIAMS,117
+Taylor,Precinct 14,Governor,,DEM,STEVE WILLIAMS,64
+Taylor,Precinct 17,Governor,,DEM,STEVE WILLIAMS,90
+Taylor,Precinct 19,Governor,,DEM,STEVE WILLIAMS,104
+Taylor,Precinct 26,Governor,,DEM,STEVE WILLIAMS,98
+Taylor,Precinct 29,Governor,,DEM,STEVE WILLIAMS,55
+Taylor,Precinct 31,Governor,,DEM,STEVE WILLIAMS,107
+Taylor,Precinct 36,Governor,,DEM,STEVE WILLIAMS,133
+Taylor,Precinct 1,Governor,,LBN,ERIKA KLIE KOLENICH,21
+Taylor,Precinct 2,Governor,,LBN,ERIKA KLIE KOLENICH,36
+Taylor,Precinct 3,Governor,,LBN,ERIKA KLIE KOLENICH,15
+Taylor,Precinct 4,Governor,,LBN,ERIKA KLIE KOLENICH,13
+Taylor,Precinct 5,Governor,,LBN,ERIKA KLIE KOLENICH,27
+Taylor,Precinct 6,Governor,,LBN,ERIKA KLIE KOLENICH,7
+Taylor,Precinct 9,Governor,,LBN,ERIKA KLIE KOLENICH,11
+Taylor,Precinct 10,Governor,,LBN,ERIKA KLIE KOLENICH,26
+Taylor,Precinct 11,Governor,,LBN,ERIKA KLIE KOLENICH,7
+Taylor,Precinct 12,Governor,,LBN,ERIKA KLIE KOLENICH,14
+Taylor,Precinct 14,Governor,,LBN,ERIKA KLIE KOLENICH,13
+Taylor,Precinct 17,Governor,,LBN,ERIKA KLIE KOLENICH,13
+Taylor,Precinct 19,Governor,,LBN,ERIKA KLIE KOLENICH,22
+Taylor,Precinct 26,Governor,,LBN,ERIKA KLIE KOLENICH,20
+Taylor,Precinct 29,Governor,,LBN,ERIKA KLIE KOLENICH,14
+Taylor,Precinct 31,Governor,,LBN,ERIKA KLIE KOLENICH,17
+Taylor,Precinct 36,Governor,,LBN,ERIKA KLIE KOLENICH,20
+Taylor,Precinct 1,Governor,,MTN,CHASE LINKO-LOOPER,4
+Taylor,Precinct 2,Governor,,MTN,CHASE LINKO-LOOPER,5
+Taylor,Precinct 3,Governor,,MTN,CHASE LINKO-LOOPER,2
+Taylor,Precinct 4,Governor,,MTN,CHASE LINKO-LOOPER,5
+Taylor,Precinct 5,Governor,,MTN,CHASE LINKO-LOOPER,8
+Taylor,Precinct 6,Governor,,MTN,CHASE LINKO-LOOPER,0
+Taylor,Precinct 9,Governor,,MTN,CHASE LINKO-LOOPER,3
+Taylor,Precinct 10,Governor,,MTN,CHASE LINKO-LOOPER,4
+Taylor,Precinct 11,Governor,,MTN,CHASE LINKO-LOOPER,0
+Taylor,Precinct 12,Governor,,MTN,CHASE LINKO-LOOPER,8
+Taylor,Precinct 14,Governor,,MTN,CHASE LINKO-LOOPER,2
+Taylor,Precinct 17,Governor,,MTN,CHASE LINKO-LOOPER,5
+Taylor,Precinct 19,Governor,,MTN,CHASE LINKO-LOOPER,3
+Taylor,Precinct 26,Governor,,MTN,CHASE LINKO-LOOPER,3
+Taylor,Precinct 29,Governor,,MTN,CHASE LINKO-LOOPER,3
+Taylor,Precinct 31,Governor,,MTN,CHASE LINKO-LOOPER,2
+Taylor,Precinct 36,Governor,,MTN,CHASE LINKO-LOOPER,6
+Taylor,Precinct 1,Governor,,CST,S. MARSHALL WILSON,2
+Taylor,Precinct 2,Governor,,CST,S. MARSHALL WILSON,20
+Taylor,Precinct 3,Governor,,CST,S. MARSHALL WILSON,13
+Taylor,Precinct 4,Governor,,CST,S. MARSHALL WILSON,7
+Taylor,Precinct 5,Governor,,CST,S. MARSHALL WILSON,14
+Taylor,Precinct 6,Governor,,CST,S. MARSHALL WILSON,8
+Taylor,Precinct 9,Governor,,CST,S. MARSHALL WILSON,4
+Taylor,Precinct 10,Governor,,CST,S. MARSHALL WILSON,8
+Taylor,Precinct 11,Governor,,CST,S. MARSHALL WILSON,1
+Taylor,Precinct 12,Governor,,CST,S. MARSHALL WILSON,9
+Taylor,Precinct 14,Governor,,CST,S. MARSHALL WILSON,6
+Taylor,Precinct 17,Governor,,CST,S. MARSHALL WILSON,3
+Taylor,Precinct 19,Governor,,CST,S. MARSHALL WILSON,4
+Taylor,Precinct 26,Governor,,CST,S. MARSHALL WILSON,5
+Taylor,Precinct 29,Governor,,CST,S. MARSHALL WILSON,7
+Taylor,Precinct 31,Governor,,CST,S. MARSHALL WILSON,5
+Taylor,Precinct 36,Governor,,CST,S. MARSHALL WILSON,4
+Taylor,Precinct 1,Secretary of State,,REP,KRIS WARNER,541
+Taylor,Precinct 2,Secretary of State,,REP,KRIS WARNER,503
+Taylor,Precinct 3,Secretary of State,,REP,KRIS WARNER,364
+Taylor,Precinct 4,Secretary of State,,REP,KRIS WARNER,180
+Taylor,Precinct 5,Secretary of State,,REP,KRIS WARNER,456
+Taylor,Precinct 6,Secretary of State,,REP,KRIS WARNER,188
+Taylor,Precinct 9,Secretary of State,,REP,KRIS WARNER,209
+Taylor,Precinct 10,Secretary of State,,REP,KRIS WARNER,504
+Taylor,Precinct 11,Secretary of State,,REP,KRIS WARNER,145
+Taylor,Precinct 12,Secretary of State,,REP,KRIS WARNER,322
+Taylor,Precinct 14,Secretary of State,,REP,KRIS WARNER,217
+Taylor,Precinct 17,Secretary of State,,REP,KRIS WARNER,290
+Taylor,Precinct 19,Secretary of State,,REP,KRIS WARNER,343
+Taylor,Precinct 26,Secretary of State,,REP,KRIS WARNER,272
+Taylor,Precinct 29,Secretary of State,,REP,KRIS WARNER,147
+Taylor,Precinct 31,Secretary of State,,REP,KRIS WARNER,259
+Taylor,Precinct 36,Secretary of State,,REP,KRIS WARNER,416
+Taylor,Precinct 1,Secretary of State,,DEM,THORNTON COOPER,128
+Taylor,Precinct 2,Secretary of State,,DEM,THORNTON COOPER,161
+Taylor,Precinct 3,Secretary of State,,DEM,THORNTON COOPER,128
+Taylor,Precinct 4,Secretary of State,,DEM,THORNTON COOPER,66
+Taylor,Precinct 5,Secretary of State,,DEM,THORNTON COOPER,141
+Taylor,Precinct 6,Secretary of State,,DEM,THORNTON COOPER,39
+Taylor,Precinct 9,Secretary of State,,DEM,THORNTON COOPER,64
+Taylor,Precinct 10,Secretary of State,,DEM,THORNTON COOPER,155
+Taylor,Precinct 11,Secretary of State,,DEM,THORNTON COOPER,30
+Taylor,Precinct 12,Secretary of State,,DEM,THORNTON COOPER,113
+Taylor,Precinct 14,Secretary of State,,DEM,THORNTON COOPER,67
+Taylor,Precinct 17,Secretary of State,,DEM,THORNTON COOPER,74
+Taylor,Precinct 19,Secretary of State,,DEM,THORNTON COOPER,90
+Taylor,Precinct 26,Secretary of State,,DEM,THORNTON COOPER,100
+Taylor,Precinct 29,Secretary of State,,DEM,THORNTON COOPER,58
+Taylor,Precinct 31,Secretary of State,,DEM,THORNTON COOPER,102
+Taylor,Precinct 36,Secretary of State,,DEM,THORNTON COOPER,112
+Taylor,Precinct 1,Auditor,,REP,MARK HUNT,518
+Taylor,Precinct 2,Auditor,,REP,MARK HUNT,479
+Taylor,Precinct 3,Auditor,,REP,MARK HUNT,338
+Taylor,Precinct 4,Auditor,,REP,MARK HUNT,168
+Taylor,Precinct 5,Auditor,,REP,MARK HUNT,419
+Taylor,Precinct 6,Auditor,,REP,MARK HUNT,168
+Taylor,Precinct 9,Auditor,,REP,MARK HUNT,197
+Taylor,Precinct 10,Auditor,,REP,MARK HUNT,473
+Taylor,Precinct 11,Auditor,,REP,MARK HUNT,141
+Taylor,Precinct 12,Auditor,,REP,MARK HUNT,311
+Taylor,Precinct 14,Auditor,,REP,MARK HUNT,200
+Taylor,Precinct 17,Auditor,,REP,MARK HUNT,274
+Taylor,Precinct 19,Auditor,,REP,MARK HUNT,327
+Taylor,Precinct 26,Auditor,,REP,MARK HUNT,251
+Taylor,Precinct 29,Auditor,,REP,MARK HUNT,140
+Taylor,Precinct 31,Auditor,,REP,MARK HUNT,240
+Taylor,Precinct 36,Auditor,,REP,MARK HUNT,388
+Taylor,Precinct 1,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,143
+Taylor,Precinct 2,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,175
+Taylor,Precinct 3,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,147
+Taylor,Precinct 4,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,74
+Taylor,Precinct 5,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,168
+Taylor,Precinct 6,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,54
+Taylor,Precinct 9,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,75
+Taylor,Precinct 10,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,177
+Taylor,Precinct 11,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,30
+Taylor,Precinct 12,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,121
+Taylor,Precinct 14,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,79
+Taylor,Precinct 17,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,87
+Taylor,Precinct 19,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,102
+Taylor,Precinct 26,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,122
+Taylor,Precinct 29,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,66
+Taylor,Precinct 31,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,122
+Taylor,Precinct 36,Auditor,,DEM,MARY ANN ROEBUCK CLAYTOR,129
+Taylor,Precinct 1,TREASURER,,REP,LARRY PACK,588
+Taylor,Precinct 2,TREASURER,,REP,LARRY PACK,599
+Taylor,Precinct 3,TREASURER,,REP,LARRY PACK,424
+Taylor,Precinct 4,TREASURER,,REP,LARRY PACK,200
+Taylor,Precinct 5,TREASURER,,REP,LARRY PACK,519
+Taylor,Precinct 6,TREASURER,,REP,LARRY PACK,198
+Taylor,Precinct 9,TREASURER,,REP,LARRY PACK,247
+Taylor,Precinct 10,TREASURER,,REP,LARRY PACK,566
+Taylor,Precinct 11,TREASURER,,REP,LARRY PACK,148
+Taylor,Precinct 12,TREASURER,,REP,LARRY PACK,382
+Taylor,Precinct 14,TREASURER,,REP,LARRY PACK,258
+Taylor,Precinct 17,TREASURER,,REP,LARRY PACK,330
+Taylor,Precinct 19,TREASURER,,REP,LARRY PACK,379
+Taylor,Precinct 26,TREASURER,,REP,LARRY PACK,333
+Taylor,Precinct 29,TREASURER,,REP,LARRY PACK,179
+Taylor,Precinct 31,TREASURER,,REP,LARRY PACK,314
+Taylor,Precinct 36,TREASURER,,REP,LARRY PACK,459
+Taylor,Precinct 1,Commissioner of Agriculture,,REP,KENT LEONHARDT,531
+Taylor,Precinct 2,Commissioner of Agriculture,,REP,KENT LEONHARDT,498
+Taylor,Precinct 3,Commissioner of Agriculture,,REP,KENT LEONHARDT,361
+Taylor,Precinct 4,Commissioner of Agriculture,,REP,KENT LEONHARDT,166
+Taylor,Precinct 5,Commissioner of Agriculture,,REP,KENT LEONHARDT,436
+Taylor,Precinct 6,Commissioner of Agriculture,,REP,KENT LEONHARDT,181
+Taylor,Precinct 9,Commissioner of Agriculture,,REP,KENT LEONHARDT,209
+Taylor,Precinct 10,Commissioner of Agriculture,,REP,KENT LEONHARDT,494
+Taylor,Precinct 11,Commissioner of Agriculture,,REP,KENT LEONHARDT,144
+Taylor,Precinct 12,Commissioner of Agriculture,,REP,KENT LEONHARDT,308
+Taylor,Precinct 14,Commissioner of Agriculture,,REP,KENT LEONHARDT,203
+Taylor,Precinct 17,Commissioner of Agriculture,,REP,KENT LEONHARDT,282
+Taylor,Precinct 19,Commissioner of Agriculture,,REP,KENT LEONHARDT,320
+Taylor,Precinct 26,Commissioner of Agriculture,,REP,KENT LEONHARDT,265
+Taylor,Precinct 29,Commissioner of Agriculture,,REP,KENT LEONHARDT,139
+Taylor,Precinct 31,Commissioner of Agriculture,,REP,KENT LEONHARDT,243
+Taylor,Precinct 36,Commissioner of Agriculture,,REP,KENT LEONHARDT,397
+Taylor,Precinct 1,Commissioner of Agriculture,,DEM,DEBORAH STILES,139
+Taylor,Precinct 2,Commissioner of Agriculture,,DEM,DEBORAH STILES,164
+Taylor,Precinct 3,Commissioner of Agriculture,,DEM,DEBORAH STILES,127
+Taylor,Precinct 4,Commissioner of Agriculture,,DEM,DEBORAH STILES,81
+Taylor,Precinct 5,Commissioner of Agriculture,,DEM,DEBORAH STILES,153
+Taylor,Precinct 6,Commissioner of Agriculture,,DEM,DEBORAH STILES,47
+Taylor,Precinct 9,Commissioner of Agriculture,,DEM,DEBORAH STILES,66
+Taylor,Precinct 10,Commissioner of Agriculture,,DEM,DEBORAH STILES,168
+Taylor,Precinct 11,Commissioner of Agriculture,,DEM,DEBORAH STILES,32
+Taylor,Precinct 12,Commissioner of Agriculture,,DEM,DEBORAH STILES,126
+Taylor,Precinct 14,Commissioner of Agriculture,,DEM,DEBORAH STILES,81
+Taylor,Precinct 17,Commissioner of Agriculture,,DEM,DEBORAH STILES,83
+Taylor,Precinct 19,Commissioner of Agriculture,,DEM,DEBORAH STILES,111
+Taylor,Precinct 26,Commissioner of Agriculture,,DEM,DEBORAH STILES,108
+Taylor,Precinct 29,Commissioner of Agriculture,,DEM,DEBORAH STILES,71
+Taylor,Precinct 31,Commissioner of Agriculture,,DEM,DEBORAH STILES,120
+Taylor,Precinct 36,Commissioner of Agriculture,,DEM,DEBORAH STILES,127
+Taylor,Precinct 1,Attorney General,,REP,JOHN “JB” McCUSKEY,537
+Taylor,Precinct 2,Attorney General,,REP,JOHN “JB” McCUSKEY,509
+Taylor,Precinct 3,Attorney General,,REP,JOHN “JB” McCUSKEY,355
+Taylor,Precinct 4,Attorney General,,REP,JOHN “JB” McCUSKEY,175
+Taylor,Precinct 5,Attorney General,,REP,JOHN “JB” McCUSKEY,442
+Taylor,Precinct 6,Attorney General,,REP,JOHN “JB” McCUSKEY,184
+Taylor,Precinct 9,Attorney General,,REP,JOHN “JB” McCUSKEY,213
+Taylor,Precinct 10,Attorney General,,REP,JOHN “JB” McCUSKEY,486
+Taylor,Precinct 11,Attorney General,,REP,JOHN “JB” McCUSKEY,139
+Taylor,Precinct 12,Attorney General,,REP,JOHN “JB” McCUSKEY,321
+Taylor,Precinct 14,Attorney General,,REP,JOHN “JB” McCUSKEY,210
+Taylor,Precinct 17,Attorney General,,REP,JOHN “JB” McCUSKEY,290
+Taylor,Precinct 19,Attorney General,,REP,JOHN “JB” McCUSKEY,346
+Taylor,Precinct 26,Attorney General,,REP,JOHN “JB” McCUSKEY,268
+Taylor,Precinct 29,Attorney General,,REP,JOHN “JB” McCUSKEY,145
+Taylor,Precinct 31,Attorney General,,REP,JOHN “JB” McCUSKEY,252
+Taylor,Precinct 36,Attorney General,,REP,JOHN “JB” McCUSKEY,399
+Taylor,Precinct 1,Attorney General,,DEM,TERESA TORISEVA,131
+Taylor,Precinct 2,Attorney General,,DEM,TERESA TORISEVA,159
+Taylor,Precinct 3,Attorney General,,DEM,TERESA TORISEVA,133
+Taylor,Precinct 4,Attorney General,,DEM,TERESA TORISEVA,73
+Taylor,Precinct 5,Attorney General,,DEM,TERESA TORISEVA,147
+Taylor,Precinct 6,Attorney General,,DEM,TERESA TORISEVA,44
+Taylor,Precinct 9,Attorney General,,DEM,TERESA TORISEVA,63
+Taylor,Precinct 10,Attorney General,,DEM,TERESA TORISEVA,172
+Taylor,Precinct 11,Attorney General,,DEM,TERESA TORISEVA,31
+Taylor,Precinct 12,Attorney General,,DEM,TERESA TORISEVA,119
+Taylor,Precinct 14,Attorney General,,DEM,TERESA TORISEVA,74
+Taylor,Precinct 17,Attorney General,,DEM,TERESA TORISEVA,73
+Taylor,Precinct 19,Attorney General,,DEM,TERESA TORISEVA,89
+Taylor,Precinct 26,Attorney General,,DEM,TERESA TORISEVA,104
+Taylor,Precinct 29,Attorney General,,DEM,TERESA TORISEVA,66
+Taylor,Precinct 31,Attorney General,,DEM,TERESA TORISEVA,109
+Taylor,Precinct 36,Attorney General,,DEM,TERESA TORISEVA,123
+Taylor,Precinct 1,State Senate,12,REP,PATRICK S MARTIN,591
+Taylor,Precinct 2,State Senate,12,REP,PATRICK S MARTIN,600
+Taylor,Precinct 3,State Senate,12,REP,PATRICK S MARTIN,429
+Taylor,Precinct 4,State Senate,12,REP,PATRICK S MARTIN,199
+Taylor,Precinct 5,State Senate,12,REP,PATRICK S MARTIN,519
+Taylor,Precinct 6,State Senate,12,REP,PATRICK S MARTIN,197
+Taylor,Precinct 17,State Senate,12,REP,PATRICK S MARTIN,334
+Taylor,Precinct 19,State Senate,12,REP,PATRICK S MARTIN,384
+Taylor,Precinct 9,State Senate,14,REP,RANDY E. SMITH,234
+Taylor,Precinct 10,State Senate,14,REP,RANDY E. SMITH,531
+Taylor,Precinct 11,State Senate,14,REP,RANDY E. SMITH,149
+Taylor,Precinct 12,State Senate,14,REP,RANDY E. SMITH,356
+Taylor,Precinct 14,State Senate,14,REP,RANDY E. SMITH,232
+Taylor,Precinct 26,State Senate,14,REP,RANDY E. SMITH,307
+Taylor,Precinct 29,State Senate,14,REP,RANDY E. SMITH,156
+Taylor,Precinct 31,State Senate,14,REP,RANDY E. SMITH,269
+Taylor,Precinct 36,State Senate,14,REP,RANDY E. SMITH,447
+Taylor,Precinct 9,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,25
+Taylor,Precinct 10,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,69
+Taylor,Precinct 11,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,14
+Taylor,Precinct 12,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,55
+Taylor,Precinct 14,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,33
+Taylor,Precinct 26,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,49
+Taylor,Precinct 29,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,38
+Taylor,Precinct 31,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,66
+Taylor,Precinct 36,State Senate,14,MTN,BETSY ORNDOFF-SAYERS,55
+Taylor,Precinct 1,State House,73,REP,BRYAN SMITH,607
+Taylor,Precinct 2,State House,73,REP,BRYAN SMITH,602
+Taylor,Precinct 3,State House,73,REP,BRYAN SMITH,426
+Taylor,Precinct 4,State House,73,REP,BRYAN SMITH,208
+Taylor,Precinct 5,State House,73,REP,BRYAN SMITH,520
+Taylor,Precinct 6,State House,73,REP,BRYAN SMITH,203
+Taylor,Precinct 9,State House,73,REP,BRYAN SMITH,241
+Taylor,Precinct 10,State House,73,REP,BRYAN SMITH,578
+Taylor,Precinct 11,State House,73,REP,BRYAN SMITH,155
+Taylor,Precinct 12,State House,73,REP,BRYAN SMITH,406
+Taylor,Precinct 14,State House,73,REP,BRYAN SMITH,258
+Taylor,Precinct 17,State House,73,REP,BRYAN SMITH,336
+Taylor,Precinct 19,State House,73,REP,BRYAN SMITH,388
+Taylor,Precinct 26,State House,73,REP,BRYAN SMITH,340
+Taylor,Precinct 29,State House,73,REP,BRYAN SMITH,180
+Taylor,Precinct 31,State House,73,REP,BRYAN SMITH,325
+Taylor,Precinct 36,State House,73,REP,BRYAN SMITH,468
+Taylor,Precinct 1,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,499
+Taylor,Precinct 2,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,489
+Taylor,Precinct 3,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,326
+Taylor,Precinct 4,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,178
+Taylor,Precinct 5,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,423
+Taylor,Precinct 6,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,182
+Taylor,Precinct 9,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,199
+Taylor,Precinct 10,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,467
+Taylor,Precinct 11,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,147
+Taylor,Precinct 12,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,307
+Taylor,Precinct 14,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,194
+Taylor,Precinct 17,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,259
+Taylor,Precinct 19,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,309
+Taylor,Precinct 26,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,260
+Taylor,Precinct 29,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,138
+Taylor,Precinct 31,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,245
+Taylor,Precinct 36,FOR COUNTY COMMISSIONER,,REP,SAM GERKIN,383
+Taylor,Precinct 1,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,173
+Taylor,Precinct 2,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,180
+Taylor,Precinct 3,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,160
+Taylor,Precinct 4,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,72
+Taylor,Precinct 5,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,155
+Taylor,Precinct 6,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,49
+Taylor,Precinct 9,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,75
+Taylor,Precinct 10,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,202
+Taylor,Precinct 11,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,32
+Taylor,Precinct 12,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,131
+Taylor,Precinct 14,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,96
+Taylor,Precinct 17,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,109
+Taylor,Precinct 19,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,119
+Taylor,Precinct 26,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,117
+Taylor,Precinct 29,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,74
+Taylor,Precinct 31,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,122
+Taylor,Precinct 36,FOR COUNTY COMMISSIONER,,DEM,MIKE MANYPENNY,150
+Taylor,Precinct 1,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,604
+Taylor,Precinct 2,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,587
+Taylor,Precinct 3,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,435
+Taylor,Precinct 4,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,193
+Taylor,Precinct 5,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,512
+Taylor,Precinct 6,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,197
+Taylor,Precinct 9,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,232
+Taylor,Precinct 10,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,538
+Taylor,Precinct 11,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,147
+Taylor,Precinct 12,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,382
+Taylor,Precinct 14,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,241
+Taylor,Precinct 17,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,324
+Taylor,Precinct 19,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,377
+Taylor,Precinct 26,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,328
+Taylor,Precinct 29,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,173
+Taylor,Precinct 31,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,298
+Taylor,Precinct 36,FOR PROSECUTING ATTORNEY,,REP,JOHN L. BORD,441
+Taylor,Precinct 1,FOR SHERIFF,,REP,RANDY DURRETT,619
+Taylor,Precinct 2,FOR SHERIFF,,REP,RANDY DURRETT,614
+Taylor,Precinct 3,FOR SHERIFF,,REP,RANDY DURRETT,452
+Taylor,Precinct 4,FOR SHERIFF,,REP,RANDY DURRETT,212
+Taylor,Precinct 5,FOR SHERIFF,,REP,RANDY DURRETT,528
+Taylor,Precinct 6,FOR SHERIFF,,REP,RANDY DURRETT,216
+Taylor,Precinct 9,FOR SHERIFF,,REP,RANDY DURRETT,253
+Taylor,Precinct 10,FOR SHERIFF,,REP,RANDY DURRETT,600
+Taylor,Precinct 11,FOR SHERIFF,,REP,RANDY DURRETT,162
+Taylor,Precinct 12,FOR SHERIFF,,REP,RANDY DURRETT,417
+Taylor,Precinct 14,FOR SHERIFF,,REP,RANDY DURRETT,267
+Taylor,Precinct 17,FOR SHERIFF,,REP,RANDY DURRETT,337
+Taylor,Precinct 19,FOR SHERIFF,,REP,RANDY DURRETT,392
+Taylor,Precinct 26,FOR SHERIFF,,REP,RANDY DURRETT,359
+Taylor,Precinct 29,FOR SHERIFF,,REP,RANDY DURRETT,194
+Taylor,Precinct 31,FOR SHERIFF,,REP,RANDY DURRETT,338
+Taylor,Precinct 36,FOR SHERIFF,,REP,RANDY DURRETT,504
+Taylor,Precinct 1,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,625
+Taylor,Precinct 2,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,609
+Taylor,Precinct 3,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,433
+Taylor,Precinct 4,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,213
+Taylor,Precinct 5,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,534
+Taylor,Precinct 6,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,212
+Taylor,Precinct 9,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,248
+Taylor,Precinct 10,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,581
+Taylor,Precinct 11,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,160
+Taylor,Precinct 12,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,404
+Taylor,Precinct 14,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,265
+Taylor,Precinct 17,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,344
+Taylor,Precinct 19,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,402
+Taylor,Precinct 26,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,349
+Taylor,Precinct 29,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,183
+Taylor,Precinct 31,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,324
+Taylor,Precinct 36,FOR ASSESSOR,,REP,CHRISTA R. KINSEY,473
+Taylor,Precinct 1,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,614
+Taylor,Precinct 2,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,598
+Taylor,Precinct 3,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,431
+Taylor,Precinct 4,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,212
+Taylor,Precinct 5,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,525
+Taylor,Precinct 6,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,210
+Taylor,Precinct 9,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,245
+Taylor,Precinct 10,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,591
+Taylor,Precinct 11,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,158
+Taylor,Precinct 12,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,404
+Taylor,Precinct 14,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,264
+Taylor,Precinct 17,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,349
+Taylor,Precinct 19,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,401
+Taylor,Precinct 26,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,346
+Taylor,Precinct 29,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,184
+Taylor,Precinct 31,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,321
+Taylor,Precinct 36,FOR SURVEYOR,,REP,TIMOTHY R. BRAKE,476
+Taylor,Precinct 1,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,349
+Taylor,Precinct 2,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,352
+Taylor,Precinct 3,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,252
+Taylor,Precinct 4,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,128
+Taylor,Precinct 5,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,319
+Taylor,Precinct 6,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,128
+Taylor,Precinct 9,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,130
+Taylor,Precinct 10,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,320
+Taylor,Precinct 11,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,88
+Taylor,Precinct 12,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,199
+Taylor,Precinct 14,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,159
+Taylor,Precinct 17,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,200
+Taylor,Precinct 19,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,219
+Taylor,Precinct 26,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,180
+Taylor,Precinct 29,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,105
+Taylor,Precinct 31,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,179
+Taylor,Precinct 36,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,FOR,271
+Taylor,Precinct 1,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,290
+Taylor,Precinct 2,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,276
+Taylor,Precinct 3,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,231
+Taylor,Precinct 4,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,107
+Taylor,Precinct 5,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,245
+Taylor,Precinct 6,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,93
+Taylor,Precinct 9,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,118
+Taylor,Precinct 10,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,305
+Taylor,Precinct 11,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,74
+Taylor,Precinct 12,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,221
+Taylor,Precinct 14,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,113
+Taylor,Precinct 17,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,158
+Taylor,Precinct 19,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,199
+Taylor,Precinct 26,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,181
+Taylor,Precinct 29,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,101
+Taylor,Precinct 31,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,169
+Taylor,Precinct 36,Amendment No.1: Protection of Persons Against Medically Assisted Suicide,,,AGAINST,244

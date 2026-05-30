@@ -1,0 +1,970 @@
+county,office,district,party,candidate,votes
+Boone,U.S. House,1,REP,CAROL MILLER,3741
+Braxton,U.S. House,1,REP,CAROL MILLER,2295
+Cabell,U.S. House,1,REP,CAROL MILLER,13283
+Calhoun,U.S. House,1,REP,CAROL MILLER,1469
+Clay,U.S. House,1,REP,CAROL MILLER,1561
+Fayette,U.S. House,1,REP,CAROL MILLER,6106
+Gilmer,U.S. House,1,REP,CAROL MILLER,1125
+Greenbrier,U.S. House,1,REP,CAROL MILLER,7088
+Jackson,U.S. House,1,REP,CAROL MILLER,5975
+Kanawha,U.S. House,1,REP,CAROL MILLER,26442
+Lincoln,U.S. House,1,REP,CAROL MILLER,3502
+Logan,U.S. House,1,REP,CAROL MILLER,4695
+Mason,U.S. House,1,REP,CAROL MILLER,4699
+McDowell,U.S. House,1,REP,CAROL MILLER,1953
+Mercer,U.S. House,1,REP,CAROL MILLER,9662
+Mingo,U.S. House,1,REP,CAROL MILLER,4323
+Monroe,U.S. House,1,REP,CAROL MILLER,2896
+Nicholas,U.S. House,1,REP,CAROL MILLER,4743
+Pendleton,U.S. House,1,REP,CAROL MILLER,1626
+Pocahontas,U.S. House,1,REP,CAROL MILLER,1893
+Putnam,U.S. House,1,REP,CAROL MILLER,11557
+Raleigh,U.S. House,1,REP,CAROL MILLER,13495
+Roane,U.S. House,1,REP,CAROL MILLER,2479
+Summers,U.S. House,1,REP,CAROL MILLER,2246
+Wayne,U.S. House,1,REP,CAROL MILLER,6935
+Webster,U.S. House,1,REP,CAROL MILLER,1385
+Wirt,U.S. House,1,REP,CAROL MILLER,1304
+Wyoming,U.S. House,1,REP,CAROL MILLER,3033
+Boone,U.S. House,1,DEM,MR. LACY WATSON,1343
+Braxton,U.S. House,1,DEM,MR. LACY WATSON,842
+Cabell,U.S. House,1,DEM,MR. LACY WATSON,8149
+Calhoun,U.S. House,1,DEM,MR. LACY WATSON,429
+Clay,U.S. House,1,DEM,MR. LACY WATSON,431
+Fayette,U.S. House,1,DEM,MR. LACY WATSON,3134
+Gilmer,U.S. House,1,DEM,MR. LACY WATSON,417
+Greenbrier,U.S. House,1,DEM,MR. LACY WATSON,2844
+Jackson,U.S. House,1,DEM,MR. LACY WATSON,1744
+Kanawha,U.S. House,1,DEM,MR. LACY WATSON,19452
+Lincoln,U.S. House,1,DEM,MR. LACY WATSON,1125
+Logan,U.S. House,1,DEM,MR. LACY WATSON,1278
+Mason,U.S. House,1,DEM,MR. LACY WATSON,1399
+McDowell,U.S. House,1,DEM,MR. LACY WATSON,1008
+Mercer,U.S. House,1,DEM,MR. LACY WATSON,3496
+Mingo,U.S. House,1,DEM,MR. LACY WATSON,1005
+Monroe,U.S. House,1,DEM,MR. LACY WATSON,799
+Nicholas,U.S. House,1,DEM,MR. LACY WATSON,1385
+Pendleton,U.S. House,1,DEM,MR. LACY WATSON,461
+Pocahontas,U.S. House,1,DEM,MR. LACY WATSON,674
+Putnam,U.S. House,1,DEM,MR. LACY WATSON,4248
+Raleigh,U.S. House,1,DEM,MR. LACY WATSON,4221
+Roane,U.S. House,1,DEM,MR. LACY WATSON,879
+Summers,U.S. House,1,DEM,MR. LACY WATSON,877
+Wayne,U.S. House,1,DEM,MR. LACY WATSON,2316
+Webster,U.S. House,1,DEM,MR. LACY WATSON,396
+Wirt,U.S. House,1,DEM,MR. LACY WATSON,272
+Wyoming,U.S. House,1,DEM,MR. LACY WATSON,804
+Boone,U.S. House,1,IND,BELINDA FOX-SPENCER,186
+Braxton,U.S. House,1,IND,BELINDA FOX-SPENCER,144
+Cabell,U.S. House,1,IND,BELINDA FOX-SPENCER,620
+Calhoun,U.S. House,1,IND,BELINDA FOX-SPENCER,158
+Clay,U.S. House,1,IND,BELINDA FOX-SPENCER,98
+Fayette,U.S. House,1,IND,BELINDA FOX-SPENCER,422
+Gilmer,U.S. House,1,IND,BELINDA FOX-SPENCER,84
+Greenbrier,U.S. House,1,IND,BELINDA FOX-SPENCER,943
+Jackson,U.S. House,1,IND,BELINDA FOX-SPENCER,388
+Kanawha,U.S. House,1,IND,BELINDA FOX-SPENCER,1657
+Lincoln,U.S. House,1,IND,BELINDA FOX-SPENCER,183
+Logan,U.S. House,1,IND,BELINDA FOX-SPENCER,175
+Mason,U.S. House,1,IND,BELINDA FOX-SPENCER,260
+McDowell,U.S. House,1,IND,BELINDA FOX-SPENCER,156
+Mercer,U.S. House,1,IND,BELINDA FOX-SPENCER,803
+Mingo,U.S. House,1,IND,BELINDA FOX-SPENCER,130
+Monroe,U.S. House,1,IND,BELINDA FOX-SPENCER,591
+Nicholas,U.S. House,1,IND,BELINDA FOX-SPENCER,251
+Pendleton,U.S. House,1,IND,BELINDA FOX-SPENCER,87
+Pocahontas,U.S. House,1,IND,BELINDA FOX-SPENCER,164
+Putnam,U.S. House,1,IND,BELINDA FOX-SPENCER,582
+Raleigh,U.S. House,1,IND,BELINDA FOX-SPENCER,869
+Roane,U.S. House,1,IND,BELINDA FOX-SPENCER,255
+Summers,U.S. House,1,IND,BELINDA FOX-SPENCER,299
+Wayne,U.S. House,1,IND,BELINDA FOX-SPENCER,273
+Webster,U.S. House,1,IND,BELINDA FOX-SPENCER,67
+Wirt,U.S. House,1,IND,BELINDA FOX-SPENCER,109
+Wyoming,U.S. House,1,IND,BELINDA FOX-SPENCER,303
+Barbour,U.S. House,2,REP,ALEXANDER X. MOONEY,2772
+Berkeley,U.S. House,2,REP,ALEXANDER X. MOONEY,20653
+Brooke,U.S. House,2,REP,ALEXANDER X. MOONEY,4109
+Doddridge,U.S. House,2,REP,ALEXANDER X. MOONEY,1584
+Grant,U.S. House,2,REP,ALEXANDER X. MOONEY,3035
+Hampshire,U.S. House,2,REP,ALEXANDER X. MOONEY,5046
+Hancock,U.S. House,2,REP,ALEXANDER X. MOONEY,5785
+Hardy,U.S. House,2,REP,ALEXANDER X. MOONEY,3071
+Harrison,U.S. House,2,REP,ALEXANDER X. MOONEY,11149
+Jefferson,U.S. House,2,REP,ALEXANDER X. MOONEY,10664
+Lewis,U.S. House,2,REP,ALEXANDER X. MOONEY,3265
+Marion,U.S. House,2,REP,ALEXANDER X. MOONEY,8791
+Marshall,U.S. House,2,REP,ALEXANDER X. MOONEY,5932
+Mineral,U.S. House,2,REP,ALEXANDER X. MOONEY,6234
+Monongalia,U.S. House,2,REP,ALEXANDER X. MOONEY,11827
+Morgan,U.S. House,2,REP,ALEXANDER X. MOONEY,3949
+Ohio,U.S. House,2,REP,ALEXANDER X. MOONEY,7415
+Pleasants,U.S. House,2,REP,ALEXANDER X. MOONEY,1652
+Preston,U.S. House,2,REP,ALEXANDER X. MOONEY,6246
+Randolph,U.S. House,2,REP,ALEXANDER X. MOONEY,4910
+Ritchie,U.S. House,2,REP,ALEXANDER X. MOONEY,2061
+Taylor,U.S. House,2,REP,ALEXANDER X. MOONEY,2969
+Tucker,U.S. House,2,REP,ALEXANDER X. MOONEY,1680
+Tyler,U.S. House,2,REP,ALEXANDER X. MOONEY,1838
+Upshur,U.S. House,2,REP,ALEXANDER X. MOONEY,4486
+Wetzel,U.S. House,2,REP,ALEXANDER X. MOONEY,2572
+Wood,U.S. House,2,REP,ALEXANDER X. MOONEY,16798
+Barbour,U.S. House,2,DEM,BARRY LEE WENDELL,1082
+Berkeley,U.S. House,2,DEM,BARRY LEE WENDELL,8852
+Brooke,U.S. House,2,DEM,BARRY LEE WENDELL,2154
+Doddridge,U.S. House,2,DEM,BARRY LEE WENDELL,397
+Grant,U.S. House,2,DEM,BARRY LEE WENDELL,431
+Hampshire,U.S. House,2,DEM,BARRY LEE WENDELL,1170
+Hancock,U.S. House,2,DEM,BARRY LEE WENDELL,2521
+Hardy,U.S. House,2,DEM,BARRY LEE WENDELL,877
+Harrison,U.S. House,2,DEM,BARRY LEE WENDELL,6792
+Jefferson,U.S. House,2,DEM,BARRY LEE WENDELL,7526
+Lewis,U.S. House,2,DEM,BARRY LEE WENDELL,1139
+Marion,U.S. House,2,DEM,BARRY LEE WENDELL,6783
+Marshall,U.S. House,2,DEM,BARRY LEE WENDELL,2994
+Mineral,U.S. House,2,DEM,BARRY LEE WENDELL,1691
+Monongalia,U.S. House,2,DEM,BARRY LEE WENDELL,14138
+Morgan,U.S. House,2,DEM,BARRY LEE WENDELL,1180
+Ohio,U.S. House,2,DEM,BARRY LEE WENDELL,5022
+Pleasants,U.S. House,2,DEM,BARRY LEE WENDELL,552
+Preston,U.S. House,2,DEM,BARRY LEE WENDELL,2585
+Randolph,U.S. House,2,DEM,BARRY LEE WENDELL,2612
+Ritchie,U.S. House,2,DEM,BARRY LEE WENDELL,451
+Taylor,U.S. House,2,DEM,BARRY LEE WENDELL,1385
+Tucker,U.S. House,2,DEM,BARRY LEE WENDELL,889
+Tyler,U.S. House,2,DEM,BARRY LEE WENDELL,547
+Upshur,U.S. House,2,DEM,BARRY LEE WENDELL,1597
+Wetzel,U.S. House,2,DEM,BARRY LEE WENDELL,1340
+Wood,U.S. House,2,DEM,BARRY LEE WENDELL,7571
+Barbour,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2557
+Berkeley,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,13420
+Boone,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3325
+Braxton,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2259
+Brooke,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3277
+Cabell,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,12199
+Calhoun,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1383
+Clay,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1363
+Doddridge,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1327
+Fayette,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,6165
+Gilmer,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1125
+Grant,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1962
+Greenbrier,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,6619
+Hampshire,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3143
+Hancock,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,4092
+Hardy,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2399
+Harrison,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,11058
+Jackson,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,4847
+Jefferson,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,8859
+Kanawha,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,28174
+Lewis,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2780
+Lincoln,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2841
+Logan,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3636
+Marion,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,9646
+Marshall,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,4992
+Mason,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3543
+McDowell,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1760
+Mercer,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,7664
+Mineral,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,4101
+Mingo,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3165
+Monongalia,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,15879
+Monroe,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2526
+Morgan,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2535
+Nicholas,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3997
+Ohio,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,6458
+Pendleton,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1378
+Pleasants,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1373
+Pocahontas,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1798
+Preston,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,5062
+Putnam,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,8623
+Raleigh,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,10554
+Randolph,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,4728
+Ritchie,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1582
+Roane,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2207
+Summers,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2103
+Taylor,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2493
+Tucker,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1764
+Tyler,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1482
+Upshur,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,3725
+Wayne,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,5163
+Webster,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1263
+Wetzel,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2347
+Wirt,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,1071
+Wood,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,12699
+Wyoming,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,AGAINST,2825
+Barbour,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1316
+Berkeley,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,15486
+Boone,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1928
+Braxton,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1031
+Brooke,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2933
+Cabell,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,9035
+Calhoun,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,727
+Clay,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,694
+Doddridge,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,658
+Fayette,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,3453
+Gilmer,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,523
+Grant,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1372
+Greenbrier,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,4238
+Hampshire,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2928
+Hancock,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,4119
+Hardy,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1473
+Harrison,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,7187
+Jackson,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,3196
+Jefferson,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,8827
+Kanawha,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,18650
+Lewis,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1543
+Lincoln,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1810
+Logan,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2351
+Marion,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,6181
+Marshall,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,4118
+Mason,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2606
+McDowell,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1351
+Mercer,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,5951
+Mineral,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,3574
+Mingo,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2029
+Monongalia,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,9527
+Monroe,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1725
+Morgan,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2548
+Nicholas,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2292
+Ohio,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,5997
+Pendleton,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,788
+Pleasants,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,851
+Pocahontas,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,887
+Preston,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,3744
+Putnam,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,7434
+Raleigh,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,7900
+Randolph,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2715
+Ritchie,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,919
+Roane,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1402
+Summers,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1272
+Taylor,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1854
+Tucker,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,806
+Tyler,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,894
+Upshur,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,2438
+Wayne,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,3928
+Webster,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,579
+Wetzel,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1500
+Wirt,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,631
+Wood,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,11386
+Wyoming,Amendment No. 1: Clarification of the Judiciary’s Role in Impeachment Proceedings Amendment,,,FOR,1214
+Barbour,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3028
+Berkeley,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,14116
+Boone,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3788
+Braxton,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2516
+Brooke,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,4174
+Cabell,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,13044
+Calhoun,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1645
+Clay,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1598
+Doddridge,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1578
+Fayette,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,6718
+Gilmer,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1323
+Grant,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2292
+Greenbrier,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,7805
+Hampshire,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3416
+Hancock,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,4902
+Hardy,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2822
+Harrison,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,12898
+Jackson,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,5578
+Jefferson,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,9235
+Kanawha,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,31353
+Lewis,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3368
+Lincoln,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2970
+Logan,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3984
+Marion,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,10880
+Marshall,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,6367
+Mason,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3946
+McDowell,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2197
+Mercer,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,8918
+Mineral,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,4674
+Mingo,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3406
+Monongalia,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,18419
+Monroe,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3084
+Morgan,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2713
+Nicholas,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,4609
+Ohio,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,7983
+Pendleton,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1629
+Pleasants,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1683
+Pocahontas,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2167
+Preston,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,5894
+Putnam,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,9365
+Raleigh,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,12385
+Randolph,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,6141
+Ritchie,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1899
+Roane,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2527
+Summers,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2384
+Taylor,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2983
+Tucker,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2109
+Tyler,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1769
+Upshur,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,4649
+Wayne,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,5678
+Webster,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1453
+Wetzel,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,2908
+Wirt,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,1240
+Wood,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,15489
+Wyoming,Amendment No. 2: Property Tax Modernization Amendment,,,AGAINST,3308
+Barbour,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,941
+Berkeley,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,15207
+Boone,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1631
+Braxton,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,863
+Brooke,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2319
+Cabell,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,8853
+Calhoun,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,536
+Clay,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,554
+Doddridge,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,470
+Fayette,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,3121
+Gilmer,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,391
+Grant,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1252
+Greenbrier,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,3334
+Hampshire,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2757
+Hancock,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,3561
+Hardy,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1131
+Harrison,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,5716
+Jackson,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2684
+Jefferson,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,8691
+Kanawha,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,16908
+Lewis,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1104
+Lincoln,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1823
+Logan,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2351
+Marion,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,5110
+Marshall,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2871
+Mason,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2439
+McDowell,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1065
+Mercer,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,5030
+Mineral,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,3212
+Mingo,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2037
+Monongalia,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,7642
+Monroe,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1293
+Morgan,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,2469
+Nicholas,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1874
+Ohio,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,4843
+Pendleton,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,629
+Pleasants,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,609
+Pocahontas,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,609
+Preston,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,3134
+Putnam,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,7085
+Raleigh,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,6598
+Randolph,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1561
+Ritchie,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,708
+Roane,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1185
+Summers,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1127
+Taylor,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1478
+Tucker,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,566
+Tyler,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,689
+Upshur,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1631
+Wayne,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,3948
+Webster,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,459
+Wetzel,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,1104
+Wirt,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,482
+Wood,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,9381
+Wyoming,Amendment No. 2: Property Tax Modernization Amendment,,,FOR,947
+Barbour,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2295
+Berkeley,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,12788
+Boone,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3295
+Braxton,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2191
+Brooke,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3317
+Cabell,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,11047
+Calhoun,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1408
+Clay,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1427
+Doddridge,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1290
+Fayette,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,5855
+Gilmer,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1098
+Grant,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1854
+Greenbrier,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,5628
+Hampshire,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3077
+Hancock,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,4004
+Hardy,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2400
+Harrison,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,10186
+Jackson,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,4407
+Jefferson,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,8334
+Kanawha,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,24195
+Lewis,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2782
+Lincoln,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2835
+Logan,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3574
+Marion,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,9270
+Marshall,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,4896
+Mason,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3180
+McDowell,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1732
+Mercer,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,7540
+Mineral,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3980
+Mingo,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3239
+Monongalia,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,13869
+Monroe,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2380
+Morgan,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2496
+Nicholas,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3878
+Ohio,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,6183
+Pendleton,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1270
+Pleasants,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1373
+Pocahontas,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1734
+Preston,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,4860
+Putnam,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,7428
+Raleigh,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,9856
+Randolph,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,4554
+Ritchie,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1633
+Roane,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2170
+Summers,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2110
+Taylor,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2345
+Tucker,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1598
+Tyler,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1497
+Upshur,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,3723
+Wayne,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,5065
+Webster,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1276
+Wetzel,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2403
+Wirt,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,1083
+Wood,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,12578
+Wyoming,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,AGAINST,2893
+Barbour,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1557
+Berkeley,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,15991
+Boone,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1948
+Braxton,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1093
+Brooke,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2848
+Cabell,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,10188
+Calhoun,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,695
+Clay,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,654
+Doddridge,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,679
+Fayette,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,3704
+Gilmer,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,548
+Grant,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1537
+Greenbrier,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,5211
+Hampshire,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2972
+Hancock,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,4142
+Hardy,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1470
+Harrison,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,7997
+Jackson,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,3648
+Jefferson,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,9226
+Kanawha,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,22514
+Lewis,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1573
+Lincoln,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1841
+Logan,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2457
+Marion,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,6430
+Marshall,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,4156
+Mason,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,3003
+McDowell,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1335
+Mercer,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,6090
+Mineral,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,3673
+Mingo,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1962
+Monongalia,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,11288
+Monroe,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1841
+Morgan,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2555
+Nicholas,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2390
+Ohio,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,6192
+Pendleton,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,896
+Pleasants,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,836
+Pocahontas,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,925
+Preston,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,3910
+Putnam,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,8586
+Raleigh,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,8600
+Randolph,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2827
+Ritchie,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,848
+Roane,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1464
+Summers,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1301
+Taylor,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1986
+Tucker,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,977
+Tyler,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,870
+Upshur,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,2405
+Wayne,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,4023
+Webster,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,554
+Wetzel,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1420
+Wirt,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,631
+Wood,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,11439
+Wyoming,Amendment No. 3: Incorporation of Churches or Religious Denominations Amendment,,,FOR,1241
+Barbour,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2652
+Berkeley,Amendment No. 4: Education Accountability Amendment,,,AGAINST,13064
+Boone,Amendment No. 4: Education Accountability Amendment,,,AGAINST,3312
+Braxton,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2212
+Brooke,Amendment No. 4: Education Accountability Amendment,,,AGAINST,3427
+Cabell,Amendment No. 4: Education Accountability Amendment,,,AGAINST,12291
+Calhoun,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1317
+Clay,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1449
+Doddridge,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1388
+Fayette,Amendment No. 4: Education Accountability Amendment,,,AGAINST,6121
+Gilmer,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1144
+Grant,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1836
+Greenbrier,Amendment No. 4: Education Accountability Amendment,,,AGAINST,6853
+Hampshire,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2768
+Hancock,Amendment No. 4: Education Accountability Amendment,,,AGAINST,3995
+Hardy,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2517
+Harrison,Amendment No. 4: Education Accountability Amendment,,,AGAINST,11546
+Jackson,Amendment No. 4: Education Accountability Amendment,,,AGAINST,5176
+Jefferson,Amendment No. 4: Education Accountability Amendment,,,AGAINST,8522
+Kanawha,Amendment No. 4: Education Accountability Amendment,,,AGAINST,28846
+Lewis,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2971
+Lincoln,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2600
+Logan,Amendment No. 4: Education Accountability Amendment,,,AGAINST,3344
+Marion,Amendment No. 4: Education Accountability Amendment,,,AGAINST,9832
+Marshall,Amendment No. 4: Education Accountability Amendment,,,AGAINST,5340
+Mason,Amendment No. 4: Education Accountability Amendment,,,AGAINST,3639
+McDowell,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1826
+Mercer,Amendment No. 4: Education Accountability Amendment,,,AGAINST,7810
+Mineral,Amendment No. 4: Education Accountability Amendment,,,AGAINST,4131
+Mingo,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2949
+Monongalia,Amendment No. 4: Education Accountability Amendment,,,AGAINST,16806
+Monroe,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2662
+Morgan,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2425
+Nicholas,Amendment No. 4: Education Accountability Amendment,,,AGAINST,4003
+Ohio,Amendment No. 4: Education Accountability Amendment,,,AGAINST,6893
+Pendleton,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1224
+Pleasants,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1511
+Pocahontas,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1863
+Preston,Amendment No. 4: Education Accountability Amendment,,,AGAINST,5374
+Putnam,Amendment No. 4: Education Accountability Amendment,,,AGAINST,8674
+Raleigh,Amendment No. 4: Education Accountability Amendment,,,AGAINST,11643
+Randolph,Amendment No. 4: Education Accountability Amendment,,,AGAINST,5032
+Ritchie,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1712
+Roane,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2251
+Summers,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2163
+Taylor,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2595
+Tucker,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1901
+Tyler,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1558
+Upshur,Amendment No. 4: Education Accountability Amendment,,,AGAINST,3950
+Wayne,Amendment No. 4: Education Accountability Amendment,,,AGAINST,5252
+Webster,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1243
+Wetzel,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2523
+Wirt,Amendment No. 4: Education Accountability Amendment,,,AGAINST,1100
+Wood,Amendment No. 4: Education Accountability Amendment,,,AGAINST,13581
+Wyoming,Amendment No. 4: Education Accountability Amendment,,,AGAINST,2866
+Barbour,Amendment No. 4: Education Accountability Amendment,,,FOR,1289
+Berkeley,Amendment No. 4: Education Accountability Amendment,,,FOR,16278
+Boone,Amendment No. 4: Education Accountability Amendment,,,FOR,2057
+Braxton,Amendment No. 4: Education Accountability Amendment,,,FOR,1124
+Brooke,Amendment No. 4: Education Accountability Amendment,,,FOR,3003
+Cabell,Amendment No. 4: Education Accountability Amendment,,,FOR,9421
+Calhoun,Amendment No. 4: Education Accountability Amendment,,,FOR,830
+Clay,Amendment No. 4: Education Accountability Amendment,,,FOR,690
+Doddridge,Amendment No. 4: Education Accountability Amendment,,,FOR,637
+Fayette,Amendment No. 4: Education Accountability Amendment,,,FOR,3673
+Gilmer,Amendment No. 4: Education Accountability Amendment,,,FOR,556
+Grant,Amendment No. 4: Education Accountability Amendment,,,FOR,1665
+Greenbrier,Amendment No. 4: Education Accountability Amendment,,,FOR,4235
+Hampshire,Amendment No. 4: Education Accountability Amendment,,,FOR,3370
+Hancock,Amendment No. 4: Education Accountability Amendment,,,FOR,4425
+Hardy,Amendment No. 4: Education Accountability Amendment,,,FOR,1423
+Harrison,Amendment No. 4: Education Accountability Amendment,,,FOR,7006
+Jackson,Amendment No. 4: Education Accountability Amendment,,,FOR,3037
+Jefferson,Amendment No. 4: Education Accountability Amendment,,,FOR,9434
+Kanawha,Amendment No. 4: Education Accountability Amendment,,,FOR,19179
+Lewis,Amendment No. 4: Education Accountability Amendment,,,FOR,1495
+Lincoln,Amendment No. 4: Education Accountability Amendment,,,FOR,2181
+Logan,Amendment No. 4: Education Accountability Amendment,,,FOR,2863
+Marion,Amendment No. 4: Education Accountability Amendment,,,FOR,6154
+Marshall,Amendment No. 4: Education Accountability Amendment,,,FOR,3861
+Mason,Amendment No. 4: Education Accountability Amendment,,,FOR,2681
+McDowell,Amendment No. 4: Education Accountability Amendment,,,FOR,1362
+Mercer,Amendment No. 4: Education Accountability Amendment,,,FOR,6081
+Mineral,Amendment No. 4: Education Accountability Amendment,,,FOR,3718
+Mingo,Amendment No. 4: Education Accountability Amendment,,,FOR,2362
+Monongalia,Amendment No. 4: Education Accountability Amendment,,,FOR,9156
+Monroe,Amendment No. 4: Education Accountability Amendment,,,FOR,1679
+Morgan,Amendment No. 4: Education Accountability Amendment,,,FOR,2743
+Nicholas,Amendment No. 4: Education Accountability Amendment,,,FOR,2436
+Ohio,Amendment No. 4: Education Accountability Amendment,,,FOR,5881
+Pendleton,Amendment No. 4: Education Accountability Amendment,,,FOR,1013
+Pleasants,Amendment No. 4: Education Accountability Amendment,,,FOR,768
+Pocahontas,Amendment No. 4: Education Accountability Amendment,,,FOR,876
+Preston,Amendment No. 4: Education Accountability Amendment,,,FOR,3615
+Putnam,Amendment No. 4: Education Accountability Amendment,,,FOR,7695
+Raleigh,Amendment No. 4: Education Accountability Amendment,,,FOR,7256
+Randolph,Amendment No. 4: Education Accountability Amendment,,,FOR,2603
+Ritchie,Amendment No. 4: Education Accountability Amendment,,,FOR,887
+Roane,Amendment No. 4: Education Accountability Amendment,,,FOR,1437
+Summers,Amendment No. 4: Education Accountability Amendment,,,FOR,1323
+Taylor,Amendment No. 4: Education Accountability Amendment,,,FOR,1853
+Tucker,Amendment No. 4: Education Accountability Amendment,,,FOR,752
+Tyler,Amendment No. 4: Education Accountability Amendment,,,FOR,883
+Upshur,Amendment No. 4: Education Accountability Amendment,,,FOR,2321
+Wayne,Amendment No. 4: Education Accountability Amendment,,,FOR,4208
+Webster,Amendment No. 4: Education Accountability Amendment,,,FOR,658
+Wetzel,Amendment No. 4: Education Accountability Amendment,,,FOR,1453
+Wirt,Amendment No. 4: Education Accountability Amendment,,,FOR,619
+Wood,Amendment No. 4: Education Accountability Amendment,,,FOR,11213
+Wyoming,Amendment No. 4: Education Accountability Amendment,,,FOR,1373
+Brooke,State Senate,1,REP,LAURA WAKIM CHAPMAN,3783
+Hancock,State Senate,1,REP,LAURA WAKIM CHAPMAN,4844
+Marshall,State Senate,1,REP,LAURA WAKIM CHAPMAN,2057
+Ohio,State Senate,1,REP,LAURA WAKIM CHAPMAN,8062
+Brooke,State Senate,1,DEM,RANDY SWARTZMILLER,2770
+Hancock,State Senate,1,DEM,RANDY SWARTZMILLER,3819
+Marshall,State Senate,1,DEM,RANDY SWARTZMILLER,757
+Ohio,State Senate,1,DEM,RANDY SWARTZMILLER,4912
+Doddridge,State Senate,2,REP,CHARLES CLEMENTS,1627
+Marion,State Senate,2,REP,CHARLES CLEMENTS,3085
+Marshall,State Senate,2,REP,CHARLES CLEMENTS,4290
+Monongalia,State Senate,2,REP,CHARLES CLEMENTS,5163
+Tyler,State Senate,2,REP,CHARLES CLEMENTS,1940
+Wetzel,State Senate,2,REP,CHARLES CLEMENTS,2615
+Doddridge,State Senate,2,DEM,ERIC M. HAYHURST,370
+Marion,State Senate,2,DEM,ERIC M. HAYHURST,2091
+Marshall,State Senate,2,DEM,ERIC M. HAYHURST,1937
+Monongalia,State Senate,2,DEM,ERIC M. HAYHURST,4855
+Tyler,State Senate,2,DEM,ERIC M. HAYHURST,502
+Wetzel,State Senate,2,DEM,ERIC M. HAYHURST,1458
+Pleasants,State Senate,3,REP,MICHAEL AZINGER,1498
+Ritchie,State Senate,3,REP,MICHAEL AZINGER,2054
+Wirt,State Senate,3,REP,MICHAEL AZINGER,1258
+Wood,State Senate,3,REP,MICHAEL AZINGER,16002
+Pleasants,State Senate,3,DEM,JODY MURPHY,794
+Ritchie,State Senate,3,DEM,JODY MURPHY,490
+Wirt,State Senate,3,DEM,JODY MURPHY,450
+Wood,State Senate,3,DEM,JODY MURPHY,9127
+Cabell,State Senate,4,REP,ERIC J. TARR,3289
+Jackson,State Senate,4,REP,ERIC J. TARR,4307
+Mason,State Senate,4,REP,ERIC J. TARR,4964
+Putnam,State Senate,4,REP,ERIC J. TARR,8499
+Cabell,State Senate,5,DEM,MIKE WOELFEL,9994
+Wayne,State Senate,5,DEM,MIKE WOELFEL,3548
+Cabell,State Senate,5,REP,MELISSA CLARK,7324
+Wayne,State Senate,5,REP,MELISSA CLARK,4228
+McDowell,State Senate,6,REP,MARK R. MAYNARD,1677
+Mercer,State Senate,6,REP,MARK R. MAYNARD,10177
+Mingo,State Senate,6,REP,MARK R. MAYNARD,4165
+Wayne,State Senate,6,REP,MARK R. MAYNARD,1203
+McDowell,State Senate,6,DEM,TIFFANY CLEMINS,1380
+Mercer,State Senate,6,DEM,TIFFANY CLEMINS,3370
+Mingo,State Senate,6,DEM,TIFFANY CLEMINS,1129
+Wayne,State Senate,6,DEM,TIFFANY CLEMINS,370
+Boone,State Senate,7,REP,MIKE STUART,2806
+Kanawha,State Senate,7,REP,MIKE STUART,3693
+Lincoln,State Senate,7,REP,MIKE STUART,2948
+Logan,State Senate,7,REP,MIKE STUART,3795
+Boone,State Senate,7,DEM,RON STOLLINGS,2708
+Kanawha,State Senate,7,DEM,RON STOLLINGS,2204
+Lincoln,State Senate,7,DEM,RON STOLLINGS,1964
+Logan,State Senate,7,DEM,RON STOLLINGS,2650
+Clay,State Senate,8,REP,MARK HUNT,1455
+Jackson,State Senate,8,REP,MARK HUNT,1829
+Kanawha,State Senate,8,REP,MARK HUNT,6082
+Putnam,State Senate,8,REP,MARK HUNT,2827
+Roane,State Senate,8,REP,MARK HUNT,2422
+Clay,State Senate,8,DEM,RICHARD  LINDSAY,619
+Jackson,State Senate,8,DEM,RICHARD  LINDSAY,559
+Kanawha,State Senate,8,DEM,RICHARD  LINDSAY,7360
+Putnam,State Senate,8,DEM,RICHARD  LINDSAY,1397
+Roane,State Senate,8,DEM,RICHARD  LINDSAY,1201
+Fayette,State Senate,9,REP,ROLLAN ROBERTS,1541
+Raleigh,State Senate,9,REP,ROLLAN ROBERTS,13915
+Wyoming,State Senate,9,REP,ROLLAN ROBERTS,3084
+Fayette,State Senate,9,LBN,KARI WOODSON,1304
+Raleigh,State Senate,9,LBN,KARI WOODSON,3233
+Wyoming,State Senate,9,LBN,KARI WOODSON,657
+Fayette,State Senate,10,REP,VINCE DEEDS,3671
+Greenbrier,State Senate,10,REP,VINCE DEEDS,5901
+Monroe,State Senate,10,REP,VINCE DEEDS,2891
+Nicholas,State Senate,10,REP,VINCE DEEDS,4394
+Summers,State Senate,10,REP,VINCE DEEDS,2097
+Fayette,State Senate,10,DEM,STEPHEN BALDWIN,2737
+Greenbrier,State Senate,10,DEM,STEPHEN BALDWIN,4858
+Monroe,State Senate,10,DEM,STEPHEN BALDWIN,1361
+Nicholas,State Senate,10,DEM,STEPHEN BALDWIN,1931
+Summers,State Senate,10,DEM,STEPHEN BALDWIN,1363
+Fayette,State Senate,10,IND,AARON RANSOM,209
+Greenbrier,State Senate,10,IND,AARON RANSOM,484
+Monroe,State Senate,10,IND,AARON RANSOM,138
+Nicholas,State Senate,10,IND,AARON RANSOM,163
+Summers,State Senate,10,IND,AARON RANSOM,91
+Barbour,State Senate,11,REP,BILL HAMILTON,3315
+Braxton,State Senate,11,REP,BILL HAMILTON,2551
+Pendleton,State Senate,11,REP,BILL HAMILTON,1878
+Pocahontas,State Senate,11,REP,BILL HAMILTON,2199
+Randolph,State Senate,11,REP,BILL HAMILTON,5965
+Upshur,State Senate,11,REP,BILL HAMILTON,5595
+Webster,State Senate,11,REP,BILL HAMILTON,1602
+Calhoun,State Senate,12,REP,BEN QUEEN,1294
+Gilmer,State Senate,12,REP,BEN QUEEN,1050
+Harrison,State Senate,12,REP,BEN QUEEN,11505
+Lewis,State Senate,12,REP,BEN QUEEN,3174
+Taylor,State Senate,12,REP,BEN QUEEN,1688
+Calhoun,State Senate,12,LBN,AUSTIN LYNCH,548
+Gilmer,State Senate,12,LBN,AUSTIN LYNCH,450
+Harrison,State Senate,12,LBN,AUSTIN LYNCH,6022
+Lewis,State Senate,12,LBN,AUSTIN LYNCH,966
+Taylor,State Senate,12,LBN,AUSTIN LYNCH,543
+Marion,State Senate,13,REP,MIKE OLIVERIO,6261
+Monongalia,State Senate,13,REP,MIKE OLIVERIO,7234
+Marion,State Senate,13,DEM,BARBARA EVANS FLEISCHAUER,4287
+Monongalia,State Senate,13,DEM,BARBARA EVANS FLEISCHAUER,9055
+Grant,State Senate,14,REP,JAY TAYLOR,3065
+Hardy,State Senate,14,REP,JAY TAYLOR,2974
+Mineral,State Senate,14,REP,JAY TAYLOR,6383
+Preston,State Senate,14,REP,JAY TAYLOR,6266
+Taylor,State Senate,14,REP,JAY TAYLOR,1520
+Tucker,State Senate,14,REP,JAY TAYLOR,1702
+Grant,State Senate,14,DEM,AMANDA JO PITZER,375
+Hardy,State Senate,14,DEM,AMANDA JO PITZER,903
+Mineral,State Senate,14,DEM,AMANDA JO PITZER,1525
+Preston,State Senate,14,DEM,AMANDA JO PITZER,2680
+Taylor,State Senate,14,DEM,AMANDA JO PITZER,532
+Tucker,State Senate,14,DEM,AMANDA JO PITZER,840
+Berkeley,State Senate,15,REP,CHARLES S. TRUMP IV,12275
+Hampshire,State Senate,15,REP,CHARLES S. TRUMP IV,4737
+Morgan,State Senate,15,REP,CHARLES S. TRUMP IV,4125
+Berkeley,State Senate,15,UPW,ROBIN MILLS,3138
+Hampshire,State Senate,15,UPW,ROBIN MILLS,1249
+Morgan,State Senate,15,UPW,ROBIN MILLS,761
+Berkeley,State Senate,16,REP,JASON BARRETT,8526
+Jefferson,State Senate,16,REP,JASON BARRETT,10146
+Berkeley,State Senate,16,DEM,HANNAH N. GEFFERT,4285
+Jefferson,State Senate,16,DEM,HANNAH N. GEFFERT,7911
+Kanawha,State Senate,17,REP,TOM TAKUBO,16739
+Kanawha,State Senate,17,DEM,"SAMUEL ""SAM"" WOOD",11897
+Brooke,State House,1,REP,PAT MCGEEHAN,286
+Hancock,State House,1,REP,PAT MCGEEHAN,4304
+Brooke,State House,1,DEM,JACK WOOD,107
+Hancock,State House,1,DEM,JACK WOOD,1355
+Brooke,State House,2,REP,MARK ZATEZALO,1460
+Hancock,State House,2,REP,MARK ZATEZALO,1946
+Brooke,State House,2,DEM,RONNIE D. JONES,678
+Hancock,State House,2,DEM,RONNIE D. JONES,985
+Brooke,State House,3,REP,JIMMY WILLIS,2078
+Ohio,State House,3,REP,JIMMY WILLIS,817
+Brooke,State House,3,DEM,PHILLIP W. DISERIO,1939
+Ohio,State House,3,DEM,PHILLIP W. DISERIO,440
+Ohio,State House,4,REP,ERIKKA STORCH,4811
+Ohio,State House,4,DEM,TERESA TORISEVA,1812
+Ohio,State House,5,DEM,SHAWN FLUHARTY,2758
+Ohio,State House,5,REP,BROOKE E. MCARDLE,2294
+Marshall,State House,6,REP,CHARLIE REYNOLDS,3550
+Marshall,State House,6,DEM,REVA YOST,2243
+Marshall,State House,7,REP,CHARLES R. SHEEDY SR,1993
+Wetzel,State House,7,REP,CHARLES R. SHEEDY SR,955
+Marshall,State House,7,DEM,LISA ZUKOFF,1383
+Wetzel,State House,7,DEM,LISA ZUKOFF,683
+Marshall,State House,7,MTN,DYLAN PARSONS,90
+Wetzel,State House,7,MTN,DYLAN PARSONS,266
+Doddridge,State House,8,REP,DAVID L. KELLY,1825
+Tyler,State House,8,REP,DAVID L. KELLY,1475
+Wetzel,State House,8,REP,DAVID L. KELLY,1209
+Pleasants,State House,9,REP,TRENTON CARL BARNHART,2060
+Ritchie,State House,9,REP,TRENTON CARL BARNHART,2312
+Tyler,State House,9,REP,TRENTON CARL BARNHART,687
+Wood,State House,10,REP,BILL ANDERSON,4133
+Wood,State House,10,DEM,J. MORGAN LEACH,1702
+Wood,State House,11,REP,BOB FEHRENBACHER,3274
+Wood,State House,11,DEM,HARRY DEITZLER,2280
+Wood,State House,12,REP,VERNON CRISS,2467
+Wood,State House,12,DEM,JONATHAN DEFIBAUGH,1196
+Wood,State House,12,LBN,STEPHEN THOMAS SMITH,295
+Wood,State House,13,REP,SCOT HECKERT,3304
+Wood,State House,13,DEM,"ANDREA ""RED"" GREER",1281
+Wirt,State House,14,REP,DAVE FOGGIN,319
+Wood,State House,14,REP,DAVE FOGGIN,3912
+Wirt,State House,14,DEM,JIM MARION,152
+Wood,State House,14,DEM,JIM MARION,1163
+Roane,State House,15,REP,RILEY KEATON,2490
+Wirt,State House,15,REP,RILEY KEATON,959
+Roane,State House,15,DEM,CHUCK CONNER,1225
+Wirt,State House,15,DEM,CHUCK CONNER,258
+Jackson,State House,16,REP,STEVE WESTFALL,4648
+Jackson,State House,17,REP,JONATHAN ADAM PINSON,2115
+Mason,State House,17,REP,JONATHAN ADAM PINSON,1968
+Mason,State House,18,REP,JIM BUTLER,3206
+Putnam,State House,18,REP,JIM BUTLER,270
+Putnam,State House,19,REP,KATHIE HESS CROUSE,3082
+Putnam,State House,19,DEM,SETH KING,2032
+Putnam,State House,20,REP,GEOFF FOSTER,4147
+Putnam,State House,21,REP,JARRED CANNON,3502
+Putnam,State House,21,DEM,"THERESA ""TESS"" JACKSON",1640
+Cabell,State House,22,REP,DANIEL LINVILLE,3495
+Cabell,State House,23,REP,EVAN WORRELL,3028
+Cabell,State House,23,DEM,KAREN NANCE,1413
+Cabell,State House,24,REP,PATRICK LUCAS,1914
+Cabell,State House,24,DEM,ALLY LAYMAN,1724
+Cabell,State House,25,DEM,SEAN HORNBUCKLE,2652
+Cabell,State House,26,REP,MATTHEW ROHRBACH,2877
+Cabell,State House,26,DEM,SYDNEE SMIRL MCELROY,2199
+Cabell,State House,27,DEM,RIC GRIFFITH,669
+Wayne,State House,27,DEM,RIC GRIFFITH,1395
+Cabell,State House,27,REP,JEFF MAYNARD,674
+Wayne,State House,27,REP,JEFF MAYNARD,1321
+Wayne,State House,28,REP,MARK A. ROSS,3943
+Mingo,State House,29,REP,HENRY CORBETT DILLON,980
+Wayne,State House,29,REP,HENRY CORBETT DILLON,1310
+Mingo,State House,29,DEM,DAVID THOMPSON,531
+Wayne,State House,29,DEM,DAVID THOMPSON,945
+Lincoln,State House,30,REP,"DAVID ""FLIMSY"" ADKINS",2542
+Lincoln,State House,30,DEM,DEIDRA ROBERTS,1974
+Boone,State House,31,REP,MARGITTA MAZZOCCHI,395
+Lincoln,State House,31,REP,MARGITTA MAZZOCCHI,257
+Logan,State House,31,REP,MARGITTA MAZZOCCHI,1670
+Boone,State House,31,DEM,KENNETH RAY WILSON,164
+Lincoln,State House,31,DEM,KENNETH RAY WILSON,124
+Logan,State House,31,DEM,KENNETH RAY WILSON,822
+Boone,State House,31,IND,BRANNON D. AKERS,158
+Lincoln,State House,31,IND,BRANNON D. AKERS,24
+Logan,State House,31,IND,BRANNON D. AKERS,195
+Boone,State House,32,REP,JOSH HOLSTEIN,2619
+Boone,State House,32,DEM,RODNEY A. MILLER,2183
+Logan,State House,33,REP,JORDAN BRIDGES,2540
+Logan,State House,33,DEM,GEORGE HOWES,1174
+McDowell,State House,34,REP,MARK DEAN,31
+Mingo,State House,34,REP,MARK DEAN,2705
+McDowell,State House,34,DEM,MARK COLEGROVE,3
+Mingo,State House,34,DEM,MARK COLEGROVE,1349
+Wyoming,State House,35,REP,ADAM VANCE,2605
+Wyoming,State House,35,DEM,DEWEY HOUCK,1007
+McDowell,State House,36,REP,ANITA HALL,1966
+McDowell,State House,36,DEM,ED EVANS,1333
+Mercer,State House,37,REP,MARTY  GEARHEART,2552
+Mercer,State House,37,DEM,SKIP CRANE,1555
+Mercer,State House,38,REP,"JOE C ELLINGTON, JR",3204
+Mercer,State House,38,DEM,TINA RUSSELL,1117
+Mercer,State House,39,REP,DOUG SMITH,3992
+Monroe,State House,40,REP,ROY G. COOPER,3008
+Summers,State House,40,REP,ROY G. COOPER,1049
+Monroe,State House,40,DEM,BECKY CRABTREE,1128
+Summers,State House,40,DEM,BECKY CRABTREE,603
+Monroe,State House,40,LBN,JONATHON FAIN,205
+Summers,State House,40,LBN,JONATHON FAIN,48
+Mercer,State House,41,REP,JORDAN MAYNOR,857
+Raleigh,State House,41,REP,JORDAN MAYNOR,2635
+Summers,State House,41,REP,JORDAN MAYNOR,1416
+Raleigh,State House,42,REP,BRANDON STEELE,3956
+Raleigh,State House,43,REP,CHRISTOPHER W. TONEY,3056
+Wyoming,State House,43,REP,CHRISTOPHER W. TONEY,492
+Raleigh,State House,43,DEM,JOANNA VANCE,665
+Wyoming,State House,43,DEM,JOANNA VANCE,120
+Raleigh,State House,44,REP,TODD A. KIRBY,2452
+Raleigh,State House,44,DEM,TONY O. MARTIN,1998
+Fayette,State House,45,REP,ERIC BROOKS,573
+Raleigh,State House,45,REP,ERIC BROOKS,1943
+Fayette,State House,45,DEM,CHRISTIAN MARTINE,384
+Raleigh,State House,45,DEM,CHRISTIAN MARTINE,965
+Greenbrier,State House,46,REP,MIKE HONAKER,3231
+Pocahontas,State House,46,REP,MIKE HONAKER,875
+Greenbrier,State House,46,DEM,PAUL S. DETCH,1664
+Pocahontas,State House,46,DEM,PAUL S. DETCH,419
+Greenbrier,State House,47,REP,TODD LONGANACRE,3693
+Monroe,State House,47,REP,TODD LONGANACRE,11
+Greenbrier,State House,47,DEM,HEATHER HILL,2088
+Monroe,State House,47,DEM,HEATHER HILL,12
+Greenbrier,State House,48,REP,CALEB L.  HANNA,220
+Nicholas,State House,48,REP,CALEB L.  HANNA,1288
+Webster,State House,48,REP,CALEB L.  HANNA,1378
+Greenbrier,State House,48,DEM,ERIC HENSON SEBERT,93
+Nicholas,State House,48,DEM,ERIC HENSON SEBERT,562
+Webster,State House,48,DEM,ERIC HENSON SEBERT,538
+Nicholas,State House,49,REP,HEATHER TULLY,3814
+Fayette,State House,50,DEM,"DAVID ""ELLIOTT"" PRITT",1892
+Fayette,State House,50,REP,AUSTIN HAYNES,1759
+Fayette,State House,51,REP,TOM FAST,2900
+Fayette,State House,51,DEM,GABE PEÑA,2045
+Fayette,State House,52,DEM,LARRY L. ROWE,85
+Kanawha,State House,52,DEM,LARRY L. ROWE,2202
+Fayette,State House,52,REP,GREG HENDRICKS,44
+Kanawha,State House,52,REP,GREG HENDRICKS,2067
+Kanawha,State House,53,REP,CHRIS PRITT,2707
+Kanawha,State House,53,DEM,WAYNE CROZIER,1729
+Kanawha,State House,54,DEM,MIKE PUSHKIN,3342
+Kanawha,State House,54,REP,JOHN LUONI,1198
+Kanawha,State House,55,REP,MOORE CAPITO,3476
+Kanawha,State House,55,DEM,GREG CHILDRESS,2393
+Kanawha,State House,56,DEM,KAYLA YOUNG,2886
+Kanawha,State House,56,REP,ANDREW G. ANDERSON,2828
+Kanawha,State House,57,DEM,DOUG SKAFF JR,3044
+Kanawha,State House,57,REP,ERNEST BLEVINS,1650
+Kanawha,State House,57,MTN,"E.C. ""BUD"" ANDERSON",285
+Kanawha,State House,58,REP,WALTER HALL,2971
+Kanawha,State House,58,DEM,DAKOTA JAMES BUCKLEY,1805
+Kanawha,State House,59,REP,ANDY SHAMBLIN,2767
+Kanawha,State House,59,DEM,RUSTY WILLIAMS,1691
+Kanawha,State House,60,REP,DANA FERRELL,3154
+Kanawha,State House,60,DEM,"DAVID ""WOODY"" HOLMES",1416
+Kanawha,State House,61,REP,WARREN DEAN JEFFRIES,3764
+Calhoun,State House,62,REP,ROGER HANSHAW,1605
+Clay,State House,62,REP,ROGER HANSHAW,1664
+Gilmer,State House,62,REP,ROGER HANSHAW,704
+Calhoun,State House,62,ACT,LAURA MCGINNIS,381
+Clay,State House,62,ACT,LAURA MCGINNIS,400
+Gilmer,State House,62,ACT,LAURA MCGINNIS,118
+Braxton,State House,63,REP,LORI COWGER DITTMAN,2502
+Gilmer,State House,63,REP,LORI COWGER DITTMAN,512
+Braxton,State House,63,DEM,KEVIN CARPENTER,943
+Gilmer,State House,63,DEM,KEVIN CARPENTER,284
+Lewis,State House,64,REP,ADAM BURKHAMMER,3003
+Upshur,State House,64,REP,ADAM BURKHAMMER,580
+Lewis,State House,64,DEM,JOHN CLISE,965
+Upshur,State House,64,DEM,JOHN CLISE,108
+Upshur,State House,65,REP,"CARL ""ROBBIE"" MARTIN",3720
+Pocahontas,State House,66,REP,"WILLIAM ""TY"" NESTOR",875
+Randolph,State House,66,REP,"WILLIAM ""TY"" NESTOR",2227
+Pocahontas,State House,66,DEM,"ROBERT ""BOB"" SHEETS",639
+Randolph,State House,66,DEM,"ROBERT ""BOB"" SHEETS",951
+Pendleton,State House,67,REP,ELIAS COOP-GONZALEZ,962
+Randolph,State House,67,REP,ELIAS COOP-GONZALEZ,2534
+Pendleton,State House,67,DEM,CODY H THOMPSON,352
+Randolph,State House,67,DEM,CODY H THOMPSON,1950
+Barbour,State House,68,REP,CHRIS PHILLIPS,3343
+Upshur,State House,68,REP,CHRIS PHILLIPS,835
+Harrison,State House,69,REP,KEITH MARPLE,3439
+Lewis,State House,69,REP,KEITH MARPLE,340
+Harrison,State House,69,DEM,RON WATSON,1710
+Lewis,State House,69,DEM,RON WATSON,124
+Harrison,State House,70,REP,MICKEY PETITTO,2108
+Harrison,State House,70,DEM,RYAN DEEMS,1808
+Harrison,State House,71,REP,LAURA KIMBLE,3314
+Harrison,State House,71,DEM,"ROBERT ""ROB"" GARCIA",2386
+Harrison,State House,72,REP,CLAY RILEY,2668
+Wetzel,State House,72,REP,CLAY RILEY,394
+Harrison,State House,72,DEM,DEREK MCINTYRE,1054
+Wetzel,State House,72,DEM,DEREK MCINTYRE,176
+Marion,State House,73,REP,AMY SUMMERS,245
+Taylor,State House,73,REP,AMY SUMMERS,3102
+Marion,State House,73,DEM,MIKE MANYPENNY,113
+Taylor,State House,73,DEM,MIKE MANYPENNY,1366
+Marion,State House,74,REP,MIKE DEVAULT,3752
+Marion,State House,74,DEM,"JOHN ""JOHNBOY"" PALMER",1886
+Marion,State House,75,REP,PHIL MALLOW,2923
+Marion,State House,75,DEM,STEPHANIE SPEARS TOMANA,2438
+Marion,State House,76,DEM,JOEY GARCIA,2485
+Marion,State House,76,REP,JON DODDS,2068
+Monongalia,State House,77,REP,JOE STATLER,3488
+Wetzel,State House,77,REP,JOE STATLER,69
+Monongalia,State House,77,DEM,BEN SWANSON,1646
+Wetzel,State House,77,DEM,BEN SWANSON,18
+Monongalia,State House,78,REP,GENO CHIARELLI,3056
+Monongalia,State House,78,DEM,JEFFREY A. BUDKEY,2341
+Monongalia,State House,79,DEM,EVAN HANSEN,2790
+Monongalia,State House,79,REP,ZACH LEMAIRE,947
+Monongalia,State House,80,DEM,JOHN WILLIAMS,2427
+Monongalia,State House,80,REP,JUSTIN WHITE,1458
+Monongalia,State House,81,DEM,DANIELLE WALKER,1633
+Monongalia,State House,81,REP,STEVEN HARRIS,963
+Monongalia,State House,82,REP,DEBBIE WARNER,2822
+Monongalia,State House,82,DEM,KATIE FALLON,2683
+Preston,State House,83,REP,GEORGE STREET,2943
+Preston,State House,83,DEM,JR WOLFE,1217
+Preston,State House,84,REP,D. R. (BUCK) JENNINGS,3531
+Preston,State House,84,DEM,LISA HYRE,1372
+Grant,State House,85,REP,JOHN PAUL HOTT II,3091
+Tucker,State House,85,REP,JOHN PAUL HOTT II,1973
+Hardy,State House,86,REP,BRYAN C. WARD,3087
+Pendleton,State House,86,REP,BRYAN C. WARD,709
+Hardy,State House,86,DEM,JAMESON PAUL FREEMAN,881
+Pendleton,State House,86,DEM,JAMESON PAUL FREEMAN,227
+Mineral,State House,87,REP,GARY HOWELL,3453
+Mineral,State House,87,DEM,DAVID BODEN,1509
+Hampshire,State House,88,REP,RICK HILLENBRAND,1785
+Mineral,State House,88,REP,RICK HILLENBRAND,2749
+Hampshire,State House,89,REP,DARREN J. THORNE,3103
+Morgan,State House,89,REP,DARREN J. THORNE,686
+Hampshire,State House,89,IND,ROBERT B. WOLFORD,1032
+Morgan,State House,89,IND,ROBERT B. WOLFORD,221
+Berkeley,State House,90,REP,GEORGE MILLER,1353
+Morgan,State House,90,REP,GEORGE MILLER,3693
+Berkeley,State House,91,REP,DON FORSHT,2531
+Berkeley,State House,91,ACT,S. MARSHALL WILSON,1666
+Berkeley,State House,92,REP,MICHAEL HITE,4075
+Berkeley,State House,93,REP,MICHAEL HORNBY,2347
+Berkeley,State House,93,DEM,Z. LANSDOWNE,1356
+Berkeley,State House,94,REP,LARRY D. KUMP,3123
+Berkeley,State House,95,REP,"CHARLES ""CHUCK"" HORST, SR.",2689
+Berkeley,State House,95,DEM,DEBI CARROLL,1161
+Berkeley,State House,96,REP,ERIC L. HOUSEHOLDER,2766
+Berkeley,State House,96,DEM,RONALD WENGER,1137
+Berkeley,State House,97,REP,JOHN HARDY,1995
+Jefferson,State House,97,REP,JOHN HARDY,978
+Berkeley,State House,97,DEM,PHILIP WENNER,1033
+Jefferson,State House,97,DEM,PHILIP WENNER,1112
+Jefferson,State House,98,REP,PAUL ESPINOSA,3681
+Jefferson,State House,99,REP,WAYNE CLARK,2958
+Jefferson,State House,99,DEM,DEBRA CORNWELL,2265
+Jefferson,State House,100,REP,"WILLIAM ""BILL"" RIDENOUR",3390
+Jefferson,State House,100,DEM,SUSAN BENZINGER,2801
