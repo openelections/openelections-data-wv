@@ -1,8 +1,6 @@
 import os
 import glob
 import csv
-import click
-
 
 def generate_headers(year, path):
     os.chdir(year)

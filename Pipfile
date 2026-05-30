@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+openpyxl = "==2.4.8"
+click = "==6.7"
+clarify = "==0.5.0.dev0"
+
+[requires]
+python_version = "3.10"
