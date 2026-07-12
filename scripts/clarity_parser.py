@@ -16,6 +16,8 @@ HEADERS = {
     'Referer': 'https://results.enr.clarityelections.com/',
 }
 
+CLARITY_BASE_URL = 'https://results.enr.clarityelections.com/WV/{}/'
+
 OFFICE_MAP = {
     'PRESIDENT': 'President',
     'U.S. PRESIDENT': 'President',
@@ -50,6 +52,18 @@ def normalize_office(office, district):
         district_num = None
 
     return normalized, district_num
+
+def resolve_url(election_id_or_url):
+    """Accept either a full Clarity results URL or a bare WV election ID and return a URL.
+
+    The clarify library only looks for county subjurisdictions via its JSON
+    electionsettings endpoint when the string 'web.' appears in the URL, so a
+    placeholder 'web.0' segment is appended for bare election IDs to trigger
+    that code path; the actual current report version is resolved separately.
+    """
+    if '://' in election_id_or_url:
+        return election_id_or_url
+    return CLARITY_BASE_URL.format(election_id_or_url) + 'web.0/'
 
 def statewide_results(url, output_file):
     j = clarify.Jurisdiction(url=url, level="state")
@@ -205,19 +219,29 @@ def cli():
 
 
 @cli.command('statewide')
-@click.argument('url')
+@click.argument('election_id_or_url')
 @click.argument('output_file')
-def statewide_cmd(url, output_file):
-    """Download statewide county-level results from a Clarity URL and write to OUTPUT_FILE."""
-    statewide_results(url, output_file)
+def statewide_cmd(election_id_or_url, output_file):
+    """Download statewide county-level results and write to OUTPUT_FILE.
+
+    ELECTION_ID_OR_URL may be a full Clarity results URL (e.g.
+    https://results.enr.clarityelections.com/WV/126209/web.345435/#/summary)
+    or a bare WV election ID (e.g. 126209).
+    """
+    statewide_results(resolve_url(election_id_or_url), output_file)
 
 
 @cli.command('precincts')
-@click.argument('url')
+@click.argument('election_id_or_url')
 @click.argument('filename')
-def precincts_cmd(url, filename):
-    """Download precinct-level results for all counties from a Clarity URL."""
-    download_county_files(url, filename)
+def precincts_cmd(election_id_or_url, filename):
+    """Download precinct-level results for all counties.
+
+    ELECTION_ID_OR_URL may be a full Clarity results URL (e.g.
+    https://results.enr.clarityelections.com/WV/126209/web.345435/#/summary)
+    or a bare WV election ID (e.g. 126209).
+    """
+    download_county_files(resolve_url(election_id_or_url), filename)
 
 
 if __name__ == '__main__':

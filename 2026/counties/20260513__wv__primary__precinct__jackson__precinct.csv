@@ -1,0 +1,2360 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,Precinct 1,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,50
+Jackson,Precinct 2,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,72
+Jackson,Precinct 3,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,149
+Jackson,Precinct 4,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,43
+Jackson,Precinct 5,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,59
+Jackson,Precinct 6,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,84
+Jackson,Precinct 7,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,96
+Jackson,Precinct 8,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,46
+Jackson,Precinct 9,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,51
+Jackson,Precinct 10,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,71
+Jackson,Precinct 11,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,97
+Jackson,Precinct 12,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,146
+Jackson,Precinct 13,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,67
+Jackson,Precinct 14,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,151
+Jackson,Precinct 15,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,80
+Jackson,Precinct 16,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,209
+Jackson,Precinct 17,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,211
+Jackson,Precinct 18,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,207
+Jackson,Precinct 19,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,117
+Jackson,Precinct 20,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,75
+Jackson,Precinct 21,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,54
+Jackson,Precinct 22,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,221
+Jackson,Precinct 23,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,100
+Jackson,Precinct 24,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,24
+Jackson,Precinct 25,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,54
+Jackson,Precinct 26,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,46
+Jackson,Precinct 27,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,46
+Jackson,Precinct 28,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,193
+Jackson,Precinct 29,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,43
+Jackson,Precinct 30,BALLOTS CAST,,REP,BALLOTS CAST - REPUBLICAN,105
+Jackson,Precinct 1,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,43
+Jackson,Precinct 2,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,30
+Jackson,Precinct 3,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,43
+Jackson,Precinct 4,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,17
+Jackson,Precinct 5,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,50
+Jackson,Precinct 6,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,80
+Jackson,Precinct 7,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,92
+Jackson,Precinct 8,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,60
+Jackson,Precinct 9,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,39
+Jackson,Precinct 10,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,32
+Jackson,Precinct 11,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,32
+Jackson,Precinct 12,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,49
+Jackson,Precinct 13,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,30
+Jackson,Precinct 14,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,85
+Jackson,Precinct 15,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,38
+Jackson,Precinct 16,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,88
+Jackson,Precinct 17,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,95
+Jackson,Precinct 18,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,79
+Jackson,Precinct 19,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,48
+Jackson,Precinct 20,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,46
+Jackson,Precinct 21,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,17
+Jackson,Precinct 22,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,110
+Jackson,Precinct 23,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,43
+Jackson,Precinct 24,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,9
+Jackson,Precinct 25,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,27
+Jackson,Precinct 26,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,19
+Jackson,Precinct 27,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,16
+Jackson,Precinct 28,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,74
+Jackson,Precinct 29,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,12
+Jackson,Precinct 30,BALLOTS CAST,,DEM,BALLOTS CAST - DEMOCRATIC,35
+Jackson,Precinct 1,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,9
+Jackson,Precinct 2,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,16
+Jackson,Precinct 3,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,15
+Jackson,Precinct 4,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,4
+Jackson,Precinct 5,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,8
+Jackson,Precinct 6,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,15
+Jackson,Precinct 7,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,6
+Jackson,Precinct 8,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,2
+Jackson,Precinct 9,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,13
+Jackson,Precinct 10,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,6
+Jackson,Precinct 11,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,15
+Jackson,Precinct 12,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,18
+Jackson,Precinct 13,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,9
+Jackson,Precinct 14,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,14
+Jackson,Precinct 15,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,4
+Jackson,Precinct 16,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,25
+Jackson,Precinct 17,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,14
+Jackson,Precinct 18,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,17
+Jackson,Precinct 19,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,14
+Jackson,Precinct 20,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,17
+Jackson,Precinct 21,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,11
+Jackson,Precinct 22,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,43
+Jackson,Precinct 23,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,12
+Jackson,Precinct 24,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,4
+Jackson,Precinct 25,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,6
+Jackson,Precinct 26,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,3
+Jackson,Precinct 27,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,4
+Jackson,Precinct 28,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,10
+Jackson,Precinct 29,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,3
+Jackson,Precinct 30,BALLOTS CAST,,,BALLOTS CAST - NONPARTISAN,10
+Jackson,Precinct 1,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 2,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 3,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 4,U.S. Senate,,REP,DAVID PURKEY,0
+Jackson,Precinct 5,U.S. Senate,,REP,DAVID PURKEY,1
+Jackson,Precinct 6,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 7,U.S. Senate,,REP,DAVID PURKEY,3
+Jackson,Precinct 8,U.S. Senate,,REP,DAVID PURKEY,3
+Jackson,Precinct 9,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 10,U.S. Senate,,REP,DAVID PURKEY,5
+Jackson,Precinct 11,U.S. Senate,,REP,DAVID PURKEY,0
+Jackson,Precinct 12,U.S. Senate,,REP,DAVID PURKEY,5
+Jackson,Precinct 13,U.S. Senate,,REP,DAVID PURKEY,1
+Jackson,Precinct 14,U.S. Senate,,REP,DAVID PURKEY,4
+Jackson,Precinct 15,U.S. Senate,,REP,DAVID PURKEY,1
+Jackson,Precinct 16,U.S. Senate,,REP,DAVID PURKEY,4
+Jackson,Precinct 17,U.S. Senate,,REP,DAVID PURKEY,8
+Jackson,Precinct 18,U.S. Senate,,REP,DAVID PURKEY,0
+Jackson,Precinct 19,U.S. Senate,,REP,DAVID PURKEY,1
+Jackson,Precinct 20,U.S. Senate,,REP,DAVID PURKEY,3
+Jackson,Precinct 21,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 22,U.S. Senate,,REP,DAVID PURKEY,7
+Jackson,Precinct 23,U.S. Senate,,REP,DAVID PURKEY,7
+Jackson,Precinct 24,U.S. Senate,,REP,DAVID PURKEY,0
+Jackson,Precinct 25,U.S. Senate,,REP,DAVID PURKEY,0
+Jackson,Precinct 26,U.S. Senate,,REP,DAVID PURKEY,0
+Jackson,Precinct 27,U.S. Senate,,REP,DAVID PURKEY,3
+Jackson,Precinct 28,U.S. Senate,,REP,DAVID PURKEY,3
+Jackson,Precinct 29,U.S. Senate,,REP,DAVID PURKEY,2
+Jackson,Precinct 30,U.S. Senate,,REP,DAVID PURKEY,4
+Jackson,Precinct 1,U.S. Senate,,REP,SHELLEY MOORE CAPITO,32
+Jackson,Precinct 2,U.S. Senate,,REP,SHELLEY MOORE CAPITO,53
+Jackson,Precinct 3,U.S. Senate,,REP,SHELLEY MOORE CAPITO,105
+Jackson,Precinct 4,U.S. Senate,,REP,SHELLEY MOORE CAPITO,27
+Jackson,Precinct 5,U.S. Senate,,REP,SHELLEY MOORE CAPITO,45
+Jackson,Precinct 6,U.S. Senate,,REP,SHELLEY MOORE CAPITO,48
+Jackson,Precinct 7,U.S. Senate,,REP,SHELLEY MOORE CAPITO,62
+Jackson,Precinct 8,U.S. Senate,,REP,SHELLEY MOORE CAPITO,26
+Jackson,Precinct 9,U.S. Senate,,REP,SHELLEY MOORE CAPITO,32
+Jackson,Precinct 10,U.S. Senate,,REP,SHELLEY MOORE CAPITO,45
+Jackson,Precinct 11,U.S. Senate,,REP,SHELLEY MOORE CAPITO,65
+Jackson,Precinct 12,U.S. Senate,,REP,SHELLEY MOORE CAPITO,95
+Jackson,Precinct 13,U.S. Senate,,REP,SHELLEY MOORE CAPITO,45
+Jackson,Precinct 14,U.S. Senate,,REP,SHELLEY MOORE CAPITO,92
+Jackson,Precinct 15,U.S. Senate,,REP,SHELLEY MOORE CAPITO,57
+Jackson,Precinct 16,U.S. Senate,,REP,SHELLEY MOORE CAPITO,139
+Jackson,Precinct 17,U.S. Senate,,REP,SHELLEY MOORE CAPITO,143
+Jackson,Precinct 18,U.S. Senate,,REP,SHELLEY MOORE CAPITO,138
+Jackson,Precinct 19,U.S. Senate,,REP,SHELLEY MOORE CAPITO,70
+Jackson,Precinct 20,U.S. Senate,,REP,SHELLEY MOORE CAPITO,49
+Jackson,Precinct 21,U.S. Senate,,REP,SHELLEY MOORE CAPITO,30
+Jackson,Precinct 22,U.S. Senate,,REP,SHELLEY MOORE CAPITO,138
+Jackson,Precinct 23,U.S. Senate,,REP,SHELLEY MOORE CAPITO,53
+Jackson,Precinct 24,U.S. Senate,,REP,SHELLEY MOORE CAPITO,11
+Jackson,Precinct 25,U.S. Senate,,REP,SHELLEY MOORE CAPITO,36
+Jackson,Precinct 26,U.S. Senate,,REP,SHELLEY MOORE CAPITO,28
+Jackson,Precinct 27,U.S. Senate,,REP,SHELLEY MOORE CAPITO,33
+Jackson,Precinct 28,U.S. Senate,,REP,SHELLEY MOORE CAPITO,130
+Jackson,Precinct 29,U.S. Senate,,REP,SHELLEY MOORE CAPITO,31
+Jackson,Precinct 30,U.S. Senate,,REP,SHELLEY MOORE CAPITO,78
+Jackson,Precinct 1,U.S. Senate,,REP,ALEXANDER GAASERUD,6
+Jackson,Precinct 2,U.S. Senate,,REP,ALEXANDER GAASERUD,8
+Jackson,Precinct 3,U.S. Senate,,REP,ALEXANDER GAASERUD,10
+Jackson,Precinct 4,U.S. Senate,,REP,ALEXANDER GAASERUD,4
+Jackson,Precinct 5,U.S. Senate,,REP,ALEXANDER GAASERUD,4
+Jackson,Precinct 6,U.S. Senate,,REP,ALEXANDER GAASERUD,9
+Jackson,Precinct 7,U.S. Senate,,REP,ALEXANDER GAASERUD,15
+Jackson,Precinct 8,U.S. Senate,,REP,ALEXANDER GAASERUD,6
+Jackson,Precinct 9,U.S. Senate,,REP,ALEXANDER GAASERUD,10
+Jackson,Precinct 10,U.S. Senate,,REP,ALEXANDER GAASERUD,3
+Jackson,Precinct 11,U.S. Senate,,REP,ALEXANDER GAASERUD,8
+Jackson,Precinct 12,U.S. Senate,,REP,ALEXANDER GAASERUD,16
+Jackson,Precinct 13,U.S. Senate,,REP,ALEXANDER GAASERUD,2
+Jackson,Precinct 14,U.S. Senate,,REP,ALEXANDER GAASERUD,14
+Jackson,Precinct 15,U.S. Senate,,REP,ALEXANDER GAASERUD,4
+Jackson,Precinct 16,U.S. Senate,,REP,ALEXANDER GAASERUD,13
+Jackson,Precinct 17,U.S. Senate,,REP,ALEXANDER GAASERUD,11
+Jackson,Precinct 18,U.S. Senate,,REP,ALEXANDER GAASERUD,4
+Jackson,Precinct 19,U.S. Senate,,REP,ALEXANDER GAASERUD,10
+Jackson,Precinct 20,U.S. Senate,,REP,ALEXANDER GAASERUD,2
+Jackson,Precinct 21,U.S. Senate,,REP,ALEXANDER GAASERUD,6
+Jackson,Precinct 22,U.S. Senate,,REP,ALEXANDER GAASERUD,10
+Jackson,Precinct 23,U.S. Senate,,REP,ALEXANDER GAASERUD,8
+Jackson,Precinct 24,U.S. Senate,,REP,ALEXANDER GAASERUD,2
+Jackson,Precinct 25,U.S. Senate,,REP,ALEXANDER GAASERUD,2
+Jackson,Precinct 26,U.S. Senate,,REP,ALEXANDER GAASERUD,2
+Jackson,Precinct 27,U.S. Senate,,REP,ALEXANDER GAASERUD,3
+Jackson,Precinct 28,U.S. Senate,,REP,ALEXANDER GAASERUD,11
+Jackson,Precinct 29,U.S. Senate,,REP,ALEXANDER GAASERUD,1
+Jackson,Precinct 30,U.S. Senate,,REP,ALEXANDER GAASERUD,6
+Jackson,Precinct 1,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 2,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 3,U.S. Senate,,REP,BRYAN McKINNEY,4
+Jackson,Precinct 4,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 5,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 6,U.S. Senate,,REP,BRYAN McKINNEY,3
+Jackson,Precinct 7,U.S. Senate,,REP,BRYAN McKINNEY,1
+Jackson,Precinct 8,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 9,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 10,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 11,U.S. Senate,,REP,BRYAN McKINNEY,5
+Jackson,Precinct 12,U.S. Senate,,REP,BRYAN McKINNEY,5
+Jackson,Precinct 13,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 14,U.S. Senate,,REP,BRYAN McKINNEY,1
+Jackson,Precinct 15,U.S. Senate,,REP,BRYAN McKINNEY,1
+Jackson,Precinct 16,U.S. Senate,,REP,BRYAN McKINNEY,7
+Jackson,Precinct 17,U.S. Senate,,REP,BRYAN McKINNEY,5
+Jackson,Precinct 18,U.S. Senate,,REP,BRYAN McKINNEY,4
+Jackson,Precinct 19,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 20,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 21,U.S. Senate,,REP,BRYAN McKINNEY,2
+Jackson,Precinct 22,U.S. Senate,,REP,BRYAN McKINNEY,4
+Jackson,Precinct 23,U.S. Senate,,REP,BRYAN McKINNEY,1
+Jackson,Precinct 24,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 25,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 26,U.S. Senate,,REP,BRYAN McKINNEY,1
+Jackson,Precinct 27,U.S. Senate,,REP,BRYAN McKINNEY,1
+Jackson,Precinct 28,U.S. Senate,,REP,BRYAN McKINNEY,3
+Jackson,Precinct 29,U.S. Senate,,REP,BRYAN McKINNEY,0
+Jackson,Precinct 30,U.S. Senate,,REP,BRYAN McKINNEY,3
+Jackson,Precinct 1,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 2,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 3,U.S. Senate,,REP,JANET McNULTY,2
+Jackson,Precinct 4,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 5,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 6,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 7,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 8,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 9,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 10,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 11,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 12,U.S. Senate,,REP,JANET McNULTY,2
+Jackson,Precinct 13,U.S. Senate,,REP,JANET McNULTY,3
+Jackson,Precinct 14,U.S. Senate,,REP,JANET McNULTY,2
+Jackson,Precinct 15,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 16,U.S. Senate,,REP,JANET McNULTY,2
+Jackson,Precinct 17,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 18,U.S. Senate,,REP,JANET McNULTY,3
+Jackson,Precinct 19,U.S. Senate,,REP,JANET McNULTY,3
+Jackson,Precinct 20,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 21,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 22,U.S. Senate,,REP,JANET McNULTY,3
+Jackson,Precinct 23,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 24,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 25,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 26,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 27,U.S. Senate,,REP,JANET McNULTY,0
+Jackson,Precinct 28,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 29,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 30,U.S. Senate,,REP,JANET McNULTY,1
+Jackson,Precinct 1,U.S. Senate,,REP,TOM WILLIS,7
+Jackson,Precinct 2,U.S. Senate,,REP,TOM WILLIS,3
+Jackson,Precinct 3,U.S. Senate,,REP,TOM WILLIS,24
+Jackson,Precinct 4,U.S. Senate,,REP,TOM WILLIS,8
+Jackson,Precinct 5,U.S. Senate,,REP,TOM WILLIS,9
+Jackson,Precinct 6,U.S. Senate,,REP,TOM WILLIS,19
+Jackson,Precinct 7,U.S. Senate,,REP,TOM WILLIS,13
+Jackson,Precinct 8,U.S. Senate,,REP,TOM WILLIS,9
+Jackson,Precinct 9,U.S. Senate,,REP,TOM WILLIS,6
+Jackson,Precinct 10,U.S. Senate,,REP,TOM WILLIS,14
+Jackson,Precinct 11,U.S. Senate,,REP,TOM WILLIS,17
+Jackson,Precinct 12,U.S. Senate,,REP,TOM WILLIS,22
+Jackson,Precinct 13,U.S. Senate,,REP,TOM WILLIS,9
+Jackson,Precinct 14,U.S. Senate,,REP,TOM WILLIS,33
+Jackson,Precinct 15,U.S. Senate,,REP,TOM WILLIS,15
+Jackson,Precinct 16,U.S. Senate,,REP,TOM WILLIS,41
+Jackson,Precinct 17,U.S. Senate,,REP,TOM WILLIS,34
+Jackson,Precinct 18,U.S. Senate,,REP,TOM WILLIS,54
+Jackson,Precinct 19,U.S. Senate,,REP,TOM WILLIS,27
+Jackson,Precinct 20,U.S. Senate,,REP,TOM WILLIS,14
+Jackson,Precinct 21,U.S. Senate,,REP,TOM WILLIS,11
+Jackson,Precinct 22,U.S. Senate,,REP,TOM WILLIS,46
+Jackson,Precinct 23,U.S. Senate,,REP,TOM WILLIS,24
+Jackson,Precinct 24,U.S. Senate,,REP,TOM WILLIS,7
+Jackson,Precinct 25,U.S. Senate,,REP,TOM WILLIS,14
+Jackson,Precinct 26,U.S. Senate,,REP,TOM WILLIS,13
+Jackson,Precinct 27,U.S. Senate,,REP,TOM WILLIS,5
+Jackson,Precinct 28,U.S. Senate,,REP,TOM WILLIS,41
+Jackson,Precinct 29,U.S. Senate,,REP,TOM WILLIS,7
+Jackson,Precinct 30,U.S. Senate,,REP,TOM WILLIS,11
+Jackson,Precinct 1,U.S. Senate,,DEM,ZACHARY SHREWSBURY,6
+Jackson,Precinct 2,U.S. Senate,,DEM,ZACHARY SHREWSBURY,5
+Jackson,Precinct 3,U.S. Senate,,DEM,ZACHARY SHREWSBURY,8
+Jackson,Precinct 4,U.S. Senate,,DEM,ZACHARY SHREWSBURY,2
+Jackson,Precinct 5,U.S. Senate,,DEM,ZACHARY SHREWSBURY,5
+Jackson,Precinct 6,U.S. Senate,,DEM,ZACHARY SHREWSBURY,4
+Jackson,Precinct 7,U.S. Senate,,DEM,ZACHARY SHREWSBURY,10
+Jackson,Precinct 8,U.S. Senate,,DEM,ZACHARY SHREWSBURY,3
+Jackson,Precinct 9,U.S. Senate,,DEM,ZACHARY SHREWSBURY,5
+Jackson,Precinct 10,U.S. Senate,,DEM,ZACHARY SHREWSBURY,5
+Jackson,Precinct 11,U.S. Senate,,DEM,ZACHARY SHREWSBURY,2
+Jackson,Precinct 12,U.S. Senate,,DEM,ZACHARY SHREWSBURY,6
+Jackson,Precinct 13,U.S. Senate,,DEM,ZACHARY SHREWSBURY,3
+Jackson,Precinct 14,U.S. Senate,,DEM,ZACHARY SHREWSBURY,9
+Jackson,Precinct 15,U.S. Senate,,DEM,ZACHARY SHREWSBURY,3
+Jackson,Precinct 16,U.S. Senate,,DEM,ZACHARY SHREWSBURY,9
+Jackson,Precinct 17,U.S. Senate,,DEM,ZACHARY SHREWSBURY,11
+Jackson,Precinct 18,U.S. Senate,,DEM,ZACHARY SHREWSBURY,10
+Jackson,Precinct 19,U.S. Senate,,DEM,ZACHARY SHREWSBURY,3
+Jackson,Precinct 20,U.S. Senate,,DEM,ZACHARY SHREWSBURY,2
+Jackson,Precinct 21,U.S. Senate,,DEM,ZACHARY SHREWSBURY,1
+Jackson,Precinct 22,U.S. Senate,,DEM,ZACHARY SHREWSBURY,15
+Jackson,Precinct 23,U.S. Senate,,DEM,ZACHARY SHREWSBURY,4
+Jackson,Precinct 24,U.S. Senate,,DEM,ZACHARY SHREWSBURY,0
+Jackson,Precinct 25,U.S. Senate,,DEM,ZACHARY SHREWSBURY,2
+Jackson,Precinct 26,U.S. Senate,,DEM,ZACHARY SHREWSBURY,4
+Jackson,Precinct 27,U.S. Senate,,DEM,ZACHARY SHREWSBURY,4
+Jackson,Precinct 28,U.S. Senate,,DEM,ZACHARY SHREWSBURY,5
+Jackson,Precinct 29,U.S. Senate,,DEM,ZACHARY SHREWSBURY,0
+Jackson,Precinct 30,U.S. Senate,,DEM,ZACHARY SHREWSBURY,2
+Jackson,Precinct 1,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,12
+Jackson,Precinct 2,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,7
+Jackson,Precinct 3,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,3
+Jackson,Precinct 4,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,3
+Jackson,Precinct 5,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,15
+Jackson,Precinct 6,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,17
+Jackson,Precinct 7,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,23
+Jackson,Precinct 8,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,23
+Jackson,Precinct 9,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,6
+Jackson,Precinct 10,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,9
+Jackson,Precinct 11,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,10
+Jackson,Precinct 12,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,12
+Jackson,Precinct 13,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,7
+Jackson,Precinct 14,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,14
+Jackson,Precinct 15,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,10
+Jackson,Precinct 16,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,16
+Jackson,Precinct 17,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,18
+Jackson,Precinct 18,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,18
+Jackson,Precinct 19,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,11
+Jackson,Precinct 20,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,12
+Jackson,Precinct 21,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,3
+Jackson,Precinct 22,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,24
+Jackson,Precinct 23,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,9
+Jackson,Precinct 24,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,5
+Jackson,Precinct 25,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,6
+Jackson,Precinct 26,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,4
+Jackson,Precinct 27,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,6
+Jackson,Precinct 28,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,12
+Jackson,Precinct 29,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,5
+Jackson,Precinct 30,U.S. Senate,,DEM,RACHEL FETTY ANDERSON,14
+Jackson,Precinct 1,U.S. Senate,,DEM,JEFFREY V. KESSLER,13
+Jackson,Precinct 2,U.S. Senate,,DEM,JEFFREY V. KESSLER,9
+Jackson,Precinct 3,U.S. Senate,,DEM,JEFFREY V. KESSLER,9
+Jackson,Precinct 4,U.S. Senate,,DEM,JEFFREY V. KESSLER,4
+Jackson,Precinct 5,U.S. Senate,,DEM,JEFFREY V. KESSLER,12
+Jackson,Precinct 6,U.S. Senate,,DEM,JEFFREY V. KESSLER,29
+Jackson,Precinct 7,U.S. Senate,,DEM,JEFFREY V. KESSLER,22
+Jackson,Precinct 8,U.S. Senate,,DEM,JEFFREY V. KESSLER,5
+Jackson,Precinct 9,U.S. Senate,,DEM,JEFFREY V. KESSLER,8
+Jackson,Precinct 10,U.S. Senate,,DEM,JEFFREY V. KESSLER,7
+Jackson,Precinct 11,U.S. Senate,,DEM,JEFFREY V. KESSLER,5
+Jackson,Precinct 12,U.S. Senate,,DEM,JEFFREY V. KESSLER,17
+Jackson,Precinct 13,U.S. Senate,,DEM,JEFFREY V. KESSLER,8
+Jackson,Precinct 14,U.S. Senate,,DEM,JEFFREY V. KESSLER,23
+Jackson,Precinct 15,U.S. Senate,,DEM,JEFFREY V. KESSLER,8
+Jackson,Precinct 16,U.S. Senate,,DEM,JEFFREY V. KESSLER,26
+Jackson,Precinct 17,U.S. Senate,,DEM,JEFFREY V. KESSLER,20
+Jackson,Precinct 18,U.S. Senate,,DEM,JEFFREY V. KESSLER,26
+Jackson,Precinct 19,U.S. Senate,,DEM,JEFFREY V. KESSLER,15
+Jackson,Precinct 20,U.S. Senate,,DEM,JEFFREY V. KESSLER,10
+Jackson,Precinct 21,U.S. Senate,,DEM,JEFFREY V. KESSLER,0
+Jackson,Precinct 22,U.S. Senate,,DEM,JEFFREY V. KESSLER,22
+Jackson,Precinct 23,U.S. Senate,,DEM,JEFFREY V. KESSLER,11
+Jackson,Precinct 24,U.S. Senate,,DEM,JEFFREY V. KESSLER,1
+Jackson,Precinct 25,U.S. Senate,,DEM,JEFFREY V. KESSLER,5
+Jackson,Precinct 26,U.S. Senate,,DEM,JEFFREY V. KESSLER,2
+Jackson,Precinct 27,U.S. Senate,,DEM,JEFFREY V. KESSLER,1
+Jackson,Precinct 28,U.S. Senate,,DEM,JEFFREY V. KESSLER,15
+Jackson,Precinct 29,U.S. Senate,,DEM,JEFFREY V. KESSLER,3
+Jackson,Precinct 30,U.S. Senate,,DEM,JEFFREY V. KESSLER,4
+Jackson,Precinct 1,U.S. Senate,,DEM,RIO PHILLIPS,4
+Jackson,Precinct 2,U.S. Senate,,DEM,RIO PHILLIPS,2
+Jackson,Precinct 3,U.S. Senate,,DEM,RIO PHILLIPS,11
+Jackson,Precinct 4,U.S. Senate,,DEM,RIO PHILLIPS,6
+Jackson,Precinct 5,U.S. Senate,,DEM,RIO PHILLIPS,6
+Jackson,Precinct 6,U.S. Senate,,DEM,RIO PHILLIPS,19
+Jackson,Precinct 7,U.S. Senate,,DEM,RIO PHILLIPS,16
+Jackson,Precinct 8,U.S. Senate,,DEM,RIO PHILLIPS,8
+Jackson,Precinct 9,U.S. Senate,,DEM,RIO PHILLIPS,7
+Jackson,Precinct 10,U.S. Senate,,DEM,RIO PHILLIPS,4
+Jackson,Precinct 11,U.S. Senate,,DEM,RIO PHILLIPS,6
+Jackson,Precinct 12,U.S. Senate,,DEM,RIO PHILLIPS,5
+Jackson,Precinct 13,U.S. Senate,,DEM,RIO PHILLIPS,6
+Jackson,Precinct 14,U.S. Senate,,DEM,RIO PHILLIPS,11
+Jackson,Precinct 15,U.S. Senate,,DEM,RIO PHILLIPS,4
+Jackson,Precinct 16,U.S. Senate,,DEM,RIO PHILLIPS,10
+Jackson,Precinct 17,U.S. Senate,,DEM,RIO PHILLIPS,17
+Jackson,Precinct 18,U.S. Senate,,DEM,RIO PHILLIPS,9
+Jackson,Precinct 19,U.S. Senate,,DEM,RIO PHILLIPS,5
+Jackson,Precinct 20,U.S. Senate,,DEM,RIO PHILLIPS,5
+Jackson,Precinct 21,U.S. Senate,,DEM,RIO PHILLIPS,7
+Jackson,Precinct 22,U.S. Senate,,DEM,RIO PHILLIPS,17
+Jackson,Precinct 23,U.S. Senate,,DEM,RIO PHILLIPS,8
+Jackson,Precinct 24,U.S. Senate,,DEM,RIO PHILLIPS,0
+Jackson,Precinct 25,U.S. Senate,,DEM,RIO PHILLIPS,5
+Jackson,Precinct 26,U.S. Senate,,DEM,RIO PHILLIPS,4
+Jackson,Precinct 27,U.S. Senate,,DEM,RIO PHILLIPS,2
+Jackson,Precinct 28,U.S. Senate,,DEM,RIO PHILLIPS,11
+Jackson,Precinct 29,U.S. Senate,,DEM,RIO PHILLIPS,1
+Jackson,Precinct 30,U.S. Senate,,DEM,RIO PHILLIPS,8
+Jackson,Precinct 1,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 2,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 3,U.S. Senate,,DEM,THORNTON COOPER,9
+Jackson,Precinct 4,U.S. Senate,,DEM,THORNTON COOPER,2
+Jackson,Precinct 5,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 6,U.S. Senate,,DEM,THORNTON COOPER,10
+Jackson,Precinct 7,U.S. Senate,,DEM,THORNTON COOPER,15
+Jackson,Precinct 8,U.S. Senate,,DEM,THORNTON COOPER,17
+Jackson,Precinct 9,U.S. Senate,,DEM,THORNTON COOPER,10
+Jackson,Precinct 10,U.S. Senate,,DEM,THORNTON COOPER,7
+Jackson,Precinct 11,U.S. Senate,,DEM,THORNTON COOPER,6
+Jackson,Precinct 12,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 13,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 14,U.S. Senate,,DEM,THORNTON COOPER,19
+Jackson,Precinct 15,U.S. Senate,,DEM,THORNTON COOPER,9
+Jackson,Precinct 16,U.S. Senate,,DEM,THORNTON COOPER,20
+Jackson,Precinct 17,U.S. Senate,,DEM,THORNTON COOPER,19
+Jackson,Precinct 18,U.S. Senate,,DEM,THORNTON COOPER,11
+Jackson,Precinct 19,U.S. Senate,,DEM,THORNTON COOPER,11
+Jackson,Precinct 20,U.S. Senate,,DEM,THORNTON COOPER,13
+Jackson,Precinct 21,U.S. Senate,,DEM,THORNTON COOPER,3
+Jackson,Precinct 22,U.S. Senate,,DEM,THORNTON COOPER,15
+Jackson,Precinct 23,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 24,U.S. Senate,,DEM,THORNTON COOPER,0
+Jackson,Precinct 25,U.S. Senate,,DEM,THORNTON COOPER,5
+Jackson,Precinct 26,U.S. Senate,,DEM,THORNTON COOPER,3
+Jackson,Precinct 27,U.S. Senate,,DEM,THORNTON COOPER,2
+Jackson,Precinct 28,U.S. Senate,,DEM,THORNTON COOPER,29
+Jackson,Precinct 29,U.S. Senate,,DEM,THORNTON COOPER,2
+Jackson,Precinct 30,U.S. Senate,,DEM,THORNTON COOPER,6
+Jackson,Precinct 1,U.S. House,1,REP,LARRY JACKSON,21
+Jackson,Precinct 2,U.S. House,1,REP,LARRY JACKSON,14
+Jackson,Precinct 3,U.S. House,1,REP,LARRY JACKSON,49
+Jackson,Precinct 4,U.S. House,1,REP,LARRY JACKSON,12
+Jackson,Precinct 5,U.S. House,1,REP,LARRY JACKSON,14
+Jackson,Precinct 6,U.S. House,1,REP,LARRY JACKSON,23
+Jackson,Precinct 7,U.S. House,1,REP,LARRY JACKSON,22
+Jackson,Precinct 8,U.S. House,1,REP,LARRY JACKSON,21
+Jackson,Precinct 9,U.S. House,1,REP,LARRY JACKSON,13
+Jackson,Precinct 10,U.S. House,1,REP,LARRY JACKSON,21
+Jackson,Precinct 11,U.S. House,1,REP,LARRY JACKSON,34
+Jackson,Precinct 12,U.S. House,1,REP,LARRY JACKSON,33
+Jackson,Precinct 13,U.S. House,1,REP,LARRY JACKSON,14
+Jackson,Precinct 14,U.S. House,1,REP,LARRY JACKSON,35
+Jackson,Precinct 15,U.S. House,1,REP,LARRY JACKSON,23
+Jackson,Precinct 16,U.S. House,1,REP,LARRY JACKSON,64
+Jackson,Precinct 17,U.S. House,1,REP,LARRY JACKSON,62
+Jackson,Precinct 18,U.S. House,1,REP,LARRY JACKSON,60
+Jackson,Precinct 19,U.S. House,1,REP,LARRY JACKSON,36
+Jackson,Precinct 20,U.S. House,1,REP,LARRY JACKSON,19
+Jackson,Precinct 21,U.S. House,1,REP,LARRY JACKSON,24
+Jackson,Precinct 22,U.S. House,1,REP,LARRY JACKSON,67
+Jackson,Precinct 23,U.S. House,1,REP,LARRY JACKSON,37
+Jackson,Precinct 24,U.S. House,1,REP,LARRY JACKSON,6
+Jackson,Precinct 25,U.S. House,1,REP,LARRY JACKSON,12
+Jackson,Precinct 26,U.S. House,1,REP,LARRY JACKSON,15
+Jackson,Precinct 27,U.S. House,1,REP,LARRY JACKSON,17
+Jackson,Precinct 28,U.S. House,1,REP,LARRY JACKSON,51
+Jackson,Precinct 29,U.S. House,1,REP,LARRY JACKSON,9
+Jackson,Precinct 30,U.S. House,1,REP,LARRY JACKSON,32
+Jackson,Precinct 1,U.S. House,1,REP,CAROL MILLER,24
+Jackson,Precinct 2,U.S. House,1,REP,CAROL MILLER,55
+Jackson,Precinct 3,U.S. House,1,REP,CAROL MILLER,95
+Jackson,Precinct 4,U.S. House,1,REP,CAROL MILLER,27
+Jackson,Precinct 5,U.S. House,1,REP,CAROL MILLER,45
+Jackson,Precinct 6,U.S. House,1,REP,CAROL MILLER,54
+Jackson,Precinct 7,U.S. House,1,REP,CAROL MILLER,68
+Jackson,Precinct 8,U.S. House,1,REP,CAROL MILLER,24
+Jackson,Precinct 9,U.S. House,1,REP,CAROL MILLER,37
+Jackson,Precinct 10,U.S. House,1,REP,CAROL MILLER,43
+Jackson,Precinct 11,U.S. House,1,REP,CAROL MILLER,57
+Jackson,Precinct 12,U.S. House,1,REP,CAROL MILLER,106
+Jackson,Precinct 13,U.S. House,1,REP,CAROL MILLER,47
+Jackson,Precinct 14,U.S. House,1,REP,CAROL MILLER,104
+Jackson,Precinct 15,U.S. House,1,REP,CAROL MILLER,54
+Jackson,Precinct 16,U.S. House,1,REP,CAROL MILLER,126
+Jackson,Precinct 17,U.S. House,1,REP,CAROL MILLER,130
+Jackson,Precinct 18,U.S. House,1,REP,CAROL MILLER,130
+Jackson,Precinct 19,U.S. House,1,REP,CAROL MILLER,74
+Jackson,Precinct 20,U.S. House,1,REP,CAROL MILLER,49
+Jackson,Precinct 21,U.S. House,1,REP,CAROL MILLER,25
+Jackson,Precinct 22,U.S. House,1,REP,CAROL MILLER,124
+Jackson,Precinct 23,U.S. House,1,REP,CAROL MILLER,54
+Jackson,Precinct 24,U.S. House,1,REP,CAROL MILLER,16
+Jackson,Precinct 25,U.S. House,1,REP,CAROL MILLER,38
+Jackson,Precinct 26,U.S. House,1,REP,CAROL MILLER,28
+Jackson,Precinct 27,U.S. House,1,REP,CAROL MILLER,25
+Jackson,Precinct 28,U.S. House,1,REP,CAROL MILLER,130
+Jackson,Precinct 29,U.S. House,1,REP,CAROL MILLER,31
+Jackson,Precinct 30,U.S. House,1,REP,CAROL MILLER,63
+Jackson,Precinct 1,U.S. House,1,DEM,VINCE GEORGE,20
+Jackson,Precinct 2,U.S. House,1,DEM,VINCE GEORGE,11
+Jackson,Precinct 3,U.S. House,1,DEM,VINCE GEORGE,27
+Jackson,Precinct 4,U.S. House,1,DEM,VINCE GEORGE,13
+Jackson,Precinct 5,U.S. House,1,DEM,VINCE GEORGE,24
+Jackson,Precinct 6,U.S. House,1,DEM,VINCE GEORGE,42
+Jackson,Precinct 7,U.S. House,1,DEM,VINCE GEORGE,42
+Jackson,Precinct 8,U.S. House,1,DEM,VINCE GEORGE,35
+Jackson,Precinct 9,U.S. House,1,DEM,VINCE GEORGE,25
+Jackson,Precinct 10,U.S. House,1,DEM,VINCE GEORGE,18
+Jackson,Precinct 11,U.S. House,1,DEM,VINCE GEORGE,12
+Jackson,Precinct 12,U.S. House,1,DEM,VINCE GEORGE,28
+Jackson,Precinct 13,U.S. House,1,DEM,VINCE GEORGE,17
+Jackson,Precinct 14,U.S. House,1,DEM,VINCE GEORGE,48
+Jackson,Precinct 15,U.S. House,1,DEM,VINCE GEORGE,19
+Jackson,Precinct 16,U.S. House,1,DEM,VINCE GEORGE,46
+Jackson,Precinct 17,U.S. House,1,DEM,VINCE GEORGE,48
+Jackson,Precinct 18,U.S. House,1,DEM,VINCE GEORGE,43
+Jackson,Precinct 19,U.S. House,1,DEM,VINCE GEORGE,29
+Jackson,Precinct 20,U.S. House,1,DEM,VINCE GEORGE,26
+Jackson,Precinct 21,U.S. House,1,DEM,VINCE GEORGE,8
+Jackson,Precinct 22,U.S. House,1,DEM,VINCE GEORGE,60
+Jackson,Precinct 23,U.S. House,1,DEM,VINCE GEORGE,23
+Jackson,Precinct 24,U.S. House,1,DEM,VINCE GEORGE,3
+Jackson,Precinct 25,U.S. House,1,DEM,VINCE GEORGE,14
+Jackson,Precinct 26,U.S. House,1,DEM,VINCE GEORGE,7
+Jackson,Precinct 27,U.S. House,1,DEM,VINCE GEORGE,9
+Jackson,Precinct 28,U.S. House,1,DEM,VINCE GEORGE,49
+Jackson,Precinct 29,U.S. House,1,DEM,VINCE GEORGE,8
+Jackson,Precinct 30,U.S. House,1,DEM,VINCE GEORGE,21
+Jackson,Precinct 1,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,18
+Jackson,Precinct 2,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,15
+Jackson,Precinct 3,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,10
+Jackson,Precinct 4,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,2
+Jackson,Precinct 5,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,20
+Jackson,Precinct 6,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,33
+Jackson,Precinct 7,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,42
+Jackson,Precinct 8,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,20
+Jackson,Precinct 9,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,9
+Jackson,Precinct 10,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,13
+Jackson,Precinct 11,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,14
+Jackson,Precinct 12,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,14
+Jackson,Precinct 13,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,11
+Jackson,Precinct 14,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,27
+Jackson,Precinct 15,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,14
+Jackson,Precinct 16,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,32
+Jackson,Precinct 17,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,37
+Jackson,Precinct 18,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,27
+Jackson,Precinct 19,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,16
+Jackson,Precinct 20,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,14
+Jackson,Precinct 21,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,5
+Jackson,Precinct 22,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,33
+Jackson,Precinct 23,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,8
+Jackson,Precinct 24,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,3
+Jackson,Precinct 25,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,10
+Jackson,Precinct 26,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,10
+Jackson,Precinct 27,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,6
+Jackson,Precinct 28,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,21
+Jackson,Precinct 29,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,3
+Jackson,Precinct 30,U.S. House,1,DEM,BRITTA 'BRIT' AGUIRRE,13
+Jackson,Precinct 1,State Senate,4,REP,TRAVIS WILLARD,8
+Jackson,Precinct 2,State Senate,4,REP,TRAVIS WILLARD,23
+Jackson,Precinct 3,State Senate,4,REP,TRAVIS WILLARD,34
+Jackson,Precinct 5,State Senate,4,REP,TRAVIS WILLARD,12
+Jackson,Precinct 6,State Senate,4,REP,TRAVIS WILLARD,16
+Jackson,Precinct 7,State Senate,4,REP,TRAVIS WILLARD,13
+Jackson,Precinct 8,State Senate,4,REP,TRAVIS WILLARD,7
+Jackson,Precinct 9,State Senate,4,REP,TRAVIS WILLARD,12
+Jackson,Precinct 10,State Senate,4,REP,TRAVIS WILLARD,9
+Jackson,Precinct 11,State Senate,4,REP,TRAVIS WILLARD,23
+Jackson,Precinct 12,State Senate,4,REP,TRAVIS WILLARD,28
+Jackson,Precinct 13,State Senate,4,REP,TRAVIS WILLARD,11
+Jackson,Precinct 14,State Senate,4,REP,TRAVIS WILLARD,39
+Jackson,Precinct 15,State Senate,4,REP,TRAVIS WILLARD,17
+Jackson,Precinct 16,State Senate,4,REP,TRAVIS WILLARD,37
+Jackson,Precinct 17,State Senate,4,REP,TRAVIS WILLARD,46
+Jackson,Precinct 20,State Senate,4,REP,TRAVIS WILLARD,8
+Jackson,Precinct 21,State Senate,4,REP,TRAVIS WILLARD,9
+Jackson,Precinct 22,State Senate,4,REP,TRAVIS WILLARD,45
+Jackson,Precinct 23,State Senate,4,REP,TRAVIS WILLARD,14
+Jackson,Precinct 24,State Senate,4,REP,TRAVIS WILLARD,1
+Jackson,Precinct 1,State Senate,4,REP,ERIC J. TARR,15
+Jackson,Precinct 2,State Senate,4,REP,ERIC J. TARR,29
+Jackson,Precinct 3,State Senate,4,REP,ERIC J. TARR,67
+Jackson,Precinct 5,State Senate,4,REP,ERIC J. TARR,28
+Jackson,Precinct 6,State Senate,4,REP,ERIC J. TARR,27
+Jackson,Precinct 7,State Senate,4,REP,ERIC J. TARR,42
+Jackson,Precinct 8,State Senate,4,REP,ERIC J. TARR,22
+Jackson,Precinct 9,State Senate,4,REP,ERIC J. TARR,21
+Jackson,Precinct 10,State Senate,4,REP,ERIC J. TARR,33
+Jackson,Precinct 11,State Senate,4,REP,ERIC J. TARR,38
+Jackson,Precinct 12,State Senate,4,REP,ERIC J. TARR,62
+Jackson,Precinct 13,State Senate,4,REP,ERIC J. TARR,16
+Jackson,Precinct 14,State Senate,4,REP,ERIC J. TARR,55
+Jackson,Precinct 15,State Senate,4,REP,ERIC J. TARR,34
+Jackson,Precinct 16,State Senate,4,REP,ERIC J. TARR,68
+Jackson,Precinct 17,State Senate,4,REP,ERIC J. TARR,89
+Jackson,Precinct 20,State Senate,4,REP,ERIC J. TARR,36
+Jackson,Precinct 21,State Senate,4,REP,ERIC J. TARR,21
+Jackson,Precinct 22,State Senate,4,REP,ERIC J. TARR,87
+Jackson,Precinct 23,State Senate,4,REP,ERIC J. TARR,46
+Jackson,Precinct 24,State Senate,4,REP,ERIC J. TARR,11
+Jackson,Precinct 1,State Senate,4,REP,PHILLIP SURFACE,18
+Jackson,Precinct 2,State Senate,4,REP,PHILLIP SURFACE,14
+Jackson,Precinct 3,State Senate,4,REP,PHILLIP SURFACE,33
+Jackson,Precinct 5,State Senate,4,REP,PHILLIP SURFACE,15
+Jackson,Precinct 6,State Senate,4,REP,PHILLIP SURFACE,28
+Jackson,Precinct 7,State Senate,4,REP,PHILLIP SURFACE,31
+Jackson,Precinct 8,State Senate,4,REP,PHILLIP SURFACE,15
+Jackson,Precinct 9,State Senate,4,REP,PHILLIP SURFACE,13
+Jackson,Precinct 10,State Senate,4,REP,PHILLIP SURFACE,23
+Jackson,Precinct 11,State Senate,4,REP,PHILLIP SURFACE,25
+Jackson,Precinct 12,State Senate,4,REP,PHILLIP SURFACE,48
+Jackson,Precinct 13,State Senate,4,REP,PHILLIP SURFACE,26
+Jackson,Precinct 14,State Senate,4,REP,PHILLIP SURFACE,47
+Jackson,Precinct 15,State Senate,4,REP,PHILLIP SURFACE,23
+Jackson,Precinct 16,State Senate,4,REP,PHILLIP SURFACE,73
+Jackson,Precinct 17,State Senate,4,REP,PHILLIP SURFACE,52
+Jackson,Precinct 20,State Senate,4,REP,PHILLIP SURFACE,18
+Jackson,Precinct 21,State Senate,4,REP,PHILLIP SURFACE,20
+Jackson,Precinct 22,State Senate,4,REP,PHILLIP SURFACE,54
+Jackson,Precinct 23,State Senate,4,REP,PHILLIP SURFACE,27
+Jackson,Precinct 24,State Senate,4,REP,PHILLIP SURFACE,9
+Jackson,Precinct 1,State Senate,4,DEM,ZACHARY ABBOTT,36
+Jackson,Precinct 2,State Senate,4,DEM,ZACHARY ABBOTT,19
+Jackson,Precinct 3,State Senate,4,DEM,ZACHARY ABBOTT,30
+Jackson,Precinct 5,State Senate,4,DEM,ZACHARY ABBOTT,36
+Jackson,Precinct 6,State Senate,4,DEM,ZACHARY ABBOTT,59
+Jackson,Precinct 7,State Senate,4,DEM,ZACHARY ABBOTT,75
+Jackson,Precinct 8,State Senate,4,DEM,ZACHARY ABBOTT,43
+Jackson,Precinct 9,State Senate,4,DEM,ZACHARY ABBOTT,23
+Jackson,Precinct 10,State Senate,4,DEM,ZACHARY ABBOTT,25
+Jackson,Precinct 11,State Senate,4,DEM,ZACHARY ABBOTT,20
+Jackson,Precinct 12,State Senate,4,DEM,ZACHARY ABBOTT,40
+Jackson,Precinct 13,State Senate,4,DEM,ZACHARY ABBOTT,23
+Jackson,Precinct 14,State Senate,4,DEM,ZACHARY ABBOTT,66
+Jackson,Precinct 15,State Senate,4,DEM,ZACHARY ABBOTT,27
+Jackson,Precinct 16,State Senate,4,DEM,ZACHARY ABBOTT,68
+Jackson,Precinct 17,State Senate,4,DEM,ZACHARY ABBOTT,68
+Jackson,Precinct 20,State Senate,4,DEM,ZACHARY ABBOTT,35
+Jackson,Precinct 21,State Senate,4,DEM,ZACHARY ABBOTT,9
+Jackson,Precinct 22,State Senate,4,DEM,ZACHARY ABBOTT,73
+Jackson,Precinct 23,State Senate,4,DEM,ZACHARY ABBOTT,27
+Jackson,Precinct 24,State Senate,4,DEM,ZACHARY ABBOTT,3
+Jackson,Precinct 4,State Senate,8,REP,T. KEVAN BARTLETT,14
+Jackson,Precinct 18,State Senate,8,REP,T. KEVAN BARTLETT,76
+Jackson,Precinct 19,State Senate,8,REP,T. KEVAN BARTLETT,56
+Jackson,Precinct 25,State Senate,8,REP,T. KEVAN BARTLETT,25
+Jackson,Precinct 26,State Senate,8,REP,T. KEVAN BARTLETT,26
+Jackson,Precinct 27,State Senate,8,REP,T. KEVAN BARTLETT,18
+Jackson,Precinct 28,State Senate,8,REP,T. KEVAN BARTLETT,91
+Jackson,Precinct 29,State Senate,8,REP,T. KEVAN BARTLETT,18
+Jackson,Precinct 30,State Senate,8,REP,T. KEVAN BARTLETT,43
+Jackson,Precinct 4,State Senate,8,REP,LANCE WHEELER,12
+Jackson,Precinct 18,State Senate,8,REP,LANCE WHEELER,31
+Jackson,Precinct 19,State Senate,8,REP,LANCE WHEELER,15
+Jackson,Precinct 25,State Senate,8,REP,LANCE WHEELER,8
+Jackson,Precinct 26,State Senate,8,REP,LANCE WHEELER,5
+Jackson,Precinct 27,State Senate,8,REP,LANCE WHEELER,6
+Jackson,Precinct 28,State Senate,8,REP,LANCE WHEELER,25
+Jackson,Precinct 29,State Senate,8,REP,LANCE WHEELER,10
+Jackson,Precinct 30,State Senate,8,REP,LANCE WHEELER,21
+Jackson,Precinct 4,State Senate,8,REP,STEVEN CARDER ESHENAUR,14
+Jackson,Precinct 18,State Senate,8,REP,STEVEN CARDER ESHENAUR,89
+Jackson,Precinct 19,State Senate,8,REP,STEVEN CARDER ESHENAUR,43
+Jackson,Precinct 25,State Senate,8,REP,STEVEN CARDER ESHENAUR,18
+Jackson,Precinct 26,State Senate,8,REP,STEVEN CARDER ESHENAUR,11
+Jackson,Precinct 27,State Senate,8,REP,STEVEN CARDER ESHENAUR,16
+Jackson,Precinct 28,State Senate,8,REP,STEVEN CARDER ESHENAUR,75
+Jackson,Precinct 29,State Senate,8,REP,STEVEN CARDER ESHENAUR,13
+Jackson,Precinct 30,State Senate,8,REP,STEVEN CARDER ESHENAUR,39
+Jackson,Precinct 4,State Senate,8,DEM,KIM HUNDLEY,11
+Jackson,Precinct 18,State Senate,8,DEM,KIM HUNDLEY,60
+Jackson,Precinct 19,State Senate,8,DEM,KIM HUNDLEY,39
+Jackson,Precinct 25,State Senate,8,DEM,KIM HUNDLEY,20
+Jackson,Precinct 26,State Senate,8,DEM,KIM HUNDLEY,12
+Jackson,Precinct 27,State Senate,8,DEM,KIM HUNDLEY,13
+Jackson,Precinct 28,State Senate,8,DEM,KIM HUNDLEY,61
+Jackson,Precinct 29,State Senate,8,DEM,KIM HUNDLEY,11
+Jackson,Precinct 30,State Senate,8,DEM,KIM HUNDLEY,29
+Jackson,Precinct 3,State House,16,REP,FREDERICK HAPPY JOE PARSONS,133
+Jackson,Precinct 4,State House,16,REP,FREDERICK HAPPY JOE PARSONS,35
+Jackson,Precinct 10,State House,16,REP,FREDERICK HAPPY JOE PARSONS,52
+Jackson,Precinct 11,State House,16,REP,FREDERICK HAPPY JOE PARSONS,82
+Jackson,Precinct 15,State House,16,REP,FREDERICK HAPPY JOE PARSONS,76
+Jackson,Precinct 16,State House,16,REP,FREDERICK HAPPY JOE PARSONS,169
+Jackson,Precinct 17,State House,16,REP,FREDERICK HAPPY JOE PARSONS,173
+Jackson,Precinct 18,State House,16,REP,FREDERICK HAPPY JOE PARSONS,176
+Jackson,Precinct 19,State House,16,REP,FREDERICK HAPPY JOE PARSONS,92
+Jackson,Precinct 20,State House,16,REP,FREDERICK HAPPY JOE PARSONS,56
+Jackson,Precinct 21,State House,16,REP,FREDERICK HAPPY JOE PARSONS,45
+Jackson,Precinct 22,State House,16,REP,FREDERICK HAPPY JOE PARSONS,175
+Jackson,Precinct 23,State House,16,REP,FREDERICK HAPPY JOE PARSONS,79
+Jackson,Precinct 24,State House,16,REP,FREDERICK HAPPY JOE PARSONS,16
+Jackson,Precinct 25,State House,16,REP,FREDERICK HAPPY JOE PARSONS,48
+Jackson,Precinct 26,State House,16,REP,FREDERICK HAPPY JOE PARSONS,36
+Jackson,Precinct 27,State House,16,REP,FREDERICK HAPPY JOE PARSONS,39
+Jackson,Precinct 28,State House,16,REP,FREDERICK HAPPY JOE PARSONS,164
+Jackson,Precinct 29,State House,16,REP,FREDERICK HAPPY JOE PARSONS,36
+Jackson,Precinct 30,State House,16,REP,FREDERICK HAPPY JOE PARSONS,92
+Jackson,Precinct 3,State House,16,DEM,JASON M. BARR,37
+Jackson,Precinct 4,State House,16,DEM,JASON M. BARR,14
+Jackson,Precinct 10,State House,16,DEM,JASON M. BARR,30
+Jackson,Precinct 11,State House,16,DEM,JASON M. BARR,26
+Jackson,Precinct 15,State House,16,DEM,JASON M. BARR,32
+Jackson,Precinct 16,State House,16,DEM,JASON M. BARR,78
+Jackson,Precinct 17,State House,16,DEM,JASON M. BARR,77
+Jackson,Precinct 18,State House,16,DEM,JASON M. BARR,66
+Jackson,Precinct 19,State House,16,DEM,JASON M. BARR,41
+Jackson,Precinct 20,State House,16,DEM,JASON M. BARR,39
+Jackson,Precinct 21,State House,16,DEM,JASON M. BARR,13
+Jackson,Precinct 22,State House,16,DEM,JASON M. BARR,86
+Jackson,Precinct 23,State House,16,DEM,JASON M. BARR,33
+Jackson,Precinct 24,State House,16,DEM,JASON M. BARR,3
+Jackson,Precinct 25,State House,16,DEM,JASON M. BARR,21
+Jackson,Precinct 26,State House,16,DEM,JASON M. BARR,14
+Jackson,Precinct 27,State House,16,DEM,JASON M. BARR,11
+Jackson,Precinct 28,State House,16,DEM,JASON M. BARR,68
+Jackson,Precinct 29,State House,16,DEM,JASON M. BARR,11
+Jackson,Precinct 30,State House,16,DEM,JASON M. BARR,31
+Jackson,Precinct 1,State House,17,REP,JONATHAN ADAM PINSON,28
+Jackson,Precinct 2,State House,17,REP,JONATHAN ADAM PINSON,52
+Jackson,Precinct 5,State House,17,REP,JONATHAN ADAM PINSON,41
+Jackson,Precinct 6,State House,17,REP,JONATHAN ADAM PINSON,66
+Jackson,Precinct 7,State House,17,REP,JONATHAN ADAM PINSON,69
+Jackson,Precinct 8,State House,17,REP,JONATHAN ADAM PINSON,37
+Jackson,Precinct 9,State House,17,REP,JONATHAN ADAM PINSON,39
+Jackson,Precinct 12,State House,17,REP,JONATHAN ADAM PINSON,100
+Jackson,Precinct 13,State House,17,REP,JONATHAN ADAM PINSON,45
+Jackson,Precinct 14,State House,17,REP,JONATHAN ADAM PINSON,103
+Jackson,Precinct 1,State House,17,REP,SCOTT CADLE,21
+Jackson,Precinct 2,State House,17,REP,SCOTT CADLE,18
+Jackson,Precinct 5,State House,17,REP,SCOTT CADLE,16
+Jackson,Precinct 6,State House,17,REP,SCOTT CADLE,16
+Jackson,Precinct 7,State House,17,REP,SCOTT CADLE,24
+Jackson,Precinct 8,State House,17,REP,SCOTT CADLE,9
+Jackson,Precinct 9,State House,17,REP,SCOTT CADLE,12
+Jackson,Precinct 12,State House,17,REP,SCOTT CADLE,39
+Jackson,Precinct 13,State House,17,REP,SCOTT CADLE,19
+Jackson,Precinct 14,State House,17,REP,SCOTT CADLE,45
+Jackson,Precinct 1,State House,17,DEM,KATHRYN 'KAT' WEILAND,38
+Jackson,Precinct 2,State House,17,DEM,KATHRYN 'KAT' WEILAND,25
+Jackson,Precinct 5,State House,17,DEM,KATHRYN 'KAT' WEILAND,38
+Jackson,Precinct 6,State House,17,DEM,KATHRYN 'KAT' WEILAND,65
+Jackson,Precinct 7,State House,17,DEM,KATHRYN 'KAT' WEILAND,78
+Jackson,Precinct 8,State House,17,DEM,KATHRYN 'KAT' WEILAND,53
+Jackson,Precinct 9,State House,17,DEM,KATHRYN 'KAT' WEILAND,32
+Jackson,Precinct 12,State House,17,DEM,KATHRYN 'KAT' WEILAND,42
+Jackson,Precinct 13,State House,17,DEM,KATHRYN 'KAT' WEILAND,28
+Jackson,Precinct 14,State House,17,DEM,KATHRYN 'KAT' WEILAND,75
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,11
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,26
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,53
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,22
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,34
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,42
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,19
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,29
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,21
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,44
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,66
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,24
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,46
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,28
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,73
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,86
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,23
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,27
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,87
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,38
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,JESSICA HODGE,8
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,6
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,18
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,21
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,15
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,17
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,19
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,18
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,6
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,13
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,23
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,36
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,8
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,37
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,18
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,39
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,42
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,16
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,7
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,29
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,12
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,LOUISA FOSTER,4
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,19
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,30
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,57
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,27
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,35
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,35
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,14
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,24
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,33
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,41
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,73
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,33
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,76
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,40
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,78
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,89
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,18
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,24
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,62
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,29
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,ANNA MARIA BUTLER,10
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,9
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,16
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,33
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,10
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,16
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,17
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,10
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,14
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,19
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,13
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,17
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,12
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,28
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,8
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,23
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,43
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,16
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,11
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,27
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,15
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,SHELBY HILL,1
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,4
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,3
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,12
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,11
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,6
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,11
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,6
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,3
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,6
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,6
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,12
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,5
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,16
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,6
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,27
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,19
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,9
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,2
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,21
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,6
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,CARLA LINVILLE,1
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,21
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,18
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,21
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,27
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,47
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,61
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,30
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,25
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,19
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,16
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,26
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,15
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,55
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,22
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,45
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,52
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,30
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,5
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,52
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,20
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,DEM,KAREN CORIA,4
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,33
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,24
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,27
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,38
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,57
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,72
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,51
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,25
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,27
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,22
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,41
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,24
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,70
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,25
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,57
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,73
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,31
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,12
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,73
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,27
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,DEM,BONNIE J. FRUTH,4
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,18
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,38
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,76
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,35
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,44
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,49
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,25
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,29
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,35
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,49
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,90
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,38
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,93
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,44
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,100
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,118
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,38
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,28
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,81
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,36
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,JIM BUTLER,8
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,11
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,20
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,18
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,14
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,18
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,14
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,8
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,8
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,20
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,26
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,31
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,15
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,38
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,16
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,35
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,39
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,6
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,10
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,33
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,15
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,GUNNAR FOSTER,4
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,6
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,11
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,14
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,10
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,7
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,14
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,8
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,7
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,7
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,9
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,17
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,8
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,22
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,5
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,21
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,30
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,7
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,7
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,18
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,6
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,ROY L. RAMEY II,3
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,10
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,15
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,50
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,17
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,27
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,35
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,18
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,17
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,18
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,27
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,47
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,17
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,36
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,21
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,60
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,53
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,16
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,21
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,61
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,27
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,TONY HODGE,6
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,2
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,11
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,20
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,11
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,11
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,15
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,9
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,13
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,11
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,10
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,16
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,7
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,20
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,12
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,31
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,35
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,14
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,5
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,38
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,20
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,REP,ISAAC TINCHER,3
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,15
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,14
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,18
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,19
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,34
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,58
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,25
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,22
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,16
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,16
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,26
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,14
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,53
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,22
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,45
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,43
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,22
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,5
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,47
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,20
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,DEM,BEN BARKEY,2
+Jackson,Precinct 1,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,33
+Jackson,Precinct 2,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,22
+Jackson,Precinct 3,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,32
+Jackson,Precinct 5,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,39
+Jackson,Precinct 6,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,64
+Jackson,Precinct 7,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,77
+Jackson,Precinct 8,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,51
+Jackson,Precinct 9,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,29
+Jackson,Precinct 10,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,26
+Jackson,Precinct 11,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,24
+Jackson,Precinct 12,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,45
+Jackson,Precinct 13,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,26
+Jackson,Precinct 14,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,69
+Jackson,Precinct 15,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,29
+Jackson,Precinct 16,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,65
+Jackson,Precinct 17,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,74
+Jackson,Precinct 20,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,36
+Jackson,Precinct 21,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,12
+Jackson,Precinct 22,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,71
+Jackson,Precinct 23,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,26
+Jackson,Precinct 24,STATE EXECUTIVE COMMITTEE,4,DEM,SCOTT BREWER,5
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,4
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,38
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,19
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,4
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,4
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,8
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,27
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,4
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,KRISTIN KING,12
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,7
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,41
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,28
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,6
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,8
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,9
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,43
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,8
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,KATHERINE S. McCORMICK,37
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,23
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,81
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,44
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,33
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,26
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,14
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,76
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,18
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,JEANETTE RAINES ATKINSON,34
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,22
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,97
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,65
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,33
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,22
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,29
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,109
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,26
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,ERICA J. MOORE,55
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,9
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,34
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,25
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,11
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,8
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,8
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,46
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,7
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA ESTEP-BURTON,21
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,3
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,19
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,15
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,12
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,7
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,8
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,20
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,1
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,AMANDA M. SHELTON,8
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,12
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,38
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,24
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,11
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,7
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,4
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,41
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,7
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,VIRGINIA 'GINNY' MOLES,22
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,2
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,22
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,10
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,4
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,0
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,5
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,10
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,3
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,ANDY SHAMBLIN,19
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,15
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,29
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,21
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,12
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,14
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,12
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,31
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,7
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,MARTIN 'RICK' ATKINSON,14
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,8
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,70
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,42
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,16
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,14
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,11
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,89
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,14
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,T. KEVAN BARTLETT,39
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,24
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,108
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,57
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,30
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,25
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,25
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,76
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,25
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,RANDY WAYNE HALSTEAD,48
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,8
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,84
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,47
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,18
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,10
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,15
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,76
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,11
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,REP,STEVEN CARDER ESHENAUR,45
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,2
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,10
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,8
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,8
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,6
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,2
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,14
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,1
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,KEITH LAHTI,5
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,7
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,24
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,19
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,9
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,3
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,4
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,18
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,5
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,JACOB HIVELY,12
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,1
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,10
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,2
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,4
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,3
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,5
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,11
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,0
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,G. RUSSELL ROLLYSON,2
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,4
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,9
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,6
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,4
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,0
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,2
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,8
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,0
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,LEIF OLSON,8
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,4
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,7
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,13
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,7
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,9
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,3
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,18
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,6
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,JIM KERRIGAN,7
+Jackson,Precinct 4,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,5
+Jackson,Precinct 18,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,42
+Jackson,Precinct 19,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,20
+Jackson,Precinct 25,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,5
+Jackson,Precinct 26,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,3
+Jackson,Precinct 27,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,4
+Jackson,Precinct 28,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,40
+Jackson,Precinct 29,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,6
+Jackson,Precinct 30,STATE EXECUTIVE COMMITTEE,8,DEM,MIKE PUSHKIN,21
+Jackson,Precinct 1,Supreme Court of Appeals,,,GERALD TITUS,40
+Jackson,Precinct 2,Supreme Court of Appeals,,,GERALD TITUS,41
+Jackson,Precinct 3,Supreme Court of Appeals,,,GERALD TITUS,83
+Jackson,Precinct 4,Supreme Court of Appeals,,,GERALD TITUS,28
+Jackson,Precinct 5,Supreme Court of Appeals,,,GERALD TITUS,49
+Jackson,Precinct 6,Supreme Court of Appeals,,,GERALD TITUS,76
+Jackson,Precinct 7,Supreme Court of Appeals,,,GERALD TITUS,75
+Jackson,Precinct 8,Supreme Court of Appeals,,,GERALD TITUS,35
+Jackson,Precinct 9,Supreme Court of Appeals,,,GERALD TITUS,44
+Jackson,Precinct 10,Supreme Court of Appeals,,,GERALD TITUS,55
+Jackson,Precinct 11,Supreme Court of Appeals,,,GERALD TITUS,62
+Jackson,Precinct 12,Supreme Court of Appeals,,,GERALD TITUS,103
+Jackson,Precinct 13,Supreme Court of Appeals,,,GERALD TITUS,40
+Jackson,Precinct 14,Supreme Court of Appeals,,,GERALD TITUS,107
+Jackson,Precinct 15,Supreme Court of Appeals,,,GERALD TITUS,61
+Jackson,Precinct 16,Supreme Court of Appeals,,,GERALD TITUS,119
+Jackson,Precinct 17,Supreme Court of Appeals,,,GERALD TITUS,132
+Jackson,Precinct 18,Supreme Court of Appeals,,,GERALD TITUS,129
+Jackson,Precinct 19,Supreme Court of Appeals,,,GERALD TITUS,73
+Jackson,Precinct 20,Supreme Court of Appeals,,,GERALD TITUS,54
+Jackson,Precinct 21,Supreme Court of Appeals,,,GERALD TITUS,41
+Jackson,Precinct 22,Supreme Court of Appeals,,,GERALD TITUS,154
+Jackson,Precinct 23,Supreme Court of Appeals,,,GERALD TITUS,62
+Jackson,Precinct 24,Supreme Court of Appeals,,,GERALD TITUS,16
+Jackson,Precinct 25,Supreme Court of Appeals,,,GERALD TITUS,45
+Jackson,Precinct 26,Supreme Court of Appeals,,,GERALD TITUS,36
+Jackson,Precinct 27,Supreme Court of Appeals,,,GERALD TITUS,28
+Jackson,Precinct 28,Supreme Court of Appeals,,,GERALD TITUS,138
+Jackson,Precinct 29,Supreme Court of Appeals,,,GERALD TITUS,30
+Jackson,Precinct 30,Supreme Court of Appeals,,,GERALD TITUS,76
+Jackson,Precinct 1,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,20
+Jackson,Precinct 2,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,37
+Jackson,Precinct 3,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,50
+Jackson,Precinct 4,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,18
+Jackson,Precinct 5,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,13
+Jackson,Precinct 6,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,38
+Jackson,Precinct 7,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,40
+Jackson,Precinct 8,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,33
+Jackson,Precinct 9,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,28
+Jackson,Precinct 10,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,20
+Jackson,Precinct 11,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,37
+Jackson,Precinct 12,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,48
+Jackson,Precinct 13,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,28
+Jackson,Precinct 14,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,76
+Jackson,Precinct 15,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,28
+Jackson,Precinct 16,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,83
+Jackson,Precinct 17,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,73
+Jackson,Precinct 18,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,70
+Jackson,Precinct 19,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,37
+Jackson,Precinct 20,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,28
+Jackson,Precinct 21,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,16
+Jackson,Precinct 22,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,67
+Jackson,Precinct 23,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,28
+Jackson,Precinct 24,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,4
+Jackson,Precinct 25,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,18
+Jackson,Precinct 26,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,13
+Jackson,Precinct 27,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,17
+Jackson,Precinct 28,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,50
+Jackson,Precinct 29,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,9
+Jackson,Precinct 30,Supreme Court of Appeals,,,H.L. 'KIRK' KIRKPATRICK,32
+Jackson,Precinct 1,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,3
+Jackson,Precinct 2,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,5
+Jackson,Precinct 3,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,14
+Jackson,Precinct 4,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,2
+Jackson,Precinct 5,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,6
+Jackson,Precinct 6,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,11
+Jackson,Precinct 7,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,10
+Jackson,Precinct 8,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,2
+Jackson,Precinct 9,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,1
+Jackson,Precinct 10,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,6
+Jackson,Precinct 11,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,4
+Jackson,Precinct 12,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,8
+Jackson,Precinct 13,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,7
+Jackson,Precinct 14,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,11
+Jackson,Precinct 15,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,3
+Jackson,Precinct 16,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,16
+Jackson,Precinct 17,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,6
+Jackson,Precinct 18,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,7
+Jackson,Precinct 19,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,6
+Jackson,Precinct 20,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,6
+Jackson,Precinct 21,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,3
+Jackson,Precinct 22,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,15
+Jackson,Precinct 23,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,8
+Jackson,Precinct 24,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,1
+Jackson,Precinct 25,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,2
+Jackson,Precinct 26,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,0
+Jackson,Precinct 27,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,5
+Jackson,Precinct 28,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,11
+Jackson,Precinct 29,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,2
+Jackson,Precinct 30,Supreme Court of Appeals,,,MARTIN P. 'RED HAT' SHEEHAN,3
+Jackson,Precinct 1,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,11
+Jackson,Precinct 2,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,12
+Jackson,Precinct 3,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,13
+Jackson,Precinct 4,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,4
+Jackson,Precinct 5,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,21
+Jackson,Precinct 6,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,21
+Jackson,Precinct 7,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,34
+Jackson,Precinct 8,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,25
+Jackson,Precinct 9,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,8
+Jackson,Precinct 10,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,12
+Jackson,Precinct 11,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,12
+Jackson,Precinct 12,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,18
+Jackson,Precinct 13,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,6
+Jackson,Precinct 14,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,15
+Jackson,Precinct 15,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,13
+Jackson,Precinct 16,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,32
+Jackson,Precinct 17,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,40
+Jackson,Precinct 18,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,29
+Jackson,Precinct 19,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,18
+Jackson,Precinct 20,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,17
+Jackson,Precinct 21,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,6
+Jackson,Precinct 22,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,46
+Jackson,Precinct 23,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,15
+Jackson,Precinct 24,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,3
+Jackson,Precinct 25,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,6
+Jackson,Precinct 26,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,4
+Jackson,Precinct 27,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,7
+Jackson,Precinct 28,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,26
+Jackson,Precinct 29,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,3
+Jackson,Precinct 30,Supreme Court of Appeals,,,LAURA V. FAIRCLOTH,18
+Jackson,Precinct 1,Supreme Court of Appeals,,,TODD A. KIRBY,14
+Jackson,Precinct 2,Supreme Court of Appeals,,,TODD A. KIRBY,9
+Jackson,Precinct 3,Supreme Court of Appeals,,,TODD A. KIRBY,23
+Jackson,Precinct 4,Supreme Court of Appeals,,,TODD A. KIRBY,6
+Jackson,Precinct 5,Supreme Court of Appeals,,,TODD A. KIRBY,11
+Jackson,Precinct 6,Supreme Court of Appeals,,,TODD A. KIRBY,11
+Jackson,Precinct 7,Supreme Court of Appeals,,,TODD A. KIRBY,13
+Jackson,Precinct 8,Supreme Court of Appeals,,,TODD A. KIRBY,7
+Jackson,Precinct 9,Supreme Court of Appeals,,,TODD A. KIRBY,7
+Jackson,Precinct 10,Supreme Court of Appeals,,,TODD A. KIRBY,9
+Jackson,Precinct 11,Supreme Court of Appeals,,,TODD A. KIRBY,12
+Jackson,Precinct 12,Supreme Court of Appeals,,,TODD A. KIRBY,9
+Jackson,Precinct 13,Supreme Court of Appeals,,,TODD A. KIRBY,5
+Jackson,Precinct 14,Supreme Court of Appeals,,,TODD A. KIRBY,13
+Jackson,Precinct 15,Supreme Court of Appeals,,,TODD A. KIRBY,6
+Jackson,Precinct 16,Supreme Court of Appeals,,,TODD A. KIRBY,21
+Jackson,Precinct 17,Supreme Court of Appeals,,,TODD A. KIRBY,29
+Jackson,Precinct 18,Supreme Court of Appeals,,,TODD A. KIRBY,31
+Jackson,Precinct 19,Supreme Court of Appeals,,,TODD A. KIRBY,23
+Jackson,Precinct 20,Supreme Court of Appeals,,,TODD A. KIRBY,11
+Jackson,Precinct 21,Supreme Court of Appeals,,,TODD A. KIRBY,3
+Jackson,Precinct 22,Supreme Court of Appeals,,,TODD A. KIRBY,15
+Jackson,Precinct 23,Supreme Court of Appeals,,,TODD A. KIRBY,12
+Jackson,Precinct 24,Supreme Court of Appeals,,,TODD A. KIRBY,3
+Jackson,Precinct 25,Supreme Court of Appeals,,,TODD A. KIRBY,6
+Jackson,Precinct 26,Supreme Court of Appeals,,,TODD A. KIRBY,5
+Jackson,Precinct 27,Supreme Court of Appeals,,,TODD A. KIRBY,1
+Jackson,Precinct 28,Supreme Court of Appeals,,,TODD A. KIRBY,17
+Jackson,Precinct 29,Supreme Court of Appeals,,,TODD A. KIRBY,8
+Jackson,Precinct 30,Supreme Court of Appeals,,,TODD A. KIRBY,7
+Jackson,Precinct 1,Supreme Court of Appeals,,,TOM EWING,39
+Jackson,Precinct 2,Supreme Court of Appeals,,,TOM EWING,44
+Jackson,Precinct 3,Supreme Court of Appeals,,,TOM EWING,83
+Jackson,Precinct 4,Supreme Court of Appeals,,,TOM EWING,29
+Jackson,Precinct 5,Supreme Court of Appeals,,,TOM EWING,51
+Jackson,Precinct 6,Supreme Court of Appeals,,,TOM EWING,53
+Jackson,Precinct 7,Supreme Court of Appeals,,,TOM EWING,72
+Jackson,Precinct 8,Supreme Court of Appeals,,,TOM EWING,39
+Jackson,Precinct 9,Supreme Court of Appeals,,,TOM EWING,46
+Jackson,Precinct 10,Supreme Court of Appeals,,,TOM EWING,33
+Jackson,Precinct 11,Supreme Court of Appeals,,,TOM EWING,62
+Jackson,Precinct 12,Supreme Court of Appeals,,,TOM EWING,81
+Jackson,Precinct 13,Supreme Court of Appeals,,,TOM EWING,33
+Jackson,Precinct 14,Supreme Court of Appeals,,,TOM EWING,110
+Jackson,Precinct 15,Supreme Court of Appeals,,,TOM EWING,65
+Jackson,Precinct 16,Supreme Court of Appeals,,,TOM EWING,129
+Jackson,Precinct 17,Supreme Court of Appeals,,,TOM EWING,130
+Jackson,Precinct 18,Supreme Court of Appeals,,,TOM EWING,135
+Jackson,Precinct 19,Supreme Court of Appeals,,,TOM EWING,81
+Jackson,Precinct 20,Supreme Court of Appeals,,,TOM EWING,52
+Jackson,Precinct 21,Supreme Court of Appeals,,,TOM EWING,32
+Jackson,Precinct 22,Supreme Court of Appeals,,,TOM EWING,124
+Jackson,Precinct 23,Supreme Court of Appeals,,,TOM EWING,66
+Jackson,Precinct 24,Supreme Court of Appeals,,,TOM EWING,16
+Jackson,Precinct 25,Supreme Court of Appeals,,,TOM EWING,38
+Jackson,Precinct 26,Supreme Court of Appeals,,,TOM EWING,27
+Jackson,Precinct 27,Supreme Court of Appeals,,,TOM EWING,22
+Jackson,Precinct 28,Supreme Court of Appeals,,,TOM EWING,131
+Jackson,Precinct 29,Supreme Court of Appeals,,,TOM EWING,24
+Jackson,Precinct 30,Supreme Court of Appeals,,,TOM EWING,67
+Jackson,Precinct 1,Supreme Court of Appeals,,,BILL FLANIGAN,39
+Jackson,Precinct 2,Supreme Court of Appeals,,,BILL FLANIGAN,57
+Jackson,Precinct 3,Supreme Court of Appeals,,,BILL FLANIGAN,84
+Jackson,Precinct 4,Supreme Court of Appeals,,,BILL FLANIGAN,27
+Jackson,Precinct 5,Supreme Court of Appeals,,,BILL FLANIGAN,44
+Jackson,Precinct 6,Supreme Court of Appeals,,,BILL FLANIGAN,97
+Jackson,Precinct 7,Supreme Court of Appeals,,,BILL FLANIGAN,92
+Jackson,Precinct 8,Supreme Court of Appeals,,,BILL FLANIGAN,58
+Jackson,Precinct 9,Supreme Court of Appeals,,,BILL FLANIGAN,39
+Jackson,Precinct 10,Supreme Court of Appeals,,,BILL FLANIGAN,59
+Jackson,Precinct 11,Supreme Court of Appeals,,,BILL FLANIGAN,58
+Jackson,Precinct 12,Supreme Court of Appeals,,,BILL FLANIGAN,96
+Jackson,Precinct 13,Supreme Court of Appeals,,,BILL FLANIGAN,49
+Jackson,Precinct 14,Supreme Court of Appeals,,,BILL FLANIGAN,105
+Jackson,Precinct 15,Supreme Court of Appeals,,,BILL FLANIGAN,36
+Jackson,Precinct 16,Supreme Court of Appeals,,,BILL FLANIGAN,126
+Jackson,Precinct 17,Supreme Court of Appeals,,,BILL FLANIGAN,134
+Jackson,Precinct 18,Supreme Court of Appeals,,,BILL FLANIGAN,95
+Jackson,Precinct 19,Supreme Court of Appeals,,,BILL FLANIGAN,69
+Jackson,Precinct 20,Supreme Court of Appeals,,,BILL FLANIGAN,52
+Jackson,Precinct 21,Supreme Court of Appeals,,,BILL FLANIGAN,31
+Jackson,Precinct 22,Supreme Court of Appeals,,,BILL FLANIGAN,135
+Jackson,Precinct 23,Supreme Court of Appeals,,,BILL FLANIGAN,43
+Jackson,Precinct 24,Supreme Court of Appeals,,,BILL FLANIGAN,10
+Jackson,Precinct 25,Supreme Court of Appeals,,,BILL FLANIGAN,31
+Jackson,Precinct 26,Supreme Court of Appeals,,,BILL FLANIGAN,29
+Jackson,Precinct 27,Supreme Court of Appeals,,,BILL FLANIGAN,29
+Jackson,Precinct 28,Supreme Court of Appeals,,,BILL FLANIGAN,101
+Jackson,Precinct 29,Supreme Court of Appeals,,,BILL FLANIGAN,22
+Jackson,Precinct 30,Supreme Court of Appeals,,,BILL FLANIGAN,60
+Jackson,Precinct 1,Intermediate Court of Appeals,,,DAN GREEAR,30
+Jackson,Precinct 2,Intermediate Court of Appeals,,,DAN GREEAR,39
+Jackson,Precinct 3,Intermediate Court of Appeals,,,DAN GREEAR,65
+Jackson,Precinct 4,Intermediate Court of Appeals,,,DAN GREEAR,28
+Jackson,Precinct 5,Intermediate Court of Appeals,,,DAN GREEAR,52
+Jackson,Precinct 6,Intermediate Court of Appeals,,,DAN GREEAR,63
+Jackson,Precinct 7,Intermediate Court of Appeals,,,DAN GREEAR,83
+Jackson,Precinct 8,Intermediate Court of Appeals,,,DAN GREEAR,42
+Jackson,Precinct 9,Intermediate Court of Appeals,,,DAN GREEAR,38
+Jackson,Precinct 10,Intermediate Court of Appeals,,,DAN GREEAR,34
+Jackson,Precinct 11,Intermediate Court of Appeals,,,DAN GREEAR,55
+Jackson,Precinct 12,Intermediate Court of Appeals,,,DAN GREEAR,79
+Jackson,Precinct 13,Intermediate Court of Appeals,,,DAN GREEAR,35
+Jackson,Precinct 14,Intermediate Court of Appeals,,,DAN GREEAR,110
+Jackson,Precinct 15,Intermediate Court of Appeals,,,DAN GREEAR,54
+Jackson,Precinct 16,Intermediate Court of Appeals,,,DAN GREEAR,110
+Jackson,Precinct 17,Intermediate Court of Appeals,,,DAN GREEAR,134
+Jackson,Precinct 18,Intermediate Court of Appeals,,,DAN GREEAR,139
+Jackson,Precinct 19,Intermediate Court of Appeals,,,DAN GREEAR,80
+Jackson,Precinct 20,Intermediate Court of Appeals,,,DAN GREEAR,45
+Jackson,Precinct 21,Intermediate Court of Appeals,,,DAN GREEAR,32
+Jackson,Precinct 22,Intermediate Court of Appeals,,,DAN GREEAR,155
+Jackson,Precinct 23,Intermediate Court of Appeals,,,DAN GREEAR,61
+Jackson,Precinct 24,Intermediate Court of Appeals,,,DAN GREEAR,17
+Jackson,Precinct 25,Intermediate Court of Appeals,,,DAN GREEAR,33
+Jackson,Precinct 26,Intermediate Court of Appeals,,,DAN GREEAR,25
+Jackson,Precinct 27,Intermediate Court of Appeals,,,DAN GREEAR,17
+Jackson,Precinct 28,Intermediate Court of Appeals,,,DAN GREEAR,134
+Jackson,Precinct 29,Intermediate Court of Appeals,,,DAN GREEAR,29
+Jackson,Precinct 30,Intermediate Court of Appeals,,,DAN GREEAR,69
+Jackson,Precinct 1,Intermediate Court of Appeals,,,JIM DOUGLAS,55
+Jackson,Precinct 2,Intermediate Court of Appeals,,,JIM DOUGLAS,61
+Jackson,Precinct 3,Intermediate Court of Appeals,,,JIM DOUGLAS,109
+Jackson,Precinct 4,Intermediate Court of Appeals,,,JIM DOUGLAS,29
+Jackson,Precinct 5,Intermediate Court of Appeals,,,JIM DOUGLAS,42
+Jackson,Precinct 6,Intermediate Court of Appeals,,,JIM DOUGLAS,83
+Jackson,Precinct 7,Intermediate Court of Appeals,,,JIM DOUGLAS,77
+Jackson,Precinct 8,Intermediate Court of Appeals,,,JIM DOUGLAS,56
+Jackson,Precinct 9,Intermediate Court of Appeals,,,JIM DOUGLAS,45
+Jackson,Precinct 10,Intermediate Court of Appeals,,,JIM DOUGLAS,58
+Jackson,Precinct 11,Intermediate Court of Appeals,,,JIM DOUGLAS,65
+Jackson,Precinct 12,Intermediate Court of Appeals,,,JIM DOUGLAS,100
+Jackson,Precinct 13,Intermediate Court of Appeals,,,JIM DOUGLAS,50
+Jackson,Precinct 14,Intermediate Court of Appeals,,,JIM DOUGLAS,108
+Jackson,Precinct 15,Intermediate Court of Appeals,,,JIM DOUGLAS,48
+Jackson,Precinct 16,Intermediate Court of Appeals,,,JIM DOUGLAS,142
+Jackson,Precinct 17,Intermediate Court of Appeals,,,JIM DOUGLAS,130
+Jackson,Precinct 18,Intermediate Court of Appeals,,,JIM DOUGLAS,110
+Jackson,Precinct 19,Intermediate Court of Appeals,,,JIM DOUGLAS,72
+Jackson,Precinct 20,Intermediate Court of Appeals,,,JIM DOUGLAS,57
+Jackson,Precinct 21,Intermediate Court of Appeals,,,JIM DOUGLAS,29
+Jackson,Precinct 22,Intermediate Court of Appeals,,,JIM DOUGLAS,128
+Jackson,Precinct 23,Intermediate Court of Appeals,,,JIM DOUGLAS,54
+Jackson,Precinct 24,Intermediate Court of Appeals,,,JIM DOUGLAS,9
+Jackson,Precinct 25,Intermediate Court of Appeals,,,JIM DOUGLAS,39
+Jackson,Precinct 26,Intermediate Court of Appeals,,,JIM DOUGLAS,29
+Jackson,Precinct 27,Intermediate Court of Appeals,,,JIM DOUGLAS,34
+Jackson,Precinct 28,Intermediate Court of Appeals,,,JIM DOUGLAS,105
+Jackson,Precinct 29,Intermediate Court of Appeals,,,JIM DOUGLAS,21
+Jackson,Precinct 30,Intermediate Court of Appeals,,,JIM DOUGLAS,58
+Jackson,Precinct 1,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,19
+Jackson,Precinct 2,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,41
+Jackson,Precinct 3,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,113
+Jackson,Precinct 4,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,34
+Jackson,Precinct 5,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,21
+Jackson,Precinct 6,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,35
+Jackson,Precinct 7,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,26
+Jackson,Precinct 8,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,14
+Jackson,Precinct 9,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,18
+Jackson,Precinct 10,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,47
+Jackson,Precinct 11,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,77
+Jackson,Precinct 12,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,52
+Jackson,Precinct 13,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,34
+Jackson,Precinct 14,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,65
+Jackson,Precinct 15,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,22
+Jackson,Precinct 16,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,91
+Jackson,Precinct 17,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,100
+Jackson,Precinct 18,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,98
+Jackson,Precinct 19,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,51
+Jackson,Precinct 20,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,30
+Jackson,Precinct 21,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,26
+Jackson,Precinct 22,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,76
+Jackson,Precinct 23,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,48
+Jackson,Precinct 24,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,13
+Jackson,Precinct 25,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,21
+Jackson,Precinct 26,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,36
+Jackson,Precinct 27,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,27
+Jackson,Precinct 28,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,84
+Jackson,Precinct 29,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,23
+Jackson,Precinct 30,REP FOR COUNTY COMMISSIONER,,REP,JEREMY COMER,46
+Jackson,Precinct 1,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,12
+Jackson,Precinct 2,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,11
+Jackson,Precinct 3,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,15
+Jackson,Precinct 4,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,2
+Jackson,Precinct 5,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,19
+Jackson,Precinct 6,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,33
+Jackson,Precinct 7,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,44
+Jackson,Precinct 8,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,21
+Jackson,Precinct 9,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,19
+Jackson,Precinct 10,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,12
+Jackson,Precinct 11,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,5
+Jackson,Precinct 12,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,44
+Jackson,Precinct 13,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,18
+Jackson,Precinct 14,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,30
+Jackson,Precinct 15,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,22
+Jackson,Precinct 16,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,39
+Jackson,Precinct 17,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,39
+Jackson,Precinct 18,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,30
+Jackson,Precinct 19,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,18
+Jackson,Precinct 20,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,14
+Jackson,Precinct 21,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,12
+Jackson,Precinct 22,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,71
+Jackson,Precinct 23,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,23
+Jackson,Precinct 24,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,2
+Jackson,Precinct 25,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,9
+Jackson,Precinct 26,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,1
+Jackson,Precinct 27,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,5
+Jackson,Precinct 28,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,23
+Jackson,Precinct 29,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,5
+Jackson,Precinct 30,REP FOR COUNTY COMMISSIONER,,REP,JOHN A. GORRELL,11
+Jackson,Precinct 1,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,10
+Jackson,Precinct 2,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,19
+Jackson,Precinct 3,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,21
+Jackson,Precinct 4,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,6
+Jackson,Precinct 5,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,17
+Jackson,Precinct 6,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,15
+Jackson,Precinct 7,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,24
+Jackson,Precinct 8,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,11
+Jackson,Precinct 9,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,13
+Jackson,Precinct 10,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,10
+Jackson,Precinct 11,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,12
+Jackson,Precinct 12,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,45
+Jackson,Precinct 13,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,13
+Jackson,Precinct 14,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,49
+Jackson,Precinct 15,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,34
+Jackson,Precinct 16,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,68
+Jackson,Precinct 17,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,67
+Jackson,Precinct 18,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,66
+Jackson,Precinct 19,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,38
+Jackson,Precinct 20,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,25
+Jackson,Precinct 21,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,12
+Jackson,Precinct 22,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,60
+Jackson,Precinct 23,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,22
+Jackson,Precinct 24,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,7
+Jackson,Precinct 25,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,16
+Jackson,Precinct 26,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,8
+Jackson,Precinct 27,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,11
+Jackson,Precinct 28,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,71
+Jackson,Precinct 29,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,13
+Jackson,Precinct 30,REP FOR COUNTY COMMISSIONER,,REP,MITCH MORRISON,39
+Jackson,Precinct 1,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,37
+Jackson,Precinct 2,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,27
+Jackson,Precinct 3,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,37
+Jackson,Precinct 4,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,14
+Jackson,Precinct 5,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,40
+Jackson,Precinct 6,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,69
+Jackson,Precinct 7,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,80
+Jackson,Precinct 8,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,56
+Jackson,Precinct 9,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,35
+Jackson,Precinct 10,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,30
+Jackson,Precinct 11,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,29
+Jackson,Precinct 12,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,41
+Jackson,Precinct 13,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,28
+Jackson,Precinct 14,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,74
+Jackson,Precinct 15,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,31
+Jackson,Precinct 16,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,72
+Jackson,Precinct 17,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,75
+Jackson,Precinct 18,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,60
+Jackson,Precinct 19,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,42
+Jackson,Precinct 20,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,38
+Jackson,Precinct 21,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,11
+Jackson,Precinct 22,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,81
+Jackson,Precinct 23,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,33
+Jackson,Precinct 24,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,4
+Jackson,Precinct 25,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,22
+Jackson,Precinct 26,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,15
+Jackson,Precinct 27,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,14
+Jackson,Precinct 28,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,68
+Jackson,Precinct 29,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,9
+Jackson,Precinct 30,DEM FOR COUNTY COMMISSIONER,,DEM,AMANDA MORGAN,32
+Jackson,Precinct 1,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,10
+Jackson,Precinct 2,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,27
+Jackson,Precinct 3,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,94
+Jackson,Precinct 4,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,27
+Jackson,Precinct 5,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,30
+Jackson,Precinct 6,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,31
+Jackson,Precinct 7,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,48
+Jackson,Precinct 8,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,22
+Jackson,Precinct 9,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,19
+Jackson,Precinct 10,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,36
+Jackson,Precinct 11,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,74
+Jackson,Precinct 12,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,74
+Jackson,Precinct 13,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,45
+Jackson,Precinct 14,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,106
+Jackson,Precinct 15,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,59
+Jackson,Precinct 16,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,169
+Jackson,Precinct 17,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,190
+Jackson,Precinct 18,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,163
+Jackson,Precinct 19,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,100
+Jackson,Precinct 20,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,60
+Jackson,Precinct 21,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,44
+Jackson,Precinct 22,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,193
+Jackson,Precinct 23,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,90
+Jackson,Precinct 24,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,17
+Jackson,Precinct 25,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,47
+Jackson,Precinct 26,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,40
+Jackson,Precinct 27,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,36
+Jackson,Precinct 28,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,153
+Jackson,Precinct 29,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,33
+Jackson,Precinct 30,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,CHRISTINA GOSSETT,85
+Jackson,Precinct 1,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,23
+Jackson,Precinct 2,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,33
+Jackson,Precinct 3,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,38
+Jackson,Precinct 4,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,9
+Jackson,Precinct 5,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,26
+Jackson,Precinct 6,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,41
+Jackson,Precinct 7,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,41
+Jackson,Precinct 8,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,22
+Jackson,Precinct 9,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,28
+Jackson,Precinct 10,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,26
+Jackson,Precinct 11,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,15
+Jackson,Precinct 12,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,55
+Jackson,Precinct 13,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,16
+Jackson,Precinct 14,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,28
+Jackson,Precinct 15,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,8
+Jackson,Precinct 16,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,17
+Jackson,Precinct 17,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,11
+Jackson,Precinct 18,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,17
+Jackson,Precinct 19,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,8
+Jackson,Precinct 20,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,3
+Jackson,Precinct 21,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,3
+Jackson,Precinct 22,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,12
+Jackson,Precinct 23,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,4
+Jackson,Precinct 24,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,2
+Jackson,Precinct 25,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,3
+Jackson,Precinct 26,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,3
+Jackson,Precinct 27,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,4
+Jackson,Precinct 28,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,12
+Jackson,Precinct 29,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,3
+Jackson,Precinct 30,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,REP,TERESA IHLE,10
+Jackson,Precinct 1,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 2,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 3,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 4,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 5,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 6,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 7,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 8,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 9,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 10,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 11,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 12,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 13,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 14,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 15,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 16,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 17,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 18,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 19,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 20,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 21,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 22,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 23,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 24,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 25,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 26,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 27,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 28,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 29,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 30,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 FEMALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 1,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,36
+Jackson,Precinct 2,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,56
+Jackson,Precinct 3,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,99
+Jackson,Precinct 4,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,28
+Jackson,Precinct 5,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,44
+Jackson,Precinct 6,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,64
+Jackson,Precinct 7,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,64
+Jackson,Precinct 8,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,28
+Jackson,Precinct 9,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,41
+Jackson,Precinct 10,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,41
+Jackson,Precinct 11,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,64
+Jackson,Precinct 12,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,106
+Jackson,Precinct 13,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,44
+Jackson,Precinct 14,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,101
+Jackson,Precinct 15,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,56
+Jackson,Precinct 16,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,127
+Jackson,Precinct 17,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,136
+Jackson,Precinct 18,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,134
+Jackson,Precinct 19,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,85
+Jackson,Precinct 20,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,44
+Jackson,Precinct 21,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,34
+Jackson,Precinct 22,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,123
+Jackson,Precinct 23,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,57
+Jackson,Precinct 24,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,11
+Jackson,Precinct 25,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,37
+Jackson,Precinct 26,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,29
+Jackson,Precinct 27,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,30
+Jackson,Precinct 28,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,134
+Jackson,Precinct 29,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,30
+Jackson,Precinct 30,REP FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,REP,MICHAEL IHLE,78
+Jackson,Precinct 1,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 2,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 3,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 4,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 5,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 6,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 7,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 8,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 9,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 10,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 11,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 12,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 13,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 14,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 15,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 16,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 17,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 18,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 19,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 20,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 21,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 22,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 23,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 24,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 25,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 26,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 27,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 28,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 29,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 30,DEM FOR CONGRESSIONAL DIST EXEC COMMITTEE DIST 1 MALE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 1,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,8
+Jackson,Precinct 2,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,29
+Jackson,Precinct 3,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,86
+Jackson,Precinct 5,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,24
+Jackson,Precinct 6,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,29
+Jackson,Precinct 7,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,56
+Jackson,Precinct 8,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,25
+Jackson,Precinct 9,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,18
+Jackson,Precinct 10,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,36
+Jackson,Precinct 11,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,73
+Jackson,Precinct 12,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,75
+Jackson,Precinct 13,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,40
+Jackson,Precinct 14,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,105
+Jackson,Precinct 15,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,57
+Jackson,Precinct 16,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,157
+Jackson,Precinct 17,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,172
+Jackson,Precinct 20,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,63
+Jackson,Precinct 21,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,42
+Jackson,Precinct 22,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,180
+Jackson,Precinct 23,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,84
+Jackson,Precinct 24,REP FOR SENATORIAL EXEC COMMITTEE,,REP,CHRISTINA GOSSETT,17
+Jackson,Precinct 1,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,23
+Jackson,Precinct 2,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,35
+Jackson,Precinct 3,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,44
+Jackson,Precinct 5,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,29
+Jackson,Precinct 6,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,44
+Jackson,Precinct 7,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,31
+Jackson,Precinct 8,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,17
+Jackson,Precinct 9,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,30
+Jackson,Precinct 10,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,25
+Jackson,Precinct 11,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,15
+Jackson,Precinct 12,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,57
+Jackson,Precinct 13,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,20
+Jackson,Precinct 14,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,28
+Jackson,Precinct 15,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,9
+Jackson,Precinct 16,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,23
+Jackson,Precinct 17,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,27
+Jackson,Precinct 20,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,3
+Jackson,Precinct 21,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,2
+Jackson,Precinct 22,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,20
+Jackson,Precinct 23,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,9
+Jackson,Precinct 24,REP FOR SENATORIAL EXEC COMMITTEE,,REP,TERESA IHLE,4
+Jackson,Precinct 1,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 2,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 3,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 5,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 6,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 7,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 8,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 9,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 10,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 11,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 12,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 13,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 14,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 15,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 16,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 17,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 20,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 21,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 22,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 23,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 24,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 1,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,31
+Jackson,Precinct 2,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,55
+Jackson,Precinct 3,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,98
+Jackson,Precinct 5,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,43
+Jackson,Precinct 6,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,62
+Jackson,Precinct 7,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,60
+Jackson,Precinct 8,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,27
+Jackson,Precinct 9,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,40
+Jackson,Precinct 10,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,40
+Jackson,Precinct 11,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,64
+Jackson,Precinct 12,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,103
+Jackson,Precinct 13,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,44
+Jackson,Precinct 14,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,100
+Jackson,Precinct 15,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,57
+Jackson,Precinct 16,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,131
+Jackson,Precinct 17,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,137
+Jackson,Precinct 20,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,42
+Jackson,Precinct 21,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,32
+Jackson,Precinct 22,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,115
+Jackson,Precinct 23,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,53
+Jackson,Precinct 24,REP FOR SENATORIAL EXEC COMMITTEE,,REP,MICHAEL IHLE,12
+Jackson,Precinct 4,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 18,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 19,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 25,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 26,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 27,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 28,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 29,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 30,REP FOR SENATORIAL EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 4,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 18,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 19,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 25,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 26,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 27,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 28,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 29,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 30,DEM FOR SENATORIAL EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 4,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,24
+Jackson,Precinct 18,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,81
+Jackson,Precinct 19,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,59
+Jackson,Precinct 25,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,26
+Jackson,Precinct 26,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,36
+Jackson,Precinct 27,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,31
+Jackson,Precinct 28,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,81
+Jackson,Precinct 29,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,21
+Jackson,Precinct 30,REP FOR SENATORIAL EXEC COMMITTEE,,REP,RANDY HALSTEAD,56
+Jackson,Precinct 4,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,10
+Jackson,Precinct 18,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,97
+Jackson,Precinct 19,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,49
+Jackson,Precinct 25,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,20
+Jackson,Precinct 26,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,5
+Jackson,Precinct 27,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,9
+Jackson,Precinct 28,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,92
+Jackson,Precinct 29,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,17
+Jackson,Precinct 30,REP FOR SENATORIAL EXEC COMMITTEE,,REP,JAMES TEMPLIN,39
+Jackson,Precinct 1,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,14
+Jackson,Precinct 2,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,19
+Jackson,Precinct 5,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,20
+Jackson,Precinct 6,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,32
+Jackson,Precinct 7,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,27
+Jackson,Precinct 8,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,10
+Jackson,Precinct 9,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,18
+Jackson,Precinct 12,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,45
+Jackson,Precinct 13,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,19
+Jackson,Precinct 14,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,TERESA IHLE,36
+Jackson,Precinct 1,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,18
+Jackson,Precinct 2,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,44
+Jackson,Precinct 5,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,31
+Jackson,Precinct 6,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,37
+Jackson,Precinct 7,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,57
+Jackson,Precinct 8,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,30
+Jackson,Precinct 9,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,30
+Jackson,Precinct 12,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,86
+Jackson,Precinct 13,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,32
+Jackson,Precinct 14,REP FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,REP,SUSAN KING,89
+Jackson,Precinct 1,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 2,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 5,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 6,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 7,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 8,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 9,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 12,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 13,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 14,DEM FOR DELEGATE DIST EXEC COMMITTEE FEMALE 17TH DISTRIC,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 1,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,28
+Jackson,Precinct 2,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,51
+Jackson,Precinct 5,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,43
+Jackson,Precinct 6,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,62
+Jackson,Precinct 7,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,58
+Jackson,Precinct 8,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,27
+Jackson,Precinct 9,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,39
+Jackson,Precinct 12,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,103
+Jackson,Precinct 13,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,36
+Jackson,Precinct 14,REP FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,REP,MICHAEL IHLE,97
+Jackson,Precinct 1,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 2,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 5,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 6,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 7,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 8,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 9,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 12,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 13,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 14,DEM FOR DELEGATE DIST EXEC COMMITTEE MALE 17TH DISTRICT,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 1,Supreme Court of Appeals,,,JIM FRAZIER,64
+Jackson,Precinct 2,Supreme Court of Appeals,,,JIM FRAZIER,66
+Jackson,Precinct 3,Supreme Court of Appeals,,,JIM FRAZIER,150
+Jackson,Precinct 4,Supreme Court of Appeals,,,JIM FRAZIER,31
+Jackson,Precinct 5,Supreme Court of Appeals,,,JIM FRAZIER,92
+Jackson,Precinct 6,Supreme Court of Appeals,,,JIM FRAZIER,111
+Jackson,Precinct 7,Supreme Court of Appeals,,,JIM FRAZIER,153
+Jackson,Precinct 8,Supreme Court of Appeals,,,JIM FRAZIER,75
+Jackson,Precinct 9,Supreme Court of Appeals,,,JIM FRAZIER,65
+Jackson,Precinct 10,Supreme Court of Appeals,,,JIM FRAZIER,63
+Jackson,Precinct 11,Supreme Court of Appeals,,,JIM FRAZIER,90
+Jackson,Precinct 12,Supreme Court of Appeals,,,JIM FRAZIER,160
+Jackson,Precinct 13,Supreme Court of Appeals,,,JIM FRAZIER,66
+Jackson,Precinct 14,Supreme Court of Appeals,,,JIM FRAZIER,184
+Jackson,Precinct 15,Supreme Court of Appeals,,,JIM FRAZIER,86
+Jackson,Precinct 16,Supreme Court of Appeals,,,JIM FRAZIER,212
+Jackson,Precinct 17,Supreme Court of Appeals,,,JIM FRAZIER,214
+Jackson,Precinct 18,Supreme Court of Appeals,,,JIM FRAZIER,197
+Jackson,Precinct 19,Supreme Court of Appeals,,,JIM FRAZIER,115
+Jackson,Precinct 20,Supreme Court of Appeals,,,JIM FRAZIER,81
+Jackson,Precinct 21,Supreme Court of Appeals,,,JIM FRAZIER,51
+Jackson,Precinct 22,Supreme Court of Appeals,,,JIM FRAZIER,218
+Jackson,Precinct 23,Supreme Court of Appeals,,,JIM FRAZIER,99
+Jackson,Precinct 24,Supreme Court of Appeals,,,JIM FRAZIER,22
+Jackson,Precinct 25,Supreme Court of Appeals,,,JIM FRAZIER,54
+Jackson,Precinct 26,Supreme Court of Appeals,,,JIM FRAZIER,39
+Jackson,Precinct 27,Supreme Court of Appeals,,,JIM FRAZIER,42
+Jackson,Precinct 28,Supreme Court of Appeals,,,JIM FRAZIER,162
+Jackson,Precinct 29,Supreme Court of Appeals,,,JIM FRAZIER,31
+Jackson,Precinct 30,Supreme Court of Appeals,,,JIM FRAZIER,86
+Jackson,Precinct 1,Supreme Court of Appeals,,,TRINA L CLARK,26
+Jackson,Precinct 2,Supreme Court of Appeals,,,TRINA L CLARK,26
+Jackson,Precinct 3,Supreme Court of Appeals,,,TRINA L CLARK,55
+Jackson,Precinct 4,Supreme Court of Appeals,,,TRINA L CLARK,24
+Jackson,Precinct 5,Supreme Court of Appeals,,,TRINA L CLARK,30
+Jackson,Precinct 6,Supreme Court of Appeals,,,TRINA L CLARK,48
+Jackson,Precinct 7,Supreme Court of Appeals,,,TRINA L CLARK,48
+Jackson,Precinct 8,Supreme Court of Appeals,,,TRINA L CLARK,34
+Jackson,Precinct 9,Supreme Court of Appeals,,,TRINA L CLARK,17
+Jackson,Precinct 10,Supreme Court of Appeals,,,TRINA L CLARK,35
+Jackson,Precinct 11,Supreme Court of Appeals,,,TRINA L CLARK,46
+Jackson,Precinct 12,Supreme Court of Appeals,,,TRINA L CLARK,51
+Jackson,Precinct 13,Supreme Court of Appeals,,,TRINA L CLARK,26
+Jackson,Precinct 14,Supreme Court of Appeals,,,TRINA L CLARK,87
+Jackson,Precinct 15,Supreme Court of Appeals,,,TRINA L CLARK,37
+Jackson,Precinct 16,Supreme Court of Appeals,,,TRINA L CLARK,104
+Jackson,Precinct 17,Supreme Court of Appeals,,,TRINA L CLARK,99
+Jackson,Precinct 18,Supreme Court of Appeals,,,TRINA L CLARK,109
+Jackson,Precinct 19,Supreme Court of Appeals,,,TRINA L CLARK,55
+Jackson,Precinct 20,Supreme Court of Appeals,,,TRINA L CLARK,48
+Jackson,Precinct 21,Supreme Court of Appeals,,,TRINA L CLARK,28
+Jackson,Precinct 22,Supreme Court of Appeals,,,TRINA L CLARK,121
+Jackson,Precinct 23,Supreme Court of Appeals,,,TRINA L CLARK,46
+Jackson,Precinct 24,Supreme Court of Appeals,,,TRINA L CLARK,14
+Jackson,Precinct 25,Supreme Court of Appeals,,,TRINA L CLARK,32
+Jackson,Precinct 26,Supreme Court of Appeals,,,TRINA L CLARK,24
+Jackson,Precinct 27,Supreme Court of Appeals,,,TRINA L CLARK,19
+Jackson,Precinct 28,Supreme Court of Appeals,,,TRINA L CLARK,112
+Jackson,Precinct 29,Supreme Court of Appeals,,,TRINA L CLARK,28
+Jackson,Precinct 30,Supreme Court of Appeals,,,TRINA L CLARK,69
+Jackson,Precinct 1,Supreme Court of Appeals,,,J. BEN MIZE,70
+Jackson,Precinct 2,Supreme Court of Appeals,,,J. BEN MIZE,89
+Jackson,Precinct 3,Supreme Court of Appeals,,,J. BEN MIZE,122
+Jackson,Precinct 4,Supreme Court of Appeals,,,J. BEN MIZE,33
+Jackson,Precinct 5,Supreme Court of Appeals,,,J. BEN MIZE,94
+Jackson,Precinct 6,Supreme Court of Appeals,,,J. BEN MIZE,149
+Jackson,Precinct 7,Supreme Court of Appeals,,,J. BEN MIZE,170
+Jackson,Precinct 8,Supreme Court of Appeals,,,J. BEN MIZE,90
+Jackson,Precinct 9,Supreme Court of Appeals,,,J. BEN MIZE,83
+Jackson,Precinct 10,Supreme Court of Appeals,,,J. BEN MIZE,69
+Jackson,Precinct 11,Supreme Court of Appeals,,,J. BEN MIZE,83
+Jackson,Precinct 12,Supreme Court of Appeals,,,J. BEN MIZE,171
+Jackson,Precinct 13,Supreme Court of Appeals,,,J. BEN MIZE,64
+Jackson,Precinct 14,Supreme Court of Appeals,,,J. BEN MIZE,140
+Jackson,Precinct 15,Supreme Court of Appeals,,,J. BEN MIZE,64
+Jackson,Precinct 16,Supreme Court of Appeals,,,J. BEN MIZE,167
+Jackson,Precinct 17,Supreme Court of Appeals,,,J. BEN MIZE,172
+Jackson,Precinct 18,Supreme Court of Appeals,,,J. BEN MIZE,127
+Jackson,Precinct 19,Supreme Court of Appeals,,,J. BEN MIZE,84
+Jackson,Precinct 20,Supreme Court of Appeals,,,J. BEN MIZE,62
+Jackson,Precinct 21,Supreme Court of Appeals,,,J. BEN MIZE,37
+Jackson,Precinct 22,Supreme Court of Appeals,,,J. BEN MIZE,172
+Jackson,Precinct 23,Supreme Court of Appeals,,,J. BEN MIZE,79
+Jackson,Precinct 24,Supreme Court of Appeals,,,J. BEN MIZE,11
+Jackson,Precinct 25,Supreme Court of Appeals,,,J. BEN MIZE,42
+Jackson,Precinct 26,Supreme Court of Appeals,,,J. BEN MIZE,19
+Jackson,Precinct 27,Supreme Court of Appeals,,,J. BEN MIZE,22
+Jackson,Precinct 28,Supreme Court of Appeals,,,J. BEN MIZE,97
+Jackson,Precinct 29,Supreme Court of Appeals,,,J. BEN MIZE,19
+Jackson,Precinct 30,Supreme Court of Appeals,,,J. BEN MIZE,51
+Jackson,Precinct 1,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,37
+Jackson,Precinct 2,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,44
+Jackson,Precinct 3,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,82
+Jackson,Precinct 4,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,27
+Jackson,Precinct 5,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,42
+Jackson,Precinct 6,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,63
+Jackson,Precinct 7,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,87
+Jackson,Precinct 8,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,48
+Jackson,Precinct 9,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,41
+Jackson,Precinct 10,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,53
+Jackson,Precinct 11,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,75
+Jackson,Precinct 12,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,94
+Jackson,Precinct 13,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,53
+Jackson,Precinct 14,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,131
+Jackson,Precinct 15,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,70
+Jackson,Precinct 16,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,206
+Jackson,Precinct 17,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,218
+Jackson,Precinct 18,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,190
+Jackson,Precinct 19,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,117
+Jackson,Precinct 20,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,88
+Jackson,Precinct 21,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,49
+Jackson,Precinct 22,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,249
+Jackson,Precinct 23,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,104
+Jackson,Precinct 24,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,22
+Jackson,Precinct 25,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,56
+Jackson,Precinct 26,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,38
+Jackson,Precinct 27,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,41
+Jackson,Precinct 28,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,178
+Jackson,Precinct 29,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,27
+Jackson,Precinct 30,Supreme Court of Appeals,,,BEVERLY (BEA) ISNER,89
+Jackson,Precinct 1,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,77
+Jackson,Precinct 2,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,98
+Jackson,Precinct 3,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,166
+Jackson,Precinct 4,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,51
+Jackson,Precinct 5,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,97
+Jackson,Precinct 6,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,131
+Jackson,Precinct 7,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,153
+Jackson,Precinct 8,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,88
+Jackson,Precinct 9,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,83
+Jackson,Precinct 10,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,90
+Jackson,Precinct 11,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,117
+Jackson,Precinct 12,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,185
+Jackson,Precinct 13,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,84
+Jackson,Precinct 14,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,204
+Jackson,Precinct 15,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,96
+Jackson,Precinct 16,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,250
+Jackson,Precinct 17,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,266
+Jackson,Precinct 18,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,253
+Jackson,Precinct 19,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,155
+Jackson,Precinct 20,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,98
+Jackson,Precinct 21,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,63
+Jackson,Precinct 22,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,284
+Jackson,Precinct 23,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,123
+Jackson,Precinct 24,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,27
+Jackson,Precinct 25,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,70
+Jackson,Precinct 26,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,56
+Jackson,Precinct 27,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,52
+Jackson,Precinct 28,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,229
+Jackson,Precinct 29,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,47
+Jackson,Precinct 30,FOR CONSERVATION DISTRICT SUPERVISOR,,,JOE WENDELL CASTO,126
+Jackson,Precinct 19,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,76
+Jackson,Precinct 20,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,45
+Jackson,Precinct 21,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,26
+Jackson,Precinct 22,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,105
+Jackson,Precinct 23,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,43
+Jackson,Precinct 24,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,10
+Jackson,Precinct 25,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,28
+Jackson,Precinct 26,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,31
+Jackson,Precinct 27,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,24
+Jackson,Precinct 28,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,138
+Jackson,Precinct 29,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,36
+Jackson,Precinct 30,REP FOR COUNTY EXEC COMMITTEE,,REP,JULIA BOGGESS,80
+Jackson,Precinct 19,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,55
+Jackson,Precinct 20,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,33
+Jackson,Precinct 21,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,28
+Jackson,Precinct 22,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,108
+Jackson,Precinct 23,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,48
+Jackson,Precinct 24,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,12
+Jackson,Precinct 25,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,32
+Jackson,Precinct 26,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,26
+Jackson,Precinct 27,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,25
+Jackson,Precinct 28,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,81
+Jackson,Precinct 29,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,15
+Jackson,Precinct 30,REP FOR COUNTY EXEC COMMITTEE,,REP,TRINA L CLARK,42
+Jackson,Precinct 19,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 20,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 21,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 22,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 23,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 24,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 25,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 26,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 27,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 28,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 29,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 30,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 19,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,66
+Jackson,Precinct 20,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,40
+Jackson,Precinct 21,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,36
+Jackson,Precinct 22,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,130
+Jackson,Precinct 23,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,56
+Jackson,Precinct 24,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,14
+Jackson,Precinct 25,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,27
+Jackson,Precinct 26,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,10
+Jackson,Precinct 27,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,18
+Jackson,Precinct 28,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,80
+Jackson,Precinct 29,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,14
+Jackson,Precinct 30,REP FOR COUNTY EXEC COMMITTEE,,REP,VINCE RIFFE,32
+Jackson,Precinct 19,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,39
+Jackson,Precinct 20,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,21
+Jackson,Precinct 21,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,18
+Jackson,Precinct 22,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,59
+Jackson,Precinct 23,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,24
+Jackson,Precinct 24,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,6
+Jackson,Precinct 25,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,20
+Jackson,Precinct 26,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,27
+Jackson,Precinct 27,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,18
+Jackson,Precinct 28,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,58
+Jackson,Precinct 29,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,18
+Jackson,Precinct 30,REP FOR COUNTY EXEC COMMITTEE,,REP,RANDY W. HALSTEAD,34
+Jackson,Precinct 19,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,11
+Jackson,Precinct 20,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,6
+Jackson,Precinct 21,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,4
+Jackson,Precinct 22,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,16
+Jackson,Precinct 23,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,7
+Jackson,Precinct 24,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,1
+Jackson,Precinct 25,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,7
+Jackson,Precinct 26,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,2
+Jackson,Precinct 27,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,5
+Jackson,Precinct 28,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,8
+Jackson,Precinct 29,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,3
+Jackson,Precinct 30,REP FOR COUNTY EXEC COMMITTEE,,REP,RYAN JACINTO,6
+Jackson,Precinct 19,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,48
+Jackson,Precinct 20,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,26
+Jackson,Precinct 21,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,13
+Jackson,Precinct 22,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,62
+Jackson,Precinct 23,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,44
+Jackson,Precinct 24,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,9
+Jackson,Precinct 25,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,17
+Jackson,Precinct 26,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,25
+Jackson,Precinct 27,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,23
+Jackson,Precinct 28,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,119
+Jackson,Precinct 29,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,29
+Jackson,Precinct 30,REP FOR COUNTY EXEC COMMITTEE,,REP,NEMO A BOGGESS,81
+Jackson,Precinct 1,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,13
+Jackson,Precinct 2,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,18
+Jackson,Precinct 3,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,26
+Jackson,Precinct 4,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,12
+Jackson,Precinct 5,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,20
+Jackson,Precinct 6,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,35
+Jackson,Precinct 7,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,28
+Jackson,Precinct 8,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,9
+Jackson,Precinct 9,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,17
+Jackson,Precinct 11,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,23
+Jackson,Precinct 12,REP FOR COUNTY EXEC COMMITTEE,,REP,TERESA IHLE,45
+Jackson,Precinct 1,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,21
+Jackson,Precinct 2,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,38
+Jackson,Precinct 3,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,100
+Jackson,Precinct 4,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,25
+Jackson,Precinct 5,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,25
+Jackson,Precinct 6,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,25
+Jackson,Precinct 7,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,32
+Jackson,Precinct 8,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,20
+Jackson,Precinct 9,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,24
+Jackson,Precinct 11,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,67
+Jackson,Precinct 12,REP FOR COUNTY EXEC COMMITTEE,,REP,DORIS WAYBRIGHT,75
+Jackson,Precinct 1,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,17
+Jackson,Precinct 2,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,31
+Jackson,Precinct 3,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,54
+Jackson,Precinct 4,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,15
+Jackson,Precinct 5,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,31
+Jackson,Precinct 6,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,36
+Jackson,Precinct 7,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,62
+Jackson,Precinct 8,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,32
+Jackson,Precinct 9,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,27
+Jackson,Precinct 11,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,34
+Jackson,Precinct 12,REP FOR COUNTY EXEC COMMITTEE,,REP,SUSAN KING,78
+Jackson,Precinct 1,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,23
+Jackson,Precinct 2,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,24
+Jackson,Precinct 3,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,26
+Jackson,Precinct 4,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,10
+Jackson,Precinct 5,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,36
+Jackson,Precinct 6,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,53
+Jackson,Precinct 7,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,65
+Jackson,Precinct 8,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,38
+Jackson,Precinct 9,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,27
+Jackson,Precinct 11,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,14
+Jackson,Precinct 12,DEM FOR COUNTY EXEC COMMITTEE,,DEM,SHARON KENT PICKENS,33
+Jackson,Precinct 1,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,26
+Jackson,Precinct 2,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,18
+Jackson,Precinct 3,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,29
+Jackson,Precinct 4,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,13
+Jackson,Precinct 5,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,36
+Jackson,Precinct 6,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,63
+Jackson,Precinct 7,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,73
+Jackson,Precinct 8,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,51
+Jackson,Precinct 9,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,27
+Jackson,Precinct 11,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,26
+Jackson,Precinct 12,DEM FOR COUNTY EXEC COMMITTEE,,DEM,AMANDA MORGAN,38
+Jackson,Precinct 1,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,31
+Jackson,Precinct 2,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,54
+Jackson,Precinct 3,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,100
+Jackson,Precinct 4,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,31
+Jackson,Precinct 5,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,43
+Jackson,Precinct 6,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,63
+Jackson,Precinct 7,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,61
+Jackson,Precinct 8,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,26
+Jackson,Precinct 9,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,39
+Jackson,Precinct 11,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,64
+Jackson,Precinct 12,REP FOR COUNTY EXEC COMMITTEE,,REP,MICHAEL IHLE,107
+Jackson,Precinct 1,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 2,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 3,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 4,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 5,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 6,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 7,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 8,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 9,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 11,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 12,REP FOR COUNTY EXEC COMMITTEE,,REP,NO CANDIDATE FILED,0
+Jackson,Precinct 1,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,31
+Jackson,Precinct 2,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,21
+Jackson,Precinct 3,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,32
+Jackson,Precinct 4,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,13
+Jackson,Precinct 5,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,43
+Jackson,Precinct 6,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,58
+Jackson,Precinct 7,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,68
+Jackson,Precinct 8,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,47
+Jackson,Precinct 9,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,27
+Jackson,Precinct 11,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,23
+Jackson,Precinct 12,DEM FOR COUNTY EXEC COMMITTEE,,DEM,GARY LAWSON,41
+Jackson,Precinct 1,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,22
+Jackson,Precinct 2,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,19
+Jackson,Precinct 3,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,23
+Jackson,Precinct 4,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,6
+Jackson,Precinct 5,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,30
+Jackson,Precinct 6,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,51
+Jackson,Precinct 7,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,65
+Jackson,Precinct 8,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,41
+Jackson,Precinct 9,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,26
+Jackson,Precinct 11,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,18
+Jackson,Precinct 12,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANNY MITCHELL,32
+Jackson,Precinct 10,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,30
+Jackson,Precinct 13,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,38
+Jackson,Precinct 14,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,109
+Jackson,Precinct 15,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,44
+Jackson,Precinct 16,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,98
+Jackson,Precinct 17,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,118
+Jackson,Precinct 18,REP FOR COUNTY EXEC COMMITTEE,,REP,CINDY QUILLEN MORRISON,118
+Jackson,Precinct 10,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,29
+Jackson,Precinct 13,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,25
+Jackson,Precinct 14,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,78
+Jackson,Precinct 15,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,46
+Jackson,Precinct 16,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,126
+Jackson,Precinct 17,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,108
+Jackson,Precinct 18,REP FOR COUNTY EXEC COMMITTEE,,REP,LINDA L. QUILLEN,114
+Jackson,Precinct 10,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,30
+Jackson,Precinct 13,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,26
+Jackson,Precinct 14,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,72
+Jackson,Precinct 15,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,29
+Jackson,Precinct 16,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,77
+Jackson,Precinct 17,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,71
+Jackson,Precinct 18,DEM FOR COUNTY EXEC COMMITTEE,,DEM,LADONNA A. PATTERSON,59
+Jackson,Precinct 10,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 13,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 14,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 15,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 16,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 17,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 18,DEM FOR COUNTY EXEC COMMITTEE,,DEM,NO CANDIDATE FILED,0
+Jackson,Precinct 10,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,39
+Jackson,Precinct 13,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,43
+Jackson,Precinct 14,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,111
+Jackson,Precinct 15,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,51
+Jackson,Precinct 16,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,139
+Jackson,Precinct 17,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,136
+Jackson,Precinct 18,REP FOR COUNTY EXEC COMMITTEE,,REP,DICK WAYBRIGHT,120
+Jackson,Precinct 10,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,35
+Jackson,Precinct 13,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,29
+Jackson,Precinct 14,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,87
+Jackson,Precinct 15,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,46
+Jackson,Precinct 16,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,121
+Jackson,Precinct 17,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,128
+Jackson,Precinct 18,REP FOR COUNTY EXEC COMMITTEE,,REP,JAMES TEMPLIN,137
+Jackson,Precinct 10,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,11
+Jackson,Precinct 13,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,12
+Jackson,Precinct 14,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,27
+Jackson,Precinct 15,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,10
+Jackson,Precinct 16,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,40
+Jackson,Precinct 17,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,36
+Jackson,Precinct 18,DEM FOR COUNTY EXEC COMMITTEE,,DEM,JERRY L PAYNE,32
+Jackson,Precinct 10,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,14
+Jackson,Precinct 13,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,15
+Jackson,Precinct 14,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,50
+Jackson,Precinct 15,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,20
+Jackson,Precinct 16,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,22
+Jackson,Precinct 17,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,15
+Jackson,Precinct 18,DEM FOR COUNTY EXEC COMMITTEE,,DEM,FRANKLIN W. ROUSH,17
+Jackson,Precinct 10,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,13
+Jackson,Precinct 13,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,7
+Jackson,Precinct 14,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,32
+Jackson,Precinct 15,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,10
+Jackson,Precinct 16,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,23
+Jackson,Precinct 17,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,11
+Jackson,Precinct 18,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DANIEL E. PATTERSON,14
+Jackson,Precinct 10,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,14
+Jackson,Precinct 13,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,9
+Jackson,Precinct 14,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,19
+Jackson,Precinct 15,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,7
+Jackson,Precinct 16,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,42
+Jackson,Precinct 17,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,60
+Jackson,Precinct 18,DEM FOR COUNTY EXEC COMMITTEE,,DEM,DREW PARRISH,30
+Jackson,Precinct 20,FOR MAYOR CITY OF RIPLEY,,,STEVE DONOHEW,15
+Jackson,Precinct 21,FOR MAYOR CITY OF RIPLEY,,,STEVE DONOHEW,10
+Jackson,Precinct 22,FOR MAYOR CITY OF RIPLEY,,,STEVE DONOHEW,14
+Jackson,Precinct 23,FOR MAYOR CITY OF RIPLEY,,,STEVE DONOHEW,9
+Jackson,Precinct 20,FOR MAYOR CITY OF RIPLEY,,,RICHARD H. GOBBLE II,35
+Jackson,Precinct 21,FOR MAYOR CITY OF RIPLEY,,,RICHARD H. GOBBLE II,25
+Jackson,Precinct 22,FOR MAYOR CITY OF RIPLEY,,,RICHARD H. GOBBLE II,129
+Jackson,Precinct 23,FOR MAYOR CITY OF RIPLEY,,,RICHARD H. GOBBLE II,62
+Jackson,Precinct 20,FOR MAYOR CITY OF RIPLEY,,,VINCE RIFFE,42
+Jackson,Precinct 21,FOR MAYOR CITY OF RIPLEY,,,VINCE RIFFE,19
+Jackson,Precinct 22,FOR MAYOR CITY OF RIPLEY,,,VINCE RIFFE,90
+Jackson,Precinct 23,FOR MAYOR CITY OF RIPLEY,,,VINCE RIFFE,42
+Jackson,Precinct 20,FOR MAYOR CITY OF RIPLEY,,,DWAYNE PUGH,46
+Jackson,Precinct 21,FOR MAYOR CITY OF RIPLEY,,,DWAYNE PUGH,26
+Jackson,Precinct 22,FOR MAYOR CITY OF RIPLEY,,,DWAYNE PUGH,133
+Jackson,Precinct 23,FOR MAYOR CITY OF RIPLEY,,,DWAYNE PUGH,38
+Jackson,Precinct 20,FOR CITY RECORDER CITY OF RIPLEY,,,DAVID S CASTO,101
+Jackson,Precinct 21,FOR CITY RECORDER CITY OF RIPLEY,,,DAVID S CASTO,65
+Jackson,Precinct 22,FOR CITY RECORDER CITY OF RIPLEY,,,DAVID S CASTO,287
+Jackson,Precinct 23,FOR CITY RECORDER CITY OF RIPLEY,,,DAVID S CASTO,119
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,DAVID SMITH,46
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,DAVID SMITH,38
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,DAVID SMITH,156
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,DAVID SMITH,62
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,JAMES BALL,53
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,JAMES BALL,26
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,JAMES BALL,96
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,JAMES BALL,35
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,JIM FRIDLEY,55
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,JIM FRIDLEY,37
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,JIM FRIDLEY,141
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,JIM FRIDLEY,49
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,ANTHONY CRIHFIELD JONES,29
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,ANTHONY CRIHFIELD JONES,11
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,ANTHONY CRIHFIELD JONES,45
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,ANTHONY CRIHFIELD JONES,14
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,JENNY PARSONS,60
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,JENNY PARSONS,35
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,JENNY PARSONS,211
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,JENNY PARSONS,87
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,DANNY MARTIN,64
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,DANNY MARTIN,31
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,DANNY MARTIN,162
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,DANNY MARTIN,69
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,GRACE MOORE,60
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,GRACE MOORE,19
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,GRACE MOORE,167
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,GRACE MOORE,61
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,RITCHIE GOBBLE,57
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,RITCHIE GOBBLE,34
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,RITCHIE GOBBLE,115
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,RITCHIE GOBBLE,69
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,CHERYL ARTHUR MILLER,85
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,CHERYL ARTHUR MILLER,50
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,CHERYL ARTHUR MILLER,264
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,CHERYL ARTHUR MILLER,105
+Jackson,Precinct 20,FOR CITY COUNCIL CITY OF RIPLEY,,,PHIL IMAN,30
+Jackson,Precinct 21,FOR CITY COUNCIL CITY OF RIPLEY,,,PHIL IMAN,22
+Jackson,Precinct 22,FOR CITY COUNCIL CITY OF RIPLEY,,,PHIL IMAN,73
+Jackson,Precinct 23,FOR CITY COUNCIL CITY OF RIPLEY,,,PHIL IMAN,31
