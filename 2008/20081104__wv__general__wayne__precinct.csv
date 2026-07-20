@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,votes
 Wayne,Wayne01,Attorney General,,Dan Greear,REP,179
 Wayne,Wayne03,Attorney General,,Dan Greear,REP,144
 Wayne,Wayne05,Attorney General,,Dan Greear,REP,178
@@ -36,7 +36,6 @@ Wayne,Wayne60 Hunt,Attorney General,,Dan Greear,REP,218
 Wayne,Wayne61 Hunt,Attorney General,,Dan Greear,REP,187
 Wayne,Wayne62,Attorney General,,Dan Greear,REP,338
 Wayne,Wayne63 Hunt,Attorney General,,Dan Greear,REP,146
-Wayne,,Attorney General,,Dan Greear,REP,6429
 Wayne,Wayne01,Attorney General,,Darrell McGraw,DEM,324
 Wayne,Wayne03,Attorney General,,Darrell McGraw,DEM,184
 Wayne,Wayne05,Attorney General,,Darrell McGraw,DEM,252
@@ -74,7 +73,6 @@ Wayne,Wayne60 Hunt,Attorney General,,Darrell McGraw,DEM,206
 Wayne,Wayne61 Hunt,Attorney General,,Darrell McGraw,DEM,188
 Wayne,Wayne62,Attorney General,,Darrell McGraw,DEM,270
 Wayne,Wayne63 Hunt,Attorney General,,Darrell McGraw,DEM,167
-Wayne,,Attorney General,,Darrell McGraw,DEM,7985
 Wayne,Wayne01,Attorney General,,Write-ins,,0
 Wayne,Wayne03,Attorney General,,Write-ins,,0
 Wayne,Wayne05,Attorney General,,Write-ins,,0
@@ -112,7 +110,6 @@ Wayne,Wayne60 Hunt,Attorney General,,Write-ins,,0
 Wayne,Wayne61 Hunt,Attorney General,,Write-ins,,0
 Wayne,Wayne62,Attorney General,,Write-ins,,0
 Wayne,Wayne63 Hunt,Attorney General,,Write-ins,,0
-Wayne,,Attorney General,,Write-ins,,2
 Wayne,Wayne01,Commissioner of Agriculture,,Gus Douglass,DEM,318
 Wayne,Wayne03,Commissioner of Agriculture,,Gus Douglass,DEM,186
 Wayne,Wayne05,Commissioner of Agriculture,,Gus Douglass,DEM,271
@@ -150,7 +147,6 @@ Wayne,Wayne60 Hunt,Commissioner of Agriculture,,Gus Douglass,DEM,208
 Wayne,Wayne61 Hunt,Commissioner of Agriculture,,Gus Douglass,DEM,185
 Wayne,Wayne62,Commissioner of Agriculture,,Gus Douglass,DEM,291
 Wayne,Wayne63 Hunt,Commissioner of Agriculture,,Gus Douglass,DEM,154
-Wayne,,Commissioner of Agriculture,,Gus Douglass,DEM,8003
 Wayne,Wayne01,Commissioner of Agriculture,,Michael Teets,REP,164
 Wayne,Wayne03,Commissioner of Agriculture,,Michael Teets,REP,132
 Wayne,Wayne05,Commissioner of Agriculture,,Michael Teets,REP,146
@@ -188,7 +184,6 @@ Wayne,Wayne60 Hunt,Commissioner of Agriculture,,Michael Teets,REP,188
 Wayne,Wayne61 Hunt,Commissioner of Agriculture,,Michael Teets,REP,163
 Wayne,Wayne62,Commissioner of Agriculture,,Michael Teets,REP,271
 Wayne,Wayne63 Hunt,Commissioner of Agriculture,,Michael Teets,REP,146
-Wayne,,Commissioner of Agriculture,,Michael Teets,REP,5724
 Wayne,Wayne01,Commissioner of Agriculture,,Write-ins,,0
 Wayne,Wayne03,Commissioner of Agriculture,,Write-ins,,0
 Wayne,Wayne05,Commissioner of Agriculture,,Write-ins,,0
@@ -226,7 +221,6 @@ Wayne,Wayne60 Hunt,Commissioner of Agriculture,,Write-ins,,0
 Wayne,Wayne61 Hunt,Commissioner of Agriculture,,Write-ins,,0
 Wayne,Wayne62,Commissioner of Agriculture,,Write-ins,,0
 Wayne,Wayne63 Hunt,Commissioner of Agriculture,,Write-ins,,0
-Wayne,,Commissioner of Agriculture,,Write-ins,,6
 Wayne,Wayne01,Governor,,Jesse Johnson,MTN,13
 Wayne,Wayne03,Governor,,Jesse Johnson,MTN,10
 Wayne,Wayne05,Governor,,Jesse Johnson,MTN,9
@@ -264,7 +258,6 @@ Wayne,Wayne60 Hunt,Governor,,Jesse Johnson,MTN,7
 Wayne,Wayne61 Hunt,Governor,,Jesse Johnson,MTN,16
 Wayne,Wayne62,Governor,,Jesse Johnson,MTN,13
 Wayne,Wayne63 Hunt,Governor,,Jesse Johnson,MTN,9
-Wayne,,Governor,,Jesse Johnson,MTN,374
 Wayne,Wayne01,Governor,,Joe Manchin,DEM,436
 Wayne,Wayne03,Governor,,Joe Manchin,DEM,254
 Wayne,Wayne05,Governor,,Joe Manchin,DEM,357
@@ -302,7 +295,6 @@ Wayne,Wayne60 Hunt,Governor,,Joe Manchin,DEM,362
 Wayne,Wayne61 Hunt,Governor,,Joe Manchin,DEM,301
 Wayne,Wayne62,Governor,,Joe Manchin,DEM,474
 Wayne,Wayne63 Hunt,Governor,,Joe Manchin,DEM,255
-Wayne,,Governor,,Joe Manchin,DEM,11793
 Wayne,Wayne01,Governor,,Russ Weeks,REP,101
 Wayne,Wayne03,Governor,,Russ Weeks,REP,87
 Wayne,Wayne05,Governor,,Russ Weeks,REP,95
@@ -340,7 +332,6 @@ Wayne,Wayne60 Hunt,Governor,,Russ Weeks,REP,89
 Wayne,Wayne61 Hunt,Governor,,Russ Weeks,REP,69
 Wayne,Wayne62,Governor,,Russ Weeks,REP,148
 Wayne,Wayne63 Hunt,Governor,,Russ Weeks,REP,65
-Wayne,,Governor,,Russ Weeks,REP,3132
 Wayne,Wayne01,Governor,,Write-ins,,0
 Wayne,Wayne03,Governor,,Write-ins,,0
 Wayne,Wayne05,Governor,,Write-ins,,0
@@ -378,19 +369,16 @@ Wayne,Wayne60 Hunt,Governor,,Write-ins,,0
 Wayne,Wayne61 Hunt,Governor,,Write-ins,,0
 Wayne,Wayne62,Governor,,Write-ins,,0
 Wayne,Wayne63 Hunt,Governor,,Write-ins,,1
-Wayne,,Governor,,Write-ins,,12
 Wayne,Wayne56,State House,16,Amy Herrenkohl,DEM,246
 Wayne,Wayne59 Hunt,State House,16,Amy Herrenkohl,DEM,165
 Wayne,Wayne60 Hunt,State House,16,Amy Herrenkohl,DEM,166
 Wayne,Wayne61 Hunt,State House,16,Amy Herrenkohl,DEM,142
 Wayne,Wayne63 Hunt,State House,16,Amy Herrenkohl,DEM,143
-Wayne,,State House,16,Amy Herrenkohl,DEM,862
 Wayne,Wayne56,State House,16,Dale Stephens,DEM,429
 Wayne,Wayne59 Hunt,State House,16,Dale Stephens,DEM,283
 Wayne,Wayne60 Hunt,State House,16,Dale Stephens,DEM,317
 Wayne,Wayne61 Hunt,State House,16,Dale Stephens,DEM,256
 Wayne,Wayne63 Hunt,State House,16,Dale Stephens,DEM,228
-Wayne,,State House,16,Dale Stephens,DEM,1513
 Wayne,Wayne01,State House,17,Don Perdue,DEM,340
 Wayne,Wayne03,State House,17,Don Perdue,DEM,185
 Wayne,Wayne05,State House,17,Don Perdue,DEM,313
@@ -421,19 +409,16 @@ Wayne,Wayne53,State House,17,Don Perdue,DEM,274
 Wayne,Wayne54,State House,17,Don Perdue,DEM,238
 Wayne,Wayne57,State House,17,Don Perdue,DEM,205
 Wayne,Wayne62,State House,17,Don Perdue,DEM,313
-Wayne,,State House,17,Don Perdue,DEM,7121
 Wayne,Wayne56,State House,16,Doug Reynolds,DEM,439
 Wayne,Wayne59 Hunt,State House,16,Doug Reynolds,DEM,309
 Wayne,Wayne60 Hunt,State House,16,Doug Reynolds,DEM,333
 Wayne,Wayne61 Hunt,State House,16,Doug Reynolds,DEM,270
 Wayne,Wayne63 Hunt,State House,16,Doug Reynolds,DEM,207
-Wayne,,State House,16,Doug Reynolds,DEM,1558
 Wayne,Wayne56,State House,16,Kelli Sobonya,REP,383
 Wayne,Wayne59 Hunt,State House,16,Kelli Sobonya,REP,241
 Wayne,Wayne60 Hunt,State House,16,Kelli Sobonya,REP,230
 Wayne,Wayne61 Hunt,State House,16,Kelli Sobonya,REP,199
 Wayne,Wayne63 Hunt,State House,16,Kelli Sobonya,REP,171
-Wayne,,State House,16,Kelli Sobonya,REP,1224
 Wayne,Wayne01,State House,17,Lisa Peana,REP,155
 Wayne,Wayne03,State House,17,Lisa Peana,REP,135
 Wayne,Wayne05,State House,17,Lisa Peana,REP,164
@@ -464,7 +449,6 @@ Wayne,Wayne53,State House,17,Lisa Peana,REP,178
 Wayne,Wayne54,State House,17,Lisa Peana,REP,139
 Wayne,Wayne57,State House,17,Lisa Peana,REP,168
 Wayne,Wayne62,State House,17,Lisa Peana,REP,274
-Wayne,,State House,17,Lisa Peana,REP,4624
 Wayne,Wayne01,State House,17,Richard Thompson,DEM,380
 Wayne,Wayne03,State House,17,Richard Thompson,DEM,229
 Wayne,Wayne05,State House,17,Richard Thompson,DEM,291
@@ -495,16 +479,13 @@ Wayne,Wayne53,State House,17,Richard Thompson,DEM,353
 Wayne,Wayne54,State House,17,Richard Thompson,DEM,289
 Wayne,Wayne57,State House,17,Richard Thompson,DEM,274
 Wayne,Wayne62,State House,17,Richard Thompson,DEM,397
-Wayne,,State House,17,Richard Thompson,DEM,8108
 Wayne,Wayne34,State House,20,Steven Kominar,DEM,244
 Wayne,Wayne37,State House,20,Steven Kominar,DEM,251
-Wayne,,State House,20,Steven Kominar,DEM,495
 Wayne,Wayne56,State House,16,Write-ins,,1
 Wayne,Wayne59 Hunt,State House,16,Write-ins,,0
 Wayne,Wayne60 Hunt,State House,16,Write-ins,,0
 Wayne,Wayne61 Hunt,State House,16,Write-ins,,0
 Wayne,Wayne63 Hunt,State House,16,Write-ins,,0
-Wayne,,State House,16,Write-ins,,1
 Wayne,Wayne01,State House,17,Write-ins,,0
 Wayne,Wayne03,State House,17,Write-ins,,0
 Wayne,Wayne05,State House,17,Write-ins,,0
@@ -537,7 +518,6 @@ Wayne,Wayne57,State House,17,Write-ins,,2
 Wayne,Wayne62,State House,17,Write-ins,,0
 Wayne,Wayne34,State House,20,Write-ins,,0
 Wayne,Wayne37,State House,20,Write-ins,,0
-Wayne,,State House,17,Write-ins,,9
 Wayne,Wayne01,President,,Barack Obama,DEM,225
 Wayne,Wayne03,President,,Barack Obama,DEM,137
 Wayne,Wayne05,President,,Barack Obama,DEM,208
@@ -575,7 +555,6 @@ Wayne,Wayne60 Hunt,President,,Barack Obama,DEM,179
 Wayne,Wayne61 Hunt,President,,Barack Obama,DEM,144
 Wayne,Wayne62,President,,Barack Obama,DEM,225
 Wayne,Wayne63 Hunt,President,,Barack Obama,DEM,127
-Wayne,,President,,Barack Obama,DEM,6137
 Wayne,Wayne01,President,,Chuck Baldwin,CON,2
 Wayne,Wayne03,President,,Chuck Baldwin,CON,1
 Wayne,Wayne05,President,,Chuck Baldwin,CON,2
@@ -613,7 +592,6 @@ Wayne,Wayne60 Hunt,President,,Chuck Baldwin,CON,0
 Wayne,Wayne61 Hunt,President,,Chuck Baldwin,CON,1
 Wayne,Wayne62,President,,Chuck Baldwin,CON,5
 Wayne,Wayne63 Hunt,President,,Chuck Baldwin,CON,3
-Wayne,,President,City,Chuck Baldwin,CON,110
 Wayne,Wayne01,President,,Cynthia McKinney,MTN,4
 Wayne,Wayne03,President,,Cynthia McKinney,MTN,2
 Wayne,Wayne05,President,,Cynthia McKinney,MTN,3
@@ -651,7 +629,6 @@ Wayne,Wayne60 Hunt,President,,Cynthia McKinney,MTN,0
 Wayne,Wayne61 Hunt,President,,Cynthia McKinney,MTN,2
 Wayne,Wayne62,President,,Cynthia McKinney,MTN,1
 Wayne,Wayne63 Hunt,President,,Cynthia McKinney,MTN,2
-Wayne,,President,,Cynthia McKinney,MTN,58
 Wayne,Wayne01,President,,John McCain,REP,325
 Wayne,Wayne03,President,,John McCain,REP,201
 Wayne,Wayne05,President,,John McCain,REP,245
@@ -689,7 +666,6 @@ Wayne,Wayne60 Hunt,President,,John McCain,REP,280
 Wayne,Wayne61 Hunt,President,,John McCain,REP,227
 Wayne,Wayne62,President,,John McCain,REP,414
 Wayne,Wayne63 Hunt,President,,John McCain,REP,187
-Wayne,,President,,John McCain,REP,8947
 Wayne,Wayne01,President,,Ralph Nader,NA,4
 Wayne,Wayne03,President,,Ralph Nader,NA,11
 Wayne,Wayne05,President,,Ralph Nader,NA,4
@@ -727,7 +703,6 @@ Wayne,Wayne60 Hunt,President,,Ralph Nader,NA,1
 Wayne,Wayne61 Hunt,President,,Ralph Nader,NA,8
 Wayne,Wayne62,President,,Ralph Nader,NA,2
 Wayne,Wayne63 Hunt,President,,Ralph Nader,NA,5
-Wayne,,President,,Ralph Nader,NA,174
 Wayne,Wayne01,President,,Write-ins,,1
 Wayne,Wayne03,President,,Write-ins,,3
 Wayne,Wayne05,President,,Write-ins,,1
@@ -765,7 +740,6 @@ Wayne,Wayne60 Hunt,President,,Write-ins,,3
 Wayne,Wayne61 Hunt,President,,Write-ins,,0
 Wayne,Wayne62,President,,Write-ins,,2
 Wayne,Wayne63 Hunt,President,,Write-ins,,3
-Wayne,,President,,Write-ins,,61
 Wayne,Wayne01,Secretary of State,,Charles Minimah,REP,149
 Wayne,Wayne03,Secretary of State,,Charles Minimah,REP,107
 Wayne,Wayne05,Secretary of State,,Charles Minimah,REP,135
@@ -803,7 +777,6 @@ Wayne,Wayne60 Hunt,Secretary of State,,Charles Minimah,REP,145
 Wayne,Wayne61 Hunt,Secretary of State,,Charles Minimah,REP,112
 Wayne,Wayne62,Secretary of State,,Charles Minimah,REP,236
 Wayne,Wayne63 Hunt,Secretary of State,,Charles Minimah,REP,122
-Wayne,,Secretary of State,,Charles Minimah,REP,4661
 Wayne,Wayne01,Secretary of State,,Natalie Tennant,DEM,339
 Wayne,Wayne03,Secretary of State,,Natalie Tennant,DEM,204
 Wayne,Wayne05,Secretary of State,,Natalie Tennant,DEM,285
@@ -841,7 +814,6 @@ Wayne,Wayne60 Hunt,Secretary of State,,Natalie Tennant,DEM,265
 Wayne,Wayne61 Hunt,Secretary of State,,Natalie Tennant,DEM,239
 Wayne,Wayne62,Secretary of State,,Natalie Tennant,DEM,337
 Wayne,Wayne63 Hunt,Secretary of State,,Natalie Tennant,DEM,180
-Wayne,,Secretary of State,,Natalie Tennant,DEM,9111
 Wayne,Wayne01,Secretary of State,,Write-ins,,0
 Wayne,Wayne03,Secretary of State,,Write-ins,,0
 Wayne,Wayne05,Secretary of State,,Write-ins,,0
@@ -879,7 +851,6 @@ Wayne,Wayne60 Hunt,Secretary of State,,Write-ins,,0
 Wayne,Wayne61 Hunt,Secretary of State,,Write-ins,,0
 Wayne,Wayne62,Secretary of State,,Write-ins,,0
 Wayne,Wayne63 Hunt,Secretary of State,,Write-ins,,0
-Wayne,,Secretary of State,,Write-ins,,10
 Wayne,Wayne01,State Auditor,,Glen Gainer,DEM,394
 Wayne,Wayne03,State Auditor,,Glen Gainer,DEM,226
 Wayne,Wayne05,State Auditor,,Glen Gainer,DEM,333
@@ -917,7 +888,6 @@ Wayne,Wayne60 Hunt,State Auditor,,Glen Gainer,DEM,331
 Wayne,Wayne61 Hunt,State Auditor,,Glen Gainer,DEM,281
 Wayne,Wayne62,State Auditor,,Glen Gainer,DEM,434
 Wayne,Wayne63 Hunt,State Auditor,,Glen Gainer,DEM,250
-Wayne,,State Auditor,,Glen Gainer,DEM,10844
 Wayne,Wayne01,State Auditor,,Write-ins,,0
 Wayne,Wayne03,State Auditor,,Write-ins,,1
 Wayne,Wayne05,State Auditor,,Write-ins,,0
@@ -955,7 +925,6 @@ Wayne,Wayne60 Hunt,State Auditor,,Write-ins,,0
 Wayne,Wayne61 Hunt,State Auditor,,Write-ins,,0
 Wayne,Wayne62,State Auditor,,Write-ins,,1
 Wayne,Wayne63 Hunt,State Auditor,,Write-ins,,1
-Wayne,,State Auditor,,Write-ins,,29
 Wayne,Wayne19,State Senate,7,Billy Marcum,REP,219
 Wayne,Wayne22,State Senate,7,Billy Marcum,REP,127
 Wayne,Wayne30,State Senate,7,Billy Marcum,REP,102
@@ -970,7 +939,6 @@ Wayne,Wayne52,State Senate,7,Billy Marcum,REP,66
 Wayne,Wayne53,State Senate,7,Billy Marcum,REP,154
 Wayne,Wayne54,State Senate,7,Billy Marcum,REP,88
 Wayne,Wayne57,State Senate,7,Billy Marcum,REP,153
-Wayne,,State Senate,7,Billy Marcum,REP,1762
 Wayne,Wayne11,State Senate,5,Bob Plymale,DEM,200
 Wayne,Wayne12,State Senate,5,Bob Plymale,DEM,267
 Wayne,Wayne56,State Senate,5,Bob Plymale,DEM,475
@@ -978,7 +946,6 @@ Wayne,Wayne59 Hunt,State Senate,5,Bob Plymale,DEM,309
 Wayne,Wayne60 Hunt,State Senate,5,Bob Plymale,DEM,298
 Wayne,Wayne61 Hunt,State Senate,5,Bob Plymale,DEM,274
 Wayne,Wayne63 Hunt,State Senate,5,Bob Plymale,DEM,204
-Wayne,,State Senate,5,Bob Plymale,DEM,2027
 Wayne,Wayne19,State Senate,7,Earl Ray Tomblin,DEM,290
 Wayne,Wayne22,State Senate,7,Earl Ray Tomblin,DEM,185
 Wayne,Wayne30,State Senate,7,Earl Ray Tomblin,DEM,152
@@ -993,7 +960,6 @@ Wayne,Wayne52,State Senate,7,Earl Ray Tomblin,DEM,146
 Wayne,Wayne53,State Senate,7,Earl Ray Tomblin,DEM,265
 Wayne,Wayne54,State Senate,7,Earl Ray Tomblin,DEM,270
 Wayne,Wayne57,State Senate,7,Earl Ray Tomblin,DEM,200
-Wayne,,State Senate,7,Earl Ray Tomblin,Cast,3367
 Wayne,Wayne01,State Senate,6,John Pat Fanning,DEM,228
 Wayne,Wayne03,State Senate,6,John Pat Fanning,DEM,103
 Wayne,Wayne05,State Senate,6,John Pat Fanning,DEM,180
@@ -1010,7 +976,6 @@ Wayne,Wayne34,State Senate,6,John Pat Fanning,DEM,201
 Wayne,Wayne36,State Senate,6,John Pat Fanning,DEM,162
 Wayne,Wayne37,State Senate,6,John Pat Fanning,DEM,196
 Wayne,Wayne62,State Senate,6,John Pat Fanning,DEM,193
-Wayne,,State Senate,6,John Pat Fanning,DEM,2601
 Wayne,Wayne01,State Senate,6,Mark Maynard,REP,262
 Wayne,Wayne03,State Senate,6,Mark Maynard,REP,233
 Wayne,Wayne05,State Senate,6,Mark Maynard,REP,231
@@ -1027,7 +992,6 @@ Wayne,Wayne34,State Senate,6,Mark Maynard,REP,122
 Wayne,Wayne36,State Senate,6,Mark Maynard,REP,196
 Wayne,Wayne37,State Senate,6,Mark Maynard,REP,153
 Wayne,Wayne62,State Senate,6,Mark Maynard,REP,357
-Wayne,,State Senate,6,Mark Maynard,REP,3354
 Wayne,Wayne11,State Senate,5,Stephen Hall,REP,74
 Wayne,Wayne12,State Senate,5,Stephen Hall,REP,61
 Wayne,Wayne56,State Senate,5,Stephen Hall,REP,204
@@ -1035,7 +999,6 @@ Wayne,Wayne59 Hunt,State Senate,5,Stephen Hall,REP,115
 Wayne,Wayne60 Hunt,State Senate,5,Stephen Hall,REP,142
 Wayne,Wayne61 Hunt,State Senate,5,Stephen Hall,REP,104
 Wayne,Wayne63 Hunt,State Senate,5,Stephen Hall,REP,116
-Wayne,,State Senate,5,Stephen Hall,REP,816
 Wayne,Wayne01,State Senate,6,Write-ins,,1
 Wayne,Wayne03,State Senate,6,Write-ins,,0
 Wayne,Wayne05,State Senate,6,Write-ins,,0
@@ -1073,9 +1036,6 @@ Wayne,Wayne60 Hunt,State Senate,5,Write-ins,,0
 Wayne,Wayne61 Hunt,State Senate,5,Write-ins,,0
 Wayne,Wayne62,State Senate,6,Write-ins,,0
 Wayne,Wayne63 Hunt,State Senate,5,Write-ins,,0
-Wayne,,State Senate,5,Write-ins,,
-Wayne,,State Senate,6,Write-ins,,
-Wayne,,State Senate,7,Write-ins,,
 Wayne,Wayne01,Treasurer,,John Perdue,DEM,422
 Wayne,Wayne03,Treasurer,,John Perdue,DEM,243
 Wayne,Wayne05,Treasurer,,John Perdue,DEM,348
@@ -1113,7 +1073,6 @@ Wayne,Wayne60 Hunt,Treasurer,,John Perdue,DEM,347
 Wayne,Wayne61 Hunt,Treasurer,,John Perdue,DEM,278
 Wayne,Wayne62,Treasurer,,John Perdue,DEM,433
 Wayne,Wayne63 Hunt,Treasurer,,John Perdue,DEM,255
-Wayne,,Treasurer,,John Perdue,DEM,11125
 Wayne,Wayne01,Treasurer,,Write-ins,,0
 Wayne,Wayne03,Treasurer,,Write-ins,,1
 Wayne,Wayne05,Treasurer,,Write-ins,,0
@@ -1151,7 +1110,6 @@ Wayne,Wayne60 Hunt,Treasurer,,Write-ins,,1
 Wayne,Wayne61 Hunt,Treasurer,,Write-ins,,0
 Wayne,Wayne62,Treasurer,,Write-ins,,3
 Wayne,Wayne63 Hunt,Treasurer,,Write-ins,,2
-Wayne,,Treasurer,,Write-ins,,34
 Wayne,Wayne01,U.S. House,3,Marty Gearhart,REP,152
 Wayne,Wayne03,U.S. House,3,Marty Gearhart,REP,110
 Wayne,Wayne05,U.S. House,3,Marty Gearhart,REP,126
@@ -1189,7 +1147,6 @@ Wayne,Wayne60 Hunt,U.S. House,3,Marty Gearhart,REP,157
 Wayne,Wayne61 Hunt,U.S. House,3,Marty Gearhart,REP,135
 Wayne,Wayne62,U.S. House,3,Marty Gearhart,REP,244
 Wayne,Wayne63 Hunt,U.S. House,3,Marty Gearhart,REP,103
-Wayne,,U.S. House,3,Marty Gearhart,REP,4784
 Wayne,Wayne01,U.S. House,3,Nick Joe Rahall,DEM,368
 Wayne,Wayne03,U.S. House,3,Nick Joe Rahall,DEM,223
 Wayne,Wayne05,U.S. House,3,Nick Joe Rahall,DEM,301
@@ -1227,7 +1184,6 @@ Wayne,Wayne60 Hunt,U.S. House,3,Nick Joe Rahall,DEM,272
 Wayne,Wayne61 Hunt,U.S. House,3,Nick Joe Rahall,DEM,238
 Wayne,Wayne62,U.S. House,3,Nick Joe Rahall,DEM,367
 Wayne,Wayne63 Hunt,U.S. House,3,Nick Joe Rahall,DEM,211
-Wayne,,U,3,Nick Joe Rahall,DEM,9755
 Wayne,Wayne01,U.S. House,3,Write-ins,,0
 Wayne,Wayne03,U.S. House,3,Write-ins,,0
 Wayne,Wayne05,U.S. House,3,Write-ins,,0
@@ -1265,7 +1221,6 @@ Wayne,Wayne60 Hunt,U.S. House,3,Write-ins,,0
 Wayne,Wayne61 Hunt,U.S. House,3,Write-ins,,0
 Wayne,Wayne62,U.S. House,3,Write-ins,,1
 Wayne,Wayne63 Hunt,U.S. House,3,Write-ins,,0
-Wayne,,U.S. House,3,Write-ins,,13
 Wayne,Wayne01,U.S. Senate,,Jay Rockefeller,DEM,351
 Wayne,Wayne03,U.S. Senate,,Jay Rockefeller,DEM,220
 Wayne,Wayne05,U.S. Senate,,Jay Rockefeller,DEM,289
@@ -1303,7 +1258,6 @@ Wayne,Wayne60 Hunt,U.S. Senate,,Jay Rockefeller,DEM,269
 Wayne,Wayne61 Hunt,U.S. Senate,,Jay Rockefeller,DEM,241
 Wayne,Wayne62,U.S. Senate,,Jay Rockefeller,DEM,354
 Wayne,Wayne63 Hunt,U.S. Senate,,Jay Rockefeller,DEM,194
-Wayne,,U.S. Senate,,Jay Rockefeller,DEM,9450
 Wayne,Wayne01,U.S. Senate,,Jay Wolfe,REP,180
 Wayne,Wayne03,U.S. Senate,,Jay Wolfe,REP,122
 Wayne,Wayne05,U.S. Senate,,Jay Wolfe,REP,151
@@ -1341,7 +1295,6 @@ Wayne,Wayne60 Hunt,U.S. Senate,,Jay Wolfe,REP,178
 Wayne,Wayne61 Hunt,U.S. Senate,,Jay Wolfe,REP,141
 Wayne,Wayne62,U.S. Senate,,Jay Wolfe,REP,272
 Wayne,Wayne63 Hunt,U.S. Senate,,Jay Wolfe,REP,129
-Wayne,,U.S. Senate,,Jay Wolfe,REP,5437
 Wayne,Wayne01,U.S. Senate,,Write-ins,,1
 Wayne,Wayne03,U.S. Senate,,Write-ins,,0
 Wayne,Wayne05,U.S. Senate,,Write-ins,,0
@@ -1379,7 +1332,6 @@ Wayne,Wayne60 Hunt,U.S. Senate,,Write-ins,,0
 Wayne,Wayne61 Hunt,U.S. Senate,,Write-ins,,1
 Wayne,Wayne62,U.S. Senate,,Write-ins,,1
 Wayne,Wayne63 Hunt,U.S. Senate,,Write-ins,,0
-Wayne,,U.S. Senate,,Write-ins,,16
 Wayne,Wayne01,Voters,,Registered,,1198
 Wayne,Wayne03,Voters,,Registered,,665
 Wayne,Wayne05,Voters,,Registered,,897
@@ -1417,7 +1369,6 @@ Wayne,Wayne60 Hunt,Voters,,Registered,,776
 Wayne,Wayne61 Hunt,Voters,,Registered,,610
 Wayne,Wayne62,Voters,,Registered,,1085
 Wayne,Wayne63 Hunt,Voters,,Registered,,540
-Wayne,,Voters,,Registered,,28856
 Wayne,Wayne01,Voters,,Ballots,,584
 Wayne,Wayne03,Voters,,Ballots,,374
 Wayne,Wayne05,Voters,,Ballots,,478
@@ -1455,4 +1406,3 @@ Wayne,Wayne60 Hunt,Voters,,Ballots,,476
 Wayne,Wayne61 Hunt,Voters,,Ballots,,401
 Wayne,Wayne62,Voters,,Ballots,,665
 Wayne,Wayne63 Hunt,Voters,,Ballots,,338
-Wayne,,Voters,,Ballots,,16044

@@ -43,7 +43,6 @@ Marshall,56,President,,Donald J. Trump,REP,174
 Marshall,58,President,,Donald J. Trump,REP,118
 Marshall,60,President,,Donald J. Trump,REP,240
 Marshall,61,President,,Donald J. Trump,REP,108
-Marshall,,President,,Donald J. Trump,REP,9666
 Marshall,1,President,,Hillary Clinton,DEM,94
 Marshall,4,President,,Hillary Clinton,DEM,79
 Marshall,6,President,,Hillary Clinton,DEM,41
@@ -88,7 +87,6 @@ Marshall,56,President,,Hillary Clinton,DEM,52
 Marshall,58,President,,Hillary Clinton,DEM,20
 Marshall,60,President,,Hillary Clinton,DEM,35
 Marshall,61,President,,Hillary Clinton,DEM,13
-Marshall,,President,,Hillary Clinton,DEM,2918
 Marshall,1,President,,Gary Johnson,LIB,16
 Marshall,4,President,,Gary Johnson,LIB,10
 Marshall,6,President,,Gary Johnson,LIB,5
@@ -133,7 +131,6 @@ Marshall,56,President,,Gary Johnson,LIB,9
 Marshall,58,President,,Gary Johnson,LIB,9
 Marshall,60,President,,Gary Johnson,LIB,8
 Marshall,61,President,,Gary Johnson,LIB,0
-Marshall,,President,,Gary Johnson,LIB,418
 Marshall,1,President,,Jill Stein,MTN,2
 Marshall,4,President,,Jill Stein,MTN,1
 Marshall,6,President,,Jill Stein,MTN,1
@@ -178,7 +175,6 @@ Marshall,56,President,,Jill Stein,MTN,6
 Marshall,58,President,,Jill Stein,MTN,1
 Marshall,60,President,,Jill Stein,MTN,0
 Marshall,61,President,,Jill Stein,MTN,0
-Marshall,,President,,Jill Stein,MTN,153
 Marshall,1,President,,Darrell L. Castle,CST,2
 Marshall,4,President,,Darrell L. Castle,CST,4
 Marshall,6,President,,Darrell L. Castle,CST,3
@@ -223,7 +219,6 @@ Marshall,56,President,,Darrell L. Castle,CST,0
 Marshall,58,President,,Darrell L. Castle,CST,1
 Marshall,60,President,,Darrell L. Castle,CST,1
 Marshall,61,President,,Darrell L. Castle,CST,2
-Marshall,,President,,Darrell L. Castle,CST,61
 Marshall,1,President,,Write-ins,,7
 Marshall,4,President,,Write-ins,,6
 Marshall,6,President,,Write-ins,,5
@@ -268,7 +263,6 @@ Marshall,56,President,,Write-ins,,0
 Marshall,58,President,,Write-ins,,1
 Marshall,60,President,,Write-ins,,1
 Marshall,61,President,,Write-ins,,1
-Marshall,,President,,Write-ins,,137
 Marshall,1,U.S House,1,David B. Mckinley,REP,217
 Marshall,4,U.S House,1,David B. Mckinley,REP,322
 Marshall,6,U.S House,1,David B. Mckinley,REP,151
@@ -313,7 +307,6 @@ Marshall,56,U.S House,1,David B. Mckinley,REP,180
 Marshall,58,U.S House,1,David B. Mckinley,REP,119
 Marshall,60,U.S House,1,David B. Mckinley,REP,240
 Marshall,61,U.S House,1,David B. Mckinley,REP,102
-Marshall,,U.S House,1,David B. Mckinley,REP,10404
 Marshall,1,U.S House,1,Mike Manypenny,DEM,88
 Marshall,4,U.S House,1,Mike Manypenny,DEM,63
 Marshall,6,U.S House,1,Mike Manypenny,DEM,39
@@ -358,7 +351,6 @@ Marshall,56,U.S House,1,Mike Manypenny,DEM,58
 Marshall,58,U.S House,1,Mike Manypenny,DEM,28
 Marshall,60,U.S House,1,Mike Manypenny,DEM,37
 Marshall,61,U.S House,1,Mike Manypenny,DEM,18
-Marshall,,U.S House,1,Mike Manypenny,DEM,2496
 Marshall,1,U.S House,1,Write-ins,,1
 Marshall,4,U.S House,1,Write-ins,,1
 Marshall,6,U.S House,1,Write-ins,,0
@@ -403,7 +395,6 @@ Marshall,56,U.S House,1,Write-ins,,0
 Marshall,58,U.S House,1,Write-ins,,0
 Marshall,60,U.S House,1,Write-ins,,0
 Marshall,61,U.S House,1,Write-ins,,1
-Marshall,,U.S House,1,Write-ins,,7
 Marshall,1,Governor,,Bill Cole,REP,124
 Marshall,4,Governor,,Bill Cole,REP,193
 Marshall,6,Governor,,Bill Cole,REP,77
@@ -448,7 +439,6 @@ Marshall,56,Governor,,Bill Cole,REP,90
 Marshall,58,Governor,,Bill Cole,REP,67
 Marshall,60,Governor,,Bill Cole,REP,122
 Marshall,61,Governor,,Bill Cole,REP,49
-Marshall,,Governor,,Bill Cole,REP,5696
 Marshall,1,Governor,,Jim Justice,DEM,150
 Marshall,4,Governor,,Jim Justice,DEM,172
 Marshall,6,Governor,,Jim Justice,DEM,106
@@ -493,7 +483,6 @@ Marshall,56,Governor,,Jim Justice,DEM,123
 Marshall,58,Governor,,Jim Justice,DEM,75
 Marshall,60,Governor,,Jim Justice,DEM,136
 Marshall,61,Governor,,Jim Justice,DEM,66
-Marshall,,Governor,,Jim Justice,DEM,6491
 Marshall,1,Governor,,David Moran,LIB,9
 Marshall,4,Governor,,David Moran,LIB,6
 Marshall,6,Governor,,David Moran,LIB,1
@@ -538,7 +527,6 @@ Marshall,56,Governor,,David Moran,LIB,5
 Marshall,58,Governor,,David Moran,LIB,4
 Marshall,60,Governor,,David Moran,LIB,6
 Marshall,61,Governor,,David Moran,LIB,3
-Marshall,,Governor,,David Moran,LIB,229
 Marshall,1,Governor,,Charlotte Jean Pritt,MTN,26
 Marshall,4,Governor,,Charlotte Jean Pritt,MTN,21
 Marshall,6,Governor,,Charlotte Jean Pritt,MTN,15
@@ -583,7 +571,6 @@ Marshall,56,Governor,,Charlotte Jean Pritt,MTN,18
 Marshall,58,Governor,,Charlotte Jean Pritt,MTN,3
 Marshall,60,Governor,,Charlotte Jean Pritt,MTN,11
 Marshall,61,Governor,,Charlotte Jean Pritt,MTN,5
-Marshall,,Governor,,Charlotte Jean Pritt,MTN,640
 Marshall,1,Governor,,Phil Hudok,CST,0
 Marshall,4,Governor,,Phil Hudok,CST,1
 Marshall,6,Governor,,Phil Hudok,CST,0
@@ -628,7 +615,6 @@ Marshall,56,Governor,,Phil Hudok,CST,4
 Marshall,58,Governor,,Phil Hudok,CST,1
 Marshall,60,Governor,,Phil Hudok,CST,1
 Marshall,61,Governor,,Phil Hudok,CST,0
-Marshall,,Governor,,Phil Hudok,CST,69
 Marshall,1,Governor,,Write-ins,,0
 Marshall,4,Governor,,Write-ins,,0
 Marshall,6,Governor,,Write-ins,,1
@@ -673,7 +659,6 @@ Marshall,56,Governor,,Write-ins,,0
 Marshall,58,Governor,,Write-ins,,0
 Marshall,60,Governor,,Write-ins,,0
 Marshall,61,Governor,,Write-ins,,0
-Marshall,,Governor,,Write-ins,,15
 Marshall,1,Secretary of State,,Mac Warner,REP,124
 Marshall,4,Secretary of State,,Mac Warner,REP,184
 Marshall,6,Secretary of State,,Mac Warner,REP,86
@@ -718,7 +703,6 @@ Marshall,56,Secretary of State,,Mac Warner,REP,99
 Marshall,58,Secretary of State,,Mac Warner,REP,72
 Marshall,60,Secretary of State,,Mac Warner,REP,147
 Marshall,61,Secretary of State,,Mac Warner,REP,51
-Marshall,,Secretary of State,,Mac Warner,REP,5761
 Marshall,1,Secretary of State,,Natalie Tennant,DEM,174
 Marshall,4,Secretary of State,,Natalie Tennant,DEM,194
 Marshall,6,Secretary of State,,Natalie Tennant,DEM,104
@@ -763,7 +747,6 @@ Marshall,56,Secretary of State,,Natalie Tennant,DEM,133
 Marshall,58,Secretary of State,,Natalie Tennant,DEM,72
 Marshall,60,Secretary of State,,Natalie Tennant,DEM,115
 Marshall,61,Secretary of State,,Natalie Tennant,DEM,65
-Marshall,,Secretary of State,,Natalie Tennant,DEM,6755
 Marshall,1,Secretary of State,,John S. Buckley,LIB,6
 Marshall,4,Secretary of State,,John S. Buckley,LIB,6
 Marshall,6,Secretary of State,,John S. Buckley,LIB,3
@@ -808,7 +791,6 @@ Marshall,56,Secretary of State,,John S. Buckley,LIB,3
 Marshall,58,Secretary of State,,John S. Buckley,LIB,2
 Marshall,60,Secretary of State,,John S. Buckley,LIB,9
 Marshall,61,Secretary of State,,John S. Buckley,LIB,3
-Marshall,,Secretary of State,,John S. Buckley,LIB,329
 Marshall,1,Secretary of State,,Write-ins,,1
 Marshall,4,Secretary of State,,Write-ins,,0
 Marshall,6,Secretary of State,,Write-ins,,0
@@ -853,7 +835,6 @@ Marshall,56,Secretary of State,,Write-ins,,0
 Marshall,58,Secretary of State,,Write-ins,,0
 Marshall,60,Secretary of State,,Write-ins,,0
 Marshall,61,Secretary of State,,Write-ins,,0
-Marshall,,Secretary of State,,Write-ins,,4
 Marshall,1,Auditor,,"John ""JB"" Mccuskey",REP,146
 Marshall,4,Auditor,,"John ""JB"" Mccuskey",REP,217
 Marshall,6,Auditor,,"John ""JB"" Mccuskey",REP,108
@@ -898,7 +879,6 @@ Marshall,56,Auditor,,"John ""JB"" Mccuskey",REP,120
 Marshall,58,Auditor,,"John ""JB"" Mccuskey",REP,74
 Marshall,60,Auditor,,"John ""JB"" Mccuskey",REP,170
 Marshall,61,Auditor,,"John ""JB"" Mccuskey",REP,63
-Marshall,,Auditor,,"John ""JB"" Mccuskey",REP,7054
 Marshall,1,Auditor,,Mary Ann Claytor,DEM,120
 Marshall,4,Auditor,,Mary Ann Claytor,DEM,113
 Marshall,6,Auditor,,Mary Ann Claytor,DEM,63
@@ -943,7 +923,6 @@ Marshall,56,Auditor,,Mary Ann Claytor,DEM,91
 Marshall,58,Auditor,,Mary Ann Claytor,DEM,49
 Marshall,60,Auditor,,Mary Ann Claytor,DEM,71
 Marshall,61,Auditor,,Mary Ann Claytor,DEM,32
-Marshall,,Auditor,,Mary Ann Claytor,DEM,4267
 Marshall,1,Auditor,,Brenton Ricketts,LIB,17
 Marshall,4,Auditor,,Brenton Ricketts,LIB,29
 Marshall,6,Auditor,,Brenton Ricketts,LIB,10
@@ -988,7 +967,6 @@ Marshall,56,Auditor,,Brenton Ricketts,LIB,7
 Marshall,58,Auditor,,Brenton Ricketts,LIB,12
 Marshall,60,Auditor,,Brenton Ricketts,LIB,16
 Marshall,61,Auditor,,Brenton Ricketts,LIB,8
-Marshall,,Auditor,,Brenton Ricketts,LIB,733
 Marshall,1,Auditor,,Write-ins,,0
 Marshall,4,Auditor,,Write-ins,,0
 Marshall,6,Auditor,,Write-ins,,0
@@ -1033,7 +1011,6 @@ Marshall,56,Auditor,,Write-ins,,0
 Marshall,58,Auditor,,Write-ins,,0
 Marshall,60,Auditor,,Write-ins,,0
 Marshall,61,Auditor,,Write-ins,,0
-Marshall,,Auditor,,Write-ins,,5
 Marshall,1,Treasurer,,Ann Urling,REP,117
 Marshall,4,Treasurer,,Ann Urling,REP,176
 Marshall,6,Treasurer,,Ann Urling,REP,84
@@ -1078,7 +1055,6 @@ Marshall,56,Treasurer,,Ann Urling,REP,81
 Marshall,58,Treasurer,,Ann Urling,REP,57
 Marshall,60,Treasurer,,Ann Urling,REP,124
 Marshall,61,Treasurer,,Ann Urling,REP,45
-Marshall,,Treasurer,,Ann Urling,REP,5575
 Marshall,1,Treasurer,,John D. Perdue,DEM,147
 Marshall,4,Treasurer,,John D. Perdue,DEM,168
 Marshall,6,Treasurer,,John D. Perdue,DEM,90
@@ -1123,7 +1099,6 @@ Marshall,56,Treasurer,,John D. Perdue,DEM,131
 Marshall,58,Treasurer,,John D. Perdue,DEM,76
 Marshall,60,Treasurer,,John D. Perdue,DEM,121
 Marshall,61,Treasurer,,John D. Perdue,DEM,63
-Marshall,,Treasurer,,John D. Perdue,DEM,5857
 Marshall,1,Treasurer,,Michael Allen Young,LIB,24
 Marshall,4,Treasurer,,Michael Allen Young,LIB,22
 Marshall,6,Treasurer,,Michael Allen Young,LIB,8
@@ -1168,7 +1143,6 @@ Marshall,56,Treasurer,,Michael Allen Young,LIB,11
 Marshall,58,Treasurer,,Michael Allen Young,LIB,6
 Marshall,60,Treasurer,,Michael Allen Young,LIB,19
 Marshall,61,Treasurer,,Michael Allen Young,LIB,6
-Marshall,,Treasurer,,Michael Allen Young,LIB,826
 Marshall,1,Treasurer,,Write-ins,,0
 Marshall,4,Treasurer,,Write-ins,,0
 Marshall,6,Treasurer,,Write-ins,,0
@@ -1213,7 +1187,6 @@ Marshall,56,Treasurer,,Write-ins,,0
 Marshall,58,Treasurer,,Write-ins,,0
 Marshall,60,Treasurer,,Write-ins,,0
 Marshall,61,Treasurer,,Write-ins,,0
-Marshall,,Treasurer,,Write-ins,,0
 Marshall,1,Commissioner of Agriculture,,Kent Leonhardt,REP,138
 Marshall,4,Commissioner of Agriculture,,Kent Leonhardt,REP,207
 Marshall,6,Commissioner of Agriculture,,Kent Leonhardt,REP,95
@@ -1258,7 +1231,6 @@ Marshall,56,Commissioner of Agriculture,,Kent Leonhardt,REP,102
 Marshall,58,Commissioner of Agriculture,,Kent Leonhardt,REP,81
 Marshall,60,Commissioner of Agriculture,,Kent Leonhardt,REP,148
 Marshall,61,Commissioner of Agriculture,,Kent Leonhardt,REP,56
-Marshall,,Commissioner of Agriculture,,Kent Leonhardt,REP,6218
 Marshall,1,Commissioner of Agriculture,,Walt Helmick,DEM,111
 Marshall,4,Commissioner of Agriculture,,Walt Helmick,DEM,107
 Marshall,6,Commissioner of Agriculture,,Walt Helmick,DEM,59
@@ -1303,7 +1275,6 @@ Marshall,56,Commissioner of Agriculture,,Walt Helmick,DEM,83
 Marshall,58,Commissioner of Agriculture,,Walt Helmick,DEM,39
 Marshall,60,Commissioner of Agriculture,,Walt Helmick,DEM,69
 Marshall,61,Commissioner of Agriculture,,Walt Helmick,DEM,44
-Marshall,,Commissioner of Agriculture,,Walt Helmick,DEM,4156
 Marshall,1,Commissioner of Agriculture,,Buddy A Guthrie,LIB,41
 Marshall,4,Commissioner of Agriculture,,Buddy A Guthrie,LIB,48
 Marshall,6,Commissioner of Agriculture,,Buddy A Guthrie,LIB,27
@@ -1348,7 +1319,6 @@ Marshall,56,Commissioner of Agriculture,,Buddy A Guthrie,LIB,33
 Marshall,58,Commissioner of Agriculture,,Buddy A Guthrie,LIB,19
 Marshall,60,Commissioner of Agriculture,,Buddy A Guthrie,LIB,45
 Marshall,61,Commissioner of Agriculture,,Buddy A Guthrie,LIB,11
-Marshall,,Commissioner of Agriculture,,Buddy A Guthrie,LIB,1765
 Marshall,1,Commissioner of Agriculture,,Write-ins,,0
 Marshall,4,Commissioner of Agriculture,,Write-ins,,0
 Marshall,6,Commissioner of Agriculture,,Write-ins,,0
@@ -1393,7 +1363,6 @@ Marshall,56,Commissioner of Agriculture,,Write-ins,,0
 Marshall,58,Commissioner of Agriculture,,Write-ins,,0
 Marshall,60,Commissioner of Agriculture,,Write-ins,,0
 Marshall,61,Commissioner of Agriculture,,Write-ins,,0
-Marshall,,Commissioner of Agriculture,,Write-ins,,5
 Marshall,1,Attorney General,,Patrick Morrisey,REP,131
 Marshall,4,Attorney General,,Patrick Morrisey,REP,192
 Marshall,6,Attorney General,,Patrick Morrisey,REP,87
@@ -1438,7 +1407,6 @@ Marshall,56,Attorney General,,Patrick Morrisey,REP,106
 Marshall,58,Attorney General,,Patrick Morrisey,REP,79
 Marshall,60,Attorney General,,Patrick Morrisey,REP,144
 Marshall,61,Attorney General,,Patrick Morrisey,REP,58
-Marshall,,Attorney General,,Patrick Morrisey,REP,6096
 Marshall,1,Attorney General,,Doug Reynolds,DEM,149
 Marshall,4,Attorney General,,Doug Reynolds,DEM,171
 Marshall,6,Attorney General,,Doug Reynolds,DEM,92
@@ -1483,7 +1451,6 @@ Marshall,56,Attorney General,,Doug Reynolds,DEM,112
 Marshall,58,Attorney General,,Doug Reynolds,DEM,60
 Marshall,60,Attorney General,,Doug Reynolds,DEM,113
 Marshall,61,Attorney General,,Doug Reynolds,DEM,52
-Marshall,,Attorney General,,Doug Reynolds,DEM,5980
 Marshall,1,Attorney General,,Karl Kolenich,LIB,11
 Marshall,4,Attorney General,,Karl Kolenich,LIB,10
 Marshall,6,Attorney General,,Karl Kolenich,LIB,8
@@ -1528,7 +1495,6 @@ Marshall,56,Attorney General,,Karl Kolenich,LIB,6
 Marshall,58,Attorney General,,Karl Kolenich,LIB,3
 Marshall,60,Attorney General,,Karl Kolenich,LIB,8
 Marshall,61,Attorney General,,Karl Kolenich,LIB,6
-Marshall,,Attorney General,,Karl Kolenich,LIB,392
 Marshall,1,Attorney General,,Michael Sharley,MTN,8
 Marshall,4,Attorney General,,Michael Sharley,MTN,12
 Marshall,6,Attorney General,,Michael Sharley,MTN,4
@@ -1573,7 +1539,6 @@ Marshall,56,Attorney General,,Michael Sharley,MTN,8
 Marshall,58,Attorney General,,Michael Sharley,MTN,1
 Marshall,60,Attorney General,,Michael Sharley,MTN,8
 Marshall,61,Attorney General,,Michael Sharley,MTN,2
-Marshall,,Attorney General,,Michael Sharley,MTN,300
 Marshall,1,Attorney General,,Write-ins,,0
 Marshall,4,Attorney General,,Write-ins,,0
 Marshall,6,Attorney General,,Write-ins,,0
@@ -1618,7 +1583,6 @@ Marshall,56,Attorney General,,Write-ins,,0
 Marshall,58,Attorney General,,Write-ins,,1
 Marshall,60,Attorney General,,Write-ins,,0
 Marshall,61,Attorney General,,Write-ins,,0
-Marshall,,Attorney General,,Write-ins,,2
 Marshall,35,State Senator,1,Ryan W. Weld,REP,187
 Marshall,36,State Senator,1,Ryan W. Weld,REP,62
 Marshall,38,State Senator,1,Ryan W. Weld,REP,136
@@ -1626,7 +1590,6 @@ Marshall,39,State Senator,1,Ryan W. Weld,REP,163
 Marshall,56,State Senator,1,Ryan W. Weld,REP,107
 Marshall,58,State Senator,1,Ryan W. Weld,REP,73
 Marshall,61,State Senator,1,Ryan W. Weld,REP,62
-Marshall,,State Senator,1,Ryan W. Weld,REP,790
 Marshall,35,State Senator,1,Jack Yost,DEM,201
 Marshall,36,State Senator,1,Jack Yost,DEM,42
 Marshall,38,State Senator,1,Jack Yost,DEM,127
@@ -1634,7 +1597,6 @@ Marshall,39,State Senator,1,Jack Yost,DEM,139
 Marshall,56,State Senator,1,Jack Yost,DEM,126
 Marshall,58,State Senator,1,Jack Yost,DEM,76
 Marshall,61,State Senator,1,Jack Yost,DEM,55
-Marshall,,State Senator,1,Jack Yost,DEM,766
 Marshall,35,State Senator,1,Write-ins,,3
 Marshall,36,State Senator,1,Write-ins,,1
 Marshall,38,State Senator,1,Write-ins,,1
@@ -1642,7 +1604,6 @@ Marshall,39,State Senator,1,Write-ins,,0
 Marshall,56,State Senator,1,Write-ins,,1
 Marshall,58,State Senator,1,Write-ins,,0
 Marshall,61,State Senator,1,Write-ins,,1
-Marshall,,State Senator,1,Write-ins,,7
 Marshall,1,State Senator,2,Mike Maroney,REP,130
 Marshall,4,State Senator,2,Mike Maroney,REP,200
 Marshall,6,State Senator,2,Mike Maroney,REP,85
@@ -1680,7 +1641,6 @@ Marshall,46,State Senator,2,Mike Maroney,REP,214
 Marshall,48,State Senator,2,Mike Maroney,REP,46
 Marshall,52,State Senator,2,Mike Maroney,REP,143
 Marshall,60,State Senator,2,Mike Maroney,REP,133
-Marshall,,State Senator,2,Mike Maroney,REP,5498
 Marshall,1,State Senator,2,Liza Zukoff,DEM,179
 Marshall,4,State Senator,2,Liza Zukoff,DEM,185
 Marshall,6,State Senator,2,Liza Zukoff,DEM,108
@@ -1718,7 +1678,6 @@ Marshall,46,State Senator,2,Liza Zukoff,DEM,271
 Marshall,48,State Senator,2,Liza Zukoff,DEM,66
 Marshall,52,State Senator,2,Liza Zukoff,DEM,161
 Marshall,60,State Senator,2,Liza Zukoff,DEM,142
-Marshall,,State Senator,2,Liza Zukoff,DEM,5830
 Marshall,1,State Senator,2,H John Rogers,LIB,8
 Marshall,4,State Senator,2,H John Rogers,LIB,15
 Marshall,6,State Senator,2,H John Rogers,LIB,3
@@ -1756,7 +1715,6 @@ Marshall,46,State Senator,2,H John Rogers,LIB,10
 Marshall,48,State Senator,2,H John Rogers,LIB,6
 Marshall,52,State Senator,2,H John Rogers,LIB,13
 Marshall,60,State Senator,2,H John Rogers,LIB,5
-Marshall,,State Senator,2,H John Rogers,LIB,298
 Marshall,1,State Senator,2,Write-ins,,0
 Marshall,4,State Senator,2,Write-ins,,0
 Marshall,6,State Senator,2,Write-ins,,0
@@ -1794,7 +1752,6 @@ Marshall,46,State Senator,2,Write-ins,,0
 Marshall,48,State Senator,2,Write-ins,,0
 Marshall,52,State Senator,2,Write-ins,,0
 Marshall,60,State Senator,2,Write-ins,,0
-Marshall,,State Senator,2,Write-ins,,1
 Marshall,1,House of Delegates,4,Del T. Kelly,REP,92
 Marshall,4,House of Delegates,4,Del T. Kelly,REP,132
 Marshall,6,House of Delegates,4,Del T. Kelly,REP,53
@@ -1839,7 +1796,6 @@ Marshall,56,House of Delegates,4,Del T. Kelly,REP,57
 Marshall,58,House of Delegates,4,Del T. Kelly,REP,45
 Marshall,60,House of Delegates,4,Del T. Kelly,REP,84
 Marshall,61,House of Delegates,4,Del T. Kelly,REP,41
-Marshall,,House of Delegates,4,Del T. Kelly,REP,3940
 Marshall,1,House of Delegates,4,David A. Evans,REP,101
 Marshall,4,House of Delegates,4,David A. Evans,REP,147
 Marshall,6,House of Delegates,4,David A. Evans,REP,52
@@ -1884,7 +1840,6 @@ Marshall,56,House of Delegates,4,David A. Evans,REP,107
 Marshall,58,House of Delegates,4,David A. Evans,REP,62
 Marshall,60,House of Delegates,4,David A. Evans,REP,142
 Marshall,61,House of Delegates,4,David A. Evans,REP,46
-Marshall,,House of Delegates,4,David A. Evans,REP,4497
 Marshall,1,House of Delegates,4,Mike Ferro,DEM,187
 Marshall,4,House of Delegates,4,Mike Ferro,DEM,220
 Marshall,6,House of Delegates,4,Mike Ferro,DEM,119
@@ -1929,7 +1884,6 @@ Marshall,56,House of Delegates,4,Mike Ferro,DEM,116
 Marshall,58,House of Delegates,4,Mike Ferro,DEM,85
 Marshall,60,House of Delegates,4,Mike Ferro,DEM,123
 Marshall,61,House of Delegates,4,Mike Ferro,DEM,57
-Marshall,,House of Delegates,4,Mike Ferro,DEM,7666
 Marshall,1,House of Delegates,4,Joe Canestrard,DEM,140
 Marshall,4,House of Delegates,4,Joe Canestrard,DEM,167
 Marshall,6,House of Delegates,4,Joe Canestrard,DEM,82
@@ -1974,7 +1928,6 @@ Marshall,56,House of Delegates,4,Joe Canestrard,DEM,106
 Marshall,58,House of Delegates,4,Joe Canestrard,DEM,55
 Marshall,60,House of Delegates,4,Joe Canestrard,DEM,101
 Marshall,61,House of Delegates,4,Joe Canestrard,DEM,45
-Marshall,,House of Delegates,4,Joe Canestrard,DEM,5616
 Marshall,1,House of Delegates,4,Write-ins,,0
 Marshall,4,House of Delegates,4,Write-ins,,0
 Marshall,6,House of Delegates,4,Write-ins,,0
@@ -2019,4 +1972,3 @@ Marshall,56,House of Delegates,4,Write-ins,,0
 Marshall,58,House of Delegates,4,Write-ins,,0
 Marshall,60,House of Delegates,4,Write-ins,,0
 Marshall,61,House of Delegates,4,Write-ins,,0
-Marshall,,House of Delegates,4,Write-ins,,1

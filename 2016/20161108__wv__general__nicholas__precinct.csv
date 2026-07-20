@@ -27,7 +27,6 @@ Nicholas,31,President,,Donald J. Trump,REP,118
 Nicholas,32,President,,Donald J. Trump,REP,193
 Nicholas,33,President,,Donald J. Trump,REP,524
 Nicholas,35,President,,Donald J. Trump,REP,449
-Nicholas,,President,,Donald J. Trump,REP,7251
 Nicholas,1A,President,,Hillary Clinton,DEM,70
 Nicholas,1B,President,,Hillary Clinton,DEM,38
 Nicholas,2,President,,Hillary Clinton,DEM,70
@@ -56,7 +55,6 @@ Nicholas,31,President,,Hillary Clinton,DEM,30
 Nicholas,32,President,,Hillary Clinton,DEM,44
 Nicholas,33,President,,Hillary Clinton,DEM,85
 Nicholas,35,President,,Hillary Clinton,DEM,90
-Nicholas,,President,,Hillary Clinton,DEM,1840
 Nicholas,1A,President,,Gary Johnson,LIB,12
 Nicholas,1B,President,,Gary Johnson,LIB,6
 Nicholas,2,President,,Gary Johnson,LIB,10
@@ -85,7 +83,6 @@ Nicholas,31,President,,Gary Johnson,LIB,3
 Nicholas,32,President,,Gary Johnson,LIB,15
 Nicholas,33,President,,Gary Johnson,LIB,13
 Nicholas,35,President,,Gary Johnson,LIB,20
-Nicholas,,President,,Gary Johnson,LIB,283
 Nicholas,1A,President,,Jill Stein,MTN,2
 Nicholas,1B,President,,Jill Stein,MTN,0
 Nicholas,2,President,,Jill Stein,MTN,1
@@ -114,7 +111,6 @@ Nicholas,31,President,,Darrell L. Castle,CST,0
 Nicholas,32,President,,Darrell L. Castle,CST,1
 Nicholas,33,President,,Darrell L. Castle,CST,3
 Nicholas,35,President,,Darrell L. Castle,CST,5
-Nicholas,,President,,Darrell L. Castle,CST,83
 Nicholas,1A,President,,Darrell L. Castle,CST,0
 Nicholas,1B,President,,Darrell L. Castle,CST,0
 Nicholas,2,President,,Darrell L. Castle,CST,0
@@ -143,7 +139,6 @@ Nicholas,31,President,,Darrell L. Castle,CST,0
 Nicholas,32,President,,Darrell L. Castle,CST,1
 Nicholas,33,President,,Darrell L. Castle,CST,2
 Nicholas,35,President,,Darrell L. Castle,CST,3
-Nicholas,,President,,Darrell L. Castle,CST,34
 Nicholas,1A,U.S House,3,Evan Jenkins,REP,212
 Nicholas,1B,U.S House,3,Evan Jenkins,REP,174
 Nicholas,2,U.S House,3,Evan Jenkins,REP,286
@@ -172,7 +167,6 @@ Nicholas,31,U.S House,3,Evan Jenkins,REP,113
 Nicholas,32,U.S House,3,Evan Jenkins,REP,166
 Nicholas,33,U.S House,3,Evan Jenkins,REP,445
 Nicholas,35,U.S House,3,Evan Jenkins,REP,395
-Nicholas,,U.S House,3,Evan Jenkins,REP,6452
 Nicholas,1A,U.S House,3,Matt Detch,DEM,87
 Nicholas,1B,U.S House,3,Matt Detch,DEM,49
 Nicholas,2,U.S House,3,Matt Detch,DEM,76
@@ -201,7 +195,6 @@ Nicholas,31,U.S House,3,Matt Detch,DEM,27
 Nicholas,32,U.S House,3,Matt Detch,DEM,73
 Nicholas,33,U.S House,3,Matt Detch,DEM,127
 Nicholas,35,U.S House,3,Matt Detch,DEM,143
-Nicholas,,U.S House,3,Matt Detch,DEM,2427
 Nicholas,1A,U.S House,3,Zane Lawhorn,LIB,9
 Nicholas,1B,U.S House,3,Zane Lawhorn,LIB,5
 Nicholas,2,U.S House,3,Zane Lawhorn,LIB,14
@@ -230,7 +223,6 @@ Nicholas,31,U.S House,3,Zane Lawhorn,LIB,6
 Nicholas,32,U.S House,3,Zane Lawhorn,LIB,7
 Nicholas,33,U.S House,3,Zane Lawhorn,LIB,23
 Nicholas,35,U.S House,3,Zane Lawhorn,LIB,10
-Nicholas,,U.S House,3,Zane Lawhorn,LIB,241
 Nicholas,1A,Governor,,Bill Cole,REP,99
 Nicholas,1B,Governor,,Bill Cole,REP,85
 Nicholas,2,Governor,,Bill Cole,REP,159
@@ -259,7 +251,6 @@ Nicholas,31,Governor,,Bill Cole,REP,60
 Nicholas,32,Governor,,Bill Cole,REP,94
 Nicholas,33,Governor,,Bill Cole,REP,274
 Nicholas,35,Governor,,Bill Cole,REP,220
-Nicholas,,Governor,,Bill Cole,REP,3358
 Nicholas,1A,Governor,,Jim Justice,DEM,210
 Nicholas,1B,Governor,,Jim Justice,DEM,149
 Nicholas,2,Governor,,Jim Justice,DEM,213
@@ -288,7 +279,6 @@ Nicholas,31,Governor,,Jim Justice,DEM,82
 Nicholas,32,Governor,,Jim Justice,DEM,157
 Nicholas,33,Governor,,Jim Justice,DEM,321
 Nicholas,35,Governor,,Jim Justice,DEM,316
-Nicholas,,Governor,,Jim Justice,DEM,5780
 Nicholas,1A,Governor,,David Moran,LIB,5
 Nicholas,1B,Governor,,David Moran,LIB,2
 Nicholas,2,Governor,,David Moran,LIB,3
@@ -317,7 +307,6 @@ Nicholas,31,Governor,,David Moran,LIB,4
 Nicholas,32,Governor,,David Moran,LIB,1
 Nicholas,33,Governor,,David Moran,LIB,9
 Nicholas,35,Governor,,David Moran,LIB,12
-Nicholas,,Governor,,David Moran,LIB,96
 Nicholas,1A,Governor,,Charlotte Jean Pritt,MTN,8
 Nicholas,1B,Governor,,Charlotte Jean Pritt,MTN,6
 Nicholas,2,Governor,,Charlotte Jean Pritt,MTN,17
@@ -346,7 +335,6 @@ Nicholas,31,Governor,,Charlotte Jean Pritt,MTN,6
 Nicholas,32,Governor,,Charlotte Jean Pritt,MTN,7
 Nicholas,33,Governor,,Charlotte Jean Pritt,MTN,26
 Nicholas,35,Governor,,Charlotte Jean Pritt,MTN,26
-Nicholas,,Governor,,Charlotte Jean Pritt,MTN,353
 Nicholas,1A,Governor,,Phil Hudok,CST,1
 Nicholas,1B,Governor,,Phil Hudok,CST,2
 Nicholas,2,Governor,,Phil Hudok,CST,2
@@ -375,7 +363,6 @@ Nicholas,31,Governor,,Phil Hudok,CST,1
 Nicholas,32,Governor,,Phil Hudok,CST,0
 Nicholas,33,Governor,,Phil Hudok,CST,2
 Nicholas,35,Governor,,Phil Hudok,CST,4
-Nicholas,,Governor,,Phil Hudok,CST,42
 Nicholas,1A,Secretary of State,,Mac Warner,REP,139
 Nicholas,1B,Secretary of State,,Mac Warner,REP,129
 Nicholas,2,Secretary of State,,Mac Warner,REP,203
@@ -404,7 +391,6 @@ Nicholas,31,Secretary of State,,Mac Warner,REP,84
 Nicholas,32,Secretary of State,,Mac Warner,REP,128
 Nicholas,33,Secretary of State,,Mac Warner,REP,357
 Nicholas,35,Secretary of State,,Mac Warner,REP,298
-Nicholas,,Secretary of State,,Mac Warner,REP,4722
 Nicholas,1A,Secretary of State,,Natalie Tennant,DEM,151
 Nicholas,1B,Secretary of State,,Natalie Tennant,DEM,96
 Nicholas,2,Secretary of State,,Natalie Tennant,DEM,169
@@ -433,7 +419,6 @@ Nicholas,31,Secretary of State,,Natalie Tennant,DEM,60
 Nicholas,32,Secretary of State,,Natalie Tennant,DEM,114
 Nicholas,33,Secretary of State,,Natalie Tennant,DEM,226
 Nicholas,35,Secretary of State,,Natalie Tennant,DEM,235
-Nicholas,,Secretary of State,,Natalie Tennant,DEM,4166
 Nicholas,1A,Secretary of State,,John S. Buckley,LIB,16
 Nicholas,1B,Secretary of State,,John S. Buckley,LIB,5
 Nicholas,2,Secretary of State,,John S. Buckley,LIB,11
@@ -462,7 +447,6 @@ Nicholas,31,Secretary of State,,John S. Buckley,LIB,4
 Nicholas,32,Secretary of State,,John S. Buckley,LIB,7
 Nicholas,33,Secretary of State,,John S. Buckley,LIB,28
 Nicholas,35,Secretary of State,,John S. Buckley,LIB,23
-Nicholas,,Secretary of State,,John S. Buckley,LIB,355
 Nicholas,1A,Auditor,,"John ""JB"" Mccuskey",REP,167
 Nicholas,1B,Auditor,,"John ""JB"" Mccuskey",REP,137
 Nicholas,2,Auditor,,"John ""JB"" Mccuskey",REP,228
@@ -491,7 +475,6 @@ Nicholas,31,Auditor,,"John ""JB"" Mccuskey",REP,92
 Nicholas,32,Auditor,,"John ""JB"" Mccuskey",REP,144
 Nicholas,33,Auditor,,"John ""JB"" Mccuskey",REP,382
 Nicholas,35,Auditor,,"John ""JB"" Mccuskey",REP,305
-Nicholas,,Auditor,,"John ""JB"" Mccuskey",REP,5179
 Nicholas,1A,Auditor,,Mary Ann Claytor,DEM,107
 Nicholas,1B,Auditor,,Mary Ann Claytor,DEM,69
 Nicholas,2,Auditor,,Mary Ann Claytor,DEM,107
@@ -520,7 +503,6 @@ Nicholas,31,Auditor,,Mary Ann Claytor,DEM,43
 Nicholas,32,Auditor,,Mary Ann Claytor,DEM,73
 Nicholas,33,Auditor,,Mary Ann Claytor,DEM,165
 Nicholas,35,Auditor,,Mary Ann Claytor,DEM,171
-Nicholas,,Auditor,,Mary Ann Claytor,DEM,2962
 Nicholas,1A,Auditor,,Brenton Ricketts,LIB,19
 Nicholas,1B,Auditor,,Brenton Ricketts,LIB,13
 Nicholas,2,Auditor,,Brenton Ricketts,LIB,21
@@ -549,7 +531,6 @@ Nicholas,31,Auditor,,Brenton Ricketts,LIB,8
 Nicholas,32,Auditor,,Brenton Ricketts,LIB,12
 Nicholas,33,Auditor,,Brenton Ricketts,LIB,25
 Nicholas,35,Auditor,,Brenton Ricketts,LIB,35
-Nicholas,,Auditor,,Brenton Ricketts,LIB,504
 Nicholas,1A,Treasurer,,Ann Urling,REP,107
 Nicholas,1B,Treasurer,,Ann Urling,REP,103
 Nicholas,2,Treasurer,,Ann Urling,REP,169
@@ -578,7 +559,6 @@ Nicholas,31,Treasurer,,Ann Urling,REP,66
 Nicholas,32,Treasurer,,Ann Urling,REP,86
 Nicholas,33,Treasurer,,Ann Urling,REP,278
 Nicholas,35,Treasurer,,Ann Urling,REP,216
-Nicholas,,Treasurer,,Ann Urling,REP,3560
 Nicholas,1A,Treasurer,,John D. Perdue,DEM,172
 Nicholas,1B,Treasurer,,John D. Perdue,DEM,107
 Nicholas,2,Treasurer,,John D. Perdue,DEM,174
@@ -607,7 +587,6 @@ Nicholas,31,Treasurer,,John D. Perdue,DEM,67
 Nicholas,32,Treasurer,,John D. Perdue,DEM,148
 Nicholas,33,Treasurer,,John D. Perdue,DEM,280
 Nicholas,35,Treasurer,,John D. Perdue,DEM,283
-Nicholas,,Treasurer,,John D. Perdue,DEM,4846
 Nicholas,1A,Treasurer,,Michael Allen Young,LIB,18
 Nicholas,1B,Treasurer,,Michael Allen Young,LIB,18
 Nicholas,2,Treasurer,,Michael Allen Young,LIB,21
@@ -636,7 +615,6 @@ Nicholas,31,Treasurer,,Michael Allen Young,LIB,10
 Nicholas,32,Treasurer,,Michael Allen Young,LIB,10
 Nicholas,33,Treasurer,,Michael Allen Young,LIB,32
 Nicholas,35,Treasurer,,Michael Allen Young,LIB,40
-Nicholas,,Treasurer,,Michael Allen Young,LIB,560
 Nicholas,1A,Commissioner of Agriculture,,Kent Leonhardt,REP,115
 Nicholas,1B,Commissioner of Agriculture,,Kent Leonhardt,REP,100
 Nicholas,2,Commissioner of Agriculture,,Kent Leonhardt,REP,194
@@ -665,7 +643,6 @@ Nicholas,31,Commissioner of Agriculture,,Kent Leonhardt,REP,82
 Nicholas,32,Commissioner of Agriculture,,Kent Leonhardt,REP,115
 Nicholas,33,Commissioner of Agriculture,,Kent Leonhardt,REP,313
 Nicholas,35,Commissioner of Agriculture,,Kent Leonhardt,REP,244
-Nicholas,,Commissioner of Agriculture,,Kent Leonhardt,REP,3991
 Nicholas,1A,Commissioner of Agriculture,,Walt Helmick,DEM,181
 Nicholas,1B,Commissioner of Agriculture,,Walt Helmick,DEM,108
 Nicholas,2,Commissioner of Agriculture,,Walt Helmick,DEM,161
@@ -694,7 +671,6 @@ Nicholas,31,Commissioner of Agriculture,,Walt Helmick,DEM,57
 Nicholas,32,Commissioner of Agriculture,,Walt Helmick,DEM,119
 Nicholas,33,Commissioner of Agriculture,,Walt Helmick,DEM,252
 Nicholas,35,Commissioner of Agriculture,,Walt Helmick,DEM,248
-Nicholas,,Commissioner of Agriculture,,Walt Helmick,DEM,4537
 Nicholas,1A,Commissioner of Agriculture,,Buddy A Guthrie,LIB,9
 Nicholas,1B,Commissioner of Agriculture,,Buddy A Guthrie,LIB,12
 Nicholas,2,Commissioner of Agriculture,,Buddy A Guthrie,LIB,16
@@ -723,7 +699,6 @@ Nicholas,31,Commissioner of Agriculture,,Buddy A Guthrie,LIB,8
 Nicholas,32,Commissioner of Agriculture,,Buddy A Guthrie,LIB,9
 Nicholas,33,Commissioner of Agriculture,,Buddy A Guthrie,LIB,27
 Nicholas,35,Commissioner of Agriculture,,Buddy A Guthrie,LIB,44
-Nicholas,,Commissioner of Agriculture,,Buddy A Guthrie,LIB,478
 Nicholas,1A,Attorney General,,Patrick Morrisey,REP,147
 Nicholas,1B,Attorney General,,Patrick Morrisey,REP,130
 Nicholas,2,Attorney General,,Patrick Morrisey,REP,223
@@ -752,7 +727,6 @@ Nicholas,31,Attorney General,,Patrick Morrisey,REP,87
 Nicholas,32,Attorney General,,Patrick Morrisey,REP,136
 Nicholas,33,Attorney General,,Patrick Morrisey,REP,407
 Nicholas,35,Attorney General,,Patrick Morrisey,REP,305
-Nicholas,,Attorney General,,Patrick Morrisey,REP,4979
 Nicholas,1A,Attorney General,,Doug Reynolds,DEM,138
 Nicholas,1B,Attorney General,,Doug Reynolds,DEM,87
 Nicholas,2,Attorney General,,Doug Reynolds,DEM,126
@@ -781,7 +755,6 @@ Nicholas,31,Attorney General,,Doug Reynolds,DEM,54
 Nicholas,32,Attorney General,,Doug Reynolds,DEM,101
 Nicholas,33,Attorney General,,Doug Reynolds,DEM,182
 Nicholas,35,Attorney General,,Doug Reynolds,DEM,221
-Nicholas,,Attorney General,,Doug Reynolds,DEM,3736
 Nicholas,1A,Attorney General,,Karl Kolenich,LIB,11
 Nicholas,1B,Attorney General,,Karl Kolenich,LIB,12
 Nicholas,2,Attorney General,,Karl Kolenich,LIB,19
@@ -810,7 +783,6 @@ Nicholas,31,Attorney General,,Karl Kolenich,LIB,8
 Nicholas,32,Attorney General,,Karl Kolenich,LIB,10
 Nicholas,33,Attorney General,,Karl Kolenich,LIB,14
 Nicholas,35,Attorney General,,Karl Kolenich,LIB,20
-Nicholas,,Attorney General,,Karl Kolenich,LIB,329
 Nicholas,1A,Attorney General,,Michael Sharley,MTN,12
 Nicholas,1B,Attorney General,,Michael Sharley,MTN,6
 Nicholas,2,Attorney General,,Michael Sharley,MTN,11
@@ -839,7 +811,6 @@ Nicholas,31,Attorney General,,Michael Sharley,MTN,2
 Nicholas,32,Attorney General,,Michael Sharley,MTN,4
 Nicholas,33,Attorney General,,Michael Sharley,MTN,13
 Nicholas,35,Attorney General,,Michael Sharley,MTN,15
-Nicholas,,Attorney General,,Michael Sharley,MTN,248
 Nicholas,1A,State Senator,11,Greg Boso,,165
 Nicholas,1B,State Senator,11,Greg Boso,,137
 Nicholas,2,State Senator,11,Greg Boso,,209
@@ -868,7 +839,6 @@ Nicholas,31,State Senator,11,Greg Boso,,97
 Nicholas,32,State Senator,11,Greg Boso,,150
 Nicholas,33,State Senator,11,Greg Boso,,438
 Nicholas,35,State Senator,11,Greg Boso,,378
-Nicholas,,State Senator,11,Greg Boso,,5730
 Nicholas,1A,State Senator,11,Denise Campbell,,127
 Nicholas,1B,State Senator,11,Denise Campbell,,78
 Nicholas,2,State Senator,11,Denise Campbell,,140
@@ -897,7 +867,6 @@ Nicholas,31,State Senator,11,Denise Campbell,,45
 Nicholas,32,State Senator,11,Denise Campbell,,96
 Nicholas,33,State Senator,11,Denise Campbell,,158
 Nicholas,35,State Senator,11,Denise Campbell,,169
-Nicholas,,State Senator,11,Denise Campbell,,3185
 Nicholas,1A,State Senator,11,Bruce Zeno Breuninger,,19
 Nicholas,1B,State Senator,11,Bruce Zeno Breuninger,,18
 Nicholas,2,State Senator,11,Bruce Zeno Breuninger,,36
@@ -926,35 +895,27 @@ Nicholas,31,State Senator,11,Bruce Zeno Breuninger,,6
 Nicholas,32,State Senator,11,Bruce Zeno Breuninger,,11
 Nicholas,33,State Senator,11,Bruce Zeno Breuninger,,23
 Nicholas,35,State Senator,11,Bruce Zeno Breuninger,,22
-Nicholas,,State Senator,11,Bruce Zeno Breuninger,,500
 Nicholas,23,House of Delegates,32,Kaylla Kessinger,,27
 Nicholas,25,House of Delegates,32,Kaylla Kessinger,,81
 Nicholas,27,House of Delegates,32,Kaylla Kessinger,,63
-Nicholas,,House of Delegates,32,Kaylla Kessinger,,171
 Nicholas,23,House of Delegates,32,Tom Fast,,23
 Nicholas,25,House of Delegates,32,Tom Fast,,62
 Nicholas,27,House of Delegates,32,Tom Fast,,49
-Nicholas,,House of Delegates,32,Tom Fast,,134
 Nicholas,23,House of Delegates,32,Austin Haynes,,9
 Nicholas,25,House of Delegates,32,Austin Haynes,,47
 Nicholas,27,House of Delegates,32,Austin Haynes,,39
-Nicholas,,House of Delegates,32,Austin Haynes,,95
 Nicholas,23,House of Delegates,32,Margaret Anne Staggers,,19
 Nicholas,25,House of Delegates,32,Margaret Anne Staggers,,93
 Nicholas,27,House of Delegates,32,Margaret Anne Staggers,,40
-Nicholas,,House of Delegates,32,Margaret Anne Staggers,,152
 Nicholas,23,House of Delegates,32,John Pino,,32
 Nicholas,25,House of Delegates,32,John Pino,,83
 Nicholas,27,House of Delegates,32,John Pino,,38
-Nicholas,,House of Delegates,32,John Pino,,153
 Nicholas,23,House of Delegates,32,Mr. Shirley Love,,34
 Nicholas,25,House of Delegates,32,Mr. Shirley Love,,95
 Nicholas,27,House of Delegates,32,Mr. Shirley Love,,64
-Nicholas,,House of Delegates,32,Mr. Shirley Love,,193
 Nicholas,23,House of Delegates,32,Travis Simms,,3
 Nicholas,25,House of Delegates,32,Travis Simms,,13
 Nicholas,27,House of Delegates,32,Travis Simms,,5
-Nicholas,,House of Delegates,32,Travis Simms,,21
 Nicholas,13,House of Delegates,41,Jordan Hill,,105
 Nicholas,14,House of Delegates,41,Jordan Hill,,186
 Nicholas,15,House of Delegates,41,Jordan Hill,,289
@@ -971,7 +932,6 @@ Nicholas,31,House of Delegates,41,Jordan Hill,,92
 Nicholas,32,House of Delegates,41,Jordan Hill,,132
 Nicholas,33,House of Delegates,41,Jordan Hill,,368
 Nicholas,35,House of Delegates,41,Jordan Hill,,338
-Nicholas,,House of Delegates,41,Jordan Hill,,3818
 Nicholas,13,House of Delegates,41,Adam R. Young,,106
 Nicholas,14,House of Delegates,41,Adam R. Young,,193
 Nicholas,15,House of Delegates,41,Adam R. Young,,181
@@ -988,7 +948,6 @@ Nicholas,31,House of Delegates,41,Adam R. Young,,58
 Nicholas,32,House of Delegates,41,Adam R. Young,,122
 Nicholas,33,House of Delegates,41,Adam R. Young,,241
 Nicholas,35,House of Delegates,41,Adam R. Young,,219
-Nicholas,,House of Delegates,41,Adam R. Young,,2916
 Nicholas,1A,House of Delegates,44,Duane Borchers. SR,,147
 Nicholas,1B,House of Delegates,44,Duane Borchers. SR,,144
 Nicholas,2,House of Delegates,44,Duane Borchers. SR,,218
@@ -997,7 +956,6 @@ Nicholas,5,House of Delegates,44,Duane Borchers. SR,,106
 Nicholas,7,House of Delegates,44,Duane Borchers. SR,,87
 Nicholas,8,House of Delegates,44,Duane Borchers. SR,,56
 Nicholas,17,House of Delegates,44,Duane Borchers. SR,,60
-Nicholas,,House of Delegates,44,Duane Borchers. SR,,926
 Nicholas,1A,House of Delegates,44,Dana L Lynch,,133
 Nicholas,1B,House of Delegates,44,Dana L Lynch,,66
 Nicholas,2,House of Delegates,44,Dana L Lynch,,146
@@ -1006,7 +964,6 @@ Nicholas,5,House of Delegates,44,Dana L Lynch,,162
 Nicholas,7,House of Delegates,44,Dana L Lynch,,110
 Nicholas,8,House of Delegates,44,Dana L Lynch,,91
 Nicholas,17,House of Delegates,44,Dana L Lynch,,38
-Nicholas,,House of Delegates,44,Dana L Lynch,,827
 Nicholas,1A,House of Delegates,44,Barbara Daniels,,23
 Nicholas,1B,House of Delegates,44,Barbara Daniels,,21
 Nicholas,2,House of Delegates,44,Barbara Daniels,,21
@@ -1015,4 +972,3 @@ Nicholas,5,House of Delegates,44,Barbara Daniels,,60
 Nicholas,7,House of Delegates,44,Barbara Daniels,,50
 Nicholas,8,House of Delegates,44,Barbara Daniels,,35
 Nicholas,17,House of Delegates,44,Barbara Daniels,,11
-Nicholas,,House of Delegates,44,Barbara Daniels,,249

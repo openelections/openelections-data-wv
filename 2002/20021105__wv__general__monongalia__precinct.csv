@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,candidate,party,votes
+county,precinct,office,district,candidate,party,votes
 Monongalia,0001 Prec 40,Registered Voters,,Registered,,256
 Monongalia,0001 Prec 40,Ballots Cast,,Ballots,,102
 Monongalia,0001 Prec 40,U.S. Senate,,Jay Wolfe,REP,28
@@ -1446,39 +1446,3 @@ Monongalia,0092 Prec 85,House of Delegates,44,Gene Claypole,DEM,32
 Monongalia,0092 Prec 85,House of Delegates,44,Barbara Fleischauer,DEM,41
 Monongalia,0092 Prec 85,House of Delegates,44,Nancy Houston,DEM,40
 Monongalia,0092 Prec 85,House of Delegates,44,Bob Beach,DEM,51
-Monongalia,,Registered Voters,,Registered,,46851
-Monongalia,,Ballots Cast,,Ballots,,17131
-Monongalia,,U.S. Senate,,Jay Wolfe,REP,5952
-Monongalia,,U.S. Senate,,Jay Rockefeller,DEM,10787
-Monongalia,,U.S. Senate,,Write-ins,,27
-Monongalia,,U.S. House,1,Alan Mollohan,DEM,12792
-Monongalia,,U.S. House,1,Write-ins,,220
-Monongalia,,State Senate,2,Larry Edgell,DEM,1044
-Monongalia,,State Senate,2,Write-ins,,17
-Monongalia,,State Senate,13,Mike Oliviero,DEM,9703
-Monongalia,,State Senate,13,Toni Tampoya,REP,2369
-Monongalia,,State Senate,13,Write-ins,,25
-Monongalia,,State Senate,14,Sarah Minear,REP,1683
-Monongalia,,State Senate,14,James Baughman,DEM,1137
-Monongalia,,State Senate,14,Write-ins,,7
-Monongalia,,House of Delegates,44,Cindy Frich,REP,7782
-Monongalia,,House of Delegates,44,Tom O'Neill,REP,6652
-Monongalia,,House of Delegates,44,Phil Conley,REP,3685
-Monongalia,,House of Delegates,44,Gene Claypole,DEM,7192
-Monongalia,,House of Delegates,44,Barbara Fleischauer,DEM,8210
-Monongalia,,House of Delegates,44,Nancy Houston,DEM,9128
-Monongalia,,House of Delegates,44,Bob Beach,DEM,9261
-Monongalia,,House of Delegates,44,Write-ins,,76
-Monongalia,,House of Delegates,5,Dave Pethtel,DEM,225
-Monongalia,,House of Delegates,5,Denzil Sloan,CON,11
-Monongalia,,House of Delegates,5,Write-ins,,1
-Monongalia,,House of Delegates,42,Tom Coleman,DEM,188
-Monongalia,,House of Delegates,42,Paul Elder,REP,171
-Monongalia,,House of Delegates,42,Write-ins,,1
-Monongalia,,House of Delegates,43,Mike Caputo,DEM,434
-Monongalia,,House of Delegates,43,James Manchin,DEM,369
-Monongalia,,House of Delegates,43,Donna Renner,DEM,343
-Monongalia,,House of Delegates,43,Chuck Mullet,REP,272
-Monongalia,,House of Delegates,43,Susan Mayers,REP,217
-Monongalia,,House of Delegates,43,Russ Snyder,REP,160
-Monongalia,,House of Delegates,43,Write-ins,,1

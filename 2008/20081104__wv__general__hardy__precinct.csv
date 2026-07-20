@@ -69,11 +69,6 @@ Hardy,20,President,,DEM,Barack Obama,39
 Hardy,20,President,,MTN,Cynthia McKinney,1
 Hardy,20,President,,GRN,Ralph Nader,3
 Hardy,20,President,,CON,Chuck Baldwin,0
-Hardy,,President,,REP,John McCain,3376
-Hardy,,President,,DEM,Barack Obama,1901
-Hardy,,President,,MTN,Cynthia McKinney,29
-Hardy,,President,,GRN,Ralph Nader,75
-Hardy,,President,,CON,Chuck Baldwin,25
 Hardy,12,President,,,Santa Claus,1
 Hardy,1,U.S. Senate,,REP,Jay Wolfe,74
 Hardy,1,U.S. Senate,,DEM,Jay Rockefeller,117
@@ -103,8 +98,6 @@ Hardy,19,U.S. Senate,,REP,Jay Wolfe,173
 Hardy,19,U.S. Senate,,DEM,Jay Rockefeller,250
 Hardy,20,U.S. Senate,,REP,Jay Wolfe,54
 Hardy,20,U.S. Senate,,DEM,Jay Rockefeller,74
-Hardy,,U.S. Senate,,REP,Jay Wolfe,2069
-Hardy,,U.S. Senate,,DEM,Jay Rockefeller,3245
 Hardy,1,U.S. House,2,REP,Shelley Moore Capito,123
 Hardy,1,U.S. House,2,DEM,Anne Barth,69
 Hardy,2,U.S. House,2,REP,Shelley Moore Capito,393
@@ -133,8 +126,6 @@ Hardy,19,U.S. House,2,REP,Shelley Moore Capito,289
 Hardy,19,U.S. House,2,DEM,Anne Barth,137
 Hardy,20,U.S. House,2,REP,Shelley Moore Capito,91
 Hardy,20,U.S. House,2,DEM,Anne Barth,38
-Hardy,,U.S. House,2,REP,Shelley Moore Capito,3478
-Hardy,,U.S. House,2,DEM,Anne Barth,1874
 Hardy,1,Governor,,REP,Russ Weeks,48
 Hardy,1,Governor,,DEM,Joe Manchin III,131
 Hardy,1,Governor,,MTN,Jesse Johnson,12
@@ -177,9 +168,6 @@ Hardy,19,Governor,,MTN,Jesse Johnson,19
 Hardy,20,Governor,,REP,Russ Weeks,38
 Hardy,20,Governor,,DEM,Joe Manchin III,87
 Hardy,20,Governor,,MTN,Jesse Johnson,2
-Hardy,,Governor,,REP,Russ Weeks,1278
-Hardy,,Governor,,DEM,Joe Manchin III,3777
-Hardy,,Governor,,MTN,Jesse Johnson,237
 Hardy,1,Secretary of State,,REP,Charles Minimah,74
 Hardy,1,Secretary of State,,DEM,Natalie Tennant,93
 Hardy,2,Secretary of State,,REP,Charles Minimah,256
@@ -208,8 +196,6 @@ Hardy,19,Secretary of State,,REP,Charles Minimah,154
 Hardy,19,Secretary of State,,DEM,Natalie Tennant,215
 Hardy,20,Secretary of State,,REP,Charles Minimah,56
 Hardy,20,Secretary of State,,DEM,Natalie Tennant,59
-Hardy,,Secretary of State,,REP,Charles Minimah,2102
-Hardy,,Secretary of State,,DEM,Natalie Tennant,2694
 Hardy,1,Auditor,,DEM,Glen B. Gainer III,132
 Hardy,2,Auditor,,DEM,Glen B. Gainer III,425
 Hardy,3,Auditor,,DEM,Glen B. Gainer III,156
@@ -224,7 +210,6 @@ Hardy,16,Auditor,,DEM,Glen B. Gainer III,491
 Hardy,18,Auditor,,DEM,Glen B. Gainer III,347
 Hardy,19,Auditor,,DEM,Glen B. Gainer III,302
 Hardy,20,Auditor,,DEM,Glen B. Gainer III,65
-Hardy,,Auditor,,DEM,Glen B. Gainer III,3942
 Hardy,1,Treasurer,,DEM,John D. Perdue,128
 Hardy,2,Treasurer,,DEM,John D. Perdue,427
 Hardy,3,Treasurer,,DEM,John D. Perdue,160
@@ -239,7 +224,6 @@ Hardy,16,Treasurer,,DEM,John D. Perdue,506
 Hardy,18,Treasurer,,DEM,John D. Perdue,365
 Hardy,19,Treasurer,,DEM,John D. Perdue,315
 Hardy,20,Treasurer,,DEM,John D. Perdue,95
-Hardy,,Treasurer,,DEM,John D. Perdue,4017
 Hardy,1,Commissioner of Agriculture,,DEM,J. Michael Teets,128
 Hardy,1,Commissioner of Agriculture,,REP,Gus R. Douglass,64
 Hardy,2,Commissioner of Agriculture,,DEM,J. Michael Teets,396
@@ -268,8 +252,6 @@ Hardy,19,Commissioner of Agriculture,,DEM,J. Michael Teets,294
 Hardy,19,Commissioner of Agriculture,,REP,Gus R. Douglass,137
 Hardy,20,Commissioner of Agriculture,,DEM,J. Michael Teets,84
 Hardy,20,Commissioner of Agriculture,,REP,Gus R. Douglass,45
-Hardy,,Commissioner of Agriculture,,DEM,J. Michael Teets,3655
-Hardy,,Commissioner of Agriculture,,REP,Gus R. Douglass,1728
 Hardy,1,Attorney General,,REP,Dan Greear,75
 Hardy,1,Attorney General,,DEM,Darrell McGraw,103
 Hardy,2,Attorney General,,REP,Dan Greear,239
@@ -298,8 +280,6 @@ Hardy,19,Attorney General,,REP,Dan Greear,163
 Hardy,19,Attorney General,,DEM,Darrell McGraw,234
 Hardy,20,Attorney General,,REP,Dan Greear,54
 Hardy,20,Attorney General,,DEM,Darrell McGraw,69
-Hardy,,Attorney General,,REP,Dan Greear,2135
-Hardy,,Attorney General,,DEM,Darrell McGraw,2883
 Hardy,1,State Senate,15,REP,Clarke Barnes,107
 Hardy,1,State Senate,15,DEM,Mike Ross,83
 Hardy,2,State Senate,15,REP,Clarke Barnes,328
@@ -328,8 +308,6 @@ Hardy,19,State Senate,15,REP,Clarke Barnes,243
 Hardy,19,State Senate,15,DEM,Mike Ross,172
 Hardy,20,State Senate,15,REP,Clarke Barnes,70
 Hardy,20,State Senate,15,DEM,Mike Ross,59
-Hardy,,State Senate,15,REP,Clarke Barnes,2862
-Hardy,,State Senate,15,DEM,Mike Ross,2376
 Hardy,1,State House,47,DEM,Harold Michael,163
 Hardy,2,State House,47,DEM,Harold Michael,482
 Hardy,3,State House,47,DEM,Harold Michael,192
@@ -344,4 +322,3 @@ Hardy,16,State House,47,DEM,Harold Michael,559
 Hardy,18,State House,47,DEM,Harold Michael,406
 Hardy,19,State House,47,DEM,Harold Michael,340
 Hardy,20,State House,47,DEM,Harold Michael,101
-Hardy,,State House,47,DEM,Harold Michael,4504

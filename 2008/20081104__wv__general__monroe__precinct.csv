@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes
-Monroe,1 - Alderson,,,,Registered Voters,465
-Monroe,3 - Bellview,,,,Registered Voters,64
-Monroe,5 - Locust Grove,,,,Registered Voters,213
-Monroe,7 - Sinks Grove,,,,Registered Voters,521
-Monroe,8 - Highland Green,,,,Registered Voters,489
-Monroe,12 - Union Board Office,,,,Registered Voters,585
-Monroe,13 - Mt. View School,,,,Registered Voters,702
-Monroe,16 - Gap Mills,,,,Registered Voters,745
-Monroe,18 - Sweet Springs,,,,Registered Voters,166
-Monroe,19 - Waiteville,,,,Registered Voters,146
-Monroe,22 - Greenville,,,,Registered Voters,776
-Monroe,23 - Rock Camp,,,,Registered Voters,528
-Monroe,29 - Peterstown Middle School,,,,Registered Voters,805
-Monroe,30 - Peterstown Elementary School,,,,Registered Voters,1157
-Monroe,31 - Red Sulphur,,,,Registered Voters,522
-Monroe,31 - Lindside,,,,Registered Voters,864
-Monroe,33 - Cashmere,,,,Registered Voters,539
-Monroe,34 - Bozoo,,,,Registered Voters,269
-Monroe,1 - Alderson,,,,Ballots Cast,235
-Monroe,3 - Bellview,,,,Ballots Cast,63
-Monroe,5 - Locust Grove,,,,Ballots Cast,144
-Monroe,7 - Sinks Grove,,,,Ballots Cast,324
-Monroe,8 - Highland Green,,,,Ballots Cast,286
-Monroe,12 - Union Board Office,,,,Ballots Cast,389
-Monroe,13 - Mt. View School,,,,Ballots Cast,466
-Monroe,16 - Gap Mills,,,,Ballots Cast,436
-Monroe,18 - Sweet Springs,,,,Ballots Cast,108
-Monroe,19 - Waiteville,,,,Ballots Cast,84
-Monroe,22 - Greenville,,,,Ballots Cast,475
-Monroe,23 - Rock Camp,,,,Ballots Cast,342
-Monroe,29 - Peterstown Middle School,,,,Ballots Cast,466
-Monroe,30 - Peterstown Elementary School,,,,Ballots Cast,687
-Monroe,31 - Red Sulphur,,,,Ballots Cast,289
-Monroe,31 - Lindside,,,,Ballots Cast,513
-Monroe,33 - Cashmere,,,,Ballots Cast,305
-Monroe,34 - Bozoo,,,,Ballots Cast,161
+Monroe,1 - Alderson,Registered Voters,,,,465
+Monroe,3 - Bellview,Registered Voters,,,,64
+Monroe,5 - Locust Grove,Registered Voters,,,,213
+Monroe,7 - Sinks Grove,Registered Voters,,,,521
+Monroe,8 - Highland Green,Registered Voters,,,,489
+Monroe,12 - Union Board Office,Registered Voters,,,,585
+Monroe,13 - Mt. View School,Registered Voters,,,,702
+Monroe,16 - Gap Mills,Registered Voters,,,,745
+Monroe,18 - Sweet Springs,Registered Voters,,,,166
+Monroe,19 - Waiteville,Registered Voters,,,,146
+Monroe,22 - Greenville,Registered Voters,,,,776
+Monroe,23 - Rock Camp,Registered Voters,,,,528
+Monroe,29 - Peterstown Middle School,Registered Voters,,,,805
+Monroe,30 - Peterstown Elementary School,Registered Voters,,,,1157
+Monroe,31 - Red Sulphur,Registered Voters,,,,522
+Monroe,31 - Lindside,Registered Voters,,,,864
+Monroe,33 - Cashmere,Registered Voters,,,,539
+Monroe,34 - Bozoo,Registered Voters,,,,269
+Monroe,1 - Alderson,Ballots Cast,,,,235
+Monroe,3 - Bellview,Ballots Cast,,,,63
+Monroe,5 - Locust Grove,Ballots Cast,,,,144
+Monroe,7 - Sinks Grove,Ballots Cast,,,,324
+Monroe,8 - Highland Green,Ballots Cast,,,,286
+Monroe,12 - Union Board Office,Ballots Cast,,,,389
+Monroe,13 - Mt. View School,Ballots Cast,,,,466
+Monroe,16 - Gap Mills,Ballots Cast,,,,436
+Monroe,18 - Sweet Springs,Ballots Cast,,,,108
+Monroe,19 - Waiteville,Ballots Cast,,,,84
+Monroe,22 - Greenville,Ballots Cast,,,,475
+Monroe,23 - Rock Camp,Ballots Cast,,,,342
+Monroe,29 - Peterstown Middle School,Ballots Cast,,,,466
+Monroe,30 - Peterstown Elementary School,Ballots Cast,,,,687
+Monroe,31 - Red Sulphur,Ballots Cast,,,,289
+Monroe,31 - Lindside,Ballots Cast,,,,513
+Monroe,33 - Cashmere,Ballots Cast,,,,305
+Monroe,34 - Bozoo,Ballots Cast,,,,161
 Monroe,1 - Alderson,President,,REP,John McCain,130
 Monroe,3 - Bellview,President,,REP,John McCain,33
 Monroe,5 - Locust Grove,President,,REP,John McCain,107

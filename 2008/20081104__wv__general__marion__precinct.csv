@@ -76,7 +76,6 @@ Marion,122,President,,Barack Obama,DEM,93
 Marion,123,President,,Barack Obama,DEM,161
 Marion,124,President,,Barack Obama,DEM,219
 Marion,125,President,,Barack Obama,DEM,172
-Marion,,President,,Barack Obama,DEM,11618
 Marion,29,President,,John McCain,REP,191
 Marion,33,President,,John McCain,REP,83
 Marion,44,President,,John McCain,REP,117
@@ -154,7 +153,6 @@ Marion,122,President,,John McCain,REP,143
 Marion,123,President,,John McCain,REP,192
 Marion,124,President,,John McCain,REP,274
 Marion,125,President,,John McCain,REP,308
-Marion,,President,,John McCain,REP,11501
 Marion,29,President,,Cynthia McKinney,MTN,1
 Marion,33,President,,Cynthia McKinney,MTN,0
 Marion,44,President,,Cynthia McKinney,MTN,1
@@ -232,7 +230,6 @@ Marion,122,President,,Cynthia McKinney,MTN,0
 Marion,123,President,,Cynthia McKinney,MTN,1
 Marion,124,President,,Cynthia McKinney,MTN,0
 Marion,125,President,,Cynthia McKinney,MTN,1
-Marion,,President,,Cynthia McKinney,MTN,83
 Marion,29,President,,Ralph Nader,IND,3
 Marion,33,President,,Ralph Nader,IND,3
 Marion,44,President,,Ralph Nader,IND,5
@@ -310,7 +307,6 @@ Marion,122,President,,Ralph Nader,IND,4
 Marion,123,President,,Ralph Nader,IND,9
 Marion,124,President,,Ralph Nader,IND,2
 Marion,125,President,,Ralph Nader,IND,21
-Marion,,President,,Ralph Nader,IND,330
 Marion,29,President,,Charles Baldwin,CST,0
 Marion,33,President,,Charles Baldwin,CST,0
 Marion,44,President,,Charles Baldwin,CST,0
@@ -388,7 +384,6 @@ Marion,122,President,,Charles Baldwin,CST,0
 Marion,123,President,,Charles Baldwin,CST,1
 Marion,124,President,,Charles Baldwin,CST,1
 Marion,125,President,,Charles Baldwin,CST,2
-Marion,,President,,Charles Baldwin,CST,71
 Marion,33,President,,write-ins,,1
 Marion,88,President,,write-ins,,1
 Marion,113,President,,write-ins,,1
@@ -470,7 +465,6 @@ Marion,122,U.S. Senate,,Jay Rockefeller,DEM,151
 Marion,123,U.S. Senate,,Jay Rockefeller,DEM,243
 Marion,124,U.S. Senate,,Jay Rockefeller,DEM,336
 Marion,125,U.S. Senate,,Jay Rockefeller,DEM,304
-Marion,,U.S. Senate,,Jay Rockefeller,DEM,16156
 Marion,29,U.S. Senate,,Jay Wolfe,REP,113
 Marion,33,U.S. Senate,,Jay Wolfe,REP,53
 Marion,44,U.S. Senate,,Jay Wolfe,REP,64
@@ -548,7 +542,6 @@ Marion,122,U.S. Senate,,Jay Wolfe,REP,89
 Marion,123,U.S. Senate,,Jay Wolfe,REP,121
 Marion,124,U.S. Senate,,Jay Wolfe,REP,168
 Marion,125,U.S. Senate,,Jay Wolfe,REP,197
-Marion,,U.S. Senate,,Jay Wolfe,REP,7316
 Marion,29,U.S. House,1,Alan Mollohan,DEM,241
 Marion,33,U.S. House,1,Alan Mollohan,DEM,164
 Marion,44,U.S. House,1,Alan Mollohan,DEM,193
@@ -626,7 +619,6 @@ Marion,122,U.S. House,1,Alan Mollohan,DEM,177
 Marion,123,U.S. House,1,Alan Mollohan,DEM,277
 Marion,124,U.S. House,1,Alan Mollohan,DEM,400
 Marion,125,U.S. House,1,Alan Mollohan,DEM,377
-Marion,,U.S. House,1,Alan Mollohan,DEM,18852
 Marion,72,U.S. House,1,R J Smith,,1
 Marion,74,U.S. House,1,Ted Osgood,,1
 Marion,78,U.S. House,1,Ted Osgood,,2
@@ -713,7 +705,6 @@ Marion,122,Governor,,Joe Manchin,DEM,171
 Marion,123,Governor,,Joe Manchin,DEM,253
 Marion,124,Governor,,Joe Manchin,DEM,363
 Marion,125,Governor,,Joe Manchin,DEM,330
-Marion,,Governor,,Joe Manchin,DEM,17849
 Marion,29,Governor,,Russ Weeks,REP,64
 Marion,33,Governor,,Russ Weeks,REP,35
 Marion,44,Governor,,Russ Weeks,REP,29
@@ -791,7 +782,6 @@ Marion,122,Governor,,Russ Weeks,REP,58
 Marion,123,Governor,,Russ Weeks,REP,97
 Marion,124,Governor,,Russ Weeks,REP,120
 Marion,125,Governor,,Russ Weeks,REP,131
-Marion,,Governor,,Russ Weeks,REP,4610
 Marion,29,Governor,,Jesse Johnson,DEM,11
 Marion,33,Governor,,Jesse Johnson,DEM,11
 Marion,44,Governor,,Jesse Johnson,DEM,7
@@ -869,7 +859,6 @@ Marion,122,Governor,,Jesse Johnson,DEM,13
 Marion,123,Governor,,Jesse Johnson,DEM,19
 Marion,124,Governor,,Jesse Johnson,DEM,21
 Marion,125,Governor,,Jesse Johnson,DEM,37
-Marion,,Governor,,Jesse Johnson,DEM,1033
 Marion,29,State Senate,13,Roman Prezioso,DEM,254
 Marion,33,State Senate,13,Roman Prezioso,DEM,167
 Marion,44,State Senate,13,Roman Prezioso,DEM,206
@@ -947,8 +936,6 @@ Marion,122,State Senate,13,Roman Prezioso,DEM,177
 Marion,123,State Senate,13,Roman Prezioso,DEM,293
 Marion,124,State Senate,13,Roman Prezioso,DEM,415
 Marion,125,State Senate,13,Roman Prezioso,DEM,401
-Marion,,State Senate,2,Jeffrey Kessler,DEM,1104
-Marion,,State Senate,13,Roman Prezioso,DEM,17991
 Marion,66,State Senate,2,Fred Brunner,REP,81
 Marion,67,State Senate,2,Fred Brunner,REP,68
 Marion,68,State Senate,2,Fred Brunner,REP,34
@@ -958,7 +945,6 @@ Marion,72,State Senate,2,Fred Brunner,REP,118
 Marion,74,State Senate,2,Fred Brunner,REP,122
 Marion,78,State Senate,2,Fred Brunner,REP,93
 Marion,59,State Senate,2,Fred Brunner,REP,34
-Marion,,State Senate,2,Fred Brunner,REP,671
 Marion,29,Secretary of State,,Natalie Tennant,DEM,273
 Marion,33,Secretary of State,,Natalie Tennant,DEM,157
 Marion,44,Secretary of State,,Natalie Tennant,DEM,197
@@ -1036,7 +1022,6 @@ Marion,122,Secretary of State,,Natalie Tennant,DEM,174
 Marion,123,Secretary of State,,Natalie Tennant,DEM,271
 Marion,124,Secretary of State,,Natalie Tennant,DEM,369
 Marion,125,Secretary of State,,Natalie Tennant,DEM,359
-Marion,,Secretary of State,,Natalie Tennant,DEM,18419
 Marion,29,State Auditor,,Glen Gainer,DEM,243
 Marion,33,State Auditor,,Glen Gainer,DEM,155
 Marion,44,State Auditor,,Glen Gainer,DEM,179
@@ -1114,7 +1099,6 @@ Marion,122,State Auditor,,Glen Gainer,DEM,169
 Marion,123,State Auditor,,Glen Gainer,DEM,286
 Marion,124,State Auditor,,Glen Gainer,DEM,399
 Marion,125,State Auditor,,Glen Gainer,DEM,377
-Marion,,State Auditor,,Glen Gainer,DEM,18473
 Marion,29,State Treasurer,,John Perdue,DEM,248
 Marion,33,State Treasurer,,John Perdue,DEM,153
 Marion,44,State Treasurer,,John Perdue,DEM,178
@@ -1192,7 +1176,6 @@ Marion,122,State Treasurer,,John Perdue,DEM,169
 Marion,123,State Treasurer,,John Perdue,DEM,287
 Marion,124,State Treasurer,,John Perdue,DEM,400
 Marion,125,State Treasurer,,John Perdue,DEM,380
-Marion,,State Treasurer,,John Perdue,DEM,18502
 Marion,29,Commissioner of Agriculture,,Gus Douglass,DEM,134
 Marion,33,Commissioner of Agriculture,,Gus Douglass,DEM,99
 Marion,44,Commissioner of Agriculture,,Gus Douglass,DEM,124
@@ -1270,7 +1253,6 @@ Marion,122,Commissioner of Agriculture,,Gus Douglass,DEM,79
 Marion,123,Commissioner of Agriculture,,Gus Douglass,DEM,171
 Marion,124,Commissioner of Agriculture,,Gus Douglass,DEM,216
 Marion,125,Commissioner of Agriculture,,Gus Douglass,DEM,197
-Marion,,Commissioner of Agriculture,,Gus Douglass,DEM,11303
 Marion,29,Attorney General,,Darrell McGraw,DEM,157
 Marion,33,Attorney General,,Darrell McGraw,DEM,121
 Marion,44,Attorney General,,Darrell McGraw,DEM,138
@@ -1348,7 +1330,6 @@ Marion,122,Attorney General,,Darrell McGraw,DEM,93
 Marion,123,Attorney General,,Darrell McGraw,DEM,176
 Marion,124,Attorney General,,Darrell McGraw,DEM,245
 Marion,125,Attorney General,,Darrell McGraw,DEM,236
-Marion,,Attorney General,,Darrell McGraw,DEM,12352
 Marion,29,House of Delegates,43,Tim Manchin,DEM,185
 Marion,33,House of Delegates,43,Tim Manchin,DEM,124
 Marion,44,House of Delegates,43,Tim Manchin,DEM,151
@@ -1469,14 +1450,6 @@ Marion,88,House of Delegates,43,Rick Stam,REP,154
 Marion,89,House of Delegates,43,Rick Stam,REP,134
 Marion,90,House of Delegates,43,Rick Stam,REP,43
 Marion,92,House of Delegates,43,Rick Stam,REP,99
-Marion,,House of Delegates,41,Ron Fragale,DEM,492
-Marion,,House of Delegates,41,Sam Cann,DEM,531
-Marion,,House of Delegates,41,Tim Miley,DEM,485
-Marion,,House of Delegates,41,Richard Iaquinta,DEM,435
-Marion,,House of Delegates,42,Mike Manypenny,DEM,365
-Marion,,House of Delegates,43,Tim Manchin,DEM,4327
-Marion,,House of Delegates,43,Mike Caputo,DEM,4853
-Marion,,House of Delegates,43,Linda Longstreth,DEM,4505
 Marion,1 F,House of Delegates,43,Tim Manchin,DEM,151
 Marion,2 F,House of Delegates,43,Tim Manchin,DEM,260
 Marion,5 F,House of Delegates,43,Tim Manchin,DEM,238
@@ -1734,7 +1707,6 @@ Marion,122,Secretary of State,,Charles Minimah,REP,61
 Marion,123,Secretary of State,,Charles Minimah,REP,92
 Marion,124,Secretary of State,,Charles Minimah,REP,129
 Marion,125,Secretary of State,,Charles Minimah,REP,129
-Marion,,Secretary of State,,Charles Minimah,REP,4729
 Marion,29,Commissioner of Agriculture,,Michael Teets,REP,174
 Marion,33,Commissioner of Agriculture,,Michael Teets,REP,84
 Marion,44,Commissioner of Agriculture,,Michael Teets,REP,93
@@ -1812,7 +1784,6 @@ Marion,122,Commissioner of Agriculture,,Michael Teets,REP,140
 Marion,123,Commissioner of Agriculture,,Michael Teets,REP,178
 Marion,124,Commissioner of Agriculture,,Michael Teets,REP,262
 Marion,125,Commissioner of Agriculture,,Michael Teets,REP,265
-Marion,,Commissioner of Agriculture,,Michael Teets,REP,10799
 Marion,29,Attorney General,,Dan Greear,REP,153
 Marion,33,Attorney General,,Dan Greear,REP,62
 Marion,44,Attorney General,,Dan Greear,REP,89
@@ -1890,7 +1861,6 @@ Marion,122,Attorney General,,Dan Greear,REP,137
 Marion,123,Attorney General,,Dan Greear,REP,176
 Marion,124,Attorney General,,Dan Greear,REP,242
 Marion,125,Attorney General,,Dan Greear,REP,250
-Marion,,Attorney General,,Dan Greear,REP,10126
 Marion,102,U.S. Senate,,Chad Shaffer,,1
 Marion,38,U.S. Senate,,Rick Bartlett,,1
 Marion,98,U.S. Senate,,Chad Shaffer,,1

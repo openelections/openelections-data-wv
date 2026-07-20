@@ -68,7 +68,6 @@ Hampshire,24,Straight Party Ticket,,REP,,34
 Hampshire,25,Straight Party Ticket,,REP,,73
 Hampshire,26,Straight Party Ticket,,REP,,21
 Hampshire,28,Straight Party Ticket,,REP,,50
-Hampshire,,Straight Party Ticket,,REP,,1215
 Hampshire,2,Straight Party Ticket,,DEM,,42
 Hampshire,4,Straight Party Ticket,,DEM,,52
 Hampshire,6,Straight Party Ticket,,DEM,,46
@@ -92,7 +91,6 @@ Hampshire,24,Straight Party Ticket,,DEM,,28
 Hampshire,25,Straight Party Ticket,,DEM,,46
 Hampshire,26,Straight Party Ticket,,DEM,,15
 Hampshire,28,Straight Party Ticket,,DEM,,32
-Hampshire,,Straight Party Ticket,,DEM,,655
 hampshire,2,Straight Party Ticket,,CON,,0
 hampshire,4,Straight Party Ticket,,CON,,3
 hampshire,6,Straight Party Ticket,,CON,,4
@@ -116,7 +114,6 @@ Hampshire,24,Straight Party Ticket,,CON,,0
 Hampshire,25,Straight Party Ticket,,CON,,0
 Hampshire,26,Straight Party Ticket,,CON,,1
 Hampshire,28,Straight Party Ticket,,CON,,3
-Hampshire,,Straight Party Ticket,,CON,,15
 Hampshire,2,Straight Party Ticket,,MTN,,2
 Hampshire,4,Straight Party Ticket,,MTN,,2
 Hampshire,6,Straight Party Ticket,,MTN,,2
@@ -140,7 +137,6 @@ Hampshire,24,Straight Party Ticket,,MTN,,0
 Hampshire,25,Straight Party Ticket,,MTN,,0
 Hampshire,26,Straight Party Ticket,,MTN,,0
 Hampshire,28,Straight Party Ticket,,MTN,,7
-Total,,Straight Party Ticket,,,,22
 Hampshire,2,U.S. Senator,,REP,John R. Raese,179
 Hampshire,4,U.S. Senator,,REP,John R. Raese,251
 Hampshire,6,U.S. Senator,,REP,John R. Raese,221
@@ -164,7 +160,6 @@ Hampshire,24,U.S. Senator,,REP,John R. Raese,146
 Hampshire,25,U.S. Senator,,REP,John R. Raese,222
 Hampshire,26,U.S. Senator,,REP,John R. Raese,59
 Hampshire,28,U.S. Senator,,REP,John R. Raese,108
-Hampshire,,U.S. Senator,,REP,John R. Raese,3429
 Hampshire,2,U.S. Senator,,DEM,Joe Manchin III,128
 Hampshire,4,U.S. Senator,,DEM,Joe Manchin III,179
 Hampshire,6,U.S. Senator,,DEM,Joe Manchin III,131
@@ -188,7 +183,6 @@ Hampshire,24,U.S. Senator,,DEM,Joe Manchin III,123
 Hampshire,25,U.S. Senator,,DEM,Joe Manchin III,196
 Hampshire,26,U.S. Senator,,DEM,Joe Manchin III,66
 Hampshire,28,U.S. Senator,,DEM,Joe Manchin III,112
-Hampshire,,U.S. Senator,,DEM,Joe Manchin III,2577
 Hampshire,2,U.S. Senator,,CON,Jeff Becker,6
 Hampshire,4,U.S. Senator,,CON,Jeff Becker,10
 Hampshire,6,U.S. Senator,,CON,Jeff Becker,5
@@ -212,7 +206,6 @@ Hampshire,24,U.S. Senator,,CON,Jeff Becker,3
 Hampshire,25,U.S. Senator,,CON,Jeff Becker,6
 Hampshire,26,U.S. Senator,,CON,Jeff Becker,2
 Hampshire,28,U.S. Senator,,CON,Jeff Becker,6
-Hampshire,,U.S. Senator,,CON,Jeff Becker,128
 Hampshire,2,U.S.Senator,,MTN,Jesse Johnson,1
 Hampshire,4,U.S. Senator,,MTN,Jesse Johnson,5
 Hampshire,6,U.S. Senator,,MTN,Jesse Johnson,4
@@ -236,7 +229,6 @@ Hampshire,24,U.S. Senator,,MTN,Jesse Johnson,4
 Hampshire,25,U.S. Senator,,MTN,Jesse Johnson,3
 Hampshire,26,U.S. Senator,,MTN,Jesse Johnson,0
 Hampshire,28,U.S. Senator,,MTN,Jesse Johnson,4
-Hampshire,,U.S. Senator,,MTN,Jesse Johnson,45
 Hampshire,2,U.S. Senator,,,Write-ins,0
 Hampshire,4,U.S. Senator,,,Write-ins,2
 Hampshire,6,U.S. Senator,,,Write-ins,0
@@ -260,7 +252,6 @@ Hampshire,24,U.S. Senator,,,Write-ins,0
 Hampshire,25,U.S. Senator,,,Write-ins,0
 Hampshire,26,U.S. Senator,,,Write-ins,0
 Hampshire,28,U.S. Senator,,,Write-ins,0
-Hampshire,,U.S. Senator,,,Write-ins,4
 Hampshire,2,U.S. House,2,REP,Shelley Moore Capito,236
 Hampshire,4,U.S. House,2,REP,Shelley Moore Capito,312
 Hampshire,6,U.S. House,2,REP,Shelley Moore Capito,271
@@ -284,7 +275,6 @@ Hampshire,24,U.S. House,2,REP,Shelley Moore Capito,209
 Hampshire,25,U.S. House,2,REP,Shelley Moore Capito,304
 Hampshire,26,U.S. House,2,REP,Shelley Moore Capito,84
 Hampshire,28,U.S. House,2,REP,Shelley Moore Capito,155
-Hampshire,,U.S. House,2,REP,Shelley Moore Capito,4526
 Hampshire,2,U.S. House,2,DEM,Virginia Lynch Graf,74
 Hampshire,4,U.S. House,2,DEM,Virginia Lynch Graf,120
 Hampshire,6,U.S. House,2,DEM,Virginia Lynch Graf,77
@@ -308,7 +298,6 @@ Hampshire,24,U.S. House,2,DEM,Virginia Lynch Graf,61
 Hampshire,25,U.S. House,2,DEM,Virginia Lynch Graf,106
 Hampshire,26,U.S. House,2,DEM,Virginia Lynch Graf,39
 Hampshire,28,U.S. House,2,DEM,Virginia Lynch Graf,63
-Hampshire,,U.S. House,2,DEM,Virginia Lynch Graf,1473
 Hampshire,2,U.S. House,2,CON,Phil Hudok,3
 Hampshire,4,U.S. House,2,CON,Phil Hudok,10
 Hampshire,6,U.S. House,2,CON,Phil Hudok,8
@@ -332,7 +321,6 @@ Hampshire,24,U.S. House,2,CON,Phil Hudok,3
 Hampshire,25,U.S. House,2,CON,Phil Hudok,7
 Hampshire,26,U.S. House,2,CON,Phil Hudok,1
 Hampshire,28,U.S. House,2,CON,Phil Hudok,7
-Hampshire,,U.S. House,2,CON,Phil Hudok,99
 Hampshire,2,U.S. House,2,,Write-ins,0
 Hampshire,4,U.S. House,2,,Write-ins,1
 Hampshire,6,U.S. House,2,,Write-ins,0
@@ -356,7 +344,6 @@ Hampshire,24,U.S. House,2,,Write-ins,0
 Hampshire,25,U.S. House,2,,Write-ins,0
 Hampshire,26,U.S. House,2,,Write-ins,0
 Hampshire,28,U.S. House,2,,Write-ins,0
-Hampshire,,U.S. House,2,,Write-ins,2
 Hampshire,2,State Senator,15,REP,Jeremy Donald Bauserman,168
 Hampshire,4,State Senator,15,REP,Jeremy Donald Bauserman,247
 Hampshire,6,State Senator,15,REP,Jeremy Donald Bauserman,209
@@ -380,7 +367,6 @@ Hampshire,24,State Senator,15,REP,Jeremy Donald Bauserman,114
 Hampshire,25,State Senator,15,REP,Jeremy Donald Bauserman,186
 Hampshire,26,State Senator,15,REP,Jeremy Donald Bauserman,50
 Hampshire,28,State Senator,15,REP,Jeremy Donald Bauserman,97
-Hampshire,,State Senator,15,REP,Jeremy Donald Bauserman,2788
 Hampshire,2,State Senator,15,DEM,Walt Helmick,141
 Hampshire,4,State Senator,15,DEM,Walt Helmick,182
 Hampshire,6,State Senator,15,DEM,Walt Helmick,141
@@ -404,7 +390,6 @@ Hampshire,24,State Senator,15,DEM,Walt Helmick,154
 Hampshire,25,State Senator,15,DEM,Walt Helmick,218
 Hampshire,26,State Senator,15,DEM,Walt Helmick,70
 Hampshire,28,State Senator,15,DEM,Walt Helmick,127
-Hampshire,,State Senator,15,DEM,Walt Helmick,3119
 Hampshire,2,State Senator,15,,Write-ins,0
 Hampshire,4,State Senator,15,,Write-ins,1
 Hampshire,6,State Senator,15,,Write-ins,0
@@ -428,7 +413,6 @@ Hampshire,24,State Senator,15,,Write-ins,0
 Hampshire,25,State Senator,15,,Write-ins,0
 Hampshire,26,State Senator,15,,Write-ins,0
 Hampshire,28,State Senator,15,,Write-ins,0
-Hampshire,,State Senator,15,,Write-ins,4
 Hampshire,8,House of Delegates,50,REP,Ruth Rowan,134
 Hampshire,9,House of Delegates,50,REP,Ruth Rowan,138
 Hampshire,10,House of Delegates,50,REP,Ruth Rowan,158
@@ -447,7 +431,6 @@ Hampshire,24,House of Delegates,50,REP,Ruth Rowan,193
 Hampshire,25,House of Delegates,50,REP,Ruth Rowan,293
 Hampshire,26,House of Delegates,50,REP,Ruth Rowan,94
 Hampshire,28,House of Delegates,50,REP,Ruth Rowan,155
-Hampshire,,House of Delegates,50,REP,Ruth Rowan,3074
 Hampshire,8,House of Delegates,50,DEM,Alan Mitch Davis,38
 Hampshire,9,House of Delegates,50,DEM,Alan Mitch Davis,45
 Hampshire,10,House of Delegates,50,DEM,Alan Mitch Davis,69
@@ -466,7 +449,6 @@ Hampshire,24,House of Delegates,50,DEM,Alan Mitch Davis,80
 Hampshire,25,House of Delegates,50,DEM,Alan Mitch Davis,130
 Hampshire,26,House of Delegates,50,DEM,Alan Mitch Davis,33
 Hampshire,28,House of Delegates,50,DEM,Alan Mitch Davis,70
-Hampshire,,House of Delegates,50,DEM,Alan Mitch Davis,1221
 Hampshire,8,House of Delegates,50,,Write-ins,0
 Hampshire,9,House of Delegates,50,,Write-ins,0
 Hampshire,10,House of Delegates,50,,Write-ins,1
@@ -485,22 +467,18 @@ Hampshire,24,House of Delegates,50,,Write-ins,0
 Hampshire,25,House of Delegates,50,,Write-ins,0
 Hampshire,26,House of Delegates,50,,Write-ins,0
 Hampshire,28,House of Delegates,50,,Write-ins,1
-Hampshire,,House of Delegates,50,,Write-ins,6
 Hampshire,2,House of Delegates,51,REP,Daryl E Cowles,191
 Hampshire,4,House of Delegates,51,REP,Daryl E Cowles,259
 Hampshire,6,House of Delegates,51,REP,Daryl E Cowles,217
 Hampshire,7,House of Delegates,51,REP,Daryl E Cowles,262
 Hampshire,21,House of Delegates,51,REP,Daryl E Cowles,177
-Hampshire,,House of Delegates,51,REP,Daryl E Cowles,1106
 Hampshire,2,House of Delegates,51,DEM,Alton Wolfe Jr,112
 Hampshire,4,House of Delegates,51,DEM,Alton Wolfe Jr,182
 Hampshire,6,House of Delegates,51,DEM,Alton Wolfe Jr,129
 Hampshire,7,House of Delegates,51,DEM,Alton Wolfe Jr,142
 Hampshire,21,House of Delegates,51,DEM,Alton Wolfe Jr,90
-Hampshire,,House of Delegates,51,DEM,Alton Wolfe Jr,655
 Hampshire,2,House of Delegates,51,,Write-ins,0
 Hampshire,4,House of Delegates,51,,Write-ins,2
 Hampshire,6,House of Delegates,51,,Write-ins,3
 Hampshire,7,House of Delegates,51,,Write-ins,0
 Hampshire,21,House of Delegates,51,,Write-ins,1
-Hampshire,,House of Delegates,51,,Write-ins,6
