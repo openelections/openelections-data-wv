@@ -59,7 +59,6 @@ Mercer,89,,,Republican,Straight Party,32
 Mercer,95,,,Republican,Straight Party,37
 Mercer,96,,,Republican,Straight Party,29
 Mercer,98,,,Republican,Straight Party,59
-Mercer,Total,,,Republican,Straight Party,2628
 Mercer,1,,,Democratic,Straight Party,32
 Mercer,2,,,Democratic,Straight Party,66
 Mercer,3,,,Democratic,Straight Party,71
@@ -120,7 +119,6 @@ Mercer,89,,,Democratic,Straight Party,27
 Mercer,95,,,Democratic,Straight Party,28
 Mercer,96,,,Democratic,Straight Party,20
 Mercer,98,,,Democratic,Straight Party,53
-Mercer,Total,,,Democratic,Straight Party,3428
 Mercer,1,,,Mountain,Straight Party,3
 Mercer,2,,,Mountain,Straight Party,2
 Mercer,3,,,Mountain,Straight Party,1
@@ -181,7 +179,6 @@ Mercer,89,,,Mountain,Straight Party,4
 Mercer,95,,,Mountain,Straight Party,1
 Mercer,96,,,Mountain,Straight Party,1
 Mercer,98,,,Mountain,Straight Party,3
-Mercer,Total,,,Mountain,Straight Party,84
 Mercer,1,President,,Republican,John McCain,116
 Mercer,2,President,,Republican,John McCain,329
 Mercer,3,President,,Republican,John McCain,286
@@ -242,7 +239,6 @@ Mercer,89,President,,Republican,John McCain,145
 Mercer,95,President,,Republican,John McCain,215
 Mercer,96,President,,Republican,John McCain,125
 Mercer,98,President,,Republican,John McCain,342
-Mercer,Total,President,,Republican,John McCain,13246
 Mercer,1,President,,Democratic,Barack Obama,48
 Mercer,2,President,,Democratic,Barack Obama,155
 Mercer,3,President,,Democratic,Barack Obama,108
@@ -303,7 +299,6 @@ Mercer,89,President,,Democratic,Barack Obama,67
 Mercer,95,President,,Democratic,Barack Obama,90
 Mercer,96,President,,Democratic,Barack Obama,50
 Mercer,98,President,,Democratic,Barack Obama,152
-Mercer,Total,President,,Democratic,Barack Obama,7450
 Mercer,1,President,,Mountain,Cynthia McKinney,0
 Mercer,2,President,,Mountain,Cynthia McKinney,2
 Mercer,3,President,,Mountain,Cynthia McKinney,1
@@ -364,7 +359,6 @@ Mercer,89,President,,Mountain,Cynthia McKinney,1
 Mercer,95,President,,Mountain,Cynthia McKinney,0
 Mercer,96,President,,Mountain,Cynthia McKinney,0
 Mercer,98,President,,Mountain,Cynthia McKinney,3
-Mercer,Total,President,,Mountain,Cynthia McKinney,80
 Mercer,1,President,,,Ralph Nader,1
 Mercer,2,President,,,Ralph Nader,4
 Mercer,3,President,,,Ralph Nader,6
@@ -425,7 +419,6 @@ Mercer,89,President,,,Ralph Nader,1
 Mercer,95,President,,,Ralph Nader,2
 Mercer,96,President,,,Ralph Nader,2
 Mercer,98,President,,,Ralph Nader,2
-Mercer,Total,President,,,Ralph Nader,199
 Mercer,1,President,,Constitution,Chuck Baldwin,1
 Mercer,2,President,,Constitution,Chuck Baldwin,4
 Mercer,3,President,,Constitution,Chuck Baldwin,0
@@ -486,7 +479,6 @@ Mercer,89,President,,Constitution,Chuck Baldwin,2
 Mercer,95,President,,Constitution,Chuck Baldwin,0
 Mercer,96,President,,Constitution,Chuck Baldwin,0
 Mercer,98,President,,Constitution,Chuck Baldwin,1
-Mercer,Total,President,,Constitution,Chuck Baldwin,47
 Mercer,1,U.S. Senate,,Republican,Jay Wolfe,76
 Mercer,2,U.S. Senate,,Republican,Jay Wolfe,204
 Mercer,3,U.S. Senate,,Republican,Jay Wolfe,157
@@ -547,7 +539,6 @@ Mercer,89,U.S. Senate,,Republican,Jay Wolfe,89
 Mercer,95,U.S. Senate,,Republican,Jay Wolfe,116
 Mercer,96,U.S. Senate,,Republican,Jay Wolfe,82
 Mercer,98,U.S. Senate,,Republican,Jay Wolfe,204
-Mercer,Total,U.S. Senate,,Republican,Jay Wolfe,8161
 Mercer,1,U.S. Senate,,Democratic,Jay Rockefeller,91
 Mercer,2,U.S. Senate,,Democratic,Jay Rockefeller,272
 Mercer,3,U.S. Senate,,Democratic,Jay Rockefeller,243
@@ -608,7 +599,6 @@ Mercer,89,U.S. Senate,,Democratic,Jay Rockefeller,126
 Mercer,95,U.S. Senate,,Democratic,Jay Rockefeller,193
 Mercer,96,U.S. Senate,,Democratic,Jay Rockefeller,90
 Mercer,98,U.S. Senate,,Democratic,Jay Rockefeller,278
-Mercer,Total,U.S. Senate,,Democratic,Jay Rockefeller,12341
 Mercer,1,U.S. House,3,Republican,Marty Gearheart,83
 Mercer,2,U.S. House,3,Republican,Marty Gearheart,209
 Mercer,3,U.S. House,3,Republican,Marty Gearheart,148
@@ -669,7 +659,6 @@ Mercer,89,U.S. House,3,Republican,Marty Gearheart,100
 Mercer,95,U.S. House,3,Republican,Marty Gearheart,119
 Mercer,96,U.S. House,3,Republican,Marty Gearheart,88
 Mercer,98,U.S. House,3,Republican,Marty Gearheart,213
-Mercer,Total,U.S. House,3,Republican,Marty Gearheart,8791
 Mercer,1,U.S. House,3,Democratic,Nick Joe Rahall II,82
 Mercer,2,U.S. House,3,Democratic,Nick Joe Rahall II,272
 Mercer,3,U.S. House,3,Democratic,Nick Joe Rahall II,252
@@ -730,7 +719,6 @@ Mercer,89,U.S. House,3,Democratic,Nick Joe Rahall II,118
 Mercer,95,U.S. House,3,Democratic,Nick Joe Rahall II,187
 Mercer,96,U.S. House,3,Democratic,Nick Joe Rahall II,83
 Mercer,98,U.S. House,3,Democratic,Nick Joe Rahall II,271
-Mercer,Total,U.S. House,3,Democratic,Nick Joe Rahall II,11662
 Mercer,1,Governor,,Republican,Russ Weeks,47
 Mercer,2,Governor,,Republican,Russ Weeks,107
 Mercer,3,Governor,,Republican,Russ Weeks,98
@@ -791,7 +779,6 @@ Mercer,89,Governor,,Republican,Russ Weeks,66
 Mercer,95,Governor,,Republican,Russ Weeks,91
 Mercer,96,Governor,,Republican,Russ Weeks,53
 Mercer,98,Governor,,Republican,Russ Weeks,137
-Mercer,Total,Governor,,Republican,Russ Weeks,5687
 Mercer,1,Governor,,Democratic,Joe Manchin III,117
 Mercer,2,Governor,,Democratic,Joe Manchin III,371
 Mercer,3,Governor,,Democratic,Joe Manchin III,306
@@ -852,7 +839,6 @@ Mercer,89,Governor,,Democratic,Joe Manchin III,146
 Mercer,95,Governor,,Democratic,Joe Manchin III,208
 Mercer,96,Governor,,Democratic,Joe Manchin III,122
 Mercer,98,Governor,,Democratic,Joe Manchin III,339
-Mercer,Total,Governor,,Democratic,Joe Manchin III,14654
 Mercer,1,Governor,,Mountain,Jesse Johnson,2
 Mercer,2,Governor,,Mountain,Jesse Johnson,12
 Mercer,3,Governor,,Mountain,Jesse Johnson,1
@@ -913,7 +899,6 @@ Mercer,89,Governor,,Mountain,Jesse Johnson,7
 Mercer,95,Governor,,Mountain,Jesse Johnson,6
 Mercer,96,Governor,,Mountain,Jesse Johnson,3
 Mercer,98,Governor,,Mountain,Jesse Johnson,12
-Mercer,Total,Governor,,Mountain,Jesse Johnson,533
 Mercer,1,Secretary of State,,Republican,Charles Minimah,76
 Mercer,2,Secretary of State,,Republican,Charles Minimah,195
 Mercer,3,Secretary of State,,Republican,Charles Minimah,174
@@ -974,7 +959,6 @@ Mercer,89,Secretary of State,,Republican,Charles Minimah,92
 Mercer,95,Secretary of State,,Republican,Charles Minimah,132
 Mercer,96,Secretary of State,,Republican,Charles Minimah,82
 Mercer,98,Secretary of State,,Republican,Charles Minimah,181
-Mercer,Total,Secretary of State,,Republican,Charles Minimah,8144
 Mercer,1,Secretary of State,,Democratic,Natalie Tennant,87
 Mercer,2,Secretary of State,,Democratic,Natalie Tennant,253
 Mercer,3,Secretary of State,,Democratic,Natalie Tennant,199
@@ -1035,7 +1019,6 @@ Mercer,89,Secretary of State,,Democratic,Natalie Tennant,114
 Mercer,95,Secretary of State,,Democratic,Natalie Tennant,142
 Mercer,96,Secretary of State,,Democratic,Natalie Tennant,73
 Mercer,98,Secretary of State,,Democratic,Natalie Tennant,261
-Mercer,Total,Secretary of State,,Democratic,Natalie Tennant,11094
 Mercer,1,State Auditor,,Democratic,Glen B. Gainer III,132
 Mercer,2,State Auditor,,Democratic,Glen B. Gainer III,360
 Mercer,3,State Auditor,,Democratic,Glen B. Gainer III,302
@@ -1096,7 +1079,6 @@ Mercer,89,State Auditor,,Democratic,Glen B. Gainer III,158
 Mercer,95,State Auditor,,Democratic,Glen B. Gainer III,207
 Mercer,96,State Auditor,,Democratic,Glen B. Gainer III,115
 Mercer,98,State Auditor,,Democratic,Glen B. Gainer III,336
-Mercer,Total,State Auditor,,Democratic,Glen B. Gainer III,15108
 Mercer,1,State Treasurer,,Democratic,John D. Perdue,129
 Mercer,2,State Treasurer,,Democratic,John D. Perdue,352
 Mercer,3,State Treasurer,,Democratic,John D. Perdue,292
@@ -1157,7 +1139,6 @@ Mercer,89,State Treasurer,,Democratic,John D. Perdue,154
 Mercer,95,State Treasurer,,Democratic,John D. Perdue,210
 Mercer,96,State Treasurer,,Democratic,John D. Perdue,117
 Mercer,98,State Treasurer,,Democratic,John D. Perdue,332
-Mercer,Total,State Treasurer,,Democratic,John D. Perdue,14982
 Mercer,1,Commissioner of Agriculture,,Republican,J. Michael Teets,77
 Mercer,2,Commissioner of Agriculture,,Republican,J. Michael Teets,195
 Mercer,3,Commissioner of Agriculture,,Republican,J. Michael Teets,183
@@ -1218,7 +1199,6 @@ Mercer,89,Commissioner of Agriculture,,Republican,J. Michael Teets,103
 Mercer,95,Commissioner of Agriculture,,Republican,J. Michael Teets,134
 Mercer,96,Commissioner of Agriculture,,Republican,J. Michael Teets,73
 Mercer,98,Commissioner of Agriculture,,Republican,J. Michael Teets,204
-Mercer,Total,Commissioner of Agriculture,,Republican,J. Michael Teets,8925
 Mercer,1,Commissioner of Agriculture,,Democratic,Gus R. Douglass,84
 Mercer,2,Commissioner of Agriculture,,Democratic,Gus R. Douglass,243
 Mercer,3,Commissioner of Agriculture,,Democratic,Gus R. Douglass,191
@@ -1279,7 +1259,6 @@ Mercer,89,Commissioner of Agriculture,,Democratic,Gus R. Douglass,96
 Mercer,95,Commissioner of Agriculture,,Democratic,Gus R. Douglass,140
 Mercer,96,Commissioner of Agriculture,,Democratic,Gus R. Douglass,80
 Mercer,98,Commissioner of Agriculture,,Democratic,Gus R. Douglass,227
-Mercer,Total,Commissioner of Agriculture,,Democratic,Gus R. Douglass,10104
 Mercer,1,Attorney General,,Republican,Dan Greear,78
 Mercer,2,Attorney General,,Republican,Dan Greear,245
 Mercer,3,Attorney General,,Republican,Dan Greear,199
@@ -1340,7 +1319,6 @@ Mercer,89,Attorney General,,Republican,Dan Greear,121
 Mercer,95,Attorney General,,Republican,Dan Greear,155
 Mercer,96,Attorney General,,Republican,Dan Greear,97
 Mercer,98,Attorney General,,Republican,Dan Greear,269
-Mercer,Total,Attorney General,,Republican,Dan Greear,10510
 Mercer,1,Attorney General,,Democratic,Darrell McGraw,90
 Mercer,2,Attorney General,,Democratic,Darrell McGraw,233
 Mercer,3,Attorney General,,Democratic,Darrell McGraw,193
@@ -1401,7 +1379,6 @@ Mercer,89,Attorney General,,Democratic,Darrell McGraw,85
 Mercer,95,Attorney General,,Democratic,Darrell McGraw,143
 Mercer,96,Attorney General,,Democratic,Darrell McGraw,72
 Mercer,98,Attorney General,,Democratic,Darrell McGraw,207
-Mercer,Total,Attorney General,,Democratic,Darrell McGraw,9616
 Mercer,2,State Senate,6,Republican,Mark R. Maynard,168
 Mercer,3,State Senate,6,Republican,Mark R. Maynard,146
 Mercer,4,State Senate,6,Republican,Mark R. Maynard,156
@@ -1424,7 +1401,6 @@ Mercer,71,State Senate,6,Republican,Mark R. Maynard,301
 Mercer,72,State Senate,6,Republican,Mark R. Maynard,172
 Mercer,79,State Senate,6,Republican,Mark R. Maynard,204
 Mercer,96,State Senate,6,Republican,Mark R. Maynard,74
-Mercer,Total,State Senate,6,Republican,Mark R. Maynard,2636
 Mercer,2,State Senate,6,Democratic,John Pat Fanning,289
 Mercer,3,State Senate,6,Democratic,John Pat Fanning,232
 Mercer,4,State Senate,6,Democratic,John Pat Fanning,188
@@ -1447,7 +1423,6 @@ Mercer,71,State Senate,6,Democratic,John Pat Fanning,414
 Mercer,72,State Senate,6,Democratic,John Pat Fanning,236
 Mercer,79,State Senate,6,Democratic,John Pat Fanning,238
 Mercer,96,State Senate,6,Democratic,John Pat Fanning,87
-Mercer,Total,State Senate,6,Democratic,John Pat Fanning,3720
 Mercer,1,State Senate,10,Republican,Donald T. Caruth,110
 Mercer,14,State Senate,10,Republican,Donald T. Caruth,37
 Mercer,15,State Senate,10,Republican,Donald T. Caruth,116
@@ -1486,7 +1461,6 @@ Mercer,88,State Senate,10,Republican,Donald T. Caruth,619
 Mercer,89,State Senate,10,Republican,Donald T. Caruth,132
 Mercer,95,State Senate,10,Republican,Donald T. Caruth,214
 Mercer,98,State Senate,10,Republican,Donald T. Caruth,330
-Mercer,Total,State Senate,10,Republican,Donald T. Caruth,8934
 Mercer,1,State Senate,10,Democratic,"James W. ""Jim"" McNeely",59
 Mercer,14,State Senate,10,Democratic,"James W. ""Jim"" McNeely",305
 Mercer,15,State Senate,10,Democratic,"James W. ""Jim"" McNeely",100
@@ -1525,7 +1499,6 @@ Mercer,88,State Senate,10,Democratic,"James W. ""Jim"" McNeely",227
 Mercer,89,State Senate,10,Democratic,"James W. ""Jim"" McNeely",72
 Mercer,95,State Senate,10,Democratic,"James W. ""Jim"" McNeely",85
 Mercer,98,State Senate,10,Democratic,"James W. ""Jim"" McNeely",144
-Mercer,Total,State Senate,10,Democratic,"James W. ""Jim"" McNeely",4526
 Mercer,2,State House,24,Republican,John H. Shott,250
 Mercer,4,State House,24,Republican,John H. Shott,210
 Mercer,5,State House,24,Republican,John H. Shott,144
@@ -1545,7 +1518,6 @@ Mercer,66,State House,24,Republican,John H. Shott,63
 Mercer,67,State House,24,Republican,John H. Shott,103
 Mercer,68,State House,24,Republican,John H. Shott,45
 Mercer,79,State House,24,Republican,John H. Shott,270
-Mercer,Total,State House,24,Republican,John H. Shott,3144
 Mercer,2,State House,24,Democratic,Mike Vinciguerra Jr.,235
 Mercer,4,State House,24,Democratic,Mike Vinciguerra Jr.,150
 Mercer,5,State House,24,Democratic,Mike Vinciguerra Jr.,121
@@ -1565,7 +1537,6 @@ Mercer,66,State House,24,Democratic,Mike Vinciguerra Jr.,93
 Mercer,67,State House,24,Democratic,Mike Vinciguerra Jr.,162
 Mercer,68,State House,24,Democratic,Mike Vinciguerra Jr.,58
 Mercer,79,State House,24,Democratic,Mike Vinciguerra Jr.,201
-Mercer,Total,State House,24,Democratic,Mike Vinciguerra Jr.,2724
 Mercer,3,State House,22,Democratic,Daniel J. Hall,200
 Mercer,42,State House,22,Democratic,Daniel J. Hall,44
 Mercer,46,State House,22,Democratic,Daniel J. Hall,72
@@ -1574,7 +1545,6 @@ Mercer,55,State House,22,Democratic,Daniel J. Hall,133
 Mercer,60,State House,22,Democratic,Daniel J. Hall,38
 Mercer,69,State House,22,Democratic,Daniel J. Hall,215
 Mercer,96,State House,22,Democratic,Daniel J. Hall,89
-Mercer,Total,State House,22,Democratic,Daniel J. Hall,928
 Mercer,3,State House,22,Democratic,Linda Goode Phillips,221
 Mercer,42,State House,22,Democratic,Linda Goode Phillips,52
 Mercer,46,State House,22,Democratic,Linda Goode Phillips,76
@@ -1583,7 +1553,6 @@ Mercer,55,State House,22,Democratic,Linda Goode Phillips,136
 Mercer,60,State House,22,Democratic,Linda Goode Phillips,45
 Mercer,69,State House,22,Democratic,Linda Goode Phillips,238
 Mercer,96,State House,22,Democratic,Linda Goode Phillips,89
-Mercer,Total,State House,22,Democratic,Linda Goode Phillips,1002
 Mercer,1,State House,25,Republican,Joe Ellington,55
 Mercer,44,State House,25,Republican,Joe Ellington,116
 Mercer,47,State House,25,Republican,Joe Ellington,106
@@ -1617,7 +1586,6 @@ Mercer,88,State House,25,Republican,Joe Ellington,264
 Mercer,89,State House,25,Republican,Joe Ellington,71
 Mercer,95,State House,25,Republican,Joe Ellington,92
 Mercer,98,State House,25,Republican,Joe Ellington,143
-Mercer,Total,State House,25,Republican,Joe Ellington,3827
 Mercer,1,State House,25,Republican,T. Mike Porter,77
 Mercer,44,State House,25,Republican,T. Mike Porter,224
 Mercer,47,State House,25,Republican,T. Mike Porter,178
@@ -1651,7 +1619,6 @@ Mercer,88,State House,25,Republican,T. Mike Porter,437
 Mercer,89,State House,25,Republican,T. Mike Porter,118
 Mercer,95,State House,25,Republican,T. Mike Porter,162
 Mercer,98,State House,25,Republican,T. Mike Porter,263
-Mercer,Total,State House,25,Republican,T. Mike Porter,6539
 Mercer,1,State House,25,Democratic,John R. Frazier,82
 Mercer,44,State House,25,Democratic,John R. Frazier,199
 Mercer,47,State House,25,Democratic,John R. Frazier,153
@@ -1685,7 +1652,6 @@ Mercer,88,State House,25,Democratic,John R. Frazier,445
 Mercer,89,State House,25,Democratic,John R. Frazier,100
 Mercer,95,State House,25,Democratic,John R. Frazier,155
 Mercer,98,State House,25,Democratic,John R. Frazier,237
-Mercer,Total,State House,25,Democratic,John R. Frazier,6664
 Mercer,1,State House,25,Democratic,Marshall C. Long,62
 Mercer,44,State House,25,Democratic,Marshall C. Long,186
 Mercer,47,State House,25,Democratic,Marshall C. Long,130
@@ -1719,4 +1685,3 @@ Mercer,88,State House,25,Democratic,Marshall C. Long,373
 Mercer,89,State House,25,Democratic,Marshall C. Long,91
 Mercer,95,State House,25,Democratic,Marshall C. Long,140
 Mercer,98,State House,25,Democratic,Marshall C. Long,210
-Mercer,Total,State House,25,Democratic,Marshall C. Long,6070

@@ -37,7 +37,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,,,REP,Straight Ticket,28
 Mason,36 ASHTON ELEMENTARY SCHOOL,,,REP,Straight Ticket,35
 Mason,37 ASHTON ELEMENTARY SCHOOL,,,REP,Straight Ticket,18
 Mason,38 HANNAN PUBLIC LIBRARY,,,REP,Straight Ticket,34
-Mason,Total,,,REP,Straight Ticket,742
 Mason,1 FAIR OFFICE,,,DEM,Straight Ticket,8
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,,,DEM,Straight Ticket,24
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,,,DEM,Straight Ticket,40
@@ -76,7 +75,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,,,DEM,Straight Ticket,57
 Mason,36 ASHTON ELEMENTARY SCHOOL,,,DEM,Straight Ticket,36
 Mason,37 ASHTON ELEMENTARY SCHOOL,,,DEM,Straight Ticket,33
 Mason,38 HANNAN PUBLIC LIBRARY,,,DEM,Straight Ticket,51
-Mason,Total,,,DEM,Straight Ticket,1151
 Mason,1 FAIR OFFICE,,,MTN,Straight Ticket,1
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,,,MTN,Straight Ticket,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,,,MTN,Straight Ticket,0
@@ -115,7 +113,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,,,MTN,Straight Ticket,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,,,MTN,Straight Ticket,2
 Mason,37 ASHTON ELEMENTARY SCHOOL,,,MTN,Straight Ticket,0
 Mason,38 HANNAN PUBLIC LIBRARY,,,MTN,Straight Ticket,1
-Mason,Total,,,MTN,Straight Ticket,28
 Mason,1 FAIR OFFICE,President,,REP,John McCain,108
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,President,,REP,John McCain,61
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,President,,REP,John McCain,140
@@ -154,7 +151,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,President,,REP,John McCain,183
 Mason,36 ASHTON ELEMENTARY SCHOOL,President,,REP,John McCain,145
 Mason,37 ASHTON ELEMENTARY SCHOOL,President,,REP,John McCain,94
 Mason,38 HANNAN PUBLIC LIBRARY,President,,REP,John McCain,251
-Mason,Total,President,,REP,John McCain,5853
 Mason,1 FAIR OFFICE,President,,DEM,Barack Obama,63
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,President,,DEM,Barack Obama,57
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,President,,DEM,Barack Obama,115
@@ -193,7 +189,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,President,,DEM,Barack Obama,182
 Mason,36 ASHTON ELEMENTARY SCHOOL,President,,DEM,Barack Obama,121
 Mason,37 ASHTON ELEMENTARY SCHOOL,President,,DEM,Barack Obama,94
 Mason,38 HANNAN PUBLIC LIBRARY,President,,DEM,Barack Obama,171
-Mason,Total,President,,DEM,Barack Obama,4484
 Mason,1 FAIR OFFICE,President,,MTN,Cynthia McKinney,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,President,,MTN,Cynthia McKinney,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,President,,MTN,Cynthia McKinney,2
@@ -232,7 +227,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,President,,MTN,Cynthia McKinney,2
 Mason,36 ASHTON ELEMENTARY SCHOOL,President,,MTN,Cynthia McKinney,2
 Mason,37 ASHTON ELEMENTARY SCHOOL,President,,MTN,Cynthia McKinney,2
 Mason,38 HANNAN PUBLIC LIBRARY,President,,MTN,Cynthia McKinney,3
-Mason,Total,President,,MTN,Cynthia McKinney,54
 Mason,1 FAIR OFFICE,President,,,Ralph Nader,4
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,President,,,Ralph Nader,1
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,President,,,Ralph Nader,4
@@ -271,7 +265,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,President,,,Ralph Nader,7
 Mason,36 ASHTON ELEMENTARY SCHOOL,President,,,Ralph Nader,6
 Mason,37 ASHTON ELEMENTARY SCHOOL,President,,,Ralph Nader,1
 Mason,38 HANNAN PUBLIC LIBRARY,President,,,Ralph Nader,2
-Mason,Total,President,,,Ralph Nader,157
 Mason,1 FAIR OFFICE,President,,CON,Chuck Baldwin,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,President,,CON,Chuck Baldwin,6
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,President,,CON,Chuck Baldwin,2
@@ -310,7 +303,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,President,,CON,Chuck Baldwin,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,President,,CON,Chuck Baldwin,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,President,,CON,Chuck Baldwin,1
 Mason,38 HANNAN PUBLIC LIBRARY,President,,CON,Chuck Baldwin,6
-Mason,Total,President,,CON,Chuck Baldwin,55
 Mason,1 FAIR OFFICE,President,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,President,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,President,,,Write-ins,1
@@ -349,7 +341,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,President,,,Write-ins,9
 Mason,36 ASHTON ELEMENTARY SCHOOL,President,,,Write-ins,2
 Mason,37 ASHTON ELEMENTARY SCHOOL,President,,,Write-ins,1
 Mason,38 HANNAN PUBLIC LIBRARY,President,,,Write-ins,2
-Mason,Total,President,,,Write-ins,57
 Mason,1 FAIR OFFICE,U.S. Senate,,REP,Jay Wolfe,56
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,U.S. Senate,,REP,Jay Wolfe,17
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,U.S. Senate,,REP,Jay Wolfe,73
@@ -388,7 +379,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,REP,Jay Wolfe,116
 Mason,36 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,REP,Jay Wolfe,95
 Mason,37 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,REP,Jay Wolfe,48
 Mason,38 HANNAN PUBLIC LIBRARY,U.S. Senate,,REP,Jay Wolfe,145
-Mason,Total,U.S. Senate,,REP,Jay Wolfe,3113
 Mason,1 FAIR OFFICE,U.S. Senate,,DEM,Jay Rockefeller,123
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,U.S. Senate,,DEM,Jay Rockefeller,104
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,U.S. Senate,,DEM,Jay Rockefeller,193
@@ -427,7 +417,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,DEM,Jay Rockefeller,261
 Mason,36 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,DEM,Jay Rockefeller,179
 Mason,37 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,DEM,Jay Rockefeller,146
 Mason,38 HANNAN PUBLIC LIBRARY,U.S. Senate,,DEM,Jay Rockefeller,294
-Mason,Total,U.S. Senate,,DEM,Jay Rockefeller,7455
 Mason,1 FAIR OFFICE,U.S. Senate,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,U.S. Senate,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,U.S. Senate,,,Write-ins,0
@@ -466,7 +455,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,,Write-ins,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,U.S. Senate,,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,U.S. Senate,,,Write-ins,0
-Mason,Total,U.S. Senate,,,Write-ins,3
 Mason,1 FAIR OFFICE,U.S. House,2,REP,Shelley Moore Capito,117
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,U.S. House,2,REP,Shelley Moore Capito,57
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,U.S. House,2,REP,Shelley Moore Capito,132
@@ -505,7 +493,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,U.S. House,2,REP,Shelley Moore Capito,201
 Mason,36 ASHTON ELEMENTARY SCHOOL,U.S. House,2,REP,Shelley Moore Capito,147
 Mason,37 ASHTON ELEMENTARY SCHOOL,U.S. House,2,REP,Shelley Moore Capito,94
 Mason,38 HANNAN PUBLIC LIBRARY,U.S. House,2,REP,Shelley Moore Capito,250
-Mason,Total,U.S. House,2,REP,Shelley Moore Capito,6042
 Mason,1 FAIR OFFICE,U.S. House,2,DEM,Elizabeth Barth,62
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,U.S. House,2,DEM,Elizabeth Barth,65
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,U.S. House,2,DEM,Elizabeth Barth,139
@@ -544,7 +531,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,U.S. House,2,DEM,Elizabeth Barth,178
 Mason,36 ASHTON ELEMENTARY SCHOOL,U.S. House,2,DEM,Elizabeth Barth,137
 Mason,37 ASHTON ELEMENTARY SCHOOL,U.S. House,2,DEM,Elizabeth Barth,100
 Mason,38 HANNAN PUBLIC LIBRARY,U.S. House,2,DEM,Elizabeth Barth,193
-Mason,Total,U.S. House,2,DEM,Elizabeth Barth,4640
 Mason,1 FAIR OFFICE,U.S. House,2,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,U.S. House,2,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,U.S. House,2,,Write-ins,0
@@ -583,7 +569,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,U.S. House,2,,Write-ins,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,U.S. House,2,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,U.S. House,2,,Write-ins,1
 Mason,38 HANNAN PUBLIC LIBRARY,U.S. House,2,,Write-ins,0
-Mason,Total,U.S. House,2,,Write-ins,4
 Mason,1 FAIR OFFICE,Governor,,REP,Russ Weeks,31
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,REP,Russ Weeks,12
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,REP,Russ Weeks,36
@@ -622,7 +607,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Governor,,REP,Russ Weeks,73
 Mason,36 ASHTON ELEMENTARY SCHOOL,Governor,,REP,Russ Weeks,57
 Mason,37 ASHTON ELEMENTARY SCHOOL,Governor,,REP,Russ Weeks,26
 Mason,38 HANNAN PUBLIC LIBRARY,Governor,,REP,Russ Weeks,81
-Mason,Total,Governor,,REP,Russ Weeks,1806
 Mason,1 FAIR OFFICE,Governor,,DEM,Joe Manchin III,135
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,DEM,Joe Manchin III,107
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,DEM,Joe Manchin III,228
@@ -661,7 +645,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Governor,,DEM,Joe Manchin III,295
 Mason,36 ASHTON ELEMENTARY SCHOOL,Governor,,DEM,Joe Manchin III,212
 Mason,37 ASHTON ELEMENTARY SCHOOL,Governor,,DEM,Joe Manchin III,166
 Mason,38 HANNAN PUBLIC LIBRARY,Governor,,DEM,Joe Manchin III,354
-Mason,Total,Governor,,DEM,Joe Manchin III,8605
 Mason,1 FAIR OFFICE,Governor,,MTN,Jesse Johnson,11
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,MTN,Jesse Johnson,5
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,MTN,Jesse Johnson,8
@@ -700,7 +683,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Governor,,MTN,Jesse Johnson,14
 Mason,36 ASHTON ELEMENTARY SCHOOL,Governor,,MTN,Jesse Johnson,13
 Mason,37 ASHTON ELEMENTARY SCHOOL,Governor,,MTN,Jesse Johnson,2
 Mason,38 HANNAN PUBLIC LIBRARY,Governor,,MTN,Jesse Johnson,12
-Mason,Total,Governor,,MTN,Jesse Johnson,342
 Mason,1 FAIR OFFICE,Governor,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Governor,,,Write-ins,0
@@ -739,7 +721,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Governor,,,Write-ins,0
 Mason,36 ASHTON ELEMENTARY SCHOOL,Governor,,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,Governor,,,Write-ins,1
 Mason,38 HANNAN PUBLIC LIBRARY,Governor,,,Write-ins,0
-Mason,Total,Governor,,,Write-ins,1
 Mason,1 FAIR OFFICE,Secretary of State,,REP,Charles Minimah,56
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Secretary of State,,REP,Charles Minimah,24
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Secretary of State,,REP,Charles Minimah,80
@@ -778,7 +759,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Secretary of State,,REP,Charles Minimah,107
 Mason,36 ASHTON ELEMENTARY SCHOOL,Secretary of State,,REP,Charles Minimah,87
 Mason,37 ASHTON ELEMENTARY SCHOOL,Secretary of State,,REP,Charles Minimah,52
 Mason,38 HANNAN PUBLIC LIBRARY,Secretary of State,,REP,Charles Minimah,134
-Mason,Total,Secretary of State,,REP,Charles Minimah,3292
 Mason,1 FAIR OFFICE,Secretary of State,,DEM,Natalie Tennant,111
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Secretary of State,,DEM,Natalie Tennant,91
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Secretary of State,,DEM,Natalie Tennant,171
@@ -817,7 +797,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Secretary of State,,DEM,Natalie Tennant,255
 Mason,36 ASHTON ELEMENTARY SCHOOL,Secretary of State,,DEM,Natalie Tennant,179
 Mason,37 ASHTON ELEMENTARY SCHOOL,Secretary of State,,DEM,Natalie Tennant,128
 Mason,38 HANNAN PUBLIC LIBRARY,Secretary of State,,DEM,Natalie Tennant,291
-Mason,Total,Secretary of State,,DEM,Natalie Tennant,6918
 Mason,1 FAIR OFFICE,Secretary of State,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Secretary of State,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Secretary of State,,,Write-ins,0
@@ -856,7 +835,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Secretary of State,,,Write-ins,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,Secretary of State,,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,Secretary of State,,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,Secretary of State,,,Write-ins,0
-Mason,Total,Secretary of State,,,Write-ins,3
 Mason,1 FAIR OFFICE,State Auditor,,DEM,Glen B. Gainer III,150
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Auditor,,DEM,Glen B. Gainer III,102
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Auditor,,DEM,Glen B. Gainer III,207
@@ -895,7 +873,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Auditor,,DEM,Glen B. Gainer III,295
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Auditor,,DEM,Glen B. Gainer III,205
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Auditor,,DEM,Glen B. Gainer III,150
 Mason,38 HANNAN PUBLIC LIBRARY,State Auditor,,DEM,Glen B. Gainer III,344
-Mason,Total,State Auditor,,DEM,Glen B. Gainer III,8477
 Mason,1 FAIR OFFICE,State Auditor,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Auditor,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Auditor,,,Write-ins,0
@@ -934,7 +911,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Auditor,,,Write-ins,3
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Auditor,,,Write-ins,1
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Auditor,,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,State Auditor,,,Write-ins,0
-Mason,Total,State Auditor,,,Write-ins,13
 Mason,1 FAIR OFFICE,State Treasurer,,DEM,John D. Perdue,155
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Treasurer,,DEM,John D. Perdue,102
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Treasurer,,DEM,John D. Perdue,209
@@ -973,7 +949,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Treasurer,,DEM,John D. Perdue,292
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Treasurer,,DEM,John D. Perdue,205
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Treasurer,,DEM,John D. Perdue,151
 Mason,38 HANNAN PUBLIC LIBRARY,State Treasurer,,DEM,John D. Perdue,347
-Mason,Total,State Treasurer,,DEM,John D. Perdue,8508
 Mason,1 FAIR OFFICE,State Treasurer,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Treasurer,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Treasurer,,,Write-ins,0
@@ -1012,7 +987,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Treasurer,,,Write-ins,3
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Treasurer,,,Write-ins,1
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Treasurer,,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,State Treasurer,,,Write-ins,0
-Mason,Total,State Treasurer,,,Write-ins,9
 Mason,1 FAIR OFFICE,Commissioner of Agriculture,,REP,J. Michael Teets,53
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Commissioner of Agriculture,,REP,J. Michael Teets,24
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Commissioner of Agriculture,,REP,J. Michael Teets,64
@@ -1051,7 +1025,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,REP,J. Michael Te
 Mason,36 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,REP,J. Michael Teets,103
 Mason,37 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,REP,J. Michael Teets,54
 Mason,38 HANNAN PUBLIC LIBRARY,Commissioner of Agriculture,,REP,J. Michael Teets,196
-Mason,Total,Commissioner of Agriculture,,REP,J. Michael Teets,3160
 Mason,1 FAIR OFFICE,Commissioner of Agriculture,,DEM,Gus R. Douglass,123
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Commissioner of Agriculture,,DEM,Gus R. Douglass,99
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Commissioner of Agriculture,,DEM,Gus R. Douglass,200
@@ -1090,7 +1063,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,DEM,Gus R. Dougla
 Mason,36 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,DEM,Gus R. Douglass,161
 Mason,37 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,DEM,Gus R. Douglass,134
 Mason,38 HANNAN PUBLIC LIBRARY,Commissioner of Agriculture,,DEM,Gus R. Douglass,240
-Mason,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,7364
 Mason,1 FAIR OFFICE,Commissioner of Agriculture,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Commissioner of Agriculture,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Commissioner of Agriculture,,,Write-ins,0
@@ -1129,7 +1101,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,,Write-ins,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,Commissioner of Agriculture,,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,Commissioner of Agriculture,,,Write-ins,0
-Mason,Total,Commissioner of Agriculture,,,Write-ins,1
 Mason,1 FAIR OFFICE,Attorney General,,REP,Dan Greear,75
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Attorney General,,REP,Dan Greear,38
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Attorney General,,REP,Dan Greear,89
@@ -1168,7 +1139,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Attorney General,,REP,Dan Greear,139
 Mason,36 ASHTON ELEMENTARY SCHOOL,Attorney General,,REP,Dan Greear,100
 Mason,37 ASHTON ELEMENTARY SCHOOL,Attorney General,,REP,Dan Greear,71
 Mason,38 HANNAN PUBLIC LIBRARY,Attorney General,,REP,Dan Greear,211
-Mason,Total,Attorney General,,REP,Dan Greear,4341
 Mason,1 FAIR OFFICE,Attorney General,,DEM,Darrell McGraw,97
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Attorney General,,DEM,Darrell McGraw,84
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Attorney General,,DEM,Darrell McGraw,167
@@ -1207,7 +1177,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Attorney General,,DEM,Darrell McGraw,224
 Mason,36 ASHTON ELEMENTARY SCHOOL,Attorney General,,DEM,Darrell McGraw,163
 Mason,37 ASHTON ELEMENTARY SCHOOL,Attorney General,,DEM,Darrell McGraw,115
 Mason,38 HANNAN PUBLIC LIBRARY,Attorney General,,DEM,Darrell McGraw,211
-Mason,Total,Attorney General,,DEM,Darrell McGraw,5974
 Mason,1 FAIR OFFICE,Attorney General,,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,Attorney General,,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,Attorney General,,,Write-ins,0
@@ -1246,7 +1215,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,Attorney General,,,Write-ins,2
 Mason,36 ASHTON ELEMENTARY SCHOOL,Attorney General,,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,Attorney General,,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,Attorney General,,,Write-ins,0
-Mason,Total,Attorney General,,,Write-ins,3
 Mason,1 FAIR OFFICE,State Senate,4,REP,Karen Facemyer,106
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Senate,4,REP,Karen Facemyer,63
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Senate,4,REP,Karen Facemyer,170
@@ -1285,7 +1253,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Senate,4,REP,Karen Facemyer,190
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Senate,4,REP,Karen Facemyer,156
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Senate,4,REP,Karen Facemyer,89
 Mason,38 HANNAN PUBLIC LIBRARY,State Senate,4,REP,Karen Facemyer,234
-Mason,Total,State Senate,4,REP,Karen Facemyer,6234
 Mason,1 FAIR OFFICE,State Senate,4,DEM,Rocky Holmes,63
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Senate,4,DEM,Rocky Holmes,58
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Senate,4,DEM,Rocky Holmes,95
@@ -1324,7 +1291,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Senate,4,DEM,Rocky Holmes,167
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Senate,4,DEM,Rocky Holmes,102
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Senate,4,DEM,Rocky Holmes,92
 Mason,38 HANNAN PUBLIC LIBRARY,State Senate,4,DEM,Rocky Holmes,173
-Mason,Total,State Senate,4,DEM,Rocky Holmes,4008
 Mason,1 FAIR OFFICE,State Senate,4,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State Senate,4,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State Senate,4,,Write-ins,0
@@ -1363,7 +1329,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State Senate,4,,Write-ins,1
 Mason,36 ASHTON ELEMENTARY SCHOOL,State Senate,4,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,State Senate,4,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,State Senate,4,,Write-ins,0
-Mason,Total,State Senate,4,,Write-ins,3
 Mason,1 FAIR OFFICE,State House,13,REP,Brian Scott,49
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,REP,Brian Scott,12
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,REP,Brian Scott,53
@@ -1381,7 +1346,6 @@ Mason,14 FLATROCK FIRE DEPARTMENT,State House,13,REP,Brian Scott,121
 Mason,15 LEON GRADE SCHOOL,State House,13,REP,Brian Scott,108
 Mason,16 LEON-BADEN COMMUNITY BUILDING,State House,13,REP,Brian Scott,102
 Mason,17 HEALTHCARE OF LEON..BUFFALO BUILDING,State House,13,REP,Brian Scott,104
-Mason,Total,State House,13,REP,Brian Scott,1183
 Mason,1 FAIR OFFICE,State House,13,REP,James McCormick,103
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,REP,James McCormick,54
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,REP,James McCormick,143
@@ -1399,7 +1363,6 @@ Mason,14 FLATROCK FIRE DEPARTMENT,State House,13,REP,James McCormick,208
 Mason,15 LEON GRADE SCHOOL,State House,13,REP,James McCormick,162
 Mason,16 LEON-BADEN COMMUNITY BUILDING,State House,13,REP,James McCormick,171
 Mason,17 HEALTHCARE OF LEON..BUFFALO BUILDING,State House,13,REP,James McCormick,121
-Mason,Total,State House,13,REP,James McCormick,2588
 Mason,1 FAIR OFFICE,State House,13,DEM,Dale Martin,55
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,DEM,Dale Martin,56
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,DEM,Dale Martin,97
@@ -1417,7 +1380,6 @@ Mason,14 FLATROCK FIRE DEPARTMENT,State House,13,DEM,Dale Martin,189
 Mason,15 LEON GRADE SCHOOL,State House,13,DEM,Dale Martin,114
 Mason,16 LEON-BADEN COMMUNITY BUILDING,State House,13,DEM,Dale Martin,162
 Mason,17 HEALTHCARE OF LEON..BUFFALO BUILDING,State House,13,DEM,Dale Martin,104
-Mason,Total,State House,13,DEM,Dale Martin,1996
 Mason,1 FAIR OFFICE,State House,13,DEM,Brady Paxton,91
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,DEM,Brady Paxton,79
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,DEM,Brady Paxton,155
@@ -1435,7 +1397,6 @@ Mason,14 FLATROCK FIRE DEPARTMENT,State House,13,DEM,Brady Paxton,227
 Mason,15 LEON GRADE SCHOOL,State House,13,DEM,Brady Paxton,158
 Mason,16 LEON-BADEN COMMUNITY BUILDING,State House,13,DEM,Brady Paxton,215
 Mason,17 HEALTHCARE OF LEON..BUFFALO BUILDING,State House,13,DEM,Brady Paxton,148
-Mason,Total,State House,13,DEM,Brady Paxton,2771
 Mason,1 FAIR OFFICE,State House,13,,Write-ins,0
 Mason,2 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,,Write-ins,0
 Mason,3 WAHAMA HIGH SCHOOL CAFETERIA,State House,13,,Write-ins,0
@@ -1453,7 +1414,6 @@ Mason,14 FLATROCK FIRE DEPARTMENT,State House,13,,Write-ins,0
 Mason,15 LEON GRADE SCHOOL,State House,13,,Write-ins,0
 Mason,16 LEON-BADEN COMMUNITY BUILDING,State House,13,,Write-ins,0
 Mason,17 HEALTHCARE OF LEON..BUFFALO BUILDING,State House,13,,Write-ins,0
-Mason,Total,State House,13,,Write-ins,1
 Mason,18 ROOSEVELT GRADE SCHOOL,State House,14,REP,Patti Schoen,117
 Mason,19 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,REP,Patti Schoen,146
 Mason,20 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,REP,Patti Schoen,120
@@ -1475,7 +1435,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State House,14,REP,Patti Schoen,142
 Mason,36 ASHTON ELEMENTARY SCHOOL,State House,14,REP,Patti Schoen,102
 Mason,37 ASHTON ELEMENTARY SCHOOL,State House,14,REP,Patti Schoen,58
 Mason,38 HANNAN PUBLIC LIBRARY,State House,14,REP,Patti Schoen,167
-Mason,Total,State House,14,REP,Patti Schoen,2302
 Mason,18 ROOSEVELT GRADE SCHOOL,State House,14,REP,Troy Andes,135
 Mason,19 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,REP,Troy Andes,140
 Mason,20 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,REP,Troy Andes,145
@@ -1497,7 +1456,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State House,14,REP,Troy Andes,131
 Mason,36 ASHTON ELEMENTARY SCHOOL,State House,14,REP,Troy Andes,116
 Mason,37 ASHTON ELEMENTARY SCHOOL,State House,14,REP,Troy Andes,66
 Mason,38 HANNAN PUBLIC LIBRARY,State House,14,REP,Troy Andes,160
-Mason,Total,State House,14,REP,Troy Andes,2362
 Mason,18 ROOSEVELT GRADE SCHOOL,State House,14,DEM,Karen Coria,152
 Mason,19 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,DEM,Karen Coria,143
 Mason,20 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,DEM,Karen Coria,101
@@ -1519,7 +1477,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State House,14,DEM,Karen Coria,154
 Mason,36 ASHTON ELEMENTARY SCHOOL,State House,14,DEM,Karen Coria,102
 Mason,37 ASHTON ELEMENTARY SCHOOL,State House,14,DEM,Karen Coria,85
 Mason,38 HANNAN PUBLIC LIBRARY,State House,14,DEM,Karen Coria,185
-Mason,Total,State House,14,DEM,Karen Coria,2063
 Mason,18 ROOSEVELT GRADE SCHOOL,State House,14,DEM,Jeff Martin,175
 Mason,19 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,DEM,Jeff Martin,157
 Mason,20 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,DEM,Jeff Martin,129
@@ -1541,7 +1498,6 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State House,14,DEM,Jeff Martin,182
 Mason,36 ASHTON ELEMENTARY SCHOOL,State House,14,DEM,Jeff Martin,109
 Mason,37 ASHTON ELEMENTARY SCHOOL,State House,14,DEM,Jeff Martin,88
 Mason,38 HANNAN PUBLIC LIBRARY,State House,14,DEM,Jeff Martin,175
-Mason,Total,State House,14,DEM,Jeff Martin,2367
 Mason,18 ROOSEVELT GRADE SCHOOL,State House,14,,Write-ins,0
 Mason,19 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,,Write-ins,0
 Mason,20 PT PLEASANT INTERMEDIATE SCHOOL CAFETERIA,State House,14,,Write-ins,0
@@ -1563,4 +1519,3 @@ Mason,35 ASHTON ELEMENTARY SCHOOL,State House,14,,Write-ins,2
 Mason,36 ASHTON ELEMENTARY SCHOOL,State House,14,,Write-ins,0
 Mason,37 ASHTON ELEMENTARY SCHOOL,State House,14,,Write-ins,0
 Mason,38 HANNAN PUBLIC LIBRARY,State House,14,,Write-ins,0
-Mason,Total,State House,14,,Write-ins,2

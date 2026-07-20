@@ -1,10 +1,8 @@
 county,precinct,office,district,party,candidate,votes
-Preston,Total,Attorney General,,REP,Daniel W.Greear,6050
-Preston,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",5006
 Preston,1,Attorney General,,REP,Daniel W.Greear,265
 Preston,10,Attorney General,,REP,Daniel W.Greear,206
 Preston,11,Attorney General,,REP,Daniel W.Greear,209
-Preston,11,Attorney General,,REP,Daniel W.Greear,63
+Preston,11A,Attorney General,,REP,Daniel W.Greear,63
 Preston,12,Attorney General,,REP,Daniel W.Greear,161
 Preston,13,Attorney General,,REP,Daniel W.Greear,179
 Preston,14,Attorney General,,REP,Daniel W.Greear,215
@@ -24,7 +22,7 @@ Preston,26,Attorney General,,REP,Daniel W.Greear,153
 Preston,27,Attorney General,,REP,Daniel W.Greear,44
 Preston,28,Attorney General,,REP,Daniel W.Greear,114
 Preston,29,Attorney General,,REP,Daniel W.Greear,34
-Preston,29,Attorney General,,REP,Daniel W.Greear,53
+Preston,29A,Attorney General,,REP,Daniel W.Greear,53
 Preston,3,Attorney General,,REP,Daniel W.Greear,254
 Preston,30,Attorney General,,REP,Daniel W.Greear,94
 Preston,31,Attorney General,,REP,Daniel W.Greear,121
@@ -39,7 +37,7 @@ Preston,9,Attorney General,,REP,Daniel W.Greear,100
 Preston,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",196
 Preston,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",177
 Preston,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",181
-Preston,11,Attorney General,,DEM,"Darrell V. McGraw, Jr.",45
+Preston,11A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",45
 Preston,12,Attorney General,,DEM,"Darrell V. McGraw, Jr.",192
 Preston,13,Attorney General,,DEM,"Darrell V. McGraw, Jr.",143
 Preston,14,Attorney General,,DEM,"Darrell V. McGraw, Jr.",195
@@ -59,7 +57,7 @@ Preston,26,Attorney General,,DEM,"Darrell V. McGraw, Jr.",125
 Preston,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",83
 Preston,28,Attorney General,,DEM,"Darrell V. McGraw, Jr.",143
 Preston,29,Attorney General,,DEM,"Darrell V. McGraw, Jr.",46
-Preston,29,Attorney General,,DEM,"Darrell V. McGraw, Jr.",47
+Preston,29A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",47
 Preston,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",159
 Preston,30,Attorney General,,DEM,"Darrell V. McGraw, Jr.",45
 Preston,31,Attorney General,,DEM,"Darrell V. McGraw, Jr.",83
@@ -71,12 +69,10 @@ Preston,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",133
 Preston,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",155
 Preston,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",195
 Preston,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",120
-Preston,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,4681
-Preston,Total,Commissioner of Agriculture,,REP,James Michael Teets,6407
 Preston,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,182
 Preston,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,174
 Preston,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,169
-Preston,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,48
+Preston,11A,Commissioner of Agriculture,,DEM,Gus R. Douglass,48
 Preston,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,163
 Preston,13,Commissioner of Agriculture,,DEM,Gus R. Douglass,124
 Preston,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,172
@@ -96,7 +92,7 @@ Preston,26,Commissioner of Agriculture,,DEM,Gus R. Douglass,127
 Preston,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,65
 Preston,28,Commissioner of Agriculture,,DEM,Gus R. Douglass,136
 Preston,29,Commissioner of Agriculture,,DEM,Gus R. Douglass,40
-Preston,29,Commissioner of Agriculture,,DEM,Gus R. Douglass,47
+Preston,29A,Commissioner of Agriculture,,DEM,Gus R. Douglass,47
 Preston,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,158
 Preston,30,Commissioner of Agriculture,,DEM,Gus R. Douglass,50
 Preston,31,Commissioner of Agriculture,,DEM,Gus R. Douglass,81
@@ -111,7 +107,7 @@ Preston,9,Commissioner of Agriculture,,DEM,Gus R. Douglass,93
 Preston,1,Commissioner of Agriculture,,REP,James Michael Teets,269
 Preston,10,Commissioner of Agriculture,,REP,James Michael Teets,203
 Preston,11,Commissioner of Agriculture,,REP,James Michael Teets,214
-Preston,11,Commissioner of Agriculture,,REP,James Michael Teets,59
+Preston,11A,Commissioner of Agriculture,,REP,James Michael Teets,59
 Preston,12,Commissioner of Agriculture,,REP,James Michael Teets,184
 Preston,13,Commissioner of Agriculture,,REP,James Michael Teets,205
 Preston,14,Commissioner of Agriculture,,REP,James Michael Teets,242
@@ -131,7 +127,7 @@ Preston,26,Commissioner of Agriculture,,REP,James Michael Teets,159
 Preston,27,Commissioner of Agriculture,,REP,James Michael Teets,62
 Preston,28,Commissioner of Agriculture,,REP,James Michael Teets,125
 Preston,29,Commissioner of Agriculture,,REP,James Michael Teets,38
-Preston,29,Commissioner of Agriculture,,REP,James Michael Teets,52
+Preston,29A,Commissioner of Agriculture,,REP,James Michael Teets,52
 Preston,3,Commissioner of Agriculture,,REP,James Michael Teets,262
 Preston,30,Commissioner of Agriculture,,REP,James Michael Teets,90
 Preston,31,Commissioner of Agriculture,,REP,James Michael Teets,134
@@ -143,13 +139,10 @@ Preston,6,Commissioner of Agriculture,,REP,James Michael Teets,211
 Preston,7,Commissioner of Agriculture,,REP,James Michael Teets,187
 Preston,8,Commissioner of Agriculture,,REP,James Michael Teets,225
 Preston,9,Commissioner of Agriculture,,REP,James Michael Teets,117
-Preston,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",787
-Preston,Total,Governor,,DEM,"Joe Manchin, III",7078
-Preston,Total,Governor,,REP,Russell E. Weeks Jr,3782
 Preston,1,Governor,,MTN,"Jesse C. Johnson, Jr.",37
 Preston,10,Governor,,MTN,"Jesse C. Johnson, Jr.",30
 Preston,11,Governor,,MTN,"Jesse C. Johnson, Jr.",32
-Preston,11,Governor,,MTN,"Jesse C. Johnson, Jr.",14
+Preston,11A,Governor,,MTN,"Jesse C. Johnson, Jr.",14
 Preston,12,Governor,,MTN,"Jesse C. Johnson, Jr.",20
 Preston,13,Governor,,MTN,"Jesse C. Johnson, Jr.",21
 Preston,14,Governor,,MTN,"Jesse C. Johnson, Jr.",28
@@ -169,7 +162,7 @@ Preston,26,Governor,,MTN,"Jesse C. Johnson, Jr.",24
 Preston,27,Governor,,MTN,"Jesse C. Johnson, Jr.",12
 Preston,28,Governor,,MTN,"Jesse C. Johnson, Jr.",22
 Preston,29,Governor,,MTN,"Jesse C. Johnson, Jr.",5
-Preston,29,Governor,,MTN,"Jesse C. Johnson, Jr.",8
+Preston,29A,Governor,,MTN,"Jesse C. Johnson, Jr.",8
 Preston,3,Governor,,MTN,"Jesse C. Johnson, Jr.",32
 Preston,30,Governor,,MTN,"Jesse C. Johnson, Jr.",6
 Preston,31,Governor,,MTN,"Jesse C. Johnson, Jr.",10
@@ -184,7 +177,7 @@ Preston,9,Governor,,MTN,"Jesse C. Johnson, Jr.",17
 Preston,1,Governor,,DEM,"Joe Manchin, III",256
 Preston,10,Governor,,DEM,"Joe Manchin, III",264
 Preston,11,Governor,,DEM,"Joe Manchin, III",253
-Preston,11,Governor,,DEM,"Joe Manchin, III",72
+Preston,11A,Governor,,DEM,"Joe Manchin, III",72
 Preston,12,Governor,,DEM,"Joe Manchin, III",264
 Preston,13,Governor,,DEM,"Joe Manchin, III",211
 Preston,14,Governor,,DEM,"Joe Manchin, III",292
@@ -204,7 +197,7 @@ Preston,26,Governor,,DEM,"Joe Manchin, III",191
 Preston,27,Governor,,DEM,"Joe Manchin, III",83
 Preston,28,Governor,,DEM,"Joe Manchin, III",162
 Preston,29,Governor,,DEM,"Joe Manchin, III",51
-Preston,29,Governor,,DEM,"Joe Manchin, III",61
+Preston,29A,Governor,,DEM,"Joe Manchin, III",61
 Preston,3,Governor,,DEM,"Joe Manchin, III",229
 Preston,30,Governor,,DEM,"Joe Manchin, III",69
 Preston,31,Governor,,DEM,"Joe Manchin, III",123
@@ -219,7 +212,7 @@ Preston,9,Governor,,DEM,"Joe Manchin, III",170
 Preston,1,Governor,,REP,Russell E. Weeks Jr,191
 Preston,10,Governor,,REP,Russell E. Weeks Jr,99
 Preston,11,Governor,,REP,Russell E. Weeks Jr,118
-Preston,11,Governor,,REP,Russell E. Weeks Jr,30
+Preston,11A,Governor,,REP,Russell E. Weeks Jr,30
 Preston,12,Governor,,REP,Russell E. Weeks Jr,78
 Preston,13,Governor,,REP,Russell E. Weeks Jr,105
 Preston,14,Governor,,REP,Russell E. Weeks Jr,107
@@ -239,7 +232,7 @@ Preston,26,Governor,,REP,Russell E. Weeks Jr,83
 Preston,27,Governor,,REP,Russell E. Weeks Jr,40
 Preston,28,Governor,,REP,Russell E. Weeks Jr,92
 Preston,29,Governor,,REP,Russell E. Weeks Jr,28
-Preston,29,Governor,,REP,Russell E. Weeks Jr,34
+Preston,29A,Governor,,REP,Russell E. Weeks Jr,34
 Preston,3,Governor,,REP,Russell E. Weeks Jr,179
 Preston,30,Governor,,REP,Russell E. Weeks Jr,74
 Preston,31,Governor,,REP,Russell E. Weeks Jr,87
@@ -251,15 +244,10 @@ Preston,6,Governor,,REP,Russell E. Weeks Jr,148
 Preston,7,Governor,,REP,Russell E. Weeks Jr,115
 Preston,8,Governor,,REP,Russell E. Weeks Jr,156
 Preston,9,Governor,,REP,Russell E. Weeks Jr,51
-Preston,Total,President,,DEM,Barack Hussein Obama,4205
-Preston,Total,President,,CON,Charles Obadiah Baldwin,63
-Preston,Total,President,,MTN,Cynthia Ann McKinney,60
-Preston,Total,President,,REP,John Sidney McCain III,7325
-Preston,Total,President,,,Ralph Nader,141
 Preston,1,President,,DEM,Barack Hussein Obama,168
 Preston,10,President,,DEM,Barack Hussein Obama,191
 Preston,11,President,,DEM,Barack Hussein Obama,169
-Preston,11,President,,DEM,Barack Hussein Obama,50
+Preston,11A,President,,DEM,Barack Hussein Obama,50
 Preston,12,President,,DEM,Barack Hussein Obama,161
 Preston,13,President,,DEM,Barack Hussein Obama,132
 Preston,14,President,,DEM,Barack Hussein Obama,172
@@ -279,7 +267,7 @@ Preston,26,President,,DEM,Barack Hussein Obama,110
 Preston,27,President,,DEM,Barack Hussein Obama,65
 Preston,28,President,,DEM,Barack Hussein Obama,107
 Preston,29,President,,DEM,Barack Hussein Obama,27
-Preston,29,President,,DEM,Barack Hussein Obama,24
+Preston,29A,President,,DEM,Barack Hussein Obama,24
 Preston,3,President,,DEM,Barack Hussein Obama,145
 Preston,30,President,,DEM,Barack Hussein Obama,31
 Preston,31,President,,DEM,Barack Hussein Obama,58
@@ -294,7 +282,7 @@ Preston,9,President,,DEM,Barack Hussein Obama,121
 Preston,1,President,,CON,Charles Obadiah Baldwin,3
 Preston,10,President,,CON,Charles Obadiah Baldwin,0
 Preston,11,President,,CON,Charles Obadiah Baldwin,1
-Preston,11,President,,CON,Charles Obadiah Baldwin,0
+Preston,11A,President,,CON,Charles Obadiah Baldwin,0
 Preston,12,President,,CON,Charles Obadiah Baldwin,2
 Preston,13,President,,CON,Charles Obadiah Baldwin,1
 Preston,14,President,,CON,Charles Obadiah Baldwin,2
@@ -314,7 +302,7 @@ Preston,26,President,,CON,Charles Obadiah Baldwin,2
 Preston,27,President,,CON,Charles Obadiah Baldwin,1
 Preston,28,President,,CON,Charles Obadiah Baldwin,3
 Preston,29,President,,CON,Charles Obadiah Baldwin,1
-Preston,29,President,,CON,Charles Obadiah Baldwin,1
+Preston,29A,President,,CON,Charles Obadiah Baldwin,1
 Preston,3,President,,CON,Charles Obadiah Baldwin,1
 Preston,30,President,,CON,Charles Obadiah Baldwin,2
 Preston,31,President,,CON,Charles Obadiah Baldwin,0
@@ -329,7 +317,7 @@ Preston,9,President,,CON,Charles Obadiah Baldwin,1
 Preston,1,President,,MTN,Cynthia Ann McKinney,1
 Preston,10,President,,MTN,Cynthia Ann McKinney,4
 Preston,11,President,,MTN,Cynthia Ann McKinney,1
-Preston,11,President,,MTN,Cynthia Ann McKinney,0
+Preston,11A,President,,MTN,Cynthia Ann McKinney,0
 Preston,12,President,,MTN,Cynthia Ann McKinney,5
 Preston,13,President,,MTN,Cynthia Ann McKinney,2
 Preston,14,President,,MTN,Cynthia Ann McKinney,3
@@ -349,7 +337,7 @@ Preston,26,President,,MTN,Cynthia Ann McKinney,1
 Preston,27,President,,MTN,Cynthia Ann McKinney,1
 Preston,28,President,,MTN,Cynthia Ann McKinney,3
 Preston,29,President,,MTN,Cynthia Ann McKinney,2
-Preston,29,President,,MTN,Cynthia Ann McKinney,0
+Preston,29A,President,,MTN,Cynthia Ann McKinney,0
 Preston,3,President,,MTN,Cynthia Ann McKinney,2
 Preston,30,President,,MTN,Cynthia Ann McKinney,3
 Preston,31,President,,MTN,Cynthia Ann McKinney,2
@@ -364,7 +352,7 @@ Preston,9,President,,MTN,Cynthia Ann McKinney,1
 Preston,1,President,,REP,John Sidney McCain III,314
 Preston,10,President,,REP,John Sidney McCain III,204
 Preston,11,President,,REP,John Sidney McCain III,237
-Preston,11,President,,REP,John Sidney McCain III,64
+Preston,11A,President,,REP,John Sidney McCain III,64
 Preston,12,President,,REP,John Sidney McCain III,197
 Preston,13,President,,REP,John Sidney McCain III,204
 Preston,14,President,,REP,John Sidney McCain III,261
@@ -384,7 +372,7 @@ Preston,26,President,,REP,John Sidney McCain III,184
 Preston,27,President,,REP,John Sidney McCain III,63
 Preston,28,President,,REP,John Sidney McCain III,154
 Preston,29,President,,REP,John Sidney McCain III,51
-Preston,29,President,,REP,John Sidney McCain III,77
+Preston,29A,President,,REP,John Sidney McCain III,77
 Preston,3,President,,REP,John Sidney McCain III,300
 Preston,30,President,,REP,John Sidney McCain III,111
 Preston,31,President,,REP,John Sidney McCain III,162
@@ -399,7 +387,7 @@ Preston,9,President,,REP,John Sidney McCain III,121
 Preston,1,President,,,Ralph Nader,2
 Preston,10,President,,,Ralph Nader,3
 Preston,11,President,,,Ralph Nader,6
-Preston,11,President,,,Ralph Nader,0
+Preston,11A,President,,,Ralph Nader,0
 Preston,12,President,,,Ralph Nader,2
 Preston,13,President,,,Ralph Nader,6
 Preston,14,President,,,Ralph Nader,2
@@ -419,7 +407,7 @@ Preston,26,President,,,Ralph Nader,4
 Preston,27,President,,,Ralph Nader,3
 Preston,28,President,,,Ralph Nader,4
 Preston,29,President,,,Ralph Nader,2
-Preston,29,President,,,Ralph Nader,1
+Preston,29A,President,,,Ralph Nader,1
 Preston,3,President,,,Ralph Nader,3
 Preston,30,President,,,Ralph Nader,2
 Preston,31,President,,,Ralph Nader,2
@@ -431,12 +419,10 @@ Preston,6,President,,,Ralph Nader,6
 Preston,7,President,,,Ralph Nader,6
 Preston,8,President,,,Ralph Nader,3
 Preston,9,President,,,Ralph Nader,1
-Preston,Total,Secretary of State,,REP,Charles Theophilus Minimah,4514
-Preston,Total,Secretary of State,,DEM,Natalie Tennant,6358
 Preston,1,Secretary of State,,REP,Charles Theophilus Minimah,226
 Preston,10,Secretary of State,,REP,Charles Theophilus Minimah,125
 Preston,11,Secretary of State,,REP,Charles Theophilus Minimah,141
-Preston,11,Secretary of State,,REP,Charles Theophilus Minimah,43
+Preston,11A,Secretary of State,,REP,Charles Theophilus Minimah,43
 Preston,12,Secretary of State,,REP,Charles Theophilus Minimah,99
 Preston,13,Secretary of State,,REP,Charles Theophilus Minimah,127
 Preston,14,Secretary of State,,REP,Charles Theophilus Minimah,151
@@ -456,7 +442,7 @@ Preston,26,Secretary of State,,REP,Charles Theophilus Minimah,102
 Preston,27,Secretary of State,,REP,Charles Theophilus Minimah,41
 Preston,28,Secretary of State,,REP,Charles Theophilus Minimah,92
 Preston,29,Secretary of State,,REP,Charles Theophilus Minimah,32
-Preston,29,Secretary of State,,REP,Charles Theophilus Minimah,47
+Preston,29A,Secretary of State,,REP,Charles Theophilus Minimah,47
 Preston,3,Secretary of State,,REP,Charles Theophilus Minimah,211
 Preston,30,Secretary of State,,REP,Charles Theophilus Minimah,68
 Preston,31,Secretary of State,,REP,Charles Theophilus Minimah,114
@@ -471,7 +457,7 @@ Preston,9,Secretary of State,,REP,Charles Theophilus Minimah,80
 Preston,1,Secretary of State,,DEM,Natalie Tennant,230
 Preston,10,Secretary of State,,DEM,Natalie Tennant,247
 Preston,11,Secretary of State,,DEM,Natalie Tennant,249
-Preston,11,Secretary of State,,DEM,Natalie Tennant,66
+Preston,11A,Secretary of State,,DEM,Natalie Tennant,66
 Preston,12,Secretary of State,,DEM,Natalie Tennant,249
 Preston,13,Secretary of State,,DEM,Natalie Tennant,192
 Preston,14,Secretary of State,,DEM,Natalie Tennant,258
@@ -491,7 +477,7 @@ Preston,26,Secretary of State,,DEM,Natalie Tennant,172
 Preston,27,Secretary of State,,DEM,Natalie Tennant,82
 Preston,28,Secretary of State,,DEM,Natalie Tennant,151
 Preston,29,Secretary of State,,DEM,Natalie Tennant,41
-Preston,29,Secretary of State,,DEM,Natalie Tennant,52
+Preston,29A,Secretary of State,,DEM,Natalie Tennant,52
 Preston,3,Secretary of State,,DEM,Natalie Tennant,207
 Preston,30,Secretary of State,,DEM,Natalie Tennant,70
 Preston,31,Secretary of State,,DEM,Natalie Tennant,90
@@ -503,11 +489,10 @@ Preston,6,Secretary of State,,DEM,Natalie Tennant,158
 Preston,7,Secretary of State,,DEM,Natalie Tennant,193
 Preston,8,Secretary of State,,DEM,Natalie Tennant,238
 Preston,9,Secretary of State,,DEM,Natalie Tennant,141
-Preston,Total,State Auditor,,DEM,Glen B. Gainer III,8455
 Preston,1,State Auditor,,DEM,Glen B. Gainer III,344
 Preston,10,State Auditor,,DEM,Glen B. Gainer III,321
 Preston,11,State Auditor,,DEM,Glen B. Gainer III,301
-Preston,11,State Auditor,,DEM,Glen B. Gainer III,79
+Preston,11A,State Auditor,,DEM,Glen B. Gainer III,79
 Preston,12,State Auditor,,DEM,Glen B. Gainer III,292
 Preston,13,State Auditor,,DEM,Glen B. Gainer III,251
 Preston,14,State Auditor,,DEM,Glen B. Gainer III,329
@@ -527,7 +512,7 @@ Preston,26,State Auditor,,DEM,Glen B. Gainer III,228
 Preston,27,State Auditor,,DEM,Glen B. Gainer III,104
 Preston,28,State Auditor,,DEM,Glen B. Gainer III,201
 Preston,29,State Auditor,,DEM,Glen B. Gainer III,61
-Preston,29,State Auditor,,DEM,Glen B. Gainer III,74
+Preston,29A,State Auditor,,DEM,Glen B. Gainer III,74
 Preston,3,State Auditor,,DEM,Glen B. Gainer III,291
 Preston,30,State Auditor,,DEM,Glen B. Gainer III,92
 Preston,31,State Auditor,,DEM,Glen B. Gainer III,148
@@ -539,12 +524,10 @@ Preston,6,State Auditor,,DEM,Glen B. Gainer III,242
 Preston,7,State Auditor,,DEM,Glen B. Gainer III,262
 Preston,8,State Auditor,,DEM,Glen B. Gainer III,310
 Preston,9,State Auditor,,DEM,Glen B. Gainer III,164
-Preston,Total,State House,,DEM,Larry Allen Williams,5964
-Preston,Total,State House,,DEM,Stanley E. Shaver,3357
 Preston,1,State House,,DEM,Larry Allen Williams,370
 Preston,10,State House,,DEM,Larry Allen Williams,335
 Preston,11,State House,,DEM,Larry Allen Williams,336
-Preston,11,State House,,DEM,Larry Allen Williams,0
+Preston,11A,State House,,DEM,Larry Allen Williams,0
 Preston,12,State House,,DEM,Larry Allen Williams,310
 Preston,13,State House,,DEM,Larry Allen Williams,286
 Preston,14,State House,,DEM,Larry Allen Williams,364
@@ -564,7 +547,7 @@ Preston,26,State House,,DEM,Larry Allen Williams,0
 Preston,27,State House,,DEM,Larry Allen Williams,0
 Preston,28,State House,,DEM,Larry Allen Williams,0
 Preston,29,State House,,DEM,Larry Allen Williams,0
-Preston,29,State House,,DEM,Larry Allen Williams,0
+Preston,29A,State House,,DEM,Larry Allen Williams,0
 Preston,3,State House,,DEM,Larry Allen Williams,303
 Preston,30,State House,,DEM,Larry Allen Williams,0
 Preston,31,State House,,DEM,Larry Allen Williams,0
@@ -579,7 +562,7 @@ Preston,9,State House,,DEM,Larry Allen Williams,194
 Preston,1,State House,,DEM,Stanley E. Shaver,0
 Preston,10,State House,,DEM,Stanley E. Shaver,0
 Preston,11,State House,,DEM,Stanley E. Shaver,0
-Preston,11,State House,,DEM,Stanley E. Shaver,83
+Preston,11A,State House,,DEM,Stanley E. Shaver,83
 Preston,12,State House,,DEM,Stanley E. Shaver,0
 Preston,13,State House,,DEM,Stanley E. Shaver,0
 Preston,14,State House,,DEM,Stanley E. Shaver,0
@@ -599,7 +582,7 @@ Preston,26,State House,,DEM,Stanley E. Shaver,253
 Preston,27,State House,,DEM,Stanley E. Shaver,109
 Preston,28,State House,,DEM,Stanley E. Shaver,210
 Preston,29,State House,,DEM,Stanley E. Shaver,70
-Preston,29,State House,,DEM,Stanley E. Shaver,84
+Preston,29A,State House,,DEM,Stanley E. Shaver,84
 Preston,3,State House,,DEM,Stanley E. Shaver,0
 Preston,30,State House,,DEM,Stanley E. Shaver,95
 Preston,31,State House,,DEM,Stanley E. Shaver,155
@@ -611,12 +594,10 @@ Preston,6,State House,,DEM,Stanley E. Shaver,0
 Preston,7,State House,,DEM,Stanley E. Shaver,0
 Preston,8,State House,,DEM,Stanley E. Shaver,0
 Preston,9,State House,,DEM,Stanley E. Shaver,0
-Preston,Total,State Senate,,REP,Gary G. Howell,5088
-Preston,Total,State Senate,,DEM,Robert Lynn Williams,5905
 Preston,1,State Senate,,REP,Gary G. Howell,236
 Preston,10,State Senate,,REP,Gary G. Howell,143
 Preston,11,State Senate,,REP,Gary G. Howell,163
-Preston,11,State Senate,,REP,Gary G. Howell,52
+Preston,11A,State Senate,,REP,Gary G. Howell,52
 Preston,12,State Senate,,REP,Gary G. Howell,124
 Preston,13,State Senate,,REP,Gary G. Howell,145
 Preston,14,State Senate,,REP,Gary G. Howell,176
@@ -636,7 +617,7 @@ Preston,26,State Senate,,REP,Gary G. Howell,124
 Preston,27,State Senate,,REP,Gary G. Howell,39
 Preston,28,State Senate,,REP,Gary G. Howell,111
 Preston,29,State Senate,,REP,Gary G. Howell,34
-Preston,29,State Senate,,REP,Gary G. Howell,52
+Preston,29A,State Senate,,REP,Gary G. Howell,52
 Preston,3,State Senate,,REP,Gary G. Howell,238
 Preston,30,State Senate,,REP,Gary G. Howell,83
 Preston,31,State Senate,,REP,Gary G. Howell,121
@@ -651,7 +632,7 @@ Preston,9,State Senate,,REP,Gary G. Howell,82
 Preston,1,State Senate,,DEM,Robert Lynn Williams,221
 Preston,10,State Senate,,DEM,Robert Lynn Williams,238
 Preston,11,State Senate,,DEM,Robert Lynn Williams,214
-Preston,11,State Senate,,DEM,Robert Lynn Williams,51
+Preston,11A,State Senate,,DEM,Robert Lynn Williams,51
 Preston,12,State Senate,,DEM,Robert Lynn Williams,225
 Preston,13,State Senate,,DEM,Robert Lynn Williams,178
 Preston,14,State Senate,,DEM,Robert Lynn Williams,228
@@ -671,7 +652,7 @@ Preston,26,State Senate,,DEM,Robert Lynn Williams,161
 Preston,27,State Senate,,DEM,Robert Lynn Williams,89
 Preston,28,State Senate,,DEM,Robert Lynn Williams,150
 Preston,29,State Senate,,DEM,Robert Lynn Williams,41
-Preston,29,State Senate,,DEM,Robert Lynn Williams,48
+Preston,29A,State Senate,,DEM,Robert Lynn Williams,48
 Preston,3,State Senate,,DEM,Robert Lynn Williams,175
 Preston,30,State Senate,,DEM,Robert Lynn Williams,58
 Preston,31,State Senate,,DEM,Robert Lynn Williams,84
@@ -683,11 +664,10 @@ Preston,6,State Senate,,DEM,Robert Lynn Williams,155
 Preston,7,State Senate,,DEM,Robert Lynn Williams,189
 Preston,8,State Senate,,DEM,Robert Lynn Williams,234
 Preston,9,State Senate,,DEM,Robert Lynn Williams,133
-Preston,Total,State Treasurer,,DEM,John D. Perdue,8298
 Preston,1,State Treasurer,,DEM,John D. Perdue,327
 Preston,10,State Treasurer,,DEM,John D. Perdue,319
 Preston,11,State Treasurer,,DEM,John D. Perdue,300
-Preston,11,State Treasurer,,DEM,John D. Perdue,79
+Preston,11A,State Treasurer,,DEM,John D. Perdue,79
 Preston,12,State Treasurer,,DEM,John D. Perdue,291
 Preston,13,State Treasurer,,DEM,John D. Perdue,243
 Preston,14,State Treasurer,,DEM,John D. Perdue,318
@@ -707,7 +687,7 @@ Preston,26,State Treasurer,,DEM,John D. Perdue,225
 Preston,27,State Treasurer,,DEM,John D. Perdue,100
 Preston,28,State Treasurer,,DEM,John D. Perdue,202
 Preston,29,State Treasurer,,DEM,John D. Perdue,59
-Preston,29,State Treasurer,,DEM,John D. Perdue,74
+Preston,29A,State Treasurer,,DEM,John D. Perdue,74
 Preston,3,State Treasurer,,DEM,John D. Perdue,285
 Preston,30,State Treasurer,,DEM,John D. Perdue,92
 Preston,31,State Treasurer,,DEM,John D. Perdue,146
@@ -719,11 +699,10 @@ Preston,6,State Treasurer,,DEM,John D. Perdue,237
 Preston,7,State Treasurer,,DEM,John D. Perdue,261
 Preston,8,State Treasurer,,DEM,John D. Perdue,309
 Preston,9,State Treasurer,,DEM,John D. Perdue,163
-Preston,Total,U.S. House,1,DEM,Alan Bowlby Mollohan,8746
 Preston,1,U.S. House,1,DEM,Alan Bowlby Mollohan,334
 Preston,10,U.S. House,1,DEM,Alan Bowlby Mollohan,331
 Preston,11,U.S. House,1,DEM,Alan Bowlby Mollohan,317
-Preston,11,U.S. House,1,DEM,Alan Bowlby Mollohan,85
+Preston,11A,U.S. House,1,DEM,Alan Bowlby Mollohan,85
 Preston,12,U.S. House,1,DEM,Alan Bowlby Mollohan,298
 Preston,13,U.S. House,1,DEM,Alan Bowlby Mollohan,253
 Preston,14,U.S. House,1,DEM,Alan Bowlby Mollohan,337
@@ -743,7 +722,7 @@ Preston,26,U.S. House,1,DEM,Alan Bowlby Mollohan,244
 Preston,27,U.S. House,1,DEM,Alan Bowlby Mollohan,108
 Preston,28,U.S. House,1,DEM,Alan Bowlby Mollohan,200
 Preston,29,U.S. House,1,DEM,Alan Bowlby Mollohan,61
-Preston,29,U.S. House,1,DEM,Alan Bowlby Mollohan,74
+Preston,29A,U.S. House,1,DEM,Alan Bowlby Mollohan,74
 Preston,3,U.S. House,1,DEM,Alan Bowlby Mollohan,308
 Preston,30,U.S. House,1,DEM,Alan Bowlby Mollohan,96
 Preston,31,U.S. House,1,DEM,Alan Bowlby Mollohan,153
@@ -755,12 +734,10 @@ Preston,6,U.S. House,1,DEM,Alan Bowlby Mollohan,258
 Preston,7,U.S. House,1,DEM,Alan Bowlby Mollohan,276
 Preston,8,U.S. House,1,DEM,Alan Bowlby Mollohan,328
 Preston,9,U.S. House,1,DEM,Alan Bowlby Mollohan,173
-Preston,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,6825
-Preston,Total,U.S. Senate,,REP,Matthew Jay Wolfe,4801
 Preston,1,U.S. Senate,,DEM,John Davison Rockefeller IV,260
 Preston,10,U.S. Senate,,DEM,John Davison Rockefeller IV,262
 Preston,11,U.S. Senate,,DEM,John Davison Rockefeller IV,257
-Preston,11,U.S. Senate,,DEM,John Davison Rockefeller IV,70
+Preston,11A,U.S. Senate,,DEM,John Davison Rockefeller IV,70
 Preston,12,U.S. Senate,,DEM,John Davison Rockefeller IV,258
 Preston,13,U.S. Senate,,DEM,John Davison Rockefeller IV,222
 Preston,14,U.S. Senate,,DEM,John Davison Rockefeller IV,303
@@ -780,7 +757,7 @@ Preston,26,U.S. Senate,,DEM,John Davison Rockefeller IV,167
 Preston,27,U.S. Senate,,DEM,John Davison Rockefeller IV,95
 Preston,28,U.S. Senate,,DEM,John Davison Rockefeller IV,164
 Preston,29,U.S. Senate,,DEM,John Davison Rockefeller IV,52
-Preston,29,U.S. Senate,,DEM,John Davison Rockefeller IV,50
+Preston,29A,U.S. Senate,,DEM,John Davison Rockefeller IV,50
 Preston,3,U.S. Senate,,DEM,John Davison Rockefeller IV,211
 Preston,30,U.S. Senate,,DEM,John Davison Rockefeller IV,67
 Preston,31,U.S. Senate,,DEM,John Davison Rockefeller IV,109
@@ -795,7 +772,7 @@ Preston,9,U.S. Senate,,DEM,John Davison Rockefeller IV,157
 Preston,1,U.S. Senate,,REP,Matthew Jay Wolfe,221
 Preston,10,U.S. Senate,,REP,Matthew Jay Wolfe,131
 Preston,11,U.S. Senate,,REP,Matthew Jay Wolfe,152
-Preston,11,U.S. Senate,,REP,Matthew Jay Wolfe,46
+Preston,11A,U.S. Senate,,REP,Matthew Jay Wolfe,46
 Preston,12,U.S. Senate,,REP,Matthew Jay Wolfe,107
 Preston,13,U.S. Senate,,REP,Matthew Jay Wolfe,121
 Preston,14,U.S. Senate,,REP,Matthew Jay Wolfe,133
@@ -815,7 +792,7 @@ Preston,26,U.S. Senate,,REP,Matthew Jay Wolfe,134
 Preston,27,U.S. Senate,,REP,Matthew Jay Wolfe,38
 Preston,28,U.S. Senate,,REP,Matthew Jay Wolfe,110
 Preston,29,U.S. Senate,,REP,Matthew Jay Wolfe,28
-Preston,29,U.S. Senate,,REP,Matthew Jay Wolfe,54
+Preston,29A,U.S. Senate,,REP,Matthew Jay Wolfe,54
 Preston,3,U.S. Senate,,REP,Matthew Jay Wolfe,227
 Preston,30,U.S. Senate,,REP,Matthew Jay Wolfe,79
 Preston,31,U.S. Senate,,REP,Matthew Jay Wolfe,109

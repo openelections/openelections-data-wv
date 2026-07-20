@@ -40,7 +40,6 @@ Monongalia,81,Registered Voters,,,,3655,,,,,
 Monongalia,82,Registered Voters,,,,1405,,,,,
 Monongalia,83,Registered Voters,,,,2482,,,,,
 Monongalia,86,Registered Voters,,,,1424,,,,,
-Monongalia,Total,Registered Voters,,,,68863,,,,,
 Monongalia,1,Ballots Cast,,,,521,206,310,5,0,0
 Monongalia,2A,Ballots Cast,,,,1458,695,714,29,5,15
 Monongalia,2B,Ballots Cast,,,,1191,595,565,22,6,3
@@ -82,7 +81,6 @@ Monongalia,81,Ballots Cast,,,,1625,963,615,28,13,6
 Monongalia,82,Ballots Cast,,,,772,449,322,0,1,0
 Monongalia,83,Ballots Cast,,,,1119,643,467,5,4,0
 Monongalia,86,Ballots Cast,,,,622,387,221,12,2,0
-Monongalia,Total,Ballots Cast,,,,31660,17095,13897,475,99,94
 Monongalia,1,U.S. Senate,,PATRICK MORRISEY,REP,123,47,76,0,0,0
 Monongalia,2A,U.S. Senate,,PATRICK MORRISEY,REP,240,118,119,1,0,2
 Monongalia,2B,U.S. Senate,,PATRICK MORRISEY,REP,206,101,104,1,0,0
@@ -124,7 +122,6 @@ Monongalia,81,U.S. Senate,,PATRICK MORRISEY,REP,524,309,200,9,2,4
 Monongalia,82,U.S. Senate,,PATRICK MORRISEY,REP,326,194,132,0,0,0
 Monongalia,83,U.S. Senate,,PATRICK MORRISEY,REP,404,236,167,1,0,0
 Monongalia,86,U.S. Senate,,PATRICK MORRISEY,REP,139,85,52,2,0,0
-Monongalia,Total,U.S. Senate,,PATRICK MORRISEY,REP,10918,5997,4747,122,23,29
 Monongalia,1,U.S. Senate,,JOSEPH MANCHIN III,DEM,338,131,204,3,0,0
 Monongalia,2A,U.S. Senate,,JOSEPH MANCHIN III,DEM,1079,507,536,23,4,9
 Monongalia,2B,U.S. Senate,,JOSEPH MANCHIN III,DEM,858,418,413,19,6,2
@@ -166,7 +163,6 @@ Monongalia,81,U.S. Senate,,JOSEPH MANCHIN III,DEM,961,565,369,16,9,2
 Monongalia,82,U.S. Senate,,JOSEPH MANCHIN III,DEM,387,218,168,0,1,0
 Monongalia,83,U.S. Senate,,JOSEPH MANCHIN III,DEM,626,347,272,4,3,0
 Monongalia,86,U.S. Senate,,JOSEPH MANCHIN III,DEM,432,281,140,9,2,0
-Monongalia,Total,U.S. Senate,,JOSEPH MANCHIN III,DEM,18010,9514,8078,303,66,49
 Monongalia,1,U.S. Senate,,RUSTY HOLLEN,LIB,46,23,23,0,0,0
 Monongalia,2A,U.S. Senate,,RUSTY HOLLEN,LIB,93,51,36,3,0,3
 Monongalia,2B,U.S. Senate,,RUSTY HOLLEN,LIB,82,57,24,0,0,1
@@ -208,7 +204,6 @@ Monongalia,81,U.S. Senate,,RUSTY HOLLEN,LIB,100,68,29,2,1,0
 Monongalia,82,U.S. Senate,,RUSTY HOLLEN,LIB,46,28,18,0,0,0
 Monongalia,83,U.S. Senate,,RUSTY HOLLEN,LIB,77,54,23,0,0,0
 Monongalia,86,U.S. Senate,,RUSTY HOLLEN,LIB,32,13,19,0,0,0
-Monongalia,Total,U.S. Senate,,RUSTY HOLLEN,LIB,2019,1256,721,26,5,11
 Monongalia,1,U.S. Senate,,WRITE-IN,,4,1,3,0,0,0
 Monongalia,2A,U.S. Senate,,WRITE-IN,,23,7,13,1,1,1
 Monongalia,2B,U.S. Senate,,WRITE-IN,,19,11,7,1,0,0
@@ -250,7 +245,6 @@ Monongalia,81,U.S. Senate,,WRITE-IN,,8,2,5,1,0,0
 Monongalia,82,U.S. Senate,,WRITE-IN,,4,2,2,0,0,0
 Monongalia,83,U.S. Senate,,WRITE-IN,,3,1,1,0,1,0
 Monongalia,86,U.S. Senate,,WRITE-IN,,10,4,6,0,0,0
-Monongalia,Total,U.S. Senate,,WRITE-IN,,205,91,101,8,3,2
 Monongalia,1,U.S. House,1,DAVID B McKINLEY,REP,180,68,112,0,0,0
 Monongalia,2A,U.S. House,1,DAVID B McKINLEY,REP,344,165,173,3,1,2
 Monongalia,2B,U.S. House,1,DAVID B McKINLEY,REP,294,135,156,2,1,0
@@ -292,7 +286,6 @@ Monongalia,81,U.S. House,1,DAVID B McKINLEY,REP,657,394,244,11,4,4
 Monongalia,82,U.S. House,1,DAVID B McKINLEY,REP,410,247,163,0,0,0
 Monongalia,83,U.S. House,1,DAVID B McKINLEY,REP,517,310,204,2,1,0
 Monongalia,86,U.S. House,1,DAVID B McKINLEY,REP,216,129,81,5,1,0
-Monongalia,Total,U.S. House,1,DAVID B McKINLEY,REP,14045,7628,6174,178,33,32
 Monongalia,1,U.S. House,1,KENDRA FERSHEE,DEM,331,135,191,5,0,0
 Monongalia,2A,U.S. House,1,KENDRA FERSHEE,DEM,1093,519,532,26,4,12
 Monongalia,2B,U.S. House,1,KENDRA FERSHEE,DEM,873,443,402,20,5,3
@@ -334,7 +327,6 @@ Monongalia,81,U.S. House,1,KENDRA FERSHEE,DEM,948,558,362,17,9,2
 Monongalia,82,U.S. House,1,KENDRA FERSHEE,DEM,349,192,157,0,0,0
 Monongalia,83,U.S. House,1,KENDRA FERSHEE,DEM,585,323,257,3,2,0
 Monongalia,86,U.S. House,1,KENDRA FERSHEE,DEM,399,253,138,7,1,0
-Monongalia,Total,U.S. House,1,KENDRA FERSHEE,DEM,17047,9162,7476,288,63,58
 Monongalia,1,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
 Monongalia,2A,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
 Monongalia,2B,U.S. House,1,WRITE-IN,,4,4,0,0,0,0
@@ -376,7 +368,6 @@ Monongalia,81,U.S. House,1,WRITE-IN,,2,1,1,0,0,0
 Monongalia,82,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
 Monongalia,83,U.S. House,1,WRITE-IN,,1,1,0,0,0,0
 Monongalia,86,U.S. House,1,WRITE-IN,,0,0,0,0,0,0
-Monongalia,Total,U.S. House,1,WRITE-IN,,30,24,3,2,0,1
 Monongalia,1,State Senate,13,MIKE OLIVERIO,REP,201,83,118,0,0,0
 Monongalia,2A,State Senate,13,MIKE OLIVERIO,REP,375,183,184,4,1,3
 Monongalia,2B,State Senate,13,MIKE OLIVERIO,REP,322,162,154,4,2,0
@@ -403,7 +394,6 @@ Monongalia,78,State Senate,13,MIKE OLIVERIO,REP,614,369,235,8,1,1
 Monongalia,82,State Senate,13,MIKE OLIVERIO,REP,416,258,158,0,0,0
 Monongalia,83,State Senate,13,MIKE OLIVERIO,REP,560,330,226,2,2,0
 Monongalia,86,State Senate,13,MIKE OLIVERIO,REP,249,149,94,5,1,0
-Monongalia,Total,State Senate,13,MIKE OLIVERIO,REP,8716,4871,3678,117,22,28
 Monongalia,1,State Senate,13,BOB BEACH,DEM,310,120,185,5,0,0
 Monongalia,2A,State Senate,13,BOB BEACH,DEM,1062,502,520,25,4,11
 Monongalia,2B,State Senate,13,BOB BEACH,DEM,845,422,399,18,4,2
@@ -430,7 +420,6 @@ Monongalia,78,State Senate,13,BOB BEACH,DEM,563,305,246,8,3,1
 Monongalia,82,State Senate,13,BOB BEACH,DEM,332,176,155,0,1,0
 Monongalia,83,State Senate,13,BOB BEACH,DEM,537,299,233,3,2,0
 Monongalia,86,State Senate,13,BOB BEACH,DEM,357,231,118,7,1,0
-Monongalia,Total,State Senate,13,BOB BEACH,DEM,11486,6133,5045,216,44,48
 Monongalia,1,State Senate,13,WRITE-IN,,0,0,0,0,0,0
 Monongalia,2A,State Senate,13,WRITE-IN,,2,2,0,0,0,0
 Monongalia,2B,State Senate,13,WRITE-IN,,3,3,0,0,0,0
@@ -457,7 +446,6 @@ Monongalia,78,State Senate,13,WRITE-IN,,1,0,1,0,0,0
 Monongalia,82,State Senate,13,WRITE-IN,,2,0,2,0,0,0
 Monongalia,83,State Senate,13,WRITE-IN,,1,1,0,0,0,0
 Monongalia,86,State Senate,13,WRITE-IN,,1,0,1,0,0,0
-Monongalia,Total,State Senate,13,WRITE-IN,,27,19,8,0,0,0
 Monongalia,40,State Senate,2,CHARLES CLEMENTS,REP,166,95,69,2,0,0
 Monongalia,41,State Senate,2,CHARLES CLEMENTS,REP,63,31,32,0,0,0
 Monongalia,44,State Senate,2,CHARLES CLEMENTS,REP,274,158,111,3,1,1
@@ -468,7 +456,6 @@ Monongalia,52,State Senate,2,CHARLES CLEMENTS,REP,471,233,231,5,2,0
 Monongalia,58,State Senate,2,CHARLES CLEMENTS,REP,97,57,39,1,0,0
 Monongalia,79,State Senate,2,CHARLES CLEMENTS,REP,616,380,226,9,1,0
 Monongalia,81,State Senate,2,CHARLES CLEMENTS,REP,651,407,230,10,1,3
-Monongalia,Total,State Senate,2,CHARLES CLEMENTS,REP,2803,1634,1128,31,6,4
 Monongalia,40,State Senate,2,DENNY LONGWELL,DEM,129,54,74,0,1,0
 Monongalia,41,State Senate,2,DENNY LONGWELL,DEM,44,29,15,0,0,0
 Monongalia,44,State Senate,2,DENNY LONGWELL,DEM,207,103,98,4,2,0
@@ -479,7 +466,6 @@ Monongalia,52,State Senate,2,DENNY LONGWELL,DEM,317,141,173,3,0,0
 Monongalia,58,State Senate,2,DENNY LONGWELL,DEM,76,42,32,2,0,0
 Monongalia,79,State Senate,2,DENNY LONGWELL,DEM,428,224,195,7,2,0
 Monongalia,81,State Senate,2,DENNY LONGWELL,DEM,886,502,353,17,11,3
-Monongalia,Total,State Senate,2,DENNY LONGWELL,DEM,2491,1314,1122,36,16,3
 Monongalia,40,State Senate,2,WRITE-IN,,1,1,0,0,0,0
 Monongalia,41,State Senate,2,WRITE-IN,,0,0,0,0,0,0
 Monongalia,44,State Senate,2,WRITE-IN,,1,1,0,0,0,0
@@ -490,37 +476,27 @@ Monongalia,52,State Senate,2,WRITE-IN,,4,2,2,0,0,0
 Monongalia,58,State Senate,2,WRITE-IN,,0,0,0,0,0,0
 Monongalia,79,State Senate,2,WRITE-IN,,2,2,0,0,0,0
 Monongalia,81,State Senate,2,WRITE-IN,,5,2,3,0,0,0
-Monongalia,Total,State Senate,2,WRITE-IN,,15,10,5,0,0,0
 Monongalia,33,State Senate,14,DAVE SYPOLT,REP,249,184,63,1,0,1
 Monongalia,38,State Senate,14,DAVE SYPOLT,REP,935,413,506,11,3,2
 Monongalia,61,State Senate,14,DAVE SYPOLT,REP,716,391,316,8,1,0
 Monongalia,62,State Senate,14,DAVE SYPOLT,REP,385,211,170,4,0,0
 Monongalia,63,State Senate,14,DAVE SYPOLT,REP,285,119,162,2,2,0
-Monongalia,Total,State Senate,14,DAVE SYPOLT,REP,2570,1318,1217,26,6,3
 Monongalia,33,State Senate,14,STEPHANIE ZUCKER,DEM,314,182,128,2,0,2
 Monongalia,38,State Senate,14,STEPHANIE ZUCKER,DEM,980,483,482,12,3,0
 Monongalia,61,State Senate,14,STEPHANIE ZUCKER,DEM,773,388,370,13,0,2
 Monongalia,62,State Senate,14,STEPHANIE ZUCKER,DEM,351,164,184,3,0,0
 Monongalia,63,State Senate,14,STEPHANIE ZUCKER,DEM,249,111,134,4,0,0
-Monongalia,Total,State Senate,14,STEPHANIE ZUCKER,DEM,2667,1328,1298,34,3,4
 Monongalia,33,State Senate,14,WRITE-IN,,0,0,0,0,0,0
 Monongalia,38,State Senate,14,WRITE-IN,,3,1,2,0,0,0
 Monongalia,61,State Senate,14,WRITE-IN,,3,1,2,0,0,0
 Monongalia,62,State Senate,14,WRITE-IN,,0,0,0,0,0,0
 Monongalia,63,State Senate,14,WRITE-IN,,0,0,0,0,0,0
-Monongalia,Total,State Senate,14,WRITE-IN,,6,2,4,0,0,0
 Monongalia,40,House of Delegates,5,PHILLIP WILEY,REP,125,77,46,2,0,0
-Monongalia,Total,House of Delegates,5,PHILLIP WILEY,REP,125,77,46,2,0,0
 Monongalia,40,House of Delegates,5,DAVE PETHTEL,DEM,186,83,102,0,1,0
-Monongalia,Total,House of Delegates,5,DAVE PETHTEL,DEM,186,83,102,0,1,0
 Monongalia,40,House of Delegates,5,WRITE-IN,,2,2,0,0,0,0
-Monongalia,Total,House of Delegates,5,WRITE-IN,,2,2,0,0,0,0
 Monongalia,62,House of Delegates,49,AMY SUMMERS,REP,421,227,192,2,0,0
-Monongalia,Total,House of Delegates,49,AMY SUMMERS,REP,421,227,192,2,0,0
 Monongalia,62,House of Delegates,49,GEORGE ALLEN ABEL,DEM,299,142,153,4,0,0
-Monongalia,Total,House of Delegates,49,GEORGE ALLEN ABEL,DEM,299,142,153,4,0,0
 Monongalia,62,House of Delegates,49,WRITE-IN,,0,0,0,0,0,0
-Monongalia,Total,House of Delegates,49,WRITE-IN,,0,0,0,0,0,0
 Monongalia,1,House of Delegates,51,JOE STATLER,REP,178,71,107,0,0,0
 Monongalia,2A,House of Delegates,51,JOE STATLER,REP,343,162,176,3,0,2
 Monongalia,2B,House of Delegates,51,JOE STATLER,REP,288,126,157,3,2,0
@@ -560,7 +536,6 @@ Monongalia,81,House of Delegates,51,JOE STATLER,REP,647,395,235,10,3,4
 Monongalia,82,House of Delegates,51,JOE STATLER,REP,395,235,160,0,0,0
 Monongalia,83,House of Delegates,51,JOE STATLER,REP,509,301,206,1,1,0
 Monongalia,86,House of Delegates,51,JOE STATLER,REP,201,129,69,2,1,0
-Monongalia,Total,House of Delegates,51,JOE STATLER,REP,13051,7110,5729,151,29,32
 Monongalia,1,House of Delegates,51,AARON METZ,REP,103,37,66,0,0,0
 Monongalia,2A,House of Delegates,51,AARON METZ,REP,213,112,98,2,0,1
 Monongalia,2B,House of Delegates,51,AARON METZ,REP,168,83,83,1,1,0
@@ -600,7 +575,6 @@ Monongalia,81,House of Delegates,51,AARON METZ,REP,416,247,158,6,1,4
 Monongalia,82,House of Delegates,51,AARON METZ,REP,263,161,102,0,0,0
 Monongalia,83,House of Delegates,51,AARON METZ,REP,368,219,148,1,0,0
 Monongalia,86,House of Delegates,51,AARON METZ,REP,127,81,44,2,0,0
-Monongalia,Total,House of Delegates,51,AARON METZ,REP,8464,4833,3494,95,17,25
 Monongalia,1,House of Delegates,51,ROGER SHUTTLESWORTH,REP,113,42,70,1,0,0
 Monongalia,2A,House of Delegates,51,ROGER SHUTTLESWORTH,REP,221,117,100,3,0,1
 Monongalia,2B,House of Delegates,51,ROGER SHUTTLESWORTH,REP,164,80,82,1,1,0
@@ -640,7 +614,6 @@ Monongalia,81,House of Delegates,51,ROGER SHUTTLESWORTH,REP,426,255,162,5,1,3
 Monongalia,82,House of Delegates,51,ROGER SHUTTLESWORTH,REP,272,161,111,0,0,0
 Monongalia,83,House of Delegates,51,ROGER SHUTTLESWORTH,REP,369,218,150,1,0,0
 Monongalia,86,House of Delegates,51,ROGER SHUTTLESWORTH,REP,128,79,47,2,0,0
-Monongalia,Total,House of Delegates,51,ROGER SHUTTLESWORTH,REP,8885,4901,3837,108,20,19
 Monongalia,1,House of Delegates,51,CINDY FRICH,REP,185,76,108,1,0,0
 Monongalia,2A,House of Delegates,51,CINDY FRICH,REP,334,169,160,3,0,2
 Monongalia,2B,House of Delegates,51,CINDY FRICH,REP,289,136,145,6,2,0
@@ -680,7 +653,6 @@ Monongalia,81,House of Delegates,51,CINDY FRICH,REP,636,388,232,11,2,3
 Monongalia,82,House of Delegates,51,CINDY FRICH,REP,388,236,152,0,0,0
 Monongalia,83,House of Delegates,51,CINDY FRICH,REP,499,287,209,2,1,0
 Monongalia,86,House of Delegates,51,CINDY FRICH,REP,201,124,73,3,1,0
-Monongalia,Total,House of Delegates,51,CINDY FRICH,REP,12601,6991,5389,160,31,30
 Monongalia,1,House of Delegates,51,DEBBIE WARNER,REP,147,53,93,1,0,0
 Monongalia,2A,House of Delegates,51,DEBBIE WARNER,REP,287,150,130,2,0,5
 Monongalia,2B,House of Delegates,51,DEBBIE WARNER,REP,235,116,117,2,0,0
@@ -720,7 +692,6 @@ Monongalia,81,House of Delegates,51,DEBBIE WARNER,REP,558,337,209,7,1,4
 Monongalia,82,House of Delegates,51,DEBBIE WARNER,REP,357,217,140,0,0,0
 Monongalia,83,House of Delegates,51,DEBBIE WARNER,REP,479,282,195,1,1,0
 Monongalia,86,House of Delegates,51,DEBBIE WARNER,REP,173,104,66,3,0,0
-Monongalia,Total,House of Delegates,51,DEBBIE WARNER,REP,11058,6135,4743,130,22,28
 Monongalia,1,House of Delegates,51,EVAN HANSEN,DEM,318,129,186,3,0,0
 Monongalia,2A,House of Delegates,51,EVAN HANSEN,DEM,1044,483,525,21,5,10
 Monongalia,2B,House of Delegates,51,EVAN HANSEN,DEM,840,418,399,16,5,2
@@ -760,7 +731,6 @@ Monongalia,81,House of Delegates,51,EVAN HANSEN,DEM,871,506,340,16,8,1
 Monongalia,82,House of Delegates,51,EVAN HANSEN,DEM,342,195,146,0,1,0
 Monongalia,83,House of Delegates,51,EVAN HANSEN,DEM,514,283,224,4,3,0
 Monongalia,86,House of Delegates,51,EVAN HANSEN,DEM,354,210,134,8,2,0
-Monongalia,Total,House of Delegates,51,EVAN HANSEN,DEM,15558,8123,7065,267,57,46
 Monongalia,1,House of Delegates,51,JOHN WILLIAMS,DEM,300,114,183,3,0,0
 Monongalia,2A,House of Delegates,51,JOHN WILLIAMS,DEM,1009,463,509,24,5,8
 Monongalia,2B,House of Delegates,51,JOHN WILLIAMS,DEM,810,398,389,17,4,2
@@ -800,7 +770,6 @@ Monongalia,81,House of Delegates,51,JOHN WILLIAMS,DEM,854,487,344,15,7,1
 Monongalia,82,House of Delegates,51,JOHN WILLIAMS,DEM,298,167,130,0,1,0
 Monongalia,83,House of Delegates,51,JOHN WILLIAMS,DEM,512,266,240,3,3,0
 Monongalia,86,House of Delegates,51,JOHN WILLIAMS,DEM,387,245,135,5,2,0
-Monongalia,Total,House of Delegates,51,JOHN WILLIAMS,DEM,15045,7780,6905,260,57,43
 Monongalia,1,House of Delegates,51,RODNEY A. PYLES,DEM,288,121,164,3,0,0
 Monongalia,2A,House of Delegates,51,RODNEY A. PYLES,DEM,911,413,464,19,5,10
 Monongalia,2B,House of Delegates,51,RODNEY A. PYLES,DEM,717,359,336,15,5,2
@@ -840,7 +809,6 @@ Monongalia,81,House of Delegates,51,RODNEY A. PYLES,DEM,818,477,322,11,7,1
 Monongalia,82,House of Delegates,51,RODNEY A. PYLES,DEM,314,171,142,0,1,0
 Monongalia,83,House of Delegates,51,RODNEY A. PYLES,DEM,498,263,229,3,3,0
 Monongalia,86,House of Delegates,51,RODNEY A. PYLES,DEM,326,214,105,6,1,0
-Monongalia,Total,House of Delegates,51,RODNEY A. PYLES,DEM,14240,7504,6391,247,55,43
 Monongalia,1,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,337,133,200,4,0,0
 Monongalia,2A,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,1027,468,521,24,5,9
 Monongalia,2B,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,848,407,412,21,5,3
@@ -880,7 +848,6 @@ Monongalia,81,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,912,507,374,20
 Monongalia,82,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,356,192,163,0,1,0
 Monongalia,83,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,564,298,260,4,2,0
 Monongalia,86,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,391,247,135,7,2,0
-Monongalia,Total,House of Delegates,51,BARBARA EVANS FLEISCHAUER,DEM,16357,8370,7559,315,61,52
 Monongalia,1,House of Delegates,51,DANIELLE WALKER,DEM,313,122,186,5,0,0
 Monongalia,2A,House of Delegates,51,DANIELLE WALKER,DEM,1008,471,498,23,5,11
 Monongalia,2B,House of Delegates,51,DANIELLE WALKER,DEM,808,401,385,16,4,2
@@ -920,7 +887,6 @@ Monongalia,81,House of Delegates,51,DANIELLE WALKER,DEM,847,505,318,13,9,2
 Monongalia,82,House of Delegates,51,DANIELLE WALKER,DEM,295,157,137,0,1,0
 Monongalia,83,House of Delegates,51,DANIELLE WALKER,DEM,513,288,219,3,3,0
 Monongalia,86,House of Delegates,51,DANIELLE WALKER,DEM,371,231,131,8,1,0
-Monongalia,Total,House of Delegates,51,DANIELLE WALKER,DEM,14725,7785,6588,242,60,50
 Monongalia,1,House of Delegates,51,BUDDY A GUTHRIE,LIB,47,26,21,0,0,0
 Monongalia,2A,House of Delegates,51,BUDDY A GUTHRIE,LIB,148,93,50,2,0,3
 Monongalia,2B,House of Delegates,51,BUDDY A GUTHRIE,LIB,106,73,32,0,1,0
@@ -960,7 +926,6 @@ Monongalia,81,House of Delegates,51,BUDDY A GUTHRIE,LIB,163,111,44,4,3,1
 Monongalia,82,House of Delegates,51,BUDDY A GUTHRIE,LIB,66,44,22,0,0,0
 Monongalia,83,House of Delegates,51,BUDDY A GUTHRIE,LIB,128,85,43,0,0,0
 Monongalia,86,House of Delegates,51,BUDDY A GUTHRIE,LIB,84,58,24,2,0,0
-Monongalia,Total,House of Delegates,51,BUDDY A GUTHRIE,LIB,3011,1959,1003,28,10,11
 Monongalia,1,House of Delegates,51,HARRY V BERTRAM,AFU,13,3,10,0,0,0
 Monongalia,2A,House of Delegates,51,HARRY V BERTRAM,AFU,30,19,11,0,0,0
 Monongalia,2B,House of Delegates,51,HARRY V BERTRAM,AFU,22,16,5,1,0,0
@@ -1000,7 +965,6 @@ Monongalia,81,House of Delegates,51,HARRY V BERTRAM,AFU,40,23,16,0,1,0
 Monongalia,82,House of Delegates,51,HARRY V BERTRAM,AFU,16,11,5,0,0,0
 Monongalia,83,House of Delegates,51,HARRY V BERTRAM,AFU,37,23,14,0,0,0
 Monongalia,86,House of Delegates,51,HARRY V BERTRAM,AFU,20,17,2,1,0,0
-Monongalia,Total,House of Delegates,51,HARRY V BERTRAM,AFU,942,549,375,13,3,2
 Monongalia,1,House of Delegates,51,WRITE-IN,,0,0,0,0,0,0
 Monongalia,2A,House of Delegates,51,WRITE-IN,,1,0,1,0,0,0
 Monongalia,2B,House of Delegates,51,WRITE-IN,,3,2,1,0,0,0
@@ -1040,4 +1004,3 @@ Monongalia,81,House of Delegates,51,WRITE-IN,,1,1,0,0,0,0
 Monongalia,82,House of Delegates,51,WRITE-IN,,1,0,1,0,0,0
 Monongalia,83,House of Delegates,51,WRITE-IN,,6,5,0,0,1,0
 Monongalia,86,House of Delegates,51,WRITE-IN,,6,6,0,0,0,0
-Monongalia,Total,House of Delegates,51,WRITE-IN,,79,55,21,0,1,2

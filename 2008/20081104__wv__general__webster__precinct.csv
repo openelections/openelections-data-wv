@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Webster,Total,Attorney General,,REP,Daniel W.Greear,960
-Webster,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",2022
 Webster,10,Attorney General,,REP,Daniel W.Greear,14
 Webster,15,Attorney General,,REP,Daniel W.Greear,116
 Webster,18,Attorney General,,REP,Daniel W.Greear,47
@@ -29,8 +27,6 @@ Webster,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",188
 Webster,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",160
 Webster,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",119
 Webster,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",229
-Webster,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,2097
-Webster,Total,Commissioner of Agriculture,,REP,James Michael Teets,827
 Webster,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,29
 Webster,15,Commissioner of Agriculture,,DEM,Gus R. Douglass,243
 Webster,18,Commissioner of Agriculture,,DEM,Gus R. Douglass,67
@@ -59,9 +55,6 @@ Webster,3,Commissioner of Agriculture,,REP,James Michael Teets,57
 Webster,4,Commissioner of Agriculture,,REP,James Michael Teets,58
 Webster,5,Commissioner of Agriculture,,REP,James Michael Teets,58
 Webster,8,Commissioner of Agriculture,,REP,James Michael Teets,69
-Webster,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",161
-Webster,Total,Governor,,DEM,"Joe Manchin, III",2361
-Webster,Total,Governor,,REP,Russell E. Weeks Jr,555
 Webster,10,Governor,,MTN,"Jesse C. Johnson, Jr.",0
 Webster,15,Governor,,MTN,"Jesse C. Johnson, Jr.",14
 Webster,18,Governor,,MTN,"Jesse C. Johnson, Jr.",6
@@ -104,11 +97,6 @@ Webster,3,Governor,,REP,Russell E. Weeks Jr,28
 Webster,4,Governor,,REP,Russell E. Weeks Jr,40
 Webster,5,Governor,,REP,Russell E. Weeks Jr,38
 Webster,8,Governor,,REP,Russell E. Weeks Jr,55
-Webster,Total,President,,DEM,Barack Hussein Obama,1552
-Webster,Total,President,,CON,Charles Obadiah Baldwin,37
-Webster,Total,President,,MTN,Cynthia Ann McKinney,22
-Webster,Total,President,,REP,John Sidney McCain III,1386
-Webster,Total,President,,,Ralph Nader,55
 Webster,10,President,,DEM,Barack Hussein Obama,22
 Webster,15,President,,DEM,Barack Hussein Obama,176
 Webster,18,President,,DEM,Barack Hussein Obama,52
@@ -179,8 +167,6 @@ Webster,3,President,,,Ralph Nader,4
 Webster,4,President,,,Ralph Nader,5
 Webster,5,President,,,Ralph Nader,4
 Webster,8,President,,,Ralph Nader,10
-Webster,Total,Secretary of State,,REP,Charles Theophilus Minimah,568
-Webster,Total,Secretary of State,,DEM,Natalie Tennant,2410
 Webster,10,Secretary of State,,REP,Charles Theophilus Minimah,11
 Webster,15,Secretary of State,,REP,Charles Theophilus Minimah,67
 Webster,18,Secretary of State,,REP,Charles Theophilus Minimah,38
@@ -209,7 +195,6 @@ Webster,3,Secretary of State,,DEM,Natalie Tennant,204
 Webster,4,Secretary of State,,DEM,Natalie Tennant,214
 Webster,5,Secretary of State,,DEM,Natalie Tennant,154
 Webster,8,Secretary of State,,DEM,Natalie Tennant,265
-Webster,Total,State Auditor,,DEM,Glen B. Gainer III,2435
 Webster,10,State Auditor,,DEM,Glen B. Gainer III,35
 Webster,15,State Auditor,,DEM,Glen B. Gainer III,291
 Webster,18,State Auditor,,DEM,Glen B. Gainer III,101
@@ -224,7 +209,6 @@ Webster,3,State Auditor,,DEM,Glen B. Gainer III,213
 Webster,4,State Auditor,,DEM,Glen B. Gainer III,177
 Webster,5,State Auditor,,DEM,Glen B. Gainer III,148
 Webster,8,State Auditor,,DEM,Glen B. Gainer III,257
-Webster,Total,State House,,DEM,Joseph B. Talbott,2495
 Webster,10,State House,,DEM,Joseph B. Talbott,37
 Webster,15,State House,,DEM,Joseph B. Talbott,292
 Webster,18,State House,,DEM,Joseph B. Talbott,100
@@ -239,9 +223,6 @@ Webster,3,State House,,DEM,Joseph B. Talbott,213
 Webster,4,State House,,DEM,Joseph B. Talbott,184
 Webster,5,State House,,DEM,Joseph B. Talbott,145
 Webster,8,State House,,DEM,Joseph B. Talbott,271
-Webster,Total,State Senate,,REP,Aubry Angell Wilson,881
-Webster,Total,State Senate,,MTN,James Andrew Waddell,210
-Webster,Total,State Senate,,DEM,William Ramsey Laird IV,1750
 Webster,10,State Senate,,REP,Aubry Angell Wilson,13
 Webster,15,State Senate,,REP,Aubry Angell Wilson,103
 Webster,18,State Senate,,REP,Aubry Angell Wilson,35
@@ -284,7 +265,6 @@ Webster,3,State Senate,,DEM,William Ramsey Laird IV,157
 Webster,4,State Senate,,DEM,William Ramsey Laird IV,132
 Webster,5,State Senate,,DEM,William Ramsey Laird IV,101
 Webster,8,State Senate,,DEM,William Ramsey Laird IV,185
-Webster,Total,State Treasurer,,DEM,John D. Perdue,2459
 Webster,10,State Treasurer,,DEM,John D. Perdue,35
 Webster,15,State Treasurer,,DEM,John D. Perdue,300
 Webster,18,State Treasurer,,DEM,John D. Perdue,100
@@ -299,8 +279,6 @@ Webster,3,State Treasurer,,DEM,John D. Perdue,215
 Webster,4,State Treasurer,,DEM,John D. Perdue,175
 Webster,5,State Treasurer,,DEM,John D. Perdue,150
 Webster,8,State Treasurer,,DEM,John D. Perdue,263
-Webster,Total,U.S. House,3,REP,Gary Martin Gearheart,613
-Webster,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",2372
 Webster,10,U.S. House,3,REP,Gary Martin Gearheart,6
 Webster,15,U.S. House,3,REP,Gary Martin Gearheart,76
 Webster,18,U.S. House,3,REP,Gary Martin Gearheart,36
@@ -329,8 +307,6 @@ Webster,3,U.S. House,3,DEM,"Nick Joe Rahall, II",208
 Webster,4,U.S. House,3,DEM,"Nick Joe Rahall, II",192
 Webster,5,U.S. House,3,DEM,"Nick Joe Rahall, II",148
 Webster,8,U.S. House,3,DEM,"Nick Joe Rahall, II",253
-Webster,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,2333
-Webster,Total,U.S. Senate,,REP,Matthew Jay Wolfe,752
 Webster,10,U.S. Senate,,DEM,John Davison Rockefeller IV,34
 Webster,15,U.S. Senate,,DEM,John Davison Rockefeller IV,276
 Webster,18,U.S. Senate,,DEM,John Davison Rockefeller IV,84

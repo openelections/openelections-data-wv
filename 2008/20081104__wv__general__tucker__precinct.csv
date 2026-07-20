@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Tucker,Total,President,,DEM,Barack Obama,1280
 Tucker,1,President,,DEM,Barack Obama,46
 Tucker,2,President,,DEM,Barack Obama,170
 Tucker,3,President,,DEM,Barack Obama,139
@@ -11,7 +10,6 @@ Tucker,14,President,,DEM,Barack Obama,45
 Tucker,15,President,,DEM,Barack Obama,151
 Tucker,16,President,,DEM,Barack Obama,175
 Tucker,24,President,,DEM,Barack Obama,119
-Tucker,Total,President,,REP,John McCain,2118
 Tucker,1,President,,REP,John McCain,109
 Tucker,2,President,,REP,John McCain,292
 Tucker,3,President,,REP,John McCain,254
@@ -23,7 +21,6 @@ Tucker,14,President,,REP,John McCain,90
 Tucker,15,President,,REP,John McCain,176
 Tucker,16,President,,REP,John McCain,193
 Tucker,24,President,,REP,John McCain,231
-Tucker,Total,President,,MTN,Cynthia McKinney,23
 Tucker,1,President,,MTN,Cynthia McKinney,0
 Tucker,2,President,,MTN,Cynthia McKinney,4
 Tucker,3,President,,MTN,Cynthia McKinney,4
@@ -35,7 +32,6 @@ Tucker,14,President,,MTN,Cynthia McKinney,0
 Tucker,15,President,,MTN,Cynthia McKinney,0
 Tucker,16,President,,MTN,Cynthia McKinney,3
 Tucker,24,President,,MTN,Cynthia McKinney,0
-Tucker,Total,President,,CON,Chuck Baldwin,15
 Tucker,1,President,,CON,Chuck Baldwin,2
 Tucker,2,President,,CON,Chuck Baldwin,1
 Tucker,3,President,,CON,Chuck Baldwin,2
@@ -47,7 +43,6 @@ Tucker,14,President,,CON,Chuck Baldwin,0
 Tucker,15,President,,CON,Chuck Baldwin,0
 Tucker,16,President,,CON,Chuck Baldwin,1
 Tucker,24,President,,CON,Chuck Baldwin,1
-Tucker,Total,President,,,Ralph Nader,58
 Tucker,1,President,,,Ralph Nader,0
 Tucker,2,President,,,Ralph Nader,7
 Tucker,3,President,,,Ralph Nader,5
@@ -59,7 +54,6 @@ Tucker,14,President,,,Ralph Nader,0
 Tucker,15,President,,,Ralph Nader,4
 Tucker,16,President,,,Ralph Nader,6
 Tucker,24,President,,,Ralph Nader,7
-Tucker,Total,U.S. Senate,,DEM,Jay Rockefeller,2254
 Tucker,1,U.S. Senate,,DEM,Jay Rockefeller,111
 Tucker,2,U.S. Senate,,DEM,Jay Rockefeller,319
 Tucker,3,U.S. Senate,,DEM,Jay Rockefeller,277
@@ -71,7 +65,6 @@ Tucker,14,U.S. Senate,,DEM,Jay Rockefeller,64
 Tucker,15,U.S. Senate,,DEM,Jay Rockefeller,196
 Tucker,16,U.S. Senate,,DEM,Jay Rockefeller,113
 Tucker,24,U.S. Senate,,DEM,Jay Rockefeller,139
-Tucker,Total,U.S. Senate,,REP,Jay Wolfe,1241
 Tucker,1,U.S. Senate,,REP,Jay Wolfe,45
 Tucker,2,U.S. Senate,,REP,Jay Wolfe,156
 Tucker,3,U.S. Senate,,REP,Jay Wolfe,132
@@ -83,7 +76,6 @@ Tucker,14,U.S. Senate,,REP,Jay Wolfe,68
 Tucker,15,U.S. Senate,,REP,Jay Wolfe,136
 Tucker,16,U.S. Senate,,REP,Jay Wolfe,113
 Tucker,24,U.S. Senate,,REP,Jay Wolfe,139
-Tucker,Total,U.S. House,1,DEM,Alan B. Mollahan,2335
 Tucker,1,U.S. House,1,DEM,Alan B. Mollahan,115
 Tucker,2,U.S. House,1,DEM,Alan B. Mollahan,338
 Tucker,3,U.S. House,1,DEM,Alan B. Mollahan,283
@@ -95,7 +87,6 @@ Tucker,14,U.S. House,1,DEM,Alan B. Mollahan,80
 Tucker,15,U.S. House,1,DEM,Alan B. Mollahan,205
 Tucker,16,U.S. House,1,DEM,Alan B. Mollahan,236
 Tucker,24,U.S. House,1,DEM,Alan B. Mollahan,228
-Tucker,Total,Governor,,DEM,Joe Manchin III,2548
 Tucker,1,Governor,,DEM,Joe Manchin III,118
 Tucker,2,Governor,,DEM,Joe Manchin III,363
 Tucker,3,Governor,,DEM,Joe Manchin III,334
@@ -107,7 +98,6 @@ Tucker,14,Governor,,DEM,Joe Manchin III,76
 Tucker,15,Governor,,DEM,Joe Manchin III,215
 Tucker,16,Governor,,DEM,Joe Manchin III,247
 Tucker,24,Governor,,DEM,Joe Manchin III,272
-Tucker,Total,Governor,,REP,Russ Weeks,746
 Tucker,1,Governor,,REP,Russ Weeks,32
 Tucker,2,Governor,,REP,Russ Weeks,90
 Tucker,3,Governor,,REP,Russ Weeks,67
@@ -119,7 +109,6 @@ Tucker,14,Governor,,REP,Russ Weeks,46
 Tucker,15,Governor,,REP,Russ Weeks,93
 Tucker,16,Governor,,REP,Russ Weeks,83
 Tucker,24,Governor,,REP,Russ Weeks,73
-Tucker,Total,Governor,,MTN,Jesse Johnson,165
 Tucker,1,Governor,,MTN,Jesse Johnson,4
 Tucker,2,Governor,,MTN,Jesse Johnson,20
 Tucker,3,Governor,,MTN,Jesse Johnson,8
@@ -131,7 +120,6 @@ Tucker,14,Governor,,MTN,Jesse Johnson,6
 Tucker,15,Governor,,MTN,Jesse Johnson,19
 Tucker,16,Governor,,MTN,Jesse Johnson,42
 Tucker,24,Governor,,MTN,Jesse Johnson,15
-Tucker,Total,Secretary of State,,DEM,Natalie Tennant,1984
 Tucker,1,Secretary of State,,DEM,Natalie Tennant,89
 Tucker,2,Secretary of State,,DEM,Natalie Tennant,269
 Tucker,3,Secretary of State,,DEM,Natalie Tennant,249
@@ -143,7 +131,6 @@ Tucker,14,Secretary of State,,DEM,Natalie Tennant,55
 Tucker,15,Secretary of State,,DEM,Natalie Tennant,174
 Tucker,16,Secretary of State,,DEM,Natalie Tennant,237
 Tucker,24,Secretary of State,,DEM,Natalie Tennant,189
-Tucker,Total,Secretary of State,,REP,Charles Minimah,1146
 Tucker,1,Secretary of State,,REP,Charles Minimah,44
 Tucker,2,Secretary of State,,REP,Charles Minimah,163
 Tucker,3,Secretary of State,,REP,Charles Minimah,118
@@ -155,7 +142,6 @@ Tucker,14,Secretary of State,,REP,Charles Minimah,61
 Tucker,15,Secretary of State,,REP,Charles Minimah,125
 Tucker,16,Secretary of State,,REP,Charles Minimah,101
 Tucker,24,Secretary of State,,REP,Charles Minimah,119
-Tucker,Total,State Auditor,,DEM,Glen B. Gainer III,2589
 Tucker,1,State Auditor,,DEM,Glen B. Gainer III,117
 Tucker,2,State Auditor,,DEM,Glen B. Gainer III,363
 Tucker,3,State Auditor,,DEM,Glen B. Gainer III,307
@@ -167,7 +153,6 @@ Tucker,14,State Auditor,,DEM,Glen B. Gainer III,89
 Tucker,15,State Auditor,,DEM,Glen B. Gainer III,232
 Tucker,16,State Auditor,,DEM,Glen B. Gainer III,293
 Tucker,24,State Auditor,,DEM,Glen B. Gainer III,244
-Tucker,Total,State Treasurer,,DEM,John Perdue,2534
 Tucker,1,State Treasurer,,DEM,John Perdue,113
 Tucker,2,State Treasurer,,DEM,John Perdue,351
 Tucker,3,State Treasurer,,DEM,John Perdue,301
@@ -179,7 +164,6 @@ Tucker,14,State Treasurer,,DEM,John Perdue,86
 Tucker,15,State Treasurer,,DEM,John Perdue,226
 Tucker,16,State Treasurer,,DEM,John Perdue,289
 Tucker,24,State Treasurer,,DEM,John Perdue,249
-Tucker,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,1520
 Tucker,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,68
 Tucker,2,Commissioner of Agriculture,,DEM,Gus R. Douglass,182
 Tucker,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,174
@@ -191,7 +175,6 @@ Tucker,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,56
 Tucker,15,Commissioner of Agriculture,,DEM,Gus R. Douglass,130
 Tucker,16,Commissioner of Agriculture,,DEM,Gus R. Douglass,184
 Tucker,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,151
-Tucker,Total,Commissioner of Agriculture,,REP,J. Michael Teets,1754
 Tucker,1,Commissioner of Agriculture,,REP,J. Michael Teets,69
 Tucker,2,Commissioner of Agriculture,,REP,J. Michael Teets,259
 Tucker,3,Commissioner of Agriculture,,REP,J. Michael Teets,200
@@ -203,7 +186,6 @@ Tucker,14,Commissioner of Agriculture,,REP,J. Michael Teets,71
 Tucker,15,Commissioner of Agriculture,,REP,J. Michael Teets,182
 Tucker,16,Commissioner of Agriculture,,REP,J. Michael Teets,169
 Tucker,24,Commissioner of Agriculture,,REP,J. Michael Teets,199
-Tucker,Total,Attorney General,,DEM,Darrell McGraw,1684
 Tucker,1,Attorney General,,DEM,Darrell McGraw,80
 Tucker,2,Attorney General,,DEM,Darrell McGraw,233
 Tucker,3,Attorney General,,DEM,Darrell McGraw,209
@@ -215,7 +197,6 @@ Tucker,14,Attorney General,,DEM,Darrell McGraw,54
 Tucker,15,Attorney General,,DEM,Darrell McGraw,133
 Tucker,16,Attorney General,,DEM,Darrell McGraw,201
 Tucker,24,Attorney General,,DEM,Darrell McGraw,168
-Tucker,Total,Attorney General,,REP,Dan Greear,1622
 Tucker,1,Attorney General,,REP,Dan Greear,66
 Tucker,2,Attorney General,,REP,Dan Greear,217
 Tucker,3,Attorney General,,REP,Dan Greear,175
@@ -227,7 +208,6 @@ Tucker,14,Attorney General,,REP,Dan Greear,69
 Tucker,15,Attorney General,,REP,Dan Greear,182
 Tucker,16,Attorney General,,REP,Dan Greear,162
 Tucker,24,Attorney General,,REP,Dan Greear,168
-Tucker,Total,State Senate,14,DEM,Bob Williams,1727
 Tucker,1,State Senate,14,DEM,Bob Williams,70
 Tucker,2,State Senate,14,DEM,Bob Williams,242
 Tucker,3,State Senate,14,DEM,Bob Williams,204
@@ -239,7 +219,6 @@ Tucker,14,State Senate,14,DEM,Bob Williams,62
 Tucker,15,State Senate,14,DEM,Bob Williams,158
 Tucker,16,State Senate,14,DEM,Bob Williams,188
 Tucker,24,State Senate,14,DEM,Bob Williams,171
-Tucker,Total,State Senate,14,REP,Gary Howell,1445
 Tucker,1,State Senate,14,REP,Gary Howell,65
 Tucker,2,State Senate,14,REP,Gary Howell,194
 Tucker,3,State Senate,14,REP,Gary Howell,166
@@ -251,7 +230,6 @@ Tucker,14,State Senate,14,REP,Gary Howell,55
 Tucker,15,State Senate,14,REP,Gary Howell,147
 Tucker,16,State Senate,14,REP,Gary Howell,158
 Tucker,24,State Senate,14,REP,Gary Howell,148
-Tucker,Total,State House,46,DEM,Stan Shaver,2709
 Tucker,1,State House,46,DEM,Stan Shaver,124
 Tucker,2,State House,46,DEM,Stan Shaver,379
 Tucker,3,State House,46,DEM,Stan Shaver,333

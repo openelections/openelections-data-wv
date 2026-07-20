@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Raleigh,Total,Attorney General,,REP,Daniel W.Greear,14761
-Raleigh,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",12320
 Raleigh,1,Attorney General,,REP,Daniel W.Greear,113
 Raleigh,10,Attorney General,,REP,Daniel W.Greear,97
 Raleigh,11,Attorney General,,REP,Daniel W.Greear,281
@@ -42,7 +40,7 @@ Raleigh,54,Attorney General,,REP,Daniel W.Greear,291
 Raleigh,55,Attorney General,,REP,Daniel W.Greear,221
 Raleigh,56,Attorney General,,REP,Daniel W.Greear,466
 Raleigh,57,Attorney General,,REP,Daniel W.Greear,224
-Raleigh,5,Attorney General,,REP,Daniel W.Greear,36
+Raleigh,5A,Attorney General,,REP,Daniel W.Greear,36
 Raleigh,6,Attorney General,,REP,Daniel W.Greear,405
 Raleigh,60,Attorney General,,REP,Daniel W.Greear,332
 Raleigh,61,Attorney General,,REP,Daniel W.Greear,52
@@ -105,7 +103,7 @@ Raleigh,54,Attorney General,,DEM,"Darrell V. McGraw, Jr.",122
 Raleigh,55,Attorney General,,DEM,"Darrell V. McGraw, Jr.",174
 Raleigh,56,Attorney General,,DEM,"Darrell V. McGraw, Jr.",303
 Raleigh,57,Attorney General,,DEM,"Darrell V. McGraw, Jr.",203
-Raleigh,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",83
+Raleigh,5A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",83
 Raleigh,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",306
 Raleigh,60,Attorney General,,DEM,"Darrell V. McGraw, Jr.",245
 Raleigh,61,Attorney General,,DEM,"Darrell V. McGraw, Jr.",52
@@ -127,8 +125,6 @@ Raleigh,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",118
 Raleigh,80,Attorney General,,DEM,"Darrell V. McGraw, Jr.",86
 Raleigh,81,Attorney General,,DEM,"Darrell V. McGraw, Jr.",26
 Raleigh,85,Attorney General,,DEM,"Darrell V. McGraw, Jr.",201
-Raleigh,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,13289
-Raleigh,Total,Commissioner of Agriculture,,REP,James Michael Teets,12796
 Raleigh,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,172
 Raleigh,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,247
 Raleigh,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,255
@@ -170,7 +166,7 @@ Raleigh,54,Commissioner of Agriculture,,DEM,Gus R. Douglass,144
 Raleigh,55,Commissioner of Agriculture,,DEM,Gus R. Douglass,187
 Raleigh,56,Commissioner of Agriculture,,DEM,Gus R. Douglass,374
 Raleigh,57,Commissioner of Agriculture,,DEM,Gus R. Douglass,189
-Raleigh,5,Commissioner of Agriculture,,DEM,Gus R. Douglass,88
+Raleigh,5A,Commissioner of Agriculture,,DEM,Gus R. Douglass,88
 Raleigh,6,Commissioner of Agriculture,,DEM,Gus R. Douglass,361
 Raleigh,60,Commissioner of Agriculture,,DEM,Gus R. Douglass,214
 Raleigh,61,Commissioner of Agriculture,,DEM,Gus R. Douglass,50
@@ -233,7 +229,7 @@ Raleigh,54,Commissioner of Agriculture,,REP,James Michael Teets,247
 Raleigh,55,Commissioner of Agriculture,,REP,James Michael Teets,193
 Raleigh,56,Commissioner of Agriculture,,REP,James Michael Teets,360
 Raleigh,57,Commissioner of Agriculture,,REP,James Michael Teets,222
-Raleigh,5,Commissioner of Agriculture,,REP,James Michael Teets,29
+Raleigh,5A,Commissioner of Agriculture,,REP,James Michael Teets,29
 Raleigh,6,Commissioner of Agriculture,,REP,James Michael Teets,332
 Raleigh,60,Commissioner of Agriculture,,REP,James Michael Teets,356
 Raleigh,61,Commissioner of Agriculture,,REP,James Michael Teets,49
@@ -255,9 +251,6 @@ Raleigh,8,Commissioner of Agriculture,,REP,James Michael Teets,192
 Raleigh,80,Commissioner of Agriculture,,REP,James Michael Teets,133
 Raleigh,81,Commissioner of Agriculture,,REP,James Michael Teets,30
 Raleigh,85,Commissioner of Agriculture,,REP,James Michael Teets,306
-Raleigh,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",625
-Raleigh,Total,Governor,,DEM,"Joe Manchin, III",15736
-Raleigh,Total,Governor,,REP,Russell E. Weeks Jr,11645
 Raleigh,1,Governor,,MTN,"Jesse C. Johnson, Jr.",9
 Raleigh,10,Governor,,MTN,"Jesse C. Johnson, Jr.",13
 Raleigh,11,Governor,,MTN,"Jesse C. Johnson, Jr.",18
@@ -299,7 +292,7 @@ Raleigh,54,Governor,,MTN,"Jesse C. Johnson, Jr.",6
 Raleigh,55,Governor,,MTN,"Jesse C. Johnson, Jr.",12
 Raleigh,56,Governor,,MTN,"Jesse C. Johnson, Jr.",19
 Raleigh,57,Governor,,MTN,"Jesse C. Johnson, Jr.",7
-Raleigh,5,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Raleigh,5A,Governor,,MTN,"Jesse C. Johnson, Jr.",5
 Raleigh,6,Governor,,MTN,"Jesse C. Johnson, Jr.",13
 Raleigh,60,Governor,,MTN,"Jesse C. Johnson, Jr.",15
 Raleigh,61,Governor,,MTN,"Jesse C. Johnson, Jr.",1
@@ -362,7 +355,7 @@ Raleigh,54,Governor,,DEM,"Joe Manchin, III",204
 Raleigh,55,Governor,,DEM,"Joe Manchin, III",244
 Raleigh,56,Governor,,DEM,"Joe Manchin, III",428
 Raleigh,57,Governor,,DEM,"Joe Manchin, III",211
-Raleigh,5,Governor,,DEM,"Joe Manchin, III",95
+Raleigh,5A,Governor,,DEM,"Joe Manchin, III",95
 Raleigh,6,Governor,,DEM,"Joe Manchin, III",413
 Raleigh,60,Governor,,DEM,"Joe Manchin, III",237
 Raleigh,61,Governor,,DEM,"Joe Manchin, III",69
@@ -425,7 +418,7 @@ Raleigh,54,Governor,,REP,Russell E. Weeks Jr,207
 Raleigh,55,Governor,,REP,Russell E. Weeks Jr,153
 Raleigh,56,Governor,,REP,Russell E. Weeks Jr,351
 Raleigh,57,Governor,,REP,Russell E. Weeks Jr,223
-Raleigh,5,Governor,,REP,Russell E. Weeks Jr,22
+Raleigh,5A,Governor,,REP,Russell E. Weeks Jr,22
 Raleigh,6,Governor,,REP,Russell E. Weeks Jr,305
 Raleigh,60,Governor,,REP,Russell E. Weeks Jr,347
 Raleigh,61,Governor,,REP,Russell E. Weeks Jr,43
@@ -447,11 +440,6 @@ Raleigh,8,Governor,,REP,Russell E. Weeks Jr,148
 Raleigh,80,Governor,,REP,Russell E. Weeks Jr,115
 Raleigh,81,Governor,,REP,Russell E. Weeks Jr,18
 Raleigh,85,Governor,,REP,Russell E. Weeks Jr,254
-Raleigh,Total,President,,DEM,Barack Hussein Obama,10237
-Raleigh,Total,President,,CON,Charles Obadiah Baldwin,94
-Raleigh,Total,President,,MTN,Cynthia Ann McKinney,78
-Raleigh,Total,President,,REP,John Sidney McCain III,17548
-Raleigh,Total,President,,,Ralph Nader,300
 Raleigh,1,President,,DEM,Barack Hussein Obama,152
 Raleigh,10,President,,DEM,Barack Hussein Obama,273
 Raleigh,11,President,,DEM,Barack Hussein Obama,249
@@ -493,7 +481,7 @@ Raleigh,54,President,,DEM,Barack Hussein Obama,101
 Raleigh,55,President,,DEM,Barack Hussein Obama,127
 Raleigh,56,President,,DEM,Barack Hussein Obama,303
 Raleigh,57,President,,DEM,Barack Hussein Obama,111
-Raleigh,5,President,,DEM,Barack Hussein Obama,89
+Raleigh,5A,President,,DEM,Barack Hussein Obama,89
 Raleigh,6,President,,DEM,Barack Hussein Obama,290
 Raleigh,60,President,,DEM,Barack Hussein Obama,138
 Raleigh,61,President,,DEM,Barack Hussein Obama,26
@@ -556,7 +544,7 @@ Raleigh,54,President,,CON,Charles Obadiah Baldwin,4
 Raleigh,55,President,,CON,Charles Obadiah Baldwin,2
 Raleigh,56,President,,CON,Charles Obadiah Baldwin,2
 Raleigh,57,President,,CON,Charles Obadiah Baldwin,0
-Raleigh,5,President,,CON,Charles Obadiah Baldwin,2
+Raleigh,5A,President,,CON,Charles Obadiah Baldwin,2
 Raleigh,6,President,,CON,Charles Obadiah Baldwin,3
 Raleigh,60,President,,CON,Charles Obadiah Baldwin,0
 Raleigh,61,President,,CON,Charles Obadiah Baldwin,0
@@ -619,7 +607,7 @@ Raleigh,54,President,,MTN,Cynthia Ann McKinney,0
 Raleigh,55,President,,MTN,Cynthia Ann McKinney,2
 Raleigh,56,President,,MTN,Cynthia Ann McKinney,2
 Raleigh,57,President,,MTN,Cynthia Ann McKinney,2
-Raleigh,5,President,,MTN,Cynthia Ann McKinney,0
+Raleigh,5A,President,,MTN,Cynthia Ann McKinney,0
 Raleigh,6,President,,MTN,Cynthia Ann McKinney,0
 Raleigh,60,President,,MTN,Cynthia Ann McKinney,1
 Raleigh,61,President,,MTN,Cynthia Ann McKinney,0
@@ -682,7 +670,7 @@ Raleigh,54,President,,REP,John Sidney McCain III,311
 Raleigh,55,President,,REP,John Sidney McCain III,275
 Raleigh,56,President,,REP,John Sidney McCain III,492
 Raleigh,57,President,,REP,John Sidney McCain III,323
-Raleigh,5,President,,REP,John Sidney McCain III,31
+Raleigh,5A,President,,REP,John Sidney McCain III,31
 Raleigh,6,President,,REP,John Sidney McCain III,445
 Raleigh,60,President,,REP,John Sidney McCain III,442
 Raleigh,61,President,,REP,John Sidney McCain III,83
@@ -745,7 +733,7 @@ Raleigh,54,President,,,Ralph Nader,2
 Raleigh,55,President,,,Ralph Nader,7
 Raleigh,56,President,,,Ralph Nader,8
 Raleigh,57,President,,,Ralph Nader,7
-Raleigh,5,President,,,Ralph Nader,1
+Raleigh,5A,President,,,Ralph Nader,1
 Raleigh,6,President,,,Ralph Nader,2
 Raleigh,60,President,,,Ralph Nader,10
 Raleigh,61,President,,,Ralph Nader,2
@@ -767,8 +755,6 @@ Raleigh,8,President,,,Ralph Nader,2
 Raleigh,80,President,,,Ralph Nader,2
 Raleigh,81,President,,,Ralph Nader,1
 Raleigh,85,President,,,Ralph Nader,7
-Raleigh,Total,Secretary of State,,REP,Charles Theophilus Minimah,10443
-Raleigh,Total,Secretary of State,,DEM,Natalie Tennant,15712
 Raleigh,1,Secretary of State,,REP,Charles Theophilus Minimah,87
 Raleigh,10,Secretary of State,,REP,Charles Theophilus Minimah,63
 Raleigh,11,Secretary of State,,REP,Charles Theophilus Minimah,168
@@ -810,7 +796,7 @@ Raleigh,54,Secretary of State,,REP,Charles Theophilus Minimah,228
 Raleigh,55,Secretary of State,,REP,Charles Theophilus Minimah,148
 Raleigh,56,Secretary of State,,REP,Charles Theophilus Minimah,296
 Raleigh,57,Secretary of State,,REP,Charles Theophilus Minimah,176
-Raleigh,5,Secretary of State,,REP,Charles Theophilus Minimah,16
+Raleigh,5A,Secretary of State,,REP,Charles Theophilus Minimah,16
 Raleigh,6,Secretary of State,,REP,Charles Theophilus Minimah,263
 Raleigh,60,Secretary of State,,REP,Charles Theophilus Minimah,298
 Raleigh,61,Secretary of State,,REP,Charles Theophilus Minimah,43
@@ -873,7 +859,7 @@ Raleigh,54,Secretary of State,,DEM,Natalie Tennant,169
 Raleigh,55,Secretary of State,,DEM,Natalie Tennant,235
 Raleigh,56,Secretary of State,,DEM,Natalie Tennant,448
 Raleigh,57,Secretary of State,,DEM,Natalie Tennant,229
-Raleigh,5,Secretary of State,,DEM,Natalie Tennant,101
+Raleigh,5A,Secretary of State,,DEM,Natalie Tennant,101
 Raleigh,6,Secretary of State,,DEM,Natalie Tennant,426
 Raleigh,60,Secretary of State,,DEM,Natalie Tennant,261
 Raleigh,61,Secretary of State,,DEM,Natalie Tennant,58
@@ -895,7 +881,6 @@ Raleigh,8,Secretary of State,,DEM,Natalie Tennant,203
 Raleigh,80,Secretary of State,,DEM,Natalie Tennant,108
 Raleigh,81,Secretary of State,,DEM,Natalie Tennant,24
 Raleigh,85,Secretary of State,,DEM,Natalie Tennant,271
-Raleigh,Total,State Auditor,,DEM,Glen B. Gainer III,19920
 Raleigh,1,State Auditor,,DEM,Glen B. Gainer III,236
 Raleigh,10,State Auditor,,DEM,Glen B. Gainer III,300
 Raleigh,11,State Auditor,,DEM,Glen B. Gainer III,371
@@ -937,7 +922,7 @@ Raleigh,54,State Auditor,,DEM,Glen B. Gainer III,268
 Raleigh,55,State Auditor,,DEM,Glen B. Gainer III,299
 Raleigh,56,State Auditor,,DEM,Glen B. Gainer III,551
 Raleigh,57,State Auditor,,DEM,Glen B. Gainer III,303
-Raleigh,5,State Auditor,,DEM,Glen B. Gainer III,104
+Raleigh,5A,State Auditor,,DEM,Glen B. Gainer III,104
 Raleigh,6,State Auditor,,DEM,Glen B. Gainer III,530
 Raleigh,60,State Auditor,,DEM,Glen B. Gainer III,349
 Raleigh,61,State Auditor,,DEM,Glen B. Gainer III,75
@@ -959,16 +944,6 @@ Raleigh,8,State Auditor,,DEM,Glen B. Gainer III,253
 Raleigh,80,State Auditor,,DEM,Glen B. Gainer III,158
 Raleigh,81,State Auditor,,DEM,Glen B. Gainer III,36
 Raleigh,85,State Auditor,,DEM,Glen B. Gainer III,376
-Raleigh,Total,State House,,REP,Albert Kevin Honaker,8297
-Raleigh,Total,State House,,REP,Dereck Severt,9518
-Raleigh,Total,State House,,REP,Jeffrey Michael Pack,10374
-Raleigh,Total,State House,,REP,Linda Sumner,15420
-Raleigh,Total,State House,,DEM,"Louis Andrew Gall, Jr.",11023
-Raleigh,Total,State House,,REP,Philip L. Stevens,8404
-Raleigh,Total,State House,,DEM,Ricky Duane Moye,14029
-Raleigh,Total,State House,,DEM,Sally May Susman,12745
-Raleigh,Total,State House,,DEM,Virginia Mahan,10719
-Raleigh,Total,State House,,DEM,"William R. ""Bill"" Wooton",13133
 Raleigh,1,State House,,REP,Albert Kevin Honaker,61
 Raleigh,10,State House,,REP,Albert Kevin Honaker,44
 Raleigh,11,State House,,REP,Albert Kevin Honaker,119
@@ -1010,7 +985,7 @@ Raleigh,54,State House,,REP,Albert Kevin Honaker,176
 Raleigh,55,State House,,REP,Albert Kevin Honaker,110
 Raleigh,56,State House,,REP,Albert Kevin Honaker,226
 Raleigh,57,State House,,REP,Albert Kevin Honaker,147
-Raleigh,5,State House,,REP,Albert Kevin Honaker,13
+Raleigh,5A,State House,,REP,Albert Kevin Honaker,13
 Raleigh,6,State House,,REP,Albert Kevin Honaker,189
 Raleigh,60,State House,,REP,Albert Kevin Honaker,371
 Raleigh,61,State House,,REP,Albert Kevin Honaker,47
@@ -1073,7 +1048,7 @@ Raleigh,54,State House,,REP,Dereck Severt,196
 Raleigh,55,State House,,REP,Dereck Severt,127
 Raleigh,56,State House,,REP,Dereck Severt,269
 Raleigh,57,State House,,REP,Dereck Severt,149
-Raleigh,5,State House,,REP,Dereck Severt,21
+Raleigh,5A,State House,,REP,Dereck Severt,21
 Raleigh,6,State House,,REP,Dereck Severt,234
 Raleigh,60,State House,,REP,Dereck Severt,265
 Raleigh,61,State House,,REP,Dereck Severt,36
@@ -1136,7 +1111,7 @@ Raleigh,54,State House,,REP,Jeffrey Michael Pack,219
 Raleigh,55,State House,,REP,Jeffrey Michael Pack,167
 Raleigh,56,State House,,REP,Jeffrey Michael Pack,321
 Raleigh,57,State House,,REP,Jeffrey Michael Pack,191
-Raleigh,5,State House,,REP,Jeffrey Michael Pack,23
+Raleigh,5A,State House,,REP,Jeffrey Michael Pack,23
 Raleigh,6,State House,,REP,Jeffrey Michael Pack,255
 Raleigh,60,State House,,REP,Jeffrey Michael Pack,275
 Raleigh,61,State House,,REP,Jeffrey Michael Pack,42
@@ -1199,7 +1174,7 @@ Raleigh,54,State House,,REP,Linda Sumner,274
 Raleigh,55,State House,,REP,Linda Sumner,215
 Raleigh,56,State House,,REP,Linda Sumner,497
 Raleigh,57,State House,,REP,Linda Sumner,252
-Raleigh,5,State House,,REP,Linda Sumner,34
+Raleigh,5A,State House,,REP,Linda Sumner,34
 Raleigh,6,State House,,REP,Linda Sumner,449
 Raleigh,60,State House,,REP,Linda Sumner,370
 Raleigh,61,State House,,REP,Linda Sumner,54
@@ -1262,7 +1237,7 @@ Raleigh,54,State House,,DEM,"Louis Andrew Gall, Jr.",139
 Raleigh,55,State House,,DEM,"Louis Andrew Gall, Jr.",170
 Raleigh,56,State House,,DEM,"Louis Andrew Gall, Jr.",384
 Raleigh,57,State House,,DEM,"Louis Andrew Gall, Jr.",147
-Raleigh,5,State House,,DEM,"Louis Andrew Gall, Jr.",77
+Raleigh,5A,State House,,DEM,"Louis Andrew Gall, Jr.",77
 Raleigh,6,State House,,DEM,"Louis Andrew Gall, Jr.",333
 Raleigh,60,State House,,DEM,"Louis Andrew Gall, Jr.",152
 Raleigh,61,State House,,DEM,"Louis Andrew Gall, Jr.",43
@@ -1325,7 +1300,7 @@ Raleigh,54,State House,,REP,Philip L. Stevens,192
 Raleigh,55,State House,,REP,Philip L. Stevens,122
 Raleigh,56,State House,,REP,Philip L. Stevens,254
 Raleigh,57,State House,,REP,Philip L. Stevens,150
-Raleigh,5,State House,,REP,Philip L. Stevens,19
+Raleigh,5A,State House,,REP,Philip L. Stevens,19
 Raleigh,6,State House,,REP,Philip L. Stevens,200
 Raleigh,60,State House,,REP,Philip L. Stevens,250
 Raleigh,61,State House,,REP,Philip L. Stevens,34
@@ -1388,7 +1363,7 @@ Raleigh,54,State House,,DEM,Ricky Duane Moye,161
 Raleigh,55,State House,,DEM,Ricky Duane Moye,193
 Raleigh,56,State House,,DEM,Ricky Duane Moye,352
 Raleigh,57,State House,,DEM,Ricky Duane Moye,183
-Raleigh,5,State House,,DEM,Ricky Duane Moye,77
+Raleigh,5A,State House,,DEM,Ricky Duane Moye,77
 Raleigh,6,State House,,DEM,Ricky Duane Moye,342
 Raleigh,60,State House,,DEM,Ricky Duane Moye,193
 Raleigh,61,State House,,DEM,Ricky Duane Moye,51
@@ -1451,7 +1426,7 @@ Raleigh,54,State House,,DEM,Sally May Susman,163
 Raleigh,55,State House,,DEM,Sally May Susman,182
 Raleigh,56,State House,,DEM,Sally May Susman,321
 Raleigh,57,State House,,DEM,Sally May Susman,181
-Raleigh,5,State House,,DEM,Sally May Susman,85
+Raleigh,5A,State House,,DEM,Sally May Susman,85
 Raleigh,6,State House,,DEM,Sally May Susman,305
 Raleigh,60,State House,,DEM,Sally May Susman,234
 Raleigh,61,State House,,DEM,Sally May Susman,45
@@ -1514,7 +1489,7 @@ Raleigh,54,State House,,DEM,Virginia Mahan,120
 Raleigh,55,State House,,DEM,Virginia Mahan,146
 Raleigh,56,State House,,DEM,Virginia Mahan,287
 Raleigh,57,State House,,DEM,Virginia Mahan,150
-Raleigh,5,State House,,DEM,Virginia Mahan,70
+Raleigh,5A,State House,,DEM,Virginia Mahan,70
 Raleigh,6,State House,,DEM,Virginia Mahan,278
 Raleigh,60,State House,,DEM,Virginia Mahan,161
 Raleigh,61,State House,,DEM,Virginia Mahan,39
@@ -1577,7 +1552,7 @@ Raleigh,54,State House,,DEM,"William R. ""Bill"" Wooton",147
 Raleigh,55,State House,,DEM,"William R. ""Bill"" Wooton",176
 Raleigh,56,State House,,DEM,"William R. ""Bill"" Wooton",352
 Raleigh,57,State House,,DEM,"William R. ""Bill"" Wooton",176
-Raleigh,5,State House,,DEM,"William R. ""Bill"" Wooton",86
+Raleigh,5A,State House,,DEM,"William R. ""Bill"" Wooton",86
 Raleigh,6,State House,,DEM,"William R. ""Bill"" Wooton",380
 Raleigh,60,State House,,DEM,"William R. ""Bill"" Wooton",193
 Raleigh,61,State House,,DEM,"William R. ""Bill"" Wooton",42
@@ -1599,7 +1574,6 @@ Raleigh,8,State House,,DEM,"William R. ""Bill"" Wooton",173
 Raleigh,80,State House,,DEM,"William R. ""Bill"" Wooton",91
 Raleigh,81,State House,,DEM,"William R. ""Bill"" Wooton",24
 Raleigh,85,State House,,DEM,"William R. ""Bill"" Wooton",206
-Raleigh,Total,State Senate,,DEM,Richard Browning,18828
 Raleigh,1,State Senate,,DEM,Richard Browning,221
 Raleigh,10,State Senate,,DEM,Richard Browning,284
 Raleigh,11,State Senate,,DEM,Richard Browning,364
@@ -1641,7 +1615,7 @@ Raleigh,54,State Senate,,DEM,Richard Browning,246
 Raleigh,55,State Senate,,DEM,Richard Browning,272
 Raleigh,56,State Senate,,DEM,Richard Browning,510
 Raleigh,57,State Senate,,DEM,Richard Browning,279
-Raleigh,5,State Senate,,DEM,Richard Browning,95
+Raleigh,5A,State Senate,,DEM,Richard Browning,95
 Raleigh,6,State Senate,,DEM,Richard Browning,510
 Raleigh,60,State Senate,,DEM,Richard Browning,321
 Raleigh,61,State Senate,,DEM,Richard Browning,69
@@ -1663,7 +1637,6 @@ Raleigh,8,State Senate,,DEM,Richard Browning,230
 Raleigh,80,State Senate,,DEM,Richard Browning,152
 Raleigh,81,State Senate,,DEM,Richard Browning,34
 Raleigh,85,State Senate,,DEM,Richard Browning,357
-Raleigh,Total,State Treasurer,,DEM,John D. Perdue,19905
 Raleigh,1,State Treasurer,,DEM,John D. Perdue,240
 Raleigh,10,State Treasurer,,DEM,John D. Perdue,297
 Raleigh,11,State Treasurer,,DEM,John D. Perdue,370
@@ -1705,7 +1678,7 @@ Raleigh,54,State Treasurer,,DEM,John D. Perdue,271
 Raleigh,55,State Treasurer,,DEM,John D. Perdue,302
 Raleigh,56,State Treasurer,,DEM,John D. Perdue,550
 Raleigh,57,State Treasurer,,DEM,John D. Perdue,303
-Raleigh,5,State Treasurer,,DEM,John D. Perdue,103
+Raleigh,5A,State Treasurer,,DEM,John D. Perdue,103
 Raleigh,6,State Treasurer,,DEM,John D. Perdue,541
 Raleigh,60,State Treasurer,,DEM,John D. Perdue,338
 Raleigh,61,State Treasurer,,DEM,John D. Perdue,74
@@ -1727,8 +1700,6 @@ Raleigh,8,State Treasurer,,DEM,John D. Perdue,248
 Raleigh,80,State Treasurer,,DEM,John D. Perdue,161
 Raleigh,81,State Treasurer,,DEM,John D. Perdue,35
 Raleigh,85,State Treasurer,,DEM,John D. Perdue,376
-Raleigh,Total,U.S. House,3,REP,Gary Martin Gearheart,11072
-Raleigh,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",16295
 Raleigh,1,U.S. House,3,REP,Gary Martin Gearheart,74
 Raleigh,10,U.S. House,3,REP,Gary Martin Gearheart,70
 Raleigh,11,U.S. House,3,REP,Gary Martin Gearheart,176
@@ -1770,7 +1741,7 @@ Raleigh,54,U.S. House,3,REP,Gary Martin Gearheart,215
 Raleigh,55,U.S. House,3,REP,Gary Martin Gearheart,159
 Raleigh,56,U.S. House,3,REP,Gary Martin Gearheart,351
 Raleigh,57,U.S. House,3,REP,Gary Martin Gearheart,183
-Raleigh,5,U.S. House,3,REP,Gary Martin Gearheart,23
+Raleigh,5A,U.S. House,3,REP,Gary Martin Gearheart,23
 Raleigh,6,U.S. House,3,REP,Gary Martin Gearheart,279
 Raleigh,60,U.S. House,3,REP,Gary Martin Gearheart,301
 Raleigh,61,U.S. House,3,REP,Gary Martin Gearheart,43
@@ -1833,7 +1804,7 @@ Raleigh,54,U.S. House,3,DEM,"Nick Joe Rahall, II",189
 Raleigh,55,U.S. House,3,DEM,"Nick Joe Rahall, II",242
 Raleigh,56,U.S. House,3,DEM,"Nick Joe Rahall, II",429
 Raleigh,57,U.S. House,3,DEM,"Nick Joe Rahall, II",237
-Raleigh,5,U.S. House,3,DEM,"Nick Joe Rahall, II",97
+Raleigh,5A,U.S. House,3,DEM,"Nick Joe Rahall, II",97
 Raleigh,6,U.S. House,3,DEM,"Nick Joe Rahall, II",445
 Raleigh,60,U.S. House,3,DEM,"Nick Joe Rahall, II",275
 Raleigh,61,U.S. House,3,DEM,"Nick Joe Rahall, II",69
@@ -1855,8 +1826,6 @@ Raleigh,8,U.S. House,3,DEM,"Nick Joe Rahall, II",214
 Raleigh,80,U.S. House,3,DEM,"Nick Joe Rahall, II",117
 Raleigh,81,U.S. House,3,DEM,"Nick Joe Rahall, II",33
 Raleigh,85,U.S. House,3,DEM,"Nick Joe Rahall, II",278
-Raleigh,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,16213
-Raleigh,Total,U.S. Senate,,REP,Matthew Jay Wolfe,11408
 Raleigh,1,U.S. Senate,,DEM,John Davison Rockefeller IV,206
 Raleigh,10,U.S. Senate,,DEM,John Davison Rockefeller IV,278
 Raleigh,11,U.S. Senate,,DEM,John Davison Rockefeller IV,331
@@ -1898,7 +1867,7 @@ Raleigh,54,U.S. Senate,,DEM,John Davison Rockefeller IV,175
 Raleigh,55,U.S. Senate,,DEM,John Davison Rockefeller IV,228
 Raleigh,56,U.S. Senate,,DEM,John Davison Rockefeller IV,437
 Raleigh,57,U.S. Senate,,DEM,John Davison Rockefeller IV,230
-Raleigh,5,U.S. Senate,,DEM,John Davison Rockefeller IV,98
+Raleigh,5A,U.S. Senate,,DEM,John Davison Rockefeller IV,98
 Raleigh,6,U.S. Senate,,DEM,John Davison Rockefeller IV,423
 Raleigh,60,U.S. Senate,,DEM,John Davison Rockefeller IV,277
 Raleigh,61,U.S. Senate,,DEM,John Davison Rockefeller IV,67
@@ -1961,7 +1930,7 @@ Raleigh,54,U.S. Senate,,REP,Matthew Jay Wolfe,234
 Raleigh,55,U.S. Senate,,REP,Matthew Jay Wolfe,173
 Raleigh,56,U.S. Senate,,REP,Matthew Jay Wolfe,345
 Raleigh,57,U.S. Senate,,REP,Matthew Jay Wolfe,200
-Raleigh,5,U.S. Senate,,REP,Matthew Jay Wolfe,21
+Raleigh,5A,U.S. Senate,,REP,Matthew Jay Wolfe,21
 Raleigh,6,U.S. Senate,,REP,Matthew Jay Wolfe,306
 Raleigh,60,U.S. Senate,,REP,Matthew Jay Wolfe,310
 Raleigh,61,U.S. Senate,,REP,Matthew Jay Wolfe,45

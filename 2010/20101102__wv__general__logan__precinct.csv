@@ -34,7 +34,6 @@ Logan,precinct 53,Registered Voters,,,,999
 Logan,precinct 54,Registered Voters,,,,641
 Logan,precinct 55,Registered Voters,,,,587
 Logan,precinct 56,Registered Voters,,,,455
-Logan,Total,Registered Voters,,,,27624
 Logan,precinct 1,Ballots Cast,,,,356
 Logan,precinct 2,Ballots Cast,,,,409
 Logan,precinct 4,Ballots Cast,,,,487
@@ -70,7 +69,6 @@ Logan,precinct 53,Ballots Cast,,,,352
 Logan,precinct 54,Ballots Cast,,,,215
 Logan,precinct 55,Ballots Cast,,,,197
 Logan,precinct 56,Ballots Cast,,,,103
-Logan,Total,Ballots Cast,,,,9379
 Logan,precinct 1,Straight Party,,,Republican,17
 Logan,precinct 2,Straight Party,,,Republican,32
 Logan,precinct 4,Straight Party,,,Republican,39
@@ -106,7 +104,6 @@ Logan,precinct 53,Straight Party,,,Republican,21
 Logan,precinct 54,Straight Party,,,Republican,10
 Logan,precinct 55,Straight Party,,,Republican,11
 Logan,precinct 56,Straight Party,,,Republican,5
-Logan,Total,Straight Party,,,Republican,539
 Logan,precinct 1,Straight Party,,,Democratic,124
 Logan,precinct 2,Straight Party,,,Democratic,113
 Logan,precinct 4,Straight Party,,,Democratic,57
@@ -142,7 +139,6 @@ Logan,precinct 53,Straight Party,,,Democratic,53
 Logan,precinct 54,Straight Party,,,Democratic,70
 Logan,precinct 55,Straight Party,,,Democratic,52
 Logan,precinct 56,Straight Party,,,Democratic,24
-Logan,Total,Straight Party,,,Democratic,2162
 Logan,precinct 1,Straight Party,,,Mountain,1
 Logan,precinct 2,Straight Party,,,Mountain,0
 Logan,precinct 4,Straight Party,,,Mountain,0
@@ -178,7 +174,6 @@ Logan,precinct 53,Straight Party,,,Mountain,1
 Logan,precinct 54,Straight Party,,,Mountain,0
 Logan,precinct 55,Straight Party,,,Mountain,0
 Logan,precinct 56,Straight Party,,,Mountain,0
-Logan,Total,Straight Party,,,Mountain,21
 Logan,precinct 1,U.S. Senate,,John R. Raese,,64
 Logan,precinct 2,U.S. Senate,,John R. Raese,,127
 Logan,precinct 4,U.S. Senate,,John R. Raese,,191
@@ -214,7 +209,6 @@ Logan,precinct 53,U.S. Senate,,John R. Raese,,109
 Logan,precinct 54,U.S. Senate,,John R. Raese,,42
 Logan,precinct 55,U.S. Senate,,John R. Raese,,44
 Logan,precinct 56,U.S. Senate,,John R. Raese,,18
-Logan,Total,U.S. Senate,,John R. Raese,,2618
 Logan,precinct 1,U.S. Senate,,Joe Manchin III,,281
 Logan,precinct 2,U.S. Senate,,Joe Manchin III,,265
 Logan,precinct 4,U.S. Senate,,Joe Manchin III,,279
@@ -250,7 +244,6 @@ Logan,precinct 53,U.S. Senate,,Joe Manchin III,,224
 Logan,precinct 54,U.S. Senate,,Joe Manchin III,,165
 Logan,precinct 55,U.S. Senate,,Joe Manchin III,,150
 Logan,precinct 56,U.S. Senate,,Joe Manchin III,,82
-Logan,Total,U.S. Senate,,Joe Manchin III,,6373
 Logan,precinct 1,U.S. Senate,,Jeff Becker,,1
 Logan,precinct 2,U.S. Senate,,Jeff Becker,,2
 Logan,precinct 4,U.S. Senate,,Jeff Becker,,3
@@ -286,7 +279,6 @@ Logan,precinct 53,U.S. Senate,,Jeff Becker,,3
 Logan,precinct 54,U.S. Senate,,Jeff Becker,,1
 Logan,precinct 55,U.S. Senate,,Jeff Becker,,0
 Logan,precinct 56,U.S. Senate,,Jeff Becker,,1
-Logan,Total,U.S. Senate,,Jeff Becker,,50
 Logan,precinct 1,U.S. Senate,,Jesse Johnson,,1
 Logan,precinct 2,U.S. Senate,,Jesse Johnson,,2
 Logan,precinct 4,U.S. Senate,,Jesse Johnson,,5
@@ -322,7 +314,6 @@ Logan,precinct 53,U.S. Senate,,Jesse Johnson,,5
 Logan,precinct 54,U.S. Senate,,Jesse Johnson,,2
 Logan,precinct 55,U.S. Senate,,Jesse Johnson,,2
 Logan,precinct 56,U.S. Senate,,Jesse Johnson,,1
-Logan,Total,U.S. Senate,,Jesse Johnson,,113
 Logan,precinct 1,U.S. Senate,,Write In,,0
 Logan,precinct 2,U.S. Senate,,Write In,,0
 Logan,precinct 4,U.S. Senate,,Write In,,0
@@ -358,7 +349,6 @@ Logan,precinct 53,U.S. Senate,,Write In,,0
 Logan,precinct 54,U.S. Senate,,Write In,,0
 Logan,precinct 55,U.S. Senate,,Write In,,0
 Logan,precinct 56,U.S. Senate,,Write In,,0
-Logan,Total,U.S. Senate,,Write In,,2
 Logan,precinct 1,U.S. House,3,"Elliott E. ""Spike"" Maynard",,86
 Logan,precinct 2,U.S. House,3,"Elliott E. ""Spike"" Maynard",,158
 Logan,precinct 4,U.S. House,3,"Elliott E. ""Spike"" Maynard",,233
@@ -394,7 +384,6 @@ Logan,precinct 53,U.S. House,3,"Elliott E. ""Spike"" Maynard",,138
 Logan,precinct 54,U.S. House,3,"Elliott E. ""Spike"" Maynard",,52
 Logan,precinct 55,U.S. House,3,"Elliott E. ""Spike"" Maynard",,53
 Logan,precinct 56,U.S. House,3,"Elliott E. ""Spike"" Maynard",,31
-Logan,Total,U.S. House,3,"Elliott E. ""Spike"" Maynard",,3359
 Logan,precinct 1,U.S. House,3,Nick Joe Rahall II,,250
 Logan,precinct 2,U.S. House,3,Nick Joe Rahall II,,230
 Logan,precinct 4,U.S. House,3,Nick Joe Rahall II,,232
@@ -430,7 +419,6 @@ Logan,precinct 53,U.S. House,3,Nick Joe Rahall II,,193
 Logan,precinct 54,U.S. House,3,Nick Joe Rahall II,,1521
 Logan,precinct 55,U.S. House,3,Nick Joe Rahall II,,140
 Logan,precinct 56,U.S. House,3,Nick Joe Rahall II,,68
-Logan,Total,U.S. House,3,Nick Joe Rahall II,,5507
 Logan,precinct 1,U.S. House,3,Write In,,1
 Logan,precinct 2,U.S. House,3,Write In,,0
 Logan,precinct 4,U.S. House,3,Write In,,0
@@ -466,7 +454,6 @@ Logan,precinct 53,U.S. House,3,Write In,,0
 Logan,precinct 54,U.S. House,3,Write In,,0
 Logan,precinct 55,U.S. House,3,Write In,,2
 Logan,precinct 56,U.S. House,3,Write In,,0
-Logan,Total,U.S. House,3,Write In,,17
 Logan,precinct 1,State Senate,7,Ron Stollings,,255
 Logan,precinct 2,State Senate,7,Ron Stollings,,311
 Logan,precinct 4,State Senate,7,Ron Stollings,,333
@@ -502,7 +489,6 @@ Logan,precinct 53,State Senate,7,Ron Stollings,,243
 Logan,precinct 54,State Senate,7,Ron Stollings,,160
 Logan,precinct 55,State Senate,7,Ron Stollings,,147
 Logan,precinct 56,State Senate,7,Ron Stollings,,75
-Logan,Total,State Senate,7,Ron Stollings,,6714
 Logan,precinct 1,State Senate,7,Write In,,1
 Logan,precinct 2,State Senate,7,Write In,,0
 Logan,precinct 4,State Senate,7,Write In,,2
@@ -538,7 +524,6 @@ Logan,precinct 53,State Senate,7,Write In,,1
 Logan,precinct 54,State Senate,7,Write In,,0
 Logan,precinct 55,State Senate,7,Write In,,1
 Logan,precinct 56,State Senate,7,Write In,,0
-Logan,Total,State Senate,7,Write In,,20
 Logan,precinct 1,House of Delegates,19,Elias Gregory,,30
 Logan,precinct 2,House of Delegates,19,Elias Gregory,,50
 Logan,precinct 4,House of Delegates,19,Elias Gregory,,82
@@ -574,7 +559,6 @@ Logan,precinct 53,House of Delegates,19,Elias Gregory,,51
 Logan,precinct 54,House of Delegates,19,Elias Gregory,,14
 Logan,precinct 55,House of Delegates,19,Elias Gregory,,21
 Logan,precinct 56,House of Delegates,19,Elias Gregory,,15
-Logan,Total,House of Delegates,19,Elias Gregory,,1127
 Logan,precinct 1,House of Delegates,19,Chad Story,,41
 Logan,precinct 2,House of Delegates,19,Chad Story,,71
 Logan,precinct 4,House of Delegates,19,Chad Story,,110
@@ -610,7 +594,6 @@ Logan,precinct 53,House of Delegates,19,Chad Story,,69
 Logan,precinct 54,House of Delegates,19,Chad Story,,37
 Logan,precinct 55,House of Delegates,19,Chad Story,,28
 Logan,precinct 56,House of Delegates,19,Chad Story,,19
-Logan,Total,House of Delegates,19,Chad Story,,2184
 Logan,precinct 1,House of Delegates,19,Josh Stowers,,196
 Logan,precinct 2,House of Delegates,19,Josh Stowers,,200
 Logan,precinct 4,House of Delegates,19,Josh Stowers,,183
@@ -646,7 +629,6 @@ Logan,precinct 53,House of Delegates,19,Josh Stowers,,123
 Logan,precinct 54,House of Delegates,19,Josh Stowers,,102
 Logan,precinct 55,House of Delegates,19,Josh Stowers,,90
 Logan,precinct 56,House of Delegates,19,Josh Stowers,,44
-Logan,Total,House of Delegates,19,Josh Stowers,,3920
 Logan,precinct 1,House of Delegates,19,Greg Butcher,,242
 Logan,precinct 2,House of Delegates,19,Greg Butcher,,270
 Logan,precinct 4,House of Delegates,19,Greg Butcher,,272
@@ -682,7 +664,6 @@ Logan,precinct 53,House of Delegates,19,Greg Butcher,,152
 Logan,precinct 54,House of Delegates,19,Greg Butcher,,119
 Logan,precinct 55,House of Delegates,19,Greg Butcher,,104
 Logan,precinct 56,House of Delegates,19,Greg Butcher,,56
-Logan,Total,House of Delegates,19,Greg Butcher,,4974
 Logan,precinct 1,House of Delegates,19,Ralph Rodighiero,,264
 Logan,precinct 2,House of Delegates,19,Ralph Rodighiero,,303
 Logan,precinct 4,House of Delegates,19,Ralph Rodighiero,,339
@@ -718,7 +699,6 @@ Logan,precinct 53,House of Delegates,19,Ralph Rodighiero,,271
 Logan,precinct 54,House of Delegates,19,Ralph Rodighiero,,166
 Logan,precinct 55,House of Delegates,19,Ralph Rodighiero,,152
 Logan,precinct 56,House of Delegates,19,Ralph Rodighiero,,74
-Logan,Total,House of Delegates,19,Ralph Rodighiero,,6613
 Logan,precinct 1,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,190
 Logan,precinct 2,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,200
 Logan,precinct 4,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,211
@@ -754,7 +734,6 @@ Logan,precinct 53,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,171
 Logan,precinct 54,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,125
 Logan,precinct 55,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,114
 Logan,precinct 56,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,51
-Logan,Total,House of Delegates,19,"Rupert ""Rupie"" Phillips Jr.",,5240
 Logan,precinct 1,House of Delegates,19,Write In,,0
 Logan,precinct 2,House of Delegates,19,Write In,,0
 Logan,precinct 4,House of Delegates,19,Write In,,0
@@ -790,4 +769,3 @@ Logan,precinct 53,House of Delegates,19,Write In,,2
 Logan,precinct 54,House of Delegates,19,Write In,,0
 Logan,precinct 55,House of Delegates,19,Write In,,0
 Logan,precinct 56,House of Delegates,19,Write In,,0
-Logan,Total,House of Delegates,19,Write In,,12

@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Wyoming,Total,Attorney General,,REP,Daniel W.Greear,2872
-Wyoming,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",4440
 Wyoming,1,Attorney General,,REP,Daniel W.Greear,93
 Wyoming,10,Attorney General,,REP,Daniel W.Greear,64
 Wyoming,12,Attorney General,,REP,Daniel W.Greear,27
@@ -16,11 +14,11 @@ Wyoming,20,Attorney General,,REP,Daniel W.Greear,126
 Wyoming,21,Attorney General,,REP,Daniel W.Greear,16
 Wyoming,22,Attorney General,,REP,Daniel W.Greear,42
 Wyoming,23,Attorney General,,REP,Daniel W.Greear,32
-Wyoming,24,Attorney General,,REP,Daniel W.Greear,81
-Wyoming,24,Attorney General,,REP,Daniel W.Greear,43
+Wyoming,24A,Attorney General,,REP,Daniel W.Greear,81
+Wyoming,24B,Attorney General,,REP,Daniel W.Greear,43
 Wyoming,26,Attorney General,,REP,Daniel W.Greear,153
-Wyoming,27,Attorney General,,REP,Daniel W.Greear,90
-Wyoming,27,Attorney General,,REP,Daniel W.Greear,61
+Wyoming,27A,Attorney General,,REP,Daniel W.Greear,90
+Wyoming,27B,Attorney General,,REP,Daniel W.Greear,61
 Wyoming,28,Attorney General,,REP,Daniel W.Greear,115
 Wyoming,29,Attorney General,,REP,Daniel W.Greear,158
 Wyoming,31,Attorney General,,REP,Daniel W.Greear,133
@@ -52,11 +50,11 @@ Wyoming,20,Attorney General,,DEM,"Darrell V. McGraw, Jr.",154
 Wyoming,21,Attorney General,,DEM,"Darrell V. McGraw, Jr.",58
 Wyoming,22,Attorney General,,DEM,"Darrell V. McGraw, Jr.",40
 Wyoming,23,Attorney General,,DEM,"Darrell V. McGraw, Jr.",85
-Wyoming,24,Attorney General,,DEM,"Darrell V. McGraw, Jr.",191
-Wyoming,24,Attorney General,,DEM,"Darrell V. McGraw, Jr.",116
+Wyoming,24A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",191
+Wyoming,24B,Attorney General,,DEM,"Darrell V. McGraw, Jr.",116
 Wyoming,26,Attorney General,,DEM,"Darrell V. McGraw, Jr.",212
-Wyoming,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",138
-Wyoming,27,Attorney General,,DEM,"Darrell V. McGraw, Jr.",109
+Wyoming,27A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",138
+Wyoming,27B,Attorney General,,DEM,"Darrell V. McGraw, Jr.",109
 Wyoming,28,Attorney General,,DEM,"Darrell V. McGraw, Jr.",251
 Wyoming,29,Attorney General,,DEM,"Darrell V. McGraw, Jr.",144
 Wyoming,31,Attorney General,,DEM,"Darrell V. McGraw, Jr.",159
@@ -73,8 +71,6 @@ Wyoming,45,Attorney General,,DEM,"Darrell V. McGraw, Jr.",111
 Wyoming,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",97
 Wyoming,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",93
 Wyoming,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",122
-Wyoming,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,4268
-Wyoming,Total,Commissioner of Agriculture,,REP,James Michael Teets,2608
 Wyoming,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,180
 Wyoming,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,69
 Wyoming,12,Commissioner of Agriculture,,DEM,Gus R. Douglass,37
@@ -90,11 +86,11 @@ Wyoming,20,Commissioner of Agriculture,,DEM,Gus R. Douglass,147
 Wyoming,21,Commissioner of Agriculture,,DEM,Gus R. Douglass,51
 Wyoming,22,Commissioner of Agriculture,,DEM,Gus R. Douglass,32
 Wyoming,23,Commissioner of Agriculture,,DEM,Gus R. Douglass,76
-Wyoming,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,187
-Wyoming,24,Commissioner of Agriculture,,DEM,Gus R. Douglass,107
+Wyoming,24A,Commissioner of Agriculture,,DEM,Gus R. Douglass,187
+Wyoming,24B,Commissioner of Agriculture,,DEM,Gus R. Douglass,107
 Wyoming,26,Commissioner of Agriculture,,DEM,Gus R. Douglass,213
-Wyoming,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,123
-Wyoming,27,Commissioner of Agriculture,,DEM,Gus R. Douglass,104
+Wyoming,27A,Commissioner of Agriculture,,DEM,Gus R. Douglass,123
+Wyoming,27B,Commissioner of Agriculture,,DEM,Gus R. Douglass,104
 Wyoming,28,Commissioner of Agriculture,,DEM,Gus R. Douglass,221
 Wyoming,29,Commissioner of Agriculture,,DEM,Gus R. Douglass,134
 Wyoming,31,Commissioner of Agriculture,,DEM,Gus R. Douglass,176
@@ -126,11 +122,11 @@ Wyoming,20,Commissioner of Agriculture,,REP,James Michael Teets,112
 Wyoming,21,Commissioner of Agriculture,,REP,James Michael Teets,18
 Wyoming,22,Commissioner of Agriculture,,REP,James Michael Teets,43
 Wyoming,23,Commissioner of Agriculture,,REP,James Michael Teets,36
-Wyoming,24,Commissioner of Agriculture,,REP,James Michael Teets,73
-Wyoming,24,Commissioner of Agriculture,,REP,James Michael Teets,50
+Wyoming,24A,Commissioner of Agriculture,,REP,James Michael Teets,73
+Wyoming,24B,Commissioner of Agriculture,,REP,James Michael Teets,50
 Wyoming,26,Commissioner of Agriculture,,REP,James Michael Teets,130
-Wyoming,27,Commissioner of Agriculture,,REP,James Michael Teets,88
-Wyoming,27,Commissioner of Agriculture,,REP,James Michael Teets,57
+Wyoming,27A,Commissioner of Agriculture,,REP,James Michael Teets,88
+Wyoming,27B,Commissioner of Agriculture,,REP,James Michael Teets,57
 Wyoming,28,Commissioner of Agriculture,,REP,James Michael Teets,125
 Wyoming,29,Commissioner of Agriculture,,REP,James Michael Teets,156
 Wyoming,31,Commissioner of Agriculture,,REP,James Michael Teets,102
@@ -147,9 +143,6 @@ Wyoming,45,Commissioner of Agriculture,,REP,James Michael Teets,37
 Wyoming,6,Commissioner of Agriculture,,REP,James Michael Teets,64
 Wyoming,7,Commissioner of Agriculture,,REP,James Michael Teets,50
 Wyoming,9,Commissioner of Agriculture,,REP,James Michael Teets,67
-Wyoming,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",164
-Wyoming,Total,Governor,,DEM,"Joe Manchin, III",4917
-Wyoming,Total,Governor,,REP,Russell E. Weeks Jr,2464
 Wyoming,1,Governor,,MTN,"Jesse C. Johnson, Jr.",5
 Wyoming,10,Governor,,MTN,"Jesse C. Johnson, Jr.",2
 Wyoming,12,Governor,,MTN,"Jesse C. Johnson, Jr.",3
@@ -165,11 +158,11 @@ Wyoming,20,Governor,,MTN,"Jesse C. Johnson, Jr.",8
 Wyoming,21,Governor,,MTN,"Jesse C. Johnson, Jr.",1
 Wyoming,22,Governor,,MTN,"Jesse C. Johnson, Jr.",1
 Wyoming,23,Governor,,MTN,"Jesse C. Johnson, Jr.",1
-Wyoming,24,Governor,,MTN,"Jesse C. Johnson, Jr.",5
-Wyoming,24,Governor,,MTN,"Jesse C. Johnson, Jr.",2
+Wyoming,24A,Governor,,MTN,"Jesse C. Johnson, Jr.",5
+Wyoming,24B,Governor,,MTN,"Jesse C. Johnson, Jr.",2
 Wyoming,26,Governor,,MTN,"Jesse C. Johnson, Jr.",12
-Wyoming,27,Governor,,MTN,"Jesse C. Johnson, Jr.",4
-Wyoming,27,Governor,,MTN,"Jesse C. Johnson, Jr.",7
+Wyoming,27A,Governor,,MTN,"Jesse C. Johnson, Jr.",4
+Wyoming,27B,Governor,,MTN,"Jesse C. Johnson, Jr.",7
 Wyoming,28,Governor,,MTN,"Jesse C. Johnson, Jr.",3
 Wyoming,29,Governor,,MTN,"Jesse C. Johnson, Jr.",2
 Wyoming,31,Governor,,MTN,"Jesse C. Johnson, Jr.",12
@@ -201,11 +194,11 @@ Wyoming,20,Governor,,DEM,"Joe Manchin, III",189
 Wyoming,21,Governor,,DEM,"Joe Manchin, III",59
 Wyoming,22,Governor,,DEM,"Joe Manchin, III",40
 Wyoming,23,Governor,,DEM,"Joe Manchin, III",90
-Wyoming,24,Governor,,DEM,"Joe Manchin, III",231
-Wyoming,24,Governor,,DEM,"Joe Manchin, III",136
+Wyoming,24A,Governor,,DEM,"Joe Manchin, III",231
+Wyoming,24B,Governor,,DEM,"Joe Manchin, III",136
 Wyoming,26,Governor,,DEM,"Joe Manchin, III",263
-Wyoming,27,Governor,,DEM,"Joe Manchin, III",157
-Wyoming,27,Governor,,DEM,"Joe Manchin, III",112
+Wyoming,27A,Governor,,DEM,"Joe Manchin, III",157
+Wyoming,27B,Governor,,DEM,"Joe Manchin, III",112
 Wyoming,28,Governor,,DEM,"Joe Manchin, III",240
 Wyoming,29,Governor,,DEM,"Joe Manchin, III",203
 Wyoming,31,Governor,,DEM,"Joe Manchin, III",205
@@ -237,11 +230,11 @@ Wyoming,20,Governor,,REP,Russell E. Weeks Jr,95
 Wyoming,21,Governor,,REP,Russell E. Weeks Jr,19
 Wyoming,22,Governor,,REP,Russell E. Weeks Jr,48
 Wyoming,23,Governor,,REP,Russell E. Weeks Jr,31
-Wyoming,24,Governor,,REP,Russell E. Weeks Jr,49
-Wyoming,24,Governor,,REP,Russell E. Weeks Jr,40
+Wyoming,24A,Governor,,REP,Russell E. Weeks Jr,49
+Wyoming,24B,Governor,,REP,Russell E. Weeks Jr,40
 Wyoming,26,Governor,,REP,Russell E. Weeks Jr,102
-Wyoming,27,Governor,,REP,Russell E. Weeks Jr,71
-Wyoming,27,Governor,,REP,Russell E. Weeks Jr,55
+Wyoming,27A,Governor,,REP,Russell E. Weeks Jr,71
+Wyoming,27B,Governor,,REP,Russell E. Weeks Jr,55
 Wyoming,28,Governor,,REP,Russell E. Weeks Jr,129
 Wyoming,29,Governor,,REP,Russell E. Weeks Jr,111
 Wyoming,31,Governor,,REP,Russell E. Weeks Jr,89
@@ -258,11 +251,6 @@ Wyoming,45,Governor,,REP,Russell E. Weeks Jr,29
 Wyoming,6,Governor,,REP,Russell E. Weeks Jr,68
 Wyoming,7,Governor,,REP,Russell E. Weeks Jr,61
 Wyoming,9,Governor,,REP,Russell E. Weeks Jr,77
-Wyoming,Total,President,,DEM,Barack Hussein Obama,2735
-Wyoming,Total,President,,CON,Charles Obadiah Baldwin,20
-Wyoming,Total,President,,MTN,Cynthia Ann McKinney,43
-Wyoming,Total,President,,REP,John Sidney McCain III,4621
-Wyoming,Total,President,,,Ralph Nader,111
 Wyoming,1,President,,DEM,Barack Hussein Obama,127
 Wyoming,10,President,,DEM,Barack Hussein Obama,41
 Wyoming,12,President,,DEM,Barack Hussein Obama,28
@@ -278,11 +266,11 @@ Wyoming,20,President,,DEM,Barack Hussein Obama,94
 Wyoming,21,President,,DEM,Barack Hussein Obama,46
 Wyoming,22,President,,DEM,Barack Hussein Obama,18
 Wyoming,23,President,,DEM,Barack Hussein Obama,50
-Wyoming,24,President,,DEM,Barack Hussein Obama,130
-Wyoming,24,President,,DEM,Barack Hussein Obama,83
+Wyoming,24A,President,,DEM,Barack Hussein Obama,130
+Wyoming,24B,President,,DEM,Barack Hussein Obama,83
 Wyoming,26,President,,DEM,Barack Hussein Obama,127
-Wyoming,27,President,,DEM,Barack Hussein Obama,89
-Wyoming,27,President,,DEM,Barack Hussein Obama,58
+Wyoming,27A,President,,DEM,Barack Hussein Obama,89
+Wyoming,27B,President,,DEM,Barack Hussein Obama,58
 Wyoming,28,President,,DEM,Barack Hussein Obama,124
 Wyoming,29,President,,DEM,Barack Hussein Obama,63
 Wyoming,31,President,,DEM,Barack Hussein Obama,116
@@ -314,11 +302,11 @@ Wyoming,20,President,,CON,Charles Obadiah Baldwin,2
 Wyoming,21,President,,CON,Charles Obadiah Baldwin,0
 Wyoming,22,President,,CON,Charles Obadiah Baldwin,0
 Wyoming,23,President,,CON,Charles Obadiah Baldwin,0
-Wyoming,24,President,,CON,Charles Obadiah Baldwin,2
-Wyoming,24,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,24A,President,,CON,Charles Obadiah Baldwin,2
+Wyoming,24B,President,,CON,Charles Obadiah Baldwin,0
 Wyoming,26,President,,CON,Charles Obadiah Baldwin,2
-Wyoming,27,President,,CON,Charles Obadiah Baldwin,0
-Wyoming,27,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,27A,President,,CON,Charles Obadiah Baldwin,0
+Wyoming,27B,President,,CON,Charles Obadiah Baldwin,0
 Wyoming,28,President,,CON,Charles Obadiah Baldwin,0
 Wyoming,29,President,,CON,Charles Obadiah Baldwin,0
 Wyoming,31,President,,CON,Charles Obadiah Baldwin,1
@@ -350,11 +338,11 @@ Wyoming,20,President,,MTN,Cynthia Ann McKinney,3
 Wyoming,21,President,,MTN,Cynthia Ann McKinney,1
 Wyoming,22,President,,MTN,Cynthia Ann McKinney,0
 Wyoming,23,President,,MTN,Cynthia Ann McKinney,2
-Wyoming,24,President,,MTN,Cynthia Ann McKinney,4
-Wyoming,24,President,,MTN,Cynthia Ann McKinney,0
+Wyoming,24A,President,,MTN,Cynthia Ann McKinney,4
+Wyoming,24B,President,,MTN,Cynthia Ann McKinney,0
 Wyoming,26,President,,MTN,Cynthia Ann McKinney,2
-Wyoming,27,President,,MTN,Cynthia Ann McKinney,1
-Wyoming,27,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,27A,President,,MTN,Cynthia Ann McKinney,1
+Wyoming,27B,President,,MTN,Cynthia Ann McKinney,1
 Wyoming,28,President,,MTN,Cynthia Ann McKinney,2
 Wyoming,29,President,,MTN,Cynthia Ann McKinney,3
 Wyoming,31,President,,MTN,Cynthia Ann McKinney,2
@@ -386,11 +374,11 @@ Wyoming,20,President,,REP,John Sidney McCain III,205
 Wyoming,21,President,,REP,John Sidney McCain III,35
 Wyoming,22,President,,REP,John Sidney McCain III,80
 Wyoming,23,President,,REP,John Sidney McCain III,70
-Wyoming,24,President,,REP,John Sidney McCain III,137
-Wyoming,24,President,,REP,John Sidney McCain III,95
+Wyoming,24A,President,,REP,John Sidney McCain III,137
+Wyoming,24B,President,,REP,John Sidney McCain III,95
 Wyoming,26,President,,REP,John Sidney McCain III,236
-Wyoming,27,President,,REP,John Sidney McCain III,142
-Wyoming,27,President,,REP,John Sidney McCain III,115
+Wyoming,27A,President,,REP,John Sidney McCain III,142
+Wyoming,27B,President,,REP,John Sidney McCain III,115
 Wyoming,28,President,,REP,John Sidney McCain III,242
 Wyoming,29,President,,REP,John Sidney McCain III,252
 Wyoming,31,President,,REP,John Sidney McCain III,179
@@ -422,11 +410,11 @@ Wyoming,20,President,,,Ralph Nader,6
 Wyoming,21,President,,,Ralph Nader,1
 Wyoming,22,President,,,Ralph Nader,0
 Wyoming,23,President,,,Ralph Nader,2
-Wyoming,24,President,,,Ralph Nader,4
-Wyoming,24,President,,,Ralph Nader,0
+Wyoming,24A,President,,,Ralph Nader,4
+Wyoming,24B,President,,,Ralph Nader,0
 Wyoming,26,President,,,Ralph Nader,10
-Wyoming,27,President,,,Ralph Nader,3
-Wyoming,27,President,,,Ralph Nader,1
+Wyoming,27A,President,,,Ralph Nader,3
+Wyoming,27B,President,,,Ralph Nader,1
 Wyoming,28,President,,,Ralph Nader,3
 Wyoming,29,President,,,Ralph Nader,2
 Wyoming,31,President,,,Ralph Nader,4
@@ -443,8 +431,6 @@ Wyoming,45,President,,,Ralph Nader,2
 Wyoming,6,President,,,Ralph Nader,4
 Wyoming,7,President,,,Ralph Nader,4
 Wyoming,9,President,,,Ralph Nader,3
-Wyoming,Total,Secretary of State,,REP,Charles Theophilus Minimah,1958
-Wyoming,Total,Secretary of State,,DEM,Natalie Tennant,4870
 Wyoming,1,Secretary of State,,REP,Charles Theophilus Minimah,64
 Wyoming,10,Secretary of State,,REP,Charles Theophilus Minimah,49
 Wyoming,12,Secretary of State,,REP,Charles Theophilus Minimah,17
@@ -460,11 +446,11 @@ Wyoming,20,Secretary of State,,REP,Charles Theophilus Minimah,85
 Wyoming,21,Secretary of State,,REP,Charles Theophilus Minimah,18
 Wyoming,22,Secretary of State,,REP,Charles Theophilus Minimah,41
 Wyoming,23,Secretary of State,,REP,Charles Theophilus Minimah,25
-Wyoming,24,Secretary of State,,REP,Charles Theophilus Minimah,64
-Wyoming,24,Secretary of State,,REP,Charles Theophilus Minimah,35
+Wyoming,24A,Secretary of State,,REP,Charles Theophilus Minimah,64
+Wyoming,24B,Secretary of State,,REP,Charles Theophilus Minimah,35
 Wyoming,26,Secretary of State,,REP,Charles Theophilus Minimah,94
-Wyoming,27,Secretary of State,,REP,Charles Theophilus Minimah,57
-Wyoming,27,Secretary of State,,REP,Charles Theophilus Minimah,40
+Wyoming,27A,Secretary of State,,REP,Charles Theophilus Minimah,57
+Wyoming,27B,Secretary of State,,REP,Charles Theophilus Minimah,40
 Wyoming,28,Secretary of State,,REP,Charles Theophilus Minimah,85
 Wyoming,29,Secretary of State,,REP,Charles Theophilus Minimah,128
 Wyoming,31,Secretary of State,,REP,Charles Theophilus Minimah,82
@@ -496,11 +482,11 @@ Wyoming,20,Secretary of State,,DEM,Natalie Tennant,176
 Wyoming,21,Secretary of State,,DEM,Natalie Tennant,49
 Wyoming,22,Secretary of State,,DEM,Natalie Tennant,36
 Wyoming,23,Secretary of State,,DEM,Natalie Tennant,85
-Wyoming,24,Secretary of State,,DEM,Natalie Tennant,193
-Wyoming,24,Secretary of State,,DEM,Natalie Tennant,118
+Wyoming,24A,Secretary of State,,DEM,Natalie Tennant,193
+Wyoming,24B,Secretary of State,,DEM,Natalie Tennant,118
 Wyoming,26,Secretary of State,,DEM,Natalie Tennant,245
-Wyoming,27,Secretary of State,,DEM,Natalie Tennant,158
-Wyoming,27,Secretary of State,,DEM,Natalie Tennant,116
+Wyoming,27A,Secretary of State,,DEM,Natalie Tennant,158
+Wyoming,27B,Secretary of State,,DEM,Natalie Tennant,116
 Wyoming,28,Secretary of State,,DEM,Natalie Tennant,266
 Wyoming,29,Secretary of State,,DEM,Natalie Tennant,162
 Wyoming,31,Secretary of State,,DEM,Natalie Tennant,196
@@ -517,7 +503,6 @@ Wyoming,45,Secretary of State,,DEM,Natalie Tennant,112
 Wyoming,6,Secretary of State,,DEM,Natalie Tennant,93
 Wyoming,7,Secretary of State,,DEM,Natalie Tennant,100
 Wyoming,9,Secretary of State,,DEM,Natalie Tennant,122
-Wyoming,Total,State Auditor,,DEM,Glen B. Gainer III,5802
 Wyoming,1,State Auditor,,DEM,Glen B. Gainer III,228
 Wyoming,10,State Auditor,,DEM,Glen B. Gainer III,97
 Wyoming,12,State Auditor,,DEM,Glen B. Gainer III,64
@@ -533,11 +518,11 @@ Wyoming,20,State Auditor,,DEM,Glen B. Gainer III,197
 Wyoming,21,State Auditor,,DEM,Glen B. Gainer III,61
 Wyoming,22,State Auditor,,DEM,Glen B. Gainer III,45
 Wyoming,23,State Auditor,,DEM,Glen B. Gainer III,100
-Wyoming,24,State Auditor,,DEM,Glen B. Gainer III,235
-Wyoming,24,State Auditor,,DEM,Glen B. Gainer III,139
+Wyoming,24A,State Auditor,,DEM,Glen B. Gainer III,235
+Wyoming,24B,State Auditor,,DEM,Glen B. Gainer III,139
 Wyoming,26,State Auditor,,DEM,Glen B. Gainer III,298
-Wyoming,27,State Auditor,,DEM,Glen B. Gainer III,179
-Wyoming,27,State Auditor,,DEM,Glen B. Gainer III,140
+Wyoming,27A,State Auditor,,DEM,Glen B. Gainer III,179
+Wyoming,27B,State Auditor,,DEM,Glen B. Gainer III,140
 Wyoming,28,State Auditor,,DEM,Glen B. Gainer III,299
 Wyoming,29,State Auditor,,DEM,Glen B. Gainer III,219
 Wyoming,31,State Auditor,,DEM,Glen B. Gainer III,237
@@ -554,8 +539,6 @@ Wyoming,45,State Auditor,,DEM,Glen B. Gainer III,133
 Wyoming,6,State Auditor,,DEM,Glen B. Gainer III,122
 Wyoming,7,State Auditor,,DEM,Glen B. Gainer III,115
 Wyoming,9,State Auditor,,DEM,Glen B. Gainer III,171
-Wyoming,Total,State House,,DEM,Daniel Jackson Hall,4480
-Wyoming,Total,State House,,DEM,Linda Lee Goode Phillips,5271
 Wyoming,1,State House,,DEM,Daniel Jackson Hall,179
 Wyoming,10,State House,,DEM,Daniel Jackson Hall,64
 Wyoming,12,State House,,DEM,Daniel Jackson Hall,43
@@ -571,11 +554,11 @@ Wyoming,20,State House,,DEM,Daniel Jackson Hall,188
 Wyoming,21,State House,,DEM,Daniel Jackson Hall,53
 Wyoming,22,State House,,DEM,Daniel Jackson Hall,42
 Wyoming,23,State House,,DEM,Daniel Jackson Hall,76
-Wyoming,24,State House,,DEM,Daniel Jackson Hall,192
-Wyoming,24,State House,,DEM,Daniel Jackson Hall,93
+Wyoming,24A,State House,,DEM,Daniel Jackson Hall,192
+Wyoming,24B,State House,,DEM,Daniel Jackson Hall,93
 Wyoming,26,State House,,DEM,Daniel Jackson Hall,254
-Wyoming,27,State House,,DEM,Daniel Jackson Hall,179
-Wyoming,27,State House,,DEM,Daniel Jackson Hall,134
+Wyoming,27A,State House,,DEM,Daniel Jackson Hall,179
+Wyoming,27B,State House,,DEM,Daniel Jackson Hall,134
 Wyoming,28,State House,,DEM,Daniel Jackson Hall,259
 Wyoming,29,State House,,DEM,Daniel Jackson Hall,193
 Wyoming,31,State House,,DEM,Daniel Jackson Hall,219
@@ -607,11 +590,11 @@ Wyoming,20,State House,,DEM,Linda Lee Goode Phillips,153
 Wyoming,21,State House,,DEM,Linda Lee Goode Phillips,53
 Wyoming,22,State House,,DEM,Linda Lee Goode Phillips,45
 Wyoming,23,State House,,DEM,Linda Lee Goode Phillips,95
-Wyoming,24,State House,,DEM,Linda Lee Goode Phillips,195
-Wyoming,24,State House,,DEM,Linda Lee Goode Phillips,139
+Wyoming,24A,State House,,DEM,Linda Lee Goode Phillips,195
+Wyoming,24B,State House,,DEM,Linda Lee Goode Phillips,139
 Wyoming,26,State House,,DEM,Linda Lee Goode Phillips,255
-Wyoming,27,State House,,DEM,Linda Lee Goode Phillips,139
-Wyoming,27,State House,,DEM,Linda Lee Goode Phillips,98
+Wyoming,27A,State House,,DEM,Linda Lee Goode Phillips,139
+Wyoming,27B,State House,,DEM,Linda Lee Goode Phillips,98
 Wyoming,28,State House,,DEM,Linda Lee Goode Phillips,219
 Wyoming,29,State House,,DEM,Linda Lee Goode Phillips,158
 Wyoming,31,State House,,DEM,Linda Lee Goode Phillips,170
@@ -628,9 +611,6 @@ Wyoming,45,State House,,DEM,Linda Lee Goode Phillips,119
 Wyoming,6,State House,,DEM,Linda Lee Goode Phillips,125
 Wyoming,7,State House,,DEM,Linda Lee Goode Phillips,108
 Wyoming,9,State House,,DEM,Linda Lee Goode Phillips,150
-Wyoming,Total,State Senate,,DEM,John Pat Fanning,573
-Wyoming,Total,State Senate,,REP,Mark Russell Maynard,104
-Wyoming,Total,State Senate,,DEM,Richard Browning,5399
 Wyoming,1,State Senate,,DEM,John Pat Fanning,0
 Wyoming,10,State Senate,,DEM,John Pat Fanning,71
 Wyoming,12,State Senate,,DEM,John Pat Fanning,0
@@ -646,11 +626,11 @@ Wyoming,20,State Senate,,DEM,John Pat Fanning,0
 Wyoming,21,State Senate,,DEM,John Pat Fanning,0
 Wyoming,22,State Senate,,DEM,John Pat Fanning,0
 Wyoming,23,State Senate,,DEM,John Pat Fanning,100
-Wyoming,24,State Senate,,DEM,John Pat Fanning,246
-Wyoming,24,State Senate,,DEM,John Pat Fanning,156
+Wyoming,24A,State Senate,,DEM,John Pat Fanning,246
+Wyoming,24B,State Senate,,DEM,John Pat Fanning,156
 Wyoming,26,State Senate,,DEM,John Pat Fanning,0
-Wyoming,27,State Senate,,DEM,John Pat Fanning,0
-Wyoming,27,State Senate,,DEM,John Pat Fanning,0
+Wyoming,27A,State Senate,,DEM,John Pat Fanning,0
+Wyoming,27B,State Senate,,DEM,John Pat Fanning,0
 Wyoming,28,State Senate,,DEM,John Pat Fanning,0
 Wyoming,29,State Senate,,DEM,John Pat Fanning,0
 Wyoming,31,State Senate,,DEM,John Pat Fanning,0
@@ -682,11 +662,11 @@ Wyoming,20,State Senate,,REP,Mark Russell Maynard,0
 Wyoming,21,State Senate,,REP,Mark Russell Maynard,0
 Wyoming,22,State Senate,,REP,Mark Russell Maynard,0
 Wyoming,23,State Senate,,REP,Mark Russell Maynard,11
-Wyoming,24,State Senate,,REP,Mark Russell Maynard,27
-Wyoming,24,State Senate,,REP,Mark Russell Maynard,19
+Wyoming,24A,State Senate,,REP,Mark Russell Maynard,27
+Wyoming,24B,State Senate,,REP,Mark Russell Maynard,19
 Wyoming,26,State Senate,,REP,Mark Russell Maynard,0
-Wyoming,27,State Senate,,REP,Mark Russell Maynard,0
-Wyoming,27,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,27A,State Senate,,REP,Mark Russell Maynard,0
+Wyoming,27B,State Senate,,REP,Mark Russell Maynard,0
 Wyoming,28,State Senate,,REP,Mark Russell Maynard,0
 Wyoming,29,State Senate,,REP,Mark Russell Maynard,0
 Wyoming,31,State Senate,,REP,Mark Russell Maynard,0
@@ -718,11 +698,11 @@ Wyoming,20,State Senate,,DEM,Richard Browning,222
 Wyoming,21,State Senate,,DEM,Richard Browning,63
 Wyoming,22,State Senate,,DEM,Richard Browning,52
 Wyoming,23,State Senate,,DEM,Richard Browning,0
-Wyoming,24,State Senate,,DEM,Richard Browning,0
-Wyoming,24,State Senate,,DEM,Richard Browning,0
+Wyoming,24A,State Senate,,DEM,Richard Browning,0
+Wyoming,24B,State Senate,,DEM,Richard Browning,0
 Wyoming,26,State Senate,,DEM,Richard Browning,313
-Wyoming,27,State Senate,,DEM,Richard Browning,181
-Wyoming,27,State Senate,,DEM,Richard Browning,144
+Wyoming,27A,State Senate,,DEM,Richard Browning,181
+Wyoming,27B,State Senate,,DEM,Richard Browning,144
 Wyoming,28,State Senate,,DEM,Richard Browning,300
 Wyoming,29,State Senate,,DEM,Richard Browning,235
 Wyoming,31,State Senate,,DEM,Richard Browning,239
@@ -739,7 +719,6 @@ Wyoming,45,State Senate,,DEM,Richard Browning,134
 Wyoming,6,State Senate,,DEM,Richard Browning,126
 Wyoming,7,State Senate,,DEM,Richard Browning,120
 Wyoming,9,State Senate,,DEM,Richard Browning,161
-Wyoming,Total,State Treasurer,,DEM,John D. Perdue,5729
 Wyoming,1,State Treasurer,,DEM,John D. Perdue,226
 Wyoming,10,State Treasurer,,DEM,John D. Perdue,98
 Wyoming,12,State Treasurer,,DEM,John D. Perdue,63
@@ -755,11 +734,11 @@ Wyoming,20,State Treasurer,,DEM,John D. Perdue,198
 Wyoming,21,State Treasurer,,DEM,John D. Perdue,58
 Wyoming,22,State Treasurer,,DEM,John D. Perdue,44
 Wyoming,23,State Treasurer,,DEM,John D. Perdue,98
-Wyoming,24,State Treasurer,,DEM,John D. Perdue,229
-Wyoming,24,State Treasurer,,DEM,John D. Perdue,137
+Wyoming,24A,State Treasurer,,DEM,John D. Perdue,229
+Wyoming,24B,State Treasurer,,DEM,John D. Perdue,137
 Wyoming,26,State Treasurer,,DEM,John D. Perdue,301
-Wyoming,27,State Treasurer,,DEM,John D. Perdue,180
-Wyoming,27,State Treasurer,,DEM,John D. Perdue,141
+Wyoming,27A,State Treasurer,,DEM,John D. Perdue,180
+Wyoming,27B,State Treasurer,,DEM,John D. Perdue,141
 Wyoming,28,State Treasurer,,DEM,John D. Perdue,288
 Wyoming,29,State Treasurer,,DEM,John D. Perdue,218
 Wyoming,31,State Treasurer,,DEM,John D. Perdue,234
@@ -776,8 +755,6 @@ Wyoming,45,State Treasurer,,DEM,John D. Perdue,130
 Wyoming,6,State Treasurer,,DEM,John D. Perdue,120
 Wyoming,7,State Treasurer,,DEM,John D. Perdue,114
 Wyoming,9,State Treasurer,,DEM,John D. Perdue,172
-Wyoming,Total,U.S. House,3,REP,Gary Martin Gearheart,2347
-Wyoming,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",5012
 Wyoming,1,U.S. House,3,REP,Gary Martin Gearheart,78
 Wyoming,10,U.S. House,3,REP,Gary Martin Gearheart,57
 Wyoming,12,U.S. House,3,REP,Gary Martin Gearheart,26
@@ -793,11 +770,11 @@ Wyoming,20,U.S. House,3,REP,Gary Martin Gearheart,85
 Wyoming,21,U.S. House,3,REP,Gary Martin Gearheart,18
 Wyoming,22,U.S. House,3,REP,Gary Martin Gearheart,49
 Wyoming,23,U.S. House,3,REP,Gary Martin Gearheart,27
-Wyoming,24,U.S. House,3,REP,Gary Martin Gearheart,63
-Wyoming,24,U.S. House,3,REP,Gary Martin Gearheart,45
+Wyoming,24A,U.S. House,3,REP,Gary Martin Gearheart,63
+Wyoming,24B,U.S. House,3,REP,Gary Martin Gearheart,45
 Wyoming,26,U.S. House,3,REP,Gary Martin Gearheart,105
-Wyoming,27,U.S. House,3,REP,Gary Martin Gearheart,67
-Wyoming,27,U.S. House,3,REP,Gary Martin Gearheart,50
+Wyoming,27A,U.S. House,3,REP,Gary Martin Gearheart,67
+Wyoming,27B,U.S. House,3,REP,Gary Martin Gearheart,50
 Wyoming,28,U.S. House,3,REP,Gary Martin Gearheart,116
 Wyoming,29,U.S. House,3,REP,Gary Martin Gearheart,136
 Wyoming,31,U.S. House,3,REP,Gary Martin Gearheart,104
@@ -829,11 +806,11 @@ Wyoming,20,U.S. House,3,DEM,"Nick Joe Rahall, II",195
 Wyoming,21,U.S. House,3,DEM,"Nick Joe Rahall, II",60
 Wyoming,22,U.S. House,3,DEM,"Nick Joe Rahall, II",37
 Wyoming,23,U.S. House,3,DEM,"Nick Joe Rahall, II",96
-Wyoming,24,U.S. House,3,DEM,"Nick Joe Rahall, II",212
-Wyoming,24,U.S. House,3,DEM,"Nick Joe Rahall, II",132
+Wyoming,24A,U.S. House,3,DEM,"Nick Joe Rahall, II",212
+Wyoming,24B,U.S. House,3,DEM,"Nick Joe Rahall, II",132
 Wyoming,26,U.S. House,3,DEM,"Nick Joe Rahall, II",264
-Wyoming,27,U.S. House,3,DEM,"Nick Joe Rahall, II",162
-Wyoming,27,U.S. House,3,DEM,"Nick Joe Rahall, II",121
+Wyoming,27A,U.S. House,3,DEM,"Nick Joe Rahall, II",162
+Wyoming,27B,U.S. House,3,DEM,"Nick Joe Rahall, II",121
 Wyoming,28,U.S. House,3,DEM,"Nick Joe Rahall, II",250
 Wyoming,29,U.S. House,3,DEM,"Nick Joe Rahall, II",174
 Wyoming,31,U.S. House,3,DEM,"Nick Joe Rahall, II",190
@@ -850,8 +827,6 @@ Wyoming,45,U.S. House,3,DEM,"Nick Joe Rahall, II",123
 Wyoming,6,U.S. House,3,DEM,"Nick Joe Rahall, II",106
 Wyoming,7,U.S. House,3,DEM,"Nick Joe Rahall, II",110
 Wyoming,9,U.S. House,3,DEM,"Nick Joe Rahall, II",132
-Wyoming,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,5107
-Wyoming,Total,U.S. Senate,,REP,Matthew Jay Wolfe,2316
 Wyoming,1,U.S. Senate,,DEM,John Davison Rockefeller IV,204
 Wyoming,10,U.S. Senate,,DEM,John Davison Rockefeller IV,90
 Wyoming,12,U.S. Senate,,DEM,John Davison Rockefeller IV,52
@@ -867,11 +842,11 @@ Wyoming,20,U.S. Senate,,DEM,John Davison Rockefeller IV,196
 Wyoming,21,U.S. Senate,,DEM,John Davison Rockefeller IV,62
 Wyoming,22,U.S. Senate,,DEM,John Davison Rockefeller IV,38
 Wyoming,23,U.S. Senate,,DEM,John Davison Rockefeller IV,90
-Wyoming,24,U.S. Senate,,DEM,John Davison Rockefeller IV,215
-Wyoming,24,U.S. Senate,,DEM,John Davison Rockefeller IV,129
+Wyoming,24A,U.S. Senate,,DEM,John Davison Rockefeller IV,215
+Wyoming,24B,U.S. Senate,,DEM,John Davison Rockefeller IV,129
 Wyoming,26,U.S. Senate,,DEM,John Davison Rockefeller IV,276
-Wyoming,27,U.S. Senate,,DEM,John Davison Rockefeller IV,166
-Wyoming,27,U.S. Senate,,DEM,John Davison Rockefeller IV,133
+Wyoming,27A,U.S. Senate,,DEM,John Davison Rockefeller IV,166
+Wyoming,27B,U.S. Senate,,DEM,John Davison Rockefeller IV,133
 Wyoming,28,U.S. Senate,,DEM,John Davison Rockefeller IV,252
 Wyoming,29,U.S. Senate,,DEM,John Davison Rockefeller IV,171
 Wyoming,31,U.S. Senate,,DEM,John Davison Rockefeller IV,196
@@ -903,11 +878,11 @@ Wyoming,20,U.S. Senate,,REP,Matthew Jay Wolfe,97
 Wyoming,21,U.S. Senate,,REP,Matthew Jay Wolfe,16
 Wyoming,22,U.S. Senate,,REP,Matthew Jay Wolfe,52
 Wyoming,23,U.S. Senate,,REP,Matthew Jay Wolfe,31
-Wyoming,24,U.S. Senate,,REP,Matthew Jay Wolfe,64
-Wyoming,24,U.S. Senate,,REP,Matthew Jay Wolfe,47
+Wyoming,24A,U.S. Senate,,REP,Matthew Jay Wolfe,64
+Wyoming,24B,U.S. Senate,,REP,Matthew Jay Wolfe,47
 Wyoming,26,U.S. Senate,,REP,Matthew Jay Wolfe,98
-Wyoming,27,U.S. Senate,,REP,Matthew Jay Wolfe,61
-Wyoming,27,U.S. Senate,,REP,Matthew Jay Wolfe,45
+Wyoming,27A,U.S. Senate,,REP,Matthew Jay Wolfe,61
+Wyoming,27B,U.S. Senate,,REP,Matthew Jay Wolfe,45
 Wyoming,28,U.S. Senate,,REP,Matthew Jay Wolfe,117
 Wyoming,29,U.S. Senate,,REP,Matthew Jay Wolfe,139
 Wyoming,31,U.S. Senate,,REP,Matthew Jay Wolfe,100

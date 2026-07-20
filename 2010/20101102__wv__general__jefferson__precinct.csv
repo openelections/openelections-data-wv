@@ -95,7 +95,6 @@ Jefferson,4B,Straight Party,,REP,,119
 Jefferson,4A,Straight Party,,REP,,118
 Jefferson,3,Straight Party,,REP,,92
 Jefferson,2,Straight Party,,REP,,48
-Jefferson,Total,Straight Party,,REP,,3271
 Jefferson,35B,Straight Party,,DEM,,115
 Jefferson,35A,Straight Party,,DEM,,82
 Jefferson,34,Straight Party,,DEM,,163
@@ -128,7 +127,6 @@ Jefferson,4B,Straight Party,,DEM,,96
 Jefferson,4A,Straight Party,,DEM,,110
 Jefferson,3,Straight Party,,DEM,,125
 Jefferson,2,Straight Party,,DEM,,119
-Jefferson,Total,Straight Party,,DEM,,2866
 Jefferson,35B,Straight Party,,CON,,0
 Jefferson,35A,Straight Party,,CON,,1
 Jefferson,34,Straight Party,,CON,,1
@@ -161,7 +159,6 @@ Jefferson,4B,Straight Party,,CON,,2
 Jefferson,4A,Straight Party,,CON,,1
 Jefferson,3,Straight Party,,CON,,2
 Jefferson,2,Straight Party,,CON,,2
-Jefferson,Total,Straight Party,,CON,,41
 Jefferson,35B,Straight Party,,MTN,,2
 Jefferson,35A,Straight Party,,MTN,,0
 Jefferson,34,Straight Party,,MTN,,3
@@ -194,7 +191,6 @@ Jefferson,4B,Straight Party,,MTN,,1
 Jefferson,4A,Straight Party,,MTN,,2
 Jefferson,3,Straight Party,,MTN,,0
 Jefferson,2,Straight Party,,MTN,,1
-Jefferson,Total,Straight Party,,MTN,,33
 Jefferson,35B,U.S. Senate,,REP,John R. Raese,193
 Jefferson,35A,U.S. Senate,,REP,John R. Raese,195
 Jefferson,34,U.S. Senate,,REP,John R. Raese,296
@@ -227,7 +223,6 @@ Jefferson,4B,U.S. Senate,,REP,John R. Raese,262
 Jefferson,4A,U.S. Senate,,REP,John R. Raese,262
 Jefferson,3,U.S. Senate,,REP,John R. Raese,243
 Jefferson,2,U.S. Senate,,REP,John R. Raese,130
-Jefferson,Total,U.S. Senate,,REP,John R. Raese,7082
 Jefferson,35B,U.S. Senate,,DEM,Joe Manchin III,381
 Jefferson,35A,U.S. Senate,,DEM,Joe Manchin III,323
 Jefferson,34,U.S. Senate,,DEM,Joe Manchin III,474
@@ -260,7 +255,6 @@ Jefferson,4B,U.S. Senate,,DEM,Joe Manchin III,260
 Jefferson,4A,U.S. Senate,,DEM,Joe Manchin III,263
 Jefferson,3,U.S. Senate,,DEM,Joe Manchin III,352
 Jefferson,2,U.S. Senate,,DEM,Joe Manchin III,241
-Jefferson,total,U.S. Senate,,DEM,Joe Manchin III,7861
 Jefferson,35B,U.S. Senate,,CON,Jeff Becker,12
 Jefferson,35A,U.S. Senate,,CON,Jeff Becker,8
 Jefferson,34,U.S. Senate,,CON,Jeff Becker,14
@@ -293,7 +287,6 @@ Jefferson,4B,U.S. Senate,,CON,Jeff Becker,19
 Jefferson,4A,U.S. Senate,,CON,Jeff Becker,18
 Jefferson,3,U.S. Senate,,CON,Jeff Becker,12
 Jefferson,2,U.S. Senate,,CON,Jeff Becker,8
-Jefferson,Total,U.S. Senate,,CON,Jeff Becker,422
 Jefferson,35B,U.S. Senate,,MTN,Jesse Johnson,16
 Jefferson,35A,U.S. Senate,,MTN,Jesse Johnson,11
 Jefferson,34,U.S. Senate,,MTN,Jesse Johnson,13
@@ -326,7 +319,6 @@ Jefferson,4B,U.S. Senate,,MTN,Jesse Johnson,10
 Jefferson,4A,U.S. Senate,,MTN,Jesse Johnson,7
 Jefferson,3,U.S. Senate,,MTN,Jesse Johnson,10
 Jefferson,2,U.S. Senate,,MTN,Jesse Johnson,2
-Jefferson,Total,U.S. Senate,,MTN,Jesse Johnson,259
 Jefferson,35B,U.S. Senate,2,,Write-ins,1
 Jefferson,35A,U.S. Senate,2,,Write-ins,0
 Jefferson,34,U.S. Senate,2,,Write-ins,0
@@ -359,7 +351,6 @@ Jefferson,4B,U.S. Senate,22,,Write-ins,0
 Jefferson,4A,U.S. Senate,22,,Write-ins,0
 Jefferson,3,U.S. Senate,2,,Write-ins,1
 Jefferson,2,U.S. Senate,2,,Write-ins,0
-Jefferson,Total,U.S. Senate,2,,Write-ins,14
 Jefferson,35B,U.S. House,2,REP,Shelley Moore Capito,273
 Jefferson,35A,U.S. House,2,REP,Shelley Moore Capito,281
 Jefferson,34,U.S. House,2,REP,Shelley Moore Capito,399
@@ -392,7 +383,6 @@ Jefferson,4B,U.S. House,2,REP,Shelley Moore Capito,374
 Jefferson,4A,U.S. House,2,REP,Shelley Moore Capito,305
 Jefferson,3,U.S. House,2,REP,Shelley Moore Capito,333
 Jefferson,2,U.S. House,2,REP,Shelley Moore Capito,178
-Jefferson,total,U.S. House,2,REP,Shelley Moore Capito,8114
 Jefferson,35B,U.S. House,2,DEM,Virginia Lynch Graf,317
 Jefferson,35A,U.S. House,2,DEM,Virginia Lynch Graf,248
 Jefferson,34,U.S. House,2,DEM,Virginia Lynch Graf,380
@@ -425,7 +415,6 @@ Jefferson,4B,U.S. House,2,DEM,Virginia Lynch Graf,197
 ,4A,U.S. House,2,DEM,Virginia Lynch Graf,227
 Jefferson,3,U.S. House,2,DEM,Virginia Lynch Graf,281
 Jefferson,2,U.S. House,2,DEM,Virginia Lynch Graf,198
-Jefferson,Total,U.S. House,2,DEM,Virginia Lynch Graf,6403
 Jefferson,35B,U.S. House,2,CON,Phil Hudok,6
 Jefferson,35A,U.S. House,2,CON,Phil Hudok,2
 Jefferson,34,U.S. House,2,CON,Phil Hudok,12
@@ -491,7 +480,6 @@ Jefferson,4B,U.S. House,2,,Write-ins,0
 Jefferson,4A,U.S. House,2,,Write-ins,0
 Jefferson,3,U.S. House,2,,Write-ins,1
 Jefferson,2,U.S. House,2,,Write-ins,0
-Jefferson,Total,U.S. House,2,,Write-ins,5
 Jefferson,35B,State Senator,16,REP,Craig Blair,200
 Jefferson,35A,State Senator,16,REP,Craig Blair,197
 Jefferson,34,State Senator,16,REP,Craig Blair,271
@@ -524,7 +512,6 @@ Jefferson,4B,State Senator,16,REP,Craig Blair,251
 Jefferson,4A,State Senator,16,REP,Craig Blair,260
 Jefferson,3,State Senator,16,REP,Craig Blair,211
 Jefferson,2,State Senator,16,REP,Craig Blair,127
-Jefferson,Total,State Senator,16,REP,Craig Blair,6885
 Jefferson,35B,State Senator,16,DEM,John Unger,398
 Jefferson,35A,State Senator,16,DEM,John Unger,329
 Jefferson,34,State Senator,16,DEM,John Unger,512
@@ -557,7 +544,6 @@ Jefferson,4B,State Senator,16,DEM,John Unger,290
 Jefferson,4A,State Senator,16,DEM,John Unger,276
 Jefferson,3,State Senator,16,DEM,John Unger,396
 Jefferson,2,State Senator,16,DEM,John Unger,248
-Jefferson,Total,State Senator,16,DEM,John Unger,8472
 Jefferson,35B,State Senator,16,,Write-ins,0
 Jefferson,35A,State Senator,16,,Write-ins,0
 Jefferson,34,State Senator,16,,Write-ins,1
@@ -590,7 +576,6 @@ Jefferson,4B,State Senator,16,,Write-ins,0
 Jefferson,4A,State Senator,16,,Write-ins,0
 Jefferson,3,State Senator,16,,Write-ins,2
 Jefferson,2,State Senator,16,,Write-ins,1
-Jefferson,Total,State Senator,16,,Write-ins,10
 Jefferson,35B,House of Delegates,57,REP,Elliot Simon,223
 Jefferson,35A,House of Delegates,57,REP,Elliot Simon,207
 Jefferson,34,House of Delegates,57,REP,Elliot Simon,294
@@ -623,7 +608,6 @@ Jefferson,4B,House of Delegates,58,REP,Blake Thompson,274
 Jefferson,4A,House of Delegates,58,REP,Blake Thompson,253
 Jefferson,3,House of Delegates,58,REP,Blake Thompson,235
 Jefferson,2,House of Delegates,58,REP,Blake Thompson,131
-Jefferson,Total,House of Delegates,,REP,,7226
 Jefferson,35B,House of Delegates,57,DEM,John Doyle,374
 Jefferson,35A,House of Delegates,57,DEM,John Doyle,324
 Jefferson,34,House of Delegates,57,DEM,John Doyle,495
@@ -656,7 +640,6 @@ Jefferson,4B,House of Delegates,58,DEM,Tiffany Lawrence,264
 Jefferson,4A,House of Delegates,58,DEM,Tiffany Lawrence,288
 Jefferson,3,House of Delegates,58,DEM,Tiffany Lawrence,364
 Jefferson,2,House of Delegates,58,DEM,Tiffany Lawrence,242
-Jefferson,Total,House of Delegates,,DEM,,8157
 Jefferson,35B,House of Delegates,57,,Write-ins,0
 Jefferson,35A,House of Delegates,57,,Write-ins,2
 Jefferson,34,House of Delegates,57,,Write-ins,0
@@ -689,4 +672,3 @@ Jefferson,4B,House of Delegates,58,,Write-ins,0
 Jefferson,4A,House of Delegates,58,,Write-ins,1
 Jefferson,3,House of Delegates,58,,Write-ins,1
 Jefferson,2,House of Delegates,58,,Write-ins,1
-Jefferson,Total,House of Delegates,,,Write-ins,13

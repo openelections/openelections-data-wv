@@ -235,7 +235,6 @@ Kanawha,650,PRESIDENT,6,George H.W. Bush,REP,135
 Kanawha,652,PRESIDENT,6,George H.W. Bush,REP,92
 Kanawha,653,PRESIDENT,6,George H.W. Bush,REP,121
 Kanawha,656,PRESIDENT,6,George H.W. Bush,REP,246
-Kanawha,Total,PRESIDENT,,George H.W. Bush,REP,38140
 Kanawha,103,PRESIDENT,1,Michael Dukakis,DEM,343
 Kanawha,104,PRESIDENT,1,Michael Dukakis,DEM,182
 Kanawha,105,PRESIDENT,1,Michael Dukakis,DEM,265
@@ -472,7 +471,6 @@ Kanawha,650,PRESIDENT,6,Michael Dukakis,DEM,99
 Kanawha,652,PRESIDENT,6,Michael Dukakis,DEM,69
 Kanawha,653,PRESIDENT,6,Michael Dukakis,DEM,130
 Kanawha,656,PRESIDENT,6,Michael Dukakis,DEM,207
-Kanawha,Total,PRESIDENT,,Michael Dukakis,DEM,41144
 Kanawha,103,PRESIDENT,1,Lenora Fulani,NEW,1
 Kanawha,104,PRESIDENT,1,Lenora Fulani,NEW,1
 Kanawha,105,PRESIDENT,1,Lenora Fulani,NEW,0
@@ -709,7 +707,6 @@ Kanawha,650,PRESIDENT,6,Lenora Fulani,NEW,1
 Kanawha,652,PRESIDENT,6,Lenora Fulani,NEW,1
 Kanawha,653,PRESIDENT,6,Lenora Fulani,NEW,0
 Kanawha,656,PRESIDENT,6,Lenora Fulani,NEW,3
-Kanawha,Total,PRESIDENT,,Lenora Fulani,NEW,258
 Kanawha,103,U.S. SENATE,1,Jay Wolfe,REP,48
 Kanawha,104,U.S. SENATE,1,Jay Wolfe,REP,21
 Kanawha,105,U.S. SENATE,1,Jay Wolfe,REP,73
@@ -946,7 +943,6 @@ Kanawha,650,U.S. SENATE,6,Jay Wolfe,REP,105
 Kanawha,652,U.S. SENATE,6,Jay Wolfe,REP,56
 Kanawha,653,U.S. SENATE,6,Jay Wolfe,REP,113
 Kanawha,656,U.S. SENATE,6,Jay Wolfe,REP,203
-Kanawha,Total,U.S. SENATE,,Jay Wolfe,REP,29534
 Kanawha,103,U.S. SENATE,1,Robert Byrd,DEM,354
 Kanawha,104,U.S. SENATE,1,Robert Byrd,DEM,200
 Kanawha,105,U.S. SENATE,1,Robert Byrd,DEM,274
@@ -1183,7 +1179,6 @@ Kanawha,650,U.S. SENATE,6,Robert Byrd,DEM,129
 Kanawha,652,U.S. SENATE,6,Robert Byrd,DEM,100
 Kanawha,653,U.S. SENATE,6,Robert Byrd,DEM,130
 Kanawha,656,U.S. SENATE,6,Robert Byrd,DEM,250
-Kanawha,Total,U.S. SENATE,,Robert Byrd,DEM,47520
 Kanawha,103,U.S. HOUSE,1,Paul Hart,REP,34
 Kanawha,104,U.S. HOUSE,1,Paul Hart,REP,14
 Kanawha,105,U.S. HOUSE,1,Paul Hart,REP,40
@@ -1420,7 +1415,6 @@ Kanawha,650,U.S. HOUSE,6,Paul Hart,REP,53
 Kanawha,652,U.S. HOUSE,6,Paul Hart,REP,37
 Kanawha,653,U.S. HOUSE,6,Paul Hart,REP,69
 Kanawha,656,U.S. HOUSE,6,Paul Hart,REP,116
-Kanawha,Total,U.S. HOUSE,,Paul Hart,REP,19778
 Kanawha,103,U.S. HOUSE,1,Bob Wise,DEM,353
 Kanawha,104,U.S. HOUSE,1,Bob Wise,DEM,191
 Kanawha,105,U.S. HOUSE,1,Bob Wise,DEM,297
@@ -1657,4 +1651,3 @@ Kanawha,650,U.S. HOUSE,6,Bob Wise,DEM,170
 Kanawha,652,U.S. HOUSE,6,Bob Wise,DEM,114
 Kanawha,653,U.S. HOUSE,6,Bob Wise,DEM,162
 Kanawha,656,U.S. HOUSE,6,Bob Wise,DEM,312
-Kanawha,Total,U.S. HOUSE,,Bob Wise,DEM,54433

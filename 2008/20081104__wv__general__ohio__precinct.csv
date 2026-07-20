@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Ohio,Total,Attorney General,,REP,Daniel W.Greear,10156
-Ohio,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",8343
 Ohio,100,Attorney General,,REP,Daniel W.Greear,135
 Ohio,102,Attorney General,,REP,Daniel W.Greear,27
 Ohio,103,Attorney General,,REP,Daniel W.Greear,189
@@ -79,8 +77,6 @@ Ohio,5,Attorney General,,DEM,"Darrell V. McGraw, Jr.",377
 Ohio,60,Attorney General,,DEM,"Darrell V. McGraw, Jr.",203
 Ohio,69,Attorney General,,DEM,"Darrell V. McGraw, Jr.",290
 Ohio,77,Attorney General,,DEM,"Darrell V. McGraw, Jr.",105
-Ohio,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,7523
-Ohio,Total,Commissioner of Agriculture,,REP,James Michael Teets,10342
 Ohio,100,Commissioner of Agriculture,,DEM,Gus R. Douglass,189
 Ohio,102,Commissioner of Agriculture,,DEM,Gus R. Douglass,44
 Ohio,103,Commissioner of Agriculture,,DEM,Gus R. Douglass,157
@@ -159,9 +155,6 @@ Ohio,5,Commissioner of Agriculture,,REP,James Michael Teets,393
 Ohio,60,Commissioner of Agriculture,,REP,James Michael Teets,178
 Ohio,69,Commissioner of Agriculture,,REP,James Michael Teets,223
 Ohio,77,Commissioner of Agriculture,,REP,James Michael Teets,91
-Ohio,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",677
-Ohio,Total,Governor,,DEM,"Joe Manchin, III",14225
-Ohio,Total,Governor,,REP,Russell E. Weeks Jr,4422
 Ohio,100,Governor,,MTN,"Jesse C. Johnson, Jr.",15
 Ohio,102,Governor,,MTN,"Jesse C. Johnson, Jr.",1
 Ohio,103,Governor,,MTN,"Jesse C. Johnson, Jr.",12
@@ -279,11 +272,6 @@ Ohio,5,Governor,,REP,Russell E. Weeks Jr,158
 Ohio,60,Governor,,REP,Russell E. Weeks Jr,89
 Ohio,69,Governor,,REP,Russell E. Weeks Jr,90
 Ohio,77,Governor,,REP,Russell E. Weeks Jr,34
-Ohio,Total,President,,DEM,Barack Hussein Obama,8593
-Ohio,Total,President,,CON,Charles Obadiah Baldwin,45
-Ohio,Total,President,,MTN,Cynthia Ann McKinney,51
-Ohio,Total,President,,REP,John Sidney McCain III,10694
-Ohio,Total,President,,,Ralph Nader,157
 Ohio,100,President,,DEM,Barack Hussein Obama,195
 Ohio,102,President,,DEM,Barack Hussein Obama,46
 Ohio,103,President,,DEM,Barack Hussein Obama,162
@@ -479,8 +467,6 @@ Ohio,5,President,,,Ralph Nader,9
 Ohio,60,President,,,Ralph Nader,3
 Ohio,69,President,,,Ralph Nader,6
 Ohio,77,President,,,Ralph Nader,2
-Ohio,Total,Secretary of State,,REP,Charles Theophilus Minimah,6168
-Ohio,Total,Secretary of State,,DEM,Natalie Tennant,11849
 Ohio,100,Secretary of State,,REP,Charles Theophilus Minimah,64
 Ohio,102,Secretary of State,,REP,Charles Theophilus Minimah,15
 Ohio,103,Secretary of State,,REP,Charles Theophilus Minimah,113
@@ -559,7 +545,6 @@ Ohio,5,Secretary of State,,DEM,Natalie Tennant,511
 Ohio,60,Secretary of State,,DEM,Natalie Tennant,279
 Ohio,69,Secretary of State,,DEM,Natalie Tennant,359
 Ohio,77,Secretary of State,,DEM,Natalie Tennant,134
-Ohio,Total,State Auditor,,DEM,Glen B. Gainer III,14289
 Ohio,100,State Auditor,,DEM,Glen B. Gainer III,286
 Ohio,102,State Auditor,,DEM,Glen B. Gainer III,60
 Ohio,103,State Auditor,,DEM,Glen B. Gainer III,292
@@ -599,15 +584,6 @@ Ohio,5,State Auditor,,DEM,Glen B. Gainer III,571
 Ohio,60,State Auditor,,DEM,Glen B. Gainer III,316
 Ohio,69,State Auditor,,DEM,Glen B. Gainer III,425
 Ohio,77,State Auditor,,DEM,Glen B. Gainer III,146
-Ohio,Total,State House,,DEM,Michael Thomas Ferro,50
-Ohio,Total,State House,,DEM,Orphy Michael Klempa,9236
-Ohio,Total,State House,,,"Richard Edmund Hartley, Sr.",14
-Ohio,Total,State House,,REP,Ronald Morris,13
-Ohio,Total,State House,,DEM,Roy Edward Givens,2790
-Ohio,Total,State House,,DEM,Scott G. Varner,51
-Ohio,Total,State House,,DEM,Talmadge Hutchins,8495
-Ohio,Total,State House,,DEM,Timmothy Ray Ennis,3161
-Ohio,Total,State House,,REP,William N. Hefner,5278
 Ohio,100,State House,,DEM,Michael Thomas Ferro,0
 Ohio,102,State House,,DEM,Michael Thomas Ferro,50
 Ohio,103,State House,,DEM,Michael Thomas Ferro,0
@@ -959,10 +935,6 @@ Ohio,5,State House,,REP,William N. Hefner,239
 Ohio,60,State House,,REP,William N. Hefner,101
 Ohio,69,State House,,REP,William N. Hefner,161
 Ohio,77,State House,,REP,William N. Hefner,53
-Ohio,Total,State Senate,,REP,Christopher Wakim,8725
-Ohio,Total,State Senate,,REP,Frederick John Brunner,305
-Ohio,Total,State Senate,,DEM,Jack Yost,8903
-Ohio,Total,State Senate,,DEM,Jeffrey Vincent Kessler,978
 Ohio,100,State Senate,,REP,Christopher Wakim,0
 Ohio,102,State Senate,,REP,Christopher Wakim,0
 Ohio,103,State Senate,,REP,Christopher Wakim,188
@@ -1119,7 +1091,6 @@ Ohio,5,State Senate,,DEM,Jeffrey Vincent Kessler,0
 Ohio,60,State Senate,,DEM,Jeffrey Vincent Kessler,278
 Ohio,69,State Senate,,DEM,Jeffrey Vincent Kessler,372
 Ohio,77,State Senate,,DEM,Jeffrey Vincent Kessler,0
-Ohio,Total,State Treasurer,,DEM,John D. Perdue,14134
 Ohio,100,State Treasurer,,DEM,John D. Perdue,289
 Ohio,102,State Treasurer,,DEM,John D. Perdue,60
 Ohio,103,State Treasurer,,DEM,John D. Perdue,293
@@ -1159,7 +1130,6 @@ Ohio,5,State Treasurer,,DEM,John D. Perdue,563
 Ohio,60,State Treasurer,,DEM,John D. Perdue,308
 Ohio,69,State Treasurer,,DEM,John D. Perdue,418
 Ohio,77,State Treasurer,,DEM,John D. Perdue,149
-Ohio,Total,U.S. House,1,DEM,Alan Bowlby Mollohan,15285
 Ohio,100,U.S. House,1,DEM,Alan Bowlby Mollohan,299
 Ohio,102,U.S. House,1,DEM,Alan Bowlby Mollohan,65
 Ohio,103,U.S. House,1,DEM,Alan Bowlby Mollohan,323
@@ -1199,8 +1169,6 @@ Ohio,5,U.S. House,1,DEM,Alan Bowlby Mollohan,613
 Ohio,60,U.S. House,1,DEM,Alan Bowlby Mollohan,340
 Ohio,69,U.S. House,1,DEM,Alan Bowlby Mollohan,446
 Ohio,77,U.S. House,1,DEM,Alan Bowlby Mollohan,160
-Ohio,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,13647
-Ohio,Total,U.S. Senate,,REP,Matthew Jay Wolfe,5617
 Ohio,100,U.S. Senate,,DEM,John Davison Rockefeller IV,278
 Ohio,102,U.S. Senate,,DEM,John Davison Rockefeller IV,62
 Ohio,103,U.S. Senate,,DEM,John Davison Rockefeller IV,276

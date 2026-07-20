@@ -1,10 +1,8 @@
 county,precinct,office,district,party,candidate,votes
-Harrison,Total,Attorney General,,REP,Daniel W.Greear,16264
-Harrison,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",14338
 Harrison,1,Attorney General,,REP,Daniel W.Greear,597
 Harrison,10,Attorney General,,REP,Daniel W.Greear,143
 Harrison,102,Attorney General,,REP,Daniel W.Greear,213
-Harrison,102,Attorney General,,REP,Daniel W.Greear,321
+Harrison,102A,Attorney General,,REP,Daniel W.Greear,321
 Harrison,103,Attorney General,,REP,Daniel W.Greear,132
 Harrison,104,Attorney General,,REP,Daniel W.Greear,110
 Harrison,106,Attorney General,,REP,Daniel W.Greear,140
@@ -22,9 +20,9 @@ Harrison,125,Attorney General,,REP,Daniel W.Greear,502
 Harrison,126,Attorney General,,REP,Daniel W.Greear,294
 Harrison,128,Attorney General,,REP,Daniel W.Greear,377
 Harrison,129,Attorney General,,REP,Daniel W.Greear,420
-Harrison,129,Attorney General,,REP,Daniel W.Greear,374
-Harrison,129,Attorney General,,REP,Daniel W.Greear,526
-Harrison,129,Attorney General,,REP,Daniel W.Greear,282
+Harrison,129A,Attorney General,,REP,Daniel W.Greear,374
+Harrison,129B,Attorney General,,REP,Daniel W.Greear,526
+Harrison,129C,Attorney General,,REP,Daniel W.Greear,282
 Harrison,13,Attorney General,,REP,Daniel W.Greear,154
 Harrison,130,Attorney General,,REP,Daniel W.Greear,216
 Harrison,132,Attorney General,,REP,Daniel W.Greear,82
@@ -35,9 +33,9 @@ Harrison,136,Attorney General,,REP,Daniel W.Greear,100
 Harrison,137,Attorney General,,REP,Daniel W.Greear,84
 Harrison,14,Attorney General,,REP,Daniel W.Greear,262
 Harrison,143,Attorney General,,REP,Daniel W.Greear,238
-Harrison,143,Attorney General,,REP,Daniel W.Greear,259
+Harrison,143A,Attorney General,,REP,Daniel W.Greear,259
 Harrison,144,Attorney General,,REP,Daniel W.Greear,151
-Harrison,144,Attorney General,,REP,Daniel W.Greear,176
+Harrison,144A,Attorney General,,REP,Daniel W.Greear,176
 Harrison,145,Attorney General,,REP,Daniel W.Greear,182
 Harrison,16,Attorney General,,REP,Daniel W.Greear,176
 Harrison,19,Attorney General,,REP,Daniel W.Greear,156
@@ -48,7 +46,7 @@ Harrison,29,Attorney General,,REP,Daniel W.Greear,126
 Harrison,3,Attorney General,,REP,Daniel W.Greear,145
 Harrison,33,Attorney General,,REP,Daniel W.Greear,248
 Harrison,34,Attorney General,,REP,Daniel W.Greear,303
-Harrison,36,Attorney General,,REP,Daniel W.Greear,242
+Harrison,36A,Attorney General,,REP,Daniel W.Greear,242
 Harrison,37,Attorney General,,REP,Daniel W.Greear,150
 Harrison,38,Attorney General,,REP,Daniel W.Greear,119
 Harrison,4,Attorney General,,REP,Daniel W.Greear,316
@@ -89,7 +87,7 @@ Harrison,98,Attorney General,,REP,Daniel W.Greear,118
 Harrison,1,Attorney General,,DEM,"Darrell V. McGraw, Jr.",325
 Harrison,10,Attorney General,,DEM,"Darrell V. McGraw, Jr.",167
 Harrison,102,Attorney General,,DEM,"Darrell V. McGraw, Jr.",133
-Harrison,102,Attorney General,,DEM,"Darrell V. McGraw, Jr.",209
+Harrison,102A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",209
 Harrison,103,Attorney General,,DEM,"Darrell V. McGraw, Jr.",79
 Harrison,104,Attorney General,,DEM,"Darrell V. McGraw, Jr.",74
 Harrison,106,Attorney General,,DEM,"Darrell V. McGraw, Jr.",158
@@ -107,9 +105,9 @@ Harrison,125,Attorney General,,DEM,"Darrell V. McGraw, Jr.",281
 Harrison,126,Attorney General,,DEM,"Darrell V. McGraw, Jr.",169
 Harrison,128,Attorney General,,DEM,"Darrell V. McGraw, Jr.",307
 Harrison,129,Attorney General,,DEM,"Darrell V. McGraw, Jr.",218
-Harrison,129,Attorney General,,DEM,"Darrell V. McGraw, Jr.",192
-Harrison,129,Attorney General,,DEM,"Darrell V. McGraw, Jr.",289
-Harrison,129,Attorney General,,DEM,"Darrell V. McGraw, Jr.",173
+Harrison,129A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",192
+Harrison,129B,Attorney General,,DEM,"Darrell V. McGraw, Jr.",289
+Harrison,129C,Attorney General,,DEM,"Darrell V. McGraw, Jr.",173
 Harrison,13,Attorney General,,DEM,"Darrell V. McGraw, Jr.",122
 Harrison,130,Attorney General,,DEM,"Darrell V. McGraw, Jr.",106
 Harrison,132,Attorney General,,DEM,"Darrell V. McGraw, Jr.",107
@@ -120,9 +118,9 @@ Harrison,136,Attorney General,,DEM,"Darrell V. McGraw, Jr.",72
 Harrison,137,Attorney General,,DEM,"Darrell V. McGraw, Jr.",59
 Harrison,14,Attorney General,,DEM,"Darrell V. McGraw, Jr.",243
 Harrison,143,Attorney General,,DEM,"Darrell V. McGraw, Jr.",167
-Harrison,143,Attorney General,,DEM,"Darrell V. McGraw, Jr.",161
+Harrison,143A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",161
 Harrison,144,Attorney General,,DEM,"Darrell V. McGraw, Jr.",135
-Harrison,144,Attorney General,,DEM,"Darrell V. McGraw, Jr.",152
+Harrison,144A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",152
 Harrison,145,Attorney General,,DEM,"Darrell V. McGraw, Jr.",129
 Harrison,16,Attorney General,,DEM,"Darrell V. McGraw, Jr.",235
 Harrison,19,Attorney General,,DEM,"Darrell V. McGraw, Jr.",144
@@ -133,7 +131,7 @@ Harrison,29,Attorney General,,DEM,"Darrell V. McGraw, Jr.",160
 Harrison,3,Attorney General,,DEM,"Darrell V. McGraw, Jr.",144
 Harrison,33,Attorney General,,DEM,"Darrell V. McGraw, Jr.",221
 Harrison,34,Attorney General,,DEM,"Darrell V. McGraw, Jr.",281
-Harrison,36,Attorney General,,DEM,"Darrell V. McGraw, Jr.",213
+Harrison,36A,Attorney General,,DEM,"Darrell V. McGraw, Jr.",213
 Harrison,37,Attorney General,,DEM,"Darrell V. McGraw, Jr.",193
 Harrison,38,Attorney General,,DEM,"Darrell V. McGraw, Jr.",94
 Harrison,4,Attorney General,,DEM,"Darrell V. McGraw, Jr.",338
@@ -171,12 +169,10 @@ Harrison,92,Attorney General,,DEM,"Darrell V. McGraw, Jr.",116
 Harrison,95,Attorney General,,DEM,"Darrell V. McGraw, Jr.",101
 Harrison,96,Attorney General,,DEM,"Darrell V. McGraw, Jr.",217
 Harrison,98,Attorney General,,DEM,"Darrell V. McGraw, Jr.",143
-Harrison,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,14777
-Harrison,Total,Commissioner of Agriculture,,REP,James Michael Teets,15476
 Harrison,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,375
 Harrison,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,160
 Harrison,102,Commissioner of Agriculture,,DEM,Gus R. Douglass,151
-Harrison,102,Commissioner of Agriculture,,DEM,Gus R. Douglass,219
+Harrison,102A,Commissioner of Agriculture,,DEM,Gus R. Douglass,219
 Harrison,103,Commissioner of Agriculture,,DEM,Gus R. Douglass,89
 Harrison,104,Commissioner of Agriculture,,DEM,Gus R. Douglass,74
 Harrison,106,Commissioner of Agriculture,,DEM,Gus R. Douglass,165
@@ -194,9 +190,9 @@ Harrison,125,Commissioner of Agriculture,,DEM,Gus R. Douglass,322
 Harrison,126,Commissioner of Agriculture,,DEM,Gus R. Douglass,196
 Harrison,128,Commissioner of Agriculture,,DEM,Gus R. Douglass,304
 Harrison,129,Commissioner of Agriculture,,DEM,Gus R. Douglass,222
-Harrison,129,Commissioner of Agriculture,,DEM,Gus R. Douglass,226
-Harrison,129,Commissioner of Agriculture,,DEM,Gus R. Douglass,295
-Harrison,129,Commissioner of Agriculture,,DEM,Gus R. Douglass,174
+Harrison,129A,Commissioner of Agriculture,,DEM,Gus R. Douglass,226
+Harrison,129B,Commissioner of Agriculture,,DEM,Gus R. Douglass,295
+Harrison,129C,Commissioner of Agriculture,,DEM,Gus R. Douglass,174
 Harrison,13,Commissioner of Agriculture,,DEM,Gus R. Douglass,127
 Harrison,130,Commissioner of Agriculture,,DEM,Gus R. Douglass,126
 Harrison,132,Commissioner of Agriculture,,DEM,Gus R. Douglass,96
@@ -207,9 +203,9 @@ Harrison,136,Commissioner of Agriculture,,DEM,Gus R. Douglass,77
 Harrison,137,Commissioner of Agriculture,,DEM,Gus R. Douglass,62
 Harrison,14,Commissioner of Agriculture,,DEM,Gus R. Douglass,235
 Harrison,143,Commissioner of Agriculture,,DEM,Gus R. Douglass,175
-Harrison,143,Commissioner of Agriculture,,DEM,Gus R. Douglass,178
+Harrison,143A,Commissioner of Agriculture,,DEM,Gus R. Douglass,178
 Harrison,144,Commissioner of Agriculture,,DEM,Gus R. Douglass,131
-Harrison,144,Commissioner of Agriculture,,DEM,Gus R. Douglass,168
+Harrison,144A,Commissioner of Agriculture,,DEM,Gus R. Douglass,168
 Harrison,145,Commissioner of Agriculture,,DEM,Gus R. Douglass,147
 Harrison,16,Commissioner of Agriculture,,DEM,Gus R. Douglass,236
 Harrison,19,Commissioner of Agriculture,,DEM,Gus R. Douglass,157
@@ -220,7 +216,7 @@ Harrison,29,Commissioner of Agriculture,,DEM,Gus R. Douglass,163
 Harrison,3,Commissioner of Agriculture,,DEM,Gus R. Douglass,147
 Harrison,33,Commissioner of Agriculture,,DEM,Gus R. Douglass,209
 Harrison,34,Commissioner of Agriculture,,DEM,Gus R. Douglass,273
-Harrison,36,Commissioner of Agriculture,,DEM,Gus R. Douglass,210
+Harrison,36A,Commissioner of Agriculture,,DEM,Gus R. Douglass,210
 Harrison,37,Commissioner of Agriculture,,DEM,Gus R. Douglass,178
 Harrison,38,Commissioner of Agriculture,,DEM,Gus R. Douglass,92
 Harrison,4,Commissioner of Agriculture,,DEM,Gus R. Douglass,363
@@ -261,7 +257,7 @@ Harrison,98,Commissioner of Agriculture,,DEM,Gus R. Douglass,144
 Harrison,1,Commissioner of Agriculture,,REP,James Michael Teets,537
 Harrison,10,Commissioner of Agriculture,,REP,James Michael Teets,149
 Harrison,102,Commissioner of Agriculture,,REP,James Michael Teets,181
-Harrison,102,Commissioner of Agriculture,,REP,James Michael Teets,298
+Harrison,102A,Commissioner of Agriculture,,REP,James Michael Teets,298
 Harrison,103,Commissioner of Agriculture,,REP,James Michael Teets,120
 Harrison,104,Commissioner of Agriculture,,REP,James Michael Teets,117
 Harrison,106,Commissioner of Agriculture,,REP,James Michael Teets,137
@@ -279,9 +275,9 @@ Harrison,125,Commissioner of Agriculture,,REP,James Michael Teets,447
 Harrison,126,Commissioner of Agriculture,,REP,James Michael Teets,269
 Harrison,128,Commissioner of Agriculture,,REP,James Michael Teets,363
 Harrison,129,Commissioner of Agriculture,,REP,James Michael Teets,399
-Harrison,129,Commissioner of Agriculture,,REP,James Michael Teets,318
-Harrison,129,Commissioner of Agriculture,,REP,James Michael Teets,506
-Harrison,129,Commissioner of Agriculture,,REP,James Michael Teets,273
+Harrison,129A,Commissioner of Agriculture,,REP,James Michael Teets,318
+Harrison,129B,Commissioner of Agriculture,,REP,James Michael Teets,506
+Harrison,129C,Commissioner of Agriculture,,REP,James Michael Teets,273
 Harrison,13,Commissioner of Agriculture,,REP,James Michael Teets,142
 Harrison,130,Commissioner of Agriculture,,REP,James Michael Teets,196
 Harrison,132,Commissioner of Agriculture,,REP,James Michael Teets,90
@@ -292,9 +288,9 @@ Harrison,136,Commissioner of Agriculture,,REP,James Michael Teets,92
 Harrison,137,Commissioner of Agriculture,,REP,James Michael Teets,79
 Harrison,14,Commissioner of Agriculture,,REP,James Michael Teets,272
 Harrison,143,Commissioner of Agriculture,,REP,James Michael Teets,229
-Harrison,143,Commissioner of Agriculture,,REP,James Michael Teets,252
+Harrison,143A,Commissioner of Agriculture,,REP,James Michael Teets,252
 Harrison,144,Commissioner of Agriculture,,REP,James Michael Teets,148
-Harrison,144,Commissioner of Agriculture,,REP,James Michael Teets,162
+Harrison,144A,Commissioner of Agriculture,,REP,James Michael Teets,162
 Harrison,145,Commissioner of Agriculture,,REP,James Michael Teets,163
 Harrison,16,Commissioner of Agriculture,,REP,James Michael Teets,169
 Harrison,19,Commissioner of Agriculture,,REP,James Michael Teets,132
@@ -305,7 +301,7 @@ Harrison,29,Commissioner of Agriculture,,REP,James Michael Teets,123
 Harrison,3,Commissioner of Agriculture,,REP,James Michael Teets,137
 Harrison,33,Commissioner of Agriculture,,REP,James Michael Teets,260
 Harrison,34,Commissioner of Agriculture,,REP,James Michael Teets,313
-Harrison,36,Commissioner of Agriculture,,REP,James Michael Teets,242
+Harrison,36A,Commissioner of Agriculture,,REP,James Michael Teets,242
 Harrison,37,Commissioner of Agriculture,,REP,James Michael Teets,157
 Harrison,38,Commissioner of Agriculture,,REP,James Michael Teets,114
 Harrison,4,Commissioner of Agriculture,,REP,James Michael Teets,286
@@ -343,12 +339,10 @@ Harrison,92,Commissioner of Agriculture,,REP,James Michael Teets,146
 Harrison,95,Commissioner of Agriculture,,REP,James Michael Teets,116
 Harrison,96,Commissioner of Agriculture,,REP,James Michael Teets,185
 Harrison,98,Commissioner of Agriculture,,REP,James Michael Teets,118
-Harrison,Total,Governor,,DEM,"Joe Manchin, III",22746
-Harrison,Total,Governor,,REP,Russell E. Weeks Jr,7514
 Harrison,1,Governor,,DEM,"Joe Manchin, III",643
 Harrison,10,Governor,,DEM,"Joe Manchin, III",232
 Harrison,102,Governor,,DEM,"Joe Manchin, III",237
-Harrison,102,Governor,,DEM,"Joe Manchin, III",384
+Harrison,102A,Governor,,DEM,"Joe Manchin, III",384
 Harrison,103,Governor,,DEM,"Joe Manchin, III",136
 Harrison,104,Governor,,DEM,"Joe Manchin, III",109
 Harrison,106,Governor,,DEM,"Joe Manchin, III",231
@@ -366,9 +360,9 @@ Harrison,125,Governor,,DEM,"Joe Manchin, III",569
 Harrison,126,Governor,,DEM,"Joe Manchin, III",333
 Harrison,128,Governor,,DEM,"Joe Manchin, III",499
 Harrison,129,Governor,,DEM,"Joe Manchin, III",455
-Harrison,129,Governor,,DEM,"Joe Manchin, III",415
-Harrison,129,Governor,,DEM,"Joe Manchin, III",592
-Harrison,129,Governor,,DEM,"Joe Manchin, III",305
+Harrison,129A,Governor,,DEM,"Joe Manchin, III",415
+Harrison,129B,Governor,,DEM,"Joe Manchin, III",592
+Harrison,129C,Governor,,DEM,"Joe Manchin, III",305
 Harrison,13,Governor,,DEM,"Joe Manchin, III",212
 Harrison,130,Governor,,DEM,"Joe Manchin, III",221
 Harrison,132,Governor,,DEM,"Joe Manchin, III",131
@@ -379,9 +373,9 @@ Harrison,136,Governor,,DEM,"Joe Manchin, III",117
 Harrison,137,Governor,,DEM,"Joe Manchin, III",98
 Harrison,14,Governor,,DEM,"Joe Manchin, III",392
 Harrison,143,Governor,,DEM,"Joe Manchin, III",273
-Harrison,143,Governor,,DEM,"Joe Manchin, III",296
+Harrison,143A,Governor,,DEM,"Joe Manchin, III",296
 Harrison,144,Governor,,DEM,"Joe Manchin, III",210
-Harrison,144,Governor,,DEM,"Joe Manchin, III",237
+Harrison,144A,Governor,,DEM,"Joe Manchin, III",237
 Harrison,145,Governor,,DEM,"Joe Manchin, III",211
 Harrison,16,Governor,,DEM,"Joe Manchin, III",333
 Harrison,19,Governor,,DEM,"Joe Manchin, III",230
@@ -392,7 +386,7 @@ Harrison,29,Governor,,DEM,"Joe Manchin, III",201
 Harrison,3,Governor,,DEM,"Joe Manchin, III",219
 Harrison,33,Governor,,DEM,"Joe Manchin, III",341
 Harrison,34,Governor,,DEM,"Joe Manchin, III",455
-Harrison,36,Governor,,DEM,"Joe Manchin, III",348
+Harrison,36A,Governor,,DEM,"Joe Manchin, III",348
 Harrison,37,Governor,,DEM,"Joe Manchin, III",277
 Harrison,38,Governor,,DEM,"Joe Manchin, III",153
 Harrison,4,Governor,,DEM,"Joe Manchin, III",525
@@ -433,7 +427,7 @@ Harrison,98,Governor,,DEM,"Joe Manchin, III",180
 Harrison,1,Governor,,REP,Russell E. Weeks Jr,272
 Harrison,10,Governor,,REP,Russell E. Weeks Jr,78
 Harrison,102,Governor,,REP,Russell E. Weeks Jr,99
-Harrison,102,Governor,,REP,Russell E. Weeks Jr,147
+Harrison,102A,Governor,,REP,Russell E. Weeks Jr,147
 Harrison,103,Governor,,REP,Russell E. Weeks Jr,69
 Harrison,104,Governor,,REP,Russell E. Weeks Jr,68
 Harrison,106,Governor,,REP,Russell E. Weeks Jr,71
@@ -451,9 +445,9 @@ Harrison,125,Governor,,REP,Russell E. Weeks Jr,200
 Harrison,126,Governor,,REP,Russell E. Weeks Jr,135
 Harrison,128,Governor,,REP,Russell E. Weeks Jr,176
 Harrison,129,Governor,,REP,Russell E. Weeks Jr,179
-Harrison,129,Governor,,REP,Russell E. Weeks Jr,152
-Harrison,129,Governor,,REP,Russell E. Weeks Jr,225
-Harrison,129,Governor,,REP,Russell E. Weeks Jr,130
+Harrison,129A,Governor,,REP,Russell E. Weeks Jr,152
+Harrison,129B,Governor,,REP,Russell E. Weeks Jr,225
+Harrison,129C,Governor,,REP,Russell E. Weeks Jr,130
 Harrison,13,Governor,,REP,Russell E. Weeks Jr,65
 Harrison,130,Governor,,REP,Russell E. Weeks Jr,108
 Harrison,132,Governor,,REP,Russell E. Weeks Jr,54
@@ -464,9 +458,9 @@ Harrison,136,Governor,,REP,Russell E. Weeks Jr,49
 Harrison,137,Governor,,REP,Russell E. Weeks Jr,38
 Harrison,14,Governor,,REP,Russell E. Weeks Jr,95
 Harrison,143,Governor,,REP,Russell E. Weeks Jr,132
-Harrison,143,Governor,,REP,Russell E. Weeks Jr,120
+Harrison,143A,Governor,,REP,Russell E. Weeks Jr,120
 Harrison,144,Governor,,REP,Russell E. Weeks Jr,70
-Harrison,144,Governor,,REP,Russell E. Weeks Jr,79
+Harrison,144A,Governor,,REP,Russell E. Weeks Jr,79
 Harrison,145,Governor,,REP,Russell E. Weeks Jr,98
 Harrison,16,Governor,,REP,Russell E. Weeks Jr,86
 Harrison,19,Governor,,REP,Russell E. Weeks Jr,71
@@ -477,7 +471,7 @@ Harrison,29,Governor,,REP,Russell E. Weeks Jr,83
 Harrison,3,Governor,,REP,Russell E. Weeks Jr,54
 Harrison,33,Governor,,REP,Russell E. Weeks Jr,112
 Harrison,34,Governor,,REP,Russell E. Weeks Jr,151
-Harrison,36,Governor,,REP,Russell E. Weeks Jr,98
+Harrison,36A,Governor,,REP,Russell E. Weeks Jr,98
 Harrison,37,Governor,,REP,Russell E. Weeks Jr,54
 Harrison,38,Governor,,REP,Russell E. Weeks Jr,53
 Harrison,4,Governor,,REP,Russell E. Weeks Jr,131
@@ -515,15 +509,10 @@ Harrison,92,Governor,,REP,Russell E. Weeks Jr,92
 Harrison,95,Governor,,REP,Russell E. Weeks Jr,69
 Harrison,96,Governor,,REP,Russell E. Weeks Jr,54
 Harrison,98,Governor,,REP,Russell E. Weeks Jr,72
-Harrison,Total,President,,DEM,Barack Hussein Obama,13582
-Harrison,Total,President,,CON,Charles Obadiah Baldwin,99
-Harrison,Total,President,,MTN,Cynthia Ann McKinney,85
-Harrison,Total,President,,REP,John Sidney McCain III,17824
-Harrison,Total,President,,,Ralph Nader,280
 Harrison,1,President,,DEM,Barack Hussein Obama,360
 Harrison,10,President,,DEM,Barack Hussein Obama,137
 Harrison,102,President,,DEM,Barack Hussein Obama,119
-Harrison,102,President,,DEM,Barack Hussein Obama,183
+Harrison,102A,President,,DEM,Barack Hussein Obama,183
 Harrison,103,President,,DEM,Barack Hussein Obama,58
 Harrison,104,President,,DEM,Barack Hussein Obama,61
 Harrison,106,President,,DEM,Barack Hussein Obama,141
@@ -541,9 +530,9 @@ Harrison,125,President,,DEM,Barack Hussein Obama,330
 Harrison,126,President,,DEM,Barack Hussein Obama,180
 Harrison,128,President,,DEM,Barack Hussein Obama,298
 Harrison,129,President,,DEM,Barack Hussein Obama,244
-Harrison,129,President,,DEM,Barack Hussein Obama,234
-Harrison,129,President,,DEM,Barack Hussein Obama,338
-Harrison,129,President,,DEM,Barack Hussein Obama,172
+Harrison,129A,President,,DEM,Barack Hussein Obama,234
+Harrison,129B,President,,DEM,Barack Hussein Obama,338
+Harrison,129C,President,,DEM,Barack Hussein Obama,172
 Harrison,13,President,,DEM,Barack Hussein Obama,147
 Harrison,130,President,,DEM,Barack Hussein Obama,106
 Harrison,132,President,,DEM,Barack Hussein Obama,86
@@ -554,9 +543,9 @@ Harrison,136,President,,DEM,Barack Hussein Obama,73
 Harrison,137,President,,DEM,Barack Hussein Obama,56
 Harrison,14,President,,DEM,Barack Hussein Obama,223
 Harrison,143,President,,DEM,Barack Hussein Obama,135
-Harrison,143,President,,DEM,Barack Hussein Obama,144
+Harrison,143A,President,,DEM,Barack Hussein Obama,144
 Harrison,144,President,,DEM,Barack Hussein Obama,116
-Harrison,144,President,,DEM,Barack Hussein Obama,110
+Harrison,144A,President,,DEM,Barack Hussein Obama,110
 Harrison,145,President,,DEM,Barack Hussein Obama,120
 Harrison,16,President,,DEM,Barack Hussein Obama,254
 Harrison,19,President,,DEM,Barack Hussein Obama,163
@@ -567,7 +556,7 @@ Harrison,29,President,,DEM,Barack Hussein Obama,166
 Harrison,3,President,,DEM,Barack Hussein Obama,130
 Harrison,33,President,,DEM,Barack Hussein Obama,225
 Harrison,34,President,,DEM,Barack Hussein Obama,282
-Harrison,36,President,,DEM,Barack Hussein Obama,243
+Harrison,36A,President,,DEM,Barack Hussein Obama,243
 Harrison,37,President,,DEM,Barack Hussein Obama,198
 Harrison,38,President,,DEM,Barack Hussein Obama,95
 Harrison,4,President,,DEM,Barack Hussein Obama,322
@@ -608,7 +597,7 @@ Harrison,98,President,,DEM,Barack Hussein Obama,116
 Harrison,1,President,,CON,Charles Obadiah Baldwin,4
 Harrison,10,President,,CON,Charles Obadiah Baldwin,0
 Harrison,102,President,,CON,Charles Obadiah Baldwin,0
-Harrison,102,President,,CON,Charles Obadiah Baldwin,0
+Harrison,102A,President,,CON,Charles Obadiah Baldwin,0
 Harrison,103,President,,CON,Charles Obadiah Baldwin,0
 Harrison,104,President,,CON,Charles Obadiah Baldwin,1
 Harrison,106,President,,CON,Charles Obadiah Baldwin,0
@@ -626,9 +615,9 @@ Harrison,125,President,,CON,Charles Obadiah Baldwin,4
 Harrison,126,President,,CON,Charles Obadiah Baldwin,0
 Harrison,128,President,,CON,Charles Obadiah Baldwin,4
 Harrison,129,President,,CON,Charles Obadiah Baldwin,3
-Harrison,129,President,,CON,Charles Obadiah Baldwin,3
-Harrison,129,President,,CON,Charles Obadiah Baldwin,1
-Harrison,129,President,,CON,Charles Obadiah Baldwin,2
+Harrison,129A,President,,CON,Charles Obadiah Baldwin,3
+Harrison,129B,President,,CON,Charles Obadiah Baldwin,1
+Harrison,129C,President,,CON,Charles Obadiah Baldwin,2
 Harrison,13,President,,CON,Charles Obadiah Baldwin,0
 Harrison,130,President,,CON,Charles Obadiah Baldwin,1
 Harrison,132,President,,CON,Charles Obadiah Baldwin,0
@@ -639,9 +628,9 @@ Harrison,136,President,,CON,Charles Obadiah Baldwin,0
 Harrison,137,President,,CON,Charles Obadiah Baldwin,1
 Harrison,14,President,,CON,Charles Obadiah Baldwin,0
 Harrison,143,President,,CON,Charles Obadiah Baldwin,0
-Harrison,143,President,,CON,Charles Obadiah Baldwin,1
+Harrison,143A,President,,CON,Charles Obadiah Baldwin,1
 Harrison,144,President,,CON,Charles Obadiah Baldwin,2
-Harrison,144,President,,CON,Charles Obadiah Baldwin,1
+Harrison,144A,President,,CON,Charles Obadiah Baldwin,1
 Harrison,145,President,,CON,Charles Obadiah Baldwin,1
 Harrison,16,President,,CON,Charles Obadiah Baldwin,3
 Harrison,19,President,,CON,Charles Obadiah Baldwin,6
@@ -652,7 +641,7 @@ Harrison,29,President,,CON,Charles Obadiah Baldwin,2
 Harrison,3,President,,CON,Charles Obadiah Baldwin,0
 Harrison,33,President,,CON,Charles Obadiah Baldwin,0
 Harrison,34,President,,CON,Charles Obadiah Baldwin,0
-Harrison,36,President,,CON,Charles Obadiah Baldwin,0
+Harrison,36A,President,,CON,Charles Obadiah Baldwin,0
 Harrison,37,President,,CON,Charles Obadiah Baldwin,1
 Harrison,38,President,,CON,Charles Obadiah Baldwin,0
 Harrison,4,President,,CON,Charles Obadiah Baldwin,2
@@ -693,7 +682,7 @@ Harrison,98,President,,CON,Charles Obadiah Baldwin,0
 Harrison,1,President,,MTN,Cynthia Ann McKinney,1
 Harrison,10,President,,MTN,Cynthia Ann McKinney,0
 Harrison,102,President,,MTN,Cynthia Ann McKinney,2
-Harrison,102,President,,MTN,Cynthia Ann McKinney,0
+Harrison,102A,President,,MTN,Cynthia Ann McKinney,0
 Harrison,103,President,,MTN,Cynthia Ann McKinney,0
 Harrison,104,President,,MTN,Cynthia Ann McKinney,1
 Harrison,106,President,,MTN,Cynthia Ann McKinney,5
@@ -711,9 +700,9 @@ Harrison,125,President,,MTN,Cynthia Ann McKinney,0
 Harrison,126,President,,MTN,Cynthia Ann McKinney,0
 Harrison,128,President,,MTN,Cynthia Ann McKinney,1
 Harrison,129,President,,MTN,Cynthia Ann McKinney,2
-Harrison,129,President,,MTN,Cynthia Ann McKinney,0
-Harrison,129,President,,MTN,Cynthia Ann McKinney,0
-Harrison,129,President,,MTN,Cynthia Ann McKinney,0
+Harrison,129A,President,,MTN,Cynthia Ann McKinney,0
+Harrison,129B,President,,MTN,Cynthia Ann McKinney,0
+Harrison,129C,President,,MTN,Cynthia Ann McKinney,0
 Harrison,13,President,,MTN,Cynthia Ann McKinney,2
 Harrison,130,President,,MTN,Cynthia Ann McKinney,2
 Harrison,132,President,,MTN,Cynthia Ann McKinney,0
@@ -724,9 +713,9 @@ Harrison,136,President,,MTN,Cynthia Ann McKinney,0
 Harrison,137,President,,MTN,Cynthia Ann McKinney,0
 Harrison,14,President,,MTN,Cynthia Ann McKinney,2
 Harrison,143,President,,MTN,Cynthia Ann McKinney,1
-Harrison,143,President,,MTN,Cynthia Ann McKinney,1
+Harrison,143A,President,,MTN,Cynthia Ann McKinney,1
 Harrison,144,President,,MTN,Cynthia Ann McKinney,1
-Harrison,144,President,,MTN,Cynthia Ann McKinney,2
+Harrison,144A,President,,MTN,Cynthia Ann McKinney,2
 Harrison,145,President,,MTN,Cynthia Ann McKinney,4
 Harrison,16,President,,MTN,Cynthia Ann McKinney,0
 Harrison,19,President,,MTN,Cynthia Ann McKinney,0
@@ -737,7 +726,7 @@ Harrison,29,President,,MTN,Cynthia Ann McKinney,2
 Harrison,3,President,,MTN,Cynthia Ann McKinney,0
 Harrison,33,President,,MTN,Cynthia Ann McKinney,0
 Harrison,34,President,,MTN,Cynthia Ann McKinney,1
-Harrison,36,President,,MTN,Cynthia Ann McKinney,1
+Harrison,36A,President,,MTN,Cynthia Ann McKinney,1
 Harrison,37,President,,MTN,Cynthia Ann McKinney,2
 Harrison,38,President,,MTN,Cynthia Ann McKinney,0
 Harrison,4,President,,MTN,Cynthia Ann McKinney,5
@@ -778,7 +767,7 @@ Harrison,98,President,,MTN,Cynthia Ann McKinney,1
 Harrison,1,President,,REP,John Sidney McCain III,589
 Harrison,10,President,,REP,John Sidney McCain III,179
 Harrison,102,President,,REP,John Sidney McCain III,232
-Harrison,102,President,,REP,John Sidney McCain III,359
+Harrison,102A,President,,REP,John Sidney McCain III,359
 Harrison,103,President,,REP,John Sidney McCain III,159
 Harrison,104,President,,REP,John Sidney McCain III,131
 Harrison,106,President,,REP,John Sidney McCain III,155
@@ -796,9 +785,9 @@ Harrison,125,President,,REP,John Sidney McCain III,483
 Harrison,126,President,,REP,John Sidney McCain III,315
 Harrison,128,President,,REP,John Sidney McCain III,408
 Harrison,129,President,,REP,John Sidney McCain III,423
-Harrison,129,President,,REP,John Sidney McCain III,357
-Harrison,129,President,,REP,John Sidney McCain III,526
-Harrison,129,President,,REP,John Sidney McCain III,287
+Harrison,129A,President,,REP,John Sidney McCain III,357
+Harrison,129B,President,,REP,John Sidney McCain III,526
+Harrison,129C,President,,REP,John Sidney McCain III,287
 Harrison,13,President,,REP,John Sidney McCain III,148
 Harrison,130,President,,REP,John Sidney McCain III,221
 Harrison,132,President,,REP,John Sidney McCain III,103
@@ -809,9 +798,9 @@ Harrison,136,President,,REP,John Sidney McCain III,102
 Harrison,137,President,,REP,John Sidney McCain III,87
 Harrison,14,President,,REP,John Sidney McCain III,302
 Harrison,143,President,,REP,John Sidney McCain III,290
-Harrison,143,President,,REP,John Sidney McCain III,297
+Harrison,143A,President,,REP,John Sidney McCain III,297
 Harrison,144,President,,REP,John Sidney McCain III,172
-Harrison,144,President,,REP,John Sidney McCain III,217
+Harrison,144A,President,,REP,John Sidney McCain III,217
 Harrison,145,President,,REP,John Sidney McCain III,188
 Harrison,16,President,,REP,John Sidney McCain III,181
 Harrison,19,President,,REP,John Sidney McCain III,164
@@ -822,7 +811,7 @@ Harrison,29,President,,REP,John Sidney McCain III,119
 Harrison,3,President,,REP,John Sidney McCain III,161
 Harrison,33,President,,REP,John Sidney McCain III,251
 Harrison,34,President,,REP,John Sidney McCain III,338
-Harrison,36,President,,REP,John Sidney McCain III,245
+Harrison,36A,President,,REP,John Sidney McCain III,245
 Harrison,37,President,,REP,John Sidney McCain III,157
 Harrison,38,President,,REP,John Sidney McCain III,118
 Harrison,4,President,,REP,John Sidney McCain III,343
@@ -863,7 +852,7 @@ Harrison,98,President,,REP,John Sidney McCain III,142
 Harrison,1,President,,,Ralph Nader,6
 Harrison,10,President,,,Ralph Nader,1
 Harrison,102,President,,,Ralph Nader,1
-Harrison,102,President,,,Ralph Nader,4
+Harrison,102A,President,,,Ralph Nader,4
 Harrison,103,President,,,Ralph Nader,4
 Harrison,104,President,,,Ralph Nader,2
 Harrison,106,President,,,Ralph Nader,5
@@ -881,9 +870,9 @@ Harrison,125,President,,,Ralph Nader,1
 Harrison,126,President,,,Ralph Nader,3
 Harrison,128,President,,,Ralph Nader,5
 Harrison,129,President,,,Ralph Nader,4
-Harrison,129,President,,,Ralph Nader,5
-Harrison,129,President,,,Ralph Nader,2
-Harrison,129,President,,,Ralph Nader,2
+Harrison,129A,President,,,Ralph Nader,5
+Harrison,129B,President,,,Ralph Nader,2
+Harrison,129C,President,,,Ralph Nader,2
 Harrison,13,President,,,Ralph Nader,3
 Harrison,130,President,,,Ralph Nader,1
 Harrison,132,President,,,Ralph Nader,3
@@ -894,9 +883,9 @@ Harrison,136,President,,,Ralph Nader,0
 Harrison,137,President,,,Ralph Nader,3
 Harrison,14,President,,,Ralph Nader,2
 Harrison,143,President,,,Ralph Nader,2
-Harrison,143,President,,,Ralph Nader,4
+Harrison,143A,President,,,Ralph Nader,4
 Harrison,144,President,,,Ralph Nader,1
-Harrison,144,President,,,Ralph Nader,4
+Harrison,144A,President,,,Ralph Nader,4
 Harrison,145,President,,,Ralph Nader,4
 Harrison,16,President,,,Ralph Nader,6
 Harrison,19,President,,,Ralph Nader,0
@@ -907,7 +896,7 @@ Harrison,29,President,,,Ralph Nader,7
 Harrison,3,President,,,Ralph Nader,1
 Harrison,33,President,,,Ralph Nader,6
 Harrison,34,President,,,Ralph Nader,3
-Harrison,36,President,,,Ralph Nader,0
+Harrison,36A,President,,,Ralph Nader,0
 Harrison,37,President,,,Ralph Nader,2
 Harrison,38,President,,,Ralph Nader,3
 Harrison,4,President,,,Ralph Nader,8
@@ -945,12 +934,10 @@ Harrison,92,President,,,Ralph Nader,2
 Harrison,95,President,,,Ralph Nader,5
 Harrison,96,President,,,Ralph Nader,8
 Harrison,98,President,,,Ralph Nader,3
-Harrison,Total,Secretary of State,,REP,Charles Theophilus Minimah,8408
-Harrison,Total,Secretary of State,,DEM,Natalie Tennant,22438
 Harrison,1,Secretary of State,,REP,Charles Theophilus Minimah,294
 Harrison,10,Secretary of State,,REP,Charles Theophilus Minimah,93
 Harrison,102,Secretary of State,,REP,Charles Theophilus Minimah,89
-Harrison,102,Secretary of State,,REP,Charles Theophilus Minimah,139
+Harrison,102A,Secretary of State,,REP,Charles Theophilus Minimah,139
 Harrison,103,Secretary of State,,REP,Charles Theophilus Minimah,80
 Harrison,104,Secretary of State,,REP,Charles Theophilus Minimah,70
 Harrison,106,Secretary of State,,REP,Charles Theophilus Minimah,76
@@ -968,9 +955,9 @@ Harrison,125,Secretary of State,,REP,Charles Theophilus Minimah,219
 Harrison,126,Secretary of State,,REP,Charles Theophilus Minimah,160
 Harrison,128,Secretary of State,,REP,Charles Theophilus Minimah,211
 Harrison,129,Secretary of State,,REP,Charles Theophilus Minimah,209
-Harrison,129,Secretary of State,,REP,Charles Theophilus Minimah,169
-Harrison,129,Secretary of State,,REP,Charles Theophilus Minimah,281
-Harrison,129,Secretary of State,,REP,Charles Theophilus Minimah,157
+Harrison,129A,Secretary of State,,REP,Charles Theophilus Minimah,169
+Harrison,129B,Secretary of State,,REP,Charles Theophilus Minimah,281
+Harrison,129C,Secretary of State,,REP,Charles Theophilus Minimah,157
 Harrison,13,Secretary of State,,REP,Charles Theophilus Minimah,74
 Harrison,130,Secretary of State,,REP,Charles Theophilus Minimah,131
 Harrison,132,Secretary of State,,REP,Charles Theophilus Minimah,50
@@ -981,9 +968,9 @@ Harrison,136,Secretary of State,,REP,Charles Theophilus Minimah,52
 Harrison,137,Secretary of State,,REP,Charles Theophilus Minimah,43
 Harrison,14,Secretary of State,,REP,Charles Theophilus Minimah,115
 Harrison,143,Secretary of State,,REP,Charles Theophilus Minimah,139
-Harrison,143,Secretary of State,,REP,Charles Theophilus Minimah,148
+Harrison,143A,Secretary of State,,REP,Charles Theophilus Minimah,148
 Harrison,144,Secretary of State,,REP,Charles Theophilus Minimah,86
-Harrison,144,Secretary of State,,REP,Charles Theophilus Minimah,99
+Harrison,144A,Secretary of State,,REP,Charles Theophilus Minimah,99
 Harrison,145,Secretary of State,,REP,Charles Theophilus Minimah,91
 Harrison,16,Secretary of State,,REP,Charles Theophilus Minimah,91
 Harrison,19,Secretary of State,,REP,Charles Theophilus Minimah,78
@@ -994,7 +981,7 @@ Harrison,29,Secretary of State,,REP,Charles Theophilus Minimah,77
 Harrison,3,Secretary of State,,REP,Charles Theophilus Minimah,54
 Harrison,33,Secretary of State,,REP,Charles Theophilus Minimah,129
 Harrison,34,Secretary of State,,REP,Charles Theophilus Minimah,159
-Harrison,36,Secretary of State,,REP,Charles Theophilus Minimah,107
+Harrison,36A,Secretary of State,,REP,Charles Theophilus Minimah,107
 Harrison,37,Secretary of State,,REP,Charles Theophilus Minimah,63
 Harrison,38,Secretary of State,,REP,Charles Theophilus Minimah,53
 Harrison,4,Secretary of State,,REP,Charles Theophilus Minimah,161
@@ -1035,7 +1022,7 @@ Harrison,98,Secretary of State,,REP,Charles Theophilus Minimah,67
 Harrison,1,Secretary of State,,DEM,Natalie Tennant,625
 Harrison,10,Secretary of State,,DEM,Natalie Tennant,223
 Harrison,102,Secretary of State,,DEM,Natalie Tennant,259
-Harrison,102,Secretary of State,,DEM,Natalie Tennant,384
+Harrison,102A,Secretary of State,,DEM,Natalie Tennant,384
 Harrison,103,Secretary of State,,DEM,Natalie Tennant,129
 Harrison,104,Secretary of State,,DEM,Natalie Tennant,119
 Harrison,106,Secretary of State,,DEM,Natalie Tennant,225
@@ -1053,9 +1040,9 @@ Harrison,125,Secretary of State,,DEM,Natalie Tennant,561
 Harrison,126,Secretary of State,,DEM,Natalie Tennant,310
 Harrison,128,Secretary of State,,DEM,Natalie Tennant,470
 Harrison,129,Secretary of State,,DEM,Natalie Tennant,432
-Harrison,129,Secretary of State,,DEM,Natalie Tennant,391
-Harrison,129,Secretary of State,,DEM,Natalie Tennant,548
-Harrison,129,Secretary of State,,DEM,Natalie Tennant,291
+Harrison,129A,Secretary of State,,DEM,Natalie Tennant,391
+Harrison,129B,Secretary of State,,DEM,Natalie Tennant,548
+Harrison,129C,Secretary of State,,DEM,Natalie Tennant,291
 Harrison,13,Secretary of State,,DEM,Natalie Tennant,216
 Harrison,130,Secretary of State,,DEM,Natalie Tennant,203
 Harrison,132,Secretary of State,,DEM,Natalie Tennant,137
@@ -1066,9 +1053,9 @@ Harrison,136,Secretary of State,,DEM,Natalie Tennant,118
 Harrison,137,Secretary of State,,DEM,Natalie Tennant,102
 Harrison,14,Secretary of State,,DEM,Natalie Tennant,397
 Harrison,143,Secretary of State,,DEM,Natalie Tennant,265
-Harrison,143,Secretary of State,,DEM,Natalie Tennant,273
+Harrison,143A,Secretary of State,,DEM,Natalie Tennant,273
 Harrison,144,Secretary of State,,DEM,Natalie Tennant,201
-Harrison,144,Secretary of State,,DEM,Natalie Tennant,229
+Harrison,144A,Secretary of State,,DEM,Natalie Tennant,229
 Harrison,145,Secretary of State,,DEM,Natalie Tennant,217
 Harrison,16,Secretary of State,,DEM,Natalie Tennant,332
 Harrison,19,Secretary of State,,DEM,Natalie Tennant,225
@@ -1079,7 +1066,7 @@ Harrison,29,Secretary of State,,DEM,Natalie Tennant,215
 Harrison,3,Secretary of State,,DEM,Natalie Tennant,232
 Harrison,33,Secretary of State,,DEM,Natalie Tennant,341
 Harrison,34,Secretary of State,,DEM,Natalie Tennant,440
-Harrison,36,Secretary of State,,DEM,Natalie Tennant,349
+Harrison,36A,Secretary of State,,DEM,Natalie Tennant,349
 Harrison,37,Secretary of State,,DEM,Natalie Tennant,281
 Harrison,38,Secretary of State,,DEM,Natalie Tennant,152
 Harrison,4,Secretary of State,,DEM,Natalie Tennant,497
@@ -1117,11 +1104,10 @@ Harrison,92,Secretary of State,,DEM,Natalie Tennant,189
 Harrison,95,Secretary of State,,DEM,Natalie Tennant,162
 Harrison,96,Secretary of State,,DEM,Natalie Tennant,316
 Harrison,98,Secretary of State,,DEM,Natalie Tennant,200
-Harrison,Total,State Auditor,,DEM,Glen B. Gainer III,24299
 Harrison,1,State Auditor,,DEM,Glen B. Gainer III,687
 Harrison,10,State Auditor,,DEM,Glen B. Gainer III,266
 Harrison,102,State Auditor,,DEM,Glen B. Gainer III,267
-Harrison,102,State Auditor,,DEM,Glen B. Gainer III,419
+Harrison,102A,State Auditor,,DEM,Glen B. Gainer III,419
 Harrison,103,State Auditor,,DEM,Glen B. Gainer III,162
 Harrison,104,State Auditor,,DEM,Glen B. Gainer III,140
 Harrison,106,State Auditor,,DEM,Glen B. Gainer III,251
@@ -1139,9 +1125,9 @@ Harrison,125,State Auditor,,DEM,Glen B. Gainer III,609
 Harrison,126,State Auditor,,DEM,Glen B. Gainer III,333
 Harrison,128,State Auditor,,DEM,Glen B. Gainer III,551
 Harrison,129,State Auditor,,DEM,Glen B. Gainer III,471
-Harrison,129,State Auditor,,DEM,Glen B. Gainer III,407
-Harrison,129,State Auditor,,DEM,Glen B. Gainer III,610
-Harrison,129,State Auditor,,DEM,Glen B. Gainer III,329
+Harrison,129A,State Auditor,,DEM,Glen B. Gainer III,407
+Harrison,129B,State Auditor,,DEM,Glen B. Gainer III,610
+Harrison,129C,State Auditor,,DEM,Glen B. Gainer III,329
 Harrison,13,State Auditor,,DEM,Glen B. Gainer III,210
 Harrison,130,State Auditor,,DEM,Glen B. Gainer III,232
 Harrison,132,State Auditor,,DEM,Glen B. Gainer III,160
@@ -1152,9 +1138,9 @@ Harrison,136,State Auditor,,DEM,Glen B. Gainer III,130
 Harrison,137,State Auditor,,DEM,Glen B. Gainer III,115
 Harrison,14,State Auditor,,DEM,Glen B. Gainer III,416
 Harrison,143,State Auditor,,DEM,Glen B. Gainer III,327
-Harrison,143,State Auditor,,DEM,Glen B. Gainer III,327
+Harrison,143A,State Auditor,,DEM,Glen B. Gainer III,327
 Harrison,144,State Auditor,,DEM,Glen B. Gainer III,214
-Harrison,144,State Auditor,,DEM,Glen B. Gainer III,267
+Harrison,144A,State Auditor,,DEM,Glen B. Gainer III,267
 Harrison,145,State Auditor,,DEM,Glen B. Gainer III,221
 Harrison,16,State Auditor,,DEM,Glen B. Gainer III,341
 Harrison,19,State Auditor,,DEM,Glen B. Gainer III,238
@@ -1165,7 +1151,7 @@ Harrison,29,State Auditor,,DEM,Glen B. Gainer III,236
 Harrison,3,State Auditor,,DEM,Glen B. Gainer III,237
 Harrison,33,State Auditor,,DEM,Glen B. Gainer III,368
 Harrison,34,State Auditor,,DEM,Glen B. Gainer III,459
-Harrison,36,State Auditor,,DEM,Glen B. Gainer III,363
+Harrison,36A,State Auditor,,DEM,Glen B. Gainer III,363
 Harrison,37,State Auditor,,DEM,Glen B. Gainer III,279
 Harrison,38,State Auditor,,DEM,Glen B. Gainer III,165
 Harrison,4,State Auditor,,DEM,Glen B. Gainer III,542
@@ -1203,15 +1189,10 @@ Harrison,92,State Auditor,,DEM,Glen B. Gainer III,210
 Harrison,95,State Auditor,,DEM,Glen B. Gainer III,170
 Harrison,96,State Auditor,,DEM,Glen B. Gainer III,334
 Harrison,98,State Auditor,,DEM,Glen B. Gainer III,225
-Harrison,Total,State House,,REP,Daniel C. Hamrick,14674
-Harrison,Total,State House,,DEM,Richard J. Iaquinta,17419
-Harrison,Total,State House,,DEM,Ron Fragale,17990
-Harrison,Total,State House,,DEM,Samuel J. Cann,17779
-Harrison,Total,State House,,DEM,Timothy R. Miley,18198
 Harrison,1,State House,,REP,Daniel C. Hamrick,464
 Harrison,10,State House,,REP,Daniel C. Hamrick,153
 Harrison,102,State House,,REP,Daniel C. Hamrick,189
-Harrison,102,State House,,REP,Daniel C. Hamrick,312
+Harrison,102A,State House,,REP,Daniel C. Hamrick,312
 Harrison,103,State House,,REP,Daniel C. Hamrick,142
 Harrison,104,State House,,REP,Daniel C. Hamrick,96
 Harrison,106,State House,,REP,Daniel C. Hamrick,127
@@ -1229,9 +1210,9 @@ Harrison,125,State House,,REP,Daniel C. Hamrick,425
 Harrison,126,State House,,REP,Daniel C. Hamrick,235
 Harrison,128,State House,,REP,Daniel C. Hamrick,358
 Harrison,129,State House,,REP,Daniel C. Hamrick,359
-Harrison,129,State House,,REP,Daniel C. Hamrick,293
-Harrison,129,State House,,REP,Daniel C. Hamrick,467
-Harrison,129,State House,,REP,Daniel C. Hamrick,251
+Harrison,129A,State House,,REP,Daniel C. Hamrick,293
+Harrison,129B,State House,,REP,Daniel C. Hamrick,467
+Harrison,129C,State House,,REP,Daniel C. Hamrick,251
 Harrison,13,State House,,REP,Daniel C. Hamrick,115
 Harrison,130,State House,,REP,Daniel C. Hamrick,185
 Harrison,132,State House,,REP,Daniel C. Hamrick,97
@@ -1242,9 +1223,9 @@ Harrison,136,State House,,REP,Daniel C. Hamrick,87
 Harrison,137,State House,,REP,Daniel C. Hamrick,74
 Harrison,14,State House,,REP,Daniel C. Hamrick,228
 Harrison,143,State House,,REP,Daniel C. Hamrick,235
-Harrison,143,State House,,REP,Daniel C. Hamrick,222
+Harrison,143A,State House,,REP,Daniel C. Hamrick,222
 Harrison,144,State House,,REP,Daniel C. Hamrick,132
-Harrison,144,State House,,REP,Daniel C. Hamrick,153
+Harrison,144A,State House,,REP,Daniel C. Hamrick,153
 Harrison,145,State House,,REP,Daniel C. Hamrick,174
 Harrison,16,State House,,REP,Daniel C. Hamrick,175
 Harrison,19,State House,,REP,Daniel C. Hamrick,114
@@ -1255,7 +1236,7 @@ Harrison,29,State House,,REP,Daniel C. Hamrick,119
 Harrison,3,State House,,REP,Daniel C. Hamrick,113
 Harrison,33,State House,,REP,Daniel C. Hamrick,230
 Harrison,34,State House,,REP,Daniel C. Hamrick,270
-Harrison,36,State House,,REP,Daniel C. Hamrick,185
+Harrison,36A,State House,,REP,Daniel C. Hamrick,185
 Harrison,37,State House,,REP,Daniel C. Hamrick,117
 Harrison,38,State House,,REP,Daniel C. Hamrick,93
 Harrison,4,State House,,REP,Daniel C. Hamrick,300
@@ -1296,7 +1277,7 @@ Harrison,98,State House,,REP,Daniel C. Hamrick,105
 Harrison,1,State House,,DEM,Richard J. Iaquinta,569
 Harrison,10,State House,,DEM,Richard J. Iaquinta,159
 Harrison,102,State House,,DEM,Richard J. Iaquinta,184
-Harrison,102,State House,,DEM,Richard J. Iaquinta,272
+Harrison,102A,State House,,DEM,Richard J. Iaquinta,272
 Harrison,103,State House,,DEM,Richard J. Iaquinta,103
 Harrison,104,State House,,DEM,Richard J. Iaquinta,87
 Harrison,106,State House,,DEM,Richard J. Iaquinta,158
@@ -1314,9 +1295,9 @@ Harrison,125,State House,,DEM,Richard J. Iaquinta,484
 Harrison,126,State House,,DEM,Richard J. Iaquinta,270
 Harrison,128,State House,,DEM,Richard J. Iaquinta,376
 Harrison,129,State House,,DEM,Richard J. Iaquinta,355
-Harrison,129,State House,,DEM,Richard J. Iaquinta,317
-Harrison,129,State House,,DEM,Richard J. Iaquinta,454
-Harrison,129,State House,,DEM,Richard J. Iaquinta,227
+Harrison,129A,State House,,DEM,Richard J. Iaquinta,317
+Harrison,129B,State House,,DEM,Richard J. Iaquinta,454
+Harrison,129C,State House,,DEM,Richard J. Iaquinta,227
 Harrison,13,State House,,DEM,Richard J. Iaquinta,181
 Harrison,130,State House,,DEM,Richard J. Iaquinta,149
 Harrison,132,State House,,DEM,Richard J. Iaquinta,105
@@ -1327,9 +1308,9 @@ Harrison,136,State House,,DEM,Richard J. Iaquinta,87
 Harrison,137,State House,,DEM,Richard J. Iaquinta,82
 Harrison,14,State House,,DEM,Richard J. Iaquinta,345
 Harrison,143,State House,,DEM,Richard J. Iaquinta,193
-Harrison,143,State House,,DEM,Richard J. Iaquinta,174
+Harrison,143A,State House,,DEM,Richard J. Iaquinta,174
 Harrison,144,State House,,DEM,Richard J. Iaquinta,135
-Harrison,144,State House,,DEM,Richard J. Iaquinta,162
+Harrison,144A,State House,,DEM,Richard J. Iaquinta,162
 Harrison,145,State House,,DEM,Richard J. Iaquinta,166
 Harrison,16,State House,,DEM,Richard J. Iaquinta,263
 Harrison,19,State House,,DEM,Richard J. Iaquinta,181
@@ -1340,7 +1321,7 @@ Harrison,29,State House,,DEM,Richard J. Iaquinta,182
 Harrison,3,State House,,DEM,Richard J. Iaquinta,173
 Harrison,33,State House,,DEM,Richard J. Iaquinta,294
 Harrison,34,State House,,DEM,Richard J. Iaquinta,381
-Harrison,36,State House,,DEM,Richard J. Iaquinta,258
+Harrison,36A,State House,,DEM,Richard J. Iaquinta,258
 Harrison,37,State House,,DEM,Richard J. Iaquinta,249
 Harrison,38,State House,,DEM,Richard J. Iaquinta,136
 Harrison,4,State House,,DEM,Richard J. Iaquinta,395
@@ -1381,7 +1362,7 @@ Harrison,98,State House,,DEM,Richard J. Iaquinta,123
 Harrison,1,State House,,DEM,Ron Fragale,492
 Harrison,10,State House,,DEM,Ron Fragale,179
 Harrison,102,State House,,DEM,Ron Fragale,179
-Harrison,102,State House,,DEM,Ron Fragale,306
+Harrison,102A,State House,,DEM,Ron Fragale,306
 Harrison,103,State House,,DEM,Ron Fragale,103
 Harrison,104,State House,,DEM,Ron Fragale,109
 Harrison,106,State House,,DEM,Ron Fragale,207
@@ -1399,9 +1380,9 @@ Harrison,125,State House,,DEM,Ron Fragale,427
 Harrison,126,State House,,DEM,Ron Fragale,235
 Harrison,128,State House,,DEM,Ron Fragale,351
 Harrison,129,State House,,DEM,Ron Fragale,287
-Harrison,129,State House,,DEM,Ron Fragale,292
-Harrison,129,State House,,DEM,Ron Fragale,404
-Harrison,129,State House,,DEM,Ron Fragale,203
+Harrison,129A,State House,,DEM,Ron Fragale,292
+Harrison,129B,State House,,DEM,Ron Fragale,404
+Harrison,129C,State House,,DEM,Ron Fragale,203
 Harrison,13,State House,,DEM,Ron Fragale,160
 Harrison,130,State House,,DEM,Ron Fragale,172
 Harrison,132,State House,,DEM,Ron Fragale,108
@@ -1412,9 +1393,9 @@ Harrison,136,State House,,DEM,Ron Fragale,86
 Harrison,137,State House,,DEM,Ron Fragale,95
 Harrison,14,State House,,DEM,Ron Fragale,283
 Harrison,143,State House,,DEM,Ron Fragale,262
-Harrison,143,State House,,DEM,Ron Fragale,224
+Harrison,143A,State House,,DEM,Ron Fragale,224
 Harrison,144,State House,,DEM,Ron Fragale,173
-Harrison,144,State House,,DEM,Ron Fragale,222
+Harrison,144A,State House,,DEM,Ron Fragale,222
 Harrison,145,State House,,DEM,Ron Fragale,184
 Harrison,16,State House,,DEM,Ron Fragale,265
 Harrison,19,State House,,DEM,Ron Fragale,177
@@ -1425,7 +1406,7 @@ Harrison,29,State House,,DEM,Ron Fragale,171
 Harrison,3,State House,,DEM,Ron Fragale,185
 Harrison,33,State House,,DEM,Ron Fragale,264
 Harrison,34,State House,,DEM,Ron Fragale,342
-Harrison,36,State House,,DEM,Ron Fragale,253
+Harrison,36A,State House,,DEM,Ron Fragale,253
 Harrison,37,State House,,DEM,Ron Fragale,227
 Harrison,38,State House,,DEM,Ron Fragale,118
 Harrison,4,State House,,DEM,Ron Fragale,413
@@ -1466,7 +1447,7 @@ Harrison,98,State House,,DEM,Ron Fragale,159
 Harrison,1,State House,,DEM,Samuel J. Cann,534
 Harrison,10,State House,,DEM,Samuel J. Cann,176
 Harrison,102,State House,,DEM,Samuel J. Cann,191
-Harrison,102,State House,,DEM,Samuel J. Cann,295
+Harrison,102A,State House,,DEM,Samuel J. Cann,295
 Harrison,103,State House,,DEM,Samuel J. Cann,113
 Harrison,104,State House,,DEM,Samuel J. Cann,97
 Harrison,106,State House,,DEM,Samuel J. Cann,175
@@ -1484,9 +1465,9 @@ Harrison,125,State House,,DEM,Samuel J. Cann,490
 Harrison,126,State House,,DEM,Samuel J. Cann,293
 Harrison,128,State House,,DEM,Samuel J. Cann,434
 Harrison,129,State House,,DEM,Samuel J. Cann,385
-Harrison,129,State House,,DEM,Samuel J. Cann,344
-Harrison,129,State House,,DEM,Samuel J. Cann,488
-Harrison,129,State House,,DEM,Samuel J. Cann,244
+Harrison,129A,State House,,DEM,Samuel J. Cann,344
+Harrison,129B,State House,,DEM,Samuel J. Cann,488
+Harrison,129C,State House,,DEM,Samuel J. Cann,244
 Harrison,13,State House,,DEM,Samuel J. Cann,164
 Harrison,130,State House,,DEM,Samuel J. Cann,163
 Harrison,132,State House,,DEM,Samuel J. Cann,115
@@ -1497,9 +1478,9 @@ Harrison,136,State House,,DEM,Samuel J. Cann,85
 Harrison,137,State House,,DEM,Samuel J. Cann,89
 Harrison,14,State House,,DEM,Samuel J. Cann,276
 Harrison,143,State House,,DEM,Samuel J. Cann,228
-Harrison,143,State House,,DEM,Samuel J. Cann,214
+Harrison,143A,State House,,DEM,Samuel J. Cann,214
 Harrison,144,State House,,DEM,Samuel J. Cann,166
-Harrison,144,State House,,DEM,Samuel J. Cann,194
+Harrison,144A,State House,,DEM,Samuel J. Cann,194
 Harrison,145,State House,,DEM,Samuel J. Cann,152
 Harrison,16,State House,,DEM,Samuel J. Cann,230
 Harrison,19,State House,,DEM,Samuel J. Cann,161
@@ -1510,7 +1491,7 @@ Harrison,29,State House,,DEM,Samuel J. Cann,166
 Harrison,3,State House,,DEM,Samuel J. Cann,161
 Harrison,33,State House,,DEM,Samuel J. Cann,268
 Harrison,34,State House,,DEM,Samuel J. Cann,339
-Harrison,36,State House,,DEM,Samuel J. Cann,259
+Harrison,36A,State House,,DEM,Samuel J. Cann,259
 Harrison,37,State House,,DEM,Samuel J. Cann,205
 Harrison,38,State House,,DEM,Samuel J. Cann,110
 Harrison,4,State House,,DEM,Samuel J. Cann,419
@@ -1551,7 +1532,7 @@ Harrison,98,State House,,DEM,Samuel J. Cann,158
 Harrison,1,State House,,DEM,Timothy R. Miley,504
 Harrison,10,State House,,DEM,Timothy R. Miley,186
 Harrison,102,State House,,DEM,Timothy R. Miley,206
-Harrison,102,State House,,DEM,Timothy R. Miley,307
+Harrison,102A,State House,,DEM,Timothy R. Miley,307
 Harrison,103,State House,,DEM,Timothy R. Miley,107
 Harrison,104,State House,,DEM,Timothy R. Miley,115
 Harrison,106,State House,,DEM,Timothy R. Miley,189
@@ -1569,9 +1550,9 @@ Harrison,125,State House,,DEM,Timothy R. Miley,477
 Harrison,126,State House,,DEM,Timothy R. Miley,262
 Harrison,128,State House,,DEM,Timothy R. Miley,408
 Harrison,129,State House,,DEM,Timothy R. Miley,391
-Harrison,129,State House,,DEM,Timothy R. Miley,310
-Harrison,129,State House,,DEM,Timothy R. Miley,437
-Harrison,129,State House,,DEM,Timothy R. Miley,254
+Harrison,129A,State House,,DEM,Timothy R. Miley,310
+Harrison,129B,State House,,DEM,Timothy R. Miley,437
+Harrison,129C,State House,,DEM,Timothy R. Miley,254
 Harrison,13,State House,,DEM,Timothy R. Miley,149
 Harrison,130,State House,,DEM,Timothy R. Miley,167
 Harrison,132,State House,,DEM,Timothy R. Miley,110
@@ -1582,9 +1563,9 @@ Harrison,136,State House,,DEM,Timothy R. Miley,92
 Harrison,137,State House,,DEM,Timothy R. Miley,87
 Harrison,14,State House,,DEM,Timothy R. Miley,289
 Harrison,143,State House,,DEM,Timothy R. Miley,239
-Harrison,143,State House,,DEM,Timothy R. Miley,225
+Harrison,143A,State House,,DEM,Timothy R. Miley,225
 Harrison,144,State House,,DEM,Timothy R. Miley,160
-Harrison,144,State House,,DEM,Timothy R. Miley,171
+Harrison,144A,State House,,DEM,Timothy R. Miley,171
 Harrison,145,State House,,DEM,Timothy R. Miley,174
 Harrison,16,State House,,DEM,Timothy R. Miley,244
 Harrison,19,State House,,DEM,Timothy R. Miley,176
@@ -1595,7 +1576,7 @@ Harrison,29,State House,,DEM,Timothy R. Miley,176
 Harrison,3,State House,,DEM,Timothy R. Miley,182
 Harrison,33,State House,,DEM,Timothy R. Miley,277
 Harrison,34,State House,,DEM,Timothy R. Miley,340
-Harrison,36,State House,,DEM,Timothy R. Miley,262
+Harrison,36A,State House,,DEM,Timothy R. Miley,262
 Harrison,37,State House,,DEM,Timothy R. Miley,213
 Harrison,38,State House,,DEM,Timothy R. Miley,129
 Harrison,4,State House,,DEM,Timothy R. Miley,433
@@ -1633,11 +1614,10 @@ Harrison,92,State House,,DEM,Timothy R. Miley,145
 Harrison,95,State House,,DEM,Timothy R. Miley,129
 Harrison,96,State House,,DEM,Timothy R. Miley,261
 Harrison,98,State House,,DEM,Timothy R. Miley,156
-Harrison,Total,State Senate,,DEM,Douglas Eugene Facemire,23388
 Harrison,1,State Senate,,DEM,Douglas Eugene Facemire,638
 Harrison,10,State Senate,,DEM,Douglas Eugene Facemire,259
 Harrison,102,State Senate,,DEM,Douglas Eugene Facemire,264
-Harrison,102,State Senate,,DEM,Douglas Eugene Facemire,401
+Harrison,102A,State Senate,,DEM,Douglas Eugene Facemire,401
 Harrison,103,State Senate,,DEM,Douglas Eugene Facemire,153
 Harrison,104,State Senate,,DEM,Douglas Eugene Facemire,140
 Harrison,106,State Senate,,DEM,Douglas Eugene Facemire,244
@@ -1655,9 +1635,9 @@ Harrison,125,State Senate,,DEM,Douglas Eugene Facemire,563
 Harrison,126,State Senate,,DEM,Douglas Eugene Facemire,313
 Harrison,128,State Senate,,DEM,Douglas Eugene Facemire,506
 Harrison,129,State Senate,,DEM,Douglas Eugene Facemire,440
-Harrison,129,State Senate,,DEM,Douglas Eugene Facemire,385
-Harrison,129,State Senate,,DEM,Douglas Eugene Facemire,588
-Harrison,129,State Senate,,DEM,Douglas Eugene Facemire,311
+Harrison,129A,State Senate,,DEM,Douglas Eugene Facemire,385
+Harrison,129B,State Senate,,DEM,Douglas Eugene Facemire,588
+Harrison,129C,State Senate,,DEM,Douglas Eugene Facemire,311
 Harrison,13,State Senate,,DEM,Douglas Eugene Facemire,213
 Harrison,130,State Senate,,DEM,Douglas Eugene Facemire,216
 Harrison,132,State Senate,,DEM,Douglas Eugene Facemire,150
@@ -1668,9 +1648,9 @@ Harrison,136,State Senate,,DEM,Douglas Eugene Facemire,115
 Harrison,137,State Senate,,DEM,Douglas Eugene Facemire,112
 Harrison,14,State Senate,,DEM,Douglas Eugene Facemire,401
 Harrison,143,State Senate,,DEM,Douglas Eugene Facemire,308
-Harrison,143,State Senate,,DEM,Douglas Eugene Facemire,298
+Harrison,143A,State Senate,,DEM,Douglas Eugene Facemire,298
 Harrison,144,State Senate,,DEM,Douglas Eugene Facemire,205
-Harrison,144,State Senate,,DEM,Douglas Eugene Facemire,255
+Harrison,144A,State Senate,,DEM,Douglas Eugene Facemire,255
 Harrison,145,State Senate,,DEM,Douglas Eugene Facemire,220
 Harrison,16,State Senate,,DEM,Douglas Eugene Facemire,326
 Harrison,19,State Senate,,DEM,Douglas Eugene Facemire,233
@@ -1681,7 +1661,7 @@ Harrison,29,State Senate,,DEM,Douglas Eugene Facemire,231
 Harrison,3,State Senate,,DEM,Douglas Eugene Facemire,242
 Harrison,33,State Senate,,DEM,Douglas Eugene Facemire,346
 Harrison,34,State Senate,,DEM,Douglas Eugene Facemire,444
-Harrison,36,State Senate,,DEM,Douglas Eugene Facemire,356
+Harrison,36A,State Senate,,DEM,Douglas Eugene Facemire,356
 Harrison,37,State Senate,,DEM,Douglas Eugene Facemire,255
 Harrison,38,State Senate,,DEM,Douglas Eugene Facemire,150
 Harrison,4,State Senate,,DEM,Douglas Eugene Facemire,525
@@ -1719,11 +1699,10 @@ Harrison,92,State Senate,,DEM,Douglas Eugene Facemire,196
 Harrison,95,State Senate,,DEM,Douglas Eugene Facemire,172
 Harrison,96,State Senate,,DEM,Douglas Eugene Facemire,328
 Harrison,98,State Senate,,DEM,Douglas Eugene Facemire,219
-Harrison,Total,State Treasurer,,DEM,John D. Perdue,24009
 Harrison,1,State Treasurer,,DEM,John D. Perdue,679
 Harrison,10,State Treasurer,,DEM,John D. Perdue,255
 Harrison,102,State Treasurer,,DEM,John D. Perdue,261
-Harrison,102,State Treasurer,,DEM,John D. Perdue,411
+Harrison,102A,State Treasurer,,DEM,John D. Perdue,411
 Harrison,103,State Treasurer,,DEM,John D. Perdue,156
 Harrison,104,State Treasurer,,DEM,John D. Perdue,145
 Harrison,106,State Treasurer,,DEM,John D. Perdue,250
@@ -1741,9 +1720,9 @@ Harrison,125,State Treasurer,,DEM,John D. Perdue,584
 Harrison,126,State Treasurer,,DEM,John D. Perdue,326
 Harrison,128,State Treasurer,,DEM,John D. Perdue,538
 Harrison,129,State Treasurer,,DEM,John D. Perdue,465
-Harrison,129,State Treasurer,,DEM,John D. Perdue,409
-Harrison,129,State Treasurer,,DEM,John D. Perdue,607
-Harrison,129,State Treasurer,,DEM,John D. Perdue,318
+Harrison,129A,State Treasurer,,DEM,John D. Perdue,409
+Harrison,129B,State Treasurer,,DEM,John D. Perdue,607
+Harrison,129C,State Treasurer,,DEM,John D. Perdue,318
 Harrison,13,State Treasurer,,DEM,John D. Perdue,211
 Harrison,130,State Treasurer,,DEM,John D. Perdue,226
 Harrison,132,State Treasurer,,DEM,John D. Perdue,157
@@ -1754,9 +1733,9 @@ Harrison,136,State Treasurer,,DEM,John D. Perdue,126
 Harrison,137,State Treasurer,,DEM,John D. Perdue,118
 Harrison,14,State Treasurer,,DEM,John D. Perdue,400
 Harrison,143,State Treasurer,,DEM,John D. Perdue,328
-Harrison,143,State Treasurer,,DEM,John D. Perdue,315
+Harrison,143A,State Treasurer,,DEM,John D. Perdue,315
 Harrison,144,State Treasurer,,DEM,John D. Perdue,210
-Harrison,144,State Treasurer,,DEM,John D. Perdue,268
+Harrison,144A,State Treasurer,,DEM,John D. Perdue,268
 Harrison,145,State Treasurer,,DEM,John D. Perdue,223
 Harrison,16,State Treasurer,,DEM,John D. Perdue,339
 Harrison,19,State Treasurer,,DEM,John D. Perdue,238
@@ -1767,7 +1746,7 @@ Harrison,29,State Treasurer,,DEM,John D. Perdue,233
 Harrison,3,State Treasurer,,DEM,John D. Perdue,236
 Harrison,33,State Treasurer,,DEM,John D. Perdue,368
 Harrison,34,State Treasurer,,DEM,John D. Perdue,448
-Harrison,36,State Treasurer,,DEM,John D. Perdue,356
+Harrison,36A,State Treasurer,,DEM,John D. Perdue,356
 Harrison,37,State Treasurer,,DEM,John D. Perdue,279
 Harrison,38,State Treasurer,,DEM,John D. Perdue,162
 Harrison,4,State Treasurer,,DEM,John D. Perdue,534
@@ -1805,11 +1784,10 @@ Harrison,92,State Treasurer,,DEM,John D. Perdue,207
 Harrison,95,State Treasurer,,DEM,John D. Perdue,174
 Harrison,96,State Treasurer,,DEM,John D. Perdue,329
 Harrison,98,State Treasurer,,DEM,John D. Perdue,223
-Harrison,Total,U.S. House,1,DEM,Alan Bowlby Mollohan,24091
 Harrison,1,U.S. House,1,DEM,Alan Bowlby Mollohan,665
 Harrison,10,U.S. House,1,DEM,Alan Bowlby Mollohan,251
 Harrison,102,U.S. House,1,DEM,Alan Bowlby Mollohan,264
-Harrison,102,U.S. House,1,DEM,Alan Bowlby Mollohan,398
+Harrison,102A,U.S. House,1,DEM,Alan Bowlby Mollohan,398
 Harrison,103,U.S. House,1,DEM,Alan Bowlby Mollohan,146
 Harrison,104,U.S. House,1,DEM,Alan Bowlby Mollohan,129
 Harrison,106,U.S. House,1,DEM,Alan Bowlby Mollohan,253
@@ -1827,9 +1805,9 @@ Harrison,125,U.S. House,1,DEM,Alan Bowlby Mollohan,572
 Harrison,126,U.S. House,1,DEM,Alan Bowlby Mollohan,316
 Harrison,128,U.S. House,1,DEM,Alan Bowlby Mollohan,530
 Harrison,129,U.S. House,1,DEM,Alan Bowlby Mollohan,445
-Harrison,129,U.S. House,1,DEM,Alan Bowlby Mollohan,400
-Harrison,129,U.S. House,1,DEM,Alan Bowlby Mollohan,597
-Harrison,129,U.S. House,1,DEM,Alan Bowlby Mollohan,321
+Harrison,129A,U.S. House,1,DEM,Alan Bowlby Mollohan,400
+Harrison,129B,U.S. House,1,DEM,Alan Bowlby Mollohan,597
+Harrison,129C,U.S. House,1,DEM,Alan Bowlby Mollohan,321
 Harrison,13,U.S. House,1,DEM,Alan Bowlby Mollohan,212
 Harrison,130,U.S. House,1,DEM,Alan Bowlby Mollohan,242
 Harrison,132,U.S. House,1,DEM,Alan Bowlby Mollohan,151
@@ -1840,9 +1818,9 @@ Harrison,136,U.S. House,1,DEM,Alan Bowlby Mollohan,122
 Harrison,137,U.S. House,1,DEM,Alan Bowlby Mollohan,113
 Harrison,14,U.S. House,1,DEM,Alan Bowlby Mollohan,403
 Harrison,143,U.S. House,1,DEM,Alan Bowlby Mollohan,316
-Harrison,143,U.S. House,1,DEM,Alan Bowlby Mollohan,315
+Harrison,143A,U.S. House,1,DEM,Alan Bowlby Mollohan,315
 Harrison,144,U.S. House,1,DEM,Alan Bowlby Mollohan,214
-Harrison,144,U.S. House,1,DEM,Alan Bowlby Mollohan,267
+Harrison,144A,U.S. House,1,DEM,Alan Bowlby Mollohan,267
 Harrison,145,U.S. House,1,DEM,Alan Bowlby Mollohan,231
 Harrison,16,U.S. House,1,DEM,Alan Bowlby Mollohan,342
 Harrison,19,U.S. House,1,DEM,Alan Bowlby Mollohan,238
@@ -1853,7 +1831,7 @@ Harrison,29,U.S. House,1,DEM,Alan Bowlby Mollohan,243
 Harrison,3,U.S. House,1,DEM,Alan Bowlby Mollohan,234
 Harrison,33,U.S. House,1,DEM,Alan Bowlby Mollohan,364
 Harrison,34,U.S. House,1,DEM,Alan Bowlby Mollohan,456
-Harrison,36,U.S. House,1,DEM,Alan Bowlby Mollohan,358
+Harrison,36A,U.S. House,1,DEM,Alan Bowlby Mollohan,358
 Harrison,37,U.S. House,1,DEM,Alan Bowlby Mollohan,280
 Harrison,38,U.S. House,1,DEM,Alan Bowlby Mollohan,156
 Harrison,4,U.S. House,1,DEM,Alan Bowlby Mollohan,536
@@ -1891,12 +1869,10 @@ Harrison,92,U.S. House,1,DEM,Alan Bowlby Mollohan,205
 Harrison,95,U.S. House,1,DEM,Alan Bowlby Mollohan,186
 Harrison,96,U.S. House,1,DEM,Alan Bowlby Mollohan,343
 Harrison,98,U.S. House,1,DEM,Alan Bowlby Mollohan,227
-Harrison,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,18574
-Harrison,Total,U.S. Senate,,REP,Matthew Jay Wolfe,13153
 Harrison,1,U.S. Senate,,DEM,John Davison Rockefeller IV,502
 Harrison,10,U.S. Senate,,DEM,John Davison Rockefeller IV,183
 Harrison,102,U.S. Senate,,DEM,John Davison Rockefeller IV,183
-Harrison,102,U.S. Senate,,DEM,John Davison Rockefeller IV,295
+Harrison,102A,U.S. Senate,,DEM,John Davison Rockefeller IV,295
 Harrison,103,U.S. Senate,,DEM,John Davison Rockefeller IV,103
 Harrison,104,U.S. Senate,,DEM,John Davison Rockefeller IV,85
 Harrison,106,U.S. Senate,,DEM,John Davison Rockefeller IV,187
@@ -1914,9 +1890,9 @@ Harrison,125,U.S. Senate,,DEM,John Davison Rockefeller IV,462
 Harrison,126,U.S. Senate,,DEM,John Davison Rockefeller IV,284
 Harrison,128,U.S. Senate,,DEM,John Davison Rockefeller IV,399
 Harrison,129,U.S. Senate,,DEM,John Davison Rockefeller IV,374
-Harrison,129,U.S. Senate,,DEM,John Davison Rockefeller IV,349
-Harrison,129,U.S. Senate,,DEM,John Davison Rockefeller IV,480
-Harrison,129,U.S. Senate,,DEM,John Davison Rockefeller IV,243
+Harrison,129A,U.S. Senate,,DEM,John Davison Rockefeller IV,349
+Harrison,129B,U.S. Senate,,DEM,John Davison Rockefeller IV,480
+Harrison,129C,U.S. Senate,,DEM,John Davison Rockefeller IV,243
 Harrison,13,U.S. Senate,,DEM,John Davison Rockefeller IV,174
 Harrison,130,U.S. Senate,,DEM,John Davison Rockefeller IV,143
 Harrison,132,U.S. Senate,,DEM,John Davison Rockefeller IV,106
@@ -1927,9 +1903,9 @@ Harrison,136,U.S. Senate,,DEM,John Davison Rockefeller IV,89
 Harrison,137,U.S. Senate,,DEM,John Davison Rockefeller IV,72
 Harrison,14,U.S. Senate,,DEM,John Davison Rockefeller IV,322
 Harrison,143,U.S. Senate,,DEM,John Davison Rockefeller IV,214
-Harrison,143,U.S. Senate,,DEM,John Davison Rockefeller IV,225
+Harrison,143A,U.S. Senate,,DEM,John Davison Rockefeller IV,225
 Harrison,144,U.S. Senate,,DEM,John Davison Rockefeller IV,146
-Harrison,144,U.S. Senate,,DEM,John Davison Rockefeller IV,184
+Harrison,144A,U.S. Senate,,DEM,John Davison Rockefeller IV,184
 Harrison,145,U.S. Senate,,DEM,John Davison Rockefeller IV,164
 Harrison,16,U.S. Senate,,DEM,John Davison Rockefeller IV,293
 Harrison,19,U.S. Senate,,DEM,John Davison Rockefeller IV,207
@@ -1940,7 +1916,7 @@ Harrison,29,U.S. Senate,,DEM,John Davison Rockefeller IV,204
 Harrison,3,U.S. Senate,,DEM,John Davison Rockefeller IV,186
 Harrison,33,U.S. Senate,,DEM,John Davison Rockefeller IV,277
 Harrison,34,U.S. Senate,,DEM,John Davison Rockefeller IV,371
-Harrison,36,U.S. Senate,,DEM,John Davison Rockefeller IV,294
+Harrison,36A,U.S. Senate,,DEM,John Davison Rockefeller IV,294
 Harrison,37,U.S. Senate,,DEM,John Davison Rockefeller IV,252
 Harrison,38,U.S. Senate,,DEM,John Davison Rockefeller IV,128
 Harrison,4,U.S. Senate,,DEM,John Davison Rockefeller IV,427
@@ -1981,7 +1957,7 @@ Harrison,98,U.S. Senate,,DEM,John Davison Rockefeller IV,160
 Harrison,1,U.S. Senate,,REP,Matthew Jay Wolfe,450
 Harrison,10,U.S. Senate,,REP,Matthew Jay Wolfe,136
 Harrison,102,U.S. Senate,,REP,Matthew Jay Wolfe,171
-Harrison,102,U.S. Senate,,REP,Matthew Jay Wolfe,255
+Harrison,102A,U.S. Senate,,REP,Matthew Jay Wolfe,255
 Harrison,103,U.S. Senate,,REP,Matthew Jay Wolfe,119
 Harrison,104,U.S. Senate,,REP,Matthew Jay Wolfe,104
 Harrison,106,U.S. Senate,,REP,Matthew Jay Wolfe,123
@@ -1999,9 +1975,9 @@ Harrison,125,U.S. Senate,,REP,Matthew Jay Wolfe,347
 Harrison,126,U.S. Senate,,REP,Matthew Jay Wolfe,204
 Harrison,128,U.S. Senate,,REP,Matthew Jay Wolfe,301
 Harrison,129,U.S. Senate,,REP,Matthew Jay Wolfe,281
-Harrison,129,U.S. Senate,,REP,Matthew Jay Wolfe,233
-Harrison,129,U.S. Senate,,REP,Matthew Jay Wolfe,363
-Harrison,129,U.S. Senate,,REP,Matthew Jay Wolfe,217
+Harrison,129A,U.S. Senate,,REP,Matthew Jay Wolfe,233
+Harrison,129B,U.S. Senate,,REP,Matthew Jay Wolfe,363
+Harrison,129C,U.S. Senate,,REP,Matthew Jay Wolfe,217
 Harrison,13,U.S. Senate,,REP,Matthew Jay Wolfe,112
 Harrison,130,U.S. Senate,,REP,Matthew Jay Wolfe,192
 Harrison,132,U.S. Senate,,REP,Matthew Jay Wolfe,85
@@ -2012,9 +1988,9 @@ Harrison,136,U.S. Senate,,REP,Matthew Jay Wolfe,87
 Harrison,137,U.S. Senate,,REP,Matthew Jay Wolfe,76
 Harrison,14,U.S. Senate,,REP,Matthew Jay Wolfe,197
 Harrison,143,U.S. Senate,,REP,Matthew Jay Wolfe,215
-Harrison,143,U.S. Senate,,REP,Matthew Jay Wolfe,224
+Harrison,143A,U.S. Senate,,REP,Matthew Jay Wolfe,224
 Harrison,144,U.S. Senate,,REP,Matthew Jay Wolfe,146
-Harrison,144,U.S. Senate,,REP,Matthew Jay Wolfe,147
+Harrison,144A,U.S. Senate,,REP,Matthew Jay Wolfe,147
 Harrison,145,U.S. Senate,,REP,Matthew Jay Wolfe,156
 Harrison,16,U.S. Senate,,REP,Matthew Jay Wolfe,139
 Harrison,19,U.S. Senate,,REP,Matthew Jay Wolfe,111
@@ -2025,7 +2001,7 @@ Harrison,29,U.S. Senate,,REP,Matthew Jay Wolfe,100
 Harrison,3,U.S. Senate,,REP,Matthew Jay Wolfe,104
 Harrison,33,U.S. Senate,,REP,Matthew Jay Wolfe,206
 Harrison,34,U.S. Senate,,REP,Matthew Jay Wolfe,239
-Harrison,36,U.S. Senate,,REP,Matthew Jay Wolfe,189
+Harrison,36A,U.S. Senate,,REP,Matthew Jay Wolfe,189
 Harrison,37,U.S. Senate,,REP,Matthew Jay Wolfe,101
 Harrison,38,U.S. Senate,,REP,Matthew Jay Wolfe,83
 Harrison,4,U.S. Senate,,REP,Matthew Jay Wolfe,254

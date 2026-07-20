@@ -47,7 +47,7 @@ def get_precinct_rows(sheet_rows):
     current_precinct = None
     for i, row in enumerate(sheet_rows):
         try:
-            test_match = re.match(r"PRECINCT: (\d+)", row[0].value)
+            test_match = re.match(r"PRECINCT: (\d+(?:-\d+|[A-Z]+)?)", row[0].value)
         except TypeError: # Skip over empty cells
             continue
         if test_match:

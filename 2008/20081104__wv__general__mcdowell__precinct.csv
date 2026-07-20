@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-McDowell,Total,Attorney General,,REP,Daniel W.Greear,1478
-McDowell,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",4594
 McDowell,1,Attorney General,,REP,Daniel W.Greear,16
 McDowell,100,Attorney General,,REP,Daniel W.Greear,37
 McDowell,102,Attorney General,,REP,Daniel W.Greear,47
@@ -87,8 +85,6 @@ McDowell,87,Attorney General,,DEM,"Darrell V. McGraw, Jr.",82
 McDowell,91,Attorney General,,DEM,"Darrell V. McGraw, Jr.",105
 McDowell,93,Attorney General,,DEM,"Darrell V. McGraw, Jr.",71
 McDowell,98,Attorney General,,DEM,"Darrell V. McGraw, Jr.",19
-McDowell,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,4274
-McDowell,Total,Commissioner of Agriculture,,REP,James Michael Teets,1322
 McDowell,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,94
 McDowell,100,Commissioner of Agriculture,,DEM,Gus R. Douglass,87
 McDowell,102,Commissioner of Agriculture,,DEM,Gus R. Douglass,63
@@ -175,8 +171,6 @@ McDowell,87,Commissioner of Agriculture,,REP,James Michael Teets,28
 McDowell,91,Commissioner of Agriculture,,REP,James Michael Teets,25
 McDowell,93,Commissioner of Agriculture,,REP,James Michael Teets,18
 McDowell,98,Commissioner of Agriculture,,REP,James Michael Teets,1
-McDowell,Total,Governor,,DEM,"Joe Manchin, III",5323
-McDowell,Total,Governor,,REP,Russell E. Weeks Jr,933
 McDowell,1,Governor,,DEM,"Joe Manchin, III",111
 McDowell,100,Governor,,DEM,"Joe Manchin, III",115
 McDowell,102,Governor,,DEM,"Joe Manchin, III",84
@@ -263,11 +257,6 @@ McDowell,87,Governor,,REP,Russell E. Weeks Jr,15
 McDowell,91,Governor,,REP,Russell E. Weeks Jr,16
 McDowell,93,Governor,,REP,Russell E. Weeks Jr,16
 McDowell,98,Governor,,REP,Russell E. Weeks Jr,2
-McDowell,Total,President,,DEM,Barack Hussein Obama,3430
-McDowell,Total,President,,CON,Charles Obadiah Baldwin,16
-McDowell,Total,President,,MTN,Cynthia Ann McKinney,31
-McDowell,Total,President,,REP,John Sidney McCain III,2882
-McDowell,Total,President,,,Ralph Nader,71
 McDowell,1,President,,DEM,Barack Hussein Obama,96
 McDowell,100,President,,DEM,Barack Hussein Obama,69
 McDowell,102,President,,DEM,Barack Hussein Obama,54
@@ -483,8 +472,6 @@ McDowell,87,President,,,Ralph Nader,3
 McDowell,91,President,,,Ralph Nader,0
 McDowell,93,President,,,Ralph Nader,5
 McDowell,98,President,,,Ralph Nader,0
-McDowell,Total,Secretary of State,,REP,Charles Theophilus Minimah,1341
-McDowell,Total,Secretary of State,,DEM,Natalie Tennant,4287
 McDowell,1,Secretary of State,,REP,Charles Theophilus Minimah,20
 McDowell,100,Secretary of State,,REP,Charles Theophilus Minimah,45
 McDowell,102,Secretary of State,,REP,Charles Theophilus Minimah,38
@@ -571,7 +558,6 @@ McDowell,87,Secretary of State,,DEM,Natalie Tennant,78
 McDowell,91,Secretary of State,,DEM,Natalie Tennant,94
 McDowell,93,Secretary of State,,DEM,Natalie Tennant,60
 McDowell,98,Secretary of State,,DEM,Natalie Tennant,18
-McDowell,Total,State Auditor,,DEM,Glen B. Gainer III,5014
 McDowell,1,State Auditor,,DEM,Glen B. Gainer III,105
 McDowell,100,State Auditor,,DEM,Glen B. Gainer III,109
 McDowell,102,State Auditor,,DEM,Glen B. Gainer III,88
@@ -615,10 +601,6 @@ McDowell,87,State Auditor,,DEM,Glen B. Gainer III,102
 McDowell,91,State Auditor,,DEM,Glen B. Gainer III,111
 McDowell,93,State Auditor,,DEM,Glen B. Gainer III,72
 McDowell,98,State Auditor,,DEM,Glen B. Gainer III,20
-McDowell,Total,State House,,DEM,Clifton Moore,3718
-McDowell,Total,State House,,DEM,Daniel Jackson Hall,479
-McDowell,Total,State House,,DEM,Harry Keith White,703
-McDowell,Total,State House,,DEM,Linda Lee Goode Phillips,551
 McDowell,1,State House,,DEM,Clifton Moore,112
 McDowell,100,State House,,DEM,Clifton Moore,114
 McDowell,102,State House,,DEM,Clifton Moore,0
@@ -791,8 +773,6 @@ McDowell,87,State House,,DEM,Linda Lee Goode Phillips,0
 McDowell,91,State House,,DEM,Linda Lee Goode Phillips,0
 McDowell,93,State House,,DEM,Linda Lee Goode Phillips,0
 McDowell,98,State House,,DEM,Linda Lee Goode Phillips,0
-McDowell,Total,State Senate,,DEM,John Pat Fanning,5158
-McDowell,Total,State Senate,,REP,Mark Russell Maynard,1080
 McDowell,1,State Senate,,DEM,John Pat Fanning,107
 McDowell,100,State Senate,,DEM,John Pat Fanning,114
 McDowell,102,State Senate,,DEM,John Pat Fanning,90
@@ -879,7 +859,6 @@ McDowell,87,State Senate,,REP,Mark Russell Maynard,22
 McDowell,91,State Senate,,REP,Mark Russell Maynard,30
 McDowell,93,State Senate,,REP,Mark Russell Maynard,10
 McDowell,98,State Senate,,REP,Mark Russell Maynard,1
-McDowell,Total,State Treasurer,,DEM,John D. Perdue,4965
 McDowell,1,State Treasurer,,DEM,John D. Perdue,107
 McDowell,100,State Treasurer,,DEM,John D. Perdue,109
 McDowell,102,State Treasurer,,DEM,John D. Perdue,84
@@ -923,8 +902,6 @@ McDowell,87,State Treasurer,,DEM,John D. Perdue,100
 McDowell,91,State Treasurer,,DEM,John D. Perdue,106
 McDowell,93,State Treasurer,,DEM,John D. Perdue,74
 McDowell,98,State Treasurer,,DEM,John D. Perdue,19
-McDowell,Total,U.S. House,3,REP,Gary Martin Gearheart,1263
-McDowell,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",5031
 McDowell,1,U.S. House,3,REP,Gary Martin Gearheart,21
 McDowell,100,U.S. House,3,REP,Gary Martin Gearheart,33
 McDowell,102,U.S. House,3,REP,Gary Martin Gearheart,40
@@ -1011,8 +988,6 @@ McDowell,87,U.S. House,3,DEM,"Nick Joe Rahall, II",91
 McDowell,91,U.S. House,3,DEM,"Nick Joe Rahall, II",119
 McDowell,93,U.S. House,3,DEM,"Nick Joe Rahall, II",78
 McDowell,98,U.S. House,3,DEM,"Nick Joe Rahall, II",19
-McDowell,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,5260
-McDowell,Total,U.S. Senate,,REP,Matthew Jay Wolfe,1113
 McDowell,1,U.S. Senate,,DEM,John Davison Rockefeller IV,111
 McDowell,100,U.S. Senate,,DEM,John Davison Rockefeller IV,113
 McDowell,102,U.S. Senate,,DEM,John Davison Rockefeller IV,83

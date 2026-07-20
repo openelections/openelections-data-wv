@@ -274,7 +274,6 @@ Kanawha,652,PRESIDENT,,Walter Mondale,DEM,94
 Kanawha,653,PRESIDENT,,Walter Mondale,DEM,104
 Kanawha,655,PRESIDENT,,Walter Mondale,DEM,76
 Kanawha,656,PRESIDENT,,Walter Mondale,DEM,116
-Kanawha,Total,PRESIDENT,,Walter Mondale,DEM,37832
 Kanawha,102,PRESIDENT,,Ronald Reagan,REP,43
 Kanawha,103,PRESIDENT,,Ronald Reagan,REP,69
 Kanawha,104,PRESIDENT,,Ronald Reagan,REP,58
@@ -550,7 +549,6 @@ Kanawha,652,PRESIDENT,,Ronald Reagan,REP,131
 Kanawha,653,PRESIDENT,,Ronald Reagan,REP,191
 Kanawha,655,PRESIDENT,,Ronald Reagan,REP,118
 Kanawha,656,PRESIDENT,,Ronald Reagan,REP,201
-Kanawha,Total,PRESIDENT,,Ronald Reagan,REP,51499
 Kanawha,102,PRESIDENT,,Melvin Mason,SOC,1
 Kanawha,103,PRESIDENT,,Melvin Mason,SOC,0
 Kanawha,104,PRESIDENT,,Melvin Mason,SOC,2
@@ -826,7 +824,6 @@ Kanawha,652,PRESIDENT,,Melvin Mason,SOC,0
 Kanawha,653,PRESIDENT,,Melvin Mason,SOC,0
 Kanawha,655,PRESIDENT,,Melvin Mason,SOC,0
 Kanawha,656,PRESIDENT,,Melvin Mason,SOC,1
-Kanawha,Total,PRESIDENT,,Melvin Mason,SOC,84
 Kanawha,102,PRESIDENT,,Dennis Serrette,NEW,0
 Kanawha,103,PRESIDENT,,Dennis Serrette,NEW,1
 Kanawha,104,PRESIDENT,,Dennis Serrette,NEW,0
@@ -1102,7 +1099,6 @@ Kanawha,652,PRESIDENT,,Dennis Serrette,NEW,0
 Kanawha,653,PRESIDENT,,Dennis Serrette,NEW,0
 Kanawha,655,PRESIDENT,,Dennis Serrette,NEW,0
 Kanawha,656,PRESIDENT,,Dennis Serrette,NEW,0
-Kanawha,Total,PRESIDENT,,Dennis Serrette,NEW,53
 Kanawha,102,PRESIDENT,,Bob RichardsPOP,,0
 Kanawha,103,PRESIDENT,,Bob RichardsPOP,,0
 Kanawha,104,PRESIDENT,,Bob RichardsPOP,,0
@@ -1378,7 +1374,6 @@ Kanawha,652,PRESIDENT,,Bob RichardsPOP,,0
 Kanawha,653,PRESIDENT,,Bob RichardsPOP,,1
 Kanawha,655,PRESIDENT,,Bob RichardsPOP,,0
 Kanawha,656,PRESIDENT,,Bob RichardsPOP,,0
-Kanawha,Total,PRESIDENT,,Bob RichardsPOP,,81
 Kanawha,102,U.S. Senate,,Jay Rockefeller,DEM,144
 Kanawha,103,U.S. Senate,,Jay Rockefeller,DEM,217
 Kanawha,104,U.S. Senate,,Jay Rockefeller,DEM,137
@@ -1654,7 +1649,6 @@ Kanawha,652,U.S. Senate,,Jay Rockefeller,DEM,110
 Kanawha,653,U.S. Senate,,Jay Rockefeller,DEM,111
 Kanawha,655,U.S. Senate,,Jay Rockefeller,DEM,85
 Kanawha,656,U.S. Senate,,Jay Rockefeller,DEM,140
-Kanawha,Total,U.S. Senate,,Jay Rockefeller,DEM,42176
 Kanawha,102,U.S. Senate,,John Raese,REP,31
 Kanawha,103,U.S. Senate,,John Raese,REP,53
 Kanawha,104,U.S. Senate,,John Raese,REP,55
@@ -1930,7 +1924,6 @@ Kanawha,652,U.S. Senate,,John Raese,REP,102
 Kanawha,653,U.S. Senate,,John Raese,REP,170
 Kanawha,655,U.S. Senate,,John Raese,REP,103
 Kanawha,656,U.S. Senate,,John Raese,REP,164
-Kanawha,Total,U.S. Senate,,John Raese,REP,44267
 Kanawha,102,U.S. Senate,,Mary Radin,SOC,1
 Kanawha,103,U.S. Senate,,Mary Radin,SOC,0
 Kanawha,104,U.S. Senate,,Mary Radin,SOC,2
@@ -2206,7 +2199,6 @@ Kanawha,652,U.S. Senate,,Mary Radin,SOC,1
 Kanawha,653,U.S. Senate,,Mary Radin,SOC,3
 Kanawha,655,U.S. Senate,,Mary Radin,SOC,1
 Kanawha,656,U.S. Senate,,Mary Radin,SOC,2
-Kanawha,Total,U.S. Senate,,Mary Radin,SOC,410
 Kanawha,102,U.S. House,,Bob Wise,DEM,143
 Kanawha,103,U.S. House,,Bob Wise,DEM,240
 Kanawha,104,U.S. House,,Bob Wise,DEM,160
@@ -2482,7 +2474,6 @@ Kanawha,652,U.S. House,,Bob Wise,DEM,141
 Kanawha,653,U.S. House,,Bob Wise,DEM,166
 Kanawha,655,U.S. House,,Bob Wise,DEM,122
 Kanawha,656,U.S. House,,Bob Wise,DEM,194
-Kanawha,Total,U.S. House,,Bob Wise,DEM,58489
 Kanawha,102,U.S. House,,Margaret Miller,REP,25
 Kanawha,103,U.S. House,,Margaret Miller,REP,29
 Kanawha,104,U.S. House,,Margaret Miller,REP,23
@@ -2758,4 +2749,3 @@ Kanawha,652,U.S. House,,Margaret Miller,REP,70
 Kanawha,653,U.S. House,,Margaret Miller,REP,109
 Kanawha,655,U.S. House,,Margaret Miller,REP,65
 Kanawha,656,U.S. House,,Margaret Miller,REP,103
-Kanawha,Total,U.S. House,,Margaret Miller,REP,26338

@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Logan,Total,Attorney General,,REP,Daniel W.Greear,4016
-Logan,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",8544
 Logan,1,Attorney General,,REP,Daniel W.Greear,87
 Logan,10,Attorney General,,REP,Daniel W.Greear,68
 Logan,11,Attorney General,,REP,Daniel W.Greear,92
@@ -71,8 +69,6 @@ Logan,56,Attorney General,,DEM,"Darrell V. McGraw, Jr.",135
 Logan,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",303
 Logan,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",305
 Logan,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",190
-Logan,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,8336
-Logan,Total,Commissioner of Agriculture,,REP,James Michael Teets,3471
 Logan,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,328
 Logan,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,116
 Logan,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,159
@@ -143,9 +139,6 @@ Logan,56,Commissioner of Agriculture,,REP,James Michael Teets,49
 Logan,6,Commissioner of Agriculture,,REP,James Michael Teets,179
 Logan,7,Commissioner of Agriculture,,REP,James Michael Teets,158
 Logan,8,Commissioner of Agriculture,,REP,James Michael Teets,104
-Logan,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",550
-Logan,Total,Governor,,DEM,"Joe Manchin, III",10101
-Logan,Total,Governor,,REP,Russell E. Weeks Jr,2591
 Logan,1,Governor,,MTN,"Jesse C. Johnson, Jr.",31
 Logan,10,Governor,,MTN,"Jesse C. Johnson, Jr.",8
 Logan,11,Governor,,MTN,"Jesse C. Johnson, Jr.",10
@@ -251,11 +244,6 @@ Logan,56,Governor,,REP,Russell E. Weeks Jr,28
 Logan,6,Governor,,REP,Russell E. Weeks Jr,151
 Logan,7,Governor,,REP,Russell E. Weeks Jr,116
 Logan,8,Governor,,REP,Russell E. Weeks Jr,68
-Logan,Total,President,,DEM,Barack Hussein Obama,5873
-Logan,Total,President,,CON,Charles Obadiah Baldwin,45
-Logan,Total,President,,MTN,Cynthia Ann McKinney,41
-Logan,Total,President,,REP,John Sidney McCain III,7326
-Logan,Total,President,,,Ralph Nader,179
 Logan,1,President,,DEM,Barack Hussein Obama,274
 Logan,10,President,,DEM,Barack Hussein Obama,85
 Logan,11,President,,DEM,Barack Hussein Obama,115
@@ -431,8 +419,6 @@ Logan,56,President,,,Ralph Nader,4
 Logan,6,President,,,Ralph Nader,1
 Logan,7,President,,,Ralph Nader,4
 Logan,8,President,,,Ralph Nader,7
-Logan,Total,Secretary of State,,REP,Charles Theophilus Minimah,2657
-Logan,Total,Secretary of State,,DEM,Natalie Tennant,9769
 Logan,1,Secretary of State,,REP,Charles Theophilus Minimah,64
 Logan,10,Secretary of State,,REP,Charles Theophilus Minimah,50
 Logan,11,Secretary of State,,REP,Charles Theophilus Minimah,58
@@ -503,7 +489,6 @@ Logan,56,Secretary of State,,DEM,Natalie Tennant,159
 Logan,6,Secretary of State,,DEM,Natalie Tennant,410
 Logan,7,Secretary of State,,DEM,Natalie Tennant,357
 Logan,8,Secretary of State,,DEM,Natalie Tennant,217
-Logan,Total,State Auditor,,DEM,Glen B. Gainer III,9790
 Logan,1,State Auditor,,DEM,Glen B. Gainer III,335
 Logan,10,State Auditor,,DEM,Glen B. Gainer III,157
 Logan,11,State Auditor,,DEM,Glen B. Gainer III,210
@@ -539,10 +524,6 @@ Logan,56,State Auditor,,DEM,Glen B. Gainer III,152
 Logan,6,State Auditor,,DEM,Glen B. Gainer III,402
 Logan,7,State Auditor,,DEM,Glen B. Gainer III,372
 Logan,8,State Auditor,,DEM,Glen B. Gainer III,228
-Logan,Total,State House,,DEM,Greg Butcher,10461
-Logan,Total,State House,,DEM,Jeffery Eldridge,6934
-Logan,Total,State House,,DEM,Josh Daniel Stowers,6378
-Logan,Total,State House,,DEM,Ralph Rodighiero,7758
 Logan,1,State House,,DEM,Greg Butcher,318
 Logan,10,State House,,DEM,Greg Butcher,156
 Logan,11,State House,,DEM,Greg Butcher,240
@@ -683,8 +664,6 @@ Logan,56,State House,,DEM,Ralph Rodighiero,113
 Logan,6,State House,,DEM,Ralph Rodighiero,307
 Logan,7,State House,,DEM,Ralph Rodighiero,287
 Logan,8,State House,,DEM,Ralph Rodighiero,188
-Logan,Total,State Senate,,REP,Billy Marcum,2835
-Logan,Total,State Senate,,DEM,Earl Ray Tomblin,10092
 Logan,1,State Senate,,REP,Billy Marcum,81
 Logan,10,State Senate,,REP,Billy Marcum,47
 Logan,11,State Senate,,REP,Billy Marcum,68
@@ -755,7 +734,6 @@ Logan,56,State Senate,,DEM,Earl Ray Tomblin,144
 Logan,6,State Senate,,DEM,Earl Ray Tomblin,439
 Logan,7,State Senate,,DEM,Earl Ray Tomblin,392
 Logan,8,State Senate,,DEM,Earl Ray Tomblin,239
-Logan,Total,State Treasurer,,DEM,John D. Perdue,10046
 Logan,1,State Treasurer,,DEM,John D. Perdue,336
 Logan,10,State Treasurer,,DEM,John D. Perdue,158
 Logan,11,State Treasurer,,DEM,John D. Perdue,214
@@ -791,8 +769,6 @@ Logan,56,State Treasurer,,DEM,John D. Perdue,150
 Logan,6,State Treasurer,,DEM,John D. Perdue,417
 Logan,7,State Treasurer,,DEM,John D. Perdue,384
 Logan,8,State Treasurer,,DEM,John D. Perdue,234
-Logan,Total,U.S. House,3,REP,Gary Martin Gearheart,3757
-Logan,Total,U.S. House,3,DEM,"Nick Joe Rahall, II",8922
 Logan,1,U.S. House,3,REP,Gary Martin Gearheart,108
 Logan,10,U.S. House,3,REP,Gary Martin Gearheart,53
 Logan,11,U.S. House,3,REP,Gary Martin Gearheart,88
@@ -863,8 +839,6 @@ Logan,56,U.S. House,3,DEM,"Nick Joe Rahall, II",138
 Logan,6,U.S. House,3,DEM,"Nick Joe Rahall, II",355
 Logan,7,U.S. House,3,DEM,"Nick Joe Rahall, II",323
 Logan,8,U.S. House,3,DEM,"Nick Joe Rahall, II",206
-Logan,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,9148
-Logan,Total,U.S. Senate,,REP,Matthew Jay Wolfe,3814
 Logan,1,U.S. Senate,,DEM,John Davison Rockefeller IV,323
 Logan,10,U.S. Senate,,DEM,John Davison Rockefeller IV,145
 Logan,11,U.S. Senate,,DEM,John Davison Rockefeller IV,201

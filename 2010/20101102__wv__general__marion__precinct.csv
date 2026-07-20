@@ -153,8 +153,6 @@ Jeff Becker,U.S. Senate,,CON,Marion,Precinct 124 - East Dale Elementary School,3
 Jesse Johnson,U.S. Senate,,MTN,Marion,Precinct 124 - East Dale Elementary School,5
 Jeff Becker,U.S. Senate,,CON,Marion,Precinct 125 - Bunners Ridge Fire Dept.,7
 Jesse Johnson,U.S. Senate,,MTN,Marion,Precinct 125 - Bunners Ridge Fire Dept.,11
-Jeff Becker,U.S. Senate,,CON,Marion,TOTAL,205
-Jesse Johnson,U.S. Senate,,MTN,Marion,TOTAL,338
 John R. Raese,U.S. Senate,,REP,Marion,Precinct 1 - J Harper Meredith Building,29
 David B. McKinley,U.S. House,1,REP,Marion,Precinct 1 - J Harper Meredith Building,34
 Cindy Frich,State Senate,13,REP,Marion,Precinct 1 - J Harper Meredith Building,49
@@ -1002,17 +1000,6 @@ Jeff Tansill,House of Delegates,42,REP,Marion,Precinct 125 - Bunners Ridge Fire 
 Travis L. Biosser,House of Delegates,43,REP,Marion,Precinct 125 - Bunners Ridge Fire Dept.,0
 Lynette Kennedy McQuain,House of Delegates,43,REP,Marion,Precinct 125 - Bunners Ridge Fire Dept.,0
 Rick Stam,House of Delegates,43,REP,Marion,Precinct 125 - Bunners Ridge Fire Dept.,0
-John R. Raese,U.S. Senate,,REP,Marion,TOTAL,5876
-David B. McKinley,U.S. House,1,REP,Marion,TOTAL,6370
-Cindy Frich,State Senate,13,REP,Marion,TOTAL,8373
-William Griffith,House of Delegates,41,REP,Marion,TOTAL,270
-Diane Bartley,House of Delegates,41,REP,Marion,TOTAL,294
-"Edward ""Buddy"" Randolph",House of Delegates,41,REP,Marion,TOTAL,256
-Danny Hamrick,House of Delegates,41,REP,Marion,TOTAL,296
-Jeff Tansill,House of Delegates,42,REP,Marion,TOTAL,162
-Travis L. Biosser,House of Delegates,43,REP,Marion,TOTAL,4912
-Lynette Kennedy McQuain,House of Delegates,43,REP,Marion,TOTAL,4624
-Rick Stam,House of Delegates,43,REP,Marion,TOTAL,7000
 Joe Manchin III,U.S. Senate,,DEM,Marion,Precinct 1 - J Harper Meredith Building,103
 Mike Oliverio,U.S. House,1,DEM,Marion,Precinct 1 - J Harper Meredith Building,92
 Larry Edgell,State Senate,2,DEM,Marion,Precinct 1 - J Harper Meredith Building,0
@@ -1937,18 +1924,6 @@ Mike Manypenny,House of Delegates,42,DEM,Marion,Precinct 125 - Bunners Ridge Fir
 Linda Longstreth,House of Delegates,43,DEM,Marion,Precinct 125 - Bunners Ridge Fire Dept.,0
 Tim Manchin,House of Delegates,43,DEM,Marion,Precinct 125 - Bunners Ridge Fire Dept.,0
 Mike Caputo,House of Delegates,43,DEM,Marion,Precinct 125 - Bunners Ridge Fire Dept.,0
-Joe Manchin III,U.S. Senate,,DEM,Marion,TOTAL,12349
-Mike Oliverio,U.S. House,1,DEM,Marion,TOTAL,11651
-Larry Edgell,State Senate,2,DEM,Marion,TOTAL,1114
-"Robert ""Bob"" Beach",State Senate,13,DEM,Marion,TOTAL,8024
-Richard Iaquinta,House of Delegates,41,DEM,Marion,TOTAL,309
-"Samuel J. ""Sam"" Cann",House of Delegates,41,DEM,Marion,TOTAL,376
-Ron Fragale,House of Delegates,41,DEM,Marion,TOTAL,327
-Tim Miley,House of Delegates,41,DEM,Marion,TOTAL,316
-Mike Manypenny,House of Delegates,42,DEM,Marion,TOTAL,218
-Linda Longstreth,House of Delegates,43,DEM,Marion,TOTAL,10127
-Tim Manchin,House of Delegates,43,DEM,Marion,TOTAL,10021
-Mike Caputo,House of Delegates,43,DEM,Marion,TOTAL,10827
 ,Registered Voters,,,Marion,Precinct 1 - J Harper Meredith Building,650
 ,Ballots Cast,,,Marion,Precinct 1 - J Harper Meredith Building,138
 ,Registered Voters,,,Marion,Precinct 2 - Morning Star Baptist Church,860
@@ -2103,5 +2078,3 @@ Mike Caputo,House of Delegates,43,DEM,Marion,TOTAL,10827
 ,Ballots Cast,,,Marion,Precinct 124 - East Dale Elementary School,411
 ,Registered Voters,,,Marion,Precinct 125 - Bunners Ridge Fire Dept.,787
 ,Ballots Cast,,,Marion,Precinct 125 - Bunners Ridge Fire Dept.,432
-,Registered Voters,,,Marion,TOTAL,41575
-,Ballots Cast,,,Marion,TOTAL,19157

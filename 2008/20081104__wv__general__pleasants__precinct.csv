@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-Pleasants,Total,Attorney General,,REP,Daniel W.Greear,1478
-Pleasants,Total,Attorney General,,DEM,"Darrell V. McGraw, Jr.",1356
 Pleasants,1,Attorney General,,REP,Daniel W.Greear,143
 Pleasants,10,Attorney General,,REP,Daniel W.Greear,231
 Pleasants,11,Attorney General,,REP,Daniel W.Greear,98
@@ -23,8 +21,6 @@ Pleasants,6,Attorney General,,DEM,"Darrell V. McGraw, Jr.",185
 Pleasants,7,Attorney General,,DEM,"Darrell V. McGraw, Jr.",77
 Pleasants,8,Attorney General,,DEM,"Darrell V. McGraw, Jr.",62
 Pleasants,9,Attorney General,,DEM,"Darrell V. McGraw, Jr.",140
-Pleasants,Total,Commissioner of Agriculture,,DEM,Gus R. Douglass,1502
-Pleasants,Total,Commissioner of Agriculture,,REP,James Michael Teets,1343
 Pleasants,1,Commissioner of Agriculture,,DEM,Gus R. Douglass,161
 Pleasants,10,Commissioner of Agriculture,,DEM,Gus R. Douglass,218
 Pleasants,11,Commissioner of Agriculture,,DEM,Gus R. Douglass,132
@@ -47,9 +43,6 @@ Pleasants,6,Commissioner of Agriculture,,REP,James Michael Teets,234
 Pleasants,7,Commissioner of Agriculture,,REP,James Michael Teets,64
 Pleasants,8,Commissioner of Agriculture,,REP,James Michael Teets,66
 Pleasants,9,Commissioner of Agriculture,,REP,James Michael Teets,151
-Pleasants,Total,Governor,,MTN,"Jesse C. Johnson, Jr.",88
-Pleasants,Total,Governor,,DEM,"Joe Manchin, III",2235
-Pleasants,Total,Governor,,REP,Russell E. Weeks Jr,658
 Pleasants,1,Governor,,MTN,"Jesse C. Johnson, Jr.",13
 Pleasants,10,Governor,,MTN,"Jesse C. Johnson, Jr.",13
 Pleasants,11,Governor,,MTN,"Jesse C. Johnson, Jr.",5
@@ -83,11 +76,6 @@ Pleasants,6,Governor,,REP,Russell E. Weeks Jr,115
 Pleasants,7,Governor,,REP,Russell E. Weeks Jr,36
 Pleasants,8,Governor,,REP,Russell E. Weeks Jr,26
 Pleasants,9,Governor,,REP,Russell E. Weeks Jr,76
-Pleasants,Total,President,,DEM,Barack Hussein Obama,1142
-Pleasants,Total,President,,CON,Charles Obadiah Baldwin,12
-Pleasants,Total,President,,MTN,Cynthia Ann McKinney,16
-Pleasants,Total,President,,REP,John Sidney McCain III,1772
-Pleasants,Total,President,,,Ralph Nader,32
 Pleasants,1,President,,DEM,Barack Hussein Obama,112
 Pleasants,10,President,,DEM,Barack Hussein Obama,168
 Pleasants,11,President,,DEM,Barack Hussein Obama,120
@@ -143,8 +131,6 @@ Pleasants,6,President,,,Ralph Nader,2
 Pleasants,7,President,,,Ralph Nader,2
 Pleasants,8,President,,,Ralph Nader,2
 Pleasants,9,President,,,Ralph Nader,3
-Pleasants,Total,Secretary of State,,REP,Charles Theophilus Minimah,975
-Pleasants,Total,Secretary of State,,DEM,Natalie Tennant,1839
 Pleasants,1,Secretary of State,,REP,Charles Theophilus Minimah,109
 Pleasants,10,Secretary of State,,REP,Charles Theophilus Minimah,141
 Pleasants,11,Secretary of State,,REP,Charles Theophilus Minimah,53
@@ -167,7 +153,6 @@ Pleasants,6,Secretary of State,,DEM,Natalie Tennant,290
 Pleasants,7,Secretary of State,,DEM,Natalie Tennant,83
 Pleasants,8,Secretary of State,,DEM,Natalie Tennant,78
 Pleasants,9,Secretary of State,,DEM,Natalie Tennant,204
-Pleasants,Total,State Auditor,,DEM,Glen B. Gainer III,2441
 Pleasants,1,State Auditor,,DEM,Glen B. Gainer III,254
 Pleasants,10,State Auditor,,DEM,Glen B. Gainer III,361
 Pleasants,11,State Auditor,,DEM,Glen B. Gainer III,195
@@ -179,8 +164,6 @@ Pleasants,6,State Auditor,,DEM,Glen B. Gainer III,384
 Pleasants,7,State Auditor,,DEM,Glen B. Gainer III,118
 Pleasants,8,State Auditor,,DEM,Glen B. Gainer III,101
 Pleasants,9,State Auditor,,DEM,Glen B. Gainer III,265
-Pleasants,Total,State House,,REP,"Lynwood ""Woody"" Ireland",1297
-Pleasants,Total,State House,,DEM,Ronald Keith Nichols,1620
 Pleasants,1,State House,,REP,"Lynwood ""Woody"" Ireland",129
 Pleasants,10,State House,,REP,"Lynwood ""Woody"" Ireland",200
 Pleasants,11,State House,,REP,"Lynwood ""Woody"" Ireland",62
@@ -203,7 +186,6 @@ Pleasants,6,State House,,DEM,Ronald Keith Nichols,234
 Pleasants,7,State House,,DEM,Ronald Keith Nichols,67
 Pleasants,8,State House,,DEM,Ronald Keith Nichols,72
 Pleasants,9,State House,,DEM,Ronald Keith Nichols,180
-Pleasants,Total,State Senate,,REP,Donna J. Boley,2397
 Pleasants,1,State Senate,,REP,Donna J. Boley,249
 Pleasants,10,State Senate,,REP,Donna J. Boley,361
 Pleasants,11,State Senate,,REP,Donna J. Boley,158
@@ -215,7 +197,6 @@ Pleasants,6,State Senate,,REP,Donna J. Boley,406
 Pleasants,7,State Senate,,REP,Donna J. Boley,118
 Pleasants,8,State Senate,,REP,Donna J. Boley,101
 Pleasants,9,State Senate,,REP,Donna J. Boley,247
-Pleasants,Total,State Treasurer,,DEM,John D. Perdue,2307
 Pleasants,1,State Treasurer,,DEM,John D. Perdue,239
 Pleasants,10,State Treasurer,,DEM,John D. Perdue,344
 Pleasants,11,State Treasurer,,DEM,John D. Perdue,177
@@ -227,7 +208,6 @@ Pleasants,6,State Treasurer,,DEM,John D. Perdue,360
 Pleasants,7,State Treasurer,,DEM,John D. Perdue,109
 Pleasants,8,State Treasurer,,DEM,John D. Perdue,101
 Pleasants,9,State Treasurer,,DEM,John D. Perdue,249
-Pleasants,Total,U.S. House,1,DEM,Alan Bowlby Mollohan,2372
 Pleasants,1,U.S. House,1,DEM,Alan Bowlby Mollohan,236
 Pleasants,10,U.S. House,1,DEM,Alan Bowlby Mollohan,340
 Pleasants,11,U.S. House,1,DEM,Alan Bowlby Mollohan,186
@@ -239,8 +219,6 @@ Pleasants,6,U.S. House,1,DEM,Alan Bowlby Mollohan,374
 Pleasants,7,U.S. House,1,DEM,Alan Bowlby Mollohan,118
 Pleasants,8,U.S. House,1,DEM,Alan Bowlby Mollohan,101
 Pleasants,9,U.S. House,1,DEM,Alan Bowlby Mollohan,256
-Pleasants,Total,U.S. Senate,,DEM,John Davison Rockefeller IV,1787
-Pleasants,Total,U.S. Senate,,REP,Matthew Jay Wolfe,1188
 Pleasants,1,U.S. Senate,,DEM,John Davison Rockefeller IV,177
 Pleasants,10,U.S. Senate,,DEM,John Davison Rockefeller IV,262
 Pleasants,11,U.S. Senate,,DEM,John Davison Rockefeller IV,154
