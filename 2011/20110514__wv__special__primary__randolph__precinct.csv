@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes,election day,early voting
+candidate,office,district,party,county,precinct,votes,election_day,early_voting
 Bill Maloney,Governor,,R,Randolph,Precinct,200,199,0
 Ralph William Clark,Governor,,R,Randolph,Precinct,3,3,0
 Larry V. Faircloth,Governor,,R,Randolph,Precinct,5,5,0

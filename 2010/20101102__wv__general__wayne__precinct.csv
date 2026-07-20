@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes,election day,early voting
+candidate,office,district,party,county,precinct,votes,election_day,early_voting
 ,Registered Voters,,,Wayne,Precinct 1,1252,,
 ,Ballots Cast,,,Wayne,Precinct 1,430,430,0
 ,Straight Party,,REP,Wayne,Precinct 1,58,58,0

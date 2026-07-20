@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes,election day,early voting
+candidate,office,district,party,county,precinct,votes,election_day,early_voting
 ,Registered Voters,,,Berkeley,PRECINCT 1,890,,
 ,Ballots Cast,,,Berkeley,PRECINCT 1,173,135,38
 ,Straight Party,,Republican,Berkeley,PRECINCT 1,14,12,2

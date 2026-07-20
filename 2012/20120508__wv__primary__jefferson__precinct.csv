@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes,early voting,election day
+candidate,office,district,party,county,precinct,votes,early_voting,election_day
 Keith Judd,President,,DEM,Jefferson,Precinct 2,12,3,9
 Barack Obama,President,,DEM,Jefferson,Precinct 2,79,21,58
 Sheirl Fletcher,U.S. Senate,,DEM,Jefferson,Precinct 2,25,7,18

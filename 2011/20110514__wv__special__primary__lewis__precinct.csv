@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes,election day,early voting
+candidate,office,district,party,county,precinct,votes,election_day,early_voting
 ,Registered Voters,,Democratic,Lewis,Precinct 1,103,,
 ,Registered Voters,,Republican,Lewis,Precinct 1,36,,
 ,Ballots Cast,,Democratic,Lewis,Precinct 1,33,33,0
